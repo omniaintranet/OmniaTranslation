@@ -1,0 +1,28 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Yêu cầu ký duyệt",
+          "Description": "Cho phép yêu cầu ký duyệt.",
+          "Category": "Hệ thống"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Xóa Câu hỏi",
+      "ExportToExcel": "Xuất ra Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vui lòng chỉnh sửa các câu hỏi cho biểu mẫu này trong Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Mẫu yêu cầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu/yêu cầu định kỳ nào được sử dụng cho mẫu yêu cầu này trước khi thử lại việc xóa.",
+        "ErrorMessageTypeInUse": "Loại yêu cầu hiện đang được sử dụng và không thể xóa. Vui lòng đảm bảo rằng không có yêu cầu/ yêu cầu định kỳ nào được sử dụng cho loại yêu cầu này trước khi thử lại việc xóa."
+      }
+    }
+  }
+}
