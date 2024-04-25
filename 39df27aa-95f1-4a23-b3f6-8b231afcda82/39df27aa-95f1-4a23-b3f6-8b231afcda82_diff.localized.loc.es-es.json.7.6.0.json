@@ -1,0 +1,28 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Solicitud de aprobación",
+          "Description": "Habilitar solicitudes de aprobación.",
+          "Category": "Sistema"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Eliminar pregunta",
+      "ExportToExcel": "Exportar a Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Por favor, edite las preguntas de este formulario en Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "La plantillade solicitud está actualmente en uso y no se puede eliminar. Asegúrese de que nohaya solicitudes o solicitudes recurrentes que utilicen esta plantilla de solicitud antes de intentar eliminarla nuevamente.",
+        "ErrorMessageTypeInUse": "El tipo de solicitud está actualmente en uso y no se puede eliminar. Asegúrese de que no haya solicitudes o solicitudes recurrentes que utilicen este tipo de solicitud antes de intentar eliminarlo nuevamente."
+      }
+    }
+  }
+}
