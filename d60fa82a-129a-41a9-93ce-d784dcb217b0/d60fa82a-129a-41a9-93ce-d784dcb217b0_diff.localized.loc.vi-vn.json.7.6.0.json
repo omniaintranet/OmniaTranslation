@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "Tìm kiếm SharePoint",
+          "Settings": {
+            "IncludeEmpty": "Bao gồm trống",
+            "IncludeChildTerms": "Bao gồm thuật ngữ con"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Thủ công",
+              "QueryParameter": "Tham số truy vấn",
+              "UserLanguage": "Ngôn ngữ người dùng",
+              "UserEmail": "Email người dùng",
+              "CurrentUserName": "Tên người dùng hiện tại",
+              "CurrentUserId": "ID người dùnghiện tại",
+              "CurrentUserEmail": "Email người dùng hiện tại"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Chọn tài liệu",
+              "UseQueryBuilder": "Sử dụng Trình tạo truy vấn"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Theo thứ tự chữ cái",
+              "Count": "Theo số lượng"
+            },
+            "Operators": {
+              "Equals": "Bằng",
+              "StartWith": "Bắt đầu bằng",
+              "Contains": "Chứa",
+              "LessThan": "Nhỏ hơn",
+              "GreaterThan": "Lớn hơn"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Giá trị cố định",
+              "CurrentPage": "Tranghiện tại",
+              "User": "Người dùng"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Hiển thị thuộc tính chồng lên",
+            "ShowOverlayOnFocus": "Hiển thị chồng lên khi tập trung"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Chế độ cổ điển",
+          "Social": "Chế độ xã hội"
+        },
+        "DateType": "Loại ngày",
+        "DateFormat": "Định dạng ngày"
+      },
+      "Common": {
+        "DatePropDialog": "Hộp thoại Ngày"
+      }
+    }
+  }
+}
