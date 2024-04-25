@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint-haku",
+          "Settings": {
+            "IncludeEmpty": "Sisällytä tyhjät",
+            "IncludeChildTerms": "Sisällytä alatermit"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manuaalinen",
+              "QueryParameter": "Kyselyparametri",
+              "UserLanguage": "Käyttäjän kieli",
+              "UserEmail": "Käyttäjän sähköposti",
+              "CurrentUserName": "Nykyisen käyttäjän nimi",
+              "CurrentUserId": "Nykyisen käyttäjän tunnus",
+              "CurrentUserEmail": "Nykyisen käyttäjän sähköposti"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Valitse asiakirjat",
+              "UseQueryBuilder": "Käytä kyselyrakentajaa"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Aakkosjärjestys",
+              "Count": "Lukumäärä"
+            },
+            "Operators": {
+              "Equals": "Yhtä suuri kuin",
+              "StartWith": "Alkaa merkillä",
+              "Contains": "Sisältää",
+              "LessThan": "Pienempi kuin",
+              "GreaterThan": "Suurempi kuin"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Kiinteä arvo",
+              "CurrentPage": "Nykyinen sivu",
+              "User": "Käyttäjä"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Näytä päällekkäisominaisuus",
+            "ShowOverlayOnFocus": "Näytä päällekkäinen tarkennuksessa"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Klassinen",
+          "Social": "Sosiaalinen"
+        },
+        "DateType": "Päivämäärätyyppi",
+        "DateFormat": "Päivämäärän muoto"
+      },
+      "Common": {
+        "DatePropDialog": "Päivämäärävalintaikkuna"
+      }
+    }
+  }
+}
