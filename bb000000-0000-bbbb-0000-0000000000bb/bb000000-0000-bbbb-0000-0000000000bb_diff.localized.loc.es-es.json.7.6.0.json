@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Subíndice",
+          "Superscript": "Superíndice"
+        },
+        "Tooltip": {
+          "Subscript": "Subíndice",
+          "Superscript": "Superíndice"
+        }
+      }
+    }
+  }
+}
