@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "Búsqueda de SharePoint",
+          "Settings": {
+            "IncludeEmpty": "Incluir vacío",
+            "IncludeChildTerms": "Incluir términos secundarios"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manual",
+              "QueryParameter": "Parámetro de consulta",
+              "UserLanguage": "Idioma del usuario",
+              "UserEmail": "Correo electrónico del usuario",
+              "CurrentUserName": "Nombre de usuario actual",
+              "CurrentUserId": "ID de usuario actual",
+              "CurrentUserEmail": "Correo electrónico del usuario actual"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Seleccionar documentos",
+              "UseQueryBuilder": "Usar generador de consultas"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alfabético",
+              "Count": "Conteo"
+            },
+            "Operators": {
+              "Equals": "Igual a",
+              "StartWith": "Comienza con",
+              "Contains": "Contiene",
+              "LessThan": "Menor que",
+              "GreaterThan": "Mayor que"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Valor fijo",
+              "CurrentPage": "Página actual",
+              "User": "Usuario"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Mostrar propiedad de superposición",
+            "ShowOverlayOnFocus": "Mostrar superposición al enfocar"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Clásico",
+          "Social": "Social"
+        },
+        "DateType": "Tipo de fecha",
+        "DateFormat": "Formato de fecha"
+      },
+      "Common": {
+        "DatePropDialog": "Diálogo de fecha"
+      }
+    }
+  }
+}
