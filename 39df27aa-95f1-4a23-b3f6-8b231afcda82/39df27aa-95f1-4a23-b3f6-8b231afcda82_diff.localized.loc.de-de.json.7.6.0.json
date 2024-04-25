@@ -1,0 +1,28 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Sign-off-Anfrage",
+          "Description": "Aktivieren Sie Sign-off-Anfragen.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Frage löschen",
+      "ExportToExcel": "In Excel exportieren",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Bitte bearbeiten Sie die Fragen für dieses Formular im Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Die Vorlagenvorlage wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Anfragen/ wiederkehrende Anfragen für diese Vorlagenvorlage verwendet werden, bevor Sie erneut versuchen, sie zu löschen.",
+        "ErrorMessageTypeInUse": "Der Anfragetyp wird derzeit verwendet und kann nicht gelöscht werden. Stellen Sie bitte sicher, dass keine Anfragen/ wiederkehrende Anfragen für diesen Anfragetyp verwendet werden, bevor Sie erneutversuchen, ihn zu löschen."
+      }
+    }
+  }
+}
