@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint-søk",
+          "Settings": {
+            "IncludeEmpty": "Inkluder tomme",
+            "IncludeChildTerms": "Inkluder underordnede vilkår"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manuell",
+              "QueryParameter": "Spørringsparameter",
+              "UserLanguage": "Brukerspråk",
+              "UserEmail": "Bruker-e-post",
+              "CurrentUserName": "Gjeldende brukernavn",
+              "CurrentUserId": "Gjeldende bruker-ID",
+              "CurrentUserEmail": "Gjeldende bruker-e-post"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Velg dokumenter",
+              "UseQueryBuilder": "Bruk spørringsbygger"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alfabetisk",
+              "Count": "Antall"
+            },
+            "Operators": {
+              "Equals": "Lik",
+              "StartWith": "Starter med",
+              "Contains": "Inneholder",
+              "LessThan": "Mindre enn",
+              "GreaterThan": "Større enn"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Fast verdi",
+              "CurrentPage": "Gjeldende side",
+              "User": "Bruker"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Vis overleggsegenskap",
+            "ShowOverlayOnFocus": "Vis overlegg ved fokus"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Klassisk",
+          "Social": "Sosial"
+        },
+        "DateType": "Datotype",
+        "DateFormat": "Datoformat"
+      },
+      "Common": {
+        "DatePropDialog": "Dialogdato"
+      }
+    }
+  }
+}
