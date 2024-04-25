@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Sænket skrift",
+          "Superscript": "Hævet skrift"
+        },
+        "Tooltip": {
+          "Subscript": "Sænket skrift",
+          "Superscript": "Hævet skrift"
+        }
+      }
+    }
+  }
+}
