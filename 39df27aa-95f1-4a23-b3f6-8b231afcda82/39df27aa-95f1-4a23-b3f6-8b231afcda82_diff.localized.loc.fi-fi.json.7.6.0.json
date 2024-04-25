@@ -1,0 +1,28 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Hyväksyntäpyyntö",
+          "Description": "Ota käyttöön hyväksyntäpyynnöt.",
+          "Category": "Järjestelmä"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Poista kysymys",
+      "ExportToExcel": "Vie Exceliin",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Muokkaa kysymyksiä tähän lomakkeeseen vain Omnia Adminissa."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Pyyntöpohjaa käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei tähän pyyntöpohjaan ole liitetty pyyntöjä tai toistuvia pyyntöjä ennen poistamisyritystä.",
+        "ErrorMessageTypeInUse": "Pyyntötyyppiä käytetään tällä hetkellä eikä sitä voi poistaa. Varmista, ettei tähän pyyntötyyppiin ole liitetty pyyntöjä tai toistuvia pyyntöjä ennen poistamisyritystä."
+      }
+    }
+  }
+}
