@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint Search",
+          "Settings": {
+            "IncludeEmpty": "Include Empty",
+            "IncludeChildTerms": "Include Child Terms"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manual",
+              "QueryParameter": "Query parameter",
+              "UserLanguage": "User language",
+              "UserEmail": "User email",
+              "CurrentUserName": "Current user name",
+              "CurrentUserId": "Current user id",
+              "CurrentUserEmail": "Current user e-mail"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Pick Documents",
+              "UseQueryBuilder": "Use Query Builder"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alphabetic",
+              "Count": "Count"
+            },
+            "Operators": {
+              "Equals": "Equals",
+              "StartWith": "Start with",
+              "Contains": "Contains",
+              "LessThan": "Less than",
+              "GreaterThan": "Greater than"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Fixed value",
+              "CurrentPage": "Current page",
+              "User": "User"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Show overlay property",
+            "ShowOverlayOnFocus": "Show overlay on focus"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Classic",
+          "Social": "Social"
+        },
+        "DateType": "Date type",
+        "DateFormat": "Date format"
+      },
+      "Common": {
+        "DatePropDialog": "Dialog Date"
+      }
+    }
+  }
+}
