@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint-sökning",
+          "Settings": {
+            "IncludeEmpty": "Inkludera tomma",
+            "IncludeChildTerms": "Inkludera underordnade termer"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manuell",
+              "QueryParameter": "Frågeparameter",
+              "UserLanguage": "Användarens språk",
+              "UserEmail": "Användarens e-post",
+              "CurrentUserName": "Aktuell användarnamn",
+              "CurrentUserId": "Aktuell användar-ID",
+              "CurrentUserEmail": "Aktuell användarens e-post"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Välj dokument",
+              "UseQueryBuilder": "Använd frågebyggaren"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alfabetisk",
+              "Count": "Antal"
+            },
+            "Operators": {
+              "Equals": "Lika med",
+              "StartWith": "Börjar med",
+              "Contains": "Innehåller",
+              "LessThan": "Mindre än",
+              "GreaterThan": "Större än"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Fast värde",
+              "CurrentPage": "Aktuell sida",
+              "User": "Användare"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Visa överlagringsegenskap",
+            "ShowOverlayOnFocus": "Visa överlagring vid fokus"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Klassisk",
+          "Social": "Social"
+        },
+        "DateType": "Datumtyp",
+        "DateFormat": "Datumformat"
+      },
+      "Common": {
+        "DatePropDialog": "Dialogdatum"
+      }
+    }
+  }
+}
