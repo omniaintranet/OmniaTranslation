@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint-Suche",
+          "Settings": {
+            "IncludeEmpty": "Leere einbeziehen",
+            "IncludeChildTerms": "Untergeordnete Begriffe einbeziehen"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Manuell",
+              "QueryParameter": "Abfrageparameter",
+              "UserLanguage": "Benutzersprache",
+              "UserEmail": "Benutzer-E-Mail",
+              "CurrentUserName": "Aktueller Benutzername",
+              "CurrentUserId": "Aktuelle Benutzer-ID",
+              "CurrentUserEmail": "Aktuelle Benutzer-E-Mail"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Dokumente auswählen",
+              "UseQueryBuilder": "Abfrage-Generator verwenden"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alphabetisch",
+              "Count": "Anzahl"
+            },
+            "Operators": {
+              "Equals": "Gleich",
+              "StartWith": "Beginnt mit",
+              "Contains": "Enthält",
+              "LessThan": "Kleiner als",
+              "GreaterThan": "Größer als"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Fester Wert",
+              "CurrentPage": "Aktuelle Seite",
+              "User": "Benutzer"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Overlay-Eigenschaft anzeigen",
+            "ShowOverlayOnFocus": "Overlay beim Fokusanzeigen"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Klassisch",
+          "Social": "Sozial"
+        },
+        "DateType": "Datentyp",
+        "DateFormat": "Datumsformat"
+      },
+      "Common": {
+        "DatePropDialog": "Dialogdatum"
+      }
+    }
+  }
+}
