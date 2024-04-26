@@ -1,0 +1,28 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Sign-off request",
+          "Description": "Enable sign-off requests.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Delete Question",
+      "ExportToExcel": "Export to Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Please edit the questions for this form in Omnia Admin."
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "The request template is currently in use and cannot be deleted. Please make sure that there are no requests/ recurring requests used to this request template before attempting to delete it again.",
+        "ErrorMessageTypeInUse": "The request type is currently in use and cannot be deleted. Please make sure that there are no requests/ recurring requests used to this request type before attempting to delete it again."
+      }
+    }
+  }
+}
