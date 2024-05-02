@@ -1,0 +1,69 @@
+{
+  "WCM": {
+    "MediaRollup": {
+      "Providers": {
+        "SpsSearch": {
+          "Title": "SharePoint Zoeken",
+          "Settings": {
+            "IncludeEmpty": "Inclusief leeg",
+            "IncludeChildTerms": "Inclusief kindtermen"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "Manual": "Handmatig",
+              "QueryParameter": "Queryparameter",
+              "UserLanguage": "Gebruikerstaal",
+              "UserEmail": "Gebruikerse-mail",
+              "CurrentUserName": "Huidige gebruikersnaam",
+              "CurrentUserId": "Huidige gebruikers-id",
+              "CurrentUserEmail": "Huidige gebruikerse-mail"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Documenten selecteren",
+              "UseQueryBuilder": "Query Builder gebruiken"
+            },
+            "RefinerOrderBys": {
+              "Alphabetic": "Alfabetisch",
+              "Count": "Aantal"
+            },
+            "Operators": {
+              "Equals": "Gelijk aan",
+              "StartWith": "Begint met",
+              "Contains": "Bevat",
+              "LessThan": "Kleiner dan",
+              "GreaterThan": "Groter dan"
+            },
+            "TaxonomyFilterTypes": {
+              "FixedValue": "Vaste waarde",
+              "CurrentPage": "Huidige pagina",
+              "User": "Gebruiker"
+            }
+          }
+        }
+      },
+      "Views": {
+        "PhotowallView": {
+          "Settings": {
+            "ShowOverlayProperty": "Overlay-eigenschap weergeven",
+            "ShowOverlayOnFocus": "Overlay weergeven bij focus"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "DateTimeMode": {
+          "Normal": "Klassiek",
+          "Social": "Sociaal"
+        },
+        "DateType": "Datumtype",
+        "DateFormat": "Datumformaat"
+      },
+      "Common": {
+        "DatePropDialog": "Datum dialoogvenster"
+      }
+    }
+  }
+}
