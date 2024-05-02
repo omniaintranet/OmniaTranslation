@@ -1,0 +1,31 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Demande de validation",
+          "Description": "Activer les demandes de validation.",
+          "Category": "Système"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Supprimer la question",
+      "ExportToExcel": "Exporter vers Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Veuillez modifier les questions de ce formulaire dans Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* La date de fin doit être supérieure à la date de début"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Le modèle de demande est actuellement utilisé et ne peut pas être supprimé. Veuillez vous assurer qu'il n'y a pas de demandes/répétitions utilisant ce modèle de demande avant de tenter de le supprimer à nouveau.",
+        "ErrorMessageTypeInUse": "Le type de demande est actuellement utilisé et ne peut pas être supprimé. Veuillez vous assurer qu'il n'y a pas de demandes/répétitions utilisant ce type de demande avant de tenter de le supprimer à nouveau."
+      }
+    }
+  }
+}
