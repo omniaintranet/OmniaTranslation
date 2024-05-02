@@ -1,0 +1,31 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Goedkeuringsverzoek",
+          "Description": "Schakel goedkeuringsverzoeken in.",
+          "Category": "Systeem"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Verwijder vraag",
+      "ExportToExcel": "Exporteren naar Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Bewerk de vragen voor dit formulieralleen in Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Einddatum moet groter zijn dan startdatum"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Het sjabloon voor het verzoek is momenteel in gebruik en kan niet worden verwijderd.Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die gebruik maken van dit sjabloon voordat u opnieuw probeert te verwijderen.",
+        "ErrorMessageTypeInUse": "Het verzoektype is momenteel in gebruik en kan niet worden verwijderd. Zorg ervoor dat er geen verzoeken/herhalende verzoeken zijn die gebruik maken van dit verzoektype voordat u opnieuw probeert te verwijderen."
+      }
+    }
+  }
+}
