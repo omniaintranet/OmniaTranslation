@@ -1,0 +1,31 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Signeringsbegäran",
+          "Description": "Aktivera signeringsbegäran.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Ta bort fråga",
+      "ExportToExcel": "Exportera till Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vänligen redigera frågorna för detta formulär i Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Slutdatum måste vara större än startdatum"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Mall förbegäran används för närvarande och kan inte tas bort. Se till att det inte finnsnågra begäranden/återkommande begäranden kopplade till denna mall innan du försöker ta bort den igen.",
+        "ErrorMessageTypeInUse": "Begärandetypen används för närvarande och kan inte tas bort. Se till att det inte finns några begäranden/återkommande begäranden kopplade till denna typ innan du försöker ta bort den igen."
+      }
+    }
+  }
+}
