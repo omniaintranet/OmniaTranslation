@@ -1,0 +1,31 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Godkjenningssøknad",
+          "Description": "Aktiver godkjenningssøknader.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Slett spørsmål",
+      "ExportToExcel": "Eksporter til Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Vennligst rediger spørsmålene for dette skjemaet i Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Sluttdato må være større enn startdato"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Malen forforespørselen er for øyeblikket i bruk og kan ikke slettes. Vennligst sørg for at det ikke er noen forespørsler/gjentakende forespørsler som bruker denne malenfør du prøver å slette den igjen.",
+        "ErrorMessageTypeInUse": "Forespørslene er forøyeblikket i bruk og kan ikke slettes. Vennligst sørg for at det ikke er noen forespørsler/gjentakende forespørsler som bruker denne typen før du prøver å slette den igjen."
+      }
+    }
+  }
+}
