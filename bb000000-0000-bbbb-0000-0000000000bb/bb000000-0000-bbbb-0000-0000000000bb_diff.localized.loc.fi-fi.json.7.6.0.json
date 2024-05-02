@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Alaindeksi",
+          "Superscript": "Yläindeksi"
+        },
+        "Tooltip": {
+          "Subscript": "Alaindeksi",
+          "Superscript": "Yläindeksi"
+        }
+      }
+    }
+  }
+}
