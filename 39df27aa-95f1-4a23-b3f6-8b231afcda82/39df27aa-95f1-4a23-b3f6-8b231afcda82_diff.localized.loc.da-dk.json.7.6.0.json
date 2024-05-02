@@ -1,0 +1,31 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "SignOffRequest": {
+          "Title": "Godkendelsesanmodning",
+          "Description": "Aktivér godkendelsesanmodninger.",
+          "Category": "System"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Sletspørgsmål",
+      "ExportToExcel": "Eksportér til Excel",
+      "Admin": {
+        "Editor": {
+          "OnlyEditInAdmin": "Rediger venligst spørgsmålene for denne formular i Omnia Admin."
+        },
+        "Validation": {
+          "EndDateMustBeGreaterThanStartDate": "* Slutdato skal værestørre end startdato"
+        }
+      }
+    },
+    "SignOffRequest": {
+      "Dialog": {
+        "ErrorMessageTemplateInUse": "Skabelonen er i øjeblikket i brug og kan ikke slettes. Sørg for, at der ikke er nogen anmodninger/gentagne anmodninger, der bruger denne skabelon, før du forsøger at slette den igen.",
+        "ErrorMessageTypeInUse": "Anmodningstypen er i øjeblikket i brug og kan ikke slettes. Sørg for, at der ikke er nogen anmodninger/gentagne anmodninger, der bruger denne anmodningstype, før du forsøger at slette den igen."
+      }
+    }
+  }
+}
