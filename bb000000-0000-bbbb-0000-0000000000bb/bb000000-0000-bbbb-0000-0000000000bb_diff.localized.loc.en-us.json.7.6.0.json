@@ -1,0 +1,32 @@
+{
+  "Omnia": {
+    "Ux": {
+      "DateTimeFilterQuery": {
+        "DatePeriods": {
+          "OneWeekFromNow": "One week from now",
+          "TwoWeeksFromNow": "Two weeks from now",
+          "OneMonthFromNow": "One month from now",
+          "EarlierThanNow": "Earlier than now",
+          "LaterThanNow": "Later than now",
+          "Now": "Now"
+        }
+      },
+      "PermissionInput": {
+        "DirectoryReader": "Directory reader"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "Subscript": "Subscript",
+          "Superscript": "Superscript"
+        },
+        "Tooltip": {
+          "Subscript": "Subscript",
+          "Superscript": "Superscript"
+        }
+      }
+    },
+    "TermPicker": {
+      "Search": "Find term ..."
+    }
+  }
+}
