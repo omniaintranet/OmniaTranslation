@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          }
+        },
+        "Widget": {
+          "Settings": {
+            "OptionalQuery": "Optional querystring"
+          }
+        }
+      }
+    },
+    "Forms": {
+      "Scope": {
+        "Deleted": "[Deleted]"
+      }
+    },
+    "SignOffRequest": {
+      "DeletingTemplateInUseMessage": "Template \"{{templateName}}\" cannot be removed because it is in use."
+    },
+    "UserManagement": {
+      "Users": {
+        "UserDetails": "User details"
+      },
+      "Groups": {
+        "GroupDetails": "Group details"
+      }
+    }
+  }
+}
