@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "PermissionInput": {
+        "DirectoryReader": "Directory reader"
+      }
+    },
+    "SPServer": {
+      "Ux": {
+        "IdentityExternalMappings": {
+          "SharePointEveryone": "Everyone"
+        }
+      }
+    }
+  }
+}
