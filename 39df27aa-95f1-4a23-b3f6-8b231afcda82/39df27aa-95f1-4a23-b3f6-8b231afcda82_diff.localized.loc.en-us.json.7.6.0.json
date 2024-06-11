@@ -1,0 +1,63 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          }
+        },
+        "Widget": {
+          "Settings": {
+            "OptionalQuery": "Optional querystring"
+          }
+        }
+      }
+    },
+    "AnalyticsFilter": {
+      "Periods": {
+        "Day": "Day",
+        "Week": "Week",
+        "Month": "Month",
+        "Year": "Year"
+      },
+      "EndPosition": {
+        "Day": {
+          "Today": "Today",
+          "Yesterday": "Yesterday",
+          "TodayPrevYear": "Today previous year",
+          "YesterdayPrevYear": "Yesterday previous year"
+        },
+        "Week": {
+          "ThisWeek": "This week",
+          "LastWeek": "Previous week",
+          "ThisWeekPrevYear": "This week previous year",
+          "LastWeekPrevYear": "Last week previous year"
+        },
+        "Month": {
+          "ThisMonth": "This month",
+          "LastMonth": "Previous month",
+          "ThisMonthPrevYear": "This month previous year",
+          "LastMonthPrevYear": "Last month previous year"
+        },
+        "Custom": "Custom"
+      }
+    },
+    "Forms": {
+      "Scope": {
+        "Deleted": "[Deleted]"
+      }
+    },
+    "SignOffRequest": {
+      "DeletingTemplateInUseMessage": "Template \"{{templateName}}\" cannot be removed because it is in use."
+    },
+    "UserManagement": {
+      "Users": {
+        "UserDetails": "User details"
+      },
+      "Groups": {
+        "GroupDetails": "Group details"
+      }
+    }
+  }
+}
