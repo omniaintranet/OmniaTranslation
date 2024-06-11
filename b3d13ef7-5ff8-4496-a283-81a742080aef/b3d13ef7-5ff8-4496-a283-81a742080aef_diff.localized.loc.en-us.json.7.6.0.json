@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "DeletedUser": "Deleted User"
+      }
+    }
+  }
+}
