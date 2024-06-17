@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Requête"
+          },
+          "Settings": {
+            "UseFilterConnection": "Connecter au filtre",
+            "ViewSelect": "Vue"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Rapport d'analyse",
+          "BlockDescription": "Présente un rapport d'analyse",
+          "EmptyMessage": "Veuillez configurer le graphique d'analyse que vous souhaitez afficher",
+          "FilterWarning": "Note ! Certains filtres ne sont pas appliqués en raison d'une configuration manquante sur le profil d'entreprise sélectionné.",
+          "BusinessProfileNotConfigured": "Erreur ! Le profil d'entreprise sélectionné n'a pas de configuration d'analyse",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "Sorting": {
+              "Ascending": "Croissant",
+              "Descending": "Décroissant"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Vue en cartes",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "ShowPagination": "Afficher la pagination",
+            "ShowFlat": "Afficher à plat",
+            "ShowColumn": "Afficher la colonne",
+            "CustomLabel": "Étiquette personnalisée",
+            "Description": "Description",
+            "ShowLabel": "Afficher l'étiquette"
+          }
+        },
+        "TableView": {
+          "Title": "Vue en tableau",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "ShowPagination": "Afficher la pagination",
+            "ShowFlat": "Afficher à plat",
+            "Columns": {
+              "CustomLabel": "Étiquette personnalisée",
+              "ShowLabel": "Afficher l'étiquette",
+              "Title": "Colonnes",
+              "Width": "Largeur",
+              "AddColumn": "Ajouter une colonne"
+            },
+            "BuiltInColumns": {
+              "Icon": "Icône",
+              "TitleAndLink": "Titre et lien",
+              "OpenNewWindow": "Ouvrir dans une nouvelle fenêtre"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Icône",
+              "TitleAndLink": "Titre",
+              "OpenNewWindow": "Ouvrir dans une nouvelle fenêtre"
+            }
+          }
+        }
+      }
+    }
+  }
+}
