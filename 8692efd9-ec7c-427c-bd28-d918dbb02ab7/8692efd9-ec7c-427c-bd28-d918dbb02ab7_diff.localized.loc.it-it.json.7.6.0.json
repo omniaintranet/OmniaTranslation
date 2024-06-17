@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Modulo Leggibile per Tutti",
+          "EnableFormReadableForAll": "Abilita modulo leggibile per tutti"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Risincronizzazione Contenuti Schede",
+          "Description": "Quando si fa clic sul pulsante sottostante, gli articoli di notizie appartenenti a questo profilo aziendale verranno eliminati e risincronizzati nuovamente.",
+          "ConfirmationMessage": "Sei sicuro di voler risincronizzare gli articoli di notizie per questo profilo aziendale?",
+          "Progress": "Risincronizzazione degli articoli di notizie per questo profilo aziendale in corso",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "La risincronizzazione è in corso, potrebbe richiedere del tempo per completarsi."
+        },
+        "ResyncUsers": {
+          "Title": "Risincronizzazione Utenti",
+          "TitleSyncSelectedUsers": "Risincronizza Utenti Selezionati",
+          "TitleSyncAllUsers": "Risincronizza Tutti gli Utenti",
+          "LabelUserToReSync": "Utenti da sincronizzare",
+          "SyncSelectedUsersDescription": "Seleziona e risincronizza gli utenti.",
+          "SyncAllUsersDescription": "Risincronizza tutti gli utenti disponibili nel tenant. Ciò sincronizzerà tutti gli utenti con tutti i dati delle notizie",
+          "ResyncAllUsersBtn": "Risincronizza Tutti gli Utenti",
+          "ResyncSelectedUserBtn": "Risincronizza Utenti",
+          "Dialog": {
+            "TitleResyncUsers": "Risincronizzazione utenti",
+            "MessageResyncUsers": "Vuoi risincronizzare per questi utenti?",
+            "TitleResyncAllUsers": "Risincronizza tutti gli utenti",
+            "MessageResyncAllUsers": "Vuoi risincronizzare tutti gli utenti nel tenant? Ciò richiederà del tempo per completarsi."
+          },
+          "ResyncStatus": {
+            "None": "Non Iniziato",
+            "InProgress": "In Corso",
+            "Completed": "Completato",
+            "DoneWithFailures": "Completato con errori"
+          },
+          "Progression": {
+            "ResyncDate": "Data di Risincronizzazione",
+            "Status": "Stato",
+            "TrackingId": "ID di Monitoraggio",
+            "UsersSynced": "Utenti Sincronizzati"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Componenti aggiuntivi",
+          "Description": "Abilita l'utilizzo di Azure Intune con l'app Omnia Feed"
+        }
+      }
+    }
+  }
+}
