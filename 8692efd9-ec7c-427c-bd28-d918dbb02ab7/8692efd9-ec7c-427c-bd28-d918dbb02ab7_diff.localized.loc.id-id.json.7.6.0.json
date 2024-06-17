@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formulir Dapat Dibaca oleh Semua",
+          "EnableFormReadableForAll": "Aktifkan formulir dapat dibaca oleh semua"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Resinkronisasi Konten Tab",
+          "Description": "Ketika Anda mengklik tombol di bawah ini, artikel berita yang terkait dengan profil bisnis ini akan dihapus dan disinkronkan kembali.",
+          "ConfirmationMessage": "Apakah Anda yakin ingin melakukan resinkronisasi artikel berita untuk profil bisnis ini?",
+          "Progress": "Resinkronisasi artikel berita untuk profil bisnis ini sedang berjalan",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resinkronisasi sedang diproses, ini mungkin memakan waktu beberapa saat untuk selesai."
+        },
+        "ResyncUsers": {
+          "Title": "Resinkronisasi Pengguna",
+          "TitleSyncSelectedUsers": "Resinkronisasi Pengguna Terpilih",
+          "TitleSyncAllUsers": "Resinkronisasi Semua Pengguna",
+          "LabelUserToReSync": "Pengguna yang akan disinkronkan",
+          "SyncSelectedUsersDescription": "Pilih dan resinkronkan pengguna.",
+          "SyncAllUsersDescription": "Resinkronisasi semua pengguna yang tersedia di tenant. Ini akan menyinkronkan setiap pengguna dengan semua data berita",
+          "ResyncAllUsersBtn": "Resinkronisasi Semua Pengguna",
+          "ResyncSelectedUserBtn": "Resinkronisasi Pengguna",
+          "Dialog": {
+            "TitleResyncUsers": "Resinkronisasi pengguna",
+            "MessageResyncUsers": "Apakah Anda ingin melakukan resinkronisasi untukpengguna ini?",
+            "TitleResyncAllUsers": "Resinkronisasi semua pengguna",
+            "MessageResyncAllUsers": "Apakah Anda ingin melakukan resinkronisasi untuk semua pengguna di tenant? Ini akan memakan waktu beberapa saat untuk selesai."
+          },
+          "ResyncStatus": {
+            "None": "Belum Dimulai",
+            "InProgress": "Sedang Berlangsung",
+            "Completed": "Selesai",
+            "DoneWithFailures": "Selesai dengan Kegagalan"
+          },
+          "Progression": {
+            "ResyncDate": "Tanggal Resinkronisasi",
+            "Status": "Status",
+            "TrackingId": "ID Pelacakan",
+            "UsersSynced": "Pengguna yang Disinkronkan"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Aktifkan penggunaan Azure Intune dengan aplikasi Omnia Feed"
+        }
+      }
+    }
+  }
+}
