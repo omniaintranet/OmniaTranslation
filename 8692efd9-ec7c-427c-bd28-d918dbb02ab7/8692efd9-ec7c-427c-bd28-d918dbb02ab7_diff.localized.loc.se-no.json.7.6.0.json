@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Sáddejuvvon formáhttit bures buot olbmáid mielde",
+          "EnableFormReadableForAll": "Aktivere formáhttit bures buot olbmáid mielde"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabs sisdoallit resync",
+          "Description": "Go čállat oktii ovdal goažis, sáhtát sisdoallit leaikkasartihkkalat dieđuid dán biebmu profiilii ja resyncet sin sisa.",
+          "ConfirmationMessage": "Leat sáhtán go resyncet leaikkasartihkkalat dán biebmu profiilii?",
+          "Progress": "Resync leaikkasartihkkalat dán biebmu profiilii lea bargat",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync lea bargat, dat sáhttá váldit áigi ahte buktet."
+        },
+        "ResyncUsers": {
+          "Title": "Geavahit resync",
+          "TitleSyncSelectedUsers": "Resync váldit olbmáid",
+          "TitleSyncAllUsers": "Resync buot olbmáid",
+          "LabelUserToReSync": "Olmmáivuođđu resyncet",
+          "SyncSelectedUsersDescription": "Váldet ja resyncet olbmáid.",
+          "SyncAllUsersDescription": "Resync buot leatvai olbmáid tenantas. Dát resyncet buot olbmáid sin dieđuid",
+          "ResyncAllUsersBtn": "Resync buot olbmáid",
+          "ResyncSelectedUserBtn": "Resync olbmáid",
+          "Dialog": {
+            "TitleResyncUsers": "Resync olbmáid",
+            "MessageResyncUsers": "Leat sáhtán go resyncet dán olbmáid?",
+            "TitleResyncAllUsers": "Resync buot olbmáid",
+            "MessageResyncAllUsers": "Leat sáhtán go resyncet buot olbmáid tenantas?Dát sáhttá váldit áigi ahte buktet."
+          },
+          "ResyncStatus": {
+            "None": "Eai leat álki",
+            "InProgress": "Bargá",
+            "Completed": "Bargá",
+            "DoneWithFailures": "Bargá"
+          },
+          "Progression": {
+            "ResyncDate": "Resync dátum",
+            "Status": "Álki",
+            "TrackingId": "Jearahallan Id",
+            "UsersSynced": "Olbmáid resyncet"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Aktivere Azure Intune geavahit OmniaFeed appa"
+        }
+      }
+    }
+  }
+}
