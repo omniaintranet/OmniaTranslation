@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formulär läsbart för alla",
+          "EnableFormReadableForAll": "Aktivera formulär läsbart för alla"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Synkronisera flikinnehåll",
+          "Description": "När du klickar på knappen nedan kommer nyhetsartiklar som tillhör denna företagsprofil att raderas och synkroniseras igen.",
+          "ConfirmationMessage": "Är du säker på att du vill synkronisera nyhetsartiklar för denna företagsprofil?",
+          "Progress": "Synkronisering av nyhetsartiklar för denna företagsprofil pågår",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronisering pågår, det kan ta lite tid att slutföra."
+        },
+        "ResyncUsers": {
+          "Title": "Synkronisera användare",
+          "TitleSyncSelectedUsers": "Synkronisera valda användare",
+          "TitleSyncAllUsers": "Synkronisera alla användare",
+          "LabelUserToReSync": "Användare att synkronisera",
+          "SyncSelectedUsersDescription": "Välj och synkronisera användare.",
+          "SyncAllUsersDescription": "Synkronisera alla tillgängliga användare i hyresgästen. Detta kommer att synkronisera alla användare med all nyhetsdata",
+          "ResyncAllUsersBtn": "Synkronisera alla användare",
+          "ResyncSelectedUserBtn": "Synkronisera användare",
+          "Dialog": {
+            "TitleResyncUsers": "Synkronisera användare",
+            "MessageResyncUsers": "Vill du synkronisera för dessa användare?",
+            "TitleResyncAllUsers": "Synkronisera alla användare",
+            "MessageResyncAllUsers": "Vill du synkronisera alla användare i hyresgästen? Detta kan ta lite tid att slutföra."
+          },
+          "ResyncStatus": {
+            "None": "Inte påbörjad",
+            "InProgress": "Pågår",
+            "Completed": "Slutförd",
+            "DoneWithFailures": "Klar"
+          },
+          "Progression": {
+            "ResyncDate": "Synkroniseringsdatum",
+            "Status": "Status",
+            "TrackingId": "Spårnings-ID",
+            "UsersSynced": "Användare synkroniserade"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Tillägg",
+          "Description": "Aktivera användning av Azure Intune med Omnia Feed-appen"
+        }
+      }
+    }
+  }
+}
