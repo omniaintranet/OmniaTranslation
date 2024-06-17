@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Форма доступна для всіх",
+          "EnableFormReadableForAll": "Увімкнути доступ до форми для всіх"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Синхронізація вмісту вкладок",
+          "Description": "При натисканні на кнопку нижче, новинні статті, що належать до цього бізнес-профілю, будуть видалені та знову синхронізовані.",
+          "ConfirmationMessage": "Ви впевнені, що хочете синхронізувати новинні статті для цього бізнес-профілю?",
+          "Progress": "Виконується синхронізація новинних статей для цього бізнес-профілю",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Виконується синхронізація, це може зайняти деякий час."
+        },
+        "ResyncUsers": {
+          "Title": "Синхронізація користувачів",
+          "TitleSyncSelectedUsers": "Синхронізувати вибраних користувачів",
+          "TitleSyncAllUsers": "Синхронізувати всіх користувачів",
+          "LabelUserToReSync": "Користувачі для синхронізації",
+          "SyncSelectedUsersDescription": "Виберіть та синхронізуйте користувачів.",
+          "SyncAllUsersDescription": "Синхронізувати всі доступні користувачів в орендарі. Це синхронізує всіх користувачів з усіма даними новин",
+          "ResyncAllUsersBtn": "Синхронізувати всіх користувачів",
+          "ResyncSelectedUserBtn": "Синхронізувати користувачів",
+          "Dialog": {
+            "TitleResyncUsers": "Синхронізація користувачів",
+            "MessageResyncUsers": "Ви хочете синхронізувати цих користувачів?",
+            "TitleResyncAllUsers": "Синхронізувати всіх користувачів",
+            "MessageResyncAllUsers": "Ви хочете синхронізувати всіх користувачів в орендарі? Це займе деякий час для завершення."
+          },
+          "ResyncStatus": {
+            "None": "Не розпочато",
+            "InProgress": "В процесі",
+            "Completed": "Завершено",
+            "DoneWithFailures": "Завершено з помилками"
+          },
+          "Progression": {
+            "ResyncDate": "Дата синхронізації",
+            "Status": "Статус",
+            "TrackingId": "Ідентифікатор відстеження",
+            "UsersSynced": "Синхронізовані користувачі"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Додатки",
+          "Description": "Увімкнути використання Azure Intune з додатком Omnia Feed"
+        }
+      }
+    }
+  }
+}
