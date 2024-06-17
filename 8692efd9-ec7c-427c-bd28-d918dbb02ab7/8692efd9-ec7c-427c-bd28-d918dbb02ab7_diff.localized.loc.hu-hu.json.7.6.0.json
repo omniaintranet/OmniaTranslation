@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Űrlap olvasható mindenkinek",
+          "EnableFormReadableForAll": "Űrlap olvashatóvá tételemindenkinek"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Lapok tartalmának újraszinkronizálása",
+          "Description": "Amikor az alábbi gombra kattint, a vállalatiprofilhoz tartozó hírcikkek törlődnek és újraszinkronizálódnak.",
+          "ConfirmationMessage": "Biztosan újraszinkronizálni szeretné a vállalati profilhoz tartozó hírcikkeket?",
+          "Progress": "A vállalati profilhez tartozó hírcikkek újraszinkronizálása folyamatban",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "A szinkronizálás folyamatban van, ez időbe telhet."
+        },
+        "ResyncUsers": {
+          "Title": "Felhasználók újraszinkronizálása",
+          "TitleSyncSelectedUsers": "Kiválasztott felhasználók újraszinkronizálása",
+          "TitleSyncAllUsers": "Minden felhasználó újraszinkronizálása",
+          "LabelUserToReSync": "Szinkronizálandó felhasználók",
+          "SyncSelectedUsersDescription": "Válassza ki és szinkronizálja a felhasználókat.",
+          "SyncAllUsersDescription": "Minden elérhető felhasználó újraszinkronizálása a bérlőben. Ez minden felhasználót szinkronizál az összes hír adatával.",
+          "ResyncAllUsersBtn": "Minden felhasználó újraszinkronizálása",
+          "ResyncSelectedUserBtn": "Felhasználók újraszinkronizálása",
+          "Dialog": {
+            "TitleResyncUsers": "Felhasználók újraszinkronizálása",
+            "MessageResyncUsers": "Szeretné újraszinkronizálni ezeket a felhasználókat?",
+            "TitleResyncAllUsers": "Minden felhasználó újraszinkronizálása",
+            "MessageResyncAllUsers": "Szeretné újraszinkronizálni az összes felhasználót a bérlőben? Ez időbe telhet a befejezéséhez."
+          },
+          "ResyncStatus": {
+            "None": "Nem indult el",
+            "InProgress": "Folyamatban",
+            "Completed": "Befejeződött",
+            "DoneWithFailures": "Kész"
+          },
+          "Progression": {
+            "ResyncDate": "Újraszinkronizálás dátuma",
+            "Status": "Állapot",
+            "TrackingId": "Nyomkövetési azonosító",
+            "UsersSynced": "Szinkronizált felhasználók"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Kiegészítők",
+          "Description": "Engedélyezze az Azure Intune használatát az Omnia Feed alkalmazással"
+        }
+      }
+    }
+  }
+}
