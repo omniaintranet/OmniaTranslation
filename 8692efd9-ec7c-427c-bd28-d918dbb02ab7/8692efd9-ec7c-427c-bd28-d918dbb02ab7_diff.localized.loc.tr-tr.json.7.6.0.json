@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Herkese Okunabilir Form",
+          "EnableFormReadableForAll": "Herkese okunabilir formu etkinleştir"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Sekmeler İçeriği Yeniden SenkronizeEt",
+          "Description": "Aşağıdaki düğmeye tıkladığınızda, bu işletme profiline ait haber makaleleri silinecek ve yeniden senkronize edilecektir.",
+          "ConfirmationMessage": "Bu işletme profili için haber makalelerini yeniden senkronize etmek istediğinizden emin misiniz?",
+          "Progress": "Bu işletme profili için haber makaleleri yeniden senkronize ediliyor",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Senkronizasyon işlemi devam ediyor, tamamlanması biraz zaman alabilir."
+        },
+        "ResyncUsers": {
+          "Title": "Kullanıcıları Yeniden Senkronize Et",
+          "TitleSyncSelectedUsers": "Seçilen Kullanıcıları Senkronize Et",
+          "TitleSyncAllUsers": "Tüm Kullanıcıları Senkronize Et",
+          "LabelUserToReSync": "Senkronize edilecek kullanıcılar",
+          "SyncSelectedUsersDescription": "Kullanıcıları seçin ve senkronize edin.",
+          "SyncAllUsersDescription": "Kiracıdaki tüm kullanıcıları senkronize edin. Bu, tüm kullanıcıları tüm haber verileriyle senkronize edecektir.",
+          "ResyncAllUsersBtn": "Tüm Kullanıcıları Senkronize Et",
+          "ResyncSelectedUserBtn": "Kullanıcıları Senkronize Et",
+          "Dialog": {
+            "TitleResyncUsers": "Kullanıcıları Senkronize Et",
+            "MessageResyncUsers": "Bu kullanıcılar için senkronize etmek istiyor musunuz?",
+            "TitleResyncAllUsers": "Tüm kullanıcıları senkronize et",
+            "MessageResyncAllUsers": "Kiracıdaki tüm kullanıcıları senkronize etmek istiyor musunuz? Bu işlem tamamlanması biraz zaman alabilir."
+          },
+          "ResyncStatus": {
+            "None": "Başlatılmadı",
+            "InProgress": "Devam Ediyor",
+            "Completed": "Tamamlandı",
+            "DoneWithFailures": "Tamamlandı (Hatalarla)"
+          },
+          "Progression": {
+            "ResyncDate": "Senkronizasyon tarihi",
+            "Status": "Durum",
+            "TrackingId": "Takip Kimliği",
+            "UsersSynced": "Senkronize edilen kullanıcılar"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Eklentiler",
+          "Description": "Omnia Feed uygulamasında Azure Intune kullanımını etkinleştir"
+        }
+      }
+    }
+  }
+}
