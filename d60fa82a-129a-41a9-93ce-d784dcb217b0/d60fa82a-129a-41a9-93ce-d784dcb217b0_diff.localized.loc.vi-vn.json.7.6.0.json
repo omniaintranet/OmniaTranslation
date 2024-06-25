@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Truy vấn"
+          },
+          "Settings": {
+            "UseFilterConnection": "Kết nối với bộ lọc",
+            "ViewSelect": "Chế độ xem"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Báo cáo phân tích",
+          "BlockDescription": "Hiển thị báo cáo phân tích",
+          "EmptyMessage": "Vui lòng cấu hình đồ thị phân tích bạn muốn hiển thị",
+          "FilterWarning": "Lưu ý! Một số bộ lọc không được áp dụng do thiếu cấu hình trên hồ sơ kinh doanh đã chọn.",
+          "BusinessProfileNotConfigured": "Lỗi! Hồ sơ kinh doanh đã chọn chưa được cấu hình phân tích",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Chế độ xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Cột sắp xếp",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "Sorting": {
+              "Ascending": "Tăng dần",
+              "Descending": "Giảm dần"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Chế độ xem thẻ",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Chế độ xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Cột sắp xếp",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "ShowPagination": "Hiển thị phân trang",
+            "ShowFlat": "Hiển thị phẳng",
+            "ShowColumn": "Hiển thị cột",
+            "CustomLabel": "Nhãn tùy chỉnh",
+            "Description": "Mô tả",
+            "ShowLabel": "Hiển thị nhãn"
+          }
+        },
+        "TableView": {
+          "Title": "Chế độ xem bảng",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Chế độ xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Cột sắp xếp",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "ShowPagination": "Hiển thị phân trang",
+            "ShowFlat": "Hiển thị phẳng",
+            "Columns": {
+              "CustomLabel": "Nhãn tùy chỉnh",
+              "ShowLabel": "Hiển thị nhãn",
+              "Title": "Các cột",
+              "Width": "Độ rộng",
+              "AddColumn": "Thêm cột"
+            },
+            "BuiltInColumns": {
+              "Icon": "Biểu tượng",
+              "TitleAndLink": "Tiêu đề và liên kết",
+              "OpenNewWindow": "Mở trong cửa sổ mới"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Biểu tượng",
+              "TitleAndLink": "Tiêu đề",
+              "OpenNewWindow": "Mở trong cửa sổ mới"
+            }
+          }
+        }
+      }
+    }
+  }
+}
