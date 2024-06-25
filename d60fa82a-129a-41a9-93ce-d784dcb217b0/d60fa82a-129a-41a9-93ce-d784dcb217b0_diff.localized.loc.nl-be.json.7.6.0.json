@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          },
+          "Settings": {
+            "UseFilterConnection": "Verbinden met filter",
+            "ViewSelect": "Weergave"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analyserapport",
+          "BlockDescription": "Toont een analyserapport",
+          "EmptyMessage": "Configureer de gewenste analysegroep",
+          "FilterWarning": "Opgelet! Sommige filters worden niet toegepast vanwege ontbrekende configuratie in het geselecteerde bedrijfsprofiel.",
+          "BusinessProfileNotConfigured": "Fout! Het geselecteerde bedrijfsprofiel heeft geen geconfigureerde analyse",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "Sorting": {
+              "Ascending": "Oplopend",
+              "Descending": "Aflopend"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kaartweergave",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "ShowPagination": "Paginering tonen",
+            "ShowFlat": "Platte weergave tonen",
+            "ShowColumn": "Kolom tonen",
+            "CustomLabel": "Aangepast label",
+            "Description": "Beschrijving",
+            "ShowLabel": "Label tonen"
+          }
+        },
+        "TableView": {
+          "Title": "Tabelweergave",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "ShowPagination": "Paginering tonen",
+            "ShowFlat": "Platte weergave tonen",
+            "Columns": {
+              "CustomLabel": "Aangepast label",
+              "ShowLabel": "Label tonen",
+              "Title": "Kolommen",
+              "Width": "Breedte",
+              "AddColumn": "Kolom toevoegen"
+            },
+            "BuiltInColumns": {
+              "Icon": "Pictogram",
+              "TitleAndLink": "Titel en link",
+              "OpenNewWindow": "Openen in nieuw venster"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Pictogram",
+              "TitleAndLink": "Titel",
+              "OpenNewWindow": "Openen in nieuw venster"
+            }
+          }
+        }
+      }
+    }
+  }
+}
