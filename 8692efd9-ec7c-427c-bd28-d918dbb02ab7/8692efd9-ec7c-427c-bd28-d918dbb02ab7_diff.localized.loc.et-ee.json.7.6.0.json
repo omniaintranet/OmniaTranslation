@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Vorm loetav kõigile",
+          "EnableFormReadableForAll": "Luba vormi lugemine kõigile"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Vahekaartide sisu sünkroonimine",
+          "Description": "Kui klõpsate allpool oleval nupul, kustutatakse selle ärilise profiili uudiste artiklid ja sünkroonitakse uuesti.",
+          "ConfirmationMessage": "Kas olete kindel, et soovite selle ärilise profiili uudiste artiklid uuesti sünkroonida?",
+          "Progress": "Selle ärilise profiili uudiste artiklite sünkroonimine on käimas",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Sünkroonimine on käimas, see võib võtta aega."
+        },
+        "ResyncUsers": {
+          "Title": "Kasutajate sünkroonimine",
+          "TitleSyncSelectedUsers": "Valitud kasutajate sünkroonimine",
+          "TitleSyncAllUsers": "Kõikide kasutajate sünkroonimine",
+          "LabelUserToReSync": "Sünkroonitavad kasutajad",
+          "SyncSelectedUsersDescription": "Valige ja sünkroonige kasutajad.",
+          "SyncAllUsersDescription": "Sünkroonige kõik saadaval olevad kasutajad üürnikus. See sünkroonib kõigi kasutajate kõik uudiste andmed.",
+          "ResyncAllUsersBtn": "Sünkrooni kõik kasutajad",
+          "ResyncSelectedUserBtn": "Sünkrooni kasutajad",
+          "Dialog": {
+            "TitleResyncUsers": "Kasutajate sünkroonimine",
+            "MessageResyncUsers": "Kas soovite nende kasutajate jaoks sünkroonida?",
+            "TitleResyncAllUsers": "Kõikide kasutajate sünkroonimine",
+            "MessageResyncAllUsers": "Kas soovite kõik üürniku kasutajad uuesti sünkroonida? Selle lõpuleviimine võib võtta aega."
+          },
+          "ResyncStatus": {
+            "None": "Alustamata",
+            "InProgress": "Käimas",
+            "Completed": "Lõpetatud",
+            "DoneWithFailures": "Valmis"
+          },
+          "Progression": {
+            "ResyncDate": "Sünkroonimise kuupäev",
+            "Status": "Staatus",
+            "TrackingId": "Jälgimis-ID",
+            "UsersSynced": "Sünkroonitud kasutajad"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Lisad",
+          "Description": "Luba Omnia Feed rakenduses Azure Intune kasutamine"
+        }
+      }
+    }
+  }
+}
