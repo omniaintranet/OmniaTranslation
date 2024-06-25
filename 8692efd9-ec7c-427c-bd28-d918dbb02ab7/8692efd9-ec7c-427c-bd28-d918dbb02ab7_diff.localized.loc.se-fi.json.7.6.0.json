@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Sáddejuvvon fálaldat bures",
+          "EnableFormReadableForAll": "Čállit sáddejuvvon fálaldat bures"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabulára sáhtát resync",
+          "Description": "Go čállit oktii áššit, sáhtát sáddejuvvot áššit mii leat dán biebmu profiilas.",
+          "ConfirmationMessage": "Leatgo duođaid sáhtát resync áššitdán biebmu profiilas?",
+          "Progress": "Resync áššit dán biebmu profiilas lea bargan",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync lea bargan, dat sáhttá čuovvut oktii áiggi."
+        },
+        "ResyncUsers": {
+          "Title": "Geavahit resync",
+          "TitleSyncSelectedUsers": "Resync valdalaččat geavaheami",
+          "TitleSyncAllUsers": "Resync bures geavaheami",
+          "LabelUserToReSync": "Geavaheamit resync",
+          "SyncSelectedUsersDescription": "Valdda ja resync geavaheamit.",
+          "SyncAllUsersDescription": "Resync bures leatnji geavaheamit tenantas. Dát sáhttá resyncet bures geavaheamit bures áššiid dáta.",
+          "ResyncAllUsersBtn": "Resync bures geavaheamit",
+          "ResyncSelectedUserBtn": "Resync geavaheamit",
+          "Dialog": {
+            "TitleResyncUsers": "Resync geavaheamit",
+            "MessageResyncUsers": "Leatgo duođaid resync geavaheamit dán biebmu profiilas?",
+            "TitleResyncAllUsers": "Resync bures geavaheamit",
+            "MessageResyncAllUsers": "Leatgo duođaid resync bures geavaheamit tenantas? Dát sáhttá čuovvut oktii áiggi."
+          },
+          "ResyncStatus": {
+            "None": "Eai leat álki",
+            "InProgress": "Bargá",
+            "Completed": "Bargá",
+            "DoneWithFailures": "Bargá"
+          },
+          "Progression": {
+            "ResyncDate": "Resync dáta",
+            "Status": "Álki",
+            "TrackingId": "Jearahallan Id",
+            "UsersSynced": "Geavaheamit resyncet"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Čállit Azure Intune Omnia Feed appa mielde"
+        }
+      }
+    }
+  }
+}
