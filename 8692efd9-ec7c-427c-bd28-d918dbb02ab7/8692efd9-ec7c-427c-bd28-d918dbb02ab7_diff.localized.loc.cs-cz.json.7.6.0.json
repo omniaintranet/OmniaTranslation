@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formulář čitelný pro všechny",
+          "EnableFormReadableForAll": "Povolit čitelnost formuláře pro všechny"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Synchronizace obsahu karet",
+          "Description": "Po kliknutí na tlačítko níže budou smazány a znovu synchronizovány novinky patřící k tomuto firemnímu profilu.",
+          "ConfirmationMessage": "Opravdu chcete znovu synchronizovat novinky protento firemní profil?",
+          "Progress": "Probíhá synchronizace novinek pro tento firemní profil",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Probíhá synchronizace, může to chvíli trvat."
+        },
+        "ResyncUsers": {
+          "Title": "Synchronizace uživatelů",
+          "TitleSyncSelectedUsers": "Synchronizovat vybrané uživatele",
+          "TitleSyncAllUsers": "Synchronizovat všechny uživatele",
+          "LabelUserToReSync": "Uživatelé k synchronizaci",
+          "SyncSelectedUsersDescription": "Vyberte a synchronizujte uživatele.",
+          "SyncAllUsersDescription": "Synchronizovat všechny dostupné uživatelev nájemci. Tímto se synchronizují všichni uživatelé se všemi novinkami",
+          "ResyncAllUsersBtn": "Synchronizovat všechny uživatele",
+          "ResyncSelectedUserBtn": "Synchronizovat uživatele",
+          "Dialog": {
+            "TitleResyncUsers": "Synchronizace uživatelů",
+            "MessageResyncUsers": "Chcete synchronizovat tyto uživatele?",
+            "TitleResyncAllUsers": "Synchronizovat všechny uživatele",
+            "MessageResyncAllUsers": "Chcete synchronizovat všechny uživatele v nájemci? Toto může chvíli trvat."
+          },
+          "ResyncStatus": {
+            "None": "Nezahájeno",
+            "InProgress": "Probíhá",
+            "Completed": "Dokončeno",
+            "DoneWithFailures": "Dokončeno s chybami"
+          },
+          "Progression": {
+            "ResyncDate": "Datum synchronizace",
+            "Status": "Stav",
+            "TrackingId": "Sledovací ID",
+            "UsersSynced": "Synchronizovaní uživatelé"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Doplňky",
+          "Description": "Povolit používání Azure Intune s aplikací Omnia Feed"
+        }
+      }
+    }
+  }
+}
