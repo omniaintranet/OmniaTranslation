@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Biểu mẫu có thể đọc được cho tất cả",
+          "EnableFormReadableForAll": "Bật chế độ biểu mẫu có thể đọc được cho tất cả"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Đồng bộ lại nội dung tab",
+          "Description": "Khi bạn nhấp vào nút dưới đây, các bài viết tin tức thuộc hồ sơ doanh nghiệp này sẽ bị xóa và đồng bộ lại.",
+          "ConfirmationMessage": "Bạn có chắc chắn muốn đồng bộ lại các bài viết tin tức cho hồ sơ doanh nghiệp này không?",
+          "Progress": "Đang đồng bộ lại các bài viếttin tức cho hồ sơ doanh nghiệp này",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Đang xử lý đồng bộ, có thể mất một thời gian để hoàn thành."
+        },
+        "ResyncUsers": {
+          "Title": "Đồng bộ lại người dùng",
+          "TitleSyncSelectedUsers": "Đồng bộ lại người dùng đã chọn",
+          "TitleSyncAllUsers": "Đồng bộ lại tất cả người dùng",
+          "LabelUserToReSync": "Người dùng cần đồng bộ",
+          "SyncSelectedUsersDescription": "Chọn và đồng bộ lại người dùng.",
+          "SyncAllUsersDescription": "Đồng bộ lại tất cả người dùng có sẵn trong tenant. Điều này sẽ đồng bộ tất cả người dùng với tất cả dữ liệu tin tức",
+          "ResyncAllUsersBtn": "Đồng bộ lại tất cả người dùng",
+          "ResyncSelectedUserBtn": "Đồng bộ lại người dùng",
+          "Dialog": {
+            "TitleResyncUsers": "Đồng bộ lại người dùng",
+            "MessageResyncUsers": "Bạn có muốn đồng bộ lại cho những người dùng này không?",
+            "TitleResyncAllUsers": "Đồng bộ lại tất cả người dùng",
+            "MessageResyncAllUsers": "Bạn có muốn đồng bộ lại tất cả người dùng trong tenant không? Điều này sẽ mất một thời gian để hoàn thành."
+          },
+          "ResyncStatus": {
+            "None": "Chưa bắt đầu",
+            "InProgress": "Đang tiến hành",
+            "Completed": "Hoàn thành",
+            "DoneWithFailures": "Hoàn thành với lỗi"
+          },
+          "Progression": {
+            "ResyncDate": "Ngày đồng bộ lại",
+            "Status": "Trạng thái",
+            "TrackingId": "Mã theo dõi",
+            "UsersSynced": "Người dùng đã đồng bộ"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Tiện ích bổ sung",
+          "Description": "Bật sử dụng Azure Intune với ứng dụng Omnia Feed"
+        }
+      }
+    }
+  }
+}
