@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Sáddejuvvon formuláráid buohkaid jaoks",
+          "EnableFormReadableForAll": "Aktiveerit sáddejuvvon formuláráid buohkaid jaoks"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabulárasisdan resynkroniseren",
+          "Description": "Go klikket álgoáššiin, sáhtát sáddejuvvotja resynkroniseret ovttas sáddejuvvon ođđa áššiid dán lihkademiin.",
+          "ConfirmationMessage": "Leatgo sáhtát resynkroniseret sáddejuvvon ođđa áššiid dán lihkademiin?",
+          "Progress": "Resynkroniseret sáddejuvvon ođđa áššiid dán lihkademiin lea bargan",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resynkronisering lea bargan, dat galgá váldit oktii áigi."
+        },
+        "ResyncUsers": {
+          "Title": "Geavahit resynkroniseringa",
+          "TitleSyncSelectedUsers": "Resynkronisere valdalaččat geavaheami",
+          "TitleSyncAllUsers": "Resynkronisere buohccat geavaheami",
+          "LabelUserToReSync": "Geavaheami resynkronisere",
+          "SyncSelectedUsersDescription": "Valdda ja resynkronisere geavaheami.",
+          "SyncAllUsersDescription": "Resynkronisere buohccat geavaheami tenantas. Dát resynkronisere buohccat geavaheami áššiid",
+          "ResyncAllUsersBtn": "Resynkronisere buohccat geavaheami",
+          "ResyncSelectedUserBtn": "Resynkronisere geavaheami",
+          "Dialog": {
+            "TitleResyncUsers": "Resynkronisere geavaheami",
+            "MessageResyncUsers": "Leatgo resynkronisere dán geavaheami?",
+            "TitleResyncAllUsers": "Resynkronisere buohccat geavaheami",
+            "MessageResyncAllUsers": "Leatgo resynkronisere buohccat geavaheami tenantas? Dát galgá váldit oktii áigi."
+          },
+          "ResyncStatus": {
+            "None": "Eai leat álgán",
+            "InProgress": "Bargá",
+            "Completed": "Bargá",
+            "DoneWithFailures": "Bargá"
+          },
+          "Progression": {
+            "ResyncDate": "Resynkroniseret dáta",
+            "Status": "Status",
+            "TrackingId": "Jearahallan Id",
+            "UsersSynced": "Geavaheami resynkronisere"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Aktiveerit Azure Intune Omnia Feed appa"
+        }
+      }
+    }
+  }
+}
