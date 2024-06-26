@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          },
+          "Settings": {
+            "UseFilterConnection": "Connect to filter",
+            "ViewSelect": "View"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analytics Report",
+          "BlockDescription": "Presents an analytics report",
+          "EmptyMessage": "Pleaseconfigure the analytics graph you want to show",
+          "FilterWarning": "Note! some filters are not applied due to missing configuration on selected business profile.",
+          "BusinessProfileNotConfigured": "Error! The selected business profile has not analytics configured",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "Sorting": {
+              "Ascending": "Ascending",
+              "Descending": "Descending"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Card View",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "ShowPagination": "Show pagination",
+            "ShowFlat": "Show flat",
+            "ShowColumn": "Show column",
+            "CustomLabel": "Custom label",
+            "Description": "Description",
+            "ShowLabel": "Show label"
+          }
+        },
+        "TableView": {
+          "Title": "Table View",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "ShowPagination": "Show pagination",
+            "ShowFlat": "Show flat",
+            "Columns": {
+              "CustomLabel": "Custom label",
+              "ShowLabel": "Show label",
+              "Title": "Columns",
+              "Width": "Width",
+              "AddColumn": "Add column"
+            },
+            "BuiltInColumns": {
+              "Icon": "Icon",
+              "TitleAndLink": "Title and link",
+              "OpenNewWindow": "Open in new window"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Icon",
+              "TitleAndLink": "Title",
+              "OpenNewWindow": "Open in new window"
+            }
+          }
+        }
+      }
+    }
+  }
+}
