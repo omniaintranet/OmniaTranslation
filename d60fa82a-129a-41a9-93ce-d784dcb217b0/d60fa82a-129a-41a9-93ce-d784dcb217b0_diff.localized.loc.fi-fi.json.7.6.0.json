@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Kysely"
+          },
+          "Settings": {
+            "UseFilterConnection": "Yhdistä suodattimeen",
+            "ViewSelect": "Näkymä"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analytiikkaraportti",
+          "BlockDescription": "Esittää analytiikkaraportin",
+          "EmptyMessage": "Määritä haluamasi analytiikkakaavio",
+          "FilterWarning": "Huomio! Joitain suodattimia ei olekäytössä valitun liiketoimintaprofiilin puuttuvan määrityksen vuoksi.",
+          "BusinessProfileNotConfigured": "Virhe! Valitulla liiketoimintaprofiililla ei ole määritettyä analytiikkaa",
+          "Settings": {
+            "ShowInBlock": "Näytä",
+            "CategoryLabel": "Kategoria",
+            "ReportLabel": "Raportti",
+            "ReportViewLabel": "Raporttinäkymä",
+            "Websites": "Verkkosivustot",
+            "SortColumn": "Lajittelusarake",
+            "SortOrder": "Lajittelujärjestys",
+            "ItemLimit": "Kohtien rajoitus",
+            "Sorting": {
+              "Ascending": "Nouseva",
+              "Descending": "Laskeva"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Korttinäkymä",
+          "Settings": {
+            "ShowInBlock": "Näytä",
+            "CategoryLabel": "Kategoria",
+            "ReportLabel": "Raportti",
+            "ReportViewLabel": "Raporttinäkymä",
+            "Websites": "Verkkosivustot",
+            "SortColumn": "Lajittelusarake",
+            "SortOrder": "Lajittelujärjestys",
+            "ItemLimit": "Kohtien rajoitus",
+            "ShowPagination": "Näytä sivutus",
+            "ShowFlat": "Näytä tasossa",
+            "ShowColumn": "Näytä sarake",
+            "CustomLabel": "Mukautettu tunniste",
+            "Description": "Kuvaus",
+            "ShowLabel": "Näytä tunniste"
+          }
+        },
+        "TableView": {
+          "Title": "Taulukkonäkymä",
+          "Settings": {
+            "ShowInBlock": "Näytä",
+            "CategoryLabel": "Kategoria",
+            "ReportLabel": "Raportti",
+            "ReportViewLabel": "Raporttinäkymä",
+            "Websites": "Verkkosivustot",
+            "SortColumn": "Lajittelusarake",
+            "SortOrder": "Lajittelujärjestys",
+            "ItemLimit": "Kohtien rajoitus",
+            "ShowPagination": "Näytä sivutus",
+            "ShowFlat": "Näytä tasossa",
+            "Columns": {
+              "CustomLabel": "Mukautettu tunniste",
+              "ShowLabel": "Näytä tunniste",
+              "Title": "Sarakkeet",
+              "Width": "Leveys",
+              "AddColumn": "Lisää sarake"
+            },
+            "BuiltInColumns": {
+              "Icon": "Kuvake",
+              "TitleAndLink": "Otsikko ja linkki",
+              "OpenNewWindow": "Avaa uudessa ikkunassa"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Kuvake",
+              "TitleAndLink": "Otsikko",
+              "OpenNewWindow": "Avaa uudessa ikkunassa"
+            }
+          }
+        }
+      }
+    }
+  }
+}
