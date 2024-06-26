@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Skjema lesbar for alle",
+          "EnableFormReadableForAll": "Aktiver skjema lesbar for alle"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Synkroniser innhold i faner",
+          "Description": "Når du klikker på knappen nedenfor, vil nyhetsartikler tilhørende denne bedriftsprofilen bli slettet og synkronisert på nytt.",
+          "ConfirmationMessage": "Er du sikker på at du vil synkronisere nyhetsartikler for denne bedriftsprofilen på nytt?",
+          "Progress": "Synkronisering av nyhetsartikler for denne bedriftsprofilen pågår",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronisering pågår, det kan ta litt tid å fullføre."
+        },
+        "ResyncUsers": {
+          "Title": "Synkroniser brukere",
+          "TitleSyncSelectedUsers": "Synkroniser valgte brukere",
+          "TitleSyncAllUsers": "Synkroniser alle brukere",
+          "LabelUserToReSync": "Brukere å synkronisere",
+          "SyncSelectedUsersDescription": "Velg og synkroniser brukere.",
+          "SyncAllUsersDescription": "Synkroniser alle tilgjengelige brukere i leietakeren. Dette vil synkronisere alle brukere med all nyhetsdata.",
+          "ResyncAllUsersBtn": "Synkroniser alle brukere",
+          "ResyncSelectedUserBtn": "Synkroniser brukere",
+          "Dialog": {
+            "TitleResyncUsers": "Synkroniser brukere",
+            "MessageResyncUsers": "Vil du synkronisere for disse brukerne?",
+            "TitleResyncAllUsers": "Synkroniser alle brukere",
+            "MessageResyncAllUsers": "Vil du synkronisere alle brukere i leietakeren? Dette vil ta litt tid å fullføre."
+          },
+          "ResyncStatus": {
+            "None": "Ikke startet",
+            "InProgress": "Pågår",
+            "Completed": "Fullført",
+            "DoneWithFailures": "Fullført med feil"
+          },
+          "Progression": {
+            "ResyncDate": "Synkroniseringsdato",
+            "Status": "Status",
+            "TrackingId": "Sporings-ID",
+            "UsersSynced": "Brukere synkronisert"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Tillegg",
+          "Description": "Aktiver bruk av Azure Intune med Omnia Feed-appen"
+        }
+      }
+    }
+  }
+}
