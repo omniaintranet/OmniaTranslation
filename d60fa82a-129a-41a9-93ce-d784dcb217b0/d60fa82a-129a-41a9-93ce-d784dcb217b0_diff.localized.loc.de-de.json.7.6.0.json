@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Abfrage"
+          },
+          "Settings": {
+            "UseFilterConnection": "Mit Filter verbinden",
+            "ViewSelect": "Ansicht"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analysebericht",
+          "BlockDescription": "Stellt einen Analysebericht dar",
+          "EmptyMessage": "Bitte konfigurieren Sie das Analyse-Diagramm, das Sie anzeigen möchten",
+          "FilterWarning": "Hinweis! Einige Filter werden aufgrund fehlender Konfiguration im ausgewählten Geschäftsprofil nicht angewendet.",
+          "BusinessProfileNotConfigured": "Fehler! Das ausgewählte Geschäftsprofil hat keine Analyse konfiguriert",
+          "Settings": {
+            "ShowInBlock": "Anzeigen",
+            "CategoryLabel": "Kategorie",
+            "ReportLabel": "Bericht",
+            "ReportViewLabel": "Berichtsansicht",
+            "Websites": "Websites",
+            "SortColumn": "Sortierspalte",
+            "SortOrder": "Sortierreihenfolge",
+            "ItemLimit": "Elementbegrenzung",
+            "Sorting": {
+              "Ascending": "Aufsteigend",
+              "Descending": "Absteigend"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kartenansicht",
+          "Settings": {
+            "ShowInBlock": "Anzeigen",
+            "CategoryLabel": "Kategorie",
+            "ReportLabel": "Bericht",
+            "ReportViewLabel": "Berichtsansicht",
+            "Websites": "Websites",
+            "SortColumn": "Sortierspalte",
+            "SortOrder": "Sortierreihenfolge",
+            "ItemLimit": "Elementbegrenzung",
+            "ShowPagination": "Seitenzahl anzeigen",
+            "ShowFlat": "Flach anzeigen",
+            "ShowColumn": "Spalte anzeigen",
+            "CustomLabel": "Benutzerdefiniertes Label",
+            "Description": "Beschreibung",
+            "ShowLabel": "Label anzeigen"
+          }
+        },
+        "TableView": {
+          "Title": "Tabellenansicht",
+          "Settings": {
+            "ShowInBlock": "Anzeigen",
+            "CategoryLabel": "Kategorie",
+            "ReportLabel": "Bericht",
+            "ReportViewLabel": "Berichtsansicht",
+            "Websites": "Websites",
+            "SortColumn": "Sortierspalte",
+            "SortOrder": "Sortierreihenfolge",
+            "ItemLimit": "Elementbegrenzung",
+            "ShowPagination": "Seitenzahlanzeigen",
+            "ShowFlat": "Flach anzeigen",
+            "Columns": {
+              "CustomLabel": "Benutzerdefiniertes Label",
+              "ShowLabel": "Label anzeigen",
+              "Title": "Spalten",
+              "Width": "Breite",
+              "AddColumn": "Spalte hinzufügen"
+            },
+            "BuiltInColumns": {
+              "Icon": "Symbol",
+              "TitleAndLink": "Titel und Link",
+              "OpenNewWindow": "In neuem Fenster öffnen"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Symbol",
+              "TitleAndLink": "Titel",
+              "OpenNewWindow": "In neuem Fenster öffnen"
+            }
+          }
+        }
+      }
+    }
+  }
+}
