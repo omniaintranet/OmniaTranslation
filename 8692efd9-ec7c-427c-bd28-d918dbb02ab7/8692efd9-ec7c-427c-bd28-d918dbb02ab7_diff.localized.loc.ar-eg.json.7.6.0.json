@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "قراءة النموذج للجميع",
+          "EnableFormReadableForAll": "تمكين قراءة النموذج للجميع"
+        },
+        "ResyncNewsArticles": {
+          "Title": "إعادة مزامنة محتوى الألسنة",
+          "Description": "عند النقر على الزر أدناه، سيتم حذف مقالات الأخبار التي تنتمي إلى هذا الملف الشخصي للشركة وإعادة مزامنتها مرة أخرى.",
+          "ConfirmationMessage": "هل أنت متأكد أنك تريد إعادة مزامنة مقالات الأخبار لهذا الملف الشخصي للشركة؟",
+          "Progress": "جاري إعادة مزامنة مقالات الأخبار لهذا الملف الشخصي للشركة",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "جاري المعالجة، قد يستغرق بعض الوقت للانتهاء."
+        },
+        "ResyncUsers": {
+          "Title": "إعادة مزامنة المستخدمين",
+          "TitleSyncSelectedUsers": "إعادة مزامنة المستخدمين المحددين",
+          "TitleSyncAllUsers": "إعادة مزامنة جميع المستخدمين",
+          "LabelUserToReSync": "المستخدمين للمزامنة",
+          "SyncSelectedUsersDescription": "حدد وأعد مزامنة المستخدمين.",
+          "SyncAllUsersDescription": "إعادة مزامنة جميع المستخدمين المتاحين فيالمستأجر. سيتم مزامنة كل مستخدم مع جميع بيانات الأخبار",
+          "ResyncAllUsersBtn": "إعادة مزامنة جميع المستخدمين",
+          "ResyncSelectedUserBtn": "إعادة مزامنة المستخدمين",
+          "Dialog": {
+            "TitleResyncUsers": "إعادة مزامنة المستخدمين",
+            "MessageResyncUsers": "هل ترغب في إعادة مزامنة هؤلاء المستخدمين؟",
+            "TitleResyncAllUsers": "إعادة مزامنة جميع المستخدمين",
+            "MessageResyncAllUsers": "هل ترغب في إعادة مزامنة جميع المستخدمين في المستأجر؟ قد يستغرق ذلك بعض الوقت للانتهاء."
+          },
+          "ResyncStatus": {
+            "None": "لم يبدأ",
+            "InProgress": "قيد التنفيذ",
+            "Completed": "تم الانتهاء",
+            "DoneWithFailures": "تم"
+          },
+          "Progression": {
+            "ResyncDate": "تاريخ إعادة المزامنة",
+            "Status": "الحالة",
+            "TrackingId": "معرّف التتبع",
+            "UsersSynced": "المستخدمينالمتزامنين"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "الإضافات",
+          "Description": "تمكين استخدام Azure Intune مع تطبيقOmnia Feed"
+        }
+      }
+    }
+  }
+}
