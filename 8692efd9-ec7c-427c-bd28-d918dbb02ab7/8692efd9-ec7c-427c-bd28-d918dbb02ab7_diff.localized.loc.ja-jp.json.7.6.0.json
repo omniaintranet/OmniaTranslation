@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "すべてに公開可能なフォーム",
+          "EnableFormReadableForAll": "すべてに公開可能なフォームを有効にする"
+        },
+        "ResyncNewsArticles": {
+          "Title": "タブのコンテンツ再同期",
+          "Description": "以下のボタンをクリックすると、このビジネスプロファイルに属するニュース記事が削除され、再同期されます。",
+          "ConfirmationMessage": "このビジネスプロファイルのニュース記事を再同期しますか？",
+          "Progress": "このビジネスプロファイルのニュース記事の再同期が実行中です",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "再同期が処理中です。完了までに時間がかかる場合があります。"
+        },
+        "ResyncUsers": {
+          "Title": "ユーザーの再同期",
+          "TitleSyncSelectedUsers": "選択したユーザーの再同期",
+          "TitleSyncAllUsers": "すべてのユーザーの再同期",
+          "LabelUserToReSync": "同期するユーザー",
+          "SyncSelectedUsersDescription": "ユーザーを選択して再同期します。",
+          "SyncAllUsersDescription": "テナント内のすべての利用可能なユーザーを再同期します。これにより、すべてのユーザーがすべてのニュースデータと同期されます。",
+          "ResyncAllUsersBtn": "すべてのユーザーを再同期",
+          "ResyncSelectedUserBtn": "ユーザーを再同期",
+          "Dialog": {
+            "TitleResyncUsers": "ユーザーの再同期",
+            "MessageResyncUsers": "これらのユーザーを再同期しますか？",
+            "TitleResyncAllUsers": "すべてのユーザーの再同期",
+            "MessageResyncAllUsers": "テナント内のすべてのユーザーを再同期しますか？完了までに時間がかかります。"
+          },
+          "ResyncStatus": {
+            "None": "未開始",
+            "InProgress": "進行中",
+            "Completed": "完了",
+            "DoneWithFailures": "完了（エラーあり）"
+          },
+          "Progression": {
+            "ResyncDate": "再同期日",
+            "Status": "ステータス",
+            "TrackingId": "トラッキング ID",
+            "UsersSynced": "同期されたユーザー"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "アドオン",
+          "Description": "Omnia Feed アプリで Azure Intune を使用できるようにする"
+        }
+      }
+    }
+  }
+}
