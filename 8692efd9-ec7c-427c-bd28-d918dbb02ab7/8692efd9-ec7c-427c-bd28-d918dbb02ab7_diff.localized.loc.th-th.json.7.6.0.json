@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "แบบฟอร์มที่สามารถอ่านได้ทั้งหมด",
+          "EnableFormReadableForAll": "เปิดใช้งานแบบฟอร์มที่สามารถอ่านได้ทั้งหมด"
+        },
+        "ResyncNewsArticles": {
+          "Title": "การซิงค์เนื้อหาแท็บ",
+          "Description": "เมื่อคุณคลิกที่ปุ่มด้านล่างนี้ เนื้อหาข่าวที่เกี่ยวข้องกับโปรไฟล์ธุรกิจนี้จะถูกลบและซิงค์อีกครั้ง",
+          "ConfirmationMessage": "คุณแน่ใจหรือไม่ว่าต้องการซิงค์เนื้อหาข่าวสำหรับโปรไฟล์ธุรกิจนี้?",
+          "Progress": "กำลังซิงค์เนื้อหาข่าวสำหรับโปรไฟล์ธุรกิจนี้",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "กำลังประมวลผลการซิงค์ อาจใช้เวลาสักครู่ในการเสร็จสิ้น"
+        },
+        "ResyncUsers": {
+          "Title": "การซิงค์ผู้ใช้",
+          "TitleSyncSelectedUsers": "ซิงค์ผู้ใช้ที่เลือก",
+          "TitleSyncAllUsers": "ซิงค์ผู้ใช้ทั้งหมด",
+          "LabelUserToReSync": "ผู้ใช้ที่ต้องการซิงค์",
+          "SyncSelectedUsersDescription": "เลือกและซิงค์ผู้ใช้",
+          "SyncAllUsersDescription": "ซิงค์ผู้ใช้ทั้งหมดที่มีในเจ้าของทรัพยากร การดำเนินการนี้จะซิงค์ผู้ใช้ทุกคนกับข้อมูลข่าวทั้งหมด",
+          "ResyncAllUsersBtn": "ซิงค์ผู้ใช้ทั้งหมด",
+          "ResyncSelectedUserBtn": "ซิงค์ผู้ใช้",
+          "Dialog": {
+            "TitleResyncUsers": "ซิงค์ผู้ใช้",
+            "MessageResyncUsers": "คุณต้องการซิงค์สำหรับผู้ใช้เหล่านี้หรือไม่?",
+            "TitleResyncAllUsers": "ซิงค์ผู้ใช้ทั้งหมด",
+            "MessageResyncAllUsers": "คุณต้องการซิงค์ผู้ใช้ทั้งหมดในเจ้าของทรัพยากรหรือไม่? การดำเนินการนี้อาจใช้เวลาสักครู่ในการเสร็จสิ้น"
+          },
+          "ResyncStatus": {
+            "None": "ยังไม่เริ่ม",
+            "InProgress": "กำลังดำเนินการ",
+            "Completed": "เสร็จสิ้น",
+            "DoneWithFailures": "เสร็จสิ้น (มีข้อผิดพลาด)"
+          },
+          "Progression": {
+            "ResyncDate": "วันที่ซิงค์",
+            "Status": "สถานะ",
+            "TrackingId": "รหัสติดตาม",
+            "UsersSynced": "ผู้ใช้ที่ซิงค์แล้ว"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "เพิ่มเติม",
+          "Description": "เปิดใช้งานการใช้งาน AzureIntune กับแอป Omnia Feed"
+        }
+      }
+    }
+  }
+}
