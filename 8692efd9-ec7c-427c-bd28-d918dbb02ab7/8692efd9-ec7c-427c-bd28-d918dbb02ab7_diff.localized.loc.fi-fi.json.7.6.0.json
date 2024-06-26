@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Lomake luettavissa kaikille",
+          "EnableFormReadableForAll": "Ota käyttöön lomake luettavissa kaikille"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Välilehtien sisällön synkronointi",
+          "Description": "Kun napsautat alla olevaa painiketta, tämän liiketoimintaprofiilin uutisartikkelit poistetaan ja synkronoidaan uudelleen.",
+          "ConfirmationMessage": "Haluatko varmasti synkronoida uutisartikkelituudelleen tälle liiketoimintaprofiilille?",
+          "Progress": "Uutisartikkelien synkronointi tälle liiketoimintaprofiilille on käynnissä",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronointi on käynnissä, sen suorittaminen voi kestää jonkin aikaa."
+        },
+        "ResyncUsers": {
+          "Title": "Käyttäjien synkronointi",
+          "TitleSyncSelectedUsers": "Synkronoi valitut käyttäjät",
+          "TitleSyncAllUsers": "Synkronoi kaikki käyttäjät",
+          "LabelUserToReSync": "Synkronoitavat käyttäjät",
+          "SyncSelectedUsersDescription": "Valitse ja synkronoi käyttäjät.",
+          "SyncAllUsersDescription": "Synkronoi kaikki käytettävissä olevat käyttäjät tenantissa. Tämä synkronoi kaikki käyttäjät kaikkien uutistietojen kanssa",
+          "ResyncAllUsersBtn": "Synkronoi kaikki käyttäjät",
+          "ResyncSelectedUserBtn": "Synkronoi käyttäjät",
+          "Dialog": {
+            "TitleResyncUsers": "Synkronoi käyttäjät",
+            "MessageResyncUsers": "Haluatko synkronoida nämä käyttäjät?",
+            "TitleResyncAllUsers": "Synkronoi kaikki käyttäjät",
+            "MessageResyncAllUsers": "Haluatko synkronoida kaikki käyttäjät tenantissa? Tämä voi kestää jonkin aikaa."
+          },
+          "ResyncStatus": {
+            "None": "Ei aloitettu",
+            "InProgress": "Käynnissä",
+            "Completed": "Valmis",
+            "DoneWithFailures": "Valmis, virheitä"
+          },
+          "Progression": {
+            "ResyncDate": "Synkronointipäivä",
+            "Status": "Tila",
+            "TrackingId": "Seurantatunnus",
+            "UsersSynced": "Synkronoidut käyttäjät"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Lisäosat",
+          "Description": "Ota käyttöön Azure Intune Omnia Feed -sovelluksessa"
+        }
+      }
+    }
+  }
+}
