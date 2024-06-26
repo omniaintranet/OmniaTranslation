@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Sáddejuvvon formáhttit bures buot olbmáid mielde",
+          "EnableFormReadableForAll": "Aktivere formáhttit bures buot olbmáid mielde"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabs sisdoallit resync",
+          "Description": "Go čállat oktii ovdal goažis, sáhtát sisdoallit leaikkasartihkkalat dieđuid dán biebmu profiilii ja resyncet sin sisa.",
+          "ConfirmationMessage": "Leat sáhtán go resyncet leaikkasartihkkalat dán biebmu profiilii?",
+          "Progress": "Resync leaikkasartihkkalat dán biebmu profiilii lea bargat",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync lea bargat, dat sáhttá váldit áigi ahte buktet."
+        },
+        "ResyncUsers": {
+          "Title": "Geavahit resync",
+          "TitleSyncSelectedUsers": "Resync váldit geavaheamiid",
+          "TitleSyncAllUsers": "Resync buot geavaheamiid",
+          "LabelUserToReSync": "Geavaheamiid resync",
+          "SyncSelectedUsersDescription": "Váldet ja resyncet geavaheamiid.",
+          "SyncAllUsersDescription": "Resync buot dáid geavaheamiid tenantas. Dát resyncet buot geavaheamiid buot dieđuid",
+          "ResyncAllUsersBtn": "Resync buot geavaheamiid",
+          "ResyncSelectedUserBtn": "Resync geavaheamiid",
+          "Dialog": {
+            "TitleResyncUsers": "Resync geavaheamiid",
+            "MessageResyncUsers": "Leat sáhtán go resyncet dán geavaheamiid?",
+            "TitleResyncAllUsers": "Resync buot geavaheamiid",
+            "MessageResyncAllUsers": "Leat sáhtán go resyncet buot geavaheamiidtenantas? Dát sáhttá váldit áigi ahte buktet."
+          },
+          "ResyncStatus": {
+            "None": "Eai leatálki",
+            "InProgress": "Bargá",
+            "Completed": "Bargá",
+            "DoneWithFailures": "Bargá"
+          },
+          "Progression": {
+            "ResyncDate": "Resync dáta",
+            "Status": "Álki",
+            "TrackingId": "Jearahallan Id",
+            "UsersSynced": "Geavaheamiid resyncet"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Aktivere Azure Intune geavahit OmniaFeed appa"
+        }
+      }
+    }
+  }
+}
