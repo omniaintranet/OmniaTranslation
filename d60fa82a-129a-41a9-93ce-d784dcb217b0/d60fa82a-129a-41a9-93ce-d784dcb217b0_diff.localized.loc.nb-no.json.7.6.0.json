@@ -1,0 +1,96 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Spørring"
+          },
+          "Settings": {
+            "UseFilterConnection": "Koble til filter",
+            "ViewSelect": "Visning"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analyserapport",
+          "BlockDescription": "Presenterer en analyserapport",
+          "EmptyMessage": "Vennligst konfigurergrafen for analyse du ønsker å vise",
+          "FilterWarning": "Merk! Noen filtre er ikke brukt på grunn av manglende konfigurasjon på valgt forretningsprofil.",
+          "BusinessProfileNotConfigured": "Feil! Den valgte forretningsprofilen har ingen konfigurert analyse",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Nettsteder",
+            "SortColumn": "Sorteringskolonne",
+            "SortOrder": "Sorteringsrekkefølge",
+            "ItemLimit": "Elementgrense",
+            "Sorting": {
+              "Ascending": "Stigende",
+              "Descending": "Synkende"
+            }
+          },
+          "View": {}
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kortvisning",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Nettsteder",
+            "SortColumn": "Sorteringskolonne",
+            "SortOrder": "Sorteringsrekkefølge",
+            "ItemLimit": "Elementgrense",
+            "ShowPagination": "Vis paginering",
+            "ShowFlat": "Vis flatt",
+            "ShowColumn": "Vis kolonne",
+            "CustomLabel": "Tilpasset etikett",
+            "Description": "Beskrivelse",
+            "ShowLabel": "Vis etikett"
+          }
+        },
+        "TableView": {
+          "Title": "Tabellvisning",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Nettsteder",
+            "SortColumn": "Sorteringskolonne",
+            "SortOrder": "Sorteringsrekkefølge",
+            "ItemLimit": "Elementgrense",
+            "ShowPagination": "Vis paginering",
+            "ShowFlat": "Vis flatt",
+            "Columns": {
+              "CustomLabel": "Tilpasset etikett",
+              "ShowLabel": "Vis etikett",
+              "Title": "Kolonner",
+              "Width": "Bredde",
+              "AddColumn": "Legg til kolonne"
+            },
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Tittel og lenke",
+              "OpenNewWindow": "Åpne i nytt vindu"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Tittel",
+              "OpenNewWindow": "Åpne i nytt vindu"
+            }
+          }
+        }
+      }
+    }
+  }
+}
