@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Forma skaitytina visiems",
+          "EnableFormReadableForAll": "Įgalinti formą skaitytiną visiems"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Skirtukų turinio sinchronizavimas",
+          "Description": "Paspaudus žemiau esantį mygtuką, šio verslo profilio naujienų straipsniai bus ištrinti ir sinchronizuoti iš naujo.",
+          "ConfirmationMessage": "Ar tikrai norite sinchronizuoti naujienų straipsnius šiam verslo profilui?",
+          "Progress": "Vyksta naujienų straipsnių sinchronizavimas šiam verslo profilui",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Sinchronizavimas vyksta, tai gali užtrukti kurį laiką."
+        },
+        "ResyncUsers": {
+          "Title": "Vartotojų sinchronizavimas",
+          "TitleSyncSelectedUsers": "Sinchronizuoti pasirinktus vartotojus",
+          "TitleSyncAllUsers": "Sinchronizuoti visus vartotojus",
+          "LabelUserToReSync": "Vartotojai, kuriuos sinchronizuoti",
+          "SyncSelectedUsersDescription": "Pasirinkite ir sinchronizuokite vartotojus.",
+          "SyncAllUsersDescription": "Sinchronizuoti visus prieinamus vartotojus nuomininkui. Tai sinchronizuos visus vartotojus su visais naujienų duomenimis.",
+          "ResyncAllUsersBtn": "Sinchronizuoti visus vartotojus",
+          "ResyncSelectedUserBtn": "Sinchronizuoti vartotojus",
+          "Dialog": {
+            "TitleResyncUsers": "Sinchronizuoti vartotojus",
+            "MessageResyncUsers": "Ar norite sinchronizuoti šiuos vartotojus?",
+            "TitleResyncAllUsers": "Sinchronizuoti visus vartotojus",
+            "MessageResyncAllUsers": "Ar norite sinchronizuoti visus nuomininko vartotojus? Tai užtruks kurį laiką."
+          },
+          "ResyncStatus": {
+            "None": "Nepradėta",
+            "InProgress": "Vykdoma",
+            "Completed": "Baigta",
+            "DoneWithFailures": "Atlikta su klaidomis"
+          },
+          "Progression": {
+            "ResyncDate": "Sinchronizavimo data",
+            "Status": "Būsena",
+            "TrackingId": "Sekimo ID",
+            "UsersSynced": "Sinchronizuoti vartotojai"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Priedai",
+          "Description": "Įgalinti naudoti Azure Intune su Omnia Feed programėle."
+        }
+      }
+    }
+  }
+}
