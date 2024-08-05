@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          },
+          "Settings": {
+            "UseFilterConnection": "Connect to filter",
+            "ViewSelect": "View"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analytics report",
+          "BlockDescription": "Presents an analytics report.",
+          "PermissionMissing": "You do not have permission to view this report.",
+          "EmptyMessage": "Please configure the analytics graph you want to show.",
+          "FilterWarning": "Note! some filters are not applied due to missing configuration on selected business profile.",
+          "BusinessProfileNotConfigured": "Error! The selected business profile is not analytics configured.",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "Sorting": {
+              "Ascending": "Ascending",
+              "Descending": "Descending"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Analytics counter",
+          "BlockDescription": "Presents live counter.",
+          "PermissionMissing": "You do not have permission to view this counter.",
+          "EmptyMessage": "Please configure the analytics counter you want to show.",
+          "Settings": {
+            "ShowSub1": "Show first sub counter",
+            "ShowSub2": "Show second sub counter",
+            "MainCounterLabel": "Main counter",
+            "Sub1CounterLabel": "First sub counter",
+            "Sub2CounterLabel": "Second sub counter",
+            "Websites": "Websites",
+            "LastMinutesLabel": "Last minutes"
+          },
+          "Counters": {
+            "Visits": "Visits",
+            "Visitors": "Visitors",
+            "Actions": "Actions"
+          },
+          "View": {
+            "Visit": "visit",
+            "Visits": "visits",
+            "Visitor": "visitor",
+            "Visitors": "visitors",
+            "Action": "action",
+            "Actions": "actions",
+            "Minute": "minute",
+            "Minutes": "minutes",
+            "InTheLast": "in the last",
+            "And": "and"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Card View",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "ShowPagination": "Show pagination",
+            "ShowColumn": "Show column",
+            "CustomLabel": "Custom label",
+            "Description": "Description",
+            "ShowLabel": "Show label"
+          }
+        },
+        "TableView": {
+          "Title": "Table view",
+          "Settings": {
+            "ShowInBlock": "Show",
+            "CategoryLabel": "Category",
+            "ReportLabel": "Report",
+            "ReportViewLabel": "Report view",
+            "Websites": "Websites",
+            "SortColumn": "Sort column",
+            "SortOrder": "Sort order",
+            "ItemLimit": "Item limit",
+            "ShowPagination": "Show pagination",
+            "Columns": {
+              "CustomLabel": "Custom label",
+              "ShowLabel": "Show label",
+              "Title": "Columns",
+              "Width": "Width",
+              "AddColumn": "Add column"
+            },
+            "BuiltInColumns": {
+              "Icon": "Icon",
+              "TitleAndLink": "Title and link",
+              "OpenNewWindow": "Open in new window"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Icon",
+              "TitleAndLink": "Title",
+              "OpenNewWindow": "Open in new window"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Move as child",
+            "MoveAsSibling": "Move as sibling"
+          },
+          "ApprovalHistory": {
+            "Approval": "Approval"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}
