@@ -1,0 +1,18 @@
+{
+  "ODM": {
+    "UnpublishDocumentDialog": {
+      "Comment": "Kommentti"
+    }
+  },
+  "OPM": {
+    "Core": {
+      "Validation": {
+        "MaxLengthMessage": "Arvon tulee olla enintään "
+      }
+    },
+    "ProcessDesigner": {
+      "CustomShapeText": "Mukautetun muodon teksti",
+      "ShapeTitle": "Muodon otsikko"
+    }
+  }
+}
