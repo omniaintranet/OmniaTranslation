@@ -8,9 +8,9 @@
         },
         "ResyncNewsArticles": {
           "Title": "Synkronisera flikinnehåll",
-          "Description": "När du klickar på knappen nedan kommer nyhetsartiklar som tillhör denna företagsprofil att raderas och synkroniseras pånytt.",
+          "Description": "När du klickar på knappen nedan kommer nyhetsartiklar som tillhör denna företagsprofil att raderas och synkroniseras på nytt.",
           "ConfirmationMessage": "Är du säker på att du vill synkronisera nyhetsartiklar för denna företagsprofil?",
-          "Progress": "Synkronisering av nyhetsartiklar för denna företagsprofil pågår",
+          "Progress": "Synkronisering av nyhetsartiklar för denna företagsprofil pågår.",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronisering pågår, det kan ta lite tid att slutföra."
         },
         "ResyncUsers": {
@@ -19,14 +19,14 @@
           "TitleSyncAllUsers": "Synkronisera alla användare",
           "LabelUserToReSync": "Användare att synkronisera",
           "SyncSelectedUsersDescription": "Välj och synkronisera användare.",
-          "SyncAllUsersDescription": "Synkronisera alla tillgängliga användare i hyresgästen. Detta kommer att synkronisera alla användare med all nyhetsdata.",
+          "SyncAllUsersDescription": "Synkronisera alla tillgängliga användare i tenant. Detta kommer att synkronisera alla användare med all nyhetsdata.",
           "ResyncAllUsersBtn": "Synkronisera alla användare",
           "ResyncSelectedUserBtn": "Synkronisera användare",
           "Dialog": {
             "TitleResyncUsers": "Synkronisera användare",
             "MessageResyncUsers": "Vill du synkronisera dessa användare?",
             "TitleResyncAllUsers": "Synkronisera alla användare",
-            "MessageResyncAllUsers": "Vill du synkronisera alla användare i hyresgästen? Detta kan ta lite tid att slutföra."
+            "MessageResyncAllUsers": "Vill du synkronisera alla användare i tenant? Detta kan ta lite tid att slutföra."
           },
           "ResyncStatus": {
             "None": "Inte påbörjad",
@@ -38,7 +38,7 @@
             "ResyncDate": "Synkroniseringsdatum",
             "Status": "Status",
             "TrackingId": "Spårnings-ID",
-            "UsersSynced": "Användare synkroniserade"
+            "UsersSynced": "Synkroniserade användare"
           }
         }
       },
