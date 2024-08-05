@@ -9,7 +9,7 @@
         "ResyncNewsArticles": {
           "Title": "Tabs content resync",
           "Description": "When you click on the button below, news articles belonging to this business profile will be deleted and resynced.",
-          "ConfirmationMessage": "Are you sure you want to re-sync news articles for this business profile?",
+          "ConfirmationMessage": "Are you sure you want to resync news articles for this business profile?",
           "Progress": "Resyncing news articles for this business profile is in progress",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync is processing, it may take some time to finish."
         },
@@ -46,7 +46,7 @@
         "AzureIntune": {
           "Title": "Omnia Feed Azure Intune",
           "Category": "Add-ons",
-          "Description": "Enable using Azure Intunewith the Omnia Feed app."
+          "Description": "Enable using Azure Intune with the Omnia Feed app."
         }
       }
     }
