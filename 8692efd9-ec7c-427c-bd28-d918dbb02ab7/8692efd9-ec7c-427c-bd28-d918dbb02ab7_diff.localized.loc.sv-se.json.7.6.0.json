@@ -8,9 +8,9 @@
         },
         "ResyncNewsArticles": {
           "Title": "Synkronisera flikinnehåll",
-          "Description": "När du klickar på knappen nedan kommer nyhetsartiklar som tillhör denna företagsprofil att raderas och synkroniseras på nytt.",
-          "ConfirmationMessage": "Är du säker på att du vill synkronisera nyhetsartiklar för denna företagsprofil?",
-          "Progress": "Synkronisering av nyhetsartiklar för denna företagsprofil pågår.",
+          "Description": "När du klickar på knappen nedan kommer nyhetsartiklar som tillhör denna verksamhetssprofil att raderas och synkroniseras på nytt.",
+          "ConfirmationMessage": "Är du säker på att du vill synkronisera nyhetsartiklar för denna verksamhetssprofil?",
+          "Progress": "Synkronisering av nyhetsartiklar för denna verksamhetssprofil pågår.",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronisering pågår, det kan ta lite tid att slutföra."
         },
         "ResyncUsers": {
