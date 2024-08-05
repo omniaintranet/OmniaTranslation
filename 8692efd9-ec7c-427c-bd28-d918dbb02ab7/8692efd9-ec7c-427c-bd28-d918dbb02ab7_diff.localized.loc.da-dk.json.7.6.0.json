@@ -44,7 +44,7 @@
       },
       "Features": {
         "AzureIntune": {
-          "Title": "Omnia FeedAzure Intune",
+          "Title": "Omnia Feed Azure Intune",
           "Category": "Tilføjelser",
           "Description": "Aktivér brug af Azure Intune med Omnia Feed-appen."
         }
