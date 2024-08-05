@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formular citibil pentru toți",
+          "EnableFormReadableForAll": "Activează formularul citibil pentru toți"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Resincronizare conținut file",
+          "Description": "Dacă apăsați butonul de mai jos, articolele de știri care aparțin acestui profil de afaceri vor fi șterse și resincronizate.",
+          "ConfirmationMessage": "Sigur doriți să resincronizați articolele de știri pentru acest profil de afaceri?",
+          "Progress": "Resincronizareaarticolelor de știri pentru acest profil de afaceri este în curs de desfășurare",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resincronizarea esteîn curs de desfășurare, poate dura ceva timp până la finalizare."
+        },
+        "ResyncUsers": {
+          "Title": "Resincronizare utilizatori",
+          "TitleSyncSelectedUsers": "Resincronizare utilizatori selectați",
+          "TitleSyncAllUsers": "Resincronizare toți utilizatorii",
+          "LabelUserToReSync": "Utilizatori de sincronizat",
+          "SyncSelectedUsersDescription": "Selectați și resincronizați utilizatorii.",
+          "SyncAllUsersDescription": "Resincronizați toți utilizatorii disponibili în tenant. Aceasta va sincroniza fiecare utilizator cu toate datele de știri.",
+          "ResyncAllUsersBtn": "Resincronizare toți utilizatorii",
+          "ResyncSelectedUserBtn": "Resincronizare utilizatori",
+          "Dialog": {
+            "TitleResyncUsers": "Resincronizare utilizatori",
+            "MessageResyncUsers": "Doriți să resincronizați acești utilizatori?",
+            "TitleResyncAllUsers": "Resincronizare toți utilizatorii",
+            "MessageResyncAllUsers": "Doriți să resincronizați toți utilizatorii din tenant? Aceasta va dura ceva timp pentru a se finaliza."
+          },
+          "ResyncStatus": {
+            "None": "Nu a început",
+            "InProgress": "În curs",
+            "Completed": "Finalizat",
+            "DoneWithFailures": "Finalizat cu erori"
+          },
+          "Progression": {
+            "ResyncDate": "Data resincronizării",
+            "Status": "Stare",
+            "TrackingId": "ID urmărire",
+            "UsersSynced": "Utilizatori sincronizați"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Complemente",
+          "Description": "Activează utilizarea Azure Intune cu aplicația Omnia Feed."
+        }
+      }
+    }
+  }
+}
