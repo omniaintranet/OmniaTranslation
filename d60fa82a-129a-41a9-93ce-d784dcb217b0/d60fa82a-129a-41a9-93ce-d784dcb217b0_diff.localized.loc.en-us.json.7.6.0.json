@@ -12,12 +12,12 @@
           }
         },
         "Report": {
-          "BlockTitle": "Analytics Report",
-          "BlockDescription": "Presents an analytics report",
-          "PermissionMissing": "You do not have permission to view this report",
-          "EmptyMessage": "Please configure the analytics graph you want to show",
+          "BlockTitle": "Analytics report",
+          "BlockDescription": "Presents an analytics report.",
+          "PermissionMissing": "You do not have permission to view this report.",
+          "EmptyMessage": "Please configure the analytics graph you want to show.",
           "FilterWarning": "Note! some filters are not applied due to missing configuration on selected business profile.",
-          "BusinessProfileNotConfigured": "Error! The selected business profile has not analytics configured",
+          "BusinessProfileNotConfigured": "Error! The selected business profile is not analytics configured.",
           "Settings": {
             "ShowInBlock": "Show",
             "CategoryLabel": "Category",
@@ -35,10 +35,10 @@
           "View": {}
         },
         "LiveCounter": {
-          "BlockTitle": "Analytics Counter",
-          "BlockDescription": "Presents live counter",
-          "PermissionMissing": "You do not have permission to view this counter",
-          "EmptyMessage": "Please configure the analytics counter you want to show",
+          "BlockTitle": "Analytics counter",
+          "BlockDescription": "Presents live counter.",
+          "PermissionMissing": "You do not have permission to view this counter.",
+          "EmptyMessage": "Please configure the analytics counter you want to show.",
           "Settings": {
             "ShowSub1": "Show first sub counter",
             "ShowSub2": "Show second sub counter",
@@ -89,7 +89,7 @@
           }
         },
         "TableView": {
-          "Title": "Table View",
+          "Title": "Table view",
           "Settings": {
             "ShowInBlock": "Show",
             "CategoryLabel": "Category",
