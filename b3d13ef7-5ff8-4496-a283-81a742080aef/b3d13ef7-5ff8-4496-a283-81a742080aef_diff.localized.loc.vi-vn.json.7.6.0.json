@@ -1,0 +1,18 @@
+{
+  "ODM": {
+    "UnpublishDocumentDialog": {
+      "Comment": "Bình luận"
+    }
+  },
+  "OPM": {
+    "Core": {
+      "Validation": {
+        "MaxLengthMessage": "Giá trị phải có độ dài tối đa là "
+      }
+    },
+    "ProcessDesigner": {
+      "CustomShapeText": "Văn bản hình dạng tùy chỉnh",
+      "ShapeTitle": "Tiêu đề hình dạng"
+    }
+  }
+}
