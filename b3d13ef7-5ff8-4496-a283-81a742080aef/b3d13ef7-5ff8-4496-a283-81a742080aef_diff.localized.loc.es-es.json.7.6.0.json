@@ -1,0 +1,18 @@
+{
+  "ODM": {
+    "UnpublishDocumentDialog": {
+      "Comment": "Comentario"
+    }
+  },
+  "OPM": {
+    "Core": {
+      "Validation": {
+        "MaxLengthMessage": "El valor debe tener una longitud máxima de "
+      }
+    },
+    "ProcessDesigner": {
+      "CustomShapeText": "Texto de forma personalizada",
+      "ShapeTitle": "Título de forma"
+    }
+  }
+}
