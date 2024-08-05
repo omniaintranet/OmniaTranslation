@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Forespørgsel"
+          },
+          "Settings": {
+            "UseFilterConnection": "Forbind til filter",
+            "ViewSelect": "Visning"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analyserapport",
+          "BlockDescription": "Præsenterer en analyserapport.",
+          "PermissionMissing": "Du har ikke tilladelse til at se denne rapport.",
+          "EmptyMessage": "Konfigurer venligst den analytiske graf, du vil vise.",
+          "FilterWarning": "Bemærk! Nogle filtre anvendes ikke på grund af manglende konfiguration på valgt forretningsprofil.",
+          "BusinessProfileNotConfigured": "Fejl! Den valgte forretningsprofil er ikke konfigureret til analyse.",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Websites",
+            "SortColumn": "Sortér kolonne",
+            "SortOrder": "Sortér rækkefølge",
+            "ItemLimit": "Elementbegrænsning",
+            "Sorting": {
+              "Ascending": "Stigende",
+              "Descending": "Faldende"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Analyse tæller",
+          "BlockDescription": "Præsenterer en live tæller.",
+          "PermissionMissing": "Duhar ikke tilladelse til at se denne tæller.",
+          "EmptyMessage": "Konfigurer venligstden analytiske tæller, du vil vise.",
+          "Settings": {
+            "ShowSub1": "Vis første under-tæller",
+            "ShowSub2": "Vis anden under-tæller",
+            "MainCounterLabel": "Hovedtæller",
+            "Sub1CounterLabel": "Første under-tæller",
+            "Sub2CounterLabel": "Anden under-tæller",
+            "Websites": "Websites",
+            "LastMinutesLabel": "Sidste minutter"
+          },
+          "Counters": {
+            "Visits": "Besøg",
+            "Visitors": "Besøgende",
+            "Actions": "Handlinger"
+          },
+          "View": {
+            "Visit": "besøg",
+            "Visits": "besøg",
+            "Visitor": "besøgende",
+            "Visitors": "besøgende",
+            "Action": "handling",
+            "Actions": "handling",
+            "Minute": "minut",
+            "Minutes": "minutter",
+            "InTheLast": "i de sidste",
+            "And": "og"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kortvisning",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Websites",
+            "SortColumn": "Sortér kolonne",
+            "SortOrder": "Sortér rækkefølge",
+            "ItemLimit": "Elementbegrænsning",
+            "ShowPagination": "Vis paginering",
+            "ShowColumn": "Vis kolonne",
+            "CustomLabel": "Brugerdefineret etiket",
+            "Description": "Beskrivelse",
+            "ShowLabel": "Vis etiket"
+          }
+        },
+        "TableView": {
+          "Title": "Tabelvisning",
+          "Settings": {
+            "ShowInBlock": "Vis",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvisning",
+            "Websites": "Websites",
+            "SortColumn": "Sortér kolonne",
+            "SortOrder": "Sortér rækkefølge",
+            "ItemLimit": "Elementbegrænsning",
+            "ShowPagination": "Vis paginering",
+            "Columns": {
+              "CustomLabel": "Brugerdefineret etiket",
+              "ShowLabel": "Vis etiket",
+              "Title": "Kolonner",
+              "Width": "Bredde",
+              "AddColumn": "Tilføj kolonne"
+            },
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Titel og link",
+              "OpenNewWindow": "Åbn i nyt vindue"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Titel",
+              "OpenNewWindow": "Åbn i nyt vindue"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Flyt som underordnet",
+            "MoveAsSibling": "Flyt som søskende"
+          },
+          "ApprovalHistory": {
+            "Approval": "Godkendelse"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}
