@@ -7,7 +7,7 @@
   "OPM": {
     "Core": {
       "Validation": {
-        "MaxLengthMessage": "Message should have a maximum length of "
+        "MaxLengthMessage": "Value should have a maximum length of "
       }
     },
     "ProcessDesigner": {
