@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formulier leesbaar voor iedereen",
+          "EnableFormReadableForAll": "Schakel formulier leesbaar voor iedereen in"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabs inhoud opnieuw synchroniseren",
+          "Description": "Wanneer je op de onderstaande knop klikt, worden nieuwsartikelen die bij dit bedrijfsprofiel horen verwijderd en opnieuw gesynchroniseerd.",
+          "ConfirmationMessage": "Weet je zeker dat je nieuwsartikelen opnieuw wilt synchroniseren voor dit bedrijfsprofiel?",
+          "Progress": "Opnieuw synchroniseren van nieuwsartikelen voor dit bedrijfsprofiel is bezig",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synchronisatie is bezig, het kan even duren voordat het klaar is."
+        },
+        "ResyncUsers": {
+          "Title": "Gebruikers opnieuw synchroniseren",
+          "TitleSyncSelectedUsers": "Geselecteerde gebruikers opnieuw synchroniseren",
+          "TitleSyncAllUsers": "Alle gebruikers opnieuw synchroniseren",
+          "LabelUserToReSync": "Gebruikers om te synchroniseren",
+          "SyncSelectedUsersDescription": "Selecteer en synchroniseer gebruikers.",
+          "SyncAllUsersDescription": "Synchroniseer alle beschikbare gebruikers in de tenant. Dit zal alle gebruikers synchroniseren met alle nieuwsgegevens.",
+          "ResyncAllUsersBtn": "Alle gebruikers opnieuw synchroniseren",
+          "ResyncSelectedUserBtn": "Gebruikers opnieuw synchroniseren",
+          "Dialog": {
+            "TitleResyncUsers": "Gebruikers opnieuw synchroniseren",
+            "MessageResyncUsers": "Wil je deze gebruikers opnieuw synchroniseren?",
+            "TitleResyncAllUsers": "Alle gebruikers opnieuw synchroniseren",
+            "MessageResyncAllUsers": "Wil je alle gebruikers in de tenant opnieuw synchroniseren? Dit kan even duren om te voltooien."
+          },
+          "ResyncStatus": {
+            "None": "Niet gestart",
+            "InProgress": "Bezig",
+            "Completed": "Voltooid",
+            "DoneWithFailures": "Voltooid met fouten"
+          },
+          "Progression": {
+            "ResyncDate": "Synchronisatiedatum",
+            "Status": "Status",
+            "TrackingId": "Tracking-id",
+            "UsersSynced": "Gebruikers gesynchroniseerd"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Schakel het gebruik van Azure Intunein met de Omnia Feed-app."
+        }
+      }
+    }
+  }
+}
