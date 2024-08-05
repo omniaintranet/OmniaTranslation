@@ -7,7 +7,7 @@
             "Query": "Fråga"
           },
           "Settings": {
-            "UseFilterConnection": "Anslut till filter",
+            "UseFilterConnection": "Koppla till filter",
             "ViewSelect": "Visa"
           }
         },
