@@ -19,14 +19,14 @@
           "TitleSyncAllUsers": "Synkroniser alle brukere",
           "LabelUserToReSync": "Brukere å synkronisere",
           "SyncSelectedUsersDescription": "Velg og synkroniser brukere.",
-          "SyncAllUsersDescription": "Synkroniser alle tilgjengelige brukere i leietakeren. Dette vil synkronisere alle brukere med all nyhetsdata.",
+          "SyncAllUsersDescription": "Synkroniser alle tilgjengelige brukere i tenant. Dette vil synkronisere alle brukere med all nyhetsdata.",
           "ResyncAllUsersBtn": "Synkroniser alle brukere",
           "ResyncSelectedUserBtn": "Synkroniser brukere",
           "Dialog": {
             "TitleResyncUsers": "Synkroniser brukere",
             "MessageResyncUsers": "Vil du synkronisere disse brukerne?",
             "TitleResyncAllUsers": "Synkroniser alle brukere",
-            "MessageResyncAllUsers": "Vil du synkronisere alle brukere i leietakeren? Dette vil ta litt tid å fullføre."
+            "MessageResyncAllUsers": "Vil du synkronisere alle brukere i tenant? Dette vil ta litt tid å fullføre."
           },
           "ResyncStatus": {
             "None": "Ikke startet",
