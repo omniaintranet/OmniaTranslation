@@ -1,0 +1,10 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoUsers": "Utilisateurs Matomo",
+        "analyticsReportViewers": "Consulteurs de rapports d'analyse"
+      }
+    }
+  }
+}
