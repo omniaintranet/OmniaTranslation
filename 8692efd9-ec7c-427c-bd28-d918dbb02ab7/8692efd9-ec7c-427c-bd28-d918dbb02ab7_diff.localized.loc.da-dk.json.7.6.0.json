@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formular læsbar for alle",
+          "EnableFormReadableForAll": "Aktivér formular læsbar foralle"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Synkronisering af fanerindhold",
+          "Description": "Når du klikker på knappen nedenfor, vil nyhedsartikler tilhørende denne virksomhedsprofil blive slettet og synkroniseretigen.",
+          "ConfirmationMessage": "Er du sikker på, at du vil synkronisere nyhedsartikler for denne virksomhedsprofil igen?",
+          "Progress": "Synkronisering af nyhedsartikler for denne virksomhedsprofil kører",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkroniseringen er i gang, det kan tage noget tid at fuldføre."
+        },
+        "ResyncUsers": {
+          "Title": "Synkronisering af brugere",
+          "TitleSyncSelectedUsers": "Synkronisering af valgte brugere",
+          "TitleSyncAllUsers": "Synkronisering af alle brugere",
+          "LabelUserToReSync": "Brugere, der skal synkroniseres",
+          "SyncSelectedUsersDescription": "Vælg og synkronisér brugere.",
+          "SyncAllUsersDescription": "Synkronisér alle tilgængelige brugere i tenant. Dette vil synkronisere alle brugere med alle nyhedsdata.",
+          "ResyncAllUsersBtn": "Synkronisér alle brugere",
+          "ResyncSelectedUserBtn": "Synkronisér brugere",
+          "Dialog": {
+            "TitleResyncUsers": "Synkronisér brugere",
+            "MessageResyncUsers": "Vil du synkronisere disse brugere?",
+            "TitleResyncAllUsers": "Synkronisér alle brugere",
+            "MessageResyncAllUsers": "Vil du synkronisere alle brugere i tenant? Dette vil tage noget tid at fuldføre."
+          },
+          "ResyncStatus": {
+            "None": "Ikke startet",
+            "InProgress": "I gang",
+            "Completed": "Fuldført",
+            "DoneWithFailures": "Færdig"
+          },
+          "Progression": {
+            "ResyncDate": "Synkroniseringsdato",
+            "Status": "Status",
+            "TrackingId": "Sporings-id",
+            "UsersSynced": "Brugere synkroniseret"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Tilføjelser",
+          "Description": "Aktivér brug af Azure Intune med Omnia Feed-appen."
+        }
+      }
+    }
+  }
+}

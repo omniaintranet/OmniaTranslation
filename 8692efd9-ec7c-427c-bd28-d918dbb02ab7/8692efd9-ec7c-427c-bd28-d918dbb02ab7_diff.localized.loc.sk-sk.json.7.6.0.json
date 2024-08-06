@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Formulár čitateľný pre všetkých",
+          "EnableFormReadableForAll": "Povoliť formulár čitateľný pre všetkých"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Resynchronizácia obsahu kariet",
+          "Description": "Po kliknutí na tlačidlo nižšie budú vymazané a resynchronizované nové články patriace k tomuto obchodnému profilu.",
+          "ConfirmationMessage": "Ste si istí, že chcete resynchronizovať nové články pre tento obchodný profil?",
+          "Progress": "Prebieha resynchronizácia nových článkov pre tento obchodný profil",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resynchronizácia prebieha, môže to chvíľu trvať."
+        },
+        "ResyncUsers": {
+          "Title": "Resynchronizácia používateľov",
+          "TitleSyncSelectedUsers": "Resynchronizácia vybraných používateľov",
+          "TitleSyncAllUsers": "Resynchronizácia všetkých používateľov",
+          "LabelUserToReSync": "Používatelia na resynchronizáciu",
+          "SyncSelectedUsersDescription": "Vyberte a resynchronizujte používateľov.",
+          "SyncAllUsersDescription": "Resynchronizujte všetkých dostupných používateľov v nájomcovi. Týmto sa zosynchronizujú všetci používatelia s všetkými údajmi o novinkách.",
+          "ResyncAllUsersBtn": "Resynchronizovať všetkých používateľov",
+          "ResyncSelectedUserBtn": "Resynchronizovať používateľov",
+          "Dialog": {
+            "TitleResyncUsers": "Resynchronizácia používateľov",
+            "MessageResyncUsers": "Chcete resynchronizovať týchto používateľov?",
+            "TitleResyncAllUsers": "Resynchronizácia všetkých používateľov",
+            "MessageResyncAllUsers": "Chcete resynchronizovať všetkých používateľov v nájomcovi? Toto môže chvíľu trvať."
+          },
+          "ResyncStatus": {
+            "None": "Nezačaté",
+            "InProgress": "Prebieha",
+            "Completed": "Dokončené",
+            "DoneWithFailures": "Dokončené s chybami"
+          },
+          "Progression": {
+            "ResyncDate": "Dátum resynchronizácie",
+            "Status": "Stav",
+            "TrackingId": "Sledovacie ID",
+            "UsersSynced": "Synchronizovaní používatelia"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Doplnky",
+          "Description": "Povoliť používanie Azure Intune s aplikáciou Omnia Feed."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "对所有人可读的表单",
+          "EnableFormReadableForAll": "启用对所有人可读的表单"
+        },
+        "ResyncNewsArticles": {
+          "Title": "选项卡内容重新同步",
+          "Description": "当您点击下面的按钮时，将删除并重新同步属于此业务配置文件的新闻文章。",
+          "ConfirmationMessage": "您确定要重新同步此业务配置文件的新闻文章吗？",
+          "Progress": "正在运行此业务配置文件的新闻文章重新同步",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "正在进行重新同步，可能需要一些时间才能完成。"
+        },
+        "ResyncUsers": {
+          "Title": "用户重新同步",
+          "TitleSyncSelectedUsers": "重新同步选定的用户",
+          "TitleSyncAllUsers": "重新同步所有用户",
+          "LabelUserToReSync": "要同步的用户",
+          "SyncSelectedUsersDescription": "选择并重新同步用户。",
+          "SyncAllUsersDescription": "重新同步租户中的所有可用用户。这将同步每个用户的所有新闻数据。",
+          "ResyncAllUsersBtn": "重新同步所有用户",
+          "ResyncSelectedUserBtn": "重新同步用户",
+          "Dialog": {
+            "TitleResyncUsers": "重新同步用户",
+            "MessageResyncUsers": "您是否要重新同步这些用户？",
+            "TitleResyncAllUsers": "重新同步所有用户",
+            "MessageResyncAllUsers": "您是否要重新同步租户中的所有用户？这将需要一些时间来完成。"
+          },
+          "ResyncStatus": {
+            "None": "未开始",
+            "InProgress": "进行中",
+            "Completed": "已完成",
+            "DoneWithFailures": "完成（有失败）"
+          },
+          "Progression": {
+            "ResyncDate": "重新同步日期",
+            "Status": "状态",
+            "TrackingId": "跟踪 ID",
+            "UsersSynced": "已同步用户"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia FeedAzure Intune",
+          "Category": "附加功能",
+          "Description": "启用使用 Azure Intune 与 Omnia Feed 应用程序。"
+        }
+      }
+    }
+  }
+}

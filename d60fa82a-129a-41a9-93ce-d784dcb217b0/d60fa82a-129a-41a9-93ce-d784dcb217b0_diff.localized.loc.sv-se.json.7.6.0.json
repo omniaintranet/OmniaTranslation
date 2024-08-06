@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Fråga"
+          },
+          "Settings": {
+            "UseFilterConnection": "Koppla till filter",
+            "ViewSelect": "Visa"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analysrapport",
+          "BlockDescription": "Presenterar en analysrapport.",
+          "PermissionMissing": "Du har inte behörighet att visa denna rapport.",
+          "EmptyMessage": "Konfigurera den analysgraf du vill visa.",
+          "FilterWarning": "Observera! Vissa filter tillämpas inte på grund av saknad konfiguration på vald affärsprofil.",
+          "BusinessProfileNotConfigured": "Fel! Den valda affärsprofilen är inte konfigurerad för analys.",
+          "Settings": {
+            "ShowInBlock": "Visa",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvy",
+            "Websites": "Webbplatser",
+            "SortColumn": "Sortera kolumn",
+            "SortOrder": "Sorteringsordning",
+            "ItemLimit": "Antal objekt",
+            "Sorting": {
+              "Ascending": "Stigande",
+              "Descending": "Fallande"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Analysräknare",
+          "BlockDescription": "Presenterar en live-räknare.",
+          "PermissionMissing": "Du har inte behörighet att visa denna räknare.",
+          "EmptyMessage": "Konfigurera den analysräknare du vill visa.",
+          "Settings": {
+            "ShowSub1": "Visa första delräknare",
+            "ShowSub2": "Visa andra delräknare",
+            "MainCounterLabel": "Huvudräknare",
+            "Sub1CounterLabel": "Första delräknare",
+            "Sub2CounterLabel": "Andra delräknare",
+            "Websites": "Webbplatser",
+            "LastMinutesLabel": "Senaste minuterna"
+          },
+          "Counters": {
+            "Visits": "Besök",
+            "Visitors": "Besökare",
+            "Actions": "Åtgärder"
+          },
+          "View": {
+            "Visit": "besök",
+            "Visits": "besök",
+            "Visitor": "besökare",
+            "Visitors": "besökare",
+            "Action": "åtgärd",
+            "Actions": "åtgärder",
+            "Minute": "minut",
+            "Minutes": "minuter",
+            "InTheLast": "de senaste",
+            "And": "och"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kortvy",
+          "Settings": {
+            "ShowInBlock": "Visa",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvy",
+            "Websites": "Webbplatser",
+            "SortColumn": "Sortera kolumn",
+            "SortOrder": "Sorteringsordning",
+            "ItemLimit": "Antal objekt",
+            "ShowPagination": "Visa paginering",
+            "ShowColumn": "Visa kolumn",
+            "CustomLabel": "Anpassad etikett",
+            "Description": "Beskrivning",
+            "ShowLabel": "Visa etikett"
+          }
+        },
+        "TableView": {
+          "Title": "Tabellvy",
+          "Settings": {
+            "ShowInBlock": "Visa",
+            "CategoryLabel": "Kategori",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportvy",
+            "Websites": "Webbplatser",
+            "SortColumn": "Sortera kolumn",
+            "SortOrder": "Sorteringsordning",
+            "ItemLimit": "Antal objekt",
+            "ShowPagination": "Visa paginering",
+            "Columns": {
+              "CustomLabel": "Anpassad etikett",
+              "ShowLabel": "Visa etikett",
+              "Title": "Kolumner",
+              "Width": "Bredd",
+              "AddColumn": "Lägg till kolumn"
+            },
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Titel och länk",
+              "OpenNewWindow": "Öppna i nytt fönster"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Ikon",
+              "TitleAndLink": "Titel",
+              "OpenNewWindow": "Öppna i nytt fönster"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Flytta som underordnad",
+            "MoveAsSibling": "Flytta som syskon"
+          },
+          "ApprovalHistory": {
+            "Approval": "Godkännande"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}

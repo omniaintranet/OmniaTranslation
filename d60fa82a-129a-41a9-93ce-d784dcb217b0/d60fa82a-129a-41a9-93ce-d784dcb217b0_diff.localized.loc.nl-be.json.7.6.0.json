@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Query"
+          },
+          "Settings": {
+            "UseFilterConnection": "Verbinden met filter",
+            "ViewSelect": "Weergave"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analyserapport",
+          "BlockDescription": "Toont een analyserapport.",
+          "PermissionMissing": "U hebt geen toestemming om dit rapport te bekijken.",
+          "EmptyMessage": "Configureer de analysegroep die u wilt tonen.",
+          "FilterWarning": "Opgelet! Sommige filters wordenniet toegepast vanwege ontbrekende configuratie op het geselecteerde bedrijfsprofiel.",
+          "BusinessProfileNotConfigured": "Fout! Het geselecteerde bedrijfsprofiel is niet geconfigureerd voor analyse.",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "Sorting": {
+              "Ascending": "Oplopend",
+              "Descending": "Aflopend"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Analyseteller",
+          "BlockDescription": "Toont een live teller.",
+          "PermissionMissing": "U hebt geen toestemming om deze teller te bekijken.",
+          "EmptyMessage": "Configureer de analyseteller die u wilt tonen.",
+          "Settings": {
+            "ShowSub1": "Toon eerste subteller",
+            "ShowSub2": "Toon tweede subteller",
+            "MainCounterLabel": "Hoofdteller",
+            "Sub1CounterLabel": "Eerste subteller",
+            "Sub2CounterLabel": "Tweede subteller",
+            "Websites": "Websites",
+            "LastMinutesLabel": "Laatste minuten"
+          },
+          "Counters": {
+            "Visits": "Bezoeken",
+            "Visitors": "Bezoekers",
+            "Actions": "Acties"
+          },
+          "View": {
+            "Visit": "bezoek",
+            "Visits": "bezoeken",
+            "Visitor": "bezoeker",
+            "Visitors": "bezoekers",
+            "Action": "actie",
+            "Actions": "acties",
+            "Minute": "minuut",
+            "Minutes": "minuten",
+            "InTheLast": "in de laatste",
+            "And": "en"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Kaartweergave",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "ShowPagination": "Paginering tonen",
+            "ShowColumn": "Kolom tonen",
+            "CustomLabel": "Aangepast label",
+            "Description": "Beschrijving",
+            "ShowLabel": "Label tonen"
+          }
+        },
+        "TableView": {
+          "Title": "Tabelweergave",
+          "Settings": {
+            "ShowInBlock": "Tonen",
+            "CategoryLabel": "Categorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Rapportweergave",
+            "Websites": "Websites",
+            "SortColumn": "Sorteerkolom",
+            "SortOrder": "Sorteervolgorde",
+            "ItemLimit": "Limiet aantal items",
+            "ShowPagination": "Paginering tonen",
+            "Columns": {
+              "CustomLabel": "Aangepast label",
+              "ShowLabel": "Label tonen",
+              "Title": "Kolommen",
+              "Width": "Breedte",
+              "AddColumn": "Kolom toevoegen"
+            },
+            "BuiltInColumns": {
+              "Icon": "Pictogram",
+              "TitleAndLink": "Titel en link",
+              "OpenNewWindow": "Openen in nieuw venster"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Pictogram",
+              "TitleAndLink": "Titel",
+              "OpenNewWindow": "Openen in nieuw venster"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Verplaatsen als kind",
+            "MoveAsSibling": "Verplaatsen als broer/zus"
+          },
+          "ApprovalHistory": {
+            "Approval": "Goedkeuring"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}

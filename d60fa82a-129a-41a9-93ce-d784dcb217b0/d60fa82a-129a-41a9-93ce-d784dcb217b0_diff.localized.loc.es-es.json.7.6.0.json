@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Consulta"
+          },
+          "Settings": {
+            "UseFilterConnection": "Conectar al filtro",
+            "ViewSelect": "Vista"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Informe de análisis",
+          "BlockDescription": "Presenta un informe de análisis.",
+          "PermissionMissing": "No tienes permiso para ver este informe.",
+          "EmptyMessage": "Configura el gráfico de análisis que deseas mostrar.",
+          "FilterWarning": "¡Atención! Algunos filtros no se aplican debido a unaconfiguración faltante en el perfil empresarial seleccionado.",
+          "BusinessProfileNotConfigured": "¡Error! El perfil empresarial seleccionado no está configurado para análisis.",
+          "Settings": {
+            "ShowInBlock": "Mostrar",
+            "CategoryLabel": "Categoría",
+            "ReportLabel": "Informe",
+            "ReportViewLabel": "Vista del informe",
+            "Websites": "Sitios web",
+            "SortColumn": "Columna de ordenación",
+            "SortOrder": "Orden de ordenación",
+            "ItemLimit": "Límite de elementos",
+            "Sorting": {
+              "Ascending": "Ascendente",
+              "Descending": "Descendente"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Contador de análisis",
+          "BlockDescription": "Presenta un contador en tiempo real.",
+          "PermissionMissing": "No tienes permiso para ver este contador.",
+          "EmptyMessage": "Configura el contador de análisis que deseas mostrar.",
+          "Settings": {
+            "ShowSub1": "Mostrar primer subcontador",
+            "ShowSub2": "Mostrar segundo subcontador",
+            "MainCounterLabel": "Contador principal",
+            "Sub1CounterLabel": "Primer subcontador",
+            "Sub2CounterLabel": "Segundo subcontador",
+            "Websites": "Sitios web",
+            "LastMinutesLabel": "Últimos minutos"
+          },
+          "Counters": {
+            "Visits": "Visitas",
+            "Visitors": "Visitantes",
+            "Actions": "Acciones"
+          },
+          "View": {
+            "Visit": "visita",
+            "Visits": "visitas",
+            "Visitor": "visitante",
+            "Visitors": "visitantes",
+            "Action": "acción",
+            "Actions": "acciones",
+            "Minute": "minuto",
+            "Minutes": "minutos",
+            "InTheLast": "en los últimos",
+            "And": "y"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Vista detarjeta",
+          "Settings": {
+            "ShowInBlock": "Mostrar",
+            "CategoryLabel": "Categoría",
+            "ReportLabel": "Informe",
+            "ReportViewLabel": "Vista del informe",
+            "Websites": "Sitios web",
+            "SortColumn": "Columna de ordenación",
+            "SortOrder": "Orden de ordenación",
+            "ItemLimit": "Límite de elementos",
+            "ShowPagination": "Mostrar paginación",
+            "ShowColumn": "Mostrar columna",
+            "CustomLabel": "Etiqueta personalizada",
+            "Description": "Descripción",
+            "ShowLabel": "Mostrar etiqueta"
+          }
+        },
+        "TableView": {
+          "Title": "Vista de tabla",
+          "Settings": {
+            "ShowInBlock": "Mostrar",
+            "CategoryLabel": "Categoría",
+            "ReportLabel": "Informe",
+            "ReportViewLabel": "Vista del informe",
+            "Websites": "Sitios web",
+            "SortColumn": "Columna de ordenación",
+            "SortOrder": "Orden de ordenación",
+            "ItemLimit": "Límite de elementos",
+            "ShowPagination": "Mostrar paginación",
+            "Columns": {
+              "CustomLabel": "Etiqueta personalizada",
+              "ShowLabel": "Mostrar etiqueta",
+              "Title": "Columnas",
+              "Width": "Ancho",
+              "AddColumn": "Agregar columna"
+            },
+            "BuiltInColumns": {
+              "Icon": "Icono",
+              "TitleAndLink": "Título y enlace",
+              "OpenNewWindow": "Abrir en ventana nueva"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Icono",
+              "TitleAndLink": "Título",
+              "OpenNewWindow": "Abrir en ventana nueva"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Mover comohijo",
+            "MoveAsSibling": "Mover como hermano"
+          },
+          "ApprovalHistory": {
+            "Approval": "Aprobación"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}

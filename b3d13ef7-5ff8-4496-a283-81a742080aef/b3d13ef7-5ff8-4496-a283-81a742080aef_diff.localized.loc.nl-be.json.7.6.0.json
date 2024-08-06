@@ -1,0 +1,18 @@
+{
+  "ODM": {
+    "UnpublishDocumentDialog": {
+      "Comment": "Opmerking"
+    }
+  },
+  "OPM": {
+    "Core": {
+      "Validation": {
+        "MaxLengthMessage": "De waarde mag maximaal "
+      }
+    },
+    "ProcessDesigner": {
+      "CustomShapeText": "Aangepaste vormtekst",
+      "ShapeTitle": "Vormtitel"
+    }
+  }
+}

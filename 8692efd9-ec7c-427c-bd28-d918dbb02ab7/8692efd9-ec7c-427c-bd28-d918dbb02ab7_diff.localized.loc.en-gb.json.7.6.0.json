@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Form readable for all",
+          "EnableFormReadableForAll": "Enable form readable for all"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabs content resync",
+          "Description": "When you click on the button below, news articles belonging to this business profile will be deleted and resynced.",
+          "ConfirmationMessage": "Are you sure you want to resync news articles for this business profile?",
+          "Progress": "Resyncing news articles for this business profile is in progress",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync is processing, it may take some time to finish."
+        },
+        "ResyncUsers": {
+          "Title": "Users resync",
+          "TitleSyncSelectedUsers": "Resync selected users",
+          "TitleSyncAllUsers": "Resync all users",
+          "LabelUserToReSync": "Users to sync",
+          "SyncSelectedUsersDescription": "Select and resync users.",
+          "SyncAllUsersDescription": "Resync all available users in the tenant. This will sync every user with all news data.",
+          "ResyncAllUsersBtn": "Resync all users",
+          "ResyncSelectedUserBtn": "Resync users",
+          "Dialog": {
+            "TitleResyncUsers": "Resync users",
+            "MessageResyncUsers": "Do you want to resync these users?",
+            "TitleResyncAllUsers": "Resync all users",
+            "MessageResyncAllUsers": "Do you want to resync all users in the tenant? This may take some time to complete."
+          },
+          "ResyncStatus": {
+            "None": "Not started",
+            "InProgress": "In progress",
+            "Completed": "Completed",
+            "DoneWithFailures": "Done"
+          },
+          "Progression": {
+            "ResyncDate": "Resync date",
+            "Status": "Status",
+            "TrackingId": "Tracking ID",
+            "UsersSynced": "Users synced"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Enable using Azure Intune with the Omnia Feed app."
+        }
+      }
+    }
+  }
+}

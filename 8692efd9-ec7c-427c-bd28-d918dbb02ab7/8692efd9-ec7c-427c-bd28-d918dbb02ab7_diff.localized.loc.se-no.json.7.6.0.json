@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Sáddejuvvon formuláráid buohkaid jaoks",
+          "EnableFormReadableForAll": "Sáddejuvvon formuláráid buohkaid jaoks sáddejuvvo"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabuláhturesynkroniseren",
+          "Description": "Go klikket álgoáššiin, dáidu artihkalaš áššit, mii leat dán biebmu profiilii, galget sáhttán báhkkomiin ja resynkroniseret.",
+          "ConfirmationMessage": "Leatgo sáhtát resynkroniseret artihkalaš áššit dán biebmu profiilii?",
+          "Progress": "Resynkroniseret artihkalaš áššit dán biebmu profiilii lea bargan",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resynkronisering lea bargan, dat sáhttá váldit áiggis dahkat."
+        },
+        "ResyncUsers": {
+          "Title": "Geavaheaddjitresynkroniseret",
+          "TitleSyncSelectedUsers": "Resynkroniseret valddiid geavaheaddjit",
+          "TitleSyncAllUsers": "Resynkroniseret buohkaid geavaheaddjit",
+          "LabelUserToReSync": "Geavaheaddjit resynkroniseret",
+          "SyncSelectedUsersDescription": "Valdda ja resynkroniseret geavaheaddjit.",
+          "SyncAllUsersDescription": "Resynkroniseret buohkaid leatván geavaheaddjit tenantii. Dát resynkroniseret buohkaid geavaheaddjit áššit dieđuid.",
+          "ResyncAllUsersBtn": "Resynkroniseret buohkaid geavaheaddjit",
+          "ResyncSelectedUserBtn": "Resynkroniseret geavaheaddjit",
+          "Dialog": {
+            "TitleResyncUsers": "Resynkroniseret geavaheaddjit",
+            "MessageResyncUsers": "Leatgo sáhtát resynkroniseret dán geavaheaddjebargguid?",
+            "TitleResyncAllUsers": "Resynkroniseret buohkaid geavaheaddjit",
+            "MessageResyncAllUsers": "Leatgo sáhtát resynkroniseret buohkaid geavaheaddjit tenantii? Dát sáhttá váldit áiggis dahkat."
+          },
+          "ResyncStatus": {
+            "None": "Eai leat álgojuvvon",
+            "InProgress": "Bargá",
+            "Completed": "Bargá",
+            "DoneWithFailures": "Bargá"
+          },
+          "Progression": {
+            "ResyncDate": "Resynkroniseret dáta",
+            "Status": "Status",
+            "TrackingId": "Jearahallan Id",
+            "UsersSynced": "Geavaheaddjit resynkroniseret"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Add-ons",
+          "Description": "Sáddejuvvon Azure Intune Omnia Feed appa."
+        }
+      }
+    }
+  }
+}

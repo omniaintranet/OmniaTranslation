@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "Forma irakurkorrak guztientzat",
+          "EnableFormReadableForAll": "Gaitu forma irakurkorrak guztientzat"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Lauki edukiaren berrizsinkronizazioa",
+          "Description": "Beheko botoian klik egiten duzunean, enpresa profila honetan dauden albiste artikuluak ezabatuko dira eta berriz sinkronizatuko dira.",
+          "ConfirmationMessage": "Ziur zaude enpresa profila honentzako albiste artikuluak berriz sinkronizatu nahi dituzula?",
+          "Progress": "Enpresa profila honentzako albiste artikuluak berriz sinkronizatzen ari da",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Sinkronizazioa prozesatzen ari da, denbora bat behar du amaitzeko."
+        },
+        "ResyncUsers": {
+          "Title": "Erabiltzaileenberriz sinkronizazioa",
+          "TitleSyncSelectedUsers": "Hautatutako erabiltzaileen berriz sinkronizazioa",
+          "TitleSyncAllUsers": "Erabiltzaile guztien berriz sinkronizazioa",
+          "LabelUserToReSync": "Sinkronizatzeko erabiltzaileak",
+          "SyncSelectedUsersDescription": "Hautatu eta sinkronizatu erabiltzaileak.",
+          "SyncAllUsersDescription": "Erabiltzaile guztiak berriz sinkronizatu tenantean. Hau erabiltzaile guztiak sinkronizatuko ditu albiste datuekin.",
+          "ResyncAllUsersBtn": "Erabiltzaile guztiak berriz sinkronizatu",
+          "ResyncSelectedUserBtn": "Erabiltzaileak berriz sinkronizatu",
+          "Dialog": {
+            "TitleResyncUsers": "Erabiltzaileak berriz sinkronizatu",
+            "MessageResyncUsers": "Nahi duzu erabiltzaile hauek berriz sinkronizatu?",
+            "TitleResyncAllUsers": "Erabiltzaile guztiak berriz sinkronizatu",
+            "MessageResyncAllUsers": "Nahi duzu tenantean dauden erabiltzaile guztiak berriz sinkronizatu? Amaitzeko denbora bat beharko du."
+          },
+          "ResyncStatus": {
+            "None": "Ez hasi",
+            "InProgress": "Prozesuan",
+            "Completed": "Amaituta",
+            "DoneWithFailures": "Amaituta"
+          },
+          "Progression": {
+            "ResyncDate": "Berriz sinkronizazio data",
+            "Status": "Egoera",
+            "TrackingId": "Jarraipen azpidatza",
+            "UsersSynced": "Sinkronizatutako erabiltzaileak"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "Gehigarriak",
+          "Description": "Gaitu Azure Intune erabiltzea Omnia Feed aplikazioarekin."
+        }
+      }
+    }
+  }
+}

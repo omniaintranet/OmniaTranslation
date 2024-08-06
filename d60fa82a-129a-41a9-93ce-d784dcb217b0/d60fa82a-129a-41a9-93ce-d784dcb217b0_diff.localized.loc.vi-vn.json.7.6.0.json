@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Truy vấn"
+          },
+          "Settings": {
+            "UseFilterConnection": "Kết nối với bộ lọc",
+            "ViewSelect": "Xem"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Báo cáo phân tích",
+          "BlockDescription": "Hiển thị báo cáo phân tích.",
+          "PermissionMissing": "Bạn không có quyền xem báo cáo này.",
+          "EmptyMessage": "Vui lòng cấu hình đồ thị phân tích bạn muốn hiển thị.",
+          "FilterWarning": "Lưu ý! Một số bộ lọc không được áp dụng do thiếu cấu hình trên hồ sơ kinh doanh đã chọn.",
+          "BusinessProfileNotConfigured": "Lỗi! Hồ sơ kinh doanh đã chọn chưa được cấu hình phân tích.",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Sắp xếp cột",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "Sorting": {
+              "Ascending": "Tăng dần",
+              "Descending": "Giảm dần"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Bộ đếm phân tích",
+          "BlockDescription": "Hiển thị bộ đếm trực tiếp.",
+          "PermissionMissing": "Bạn không có quyền xem bộ đếm này.",
+          "EmptyMessage": "Vui lòng cấu hình bộ đếm phân tích bạn muốn hiển thị.",
+          "Settings": {
+            "ShowSub1": "Hiển thị bộ đếm phụ 1",
+            "ShowSub2": "Hiển thị bộ đếm phụ 2",
+            "MainCounterLabel": "Bộ đếm chính",
+            "Sub1CounterLabel": "Bộ đếm phụ 1",
+            "Sub2CounterLabel": "Bộ đếm phụ 2",
+            "Websites": "Trang web",
+            "LastMinutesLabel": "Phút gần đây"
+          },
+          "Counters": {
+            "Visits": "Lượt truy cập",
+            "Visitors": "Người truy cập",
+            "Actions": "Hành động"
+          },
+          "View": {
+            "Visit": "lượt truy cập",
+            "Visits": "lượt truy cập",
+            "Visitor": "người truy cập",
+            "Visitors": "người truy cập",
+            "Action": "hành động",
+            "Actions": "hành động",
+            "Minute": "phút",
+            "Minutes": "phút",
+            "InTheLast": "trong",
+            "And": "và"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Giao diện thẻ",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Sắp xếp cột",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "ShowPagination": "Hiển thị phân trang",
+            "ShowColumn": "Hiển thị cột",
+            "CustomLabel": "Nhãn tùy chỉnh",
+            "Description": "Mô tả",
+            "ShowLabel": "Hiển thị nhãn"
+          }
+        },
+        "TableView": {
+          "Title": "Giao diện bảng",
+          "Settings": {
+            "ShowInBlock": "Hiển thị",
+            "CategoryLabel": "Danh mục",
+            "ReportLabel": "Báo cáo",
+            "ReportViewLabel": "Xem báo cáo",
+            "Websites": "Trang web",
+            "SortColumn": "Sắp xếp cột",
+            "SortOrder": "Thứ tự sắp xếp",
+            "ItemLimit": "Giới hạn mục",
+            "ShowPagination": "Hiển thị phân trang",
+            "Columns": {
+              "CustomLabel": "Nhãn tùy chỉnh",
+              "ShowLabel": "Hiển thị nhãn",
+              "Title": "Cột",
+              "Width": "Độ rộng",
+              "AddColumn": "Thêm cột"
+            },
+            "BuiltInColumns": {
+              "Icon": "Biểu tượng",
+              "TitleAndLink": "Tiêu đề và liên kết",
+              "OpenNewWindow": "Mở trong cửa sổ mới"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Biểu tượng",
+              "TitleAndLink": "Tiêu đề",
+              "OpenNewWindow": "Mở trong cửa sổ mới"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Di chuyển như con",
+            "MoveAsSibling": "Di chuyển như anh em"
+          },
+          "ApprovalHistory": {
+            "Approval": "Phê duyệt"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}}: {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}

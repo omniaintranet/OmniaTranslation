@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "모든 사용자가 읽을 수 있는 양식",
+          "EnableFormReadableForAll": "모든 사용자가 읽을 수 있는 양식 사용"
+        },
+        "ResyncNewsArticles": {
+          "Title": "탭 콘텐츠 재동기화",
+          "Description": "아래 버튼을 클릭하면 이 비즈니스 프로필에 속한 뉴스 기사가 삭제되고 재동기화됩니다.",
+          "ConfirmationMessage": "이 비즈니스 프로필의 뉴스 기사를 재동기화하시겠습니까?",
+          "Progress": "이 비즈니스 프로필의 뉴스 기사 재동기화 진행 중",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "동기화가 진행 중이며 완료까지 시간이 걸릴 수 있습니다."
+        },
+        "ResyncUsers": {
+          "Title": "사용자 재동기화",
+          "TitleSyncSelectedUsers": "선택한 사용자 재동기화",
+          "TitleSyncAllUsers": "모든 사용자 재동기화",
+          "LabelUserToReSync": "동기화할 사용자",
+          "SyncSelectedUsersDescription": "사용자를 선택하고 동기화합니다.",
+          "SyncAllUsersDescription": "테넌트에 있는 모든 사용자를 재동기화합니다. 이렇게 하면 모든 사용자가 모든 뉴스 데이터와 동기화됩니다.",
+          "ResyncAllUsersBtn": "모든 사용자 재동기화",
+          "ResyncSelectedUserBtn": "사용자 재동기화",
+          "Dialog": {
+            "TitleResyncUsers": "사용자 재동기화",
+            "MessageResyncUsers": "이 사용자를 재동기화하시겠습니까?",
+            "TitleResyncAllUsers": "모든 사용자 재동기화",
+            "MessageResyncAllUsers": "테넌트의 모든 사용자를 재동기화하시겠습니까? 완료까지 시간이 걸릴 수 있습니다."
+          },
+          "ResyncStatus": {
+            "None": "시작되지 않음",
+            "InProgress": "진행 중",
+            "Completed": "완료됨",
+            "DoneWithFailures": "완료됨(오류 발생)"
+          },
+          "Progression": {
+            "ResyncDate": "재동기화 날짜",
+            "Status": "상태",
+            "TrackingId": "추적 ID",
+            "UsersSynced": "동기화된 사용자"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "애드온",
+          "Description": "Omnia Feed 앱에서 Azure Intune 사용 가능"
+        }
+      }
+    }
+  }
+}

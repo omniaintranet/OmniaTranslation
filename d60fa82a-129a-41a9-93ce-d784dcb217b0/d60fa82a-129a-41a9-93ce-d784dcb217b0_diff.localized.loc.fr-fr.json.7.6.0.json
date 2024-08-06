@@ -1,0 +1,149 @@
+{
+  "WCM": {
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Sections": {
+            "Query": "Requête"
+          },
+          "Settings": {
+            "UseFilterConnection": "Connecter au filtre",
+            "ViewSelect": "Vue"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Rapport d'analyse",
+          "BlockDescription": "Présente un rapport d'analyse.",
+          "PermissionMissing": "Vous n'avez pas l'autorisation de consulter ce rapport.",
+          "EmptyMessage": "Veuillez configurer le graphique d'analyse que vous souhaitez afficher.",
+          "FilterWarning": "Note ! Certains filtres ne sont pas appliqués en raison d'une configuration manquante sur le profil d'entreprise sélectionné.",
+          "BusinessProfileNotConfigured": "Erreur ! Le profil d'entreprise sélectionné n'est pas configuré pour l'analyse.",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "Sorting": {
+              "Ascending": "Croissant",
+              "Descending": "Décroissant"
+            }
+          },
+          "View": {}
+        },
+        "LiveCounter": {
+          "BlockTitle": "Compteur d'analyse",
+          "BlockDescription": "Présente un compteur en direct.",
+          "PermissionMissing": "Vous n'avez pas l'autorisation de consulter ce compteur.",
+          "EmptyMessage": "Veuillez configurer le compteur d'analyse que vous souhaitez afficher.",
+          "Settings": {
+            "ShowSub1": "Afficher le premier sous-compteur",
+            "ShowSub2": "Afficher le deuxième sous-compteur",
+            "MainCounterLabel": "Compteur principal",
+            "Sub1CounterLabel": "Premier sous-compteur",
+            "Sub2CounterLabel": "Deuxième sous-compteur",
+            "Websites": "Sites web",
+            "LastMinutesLabel": "Dernières minutes"
+          },
+          "Counters": {
+            "Visits": "Visites",
+            "Visitors": "Visiteurs",
+            "Actions": "Actions"
+          },
+          "View": {
+            "Visit": "visite",
+            "Visits": "visites",
+            "Visitor": "visiteur",
+            "Visitors": "visiteurs",
+            "Action": "action",
+            "Actions": "actions",
+            "Minute": "minute",
+            "Minutes": "minutes",
+            "InTheLast": "dans les dernières",
+            "And": "et"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Title": "Vue en cartes",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "ShowPagination": "Afficher la pagination",
+            "ShowColumn": "Afficher la colonne",
+            "CustomLabel": "Libellé personnalisé",
+            "Description": "Description",
+            "ShowLabel": "Afficher le libellé"
+          }
+        },
+        "TableView": {
+          "Title": "Vue en tableau",
+          "Settings": {
+            "ShowInBlock": "Afficher",
+            "CategoryLabel": "Catégorie",
+            "ReportLabel": "Rapport",
+            "ReportViewLabel": "Vue du rapport",
+            "Websites": "Sites web",
+            "SortColumn": "Colonne de tri",
+            "SortOrder": "Ordre de tri",
+            "ItemLimit": "Limite d'éléments",
+            "ShowPagination": "Afficher la pagination",
+            "Columns": {
+              "CustomLabel": "Libellé personnalisé",
+              "ShowLabel": "Afficher le libellé",
+              "Title": "Colonnes",
+              "Width": "Largeur",
+              "AddColumn": "Ajouter une colonne"
+            },
+            "BuiltInColumns": {
+              "Icon": "Icône",
+              "TitleAndLink": "Titre et lien",
+              "OpenNewWindow": "Ouvrir dans une nouvelle fenêtre"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "Icon": "Icône",
+              "TitleAndLink": "Titre",
+              "OpenNewWindow": "Ouvrir dans une nouvelle fenêtre"
+            }
+          }
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "MoveAsChild": "Déplaceren tant qu'enfant",
+            "MoveAsSibling": "Déplacer en tant que frère/soeur"
+          },
+          "ApprovalHistory": {
+            "Approval": "Approbation"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailHistoryItemComplete": "{{ApprovalDate}}, {{ApprovalAction}} : {{ApprovalReceiver}}.<br/>\"{{ApprovalComment}}\"</br></br>"
+        }
+      }
+    }
+  }
+}

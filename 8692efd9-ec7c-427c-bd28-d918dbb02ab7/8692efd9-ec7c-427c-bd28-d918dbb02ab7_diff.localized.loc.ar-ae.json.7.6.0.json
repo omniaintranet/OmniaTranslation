@@ -1,0 +1,54 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "FormReadableForAll": {
+          "Title": "نموذج قابل للقراءة للجميع",
+          "EnableFormReadableForAll": "تمكين نموذج قابل للقراءة للجميع"
+        },
+        "ResyncNewsArticles": {
+          "Title": "مزامنة محتوى العلامات التبويبية",
+          "Description": "عند النقر على الزر أدناه، سيتم حذف ومزامنة مقالات الأخبار التي تنتمي إلى ملف تعريف الأعمال هذا.",
+          "ConfirmationMessage": "هل أنت متأكد أنك تريد إعادة مزامنة مقالات الأخبار لملف تعريف الأعمال هذا؟",
+          "Progress": "جاري مزامنة مقالات الأخبار لملف تعريف الأعمال هذا",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "جاري المزامنة، قد يستغرق بعضالوقت لإنهائها."
+        },
+        "ResyncUsers": {
+          "Title": "مزامنة المستخدمين",
+          "TitleSyncSelectedUsers": "مزامنة المستخدمين المحددين",
+          "TitleSyncAllUsers": "مزامنة جميع المستخدمين",
+          "LabelUserToReSync": "المستخدمين للمزامنة",
+          "SyncSelectedUsersDescription": "حدد وقم بمزامنة المستخدمين.",
+          "SyncAllUsersDescription": "مزامنة جميع المستخدمين المتاحين في المستأجر. سيتم مزامنة كل مستخدم مع جميع بيانات الأخبار.",
+          "ResyncAllUsersBtn": "مزامنة جميع المستخدمين",
+          "ResyncSelectedUserBtn": "مزامنة المستخدمين",
+          "Dialog": {
+            "TitleResyncUsers": "مزامنة المستخدمين",
+            "MessageResyncUsers": "هل ترغب في مزامنة هؤلاء المستخدمين؟",
+            "TitleResyncAllUsers": "مزامنة جميع المستخدمين",
+            "MessageResyncAllUsers": "هل ترغب في مزامنة جميع المستخدمين في المستأجر؟ قد يستغرق ذلك بعض الوقت لإكماله."
+          },
+          "ResyncStatus": {
+            "None": "لم يبدأ",
+            "InProgress": "قيد التنفيذ",
+            "Completed": "تم الانتهاء",
+            "DoneWithFailures": "تم"
+          },
+          "Progression": {
+            "ResyncDate": "تاريخ المزامنة",
+            "Status": "الحالة",
+            "TrackingId": "معرّف التتبع",
+            "UsersSynced": "المستخدمينالمتزامنين"
+          }
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Title": "Omnia Feed Azure Intune",
+          "Category": "الإضافات",
+          "Description": "تمكين استخدام Azure Intune مع تطبيقOmnia Feed."
+        }
+      }
+    }
+  }
+}
