@@ -17,7 +17,7 @@
           "PermissionMissing": "Sinulla ei ole oikeutta nähdä tätä raporttia.",
           "EmptyMessage": "Määritä haluamasi analytiikkakaavio.",
           "FilterWarning": "Huomio! Joitain suodattimia ei ole otettu käyttöön valitun liiketoimintaprofiilin puuttuvan määrityksen vuoksi.",
-          "BusinessProfileNotConfigured": "Virhe! Valittu liiketoimintaprofiili eiole määritetty analytiikkaan.",
+          "BusinessProfileNotConfigured": "Virhe! Analytiikkaa ei ole määritetty valitulle liiketoimintaprofiilille.",
           "Settings": {
             "ShowInBlock": "Näytä",
             "CategoryLabel": "Luokka",
@@ -74,13 +74,13 @@
           "Title": "Korttinäkymä",
           "Settings": {
             "ShowInBlock": "Näytä",
-            "CategoryLabel": "Luokka",
+            "CategoryLabel": "Kategoria",
             "ReportLabel": "Raportti",
             "ReportViewLabel": "Raporttinäkymä",
             "Websites": "Verkkosivustot",
             "SortColumn": "Lajittele sarakkeen mukaan",
             "SortOrder": "Lajittelujärjestys",
-            "ItemLimit": "Kohteen rajoitus",
+            "ItemLimit": "Näytettävä lukumäärä",
             "ShowPagination": "Näytä sivutus",
             "ShowColumn": "Näytä sarake",
             "CustomLabel": "Mukautettu tunniste",
@@ -92,13 +92,13 @@
           "Title": "Taulukkonäkymä",
           "Settings": {
             "ShowInBlock": "Näytä",
-            "CategoryLabel": "Luokka",
+            "CategoryLabel": "Kategoria",
             "ReportLabel": "Raportti",
             "ReportViewLabel": "Raporttinäkymä",
             "Websites": "Verkkosivustot",
             "SortColumn": "Lajittele sarakkeen mukaan",
             "SortOrder": "Lajittelujärjestys",
-            "ItemLimit": "Kohteen rajoitus",
+            "ItemLimit": "Näytettävä lukumäärä",
             "ShowPagination": "Näytä sivutus",
             "Columns": {
               "CustomLabel": "Mukautettu tunniste",
@@ -127,7 +127,7 @@
       "Editor": {
         "Dialogs": {
           "MoveNode": {
-            "MoveAsChild": "Siirrälapsena",
+            "MoveAsChild": "Siirrä lapsena",
             "MoveAsSibling": "Siirrä sisaruksena"
           },
           "ApprovalHistory": {
