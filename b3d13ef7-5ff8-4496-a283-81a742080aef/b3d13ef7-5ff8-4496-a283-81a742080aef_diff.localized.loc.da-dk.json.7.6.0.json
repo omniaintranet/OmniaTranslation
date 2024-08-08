@@ -11,8 +11,8 @@
       }
     },
     "ProcessDesigner": {
-      "CustomShapeText": "Brugerdefineret form tekst",
-      "ShapeTitle": "Form titel"
+      "CustomShapeText": "Figurtekst",
+      "ShapeTitle": "Figurtitel"
     }
   }
 }
