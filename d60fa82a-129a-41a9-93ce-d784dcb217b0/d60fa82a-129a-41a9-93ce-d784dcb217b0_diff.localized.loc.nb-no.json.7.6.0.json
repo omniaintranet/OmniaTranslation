@@ -16,7 +16,7 @@
           "BlockDescription": "Presenterer en analyserapport.",
           "PermissionMissing": "Du har ikke tillatelse til å se denne rapporten.",
           "EmptyMessage": "Vennligst konfigurer grafen for analyser du ønsker å vise.",
-          "FilterWarning": "Merk! Noen filtre er ikke brukt på grunn av manglende konfigurasjon på valgt forretningsprofil.",
+          "FilterWarning": "Merk! Noen filtre er ikke brukt på grunn av manglende konfigurasjon på den valgte forretningsprofil.",
           "BusinessProfileNotConfigured": "Feil! Den valgte forretningsprofilen er ikke konfigurert for analyser.",
           "Settings": {
             "ShowInBlock": "Vis",
@@ -35,10 +35,10 @@
           "View": {}
         },
         "LiveCounter": {
-          "BlockTitle": "Analyseteller",
-          "BlockDescription": "Presenterer en live teller.",
+          "BlockTitle": "Besøksteller",
+          "BlockDescription": "Visning av antall besøkende.",
           "PermissionMissing": "Du har ikke tillatelse til å se denne telleren.",
-          "EmptyMessage": "Vennligst konfigurer telleren for analyser du ønsker å vise.",
+          "EmptyMessage": "Vennligst konfigurer telleren for besøk du ønsker å vise.",
           "Settings": {
             "ShowSub1": "Vis første underteller",
             "ShowSub2": "Vis andre underteller",
