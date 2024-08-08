@@ -11,7 +11,7 @@
           "Description": "When you click on the below button, news articles belonging to this business profile will be deleted and resynced.",
           "ConfirmationMessage": "Are you sure you want to resync news articles for this business profile?",
           "Progress": "Resync news articles for this business profile is running",
-          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync is processing, itcan take some time to finish."
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Resync is processing, it can take some time to finish."
         },
         "ResyncUsers": {
           "Title": "Users resync",
@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Resync all Users",
           "LabelUserToReSync": "Users to sync",
           "SyncSelectedUsersDescription": "Select and resync users.",
-          "SyncAllUsersDescription": "Resync all available users in tenant. This will sync every users with all news data.",
+          "SyncAllUsersDescription": "Resync all available users in tenant. This will sync all users with all news data.",
           "ResyncAllUsersBtn": "Resync all users",
           "ResyncSelectedUserBtn": "Resync users",
           "Dialog": {
