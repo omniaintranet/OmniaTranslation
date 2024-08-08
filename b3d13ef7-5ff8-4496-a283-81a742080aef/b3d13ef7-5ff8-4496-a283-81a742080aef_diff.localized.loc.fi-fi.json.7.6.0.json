@@ -7,7 +7,7 @@
   "OPM": {
     "Core": {
       "Validation": {
-        "MaxLengthMessage": "Arvon tulee olla enintään "
+        "MaxLengthMessage": "Arvon pituuden tulee olla enintään "
       }
     },
     "ProcessDesigner": {
