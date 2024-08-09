@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Synchronizuj wszystkich użytkowników",
           "LabelUserToReSync": "Użytkownicy do synchronizacji",
           "SyncSelectedUsersDescription": "Wybierz i zsynchronizuj użytkowników.",
-          "SyncAllUsersDescription": "Synchronizuj wszystkich dostępnych użytkowników w dzierżawie. Spowoduje to zsynchronizowanie wszystkich użytkowników z danymi dotyczącymi artykułów informacyjnych.",
+          "SyncAllUsersDescription": "Synchronizuj wszystkich dostępnych użytkowników w dzierżawie. To zsynchronizuje każdego użytkownika z wszystkimi nowymi danymi.",
           "ResyncAllUsersBtn": "Synchronizuj wszystkich użytkowników",
           "ResyncSelectedUserBtn": "Synchronizuj użytkowników",
           "Dialog": {
