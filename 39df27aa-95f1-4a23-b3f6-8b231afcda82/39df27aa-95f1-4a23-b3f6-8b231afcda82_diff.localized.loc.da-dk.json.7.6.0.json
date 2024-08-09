@@ -3,7 +3,7 @@
     "Analytics": {
       "permissions": {
         "matomoUsers": "Matomo-brugere",
-        "analyticsReportViewers": "Læser af analyse rapporter"
+        "analyticsReportViewers": "Læser af analyserapporter"
       }
     }
   }
