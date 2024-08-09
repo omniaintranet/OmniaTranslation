@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Alle Benutzer neu synchronisieren",
           "LabelUserToReSync": "Zu synchronisierende Benutzer",
           "SyncSelectedUsersDescription": "Benutzer auswählen und synchronisieren.",
-          "SyncAllUsersDescription": "Alle verfügbaren Benutzer im Mandanten neu synchronisieren. Dadurch werden alle Benutzer mit allen Nachrichtendaten synchronisiert.",
+          "SyncAllUsersDescription": "Alle verfügbaren Benutzer im Mandanten neu synchronisieren. Dies wird jeden Benutzer mit allen neuen Daten synchronisieren.",
           "ResyncAllUsersBtn": "Alle Benutzer neu synchronisieren",
           "ResyncSelectedUserBtn": "Benutzer neu synchronisieren",
           "Dialog": {
