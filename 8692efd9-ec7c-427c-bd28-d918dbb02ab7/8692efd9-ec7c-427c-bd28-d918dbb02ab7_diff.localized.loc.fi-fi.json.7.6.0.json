@@ -4,12 +4,12 @@
       "Settings": {
         "FormReadableForAll": {
           "Title": "Lomake luettavissa kaikille",
-          "EnableFormReadableForAll": "Ota käyttöön lomake luettavissa kaikille"
+          "EnableFormReadableForAll": "Lomake kaikkien luettavaksi"
         },
         "ResyncNewsArticles": {
-          "Title": "Välilehtien sisällön synkronointi",
-          "Description": "Kun napsautat alla olevaa painiketta, tämän liiketoimintaprofiiliin kuuluvat uutisartikkelit poistetaan ja synkronoidaan uudelleen.",
-          "ConfirmationMessage": "Haluatko varmasti synkronoida uutisartikkelituudelleen tälle liiketoimintaprofiilille?",
+         "Title": "Välilehtien sisällön uudelleensynkronointi",
+          "Description": "Kun napsautat alla olevaa painiketta, tämän liiketoimintaprofiilin uutisartikkelit poistetaan ja synkronoidaan uudelleen.",
+          "ConfirmationMessage": "Haluatko varmasti synkronoida tämän liiketoimintaprofiilin uutisartikkelit uudelleen?",
           "Progress": "Välilehtien sisällön synkronointi tälle liiketoimintaprofiilille on käynnissä",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkronointi on käynnissä, sen suorittaminen voi kestää jonkin aikaa."
         },
@@ -26,7 +26,7 @@
             "TitleResyncUsers": "Synkronoi käyttäjät",
             "MessageResyncUsers": "Haluatko synkronoida nämä käyttäjät?",
             "TitleResyncAllUsers": "Synkronoi kaikki käyttäjät",
-            "MessageResyncAllUsers": "Haluatko synkronoida kaikki käyttäjät tenantissa? Tämä vie jonkin aikaa suorittaa."
+            "MessageResyncAllUsers": "Haluatko synkronoida kaikki käyttäjät tenantissa? Tämä vie jonkin aikaa."
           },
           "ResyncStatus": {
             "None": "Ei aloitettu",
@@ -46,7 +46,7 @@
         "AzureIntune": {
           "Title": "Omnia Feed Azure Intune",
           "Category": "Lisäosat",
-          "Description": "Ota käyttöön Azure Intune Omnia Feed -sovelluksessa."
+          "Description": "Ota käyttöön Azure Intune Omnia Feed -sovelluksen kanssa."
         }
       }
     }
