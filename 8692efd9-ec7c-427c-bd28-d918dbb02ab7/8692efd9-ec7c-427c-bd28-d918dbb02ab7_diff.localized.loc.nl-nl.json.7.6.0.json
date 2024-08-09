@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Alle gebruikers opnieuw synchroniseren",
           "LabelUserToReSync": "Gebruikers om te synchroniseren",
           "SyncSelectedUsersDescription": "Selecteer en synchroniseer gebruikers.",
-          "SyncAllUsersDescription": "Synchroniseer alle beschikbare gebruikers in de tenant. Dit zal alle gebruikers synchroniseren met alle nieuwsgegevens.",
+          "SyncAllUsersDescription": "Synchroniseer alle beschikbare gebruikers in de tenant. Dit zal elke gebruiker met alle nieuwe gegevens synchroniseren.",
           "ResyncAllUsersBtn": "Alle gebruikers opnieuw synchroniseren",
           "ResyncSelectedUserBtn": "Gebruikers opnieuw synchroniseren",
           "Dialog": {
