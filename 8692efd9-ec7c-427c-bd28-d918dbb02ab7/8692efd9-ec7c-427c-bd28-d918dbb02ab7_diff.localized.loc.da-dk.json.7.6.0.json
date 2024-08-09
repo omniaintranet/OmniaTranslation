@@ -3,15 +3,15 @@
     "Feed": {
       "Settings": {
         "FormReadableForAll": {
-          "Title": "Formular læsbar for alle",
-          "EnableFormReadableForAll": "Aktivér formular læsbar foralle"
+          "Title": "Læreadgang til formular for alle",
+          "EnableFormReadableForAll": "Aktivér læseadgang til formular for alle"
         },
         "ResyncNewsArticles": {
-          "Title": "Synkronisering af fanerindhold",
-          "Description": "Når du klikker på knappen nedenfor, vil nyhedsartikler tilhørende denne virksomhedsprofil blive slettet og synkroniseretigen.",
-          "ConfirmationMessage": "Er du sikker på, at du vil synkronisere nyhedsartikler for denne virksomhedsprofil igen?",
+          "Title": "Synkronisering af indhold på fane",
+          "Description": "Når du klikker på knappen nedenfor, vil nyhedsartikler fra denne virksomhedsprofil blive slettet og synkroniseret igen.",
+          "ConfirmationMessage": "Er du sikker på, at du vil synkronisere nyhedsartiklerne for denne virksomhedsprofil igen?",
           "Progress": "Synkronisering af nyhedsartikler for denne virksomhedsprofil kører",
-          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkroniseringen er i gang, det kan tage noget tid at fuldføre."
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkroniseringen er i gang. Det kan tage noget tid at fuldføre."
         },
         "ResyncUsers": {
           "Title": "Synkronisering af brugere",
