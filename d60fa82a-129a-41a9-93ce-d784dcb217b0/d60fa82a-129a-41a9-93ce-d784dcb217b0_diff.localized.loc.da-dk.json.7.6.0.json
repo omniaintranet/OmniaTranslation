@@ -13,11 +13,11 @@
         },
         "Report": {
           "BlockTitle": "Analyserapport",
-          "BlockDescription": "Præsenterer en analyserapport.",
+          "BlockDescription": "Viser en analyserapport.",
           "PermissionMissing": "Du har ikke tilladelse til at se denne rapport.",
           "EmptyMessage": "Konfigurer venligst den graf, du vil vise.",
-          "FilterWarning": "Bemærk! Nogle filtre anvendes ikke på grund af manglende konfiguration på valgt virksomhedsprofil.",
-          "BusinessProfileNotConfigured": "Fejl! Den valgte virksomhed er ikke sat op til analyse.",
+          "FilterWarning": "Bemærk! Nogle filtre anvendes ikke på grund af manglende konfiguration på den valgte virksomhedsprofil.",
+          "BusinessProfileNotConfigured": "Fejl! Den valgte virksomhedsprofil er ikke sat op til analyse.",
           "Settings": {
             "ShowInBlock": "Vis",
             "CategoryLabel": "Kategori",
