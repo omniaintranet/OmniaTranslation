@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Resync all Users",
           "LabelUserToReSync": "Users to sync",
           "SyncSelectedUsersDescription": "Select and resync users.",
-          "SyncAllUsersDescription": "Resync all available users in tenant. This will sync every users with all news data.",
+          "SyncAllUsersDescription": "Resync all available users in tenant. This will sync every user with all news data.",
           "ResyncAllUsersBtn": "Resync all users",
           "ResyncSelectedUserBtn": "Resync users",
           "Dialog": {
