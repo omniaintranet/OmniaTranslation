@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Đồng bộ lại tất cả người dùng",
           "LabelUserToReSync": "Người dùng cần đồng bộ",
           "SyncSelectedUsersDescription": "Chọn và đồng bộ lại người dùng.",
-          "SyncAllUsersDescription": "Đồng bộ lại tất cả người dùng có sẵn trong tenant. Điều này sẽ đồng bộ mọi người dùng với tất cả dữ liệu tin tức.",
+          "SyncAllUsersDescription": "Đồng bộ lại tất cả người dùng có sẵn trong tenant. Điều này sẽ đồng bộ hóa mọi người dùng với tất cả dữ liệu mới.",
           "ResyncAllUsersBtn": "Đồng bộ lại tất cả người dùng",
           "ResyncSelectedUserBtn": "Đồng bộ lại người dùng",
           "Dialog": {
