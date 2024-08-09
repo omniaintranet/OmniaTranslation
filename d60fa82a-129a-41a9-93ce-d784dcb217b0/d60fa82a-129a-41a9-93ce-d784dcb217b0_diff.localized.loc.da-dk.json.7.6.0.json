@@ -40,9 +40,9 @@
           "PermissionMissing": "Du har ikke tilladelse til at se denne tæller.",
           "EmptyMessage": "Konfigurer venligst den tæller, du vil vise.",
           "Settings": {
-            "ShowSub1": "Vis første sekundøre tæller",
+            "ShowSub1": "Vis første sekundære tæller",
             "ShowSub2": "Vis anden sekundære tæller",
-            "MainCounterLabel": "Primære tæller",
+            "MainCounterLabel": "Primær tæller",
             "Sub1CounterLabel": "Første sekundære tæller",
             "Sub2CounterLabel": "Anden sekundære tæller",
             "Websites": "Websites",
