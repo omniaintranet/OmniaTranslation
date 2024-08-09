@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Risincronizza tutti gli utenti",
           "LabelUserToReSync": "Utenti da sincronizzare",
           "SyncSelectedUsersDescription": "Seleziona e risincronizza gli utenti.",
-          "SyncAllUsersDescription": "Risincronizza tutti gli utenti disponibili nel tenant. Ciò sincronizzerà tutti gli utenti con tutti i dati delle notizie.",
+          "SyncAllUsersDescription": "Risincronizza tutti gli utenti disponibili nel tenant. Questo sincronizzerà ogni utente con tutti i nuovi dati.",
           "ResyncAllUsersBtn": "Risincronizza tutti gli utenti",
           "ResyncSelectedUserBtn": "Risincronizza utenti",
           "Dialog": {
