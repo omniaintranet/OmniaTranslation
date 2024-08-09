@@ -3,12 +3,12 @@
     "Feed": {
       "Settings": {
         "FormReadableForAll": {
-          "Title": "Skjema lesbar for alle",
-          "EnableFormReadableForAll": "Aktiver skjema lesbar for alle"
+          "Title": "Lesetilgang til skjema for alle",
+          "EnableFormReadableForAll": "Aktiver lesetilgang til skjema for alle"
         },
         "ResyncNewsArticles": {
           "Title": "Synkronisering av innhold i faner",
-          "Description": "Når du klikker på knappen nedenfor, vil nyhetsartikler somtilhører denne bedriftsprofilen bli slettet og synkronisert på nytt.",
+          "Description": "Når du klikker på knappen nedenfor, vil nyhetsartikler som tilhører denne bedriftsprofilen bli slettet og synkronisert på nytt.",
           "ConfirmationMessage": "Er du sikker på at du vil synkronisere nyhetsartikler for denne bedriftsprofilen på nytt?",
           "Progress": "Synkronisering av nyhetsartikler for denne bedriftsprofilen pågår",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Synkroniseringen pågår, det kan ta litt tid å fullføre."
@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Synkroniser alle brukere",
           "LabelUserToReSync": "Brukere å synkronisere",
           "SyncSelectedUsersDescription": "Velg og synkroniser brukere.",
-          "SyncAllUsersDescription": "Synkroniser alle tilgjengelige brukere i tenant. Dette vil synkronisere alle brukere med all nyhetsdata.",
+          "SyncAllUsersDescription": "Synkroniser alle tilgjengelige brukere i tenant. Dette vil synkronisere alle brukere med ny data.",
           "ResyncAllUsersBtn": "Synkroniser alle brukere",
           "ResyncSelectedUserBtn": "Synkroniser brukere",
           "Dialog": {
