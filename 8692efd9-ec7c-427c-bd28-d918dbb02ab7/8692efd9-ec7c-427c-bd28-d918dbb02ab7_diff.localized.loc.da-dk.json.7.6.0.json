@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Synkronisering af alle brugere",
           "LabelUserToReSync": "Brugere, der skal synkroniseres",
           "SyncSelectedUsersDescription": "Vælg og synkronisér brugere.",
-          "SyncAllUsersDescription": "Synkronisér alle tilgængelige brugere i tenant. Dette vil synkronisere alle brugere med alle nyhedsdata.",
+          "SyncAllUsersDescription": "Synkronisér alle tilgængelige brugere i tenant. Dette vil synkronisere alle brugere med ny data.",
           "ResyncAllUsersBtn": "Synkronisér alle brugere",
           "ResyncSelectedUserBtn": "Synkronisér brugere",
           "Dialog": {
