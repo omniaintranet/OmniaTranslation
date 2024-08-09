@@ -5,10 +5,10 @@
         "FormReadableForAll": {
           "Title": "Formular für alle lesbar",
           "EnableFormReadableForAll": "Formular für alle lesbar aktivieren"
-        },
+        }, 
         "ResyncNewsArticles": {
           "Title": "Inhalte der Tabs neu synchronisieren",
-          "Description": "Wenn Sie auf den unten stehenden Button klicken,werden die Nachrichtenartikel dieses Geschäftsprofils gelöscht und neu synchronisiert.",
+          "Description": "Wenn Sie auf den unten stehenden Button klicken, werden die Nachrichtenartikel dieses Geschäftsprofils gelöscht und neu synchronisiert.",
           "ConfirmationMessage": "Möchten Sie die Nachrichtenartikel dieses Geschäftsprofils neu synchronisieren?",
           "Progress": "Die Neu-Synchronisierung der Nachrichtenartikel für dieses Geschäftsprofil wird ausgeführt",
           "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Die Synchronisierung wird durchgeführt und kann einige Zeit dauern."
