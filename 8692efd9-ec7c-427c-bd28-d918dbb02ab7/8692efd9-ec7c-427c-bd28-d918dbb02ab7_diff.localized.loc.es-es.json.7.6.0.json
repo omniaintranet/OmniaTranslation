@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Resincronizar todos los usuarios",
           "LabelUserToReSync": "Usuarios a sincronizar",
           "SyncSelectedUsersDescription": "Selecciona y resincroniza usuarios.",
-          "SyncAllUsersDescription": "Resincroniza todos los usuarios disponibles en el inquilino. Esto sincronizará a todos los usuarios con todos los datos de noticias.",
+          "SyncAllUsersDescription": "Resincroniza todos los usuarios disponibles en el inquilino. Esto sincronizará a cada usuario con todos los datos nuevos.",
           "ResyncAllUsersBtn": "Resincronizar todos los usuarios",
           "ResyncSelectedUserBtn": "Resincronizar usuarios",
           "Dialog": {
