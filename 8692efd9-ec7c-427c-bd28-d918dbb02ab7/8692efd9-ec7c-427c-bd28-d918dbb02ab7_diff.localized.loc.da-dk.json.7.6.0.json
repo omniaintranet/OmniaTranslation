@@ -3,7 +3,7 @@
     "Feed": {
       "Settings": {
         "FormReadableForAll": {
-          "Title": "Læreadgang til formular for alle",
+          "Title": "Læseadgang til formular for alle",
           "EnableFormReadableForAll": "Aktivér læseadgang til formular for alle"
         },
         "ResyncNewsArticles": {
