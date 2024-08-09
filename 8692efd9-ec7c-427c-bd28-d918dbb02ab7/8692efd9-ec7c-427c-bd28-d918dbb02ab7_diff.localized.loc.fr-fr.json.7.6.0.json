@@ -19,7 +19,7 @@
           "TitleSyncAllUsers": "Resynchroniser tous les utilisateurs",
           "LabelUserToReSync": "Utilisateurs à synchroniser",
           "SyncSelectedUsersDescription": "Sélectionnez et resynchronisez lesutilisateurs.",
-          "SyncAllUsersDescription": "Resynchronisez tous les utilisateurs disponibles dans le locataire. Cela synchronisera tous les utilisateurs avec toutes les données d'actualités.",
+          "SyncAllUsersDescription": "Resynchronisez tous les utilisateurs disponibles dans le locataire. Cela synchronisera chaque utilisateur avec toutes les nouvelles données.",
           "ResyncAllUsersBtn": "Resynchroniser tous les utilisateurs",
           "ResyncSelectedUserBtn": "Resynchroniser les utilisateurs",
           "Dialog": {
