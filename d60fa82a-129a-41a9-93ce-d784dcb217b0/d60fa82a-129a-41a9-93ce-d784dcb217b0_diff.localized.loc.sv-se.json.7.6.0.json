@@ -7,7 +7,7 @@
             "Query": "Fråga"
           },
           "Settings": {
-            "UseFilterConnection": "Koppla till filter",
+            "UseFilterConnection": "Anslut till filter",
             "ViewSelect": "Visa"
           }
         },
@@ -17,13 +17,13 @@
           "PermissionMissing": "Du har inte behörighet att visa denna rapport.",
           "EmptyMessage": "Konfigurera den analysgraf du vill visa.",
           "FilterWarning": "Observera! Vissa filter tillämpas inte på grund av saknad konfiguration på vald affärsprofil.",
-          "BusinessProfileNotConfigured": "Fel! Den valda affärsprofilen är inte konfigurerad för analys.",
+          "BusinessProfileNotConfigured": "Den valda affärsprofilen är inte konfigurerad för analys.",
           "Settings": {
             "ShowInBlock": "Visa",
             "CategoryLabel": "Kategori",
             "ReportLabel": "Rapport",
             "ReportViewLabel": "Rapportvy",
-            "Websites": "Webbplatser",
+            "Websites": "Webbplats",
             "SortColumn": "Sortera kolumn",
             "SortOrder": "Sorteringsordning",
             "ItemLimit": "Antal objekt",
@@ -45,7 +45,7 @@
             "MainCounterLabel": "Huvudräknare",
             "Sub1CounterLabel": "Första delräknare",
             "Sub2CounterLabel": "Andra delräknare",
-            "Websites": "Webbplatser",
+            "Websites": "Webbplats",
             "LastMinutesLabel": "Senaste minuterna"
           },
           "Counters": {
@@ -77,15 +77,15 @@
             "CategoryLabel": "Kategori",
             "ReportLabel": "Rapport",
             "ReportViewLabel": "Rapportvy",
-            "Websites": "Webbplatser",
+            "Websites": "Webbplats",
             "SortColumn": "Sortera kolumn",
             "SortOrder": "Sorteringsordning",
             "ItemLimit": "Antal objekt",
             "ShowPagination": "Visa paginering",
             "ShowColumn": "Visa kolumn",
-            "CustomLabel": "Anpassad etikett",
+            "CustomLabel": "Anpassad rubrik",
             "Description": "Beskrivning",
-            "ShowLabel": "Visa etikett"
+            "ShowLabel": "Visa rubrik"
           }
         },
         "TableView": {
@@ -95,14 +95,14 @@
             "CategoryLabel": "Kategori",
             "ReportLabel": "Rapport",
             "ReportViewLabel": "Rapportvy",
-            "Websites": "Webbplatser",
+            "Websites": "Webbplats",
             "SortColumn": "Sortera kolumn",
             "SortOrder": "Sorteringsordning",
             "ItemLimit": "Antal objekt",
             "ShowPagination": "Visa paginering",
             "Columns": {
-              "CustomLabel": "Anpassad etikett",
-              "ShowLabel": "Visa etikett",
+              "CustomLabel": "Anpassad rubrik",
+              "ShowLabel": "Visa rubrik",
               "Title": "Kolumner",
               "Width": "Bredd",
               "AddColumn": "Lägg till kolumn"
