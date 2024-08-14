@@ -11,8 +11,8 @@
       }
     },
     "ProcessDesigner": {
-      "CustomShapeText": "Anpassad formtext",
-      "ShapeTitle": "Formtitel"
+      "CustomShapeText": "Anpassad figurtext",
+      "ShapeTitle": "Benämning"
     }
   }
 }
