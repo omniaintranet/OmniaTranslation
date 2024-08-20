@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Tillåt konvertering till PDF. Ej markerat för nya dokument.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Tillåt konverteringtill PDF. Markerat för nya dokument."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "Ett filnamn bör ha en maximal längd på 255 tecken."
+      }
+    }
+  }
+}
