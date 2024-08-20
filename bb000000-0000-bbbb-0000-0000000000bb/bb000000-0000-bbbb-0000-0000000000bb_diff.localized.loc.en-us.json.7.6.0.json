@@ -5,12 +5,12 @@
         "System": "System"
       },
       "Profilecard": {
-        "PublicLayout": "Public Layout",
-        "PrivateLayout": "Private Layout"
+        "PublicLayout": "Public layout",
+        "PrivateLayout": "Private layout"
       }
     },
     "MagicLink": {
-      "SelfServiceEmailIsUsed": "Username {{userEmail}} already in use"
+      "SelfServiceEmailIsUsed": "Username {{userEmail}} already in use."
     }
   }
 }
