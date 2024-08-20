@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "System": "Hệ thống"
+      },
+      "Profilecard": {
+        "PublicLayout": "Giao diện công khai",
+        "PrivateLayout": "Giao diện riêng tư"
+      }
+    },
+    "MagicLink": {
+      "SelfServiceEmailIsUsed": "Tên người dùng {{userEmail}} đã được sử dụng."
+    }
+  }
+}
