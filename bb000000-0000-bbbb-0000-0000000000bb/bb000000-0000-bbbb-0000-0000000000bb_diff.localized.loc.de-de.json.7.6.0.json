@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "System": "System"
+      },
+      "Profilecard": {
+        "PublicLayout": "Öffentliches Layout",
+        "PrivateLayout": "Privates Layout"
+      }
+    },
+    "MagicLink": {
+      "SelfServiceEmailIsUsed": "Benutzername {{userEmail}} bereits in Verwendung."
+    }
+  }
+}
