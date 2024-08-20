@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Allow conversion to PDF. Unchecked for new documents.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Allow conversion to PDF. Checked for new documents."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "A file name should have a maximum length of 255 characters."
+      }
+    }
+  }
+}
