@@ -8,7 +8,7 @@
     },
     "Core": {
       "Messages": {
-        "MessageMaxFileLength": "Afile name should have a maximum length of 255 characters."
+        "MessageMaxFileLength": "A file name should have a maximum length of 255 characters."
       }
     }
   }
