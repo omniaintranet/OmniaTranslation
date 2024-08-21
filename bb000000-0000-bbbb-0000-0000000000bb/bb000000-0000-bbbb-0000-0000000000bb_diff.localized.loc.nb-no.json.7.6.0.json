@@ -5,8 +5,8 @@
         "System": "System"
       },
       "Profilecard": {
-        "PublicLayout": "Offentlig oppsett",
-        "PrivateLayout": "Privat oppsett"
+        "PublicLayout": "Offentlig layout",
+        "PrivateLayout": "Privat layout"
       }
     },
     "MagicLink": {
