@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Salli muuntaa PDF:ksi. Ei valittu uusille asiakirjoille.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Salli muuntaa PDF:ksi. Valittu oletusarvona uusille asiakirjoille."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "Tiedoston nimen enimmäispituus on 255 merkkiä."
+      }
+    }
+  }
+}

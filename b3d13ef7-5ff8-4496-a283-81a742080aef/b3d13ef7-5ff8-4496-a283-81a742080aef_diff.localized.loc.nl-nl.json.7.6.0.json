@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Toestaan om te converteren naar PDF. Niet aangevinkt voor nieuwe documenten.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Toestaan om te converteren naar PDF. Aangevinkt voor nieuwe documenten."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "Een bestandsnaam mag maximaal 255 tekens lang zijn."
+      }
+    }
+  }
+}

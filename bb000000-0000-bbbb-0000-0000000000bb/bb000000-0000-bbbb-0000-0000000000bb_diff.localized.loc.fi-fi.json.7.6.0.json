@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "System": "Järjestelmä"
+      },
+      "Profilecard": {
+        "PublicLayout": "Julkinen asettelu",
+        "PrivateLayout": "Yksityinen asettelu"
+      }
+    },
+    "MagicLink": {
+      "SelfServiceEmailIsUsed": "Käyttäjänimi {{userEmail}} on jo käytössä."
+    }
+  }
+}

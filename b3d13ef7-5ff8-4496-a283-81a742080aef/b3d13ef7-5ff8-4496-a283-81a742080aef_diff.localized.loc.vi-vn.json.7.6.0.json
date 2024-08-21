@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Cho phép chuyển đổi sang PDF. Không được chọn cho tài liệu mới.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Cho phép chuyển đổi sangPDF. Được chọn mặc định cho tài liệu mới."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "Tên tệp tin không được vượt quá 255 ký tự."
+      }
+    }
+  }
+}

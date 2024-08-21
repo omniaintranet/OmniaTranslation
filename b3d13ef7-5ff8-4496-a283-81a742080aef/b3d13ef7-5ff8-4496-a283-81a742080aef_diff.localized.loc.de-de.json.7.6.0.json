@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "PDF-Konvertierung zulassen. Für neue Dokumente nicht aktiviert.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "PDF-Konvertierung zulassen. Für neue Dokumente aktiviert."
+      }
+    },
+    "Core": {
+      "Messages": {
+        "MessageMaxFileLength": "Ein Dateiname sollte eine maximale Länge von 255 Zeichen haben."
+      }
+    }
+  }
+}
