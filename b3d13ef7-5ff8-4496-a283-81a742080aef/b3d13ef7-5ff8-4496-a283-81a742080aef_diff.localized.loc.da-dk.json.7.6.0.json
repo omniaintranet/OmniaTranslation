@@ -2,13 +2,13 @@
   "ODM": {
     "Admin": {
       "ConversionTypes": {
-        "AllowConvertDOCXToPDFForNewDocuments": "Tillad konvertering til PDF. Ikke markeret for nye dokumenter.",
-        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Tillad konvertering til PDF. Markeret som standard for nye dokumenter."
+        "AllowConvertDOCXToPDFForNewDocuments": "Tillad konvertering til PDF. Sæt ikke som standard for nye dokumenter.",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Tillad konvertering til PDF. Sæt som som standard for nye dokumenter."
       }
     },
     "Core": {
       "Messages": {
-        "MessageMaxFileLength": "Et filnavn skal have en maksimal længde på 255 tegn."
+        "MessageMaxFileLength": "Maksimal længde på filnavn er 255 tegn."
       }
     }
   }
