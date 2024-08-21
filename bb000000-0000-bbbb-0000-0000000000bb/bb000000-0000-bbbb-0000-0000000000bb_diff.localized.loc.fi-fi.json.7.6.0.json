@@ -5,8 +5,8 @@
         "System": "Järjestelmä"
       },
       "Profilecard": {
-        "PublicLayout": "Julkinen ulkoasu",
-        "PrivateLayout": "Yksityinen ulkoasu"
+        "PublicLayout": "Julkinen asettelu",
+        "PrivateLayout": "Yksityinen asettelu"
       }
     },
     "MagicLink": {
