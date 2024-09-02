@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "选择要重新同步的用户类型",
+          "SelectTypesHint": "留空以重新同步所有用户",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "您是否要重新同步具有所选类型的用户？这将需要一些时间来完成。"
+          },
+          "Progression": {
+            "UserTypesResynced": "已重新同步用户类型"
+          }
+        },
+        "UnpublishedBPWarning": "此业务配置文件尚未发布。请发布业务配置文件以使用此功能。",
+        "DeleteUsers": {
+          "Title": "删除用户",
+          "DeleteUsersBtn": "删除用户",
+          "DeleteUsersByTypesDescription": "按用户类型删除用户",
+          "ExclusionModeLabel": "排除模式",
+          "ExclusionModelHint": "在此模式下，所选用户类型将被排除在删除之外",
+          "SelectDeleteTypesLabel": "要删除的用户类型",
+          "Dialog": {
+            "TitleDeleteUsers": "删除具有所选类型的用户",
+            "MessageDeleteUsers": "您是否要从所选用户类型中删除用户？",
+            "TitleDeleteUsersExclusion": "删除除所选类型之外的所有用户",
+            "MessageDeleteUsersExclusion": "您是否要删除除所选用户类型之外的所有用户？"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "打开应用程序以登录并接收来自Omnia的通知！",
+          "titleReauthLoginReminder": "重新登录以接收通知",
+          "textWaitForNetwork": "等待网络连接！"
+        },
+        "Commons": {
+          "btnSave": "保存",
+          "btnClose": "关闭",
+          "btnOpenFile": "打开文件",
+          "btnSubmit": "提交",
+          "btnPrevious": "上一页",
+          "btnSaveForLater": "保存以后",
+          "textThereAreNoMatchingSearchResults": "没有匹配的搜索结果",
+          "textComments": "评论",
+          "textNumberOfResponses": "回答数量：{noOfResponses}",
+          "textPleaseWriteYourAnswers": "请添加您的答案",
+          "textEndsOn": "截止日期：",
+          "textEndedOn": "已结束于：",
+          "textFormBy": "由",
+          "textQuestionNoOfTotal": "第{n}题，共{total}题",
+          "titleOmniaLogin": "Omnia登录",
+          "titleForm": "表单",
+          "titleNew": "新建",
+          "titleComments": "评论",
+          "titleNewComments": "新评论",
+          "titleGroupNews": "群组新闻",
+          "titleOpenJobs": "空缺职位",
+          "OmniaWebView": {
+            "textLoadingWarning": "请稍等片刻。我们正在尝试修复加载Omnia页面时的问题！",
+            "textLoadingError": "如果您仍然无法加载Omnia页面，请点击重新加载按钮！"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "更新Omnia语言",
+            "body": "您是否要根据设备语言{nameLanguage}设置Omnia语言？"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed问题报告",
+            "message": "这是调试日志文件",
+            "subject": "问题报告"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "重置应用程序数据",
+            "buttonBackToApp": "返回应用程序",
+            "textResetAppData": "重置应用程序数据",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "应用程序发生严重错误。如果您遇到相同的错误，请尝试重置应用程序数据。",
+            "textDoYouWantToResetAppData": "您是否要重置应用程序数据？"
+          }
+        }
+      }
+    }
+  }
+}
