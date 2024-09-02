@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "أنواع المستخدمين لإعادة المزامنة",
+          "SelectTypesHint": "اتركه فارغًا لإعادة المزامنة للكل",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "هل ترغب في إعادة مزامنة المستخدمين مع الأنواع المحددة؟ سيستغرق ذلك بعض الوقت لإكماله."
+          },
+          "Progression": {
+            "UserTypesResynced": "تمت إعادة مزامنة أنواع المستخدمين"
+          }
+        },
+        "UnpublishedBPWarning": "هذا الملف الشخصي للشركة لم يتم نشره بعد. قم بنشر الملف الشخصي للشركة لاستخدام هذه الوظيفة.",
+        "DeleteUsers": {
+          "Title": "حذف المستخدمين",
+          "DeleteUsersBtn": "حذف المستخدمين",
+          "DeleteUsersByTypesDescription": "حذف المستخدمين حسب أنواع المستخدمين",
+          "ExclusionModeLabel": "وضع الاستثناء",
+          "ExclusionModelHint": "في هذا الوضع، سيتم استثناء أنواع المستخدمين المحددة من الحذف",
+          "SelectDeleteTypesLabel": "أنواع المستخدمين للحذف",
+          "Dialog": {
+            "TitleDeleteUsers": "حذف المستخدمين بأنواع محددة",
+            "MessageDeleteUsers": "هل ترغب في حذف المستخدمين من أنواع المستخدمين المحددة؟",
+            "TitleDeleteUsersExclusion": "حذف جميع المستخدمين باستثناء الأنواع المحددة",
+            "MessageDeleteUsersExclusion": "هل ترغب في حذف جميع المستخدمين ما عدا أنواع المستخدمين المحددة؟"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "افتح التطبيق لتسجيل الدخول وتلقي الإشعارات من أومنيا.",
+          "titleReauthLoginReminder": "قم بتسجيل الدخول مرة أخرى لتلقي الإشعارات",
+          "textWaitForNetwork": "انتظر اتصال الشبكة!"
+        },
+        "Commons": {
+          "btnSave": "حفظ",
+          "btnClose": "إغلاق",
+          "btnOpenFile": "فتح الملف",
+          "btnSubmit": "إرسال",
+          "btnPrevious": "السابق",
+          "btnSaveForLater": "حفظ لاحقًا",
+          "textThereAreNoMatchingSearchResults": "لا توجد نتائج بحث مطابقة",
+          "textComments": "التعليقات",
+          "textNumberOfResponses": "عدد الردود: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "يرجى إضافة إجاباتك",
+          "textEndsOn": "ينتهي في: ",
+          "textEndedOn": "انتهى في: ",
+          "textFormBy": "بواسطة ",
+          "textQuestionNoOfTotal": "السؤال {n} من {total}",
+          "titleOmniaLogin": "تسجيل الدخول إلى أومنيا",
+          "titleForm": "النموذج",
+          "titleNew": "جديد",
+          "titleComments": "التعليقات",
+          "titleNewComments": "تعليقات جديدة",
+          "titleGroupNews": "أخبار المجموعة",
+          "titleOpenJobs": "الوظائف المفتوحة",
+          "OmniaWebView": {
+            "textLoadingWarning": "يرجى الانتظار لمدة دقيقة. نحن نحاول إصلاح المشكلة عند تحميل صفحة أومنيا.",
+            "textLoadingError": "إذا كان لديك مشكلة لا تزال تظهر عند تحميل صفحة أومنيا، يرجى الضغط على الزر لإعادة التحميل!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "تحديث لغة أومنيا",
+            "body": "هل ترغب في تعيين لغة أومنيا بواسطة لغة الجهاز {nameLanguage}؟"
+          },
+          "ShareLogsFileOptions": {
+            "title": "الإبلاغ عن مشكلة في أومنيا",
+            "message": "هذا ملف سجلات التصحيح",
+            "subject": "الإبلاغ عن مشكلة"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "إعادة تعيين بيانات التطبيق",
+            "buttonBackToApp": "العودة إلى التطبيق",
+            "textResetAppData": "إعادة تعيين بيانات التطبيق",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "حدث خطأ فادح في التطبيق. يرجى محاولة إعادة تعيين بيانات التطبيق إذا واجهت نفس الخطأ.",
+            "textDoYouWantToResetAppData": "هل ترغب في إعادة تعيين بيانات التطبيق؟"
+          }
+        }
+      }
+    }
+  }
+}
