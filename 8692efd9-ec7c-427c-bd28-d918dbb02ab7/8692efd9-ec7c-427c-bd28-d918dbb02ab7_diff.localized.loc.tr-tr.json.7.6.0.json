@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Yeniden senkronize edilecek kullanıcı türleri",
+          "SelectTypesHint": "Tümünü senkronize etmek için boş bırakın",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Seçili türlerle kullanıcıları yeniden senkronize etmek istiyor musunuz? Bu işlem biraz zaman alabilir."
+          },
+          "Progression": {
+            "UserTypesResynced": "Kullanıcı türleri yeniden senkronize edildi"
+          }
+        },
+        "UnpublishedBPWarning": "Bu işletme profili henüz yayınlanmadı. Bu işlevi kullanmak için işletme profili yayınlayın.",
+        "DeleteUsers": {
+          "Title": "Kullanıcıları sil",
+          "DeleteUsersBtn": "Kullanıcıları sil",
+          "DeleteUsersByTypesDescription": "Kullanıcı türlerine göre kullanıcıları sil",
+          "ExclusionModeLabel": "Dışlama modu",
+          "ExclusionModelHint": "Bu modda, seçilenkullanıcı türleri silinmekten hariç tutulur",
+          "SelectDeleteTypesLabel": "Silinecekkullanıcı türleri",
+          "Dialog": {
+            "TitleDeleteUsers": "Seçili türlerle kullanıcıları sil",
+            "MessageDeleteUsers": "Seçilen kullanıcı türlerinden kullanıcıları silmek istiyor musunuz?",
+            "TitleDeleteUsersExclusion": "Seçili türler dışında tüm kullanıcıları sil",
+            "MessageDeleteUsersExclusion": "Seçilen kullanıcı türleri HARİÇ olmak üzere tüm kullanıcıları silmek istiyor musunuz?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Uygulamayı açarakOmnia'dan bildirim almak için giriş yapın.",
+          "titleReauthLoginReminder": "Bildirimalmak için yeniden giriş yapın",
+          "textWaitForNetwork": "Ağ bağlantısı bekleniyor!"
+        },
+        "Commons": {
+          "btnSave": "Kaydet",
+          "btnClose": "Kapat",
+          "btnOpenFile": "Dosya Aç",
+          "btnSubmit": "Gönder",
+          "btnPrevious": "Önceki",
+          "btnSaveForLater": "Daha sonra kaydet",
+          "textThereAreNoMatchingSearchResults": "Eşleşen arama sonucu bulunamadı",
+          "textComments": "Yorumlar",
+          "textNumberOfResponses": "Yanıt sayısı: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Lütfen yanıtlarınızı ekleyin",
+          "textEndsOn": "bitiş tarihi: ",
+          "textEndedOn": "sona erdi: ",
+          "textFormBy": "tarafından ",
+          "textQuestionNoOfTotal": "Soru {n} / {total}",
+          "titleOmniaLogin": "Omnia girişi",
+          "titleForm": "Form",
+          "titleNew": "Yeni",
+          "titleComments": "Yorumlar",
+          "titleNewComments": "Yeni yorumlar",
+          "titleGroupNews": "Grup haberleri",
+          "titleOpenJobs": "Açık işler",
+          "OmniaWebView": {
+            "textLoadingWarning": "Lütfen bekleyin. Omnia sayfasını yüklerken bir sorunla karşılaşıyoruz.",
+            "textLoadingError": "Omnia sayfasını yüklerken hala sorun yaşıyorsanız, yeniden yüklemek için düğmeye basın!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia dilini güncelle",
+            "body": "Omnia dilini {nameLanguage} cihaz diline göre ayarlamak istiyor musunuz?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed sorun raporlama",
+            "message": "Bu hata ayıklama kayıtları dosyasıdır",
+            "subject": "Sorun raporlama"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Uygulama verilerini sıfırla",
+            "buttonBackToApp": "Uygulamaya geri dön",
+            "textResetAppData": "Uygulama verilerini sıfırla",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Uygulamada ciddi bir hata oluştu. Aynı hatayı yaşıyorsanız uygulama verilerini sıfırlamayı deneyin.",
+            "textDoYouWantToResetAppData": "Uygulama verilerini sıfırlamak istiyor musunuz?"
+          }
+        }
+      }
+    }
+  }
+}
