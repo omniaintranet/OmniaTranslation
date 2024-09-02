@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Jenis pengguna untuk disinkronkan kembali",
+          "SelectTypesHint": "Biarkan kosong untuk menyinkronkan semua",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Apakah Anda ingin menyinkronkan kembali pengguna dengan jenis yang dipilih? Ini akan memakan waktu beberapa saat untuk menyelesaikan."
+          },
+          "Progression": {
+            "UserTypesResynced": "Jenis pengguna disinkronkankembali"
+          }
+        },
+        "UnpublishedBPWarning": "Profil bisnis ini belum dipublikasikan. Publikasikan profil bisnis untuk menggunakan fungsi ini.",
+        "DeleteUsers": {
+          "Title": "Hapus pengguna",
+          "DeleteUsersBtn": "Hapus pengguna",
+          "DeleteUsersByTypesDescription": "Hapus pengguna berdasarkan jenis pengguna",
+          "ExclusionModeLabel": "Mode pengecualian",
+          "ExclusionModelHint": "Dalam mode ini, jenis pengguna yang dipilih akan dikecualikan dari penghapusan",
+          "SelectDeleteTypesLabel": "Jenis pengguna untuk dihapus",
+          "Dialog": {
+            "TitleDeleteUsers": "Hapus pengguna dengan jenis yang dipilih",
+            "MessageDeleteUsers": "Apakah Anda ingin menghapus pengguna dari jenis pengguna yang dipilih?",
+            "TitleDeleteUsersExclusion": "Hapus semua pengguna kecuali jenis yang dipilih",
+            "MessageDeleteUsersExclusion": "Apakah Anda ingin menghapus semua pengguna KECUALI jenis pengguna yang dipilih?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Buka aplikasi untuk login dan menerima notifikasi dari Omnia.",
+          "titleReauthLoginReminder": "Login ulang untuk menerima notifikasi",
+          "textWaitForNetwork": "Tunggu koneksi jaringan!"
+        },
+        "Commons": {
+          "btnSave": "Simpan",
+          "btnClose": "Tutup",
+          "btnOpenFile": "BukaFile",
+          "btnSubmit": "Kirim",
+          "btnPrevious": "Sebelumnya",
+          "btnSaveForLater": "Simpan untuk nanti",
+          "textThereAreNoMatchingSearchResults": "Tidak ada hasil pencarian yang cocok",
+          "textComments": "Komentar",
+          "textNumberOfResponses": "Jumlah tanggapan:{noOfResponses}",
+          "textPleaseWriteYourAnswers": "Silakan tambahkan jawaban Anda",
+          "textEndsOn": "berakhir pada: ",
+          "textEndedOn": "berakhir pada: ",
+          "textFormBy": "oleh ",
+          "textQuestionNoOfTotal": "Pertanyaan {n} dari {total}",
+          "titleOmniaLogin": "Login Omnia",
+          "titleForm": "Formulir",
+          "titleNew": "Baru",
+          "titleComments": "Komentar",
+          "titleNewComments": "Komentar baru",
+          "titleGroupNews": "Berita grup",
+          "titleOpenJobs": "Lowongan terbuka",
+          "OmniaWebView": {
+            "textLoadingWarning": "Harap tunggu sebentar. Kami sedang mencoba memperbaiki masalah saat memuat halaman Omnia.",
+            "textLoadingError": "Jika Anda masih mengalami masalah saat memuat halaman Omnia, silakan tekan tombol untuk memuat ulang!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Perbarui bahasaOmnia",
+            "body": "Apakah Anda ingin mengatur bahasa Omnia berdasarkan bahasa perangkat {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Pelaporan masalah Omnia Feed",
+            "message": "Ini adalah file log debug",
+            "subject": "Pelaporan masalah"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Reset data aplikasi",
+            "buttonBackToApp": "Kembali ke aplikasi",
+            "textResetAppData": "Reset dataaplikasi",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikasi mengalami kesalahan fatal. Silakan coba reset data aplikasi jika Anda mengalami kesalahan yang sama.",
+            "textDoYouWantToResetAppData": "Apakah Anda inginmereset data aplikasi?"
+          }
+        }
+      }
+    }
+  }
+}
