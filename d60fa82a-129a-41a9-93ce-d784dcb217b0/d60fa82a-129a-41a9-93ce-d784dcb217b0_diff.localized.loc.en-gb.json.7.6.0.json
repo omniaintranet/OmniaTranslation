@@ -7,7 +7,7 @@
       "Block": {
         "BlockTitle": "Welcome block",
         "BlockDescription": "Welcome block",
-        "NoAvailableMessage": "No available message to render now",
+        "NoAvailableMessage": "No available message to render now.",
         "DayOfWeek": {
           "Monday": "Monday",
           "Tuesday": "Tuesday",
@@ -43,7 +43,7 @@
                 "StartTime": "Start time",
                 "EndTime": "End time",
                 "Overlapped": "This interval time is overlapped",
-                "NoValid": "The end time must be later than the start time"
+                "NoValid": "The end time must be later than the start time."
               },
               "Birthday": "Birthday",
               "Default": "Default"
