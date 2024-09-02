@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Benutzertypen zum erneuten Synchronisieren auswählen",
+          "SelectTypesHint": "Leerlassen, um alle erneut zu synchronisieren",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Möchten Sie Benutzer mit ausgewählten Typen erneut synchronisieren? Dies dauert einige Zeit."
+          },
+          "Progression": {
+            "UserTypesResynced": "Benutzertypen wurden erneut synchronisiert"
+          }
+        },
+        "UnpublishedBPWarning": "Dieses Geschäftsprofil ist noch nicht veröffentlicht. Veröffentlichen Sie das Geschäftsprofil, um diese Funktion zu verwenden.",
+        "DeleteUsers": {
+          "Title": "Benutzer löschen",
+          "DeleteUsersBtn": "Benutzerlöschen",
+          "DeleteUsersByTypesDescription": "Benutzer nach Benutzertypen löschen",
+          "ExclusionModeLabel": "Ausschlussmodus",
+          "ExclusionModelHint": "In diesem Modus werden ausgewählte Benutzertypen vom Löschen ausgeschlossen",
+          "SelectDeleteTypesLabel": "Benutzertypen zum Löschen auswählen",
+          "Dialog": {
+            "TitleDeleteUsers": "Benutzer mit ausgewählten Typen löschen",
+            "MessageDeleteUsers": "Möchten Sie Benutzer aus ausgewählten Benutzertypen löschen?",
+            "TitleDeleteUsersExclusion": "Alle Benutzer außer ausgewählten Typen löschen",
+            "MessageDeleteUsersExclusion": "Möchten Sie alle Benutzer AUßER ausgewählten Benutzertypen löschen?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Öffnen Sie die App, um sich anzumelden und Benachrichtigungen von Omnia zu erhalten!",
+          "titleReauthLoginReminder": "Melden Sie sich erneut an, um Benachrichtigungen zu erhalten",
+          "textWaitForNetwork": "Warten Sie auf eine Netzwerkverbindung!"
+        },
+        "Commons": {
+          "btnSave": "Speichern",
+          "btnClose": "Schließen",
+          "btnOpenFile": "Datei öffnen",
+          "btnSubmit": "Senden",
+          "btnPrevious": "Zurück",
+          "btnSaveForLater": "Für später speichern",
+          "textThereAreNoMatchingSearchResults": "Es gibt keine übereinstimmenden Suchergebnisse",
+          "textComments": "Kommentare",
+          "textNumberOfResponses": "Anzahl der Antworten: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Bitte fügen Sie Ihre Antworten hinzu",
+          "textEndsOn": "endet am: ",
+          "textEndedOn": "endete am: ",
+          "textFormBy": "von ",
+          "textQuestionNoOfTotal": "Frage {n} von {total}",
+          "titleOmniaLogin": "Omnia-Anmeldung",
+          "titleForm": "Formular",
+          "titleNew": "Neu",
+          "titleComments": "Kommentare",
+          "titleNewComments": "Neue Kommentare",
+          "titleGroupNews": "Gruppennachrichten",
+          "titleOpenJobs": "Offene Stellen",
+          "OmniaWebView": {
+            "textLoadingWarning": "Bitte warten Sie einen Moment. Wir versuchen, das Problem beim Laden der Omnia-Seite zu beheben!",
+            "textLoadingError": "Wenn Sie weiterhin Probleme beim Laden der Omnia-Seite haben, drücken Sie bitte die Schaltfläche zum Neuladen!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia-Sprache aktualisieren",
+            "body": "Möchten Sie die Omnia-Sprache anhand der Gerätesprache {nameLanguage} festlegen?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed-Fehlerberichterstattung",
+            "message": "Dies ist eine Debug-Protokolldatei",
+            "subject": "Fehlerberichterstattung"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "App-Daten zurücksetzen",
+            "buttonBackToApp": "Zurück zur App",
+            "textResetAppData": "App-Daten zurücksetzen",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Die App hat einen schwerwiegenden Fehler. Versuchen Sie, die App-Daten zurückzusetzen, wenn Sie denselben Fehler haben.",
+            "textDoYouWantToResetAppData": "Möchten Sie die App-Daten zurücksetzen?"
+          }
+        }
+      }
+    }
+  }
+}
