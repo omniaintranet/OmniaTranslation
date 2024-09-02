@@ -18,7 +18,7 @@
           "DeleteUsersBtn": "Delete users",
           "DeleteUsersByTypesDescription": "Delete users by user types",
           "ExclusionModeLabel": "Exclusion mode",
-          "ExclusionModelHint": "In this mode,selected user types will be excluded from being deleted",
+          "ExclusionModelHint": "In this mode,selected user types will be excluded from being deleted.",
           "SelectDeleteTypesLabel": "User types to delete",
           "Dialog": {
             "TitleDeleteUsers": "Delete users with selected types",
@@ -32,7 +32,7 @@
         "ReAuthScreen": {
           "textReauthLoginReminder": "Open app to login and receive notifications from Omnia.",
           "titleReauthLoginReminder": "Re-login to receive notifications",
-          "textWaitForNetwork": "Wait for network connection!"
+          "textWaitForNetwork": "Wait for network connection."
         },
         "Commons": {
           "btnSave": "Save",
