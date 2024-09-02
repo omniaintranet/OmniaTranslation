@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Sign-Off-Anfrage aktivieren",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Arten von Sign-Off-Anfragen"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Ihre Suche hat keine Websites zurückgegeben.",
+        "NoSiteToShow": "Es gibt keine Website zum Anzeigen."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "VeröffentlichtesDokument",
+      "SignOffRequest": "Sign-Off-Anfrage",
+      "ThisDocumentHasBeenDeleted": "Dieses Dokument wurde gelöscht",
+      "Button": {
+        "Confirm": "Bestätigen",
+        "ShowRequests": "Anfragen anzeigen",
+        "HideRequests": "Anfragen ausblenden",
+        "EndUserSignOff": "Endbenutzer-Sign-Off"
+      },
+      "Banner": {
+        "IndividualRequest": "Ich bestätige, dass ich den Inhalt des Dokuments gelesen und verstanden habe.",
+        "GroupRequest": "{{requestTo}} bestätigen, dass wir den Inhalt dieses Dokuments gelesen und verstanden haben.",
+        "MultipleRequest": "Es gibt mehr als eine Sign-Off-Anfrage zu diesem Dokument."
+      },
+      "ReadSignOffDocumentNotFound": "Die gelesene Sign-Off-Anfrage zu diesem Dokument konnte nicht gefunden werden.",
+      "DefaultMessage": "Ich bestätige, dass ich den Inhalt dieses Dokuments gelesen und verstanden habe."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Add-Ons",
+          "Description": "Sign-Off-Anfragen für veröffentlichte Dokumente aktivieren.",
+          "Title": "Sign-Off-Anfrage für veröffentlichtes Dokument"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Sign-Off-Anfrage erstellen"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Dieses Dokument enthält nicht akzeptierte Änderungen. Bitte überprüfen Sie diese und akzeptieren oder ablehnen Sie sie vor der Veröffentlichung."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Heute",
+          "CustomDate": "Benutzerdefiniertes Datum"
+        }
+      }
+    }
+  }
+}
