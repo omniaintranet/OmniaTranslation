@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Stäng förfrågan"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Uppdatera",
+        "Agree": "Godkänn",
+        "Skip": "Hoppa över",
+        "ChangeProfilePhoto": "Byt bild",
+        "ChangeProfilePhotoMessage": "Observera att det kan ta tid innan bilden blir tillgänglig.",
+        "Message": "Meddelande",
+        "AddFeedback": "Lägg till feedback",
+        "RequiredFieldMessage": "Detta fält är obligatoriskt.",
+        "Send": "Skicka",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Feedback för användarprofilsegenskap {{userprofileproperty}}"
+        },
+        "SentFeedbackMessage": "Tack för din feedback, den har skickats till {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Fel vid skickandeav din feedback till {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Månad",
+          "Day": "Dag"
+        },
+        "NoSectionSettingMessage": "Konfigurera egenskapsmappningar",
+        "SaveAndClose": "Spara och stäng"
+      },
+      "Settings": {
+        "Style": "Stil",
+        "HideNameInText": "Dölj användarnamn i text",
+        "HidePercentageInText": "Dölj procent i text",
+        "HideBlockWhenCompleted": "Dölj block när det är klart",
+        "Size": "Storlek",
+        "BorderSize": "Kantstorlek",
+        "Views": {
+          "Title": "Vy",
+          "Line": "Linje",
+          "Circle": "Cirkel"
+        },
+        "TitleText": "Rubriktext",
+        "CompletedProfileText": "Textnär profil är klar",
+        "NotCompletedProfileText": "Text när profil inte är klar",
+        "ConfirmationCloseEditingFormTitle": "Avbryt redigering av användarprofilens fullständighet",
+        "ConfirmationCloseEditingFormMessage": "Vill duverkligen avsluta med osparade ändringar?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Minprofil",
+        "StrengthenProfile": "Stärk profil",
+        "Done": "klar",
+        "YouHaveAStrongProfile": "Du har en stark profil, den är",
+        "YouHaveToStrengthenYourProfile": "Stärk din profil, den är",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Stärk din profil",
+        "WelcomeTitle": "Välkommen",
+        "WebPart": {
+          "WebPartTitle": "Framsteg för användarprofil",
+          "WebPartDescription": "Visar din grad av profilkomplettering."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Användarprofilkomplettering",
+          "GeneralTabTitle": "Allmänt",
+          "MappingTabTitle": "Egenskapsmappningar"
+        },
+        "Buttons": {
+          "Update": "Uppdatera",
+          "AddPropertyMapping": "Lägg till mappning",
+          "AddSection": "Lägg till sektion"
+        },
+        "Pattern": {
+          "ShowDialog": "Visa dialogruta",
+          "Daily": "Dagligen",
+          "Weekly": "Veckovis",
+          "Monthly": "Månadsvis",
+          "Never": "Aldrig",
+          "Title": "Titel",
+          "Description": "Beskrivning",
+          "FeedbackEmail": "Feedback-e-post",
+          "Levels": "Nivåer",
+          "WeakLevelPercentage": "Procentnivå - Svag",
+          "GoodLevelPercentage": "Procentnivå - Bra",
+          "EveryWeekday": "Varje vardag",
+          "Every": "Varje",
+          "Days": "dag(ar)",
+          "Weeks": "vecka(or)",
+          "Months": "månad(er)",
+          "DayOfWeeks": {
+            "Monday": "Måndag",
+            "Tuesday": "Tisdag",
+            "Wednesday": "Onsdag",
+            "Thursday": "Torsdag",
+            "Friday": "Fredag",
+            "Saturday": "Lördag",
+            "Sunday": "Söndag",
+            "Day": "Dag",
+            "Weekday": "Vardag",
+            "WeekendDay": "Helgdag"
+          },
+          "Day": "Dag",
+          "OfEvery": "av varje",
+          "The": "Den",
+          "WeekOfMonth": {
+            "First": "Första",
+            "Second": "Andra",
+            "Third": "Tredje",
+            "Fourth": "Fjärde",
+            "Last": "Sista"
+          },
+          "StartDate": "Startdatum",
+          "NoEndDate": "Inget slutdatum",
+          "EndBy": "Slutdatum"
+        },
+        "MappingSetting": {
+          "Section": "Sektion"
+        },
+        "Section": {
+          "Property": "Egenskap",
+          "Name": "Namn",
+          "Description": "Beskrivning"
+        },
+        "PropertyMapping": {
+          "SourceType": "Källtyp",
+          "Type": "Typ",
+          "Property": "Egenskap",
+          "Label": "Etikett",
+          "CompletenessImpact": "Effekt på fullständighet",
+          "ReadyOnly": "Skrivskyddad",
+          "Multiple": "Flera",
+          "AllowFeedback": "Tillåt feedback",
+          "CustomTarget": "Anpassad målplats",
+          "CustomTargetUrl": "Anpassad målplats-URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Är du säker på att du vill ta bort denna sektion?",
+          "Confirmation": "Bekräftelse",
+          "DisplayTypes": {
+            "ProfilePicture": "Profilbild",
+            "Text": "Text",
+            "MultilineText": "Flerradig text",
+            "HtmlText": "HTML",
+            "TermSet": "Termuppsättning",
+            "Person": "Person"
+          },
+          "CompletenessImpacts": {
+            "High": "Hög",
+            "Medium": "Medium",
+            "Low": "Låg",
+            "None": "Ingen"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint-användarprofil",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia systemspråk"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Anpassat datum"
+        }
+      }
+    }
+  }
+}
