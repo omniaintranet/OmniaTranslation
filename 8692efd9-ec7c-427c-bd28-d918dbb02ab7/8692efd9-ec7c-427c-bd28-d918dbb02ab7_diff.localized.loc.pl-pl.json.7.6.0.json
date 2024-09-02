@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Typy użytkowników do ponownej synchronizacji",
+          "SelectTypesHint": "Pozostaw puste, aby zsynchronizować wszystkich",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Czy chcesz zsynchronizować użytkowników z wybranymi typami? To może zająć trochę czasu."
+          },
+          "Progression": {
+            "UserTypesResynced": "Zsynchronizowane typy użytkowników"
+          }
+        },
+        "UnpublishedBPWarning": "Ten profil biznesowy nie został jeszcze opublikowany. Opublikuj profil biznesowy, aby skorzystać z tej funkcji.",
+        "DeleteUsers": {
+          "Title": "Usuń użytkowników",
+          "DeleteUsersBtn": "Usuń użytkowników",
+          "DeleteUsersByTypesDescription": "Usuń użytkowników według typów użytkowników",
+          "ExclusionModeLabel": "Tryb wyłączenia",
+          "ExclusionModelHint": "W tymtrybie wybrane typy użytkowników zostaną wyłączone z usunięcia",
+          "SelectDeleteTypesLabel": "Typy użytkowników do usunięcia",
+          "Dialog": {
+            "TitleDeleteUsers": "Usuń użytkowników z wybranymi typami",
+            "MessageDeleteUsers": "Czy chcesz usunąć użytkowników z wybranych typów użytkowników?",
+            "TitleDeleteUsersExclusion": "Usuń wszystkich użytkowników oprócz wybranych typów",
+            "MessageDeleteUsersExclusion": "Czy chcesz usunąć wszystkich użytkowników Z WYJĄTKIEM wybranych typów użytkowników?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Otwórz aplikację, aby się zalogować i otrzymywać powiadomienia z Omnia!",
+          "titleReauthLoginReminder": "Zaloguj się ponownie, aby otrzymywać powiadomienia",
+          "textWaitForNetwork": "Poczekaj na połączenie z siecią!"
+        },
+        "Commons": {
+          "btnSave": "Zapisz",
+          "btnClose": "Zamknij",
+          "btnOpenFile": "Otwórz plik",
+          "btnSubmit": "Wyślij",
+          "btnPrevious": "Poprzedni",
+          "btnSaveForLater": "Zapisz na później",
+          "textThereAreNoMatchingSearchResults": "Brak pasujących wyników wyszukiwania",
+          "textComments": "Komentarze",
+          "textNumberOfResponses": "Liczba odpowiedzi: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Proszę dodaj swoje odpowiedzi",
+          "textEndsOn": "kończy się: ",
+          "textEndedOn": "zakończono: ",
+          "textFormBy": "przez ",
+          "textQuestionNoOfTotal": "Pytanie {n} z {total}",
+          "titleOmniaLogin": "Logowanie do Omnia",
+          "titleForm": "Formularz",
+          "titleNew": "Nowy",
+          "titleComments": "Komentarze",
+          "titleNewComments": "Nowe komentarze",
+          "titleGroupNews": "Wiadomości grupowe",
+          "titleOpenJobs": "Otwarte oferty pracy",
+          "OmniaWebView": {
+            "textLoadingWarning": "Proszę czekać chwilę. Próbujemy naprawić problem z ładowaniem strony Omnia!",
+            "textLoadingError": "Jeśli nadal masz problem z ładowaniem strony Omnia, proszę nacisnąć przycisk odświeżania!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Aktualizacja języka Omnia",
+            "body": "Czy chcesz ustawić język Omnia na podstawie języka urządzenia {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Raportowanie problemów z Omnia Feed",
+            "message": "To jest plik dzienników debugowania",
+            "subject": "Raportowanie problemów"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Resetuj dane aplikacji",
+            "buttonBackToApp": "Powrót do aplikacji",
+            "textResetAppData": "Resetuj dane aplikacji",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikacja napotkała poważny błąd. Spróbuj zresetować dane aplikacji, jeśli występujeten sam błąd.",
+            "textDoYouWantToResetAppData": "Czy chcesz zresetować dane aplikacji?"
+          }
+        }
+      }
+    }
+  }
+}
