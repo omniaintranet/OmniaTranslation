@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "ユーザータイプを再同期",
+          "SelectTypesHint": "すべてを再同期する場合は空白のままにしてください",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "選択したタイプのユーザーを再同期しますか？完了までに時間がかかります。"
+          },
+          "Progression": {
+            "UserTypesResynced": "ユーザータイプが再同期されました"
+          }
+        },
+        "UnpublishedBPWarning": "このビジネスプロファイルはまだ公開されていません。この機能を使用するには、ビジネスプロファイルを公開してください。",
+        "DeleteUsers": {
+          "Title": "ユーザーの削除",
+          "DeleteUsersBtn": "ユーザーの削除",
+          "DeleteUsersByTypesDescription": "ユーザータイプ別にユーザーを削除",
+          "ExclusionModeLabel": "除外モード",
+          "ExclusionModelHint": "このモードでは、選択したユーザータイプは削除されません",
+          "SelectDeleteTypesLabel": "削除するユーザータイプ",
+          "Dialog": {
+            "TitleDeleteUsers": "選択したタイプのユーザーを削除します",
+            "MessageDeleteUsers": "選択したユーザータイプからユーザーを削除しますか？",
+            "TitleDeleteUsersExclusion": "選択したタイプ以外のすべてのユーザーを削除します",
+            "MessageDeleteUsersExclusion": "選択したユーザータイプ以外のすべてのユーザーを削除しますか？"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "アプリを開いてログインし、Omniaからの通知を受け取ります！",
+          "titleReauthLoginReminder": "通知を受け取るために再ログインしてください",
+          "textWaitForNetwork": "ネットワーク接続を待ってください！"
+        },
+        "Commons": {
+          "btnSave": "保存",
+          "btnClose": "閉じる",
+          "btnOpenFile": "ファイルを開く",
+          "btnSubmit": "送信",
+          "btnPrevious": "前へ",
+          "btnSaveForLater": "後で保存",
+          "textThereAreNoMatchingSearchResults": "一致する検索結果はありません",
+          "textComments": "コメント",
+          "textNumberOfResponses": "回答数: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "回答を追加してください",
+          "textEndsOn": "終了日: ",
+          "textEndedOn": "終了日: ",
+          "textFormBy": "作成者: ",
+          "textQuestionNoOfTotal": "質問 {n} / {total}",
+          "titleOmniaLogin": "Omnia ログイン",
+          "titleForm": "フォーム",
+          "titleNew": "新規",
+          "titleComments": "コメント",
+          "titleNewComments": "新しいコメント",
+          "titleGroupNews": "グループニュース",
+          "titleOpenJobs": "オープンジョブ",
+          "OmniaWebView": {
+            "textLoadingWarning": "しばらくお待ちください。Omniaページの読み込みに問題が発生しています！",
+            "textLoadingError": "Omniaページの読み込みに問題がある場合は、リロードボタンを押してください！"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia言語の更新",
+            "body": "デバイスの言語 {nameLanguage} でOmnia言語を設定しますか？"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feedの問題報告",
+            "message": "これはデバッグログファイルです",
+            "subject": "問題報告"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "アプリデータのリセット",
+            "buttonBackToApp": "アプリに戻る",
+            "textResetAppData": "アプリデータのリセット",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "アプリに致命的なエラーが発生しました。同じエラーが発生した場合は、アプリデータをリセットしてみてください。",
+            "textDoYouWantToResetAppData": "アプリデータをリセットしますか？"
+          }
+        }
+      }
+    }
+  }
+}
