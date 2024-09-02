@@ -15,7 +15,7 @@
     "SignOffRequest": {
       "PublishedDocument": "Published document",
       "SignOffRequest": "Sign-off request",
-      "ThisDocumentHasBeenDeleted": "Thisdocument has been deleted",
+      "ThisDocumentHasBeenDeleted": "This document has been deleted",
       "Button": {
         "Confirm": "Confirm",
         "ShowRequests": "Show requests",
@@ -34,8 +34,8 @@
       "Features": {
         "SignOffRequestInPublishedDocument": {
           "Category": "Add-ons",
-          "Description": "Enable sign-off requests for published document.",
-          "Title": "Sign-off request for published document"
+          "Description": "Enable sign-off requests for the published document.",
+          "Title": "Sign-off request for the published document"
         }
       }
     },
