@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Tipos de usuario para resincronizar",
+          "SelectTypesHint": "Dejar vacío para resincronizar todos",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "¿Desea resincronizar los usuarios con los tipos seleccionados? Esto llevará algo de tiempo para completarse."
+          },
+          "Progression": {
+            "UserTypesResynced": "Tipos de usuario resincronizados"
+          }
+        },
+        "UnpublishedBPWarning": "Este perfil de negocio aún no está publicado. Publique el perfil de negocio para usar esta función.",
+        "DeleteUsers": {
+          "Title": "Eliminar usuarios",
+          "DeleteUsersBtn": "Eliminar usuarios",
+          "DeleteUsersByTypesDescription": "Eliminar usuarios por tipos de usuario",
+          "ExclusionModeLabel": "Modo de exclusión",
+          "ExclusionModelHint": "En este modo, los tipos de usuario seleccionados se excluirán de ser eliminados",
+          "SelectDeleteTypesLabel": "Tipos de usuario para eliminar",
+          "Dialog": {
+            "TitleDeleteUsers": "Eliminar usuarios con tipos seleccionados",
+            "MessageDeleteUsers": "¿Desea eliminar los usuarios de los tipos de usuario seleccionados?",
+            "TitleDeleteUsersExclusion": "Eliminar todos los usuarios excepto los tipos seleccionados",
+            "MessageDeleteUsersExclusion": "¿Desea eliminar todos los usuarios EXCEPTO los tipos de usuario seleccionados?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "¡Abra la aplicación para iniciar sesión y recibir notificaciones de Omnia!",
+          "titleReauthLoginReminder": "Vuelva a iniciar sesión para recibir notificaciones",
+          "textWaitForNetwork": "¡Espere la conexión de red!"
+        },
+        "Commons": {
+          "btnSave": "Guardar",
+          "btnClose": "Cerrar",
+          "btnOpenFile": "Abrir archivo",
+          "btnSubmit": "Enviar",
+          "btnPrevious": "Anterior",
+          "btnSaveForLater": "Guardar para más tarde",
+          "textThereAreNoMatchingSearchResults": "No hay resultados de búsqueda coincidentes",
+          "textComments": "Comentarios",
+          "textNumberOfResponses": "Número de respuestas: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Por favor, agregue sus respuestas",
+          "textEndsOn": "finaliza el: ",
+          "textEndedOn": "finalizó el: ",
+          "textFormBy": "por ",
+          "textQuestionNoOfTotal": "Pregunta {n} de {total}",
+          "titleOmniaLogin": "Inicio de sesión en Omnia",
+          "titleForm": "Formulario",
+          "titleNew": "Nuevo",
+          "titleComments": "Comentarios",
+          "titleNewComments": "Nuevos comentarios",
+          "titleGroupNews": "Noticias del grupo",
+          "titleOpenJobs": "Trabajos abiertos",
+          "OmniaWebView": {
+            "textLoadingWarning": "¡Espere un minuto. Estamos intentando solucionar el problema al cargar la página de Omnia!",
+            "textLoadingError": "Si aún tiene problemas para cargar la página de Omnia, ¡presione el botón de recarga!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Actualizar idioma de Omnia",
+            "body": "¿Desea establecer el idioma de Omnia según el idioma del dispositivo {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Informe de problemas de Omnia Feed",
+            "message": "Este es un archivo de registros de depuración",
+            "subject": "Informe de problemas"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Restablecer datos de la aplicación",
+            "buttonBackToApp": "Volver a la aplicación",
+            "textResetAppData": "Restablecer datos de la aplicación",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "La aplicación tiene un error fatal. Intente restablecer los datos de la aplicación si experimenta el mismo error.",
+            "textDoYouWantToResetAppData": "¿Desea restablecer los datos de la aplicación?"
+          }
+        }
+      }
+    }
+  }
+}
