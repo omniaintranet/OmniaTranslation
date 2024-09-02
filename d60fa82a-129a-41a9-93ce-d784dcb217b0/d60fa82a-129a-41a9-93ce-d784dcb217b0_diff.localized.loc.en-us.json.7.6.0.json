@@ -1,0 +1,70 @@
+{
+  "WCM": {
+    "SignOffRequest": {
+      "DefaultMessage": "I confirm that I have read and understood the contents of this page."
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Welcome Block",
+        "BlockDescription": "Welcome Block",
+        "NoAvailableMessage": "No available message to render now",
+        "DayOfWeek": {
+          "Monday": "Monday",
+          "Tuesday": "Tuesday",
+          "Wednesday": "Wednesday",
+          "Thursday": "Thursday",
+          "Friday": "Friday",
+          "Saturday": "Saturday",
+          "Sunday": "Sunday"
+        },
+        "Common": {
+          "Sections": {
+            "General": "General",
+            "Display": "Display",
+            "Style": "Style"
+          },
+          "Display": {
+            "MessageTypeSelect": "Message Type",
+            "NoResultText": "No Result Text",
+            "MessageTemplate": "Message Template",
+            "NotAllowEmpty": "Not allow empty",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Time in day",
+                "StartTime": "Start Time"
+              },
+              "DayOfWeek": {
+                "Label": "Day of week",
+                "Day": "Day",
+                "NoValid": "The day is already selected"
+              },
+              "DateTime": {
+                "Label": "Date Time",
+                "StartTime": "Start Time",
+                "EndTime": "End Time",
+                "Overlapped": "This interval time is overlapped",
+                "NoValid": "The end time must be greater than the start time"
+              },
+              "Birthday": "Birthday",
+              "Default": "Default"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Show Avatar",
+                "Position": {
+                  "Label": "Position",
+                  "Left": "Left",
+                  "Right": "Right",
+                  "Top": "Top",
+                  "Bottom": "Bottom"
+                },
+                "Label": "Avatar Display",
+                "Size": "Size"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
