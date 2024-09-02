@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "User types to resync",
+          "SelectTypesHint": "Leave empty to resync all",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Do you want to resync users with selected types? This will take some time to complete."
+          },
+          "Progression": {
+            "UserTypesResynced": "User types resynced"
+          }
+        },
+        "UnpublishedBPWarning": "This business profile is not published yet. Publish the business profile to use this function.",
+        "DeleteUsers": {
+          "Title": "Delete users",
+          "DeleteUsersBtn": "Delete users",
+          "DeleteUsersByTypesDescription": "Delete users by user types",
+          "ExclusionModeLabel": "Exclusion mode",
+          "ExclusionModelHint": "In this mode,selected user types will be excluded from being deleted",
+          "SelectDeleteTypesLabel": "User types to delete",
+          "Dialog": {
+            "TitleDeleteUsers": "Delete users with selected types",
+            "MessageDeleteUsers": "Do you want to delete users from selected user types?",
+            "TitleDeleteUsersExclusion": "Delete all users except selected types",
+            "MessageDeleteUsersExclusion": "Do you want to delete all users EXCEPT selected user types?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Open app to login and receive notifications from Omnia.",
+          "titleReauthLoginReminder": "Re-login to receive notifications",
+          "textWaitForNetwork": "Wait for network connection!"
+        },
+        "Commons": {
+          "btnSave": "Save",
+          "btnClose": "Close",
+          "btnOpenFile": "OpenFile",
+          "btnSubmit": "Submit",
+          "btnPrevious": "Previous",
+          "btnSaveForLater": "Save for later",
+          "textThereAreNoMatchingSearchResults": "There are no matching search results",
+          "textComments": "Comments",
+          "textNumberOfResponses": "Number of responses:{noOfResponses}",
+          "textPleaseWriteYourAnswers": "Please add your answers",
+          "textEndsOn": "ends on: ",
+          "textEndedOn": "ended on: ",
+          "textFormBy": "by ",
+          "textQuestionNoOfTotal": "Question {n} of {total}",
+          "titleOmniaLogin": "Omnia login",
+          "titleForm": "Form",
+          "titleNew": "New",
+          "titleComments": "Comments",
+          "titleNewComments": "New comments",
+          "titleGroupNews": "Group news",
+          "titleOpenJobs": "Open jobs",
+          "OmniaWebView": {
+            "textLoadingWarning": "Please wait a minute. We are trying to fix the issue when loading Omnia page.",
+            "textLoadingError": "If you still haveissue loading Omnia page please press button to reload!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Update Omnia language",
+            "body": "Do you want to set Omnia language by device language {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed issue reporting",
+            "message": "This is debug logs file",
+            "subject": "Issue reporting"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Reset app data",
+            "buttonBackToApp": "Back to app",
+            "textResetAppData": "Reset app data",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "App has fatal error. Please try to reset app data if you experience the same error.",
+            "textDoYouWantToResetAppData": "Do you want to reset app data?"
+          }
+        }
+      }
+    }
+  }
+}
