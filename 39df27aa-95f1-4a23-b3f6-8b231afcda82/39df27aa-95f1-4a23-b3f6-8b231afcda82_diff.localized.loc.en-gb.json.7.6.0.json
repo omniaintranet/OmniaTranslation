@@ -23,7 +23,7 @@
           "Month": "Month",
           "Day": "Day"
         },
-        "NoSectionSettingMessage": "Please configure the property mappings",
+        "NoSectionSettingMessage": "Please configure the property mappings.",
         "SaveAndClose": "Save and close"
       },
       "Settings": {
