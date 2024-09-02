@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Tipuri de utilizatori pentru resincronizare",
+          "SelectTypesHint": "Lăsați gol pentru a resincroniza toți",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Doriți să resincronizați utilizatorii cu tipurile selectate? Aceasta va dura ceva timp pentru a se finaliza."
+          },
+          "Progression": {
+            "UserTypesResynced": "Tipuri de utilizatori resincronizate"
+          }
+        },
+        "UnpublishedBPWarning": "Acest profil de afaceri nueste încă publicat. Publicați profilul de afaceri pentru a utiliza această funcție.",
+        "DeleteUsers": {
+          "Title": "Ștergeți utilizatorii",
+          "DeleteUsersBtn": "Ștergeți utilizatorii",
+          "DeleteUsersByTypesDescription": "Ștergeți utilizatorii după tipurile de utilizatori",
+          "ExclusionModeLabel": "Mod de excludere",
+          "ExclusionModelHint": "În acest mod, tipurile de utilizatori selectatevor fi excluse de la ștergere",
+          "SelectDeleteTypesLabel": "Tipuri de utilizatori de șters",
+          "Dialog": {
+            "TitleDeleteUsers": "Ștergeți utilizatorii cu tipurile selectate",
+            "MessageDeleteUsers": "Doriți să ștergeți utilizatorii din tipurile deutilizatori selectate?",
+            "TitleDeleteUsersExclusion": "Ștergeți toți utilizatorii cu excepția tipurilor selectate",
+            "MessageDeleteUsersExclusion": "Doriți să ștergeți toți utilizatorii CU EXCEPȚIA tipurilor de utilizatori selectate?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Deschideți aplicația pentru a vă autentifica și a primi notificări de la Omnia.",
+          "titleReauthLoginReminder": "Autentificați-vă din nou pentru a primi notificări",
+          "textWaitForNetwork": "Așteptați conexiunea la rețea!"
+        },
+        "Commons": {
+          "btnSave": "Salvați",
+          "btnClose": "Închideți",
+          "btnOpenFile": "Deschideți fișierul",
+          "btnSubmit": "Trimiteți",
+          "btnPrevious": "Anterior",
+          "btnSaveForLater": "Salvați pentru mai târziu",
+          "textThereAreNoMatchingSearchResults": "Nu există rezultate de căutare potrivite",
+          "textComments": "Comentarii",
+          "textNumberOfResponses": "Număr de răspunsuri: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Vă rugăm să adăugați răspunsurile dumneavoastră",
+          "textEndsOn": "se încheie la: ",
+          "textEndedOn": "s-a încheiat la: ",
+          "textFormBy": "de ",
+          "textQuestionNoOfTotal": "Întrebarea {n} din {total}",
+          "titleOmniaLogin": "Autentificare Omnia",
+          "titleForm": "Formular",
+          "titleNew": "Nou",
+          "titleComments": "Comentarii",
+          "titleNewComments": "Comentarii noi",
+          "titleGroupNews": "Știri de grup",
+          "titleOpenJobs": "Locuri de muncă deschise",
+          "OmniaWebView": {
+            "textLoadingWarning": "Vă rugăm să așteptați un minut. Încercăm să rezolvăm problema la încărcarea paginii Omnia.",
+            "textLoadingError": "Dacă aveți încă probleme la încărcarea paginii Omnia, apăsați butonul pentru a reîncărca!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Actualizațilimba Omnia",
+            "body": "Doriți să setați limba Omnia în funcție de limba dispozitivului {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Raportare problemă Omnia Feed",
+            "message": "Acesta este fișierul de jurnale de depanare",
+            "subject": "Raportare problemă"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Resetați datele aplicației",
+            "buttonBackToApp": "Înapoi la aplicație",
+            "textResetAppData": "Resetațidatele aplicației",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplicația are o eroare fatală. Vă rugăm să încercați să resetați datele aplicației dacă întâmpinați aceeași eroare.",
+            "textDoYouWantToResetAppData": "Doriți să resetați datele aplicației?"
+          }
+        }
+      }
+    }
+  }
+}
