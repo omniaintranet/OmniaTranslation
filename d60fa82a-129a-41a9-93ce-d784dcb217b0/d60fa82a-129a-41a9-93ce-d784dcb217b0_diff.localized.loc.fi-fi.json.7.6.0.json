@@ -25,7 +25,7 @@
           },
           "Display": {
             "MessageTypeSelect": "Viestin tyyppi",
-            "NoResultText": "Eitulostekstiä",
+            "NoResultText": "Ei tuloksia -teksti",
             "MessageTemplate": "Viestipohja",
             "NotAllowEmpty": "Ei sallita tyhjää",
             "MessageType": {
@@ -43,7 +43,7 @@
                 "StartTime": "Aloitusaika",
                 "EndTime": "Lopetusaika",
                 "Overlapped": "Tämä aikaväli on päällekkäinen",
-                "NoValid": "Lopetusaika on oltava myöhemmin kuin aloitusaika"
+                "NoValid": "Lopetusajan on oltava aloitusaikaa myöhemmin"
               },
               "Birthday": "Syntymäpäivä",
               "Default": "Oletus"
