@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Типи користувачів для синхронізації",
+          "SelectTypesHint": "Залиште порожнім, щобсинхронізувати всіх",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Ви хочете синхронізувати користувачів з обраними типами? Це займе деякий час для завершення."
+          },
+          "Progression": {
+            "UserTypesResynced": "Синхронізовані типи користувачів"
+          }
+        },
+        "UnpublishedBPWarning": "Цей бізнес-профіль ще не опублікований. Опублікуйте бізнес-профіль, щоб використовувати цю функцію.",
+        "DeleteUsers": {
+          "Title": "Видалити користувачів",
+          "DeleteUsersBtn": "Видалити користувачів",
+          "DeleteUsersByTypesDescription": "Видалити користувачів за типами користувачів",
+          "ExclusionModeLabel": "Режим виключення",
+          "ExclusionModelHint": "У цьому режимі обрані типи користувачів будуть виключені з видалення",
+          "SelectDeleteTypesLabel": "Типи користувачів для видалення",
+          "Dialog": {
+            "TitleDeleteUsers": "Видалити користувачів з обраними типами",
+            "MessageDeleteUsers": "Ви хочете видалити користувачів з обраними типами користувачів?",
+            "TitleDeleteUsersExclusion": "Видалити всіх користувачів, крім обраних типів",
+            "MessageDeleteUsersExclusion": "Ви хочете видалити всіх користувачів, КРІМ обраних типів користувачів?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Відкрийте додаток, щоб увійти та отримувати сповіщення від Omnia!",
+          "titleReauthLoginReminder": "Перезавантажте вхід, щоб отримувати сповіщення",
+          "textWaitForNetwork": "Зачекайте підключення до мережі!"
+        },
+        "Commons": {
+          "btnSave": "Зберегти",
+          "btnClose": "Закрити",
+          "btnOpenFile": "Відкрити файл",
+          "btnSubmit": "Надіслати",
+          "btnPrevious": "Попередній",
+          "btnSaveForLater": "Зберегти на потім",
+          "textThereAreNoMatchingSearchResults": "Немає відповідних результатів пошуку",
+          "textComments": "Коментарі",
+          "textNumberOfResponses": "Кількість відповідей: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Будь ласка, додайте свої відповіді",
+          "textEndsOn": "закінчується: ",
+          "textEndedOn": "закінчився: ",
+          "textFormBy": "від ",
+          "textQuestionNoOfTotal": "Питання {n} з {total}",
+          "titleOmniaLogin": "Вхід в Omnia",
+          "titleForm": "Форма",
+          "titleNew": "Новий",
+          "titleComments": "Коментарі",
+          "titleNewComments": "Нові коментарі",
+          "titleGroupNews": "Новини групи",
+          "titleOpenJobs": "Відкриті вакансії",
+          "OmniaWebView": {
+            "textLoadingWarning": "Будь ласка, зачекайте хвилину. Ми намагаємося виправити проблему під час завантаження сторінки Omnia!",
+            "textLoadingError": "Якщо у вас все ще є проблеми зі завантаженням сторінки Omnia, натисніть кнопку «Перезавантажити»!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Оновити мову Omnia",
+            "body": "Ви хочете встановити мову Omnia за мовою пристрою {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Повідомлення про проблему в Omnia Feed",
+            "message": "Це файл журналів налагодження",
+            "subject": "Повідомлення про проблему"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Скинути дані додатку",
+            "buttonBackToApp": "Повернутися до додатку",
+            "textResetAppData": "Скинути дані додатку",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Додаток має фатальну помилку. Спробуйте скинути дані додатку, якщо у вас виникає така ж помилка.",
+            "textDoYouWantToResetAppData": "Ви хочете скинути дані додатку?"
+          }
+        }
+      }
+    }
+  }
+}
