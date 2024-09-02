@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Luk anmodning"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Opdater",
+        "Agree": "Accepter",
+        "Skip": "Spring over",
+        "ChangeProfilePhoto": "Skift billede",
+        "ChangeProfilePhotoMessage": "Bemærk, at det vil tage tid, før billedet er tilgængeligt.",
+        "Message": "Besked",
+        "AddFeedback": "Tilføj feedback",
+        "RequiredFieldMessage": "Dette felt er påkrævet.",
+        "Send": "Send",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Brugerprofil egenskab {{userprofileproperty}} feedback"
+        },
+        "SentFeedbackMessage": "Tak for din feedback, den er blevet sendt til {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Fejl ved afsendelse af din feedback til {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Måned",
+          "Day": "Dag"
+        },
+        "NoSectionSettingMessage": "Konfigurer venligst egenskabsmappningerne",
+        "SaveAndClose": "Gem og luk"
+      },
+      "Settings": {
+        "Style": "Stil",
+        "HideNameInText": "Skjul brugernavn i tekst",
+        "HidePercentageInText": "Skjul procentdel i tekst",
+        "HideBlockWhenCompleted": "Skjul blok, når den er fuldført",
+        "Size": "Størrelse",
+        "BorderSize": "Kantstørrelse",
+        "Views": {
+          "Title": "Visning",
+          "Line": "Linje",
+          "Circle": "Cirkel"
+        },
+        "TitleText": "Overskriftstekst",
+        "CompletedProfileText": "Fuldført tekst",
+        "NotCompletedProfileText": "Ikke fuldført tekst",
+        "ConfirmationCloseEditingFormTitle": "Annuller redigering af brugerprofil fuldførelse",
+        "ConfirmationCloseEditingFormMessage": "Vil du virkelig lukke med ikke-gemte ændringer?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Min profil",
+        "StrengthenProfile": "Styrk profil",
+        "Done": "færdig",
+        "YouHaveAStrongProfile": "Du har en stærk profil, den er",
+        "YouHaveToStrengthenYourProfile": "Styrk din profil, den er",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Styrk din profil",
+        "WelcomeTitle": "Velkommen",
+        "WebPart": {
+          "WebPartTitle": "Brugerprofil fremskridt",
+          "WebPartDescription": "Viser din grad af profilfuldførelse."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Brugerprofil fuldførelse",
+          "GeneralTabTitle": "Generelt",
+          "MappingTabTitle": "Egenskabsmappning"
+        },
+        "Buttons": {
+          "Update": "Opdater",
+          "AddPropertyMapping": "Tilføj mappning",
+          "AddSection": "Tilføj sektion"
+        },
+        "Pattern": {
+          "ShowDialog": "Vis dialog",
+          "Daily": "Daglig",
+          "Weekly": "Ugentlig",
+          "Monthly": "Månedlig",
+          "Never": "Aldrig",
+          "Title": "Titel",
+          "Description": "Beskrivelse",
+          "FeedbackEmail": "Feedback e-mail",
+          "Levels": "Niveauer",
+          "WeakLevelPercentage": "Procentniveau - Svagt",
+          "GoodLevelPercentage": "Procentniveau - Godt",
+          "EveryWeekday": "Hver hverdag",
+          "Every": "Hver",
+          "Days": "dag(e)",
+          "Weeks": "uge(r)",
+          "Months": "måned(er)",
+          "DayOfWeeks": {
+            "Monday": "Mandag",
+            "Tuesday": "Tirsdag",
+            "Wednesday": "Onsdag",
+            "Thursday": "Torsdag",
+            "Friday": "Fredag",
+            "Saturday": "Lørdag",
+            "Sunday": "Søndag",
+            "Day": "Dag",
+            "Weekday": "Hverdag",
+            "WeekendDay": "Weekenddag"
+          },
+          "Day": "Dag",
+          "OfEvery": "af hver",
+          "The": "Den",
+          "WeekOfMonth": {
+            "First": "Første",
+            "Second": "Anden",
+            "Third": "Tredje",
+            "Fourth": "Fjerde",
+            "Last": "Sidste"
+          },
+          "StartDate": "Startdato",
+          "NoEndDate": "Ingen slutdato",
+          "EndBy": "Slutdato"
+        },
+        "MappingSetting": {
+          "Section": "Sektion"
+        },
+        "Section": {
+          "Property": "Egenskab",
+          "Name": "Navn",
+          "Description": "Beskrivelse"
+        },
+        "PropertyMapping": {
+          "SourceType": "Kildetype",
+          "Type": "Type",
+          "Property": "Egenskab",
+          "Label": "Mærkat",
+          "CompletenessImpact": "Fuldførelsespåvirkning",
+          "ReadyOnly": "Skrivebeskyttet",
+          "Multiple": "Flere",
+          "AllowFeedback": "Tillad feedback",
+          "CustomTarget": "Brugerdefineret mål",
+          "CustomTargetUrl": "Brugerdefineret mål-URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Er du sikker på, at du vil slette denne sektion?",
+          "Confirmation": "Bekræftelse",
+          "DisplayTypes": {
+            "ProfilePicture": "Profilbillede",
+            "Text": "Tekst",
+            "MultilineText": "Flere linjer tekst",
+            "HtmlText": "Html",
+            "TermSet": "Term sæt",
+            "Person": "Person"
+          },
+          "CompletenessImpacts": {
+            "High": "Høj",
+            "Medium": "Medium",
+            "Low": "Lav",
+            "None": "Ingen"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint brugerprofil",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia system sprog"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Brugerdefineret dato"
+        }
+      }
+    }
+  }
+}
