@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "ประเภทผู้ใช้ที่จะซิงค์ข้อมูลใหม่",
+          "SelectTypesHint": "เว้นว่างไว้เพื่อซิงค์ข้อมูลทั้งหมด",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "คุณต้องการซิงค์ข้อมูลผู้ใช้ที่เลือกไว้หรือไม่? กระบวนการนี้อาจใช้เวลาสักครู่"
+          },
+          "Progression": {
+            "UserTypesResynced": "ซิงค์ข้อมูลประเภทผู้ใช้แล้ว"
+          }
+        },
+        "UnpublishedBPWarning": "โปรไฟล์ธุรกิจนี้ยังไม่ได้เผยแพร่ กรุณาเผยแพร่โปรไฟล์ธุรกิจเพื่อใช้งานฟังก์ชันนี้",
+        "DeleteUsers": {
+          "Title": "ลบผู้ใช้",
+          "DeleteUsersBtn": "ลบผู้ใช้",
+          "DeleteUsersByTypesDescription": "ลบผู้ใช้ตามประเภทผู้ใช้",
+          "ExclusionModeLabel": "โหมดการยกเว้น",
+          "ExclusionModelHint": "ในโหมดนี้ ประเภทผู้ใช้ที่เลือกจะไม่ถูกลบ",
+          "SelectDeleteTypesLabel": "ประเภทผู้ใช้ที่จะลบ",
+          "Dialog": {
+            "TitleDeleteUsers": "ลบผู้ใช้ที่มีประเภทที่เลือก",
+            "MessageDeleteUsers": "คุณต้องการลบผู้ใช้จากประเภทผู้ใช้ที่เลือกหรือไม่?",
+            "TitleDeleteUsersExclusion": "ลบผู้ใช้ทั้งหมดยกเว้นประเภทที่เลือก",
+            "MessageDeleteUsersExclusion": "คุณต้องการลบผู้ใช้ทั้งหมดยกเว้นประเภทผู้ใช้ที่เลือกหรือไม่?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "เปิดแอปเพื่อเข้าสู่ระบบและรับการแจ้งเตือนจาก Omnia!",
+          "titleReauthLoginReminder": "เข้าสู่ระบบใหม่เพื่อรับการแจ้งเตือน",
+          "textWaitForNetwork": "รอการเชื่อมต่อเครือข่าย!"
+        },
+        "Commons": {
+          "btnSave": "บันทึก",
+          "btnClose": "ปิด",
+          "btnOpenFile": "เปิดไฟล์",
+          "btnSubmit": "ส่ง",
+          "btnPrevious": "ก่อนหน้า",
+          "btnSaveForLater": "บันทึกไว้ในภายหลัง",
+          "textThereAreNoMatchingSearchResults": "ไม่พบผลการค้นหาที่ตรงกัน",
+          "textComments": "ความคิดเห็น",
+          "textNumberOfResponses": "จำนวนการตอบกลับ: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "กรุณาเพิ่มคำตอบของคุณ",
+          "textEndsOn": "สิ้นสุดเมื่อ: ",
+          "textEndedOn": "สิ้นสุดเมื่อ: ",
+          "textFormBy": "โดย ",
+          "textQuestionNoOfTotal": "คำถามที่ {n} จากทั้งหมด {total}",
+          "titleOmniaLogin": "เข้าสู่ระบบ Omnia",
+          "titleForm": "แบบฟอร์ม",
+          "titleNew": "ใหม่",
+          "titleComments": "ความคิดเห็น",
+          "titleNewComments": "ความคิดเห็นใหม่",
+          "titleGroupNews": "ข่าวกลุ่ม",
+          "titleOpenJobs": "งานที่เปิดรับสมัคร",
+          "OmniaWebView": {
+            "textLoadingWarning": "กรุณารอสักครู่ เรากำลังพยายามแก้ไขปัญหาเมื่อโหลดหน้า Omnia!",
+            "textLoadingError": "หากยังมีปัญหาในการโหลดหน้า Omnia กรุณากดปุ่มรีโหลด!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "อัปเดตภาษา Omnia",
+            "body": "คุณต้องการตั้งค่าภาษา Omnia ตามภาษาอุปกรณ์ {nameLanguage} หรือไม่?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "รายงานปัญหา Omnia Feed",
+            "message": "นี่คือไฟล์บันทึกการแก้ไขข้อบกพร่อง",
+            "subject": "รายงานปัญหา"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "รีเซ็ตข้อมูลแอป",
+            "buttonBackToApp": "กลับไปที่แอป",
+            "textResetAppData": "รีเซ็ตข้อมูลแอป",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "แอปพบข้อผิดพลาดร้ายแรง กรุณาลองรีเซ็ตข้อมูลแอปหากคุณพบข้อผิดพลาดเดียวกัน",
+            "textDoYouWantToResetAppData": "คุณต้องการรีเซ็ตข้อมูลแอปหรือไม่?"
+          }
+        }
+      }
+    }
+  }
+}
