@@ -13,19 +13,19 @@
       }
     },
     "SignOffRequest": {
-      "PublishedDocument": "Published Document",
-      "SignOffRequest": "Sign-off Request",
+      "PublishedDocument": "Published document",
+      "SignOffRequest": "Sign-off request",
       "ThisDocumentHasBeenDeleted": "This document has been deleted",
       "Button": {
         "Confirm": "Confirm",
-        "ShowRequests": "Show Requests",
-        "HideRequests": "Hide Requests",
+        "ShowRequests": "Show requests",
+        "HideRequests": "Hide requests",
         "EndUserSignOff": "End-user sign off"
       },
       "Banner": {
-        "IndividualRequest": "I confirm that I have read and understood the contents of document.",
+        "IndividualRequest": "I confirm that I have read and understood the contents of the document.",
         "GroupRequest": "{{requestTo}} confirm that we have read and understood the contents of this document.",
-        "MultipleRequest": "There are more than one sign-off request related to this document."
+        "MultipleRequest": "There are more than one sign-off requests related to this document."
       },
       "ReadSignOffDocumentNotFound": "The read sign-off request related to this document cannot be found.",
       "DefaultMessage": "I confirm that I have read and understood the contents of this document."
@@ -35,7 +35,7 @@
         "SignOffRequestInPublishedDocument": {
           "Category": "Add-ons",
           "Description": "Enable sign-off requests for published document.",
-          "Title": "Sign-off request for  published document"
+          "Title": "Sign-off request for published document"
         }
       }
     },
