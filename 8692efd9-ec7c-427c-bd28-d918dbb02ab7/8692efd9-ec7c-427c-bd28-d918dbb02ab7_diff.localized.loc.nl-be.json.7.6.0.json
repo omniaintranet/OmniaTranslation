@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Gebruikerstypes om te synchroniseren",
+          "SelectTypesHint": "Laat leeg om alles te synchroniseren",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Wil je gebruikersmet geselecteerde typen opnieuw synchroniseren? Dit kan even duren."
+          },
+          "Progression": {
+            "UserTypesResynced": "Gebruikerstypen opnieuw gesynchroniseerd"
+          }
+        },
+        "UnpublishedBPWarning": "Dit bedrijfsprofiel is nog niet gepubliceerd. Publiceer het bedrijfsprofiel om deze functie te gebruiken.",
+        "DeleteUsers": {
+          "Title": "Gebruikers verwijderen",
+          "DeleteUsersBtn": "Gebruikers verwijderen",
+          "DeleteUsersByTypesDescription": "Gebruikers verwijderen op basis van gebruikerstypes",
+          "ExclusionModeLabel": "Uitsluitingsmodus",
+          "ExclusionModelHint": "In deze modus worden geselecteerde gebruikerstypes uitgesloten van verwijdering",
+          "SelectDeleteTypesLabel": "Gebruikerstypes om te verwijderen",
+          "Dialog": {
+            "TitleDeleteUsers": "Gebruikers verwijderen met geselecteerde typen",
+            "MessageDeleteUsers": "Wil je gebruikers verwijderen van geselecteerde gebruikerstypes?",
+            "TitleDeleteUsersExclusion": "Alle gebruikers verwijderen behalve geselecteerde typen",
+            "MessageDeleteUsersExclusion": "Wil je alle gebruikers verwijderen BEHALVE geselecteerde gebruikerstypes?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Open de app om in te loggen en meldingen van Omnia te ontvangen.",
+          "titleReauthLoginReminder": "Opnieuw inloggen om meldingen te ontvangen",
+          "textWaitForNetwork": "Wacht op netwerkverbinding!"
+        },
+        "Commons": {
+          "btnSave": "Opslaan",
+          "btnClose": "Sluiten",
+          "btnOpenFile": "Bestand openen",
+          "btnSubmit": "Verzenden",
+          "btnPrevious": "Vorige",
+          "btnSaveForLater": "Opslaan voor later",
+          "textThereAreNoMatchingSearchResults": "Er zijn geen overeenkomendezoekresultaten",
+          "textComments": "Reacties",
+          "textNumberOfResponses": "Aantal reacties: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Voeg je antwoorden toe",
+          "textEndsOn": "eindigt op: ",
+          "textEndedOn": "beëindigd op: ",
+          "textFormBy": "door ",
+          "textQuestionNoOfTotal": "Vraag {n} van {total}",
+          "titleOmniaLogin": "Omnia-login",
+          "titleForm": "Formulier",
+          "titleNew": "Nieuw",
+          "titleComments": "Reacties",
+          "titleNewComments": "Nieuwe reacties",
+          "titleGroupNews": "Groepsnieuws",
+          "titleOpenJobs": "Openstaande vacatures",
+          "OmniaWebView": {
+            "textLoadingWarning": "Wacht even. We proberen het probleem met het laden van de Omnia-pagina op te lossen.",
+            "textLoadingError": "Als je nog steeds problemen hebt met het laden van de Omnia-pagina, druk dan op de knop om opnieuw te laden!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia-taal bijwerken",
+            "body": "Wil je de Omnia-taal instellen op basis van de apparaattaal {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Probleemrapportage Omnia Feed",
+            "message": "Dit is een debug-logbestand",
+            "subject": "Probleemrapportage"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "App-gegevens resetten",
+            "buttonBackToApp": "Terug naar app",
+            "textResetAppData": "App-gegevens resetten",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "De app heeft een fatale fout. Probeer de app-gegevens te resetten als je dezelfde fout ervaart.",
+            "textDoYouWantToResetAppData": "Wil je de app-gegevens resetten?"
+          }
+        }
+      }
+    }
+  }
+}
