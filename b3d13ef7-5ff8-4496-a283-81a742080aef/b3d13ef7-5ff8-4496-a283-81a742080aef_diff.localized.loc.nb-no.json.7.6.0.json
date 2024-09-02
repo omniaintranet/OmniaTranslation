@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Aktiver sign-off-forespørsel",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Typer sign-off-forespørsel"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Søket ditt ga ingen resultater.",
+        "NoSiteToShow": "Det er ingen nettsted å vise."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Publisert dokument",
+      "SignOffRequest": "Sign-off-forespørsel",
+      "ThisDocumentHasBeenDeleted": "Dette dokumentet er slettet",
+      "Button": {
+        "Confirm": "Bekreft",
+        "ShowRequests": "Vis forespørsler",
+        "HideRequests": "Skjul forespørsler",
+        "EndUserSignOff": "Sluttbruker sign off"
+      },
+      "Banner": {
+        "IndividualRequest": "Jeg bekrefter at jeg har lest og forstått innholdet i dokumentet.",
+        "GroupRequest": "{{requestTo}} bekreft at vi har lest og forstått innholdet i dette dokumentet.",
+        "MultipleRequest": "Det er flere sign-off-forespørsler knyttet til dette dokumentet."
+      },
+      "ReadSignOffDocumentNotFound": "Den leste sign-off-forespørselen knyttet til dette dokumentet kan ikke bli funnet.",
+      "DefaultMessage": "Jeg bekrefter at jeg har lest og forstått innholdet i dette dokumentet."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Tillegg",
+          "Description": "Aktiver sign-off-forespørsler for publiserte dokumenter.",
+          "Title": "Sign-off-forespørsel for publisert dokument"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Opprett sign-off-forespørsel"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Dette dokumentet inneholder uaksepterte endringer. Vennligst gjennomgå og aksepter eller avvis dem før publisering."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "I dag",
+          "CustomDate": "Tilpasset dato"
+        }
+      }
+    }
+  }
+}
