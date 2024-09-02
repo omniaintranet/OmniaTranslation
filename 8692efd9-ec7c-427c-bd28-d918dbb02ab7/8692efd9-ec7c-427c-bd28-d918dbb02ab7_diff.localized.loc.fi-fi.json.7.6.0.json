@@ -6,13 +6,13 @@
           "SelectTypesLabel": "Valitse käyttäjätyypit synkronointiin",
           "SelectTypesHint": "Jätä tyhjäksi synkronoidaksesi kaikki",
           "Dialog": {
-            "MessageResyncAllUsersWithTypes": "Haluatko synkronoida käyttäjät valittujen tyyppejen kanssa? Tämä vie jonkin aikaa."
+            "MessageResyncAllUsersWithTypes": "Haluatko synkronoida käyttäjät valittujen tyyppien kanssa? Tämä vie jonkin aikaa."
           },
           "Progression": {
             "UserTypesResynced": "Käyttäjätyypit synkronoitu"
           }
         },
-        "UnpublishedBPWarning": "Tätä liiketoiminnan profiilia ei ole vielä julkaistu. Julkaise liiketoiminnan profiili käyttääksesi tätä toimintoa.",
+        "UnpublishedBPWarning": "Tätä liiketoimintaprofiilia ei ole vielä julkaistu. Julkaise liiketoimintaprofiili käyttääksesi tätä toimintoa.",
         "DeleteUsers": {
           "Title": "Poista käyttäjät",
           "DeleteUsersBtn": "Poista käyttäjät",
@@ -24,7 +24,7 @@
             "TitleDeleteUsers": "Poista käyttäjät valituilla tyypeillä",
             "MessageDeleteUsers": "Haluatko poistaa käyttäjät valituista käyttäjätyypeistä?",
             "TitleDeleteUsersExclusion": "Poista kaikki käyttäjät paitsi valitut tyypit",
-            "MessageDeleteUsersExclusion": "Haluatko poistaa kaikki käyttäjätPAITSI valitut käyttäjätyypit?"
+            "MessageDeleteUsersExclusion": "Haluatko poistaa kaikki käyttäjät PAITSI valitut käyttäjätyypit?"
           }
         }
       },
@@ -62,7 +62,7 @@
           },
           "AlertUpdateOmniaLanguageByMobileAppLanguage": {
             "title": "Päivitä Omnia-kieli",
-            "body": "Haluatko asettaa Omnia-kielen laitteen kieleksi {nameLanguage}?"
+            "body": "Haluatko asettaa laitteen kielen {nameLanguage} Omnia-kieleksi?"
           },
           "ShareLogsFileOptions": {
             "title": "Omnia Feed -ongelman raportointi",
@@ -73,7 +73,7 @@
             "buttonResetAppData": "Nollaa sovelluksen tiedot",
             "buttonBackToApp": "Takaisin sovellukseen",
             "textResetAppData": "Nollaa sovelluksen tiedot",
-            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Sovelluksessa on vakava virhe. Yritä nollata sovelluksen tiedot, jos koet saman virheen.",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Sovelluksessa on vakava virhe. Yritä nollata sovelluksen tiedot, jos koet saman virheen uudestaan.",
             "textDoYouWantToResetAppData": "Haluatko nollata sovelluksen tiedot?"
           }
         }
