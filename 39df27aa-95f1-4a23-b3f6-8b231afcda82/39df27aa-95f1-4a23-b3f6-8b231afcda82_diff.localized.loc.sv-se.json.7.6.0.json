@@ -9,7 +9,7 @@
         "Agree": "Godkänn",
         "Skip": "Hoppa över",
         "ChangeProfilePhoto": "Byt bild",
-        "ChangeProfilePhotoMessage": "Observera att det kan ta tid innan bilden blir tillgänglig.",
+        "ChangeProfilePhotoMessage": "Observera att det kan ta lite tid innan bilden visas.",
         "Message": "Meddelande",
         "AddFeedback": "Lägg till feedback",
         "RequiredFieldMessage": "Detta fält är obligatoriskt.",
@@ -18,7 +18,7 @@
           "EmailSubject": "Feedback för användarprofilsegenskap {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Tack för din feedback, den har skickats till {{feedback-email}}.",
-        "SendFeedbackErrorMessage": "Fel vid skickandeav din feedback till {{feedback-email}}",
+        "SendFeedbackErrorMessage": "Fel när din feedback skickades till {{feedback-email}}",
         "BirthdayProperty": {
           "Month": "Månad",
           "Day": "Dag"
@@ -30,7 +30,7 @@
         "Style": "Stil",
         "HideNameInText": "Dölj användarnamn i text",
         "HidePercentageInText": "Dölj procent i text",
-        "HideBlockWhenCompleted": "Dölj block när det är klart",
+        "HideBlockWhenCompleted": "Dölj block när allt är klart",
         "Size": "Storlek",
         "BorderSize": "Kantstorlek",
         "Views": {
@@ -39,13 +39,13 @@
           "Circle": "Cirkel"
         },
         "TitleText": "Rubriktext",
-        "CompletedProfileText": "Textnär profil är klar",
+        "CompletedProfileText": "Text när profil är klar",
         "NotCompletedProfileText": "Text när profil inte är klar",
-        "ConfirmationCloseEditingFormTitle": "Avbryt redigering av användarprofilens fullständighet",
-        "ConfirmationCloseEditingFormMessage": "Vill duverkligen avsluta med osparade ändringar?"
+        "ConfirmationCloseEditingFormTitle": "Avbryt redigering av användarprofilen",
+        "ConfirmationCloseEditingFormMessage": "Vill du verkligen avsluta utan att spara ändringar?"
       },
       "ProfileCompletion": {
-        "Headline": "Minprofil",
+        "Headline": "Min profil",
         "StrengthenProfile": "Stärk profil",
         "Done": "klar",
         "YouHaveAStrongProfile": "Du har en stark profil, den är",
@@ -54,12 +54,12 @@
         "WelcomeTitle": "Välkommen",
         "WebPart": {
           "WebPartTitle": "Framsteg för användarprofil",
-          "WebPartDescription": "Visar din grad av profilkomplettering."
+          "WebPartDescription": "Visar grad av profilkomplettering."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "Användarprofilkomplettering",
+          "ProfileCompletionAdmin": "Komplettering av användarprofil",
           "GeneralTabTitle": "Allmänt",
           "MappingTabTitle": "Egenskapsmappningar"
         },
@@ -76,7 +76,7 @@
           "Never": "Aldrig",
           "Title": "Titel",
           "Description": "Beskrivning",
-          "FeedbackEmail": "Feedback-e-post",
+          "FeedbackEmail": "Email för Feedback",
           "Levels": "Nivåer",
           "WeakLevelPercentage": "Procentnivå - Svag",
           "GoodLevelPercentage": "Procentnivå - Bra",
@@ -124,12 +124,12 @@
           "Type": "Typ",
           "Property": "Egenskap",
           "Label": "Etikett",
-          "CompletenessImpact": "Effekt på fullständighet",
+          "CompletenessImpact": "Effekt av slutförande",
           "ReadyOnly": "Skrivskyddad",
           "Multiple": "Flera",
           "AllowFeedback": "Tillåt feedback",
           "CustomTarget": "Anpassad målplats",
-          "CustomTargetUrl": "Anpassad målplats-URL",
+          "CustomTargetUrl": "URL för anpassad målplats",
           "DeleteUserProfileCompletionSectionConfirmation": "Är du säker på att du vill ta bort denna sektion?",
           "Confirmation": "Bekräftelse",
           "DisplayTypes": {
