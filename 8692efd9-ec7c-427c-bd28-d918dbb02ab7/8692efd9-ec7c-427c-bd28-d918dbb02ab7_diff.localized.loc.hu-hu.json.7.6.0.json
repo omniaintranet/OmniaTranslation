@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Felhasználó típusok újraszinkronizálása",
+          "SelectTypesHint": "Hagyja üresen az összes újraszinkronizálásához",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Szeretné újraszinkronizálni a felhasználókat a kiválasztott típusokkal? Ez néhány időt vesz igénybe a befejezéshez."
+          },
+          "Progression": {
+            "UserTypesResynced": "Felhasználó típusok újraszinkronizálva"
+          }
+        },
+        "UnpublishedBPWarning": "Ez a vállalati profil még nincs közzétéve. Közzé kell tenni a vállalati profilját, hogy használhassa ezt afunkciót.",
+        "DeleteUsers": {
+          "Title": "Felhasználók törlése",
+          "DeleteUsersBtn": "Felhasználók törlése",
+          "DeleteUsersByTypesDescription": "Felhasználók törlése felhasználó típusok szerint",
+          "ExclusionModeLabel": "Kizárás módja",
+          "ExclusionModelHint": "Ebben a módban a kiválasztott felhasználó típusok nem lesznek törölve",
+          "SelectDeleteTypesLabel": "Felhasználó típusok törlése",
+          "Dialog": {
+            "TitleDeleteUsers": "Felhasználók törlése a kiválasztott típusokkal",
+            "MessageDeleteUsers": "Szeretné törölni a felhasználókat a kiválasztott felhasználó típusokból?",
+            "TitleDeleteUsersExclusion": "Minden felhasználó törlése a kiválasztott típusok kivételével",
+            "MessageDeleteUsersExclusion": "Szeretné törölni az összes felhasználót a kiválasztott felhasználó típusok KIVÉTELÉVEL?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Nyissa meg azalkalmazást a bejelentkezéshez és az értesítések fogadásához az Omnia-tól!",
+          "titleReauthLoginReminder": "Újra bejelentkezés az értesítések fogadásához",
+          "textWaitForNetwork": "Várjon a hálózati kapcsolatra!"
+        },
+        "Commons": {
+          "btnSave": "Mentés",
+          "btnClose": "Bezárás",
+          "btnOpenFile": "Fájl megnyitása",
+          "btnSubmit": "Elküldés",
+          "btnPrevious": "Előző",
+          "btnSaveForLater": "Mentés későbbre",
+          "textThereAreNoMatchingSearchResults": "Nincsenek találatok",
+          "textComments": "Megjegyzések",
+          "textNumberOfResponses": "Válaszok száma: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Kérjük, adja hozzá a válaszait",
+          "textEndsOn": "vége: ",
+          "textEndedOn": "vége: ",
+          "textFormBy": "készítette: ",
+          "textQuestionNoOfTotal": "{n}. kérdés a(z) {total}-ból",
+          "titleOmniaLogin": "Omnia bejelentkezés",
+          "titleForm": "Űrlap",
+          "titleNew": "Új",
+          "titleComments": "Megjegyzések",
+          "titleNewComments": "Új megjegyzések",
+          "titleGroupNews": "Csoport hírek",
+          "titleOpenJobs": "Nyitott állások",
+          "OmniaWebView": {
+            "textLoadingWarning": "Kérjük, várjon egy percet. Próbáljuk megoldani a problémát az Omnia oldal betöltésekor!",
+            "textLoadingError": "Ha továbbra is problémája van az Omnia oldal betöltésével, nyomja meg az újratöltés gombot!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia nyelvének frissítése",
+            "body": "Szeretné beállítani az Omnia nyelvét a(z) {nameLanguage} eszköz nyelvével?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed probléma jelentése",
+            "message": "Ez a hibakeresési naplófájl",
+            "subject": "Probléma jelentése"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Alkalmazás adatok visszaállítása",
+            "buttonBackToApp": "Vissza az alkalmazáshoz",
+            "textResetAppData": "Alkalmazás adatok visszaállítása",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Az alkalmazás súlyos hibát észlelt. Kérjük, próbálja meg visszaállítani az alkalmazás adatait, ha ugyanazt a hibát tapasztalja.",
+            "textDoYouWantToResetAppData": "Biztosan visszaállítja az alkalmazás adatait?"
+          }
+        }
+      }
+    }
+  }
+}
