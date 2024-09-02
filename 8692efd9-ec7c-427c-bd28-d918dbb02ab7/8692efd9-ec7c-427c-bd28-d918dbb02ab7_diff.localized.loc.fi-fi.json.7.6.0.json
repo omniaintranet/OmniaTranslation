@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Valitse käyttäjätyypit synkronointiin",
+          "SelectTypesHint": "Jätä tyhjäksi synkronoidaksesi kaikki",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Haluatko synkronoida käyttäjät valittujen tyyppejen kanssa? Tämä vie jonkin aikaa."
+          },
+          "Progression": {
+            "UserTypesResynced": "Käyttäjätyypit synkronoitu"
+          }
+        },
+        "UnpublishedBPWarning": "Tätä liiketoiminnan profiilia ei ole vielä julkaistu. Julkaise liiketoiminnan profiili käyttääksesi tätä toimintoa.",
+        "DeleteUsers": {
+          "Title": "Poista käyttäjät",
+          "DeleteUsersBtn": "Poista käyttäjät",
+          "DeleteUsersByTypesDescription": "Poista käyttäjät käyttäjätyypeittäin",
+          "ExclusionModeLabel": "Poissulkutila",
+          "ExclusionModelHint": "Tässä tilassa valitut käyttäjätyypit jätetään poistamatta",
+          "SelectDeleteTypesLabel": "Käyttäjätyypit poistettavaksi",
+          "Dialog": {
+            "TitleDeleteUsers": "Poista käyttäjät valituilla tyypeillä",
+            "MessageDeleteUsers": "Haluatko poistaa käyttäjät valituista käyttäjätyypeistä?",
+            "TitleDeleteUsersExclusion": "Poista kaikki käyttäjät paitsi valitut tyypit",
+            "MessageDeleteUsersExclusion": "Haluatko poistaa kaikki käyttäjätPAITSI valitut käyttäjätyypit?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Avaa sovellus kirjautuaksesi sisään ja vastaanottaaksesi ilmoituksia Omnialta!",
+          "titleReauthLoginReminder": "Kirjaudu uudelleen vastaanottaaksesi ilmoituksia",
+          "textWaitForNetwork": "Odota verkkoyhteyttä!"
+        },
+        "Commons": {
+          "btnSave": "Tallenna",
+          "btnClose": "Sulje",
+          "btnOpenFile": "Avaa tiedosto",
+          "btnSubmit": "Lähetä",
+          "btnPrevious": "Edellinen",
+          "btnSaveForLater": "Tallenna myöhempää käyttöä varten",
+          "textThereAreNoMatchingSearchResults": "Ei vastaavia hakutuloksia",
+          "textComments": "Kommentit",
+          "textNumberOfResponses": "Vastausten määrä: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Lisää vastauksesi",
+          "textEndsOn": "päättyy: ",
+          "textEndedOn": "päättyi: ",
+          "textFormBy": "tekijä: ",
+          "textQuestionNoOfTotal": "Kysymys {n}/{total}",
+          "titleOmniaLogin": "Omnia-kirjautuminen",
+          "titleForm": "Lomake",
+          "titleNew": "Uusi",
+          "titleComments": "Kommentit",
+          "titleNewComments": "Uudet kommentit",
+          "titleGroupNews": "Ryhmän uutiset",
+          "titleOpenJobs": "Avoinna olevat työpaikat",
+          "OmniaWebView": {
+            "textLoadingWarning": "Odota hetki. Yritämme korjata ongelmaa Omnia-sivun lataamisen yhteydessä!",
+            "textLoadingError": "Jos sinulla on edelleen ongelmia Omnia-sivun lataamisessa, paina päivitä-painiketta!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Päivitä Omnia-kieli",
+            "body": "Haluatko asettaa Omnia-kielen laitteen kieleksi {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed -ongelman raportointi",
+            "message": "Tämä on vianmäärityslokitiedosto",
+            "subject": "Ongelman raportointi"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Nollaa sovelluksen tiedot",
+            "buttonBackToApp": "Takaisin sovellukseen",
+            "textResetAppData": "Nollaa sovelluksen tiedot",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Sovelluksessa on vakava virhe. Yritä nollata sovelluksen tiedot, jos koet saman virheen.",
+            "textDoYouWantToResetAppData": "Haluatko nollata sovelluksen tiedot?"
+          }
+        }
+      }
+    }
+  }
+}
