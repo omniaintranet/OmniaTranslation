@@ -24,7 +24,7 @@
           "Day": "Day"
         },
         "NoSectionSettingMessage": "Please configure the property mappings",
-        "SaveAndClose": "Save andClose"
+        "SaveAndClose": "Save and close"
       },
       "Settings": {
         "Style": "Style",
@@ -41,8 +41,8 @@
         "TitleText": "Header text",
         "CompletedProfileText": "Completed text",
         "NotCompletedProfileText": "Not completed text",
-        "ConfirmationCloseEditingFormTitle": "Cancel editing user profilecompleteness",
-        "ConfirmationCloseEditingFormMessage": "Do you really want to closewith unsaved changes?"
+        "ConfirmationCloseEditingFormTitle": "Cancel editing user profile completeness",
+        "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?"
       },
       "ProfileCompletion": {
         "Headline": "My profile",
@@ -54,12 +54,12 @@
         "WelcomeTitle": "Welcome",
         "WebPart": {
           "WebPartTitle": "User profile progress",
-          "WebPartDescription": "Shows your degree of profile completion."
+          "WebPartDescription": "Displays your degree of profile completion."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "User profilecompletion",
+          "ProfileCompletionAdmin": "User profile completion",
           "GeneralTabTitle": "General",
           "MappingTabTitle": "Property mappings"
         },
