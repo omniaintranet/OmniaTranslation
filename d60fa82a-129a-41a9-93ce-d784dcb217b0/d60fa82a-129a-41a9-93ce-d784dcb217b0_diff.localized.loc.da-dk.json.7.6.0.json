@@ -1,0 +1,70 @@
+{
+  "WCM": {
+    "SignOffRequest": {
+      "DefaultMessage": "Jeg bekræfter, at jeg har læst og forstået indholdet på denne side."
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Velkomstblok",
+        "BlockDescription": "Velkomstblok",
+        "NoAvailableMessage": "Ingen tilgængelig besked at vise nu",
+        "DayOfWeek": {
+          "Monday": "Mandag",
+          "Tuesday": "Tirsdag",
+          "Wednesday": "Onsdag",
+          "Thursday": "Torsdag",
+          "Friday": "Fredag",
+          "Saturday": "Lørdag",
+          "Sunday": "Søndag"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Generelt",
+            "Display": "Visning",
+            "Style": "Stil"
+          },
+          "Display": {
+            "MessageTypeSelect": "Beskedtype",
+            "NoResultText": "Ingen resultattekst",
+            "MessageTemplate": "Beskedskabelon",
+            "NotAllowEmpty": "Ikke tillad tom",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Tid på dagen",
+                "StartTime": "Starttid"
+              },
+              "DayOfWeek": {
+                "Label": "Ugedag",
+                "Day": "Dag",
+                "NoValid": "Dagen er allerede valgt"
+              },
+              "DateTime": {
+                "Label": "Dato og tid",
+                "StartTime": "Starttid",
+                "EndTime": "Sluttid",
+                "Overlapped": "Denne tidsintervaloverlapper",
+                "NoValid": "Sluttiden skal være senere end starttiden"
+              },
+              "Birthday": "Fødselsdag",
+              "Default": "Standard"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Vis avatar",
+                "Position": {
+                  "Label": "Position",
+                  "Left": "Venstre",
+                  "Right": "Højre",
+                  "Top": "Top",
+                  "Bottom": "Bund"
+                },
+                "Label": "Avatarvisning",
+                "Size": "Størrelse"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
