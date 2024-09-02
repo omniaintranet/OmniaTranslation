@@ -41,7 +41,7 @@
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequest": "Create Sign-off request"
+        "CreateSignOffRequest": "Create sign-off request"
       },
       "Messages": {
         "MessageFileHasUnacceptedChanges": "This document contains unaccepted changes. Please review and accept or reject them before publishing."
