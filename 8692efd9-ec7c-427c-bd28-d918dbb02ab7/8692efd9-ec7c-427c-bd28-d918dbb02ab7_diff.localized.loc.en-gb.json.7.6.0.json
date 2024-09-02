@@ -58,7 +58,7 @@
           "titleOpenJobs": "Open jobs",
           "OmniaWebView": {
             "textLoadingWarning": "Please wait a minute. We are trying to fix the issue when loading Omnia page.",
-            "textLoadingError": "If you still haveissue loading Omnia page please press on button reload."
+            "textLoadingError": "If you still have issue loading Omnia page please press on button reload."
           },
           "AlertUpdateOmniaLanguageByMobileAppLanguage": {
             "title": "Update Omnia language",
