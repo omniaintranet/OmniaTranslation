@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Anfrage schließen"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Aktualisieren",
+        "Agree": "Zustimmen",
+        "Skip": "Überspringen",
+        "ChangeProfilePhoto": "Bild ändern",
+        "ChangeProfilePhotoMessage": "Bitte beachten Sie, dass es einige Zeit dauern kann, bis das Bild verfügbar ist.",
+        "Message": "Nachricht",
+        "AddFeedback": "Feedback hinzufügen",
+        "RequiredFieldMessage": "Dieses Feld ist erforderlich.",
+        "Send": "Senden",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Feedbackzum Benutzerprofilattribut {{userprofileproperty}}"
+        },
+        "SentFeedbackMessage": "Vielen Dank für Ihr Feedback. Es wurde an {{feedback-email}} gesendet.",
+        "SendFeedbackErrorMessage": "Fehler beim Senden Ihres Feedbacks an {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Monat",
+          "Day": "Tag"
+        },
+        "NoSectionSettingMessage": "Bitte konfigurieren Sie die Attributzuzuordnungen",
+        "SaveAndClose": "Speichern und schließen"
+      },
+      "Settings": {
+        "Style": "Stil",
+        "HideNameInText": "Benutzernamen im Text ausblenden",
+        "HidePercentageInText": "Prozentsatz im Text ausblenden",
+        "HideBlockWhenCompleted": "Block ausblenden, wenn abgeschlossen",
+        "Size": "Größe",
+        "BorderSize": "Rahmengröße",
+        "Views": {
+          "Title": "Ansicht",
+          "Line": "Linie",
+          "Circle": "Kreis"
+        },
+        "TitleText": "Überschriftstext",
+        "CompletedProfileText": "Text bei abgeschlossenem Profil",
+        "NotCompletedProfileText": "Text beiunvollständigem Profil",
+        "ConfirmationCloseEditingFormTitle": "Bearbeitung des Benutzerprofilvollständigkeitsstatus abbrechen",
+        "ConfirmationCloseEditingFormMessage": "Möchten Sie wirklich mit nichtgespeicherten Änderungen schließen?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Mein Profil",
+        "StrengthenProfile": "Profil stärken",
+        "Done": "erledigt",
+        "YouHaveAStrongProfile": "Sie haben ein starkes Profil, es ist",
+        "YouHaveToStrengthenYourProfile": "Stärken Sie Ihr Profil, es ist",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Stärken Sie Ihr Profil",
+        "WelcomeTitle": "Willkommen",
+        "WebPart": {
+          "WebPartTitle": "Fortschritt des Benutzerprofils",
+          "WebPartDescription": "Zeigt den Grad der Profilvollständigkeit an."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Benutzerprofilvollständigkeit",
+          "GeneralTabTitle": "Allgemein",
+          "MappingTabTitle": "Attributzuzuordnungen"
+        },
+        "Buttons": {
+          "Update": "Aktualisieren",
+          "AddPropertyMapping": "Zuordnung hinzufügen",
+          "AddSection": "Abschnitt hinzufügen"
+        },
+        "Pattern": {
+          "ShowDialog": "Dialoganzeigen",
+          "Daily": "Täglich",
+          "Weekly": "Wöchentlich",
+          "Monthly": "Monatlich",
+          "Never": "Nie",
+          "Title": "Titel",
+          "Description": "Beschreibung",
+          "FeedbackEmail": "Feedback-E-Mail",
+          "Levels": "Stufen",
+          "WeakLevelPercentage": "Prozentsatzstufe - Schwach",
+          "GoodLevelPercentage": "Prozentsatzstufe - Gut",
+          "EveryWeekday": "Jeden Wochentag",
+          "Every": "Jeden",
+          "Days": "Tag(e)",
+          "Weeks": "Woche(n)",
+          "Months": "Monat(e)",
+          "DayOfWeeks": {
+            "Monday": "Montag",
+            "Tuesday": "Dienstag",
+            "Wednesday": "Mittwoch",
+            "Thursday": "Donnerstag",
+            "Friday": "Freitag",
+            "Saturday": "Samstag",
+            "Sunday": "Sonntag",
+            "Day": "Tag",
+            "Weekday": "Wochentag",
+            "WeekendDay": "Wochenendtag"
+          },
+          "Day": "Tag",
+          "OfEvery": "von jedem",
+          "The": "Der",
+          "WeekOfMonth": {
+            "First": "Erster",
+            "Second": "Zweiter",
+            "Third": "Dritter",
+            "Fourth": "Vierter",
+            "Last": "Letzter"
+          },
+          "StartDate": "Startdatum",
+          "NoEndDate": "Kein Enddatum",
+          "EndBy": "Endet am"
+        },
+        "MappingSetting": {
+          "Section": "Abschnitt"
+        },
+        "Section": {
+          "Property": "Attribut",
+          "Name": "Name",
+          "Description": "Beschreibung"
+        },
+        "PropertyMapping": {
+          "SourceType": "Quelltyp",
+          "Type": "Typ",
+          "Property": "Attribut",
+          "Label": "Beschriftung",
+          "CompletenessImpact": "Vollständigkeitsauswirkung",
+          "ReadyOnly": "Schreibgeschützt",
+          "Multiple": "Mehrere",
+          "AllowFeedback": "Feedback zulassen",
+          "CustomTarget": "Benutzerdefiniertes Ziel",
+          "CustomTargetUrl": "Benutzerdefinierte Ziel-URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Möchten Sie diesen Abschnitt wirklich löschen?",
+          "Confirmation": "Bestätigung",
+          "DisplayTypes": {
+            "ProfilePicture": "Profilbild",
+            "Text": "Text",
+            "MultilineText": "Mehrzeiliger Text",
+            "HtmlText": "HTML",
+            "TermSet": "Termset",
+            "Person": "Person"
+          },
+          "CompletenessImpacts": {
+            "High": "Hoch",
+            "Medium": "Mittel",
+            "Low": "Niedrig",
+            "None": "Keine"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint-Benutzerprofil",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia-Systemsprache"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Benutzerdefiniertes Datum"
+        }
+      }
+    }
+  }
+}
