@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Bật yêu cầu ký duyệt",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Loại yêu cầu ký duyệt"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Tìm kiếm của bạn không trả về bất kỳ trang web nào.",
+        "NoSiteToShow": "Không có trang web để hiển thị."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Tài liệu đã xuất bản",
+      "SignOffRequest": "Yêu cầu ký duyệt",
+      "ThisDocumentHasBeenDeleted": "Tài liệu này đã bị xóa",
+      "Button": {
+        "Confirm": "Xác nhận",
+        "ShowRequests": "Hiển thị yêu cầu",
+        "HideRequests": "Ẩn yêu cầu",
+        "EndUserSignOff": "Ký duyệt của người dùng cuối"
+      },
+      "Banner": {
+        "IndividualRequest": "Tôi xác nhận rằng tôi đã đọc và hiểu nội dung của tài liệu.",
+        "GroupRequest": "{{requestTo}} xác nhận rằng chúng tôi đã đọcvà hiểu nội dung của tài liệu này.",
+        "MultipleRequest": "Có nhiều yêu cầu ký duyệtliên quan đến tài liệu này."
+      },
+      "ReadSignOffDocumentNotFound": "Không tìm thấy yêu cầu ký duyệt đọc liên quan đến tài liệu này.",
+      "DefaultMessage": "Tôi xác nhận rằng tôi đã đọc và hiểu nội dung của tài liệu này."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Tiệních bổ sung",
+          "Description": "Bật yêu cầu ký duyệt cho tài liệu đã xuất bản.",
+          "Title": "Yêu cầu ký duyệt cho tài liệu đã xuất bản"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Tạo yêu cầu ký duyệt"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Tài liệu này chứa các thay đổi chưa được chấp nhận. Vui lòng xem xét và chấp nhận hoặc từ chối trước khi xuất bản."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Hôm nay",
+          "CustomDate": "Ngày tùy chỉnh"
+        }
+      }
+    }
+  }
+}
