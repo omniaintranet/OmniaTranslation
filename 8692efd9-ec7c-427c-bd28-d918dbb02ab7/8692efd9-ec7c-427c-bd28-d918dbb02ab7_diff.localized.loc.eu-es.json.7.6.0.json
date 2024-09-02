@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Erabiltzaile motak berrizsinkronizatzeko",
+          "SelectTypesHint": "Utzi hutsik guztien berrizsinkronizatzeko",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Erabiltzaileak hautatutako motekin berrizsinkronizatu nahi duzu? Prozesu honek denbora bat hartuko du."
+          },
+          "Progression": {
+            "UserTypesResynced": "Erabiltzaile motak berrizsinkronizatuak"
+          }
+        },
+        "UnpublishedBPWarning": "Negozio profila oraindik argitaratu gabe dago. Erabili funtzio hau erabiltzeko negozio profila argitaratu.",
+        "DeleteUsers": {
+          "Title": "Erabiltzaileak ezabatu",
+          "DeleteUsersBtn": "Erabiltzaileak ezabatu",
+          "DeleteUsersByTypesDescription": "Erabiltzaileak erabiltzaile motekin ezabatu",
+          "ExclusionModeLabel": "Exklusio modua",
+          "ExclusionModelHint": "Modu honetan, hautatutako erabiltzaile motak ezabatuko dira",
+          "SelectDeleteTypesLabel": "Erabiltzaile motak ezabatzeko",
+          "Dialog": {
+            "TitleDeleteUsers": "Hautatutako motekin erabiltzaileak ezabatu",
+            "MessageDeleteUsers": "Hautatutako erabiltzaile motetako erabiltzaileak ezabatu nahi dituzu?",
+            "TitleDeleteUsersExclusion": "Hautatutako motak izan ezik erabiltzaile guztiak ezabatu",
+            "MessageDeleteUsersExclusion": "Erabiltzaile guztiak ezabatu nahi dituzu, baina hautatutako erabiltzaile motak izan ezik?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "App-a ireki saioa hasteko eta Omnia-tik jakinarazpenak jasotzeko.",
+          "titleReauthLoginReminder": "Saioa berrezarri jakinarazpenak jasotzeko",
+          "textWaitForNetwork": "Itxaron sare konexioa izateko!"
+        },
+        "Commons": {
+          "btnSave": "Gorde",
+          "btnClose": "Itxi",
+          "btnOpenFile": "Fitxategia ireki",
+          "btnSubmit": "Bidali",
+          "btnPrevious": "Aurrekoa",
+          "btnSaveForLater": "Gorde geroago",
+          "textThereAreNoMatchingSearchResults": "Ez dago emaitza bilaketarako",
+          "textComments": "Iruzkinak",
+          "textNumberOfResponses": "Erantzun kopurua: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Mesedez, gehitu zure erantzunak",
+          "textEndsOn": "amaitzen da: ",
+          "textEndedOn": "amaitu zen: ",
+          "textFormBy": "honen bidez ",
+          "textQuestionNoOfTotal": "{n} galdera {total}-tik",
+          "titleOmniaLogin": "Omnia saioa",
+          "titleForm": "Galdera",
+          "titleNew": "Berria",
+          "titleComments": "Iruzkinak",
+          "titleNewComments": "Iruzkin berriak",
+          "titleGroupNews": "Talde berriak",
+          "titleOpenJobs": "Lan eskaintzak",
+          "OmniaWebView": {
+            "textLoadingWarning": "Mesedez, itxaron minutu bat. Omnia orrialdearen kargatzean arazo bat dagoen saiatzen ari gara konpontzen.",
+            "textLoadingError": "Omnia orrialdea kargatzean arazo bat baduzu, sakatu botoia berriro kargatzeko!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Eguneratu Omnia hizkuntza",
+            "body": "Hizkuntza gailuaren arabera Omnia hizkuntza ezarri nahiduzu {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed arazoaren txostena",
+            "message": "Hau da arazoaren txostena",
+            "subject": "Arazoaren txostena"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Berrezarri aplikazioaren datuak",
+            "buttonBackToApp": "Itzuli aplikaziora",
+            "textResetAppData": "Berrezarri aplikazioaren datuak",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikazioak errore larria dauka. Mesedez, saiatu aplikazioaren datuak berrezarri erroreberdina baduzu.",
+            "textDoYouWantToResetAppData": "Berrezarri aplikazioaren datuak nahi dituzu?"
+          }
+        }
+      }
+    }
+  }
+}
