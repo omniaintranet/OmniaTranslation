@@ -9,7 +9,7 @@
     "PublishedDocumentPicker": {
       "Messages": {
         "SearchReturnNoSite": "Din sökning gav inga resultat.",
-        "NoSiteToShow": "Det finns ingen webbplats attvisa."
+        "NoSiteToShow": "Det finns ingen webbplats att visa."
       }
     },
     "SignOffRequest": {
@@ -41,10 +41,10 @@
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequest": "Skapagodkännandebegäran"
+        "CreateSignOffRequest": "Skapa godkännandebegäran"
       },
       "Messages": {
-        "MessageFileHasUnacceptedChanges": "Detta dokument innehåller ej godkända ändringar. Vänligen granska och acceptera eller avvisa dem innan publicering."
+        "MessageFileHasUnacceptedChanges": "Detta dokument innehåller ändringar som inte är godkända. Vänligen granska och acceptera eller avvisa dem innan publicering."
       }
     },
     "DocumentRollup": {
