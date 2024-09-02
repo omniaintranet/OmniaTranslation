@@ -18,12 +18,12 @@
           "EmailSubject": "User profile property {{userprofileproperty}} feedback"
         },
         "SentFeedbackMessage": "Thanks for your feedback, it has been sent to {{feedback-email}}.",
-        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}",
+        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Month",
           "Day": "Day"
         },
-        "NoSectionSettingMessage": "Please configure the property mappings",
+        "NoSectionSettingMessage": "Please configure the property mappings.",
         "SaveAndClose": "Save andClose"
       },
       "Settings": {
