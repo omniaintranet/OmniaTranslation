@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Valige kasutajatüübid, mida sünkroonida",
+          "SelectTypesHint": "Jätke tühjaks, etsünkroonida kõik",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Kas soovite sünkroonida kasutajad valitud tüüpidega? See võtab aega."
+          },
+          "Progression": {
+            "UserTypesResynced": "Kasutajatüübid sünkroonitud"
+          }
+        },
+        "UnpublishedBPWarning": "See ettevõtte profiil pole veel avaldatud. Avaldage ettevõtte profiil, et kasutada seda funktsiooni.",
+        "DeleteUsers": {
+          "Title": "Kustuta kasutajad",
+          "DeleteUsersBtn": "Kustuta kasutajad",
+          "DeleteUsersByTypesDescription": "Kustuta kasutajad kasutajatüüpide järgi",
+          "ExclusionModeLabel": "Väljajätmise režiim",
+          "ExclusionModelHint": "Selles režiimis jäetakse valitud kasutajatüübid kustutamata",
+          "SelectDeleteTypesLabel": "Kustutatavad kasutajatüübid",
+          "Dialog": {
+            "TitleDeleteUsers": "Kustuta kasutajad valitud tüüpidega",
+            "MessageDeleteUsers": "Kas soovite kustutada kasutajad valitud kasutajatüüpidest?",
+            "TitleDeleteUsersExclusion": "Kustuta kõik kasutajad, välja arvatud valitud tüübid",
+            "MessageDeleteUsersExclusion": "Kas soovite kustutada kõik kasutajad VÄLJA ARVATUD valitud kasutajatüüpidest?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Avage rakendus, et sisse logida ja saada teatisi Omnia kohta!",
+          "titleReauthLoginReminder": "Uuesti sisselogimiseks teatisi saamiseks",
+          "textWaitForNetwork": "Oodake võrguühendust!"
+        },
+        "Commons": {
+          "btnSave": "Salvesta",
+          "btnClose": "Sulge",
+          "btnOpenFile": "Ava fail",
+          "btnSubmit": "Esita",
+          "btnPrevious": "Eelmine",
+          "btnSaveForLater": "Salvesta hiljem",
+          "textThereAreNoMatchingSearchResults": "Vastavaid otsingutulemusi pole",
+          "textComments": "Kommentaarid",
+          "textNumberOfResponses": "Vastuste arv: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Palun lisage oma vastused",
+          "textEndsOn": "lõpeb: ",
+          "textEndedOn": "lõppes: ",
+          "textFormBy": "autor: ",
+          "textQuestionNoOfTotal": "Küsimus {n} / {total}",
+          "titleOmniaLogin": "Omnia sisselogimine",
+          "titleForm": "Vorm",
+          "titleNew": "Uus",
+          "titleComments": "Kommentaarid",
+          "titleNewComments": "Uued kommentaarid",
+          "titleGroupNews": "Grupiuudised",
+          "titleOpenJobs": "Avatud töökohad",
+          "OmniaWebView": {
+            "textLoadingWarning": "Palun oodake hetk. Püüame parandada Omnia lehe laadimisega seotud probleemi!",
+            "textLoadingError": "Kui teilon endiselt probleeme Omnia lehe laadimisega, vajutage nupule 'Laadi uuesti'!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Uuenda Omnia keelt",
+            "body": "Kas soovite seada Omnia keele seadme keele {nameLanguage} järgi?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia toite probleemide raporteerimine",
+            "message": "See on tõrkeotsingu logifail",
+            "subject": "Probleemi raporteerimine"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Lähtesta rakenduse andmed",
+            "buttonBackToApp": "Tagasi rakendusse",
+            "textResetAppData": "Lähtesta rakenduse andmed",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Rakendusel on tõrge. Kui teil tekib sama viga, proovige rakenduse andmed lähtestada.",
+            "textDoYouWantToResetAppData": "Kas soovite rakenduse andmed lähtestada?"
+          }
+        }
+      }
+    }
+  }
+}
