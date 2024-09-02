@@ -6,13 +6,13 @@
           "SelectTypesLabel": "Användartyper att synkronisera",
           "SelectTypesHint": "Lämna tomt för att synkronisera alla",
           "Dialog": {
-            "MessageResyncAllUsersWithTypes": "Vill du synkronisera användare med valda typer? Detta kan ta lite tid att slutföra."
+            "MessageResyncAllUsersWithTypes": "Vill du synkronisera användare av valda typer? Detta kan ta lite tid att slutföra."
           },
           "Progression": {
             "UserTypesResynced": "Användartyper synkroniserade"
           }
         },
-        "UnpublishedBPWarning": "Denna företagsprofil är inte publicerad ännu. Publicera företagsprofilen för att använda denna funktion.",
+        "UnpublishedBPWarning": "Denna verksamhetssprofil är inte publicerad ännu. Publicera verksamhetsprofilen för att använda denna funktion.",
         "DeleteUsers": {
           "Title": "Ta bort användare",
           "DeleteUsersBtn": "Ta bort användare",
@@ -21,8 +21,8 @@
           "ExclusionModelHint": "I detta läge kommer valda användartyper att exkluderas från att bli borttagna",
           "SelectDeleteTypesLabel": "Användartyper att ta bort",
           "Dialog": {
-            "TitleDeleteUsers": "Ta bort användare med valda typer",
-            "MessageDeleteUsers": "Vill du ta bort användare från valda användartyper?",
+            "TitleDeleteUsers": "Ta bort användare av valda typer",
+            "MessageDeleteUsers": "Vill du ta bort användare av valda användartyper?",
             "TitleDeleteUsersExclusion": "Ta bort alla användare utom valda typer",
             "MessageDeleteUsersExclusion": "Vill du ta bort alla användare UTOM valda användartyper?"
           }
@@ -30,9 +30,9 @@
       },
       "App": {
         "ReAuthScreen": {
-          "textReauthLoginReminder": "Öppna appenför att logga in och ta emot meddelanden från Omnia!",
+          "textReauthLoginReminder": "Öppna appenför att logga in och ta emot meddelanden från Omnia.",
           "titleReauthLoginReminder": "Logga in igen för att ta emot meddelanden",
-          "textWaitForNetwork": "Vänta på nätverksanslutning!"
+          "textWaitForNetwork": "Vänta på nätverksanslutning."
         },
         "Commons": {
           "btnSave": "Spara",
@@ -57,8 +57,8 @@
           "titleGroupNews": "Gruppnyheter",
           "titleOpenJobs": "Lediga jobb",
           "OmniaWebView": {
-            "textLoadingWarning": "Vänligen vänta en minut. Vi försökeråtgärda problemet med att ladda Omnia-sidan!",
-            "textLoadingError": "Om du fortfarande har problem med att ladda Omnia-sidan, tryck på knappen för att ladda om!"
+            "textLoadingWarning": "Vänligen vänta en minut. Vi försöker åtgärda problemet med att ladda Omnia-sidan.",
+            "textLoadingError": "Om du fortfarande har problem med att ladda Omnia-sidan, tryck på knappen för att ladda om."
           },
           "AlertUpdateOmniaLanguageByMobileAppLanguage": {
             "title": "Uppdatera Omnia-språk",
