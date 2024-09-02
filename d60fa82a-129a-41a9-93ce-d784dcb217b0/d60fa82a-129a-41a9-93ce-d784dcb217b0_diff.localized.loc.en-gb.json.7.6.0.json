@@ -36,13 +36,13 @@
               "DayOfWeek": {
                 "Label": "Day of week",
                 "Day": "Day",
-                "NoValid": "The day is already selected"
+                "NoValid": "The day is already selected."
               },
               "DateTime": {
                 "Label": "Date time",
                 "StartTime": "Start time",
                 "EndTime": "End time",
-                "Overlapped": "This interval time is overlapped",
+                "Overlapped": "This interval time is overlapped.",
                 "NoValid": "The end time must be later than the start time."
               },
               "Birthday": "Birthday",
