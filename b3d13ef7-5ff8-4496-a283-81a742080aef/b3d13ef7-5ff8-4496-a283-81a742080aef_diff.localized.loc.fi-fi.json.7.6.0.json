@@ -8,7 +8,7 @@
     },
     "PublishedDocumentPicker": {
       "Messages": {
-        "SearchReturnNoSite": "Hakusi eituottanut tuloksia sivustoista.",
+        "SearchReturnNoSite": "Hakusi ei tuottanut tuloksia sivustoista.",
         "NoSiteToShow": "Näytettäviä sivustoja ei ole."
       }
     },
@@ -27,7 +27,7 @@
         "GroupRequest": "{{requestTo}} vahvistaa, että olemme lukeneet ja ymmärtäneet tämän asiakirjan sisällön.",
         "MultipleRequest": "Tähän asiakirjaan liittyy useita hyväksymispyyntöjä."
       },
-      "ReadSignOffDocumentNotFound": "Tähän asiakirjaan liittyväälukuhyväksymispyyntöä ei löydy.",
+      "ReadSignOffDocumentNotFound": "Tähän asiakirjaan liittyvää lukuhyväksymispyyntöä ei löydy.",
       "DefaultMessage": "Vahvistan, että olen lukenut ja ymmärtänyt tämän asiakirjan sisällön."
     },
     "Core": {
