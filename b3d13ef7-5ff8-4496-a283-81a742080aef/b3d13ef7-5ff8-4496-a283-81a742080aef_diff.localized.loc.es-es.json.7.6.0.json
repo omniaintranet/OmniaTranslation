@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Activar solicitud de aprobación",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Tipos de solicitud de aprobación"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Tu búsqueda no ha devuelto ningún sitio.",
+        "NoSiteToShow": "No hay ningún sitio para mostrar."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Documento publicado",
+      "SignOffRequest": "Solicitud de aprobación",
+      "ThisDocumentHasBeenDeleted": "Este documento ha sido eliminado",
+      "Button": {
+        "Confirm": "Confirmar",
+        "ShowRequests": "Mostrar solicitudes",
+        "HideRequests": "Ocultar solicitudes",
+        "EndUserSignOff": "Aprobación del usuario final"
+      },
+      "Banner": {
+        "IndividualRequest": "Confirmo que he leído y comprendido el contenido del documento.",
+        "GroupRequest": "{{requestTo}} confirma que hemos leído y comprendido el contenido de este documento.",
+        "MultipleRequest": "Existen más de una solicitud de aprobación relacionada con este documento."
+      },
+      "ReadSignOffDocumentNotFound": "No se puede encontrar la solicitud de aprobación de lectura relacionada con este documento.",
+      "DefaultMessage": "Confirmo que he leído y comprendido el contenido de este documento."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Complementos",
+          "Description": "Activar solicitudes de aprobación para documentospublicados.",
+          "Title": "Solicitud de aprobación para documentos publicados"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Crear solicitud de aprobación"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Estedocumento contiene cambios no aceptados. Por favor, revísalos y acéptalos o recházalos antes de publicar."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Hoy",
+          "CustomDate": "Fecha personalizada"
+        }
+      }
+    }
+  }
+}
