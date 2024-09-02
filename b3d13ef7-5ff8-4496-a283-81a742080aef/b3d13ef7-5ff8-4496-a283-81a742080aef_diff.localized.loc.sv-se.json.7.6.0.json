@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Aktivera begäran om godkännande",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Typer av godkännandebegäran"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Din sökning gav inga resultat.",
+        "NoSiteToShow": "Det finns ingen webbplats attvisa."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Publicerat dokument",
+      "SignOffRequest": "Godkännandebegäran",
+      "ThisDocumentHasBeenDeleted": "Detta dokument har tagits bort",
+      "Button": {
+        "Confirm": "Bekräfta",
+        "ShowRequests": "Visa begäranden",
+        "HideRequests": "Dölj begäranden",
+        "EndUserSignOff": "Slutanvändarens godkännande"
+      },
+      "Banner": {
+        "IndividualRequest": "Jag bekräftar att jag har läst och förstått innehållet i dokumentet.",
+        "GroupRequest": "{{requestTo}} bekräftar att vi har läst och förstått innehållet i detta dokument.",
+        "MultipleRequest": "Det finns fler än en godkännandebegäran som är relaterad till detta dokument."
+      },
+      "ReadSignOffDocumentNotFound": "Den lästa godkännandebegäran som är relaterad till detta dokument kan inte hittas.",
+      "DefaultMessage": "Jag bekräftar att jag har läst och förstått innehållet i detta dokument."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Tillägg",
+          "Description": "Aktivera begäran om godkännande för publicerat dokument.",
+          "Title": "Godkännandebegäran för publicerat dokument"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Skapagodkännandebegäran"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Detta dokument innehåller ej godkända ändringar. Vänligen granska och acceptera eller avvisa dem innan publicering."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Idag",
+          "CustomDate": "Anpassat datum"
+        }
+      }
+    }
+  }
+}
