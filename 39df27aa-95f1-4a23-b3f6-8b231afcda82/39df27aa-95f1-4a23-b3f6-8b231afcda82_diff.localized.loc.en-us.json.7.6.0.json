@@ -41,7 +41,7 @@
         "TitleText": "Header text",
         "CompletedProfileText": "Completed text",
         "NotCompletedProfileText": "Not completed text",
-        "ConfirmationCloseEditingFormTitle": "Cancel editing user profilecompleteness",
+        "ConfirmationCloseEditingFormTitle": "Cancel editing user profile completeness",
         "ConfirmationCloseEditingFormMessage": "Do you really want to closewith unsaved changes?"
       },
       "ProfileCompletion": {
@@ -54,12 +54,12 @@
         "WelcomeTitle": "Welcome",
         "WebPart": {
           "WebPartTitle": "User profile progress",
-          "WebPartDescription": "Shows your degree of profile completion."
+          "WebPartDescription": "Displays your degree of profile completion."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "User profilecompletion",
+          "ProfileCompletionAdmin": "User profile completion",
           "GeneralTabTitle": "General",
           "MappingTabTitle": "Property mappings"
         },
