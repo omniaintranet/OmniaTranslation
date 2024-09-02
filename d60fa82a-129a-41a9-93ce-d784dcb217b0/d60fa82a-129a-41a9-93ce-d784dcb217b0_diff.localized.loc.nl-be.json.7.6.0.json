@@ -1,0 +1,70 @@
+{
+  "WCM": {
+    "SignOffRequest": {
+      "DefaultMessage": "Ik bevestig dat ikde inhoud van deze pagina heb gelezen en begrepen."
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Welkomstblok",
+        "BlockDescription": "Welkomstblok",
+        "NoAvailableMessage": "Geen beschikbaar bericht om nu weer te geven",
+        "DayOfWeek": {
+          "Monday": "Maandag",
+          "Tuesday": "Dinsdag",
+          "Wednesday": "Woensdag",
+          "Thursday": "Donderdag",
+          "Friday": "Vrijdag",
+          "Saturday": "Zaterdag",
+          "Sunday": "Zondag"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Algemeen",
+            "Display": "Weergave",
+            "Style": "Stijl"
+          },
+          "Display": {
+            "MessageTypeSelect": "Berichttype",
+            "NoResultText": "Geen resultaattekst",
+            "MessageTemplate": "Berichtsjabloon",
+            "NotAllowEmpty": "Niet toestaan leeg te zijn",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Tijd van de dag",
+                "StartTime": "Starttijd"
+              },
+              "DayOfWeek": {
+                "Label": "Dag van de week",
+                "Day": "Dag",
+                "NoValid": "De dag is al geselecteerd"
+              },
+              "DateTime": {
+                "Label": "Datum en tijd",
+                "StartTime": "Starttijd",
+                "EndTime": "Eindtijd",
+                "Overlapped": "Deze tijdsinterval overlapt",
+                "NoValid": "De eindtijd moet later zijn dan de starttijd"
+              },
+              "Birthday": "Verjaardag",
+              "Default": "Standaard"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Avatar weergeven",
+                "Position": {
+                  "Label": "Positie",
+                  "Left": "Links",
+                  "Right": "Rechts",
+                  "Top": "Boven",
+                  "Bottom": "Onder"
+                },
+                "Label": "Avatar weergave",
+                "Size": "Grootte"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
