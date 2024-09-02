@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Dutkamiid tyyppat resync",
+          "SelectTypesHint": "Áddjá dáid tyyppaid resynciin",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Leatgo dutkamiid resynciin valdama tyyppaid? Dát galgá čállit oktii áigi."
+          },
+          "Progression": {
+            "UserTypesResynced": "Dutkamiid tyyppat resynciiddet"
+          }
+        },
+        "UnpublishedBPWarning": "Dán lihkku beassá eai leat julkimis. Julkašuhká lihkku dahje geavahit dán funksuvnnain.",
+        "DeleteUsers": {
+          "Title": "Dutkamiid dilálašvuođat",
+          "DeleteUsersBtn": "Dutkamiid dilálašvuođat",
+          "DeleteUsersByTypesDescription": "Dutkamiid dilálašvuođat dutkamiid tyyppaid mielde",
+          "ExclusionModeLabel": "Dilálašvuođa modus",
+          "ExclusionModelHint": "Dán modusis leat dutkamiid tyyppat maid eai dilálašvuođa",
+          "SelectDeleteTypesLabel": "Dutkamiid tyyppat dilálašvuođain",
+          "Dialog": {
+            "TitleDeleteUsers": "Dutkamiid dilálašvuođat valdama tyyppaid",
+            "MessageDeleteUsers": "Leatgo dilálašvuođat dutkamiid valdama tyyppaid?",
+            "TitleDeleteUsersExclusion": "Dilálašvuođat buot dutkamiid, eai valdama tyyppaid",
+            "MessageDeleteUsersExclusion": "Leatgo dilálašvuođat buot dutkamiid, eai valdama tyyppaid?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Ávžžuhit appa sisa ja gávdnojit ođđačállit Omnia!",
+          "titleReauthLoginReminder": "Loggahit sisa ođđačállit gávdnojit",
+          "textWaitForNetwork": "Čuovvovaš sieđđit!"
+        },
+        "Commons": {
+          "btnSave": "Save",
+          "btnClose": "Close",
+          "btnOpenFile": "Open File",
+          "btnSubmit": "Submit",
+          "btnPrevious": "Previous",
+          "btnSaveForLater": "Save for later",
+          "textThereAreNoMatchingSearchResults": "Ei leat vástádus čuovvovaš ovdalgevččiid",
+          "textComments": "Kommentárat",
+          "textNumberOfResponses": "Vástádusmátkki: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Addet ođđasisvuođaid",
+          "textEndsOn": "čuovvova: ",
+          "textEndedOn": "čuovvova: ",
+          "textFormBy": "álgo ",
+          "textQuestionNoOfTotal": "Gullevaš {n} / {total}",
+          "titleOmniaLogin": "Omnia loggahus",
+          "titleForm": "Forma",
+          "titleNew": "Ođđa",
+          "titleComments": "Kommentárat",
+          "titleNewComments": "Ođđa kommentárat",
+          "titleGroupNews": "Ovdalgevččat",
+          "titleOpenJobs": "Rievdadat",
+          "OmniaWebView": {
+            "textLoadingWarning": "Váldde minuhtta. Mii geavahit čuovvovaš Omnia sivvus!",
+            "textLoadingError": "Jaske čuovvovaš Omnia sivvus, de váldde reload!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Dálkkádetti Omnia giella",
+            "body": "Leatgo dálkkádetti Omnia giella dálkkádetti giellagiela {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed áššedieđu",
+            "message": "Dát lea debug loggaid sátni",
+            "subject": "Áššedieđu"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Rievdadit appa dieđuid",
+            "buttonBackToApp": "Manne appa",
+            "textResetAppData": "Rievdadit appa dieđuid",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appa lea fatala várás. Rievdadit appa dieđuid jos leat dán várás.",
+            "textDoYouWantToResetAppData": "Leatgo rievdadit appa dieđuid?"
+          }
+        }
+      }
+    }
+  }
+}
