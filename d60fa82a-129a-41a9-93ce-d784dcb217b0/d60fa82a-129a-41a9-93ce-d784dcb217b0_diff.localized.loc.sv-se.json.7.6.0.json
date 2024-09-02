@@ -42,8 +42,8 @@
                 "Label": "Datum och tid",
                 "StartTime": "Starttid",
                 "EndTime": "Sluttid",
-                "Overlapped": "Denna tidsintervall överlappar",
-                "NoValid": "Sluttiden måste vara senare än starttiden"
+                "Overlapped": "Denna tidsintervall överlappar.",
+                "NoValid": "Sluttiden måste vara senare än starttiden."
               },
               "Birthday": "Födelsedag",
               "Default": "Standard"
