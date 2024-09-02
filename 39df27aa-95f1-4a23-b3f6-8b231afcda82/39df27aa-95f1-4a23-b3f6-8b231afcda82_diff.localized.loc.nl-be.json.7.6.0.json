@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Sluit verzoek"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Bijwerken",
+        "Agree": "Akkoord",
+        "Skip": "Overslaan",
+        "ChangeProfilePhoto": "Afbeelding wijzigen",
+        "ChangeProfilePhotoMessage": "Houd er rekening mee dat het even kan duren voordat de afbeelding beschikbaar is.",
+        "Message": "Bericht",
+        "AddFeedback": "Feedback toevoegen",
+        "RequiredFieldMessage": "Dit veld is verplicht.",
+        "Send": "Verzenden",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Feedbackgebruikersprofiel eigenschap {{userprofileproperty}}"
+        },
+        "SentFeedbackMessage": "Bedankt voor uw feedback, deze is verzonden naar {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Fout bij het verzenden van uw feedback naar {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Maand",
+          "Day": "Dag"
+        },
+        "NoSectionSettingMessage": "Configureer alstublieft de eigenschapskoppelingen",
+        "SaveAndClose": "Opslaan en sluiten"
+      },
+      "Settings": {
+        "Style": "Stijl",
+        "HideNameInText": "Verberg gebruikersnaam in tekst",
+        "HidePercentageInText": "Verberg percentage in tekst",
+        "HideBlockWhenCompleted": "Verberg blok wanneer voltooid",
+        "Size": "Grootte",
+        "BorderSize": "Randgrootte",
+        "Views": {
+          "Title": "Weergave",
+          "Line": "Lijn",
+          "Circle": "Cirkel"
+        },
+        "TitleText": "Kop tekst",
+        "CompletedProfileText": "Voltooide tekst",
+        "NotCompletedProfileText": "Niet voltooide tekst",
+        "ConfirmationCloseEditingFormTitle": "Bewerken van gebruikersprofiel volledigheid annuleren",
+        "ConfirmationCloseEditingFormMessage": "Weet u zeker dat u wilt sluiten met niet-opgeslagen wijzigingen?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Mijnprofiel",
+        "StrengthenProfile": "Versterk profiel",
+        "Done": "klaar",
+        "YouHaveAStrongProfile": "U heeft een sterk profiel, het is",
+        "YouHaveToStrengthenYourProfile": "Versterk uw profiel, het is",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Versterk uw profiel",
+        "WelcomeTitle": "Welkom",
+        "WebPart": {
+          "WebPartTitle": "Voortgang gebruikersprofiel",
+          "WebPartDescription": "Toont uw mate van profielvoltooiing."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Gebruikersprofiel voltooiing",
+          "GeneralTabTitle": "Algemeen",
+          "MappingTabTitle": "Eigenschapskoppelingen"
+        },
+        "Buttons": {
+          "Update": "Bijwerken",
+          "AddPropertyMapping": "Koppeling toevoegen",
+          "AddSection": "Sectie toevoegen"
+        },
+        "Pattern": {
+          "ShowDialog": "Toon dialoogvenster",
+          "Daily": "Dagelijks",
+          "Weekly": "Wekelijks",
+          "Monthly": "Maandelijks",
+          "Never": "Nooit",
+          "Title": "Titel",
+          "Description": "Beschrijving",
+          "FeedbackEmail": "Feedback E-mail",
+          "Levels": "Niveaus",
+          "WeakLevelPercentage": "Percentage niveau - Zwak",
+          "GoodLevelPercentage": "Percentage niveau - Goed",
+          "EveryWeekday": "Elke werkdag",
+          "Every": "Elke",
+          "Days": "dag(en)",
+          "Weeks": "week(s)",
+          "Months": "maand(en)",
+          "DayOfWeeks": {
+            "Monday": "Maandag",
+            "Tuesday": "Dinsdag",
+            "Wednesday": "Woensdag",
+            "Thursday": "Donderdag",
+            "Friday": "Vrijdag",
+            "Saturday": "Zaterdag",
+            "Sunday": "Zondag",
+            "Day": "Dag",
+            "Weekday": "Werkdag",
+            "WeekendDay": "Weekenddag"
+          },
+          "Day": "Dag",
+          "OfEvery": "van elke",
+          "The": "De",
+          "WeekOfMonth": {
+            "First": "Eerste",
+            "Second": "Tweede",
+            "Third": "Derde",
+            "Fourth": "Vierde",
+            "Last": "Laatste"
+          },
+          "StartDate": "Startdatum",
+          "NoEndDate": "Geen einddatum",
+          "EndBy": "Einddatum"
+        },
+        "MappingSetting": {
+          "Section": "Sectie"
+        },
+        "Section": {
+          "Property": "Eigenschap",
+          "Name": "Naam",
+          "Description": "Beschrijving"
+        },
+        "PropertyMapping": {
+          "SourceType": "Bron type",
+          "Type": "Type",
+          "Property": "Eigenschap",
+          "Label": "Label",
+          "CompletenessImpact": "Volledigheid impact",
+          "ReadyOnly": "Alleen-lezen",
+          "Multiple": "Meervoudig",
+          "AllowFeedback": "Feedback toestaan",
+          "CustomTarget": "Aangepast doel",
+          "CustomTargetUrl": "Aangepaste doel-URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Weet u zeker dat u deze sectie wilt verwijderen?",
+          "Confirmation": "Bevestiging",
+          "DisplayTypes": {
+            "ProfilePicture": "Profielfoto",
+            "Text": "Tekst",
+            "MultilineText": "Meerdere regels tekst",
+            "HtmlText": "Html",
+            "TermSet": "Termenset",
+            "Person": "Persoon"
+          },
+          "CompletenessImpacts": {
+            "High": "Hoog",
+            "Medium": "Gemiddeld",
+            "Low": "Laag",
+            "None": "Geen"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint gebruikersprofiel",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia systeemtaal"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Aangepaste datum"
+        }
+      }
+    }
+  }
+}
