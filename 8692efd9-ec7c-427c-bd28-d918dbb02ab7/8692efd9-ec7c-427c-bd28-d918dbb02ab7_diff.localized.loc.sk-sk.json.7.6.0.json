@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Typy používateľov na resynchronizáciu",
+          "SelectTypesHint": "Ak chcete resynchronizovať všetkých, ponechajte prázdne",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Chcete resynchronizovať používateľov so zvolenými typmi? Toto môže chvíľu trvať."
+          },
+          "Progression": {
+            "UserTypesResynced": "Typy používateľov boli resynchronizované"
+          }
+        },
+        "UnpublishedBPWarning": "Tento obchodný profil ešte nie je publikovaný. Publikujte obchodný profil, aby ste mohli použiť túto funkciu.",
+        "DeleteUsers": {
+          "Title": "Vymazať používateľov",
+          "DeleteUsersBtn": "Vymazať používateľov",
+          "DeleteUsersByTypesDescription": "Vymazať používateľov podľa typov používateľov",
+          "ExclusionModeLabel": "Režim vylúčenia",
+          "ExclusionModelHint": "V tomto režime budú zvolené typy používateľov vylúčené z vymazania",
+          "SelectDeleteTypesLabel": "Typy používateľov na vymazanie",
+          "Dialog": {
+            "TitleDeleteUsers": "Vymazať používateľov so zvolenými typmi",
+            "MessageDeleteUsers": "Chcete vymazať používateľov zo zvolených typov používateľov?",
+            "TitleDeleteUsersExclusion": "Vymazať všetkých používateľov okrem zvolených typov",
+            "MessageDeleteUsersExclusion": "Chcete vymazať všetkých používateľov OKREM zvolených typov používateľov?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Otvorte aplikáciu, prihláste sa a prijímajte oznámenia od Omnia!",
+          "titleReauthLoginReminder": "Prihláste sa znovu pre prijímanie oznámení",
+          "textWaitForNetwork": "Počkajte na pripojenie k sieti!"
+        },
+        "Commons": {
+          "btnSave": "Uložiť",
+          "btnClose": "Zavrieť",
+          "btnOpenFile": "Otvoriť súbor",
+          "btnSubmit": "Odoslať",
+          "btnPrevious": "Predchádzajúci",
+          "btnSaveForLater": "Uložiť na neskôr",
+          "textThereAreNoMatchingSearchResults": "Nenašli sa žiadne zhody v hľadaní",
+          "textComments": "Komentáre",
+          "textNumberOfResponses": "Počet odpovedí: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Prosím, pridajte svoje odpovede",
+          "textEndsOn": "končí: ",
+          "textEndedOn": "skončilo: ",
+          "textFormBy": "od ",
+          "textQuestionNoOfTotal": "Otázka {n} z {total}",
+          "titleOmniaLogin": "Prihlásenie do Omnia",
+          "titleForm": "Formulár",
+          "titleNew": "Nový",
+          "titleComments": "Komentáre",
+          "titleNewComments": "Nové komentáre",
+          "titleGroupNews": "Skupinové správy",
+          "titleOpenJobs": "Voľné pracovné miesta",
+          "OmniaWebView": {
+            "textLoadingWarning": "Počkajte prosím. Snažíme sa opraviť problém so načítaním stránky Omnia!",
+            "textLoadingError": "Ak stále máte problém s načítaním stránky Omnia, stlačte tlačidlo na obnovenie!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Aktualizovať jazyk Omnia",
+            "body": "Chcete nastaviť jazyk Omnia podľa jazyka zariadenia {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Hlásenie problému s Omnia Feed",
+            "message": "Toto je súbor s protokolmi ladenia",
+            "subject": "Hlásenie problému"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Obnoviť údaje aplikácie",
+            "buttonBackToApp": "Späť do aplikácie",
+            "textResetAppData": "Obnoviť údaje aplikácie",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikácia má fatálnu chybu. Ak máte rovnakú chybu, skúste obnoviť údaje aplikácie.",
+            "textDoYouWantToResetAppData": "Chcete obnoviť údaje aplikácie?"
+          }
+        }
+      }
+    }
+  }
+}
