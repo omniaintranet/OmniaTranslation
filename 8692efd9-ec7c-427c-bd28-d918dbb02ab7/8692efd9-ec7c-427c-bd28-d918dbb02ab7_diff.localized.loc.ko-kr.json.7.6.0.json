@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "동기화할 사용자 유형 선택",
+          "SelectTypesHint": "모두 동기화하려면 비워 두세요",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "선택한 유형의 사용자를 동기화하시겠습니까? 이 작업은 시간이 소요됩니다."
+          },
+          "Progression": {
+            "UserTypesResynced": "사용자 유형이 동기화되었습니다"
+          }
+        },
+        "UnpublishedBPWarning": "이 비즈니스 프로필은 아직 게시되지 않았습니다. 이 기능을 사용하려면 비즈니스 프로필을 게시하세요.",
+        "DeleteUsers": {
+          "Title": "사용자 삭제",
+          "DeleteUsersBtn": "사용자 삭제",
+          "DeleteUsersByTypesDescription": "사용자 유형별로 사용자 삭제",
+          "ExclusionModeLabel": "제외 모드",
+          "ExclusionModelHint": "이 모드에서는 선택한 사용자 유형이 삭제되지 않습니다",
+          "SelectDeleteTypesLabel": "삭제할 사용자 유형 선택",
+          "Dialog": {
+            "TitleDeleteUsers": "선택한 유형의 사용자 삭제",
+            "MessageDeleteUsers": "선택한 사용자 유형에서 사용자를 삭제하시겠습니까?",
+            "TitleDeleteUsersExclusion": "선택한 유형을 제외한 모든 사용자삭제",
+            "MessageDeleteUsersExclusion": "선택한 사용자 유형을 제외한 모든 사용자를 삭제하시겠습니까?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "앱을 열어서 Omnia에서 로그인하고 알림을 받으세요.",
+          "titleReauthLoginReminder": "알림을받으려면 다시 로그인하세요",
+          "textWaitForNetwork": "네트워크 연결을 기다리세요!"
+        },
+        "Commons": {
+          "btnSave": "저장",
+          "btnClose": "닫기",
+          "btnOpenFile": "파일 열기",
+          "btnSubmit": "제출",
+          "btnPrevious": "이전",
+          "btnSaveForLater": "나중에 저장",
+          "textThereAreNoMatchingSearchResults": "일치하는 검색 결과가 없습니다",
+          "textComments": "댓글",
+          "textNumberOfResponses": "응답 수: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "답변을 작성하세요",
+          "textEndsOn": "종료일: ",
+          "textEndedOn": "종료일: ",
+          "textFormBy": "작성자: ",
+          "textQuestionNoOfTotal": "질문 {n}/{total}",
+          "titleOmniaLogin": "Omnia 로그인",
+          "titleForm": "양식",
+          "titleNew": "새로 만들기",
+          "titleComments": "댓글",
+          "titleNewComments": "새로운 댓글",
+          "titleGroupNews": "그룹 뉴스",
+          "titleOpenJobs": "열린 채용 공고",
+          "OmniaWebView": {
+            "textLoadingWarning": "잠시만 기다려주세요. Omnia 페이지를 로드하는 중에 문제가 발생했습니다.",
+            "textLoadingError": "Omnia 페이지를 로드하는 데 문제가 계속 발생하는 경우 버튼을 눌러 다시 로드하세요!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia 언어업데이트",
+            "body": "기기 언어 {nameLanguage}로 Omnia 언어를 설정하시겠습니까?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed 문제 보고",
+            "message": "디버그 로그 파일입니다",
+            "subject": "문제 보고"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "앱 데이터 재설정",
+            "buttonBackToApp": "앱으로 돌아가기",
+            "textResetAppData": "앱 데이터 재설정",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "앱에 치명적인 오류가 발생했습니다. 동일한 오류가 발생하는 경우 앱 데이터를 재설정해보세요.",
+            "textDoYouWantToResetAppData": "앱 데이터를 재설정하시겠습니까?"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Pasirinkite naudotojų tipus, kuriuos norite sinchronizuoti",
+          "SelectTypesHint": "Palikite tuščią, jei norite sinchronizuoti visus",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Ar norite sinchronizuoti naudotojus su pasirinktais tipais? Tai užtruks kurį laiką."
+          },
+          "Progression": {
+            "UserTypesResynced": "Naudotojų tipai sinchronizuoti"
+          }
+        },
+        "UnpublishedBPWarning": "Šis verslo profilis dar nėra paskelbtas. Norėdami naudoti šią funkciją, paskelbkite verslo profilį.",
+        "DeleteUsers": {
+          "Title": "Ištrinti naudotojus",
+          "DeleteUsersBtn": "Ištrinti naudotojus",
+          "DeleteUsersByTypesDescription": "Ištrinti naudotojus pagal naudotojųtipus",
+          "ExclusionModeLabel": "Išskirties režimas",
+          "ExclusionModelHint": "Šiuo režimu, pasirinkti naudotojų tipai bus išskirti ir nebus ištrinti",
+          "SelectDeleteTypesLabel": "Pasirinkite naudotojų tipus, kuriuos norite ištrinti",
+          "Dialog": {
+            "TitleDeleteUsers": "Ištrinti naudotojus su pasirinktais tipais",
+            "MessageDeleteUsers": "Ar norite ištrinti naudotojus iš pasirinktų naudotojų tipų?",
+            "TitleDeleteUsersExclusion": "Ištrinti visus naudotojus, išskyrus pasirinktus tipus",
+            "MessageDeleteUsersExclusion": "Ar norite ištrinti visus naudotojus, IŠSKYRUS pasirinktus naudotojų tipus?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Atidarykite programą, prisijunkite ir gaukite pranešimus iš Omnia.",
+          "titleReauthLoginReminder": "Prisijunkite iš naujo, kad gautumėte pranešimus",
+          "textWaitForNetwork": "Palaukite tinklo ryšio!"
+        },
+        "Commons": {
+          "btnSave": "Įrašyti",
+          "btnClose": "Uždaryti",
+          "btnOpenFile": "Atidaryti failą",
+          "btnSubmit": "Pateikti",
+          "btnPrevious": "Ankstesnis",
+          "btnSaveForLater": "Įrašyti vėliau",
+          "textThereAreNoMatchingSearchResults": "Nėra atitinkančių paieškos rezultatų",
+          "textComments": "Komentarai",
+          "textNumberOfResponses": "Atsakymų skaičius: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Prašome įvesti savo atsakymus",
+          "textEndsOn": "baigiasi: ",
+          "textEndedOn": "baigėsi: ",
+          "textFormBy": "pagal ",
+          "textQuestionNoOfTotal": "Klausimas {n} iš {total}",
+          "titleOmniaLogin": "Omnia prisijungimas",
+          "titleForm": "Forma",
+          "titleNew": "Naujas",
+          "titleComments": "Komentarai",
+          "titleNewComments": "Nauji komentarai",
+          "titleGroupNews": "Grupės naujienos",
+          "titleOpenJobs": "Atviri darbo pasiūlymai",
+          "OmniaWebView": {
+            "textLoadingWarning": "Palaukite minutę. Mes bandome išspręsti problemą, kai įkeliant Omnia puslapį.",
+            "textLoadingError": "Jei vis darturite problemų įkeliant Omnia puslapį, spauskite mygtuką, kad perkrautumėte!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Atnaujinti Omnia kalbą",
+            "body": "Ar norite nustatyti Omnia kalbą pagal įrenginio kalbą {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed klaidų pranešimas",
+            "message": "Tai yra derinimo žurnalų failas",
+            "subject": "Klaidų pranešimas"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Atstatyti programos duomenis",
+            "buttonBackToApp": "Grįžti į programą",
+            "textResetAppData": "Atstatyti programos duomenis",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Programa patyrė lemtingą klaidą. Jei patiriate tą pačią klaidą, bandykite atstatyti programos duomenis.",
+            "textDoYouWantToResetAppData": "Ar norite atstatyti programos duomenis?"
+          }
+        }
+      }
+    }
+  }
+}

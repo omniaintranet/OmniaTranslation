@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Типы пользователей для синхронизации",
+          "SelectTypesHint": "Оставьте пустым, чтобы синхронизировать всех",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Вы хотите синхронизировать пользователей с выбранными типами? Это займет некоторое время."
+          },
+          "Progression": {
+            "UserTypesResynced": "Типы пользователей синхронизированы"
+          }
+        },
+        "UnpublishedBPWarning": "Этот бизнес-профиль еще не опубликован. Опубликуйте бизнес-профиль, чтобы использовать эту функцию.",
+        "DeleteUsers": {
+          "Title": "Удалить пользователей",
+          "DeleteUsersBtn": "Удалить пользователей",
+          "DeleteUsersByTypesDescription": "Удалить пользователей по типам пользователей",
+          "ExclusionModeLabel": "Режим исключения",
+          "ExclusionModelHint": "В этом режиме выбранные типы пользователей будут исключены из удаления",
+          "SelectDeleteTypesLabel": "Типы пользователей для удаления",
+          "Dialog": {
+            "TitleDeleteUsers": "Удалить пользователей с выбранными типами",
+            "MessageDeleteUsers": "Вы хотите удалить пользователей из выбранных типовпользователей?",
+            "TitleDeleteUsersExclusion": "Удалить всех пользователей, кроме выбранных типов",
+            "MessageDeleteUsersExclusion": "Вы хотите удалить всех пользователей, КРОМЕ выбранных типов пользователей?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Откройте приложение, чтобы войти и получать уведомления от Omnia.",
+          "titleReauthLoginReminder": "Повторно войдите, чтобы получать уведомления",
+          "textWaitForNetwork": "Ожидайте подключения к сети!"
+        },
+        "Commons": {
+          "btnSave": "Сохранить",
+          "btnClose": "Закрыть",
+          "btnOpenFile": "Открыть файл",
+          "btnSubmit": "Отправить",
+          "btnPrevious": "Предыдущий",
+          "btnSaveForLater": "Сохранить на потом",
+          "textThereAreNoMatchingSearchResults": "Нет соответствующих результатов поиска",
+          "textComments": "Комментарии",
+          "textNumberOfResponses": "Количество ответов: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Пожалуйста, добавьте свои ответы",
+          "textEndsOn": "заканчивается: ",
+          "textEndedOn": "закончился: ",
+          "textFormBy": "от ",
+          "textQuestionNoOfTotal": "Вопрос {n} из {total}",
+          "titleOmniaLogin": "Вход в Omnia",
+          "titleForm": "Форма",
+          "titleNew": "Новый",
+          "titleComments": "Комментарии",
+          "titleNewComments": "Новые комментарии",
+          "titleGroupNews": "Новости группы",
+          "titleOpenJobs": "Открытые вакансии",
+          "OmniaWebView": {
+            "textLoadingWarning": "Пожалуйста, подождите минуту. Мыпытаемся исправить проблему при загрузке страницы Omnia.",
+            "textLoadingError": "Если у вас все еще есть проблемы с загрузкой страницы Omnia, нажмите кнопку для перезагрузки!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Обновитьязык Omnia",
+            "body": "Вы хотите установить язык Omnia в соответствии с языком устройства {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Сообщение об ошибке в Omnia Feed",
+            "message": "Это файл отладочных журналов",
+            "subject": "Сообщение об ошибке"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Сбросить данные приложения",
+            "buttonBackToApp": "Вернуться в приложение",
+            "textResetAppData": "Сбросить данные приложения",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Приложение имеет фатальную ошибку. Попробуйте сбросить данные приложения, если у вас возникла такая же ошибка.",
+            "textDoYouWantToResetAppData": "Вы хотите сброситьданные приложения?"
+          }
+        }
+      }
+    }
+  }
+}

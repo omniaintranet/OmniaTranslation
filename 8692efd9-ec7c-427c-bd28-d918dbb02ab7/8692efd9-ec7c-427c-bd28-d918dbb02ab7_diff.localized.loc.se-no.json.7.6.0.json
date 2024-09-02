@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Davvisámegillii resynca hástalusaid tyyppat",
+          "SelectTypesHint": "Ráhkista baluresynca buot",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Leatgo resynca hástalusaid mii leat ráhkistan. Dát galgá váldit oktii maid álggahit."
+          },
+          "Progression": {
+            "UserTypesResynced": "Hástalusat resynca"
+          }
+        },
+        "UnpublishedBPWarning": "Dát lihkku beassášii ii leat julkimis. Julkimmis lihkku dahje geavahit dát funksuvnnas.",
+        "DeleteUsers": {
+          "Title": "Jearahit hástalusaid",
+          "DeleteUsersBtn": "Jearahit hástalusaid",
+          "DeleteUsersByTypesDescription": "Jearahit hástalusaid hástalusaid tyyppaid mielde",
+          "ExclusionModeLabel": "Jearahit hástalusaid hástalusaid tyyppaidmielde",
+          "ExclusionModelHint": "Dán móddi mielde ráhkista hástalusat tyyppaid mii eai galgga jearahit",
+          "SelectDeleteTypesLabel": "Jearahit hástalusaid tyyppaid mielde",
+          "Dialog": {
+            "TitleDeleteUsers": "Jearahit hástalusat ráhkistan tyyppaid mielde",
+            "MessageDeleteUsers": "Leatgo jearahit hástalusat ráhkistan hástalusaid tyyppaid mielde?",
+            "TitleDeleteUsersExclusion": "Jearahit buot hástalusat eatnigiin ráhkistan tyyppaid mielde",
+            "MessageDeleteUsersExclusion": "Leatgo jearahit buot hástalusat eatnigiin ráhkistan hástalusaid tyyppaid mielde?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Ávžžuhit applikášuvnnii logget sisa ja gávdnojuvvon ođđačat Omnia.",
+          "titleReauthLoginReminder": "Logget sisa ođđačat gávdnojuvvon ođđačat",
+          "textWaitForNetwork": "Čuovvovaš sieđđut!"
+        },
+        "Commons": {
+          "btnSave": "Save",
+          "btnClose": "Close",
+          "btnOpenFile": "Open File",
+          "btnSubmit": "Submit",
+          "btnPrevious": "Previous",
+          "btnSaveForLater": "Save for later",
+          "textThereAreNoMatchingSearchResults": "Dát lea eanet čuovvovaš čáláhussan",
+          "textComments": "Comments",
+          "textNumberOfResponses": "Number of responses: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Please add your answers",
+          "textEndsOn": "ends on: ",
+          "textEndedOn": "ended on: ",
+          "textFormBy": "by ",
+          "textQuestionNoOfTotal": "Question {n} of {total}",
+          "titleOmniaLogin": "Omnia login",
+          "titleForm": "Form",
+          "titleNew": "New",
+          "titleComments": "Comments",
+          "titleNewComments": "New comments",
+          "titleGroupNews": "Group news",
+          "titleOpenJobs": "Open jobs",
+          "OmniaWebView": {
+            "textLoadingWarning": "Leage okta minuhta. Mii geavahit áššit dán olggos go Omnia sivvi lea čállán.",
+            "textLoadingError": "Jahkehaš šaddatáššit Omnia sivvi sáhttášii dutnje!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Dáhttu Omnia giella",
+            "body": "Leatgo dáhtton Omnia giella dálkkádemiin {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed áššedieđu",
+            "message": "Dát lea debug loggadieđu",
+            "subject": "Áššedieđu"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Rievdadit applikášuvdna dáta",
+            "buttonBackToApp": "Bargat applikášuvnnii",
+            "textResetAppData": "Rievdadit applikášuvdna dáta",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Applikášuvdna lea fatalaš. Rievdadit applikášuvdna dáta jos du eai leat sápmelaš ávkkálaš.",
+            "textDoYouWantToResetAppData": "Leatgo rievdadit applikášuvdna dáta?"
+          }
+        }
+      }
+    }
+  }
+}

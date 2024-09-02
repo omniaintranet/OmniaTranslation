@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Typy uživatelů pro resynchronizaci",
+          "SelectTypesHint": "Ponechte prázdné pro resynchronizaci všech",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Chcete resynchronizovat uživatele s vybranými typy? Tato operace může trvat nějakou dobu."
+          },
+          "Progression": {
+            "UserTypesResynced": "Typy uživatelů byly resynchronizovány"
+          }
+        },
+        "UnpublishedBPWarning": "Tento obchodní profil ještě není publikován. Publikujte obchodní profil, abyste mohli použít tuto funkci.",
+        "DeleteUsers": {
+          "Title": "Smazat uživatele",
+          "DeleteUsersBtn": "Smazat uživatele",
+          "DeleteUsersByTypesDescription": "Smazat uživatele podle typů uživatelů",
+          "ExclusionModeLabel": "Režim vyloučení",
+          "ExclusionModelHint": "V tomto režimu budou vybrané typy uživatelů vyjmuty ze smazání",
+          "SelectDeleteTypesLabel": "Typy uživatelů k smazání",
+          "Dialog": {
+            "TitleDeleteUsers": "Smazat uživatele s vybranými typy",
+            "MessageDeleteUsers": "Chcete smazat uživatele z vybraných typů uživatelů?",
+            "TitleDeleteUsersExclusion": "Smazat všechny uživatele kromě vybraných typů",
+            "MessageDeleteUsersExclusion": "Chcete smazat všechny uživatele KROMĚ vybraných typů uživatelů?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Otevřete aplikaci pro přihlášení a přijímání oznámení od Omnia.",
+          "titleReauthLoginReminder": "Přihlaste se znovu pro přijímání oznámení",
+          "textWaitForNetwork": "Počkejte na připojení k síti!"
+        },
+        "Commons": {
+          "btnSave": "Uložit",
+          "btnClose": "Zavřít",
+          "btnOpenFile": "Otevřítsoubor",
+          "btnSubmit": "Odeslat",
+          "btnPrevious": "Předchozí",
+          "btnSaveForLater": "Uložit na později",
+          "textThereAreNoMatchingSearchResults": "Neexistují žádné odpovídající výsledky vyhledávání",
+          "textComments": "Komentáře",
+          "textNumberOfResponses": "Počet odpovědí:{noOfResponses}",
+          "textPleaseWriteYourAnswers": "Prosím, přidejte své odpovědi",
+          "textEndsOn": "končí: ",
+          "textEndedOn": "skončilo: ",
+          "textFormBy": "od ",
+          "textQuestionNoOfTotal": "Otázka {n} z {total}",
+          "titleOmniaLogin": "Přihlášení do Omnia",
+          "titleForm": "Formulář",
+          "titleNew": "Nový",
+          "titleComments": "Komentáře",
+          "titleNewComments": "Nové komentáře",
+          "titleGroupNews": "Skupinové novinky",
+          "titleOpenJobs": "Otevřené pracovní pozice",
+          "OmniaWebView": {
+            "textLoadingWarning": "Počkejte prosím chvíli. Snažíme sevyřešit problém s načítáním stránky Omnia.",
+            "textLoadingError": "Pokud stále máteproblém s načítáním stránky Omnia, stiskněte tlačítko pro znovunačtení!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Aktualizovat jazyk Omnia",
+            "body": "Chcete nastavit jazyk Omnia podle jazyka zařízení {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Hlášení problému s Omnia Feed",
+            "message": "Toto je soubor s protokoly pro ladění",
+            "subject": "Hlášení problému"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Obnovit data aplikace",
+            "buttonBackToApp": "Zpět do aplikace",
+            "textResetAppData": "Obnovit data aplikace",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikace má fatální chybu. Pokud se setkáváte se stejnou chybou, zkuste obnovit data aplikace.",
+            "textDoYouWantToResetAppData": "Chcete obnovit data aplikace?"
+          }
+        }
+      }
+    }
+  }
+}
