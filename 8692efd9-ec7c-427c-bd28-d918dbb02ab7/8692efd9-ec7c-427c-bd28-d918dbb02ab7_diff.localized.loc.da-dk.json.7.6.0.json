@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Brugertyper at synkronisere",
+          "SelectTypesHint": "Efterlad tom for at synkronisere alle",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Vil du synkronisere brugere med valgte typer? Dette vil tage noget tid at fuldføre."
+          },
+          "Progression": {
+            "UserTypesResynced": "Brugertyper synkroniseret"
+          }
+        },
+        "UnpublishedBPWarning": "Denne virksomhedsprofil er endnu ikke offentliggjort. Offentliggør virksomhedsprofilen for at bruge denne funktion.",
+        "DeleteUsers": {
+          "Title": "Slet brugere",
+          "DeleteUsersBtn": "Slet brugere",
+          "DeleteUsersByTypesDescription": "Slet brugere efter brugertyper",
+          "ExclusionModeLabel": "Eksklusionsfunktion",
+          "ExclusionModelHint": "I denne tilstand vil valgte brugertyper blive ekskluderet fra at blive slettet",
+          "SelectDeleteTypesLabel": "Brugertyper at slette",
+          "Dialog": {
+            "TitleDeleteUsers": "Slet brugere med valgte typer",
+            "MessageDeleteUsers": "Vil du slette brugere fra valgte brugertyper?",
+            "TitleDeleteUsersExclusion": "Slet alle brugere undtagen valgte typer",
+            "MessageDeleteUsersExclusion": "Vil du slette alle brugere UNDTAGEN valgtebrugertyper?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Åbn appen forat logge ind og modtage meddelelser fra Omnia!",
+          "titleReauthLoginReminder": "Log ind igen for at modtage meddelelser",
+          "textWaitForNetwork": "Vent på netværksforbindelse!"
+        },
+        "Commons": {
+          "btnSave": "Gem",
+          "btnClose": "Luk",
+          "btnOpenFile": "Åbn fil",
+          "btnSubmit": "Indsend",
+          "btnPrevious": "Forrige",
+          "btnSaveForLater": "Gem til senere",
+          "textThereAreNoMatchingSearchResults": "Der er ingen matchende søgeresultater",
+          "textComments": "Kommentarer",
+          "textNumberOfResponses": "Antal svar: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Tilføj venligst dine svar",
+          "textEndsOn": "slutter den: ",
+          "textEndedOn": "sluttede den: ",
+          "textFormBy": "af ",
+          "textQuestionNoOfTotal": "Spørgsmål {n} af {total}",
+          "titleOmniaLogin": "Omnia-login",
+          "titleForm": "Formular",
+          "titleNew": "Ny",
+          "titleComments": "Kommentarer",
+          "titleNewComments": "Nye kommentarer",
+          "titleGroupNews": "Gruppenyheder",
+          "titleOpenJobs": "Åbne stillinger",
+          "OmniaWebView": {
+            "textLoadingWarning": "Vent et øjeblik. Vi forsøger at løse problemet med indlæsning af Omnia-siden!",
+            "textLoadingError": "Hvis du stadig har problemer med at indlæse Omnia-siden, skal du trykke på knappen 'Genindlæs'!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Opdater Omnia-sprog",
+            "body": "Vil du indstille Omnia-sproget efter enhedssproget {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed fejlrapportering",
+            "message": "Dette er en fejlrapporteringsfil",
+            "subject": "Fejlrapportering"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Nulstil appdata",
+            "buttonBackToApp": "Tilbage til appen",
+            "textResetAppData": "Nulstil appdata",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har en fatal fejl. Prøv at nulstille appdata, hvis du oplever den samme fejl.",
+            "textDoYouWantToResetAppData": "Vil du nulstille appdata?"
+          }
+        }
+      }
+    }
+  }
+}
