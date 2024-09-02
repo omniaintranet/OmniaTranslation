@@ -9,7 +9,7 @@
         "Agree": "Hyväksy",
         "Skip": "Ohita",
         "ChangeProfilePhoto": "Vaihda kuva",
-        "ChangeProfilePhotoMessage": "Huomaa, että kuvan saatavuus kestää jonkin aikaa.",
+        "ChangeProfilePhotoMessage": "Huomaa, että kuvan päivittymisessä kestää jonkin aikaa.",
         "Message": "Viesti",
         "AddFeedback": "Lisää palautetta",
         "RequiredFieldMessage": "Tämä kenttä on pakollinen.",
@@ -23,8 +23,8 @@
           "Month": "Kuukausi",
           "Day": "Päivä"
         },
-        "NoSectionSettingMessage": "Määritä ominaisuuden kuvaukset",
-        "SaveAndClose": "Tallenna jasulje"
+        "NoSectionSettingMessage": "Määritä ominaisuuden liitokset",
+        "SaveAndClose": "Tallenna ja sulje"
       },
       "Settings": {
         "Style": "Tyyli",
@@ -40,15 +40,15 @@
         },
         "TitleText": "Otsikkoteksti",
         "CompletedProfileText": "Valmis teksti",
-        "NotCompletedProfileText": "Kesken teksti",
+        "NotCompletedProfileText": "Keskeneräinen teksti",
         "ConfirmationCloseEditingFormTitle": "Peruuta käyttäjäprofiilin täydellisyyden muokkaus",
-        "ConfirmationCloseEditingFormMessage": "Haluatko varmasti sulkea tallentamattomilla muutoksilla?"
+        "ConfirmationCloseEditingFormMessage": "Haluatko varmasti sulkea tallentamatta muutoksia?"
       },
       "ProfileCompletion": {
-        "Headline": "Oma profiili",
+        "Headline": "Profiilisi",
         "StrengthenProfile": "Vahvista profiiliasi",
         "Done": "valmis",
-        "YouHaveAStrongProfile": "Sinulla on vahva profiili,se on",
+        "YouHaveAStrongProfile": "Sinulla on vahva profiili, se on",
         "YouHaveToStrengthenYourProfile": "Vahvista profiiliasi, se on",
         "YouHaveToStrengthenYourProfileHidePercentage": "Vahvista profiiliasi",
         "WelcomeTitle": "Tervetuloa",
@@ -76,7 +76,7 @@
           "Never": "Ei koskaan",
           "Title": "Otsikko",
           "Description": "Kuvaus",
-          "FeedbackEmail": "Palaute sähköposti",
+          "FeedbackEmail": "Palautesähköposti",
           "Levels": "Tasot",
           "WeakLevelPercentage": "Prosenttitaso - Heikko",
           "GoodLevelPercentage": "Prosenttitaso - Hyvä",
@@ -99,7 +99,7 @@
           },
           "Day": "Päivä",
           "OfEvery": "joka",
-          "The": "The",
+          "The": "",
           "WeekOfMonth": {
             "First": "Ensimmäinen",
             "Second": "Toinen",
@@ -129,15 +129,15 @@
           "Multiple": "Useita",
           "AllowFeedback": "Salli palaute",
           "CustomTarget": "Mukautettu kohde",
-          "CustomTargetUrl": "Mukautettu kohde URL",
-          "DeleteUserProfileCompletionSectionConfirmation": "Haluatko varmasti poistaatämän osion?",
+          "CustomTargetUrl": "Mukautettu kohde-URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Haluatko varmasti poistaa tämän osion?",
           "Confirmation": "Vahvistus",
           "DisplayTypes": {
             "ProfilePicture": "Profiilikuva",
             "Text": "Teksti",
             "MultilineText": "Usean rivin teksti",
             "HtmlText": "HTML",
-            "TermSet": "Termiryhmä",
+            "TermSet": "Termiryhmä (termset)",
             "Person": "Henkilö"
           },
           "CompletenessImpacts": {
