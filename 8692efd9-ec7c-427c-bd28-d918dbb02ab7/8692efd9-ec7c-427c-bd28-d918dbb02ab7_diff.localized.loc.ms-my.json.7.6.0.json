@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Jenis pengguna untuk disinkronkan semula",
+          "SelectTypesHint": "Biarkan kosong untuk menyinkronkan semula semua",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Adakah anda ingin menyinkronkan semula pengguna dengan jenis yang dipilih? Ini akan mengambil sedikit masa untuk selesai."
+          },
+          "Progression": {
+            "UserTypesResynced": "Jenis penggunadisinkronkan semula"
+          }
+        },
+        "UnpublishedBPWarning": "Profil perniagaan ini belum diterbitkan. Terbitkan profil perniagaan untuk menggunakan fungsi ini.",
+        "DeleteUsers": {
+          "Title": "Padam pengguna",
+          "DeleteUsersBtn": "Padam pengguna",
+          "DeleteUsersByTypesDescription": "Padam pengguna mengikut jenis pengguna",
+          "ExclusionModeLabel": "Mod pengecualian",
+          "ExclusionModelHint": "Dalam mod ini, jenis pengguna yang dipilih akan dikecualikan daripada dipadamkan",
+          "SelectDeleteTypesLabel": "Jenis pengguna untuk dipadam",
+          "Dialog": {
+            "TitleDeleteUsers": "Padam pengguna dengan jenis yang dipilih",
+            "MessageDeleteUsers": "Adakah anda ingin memadam pengguna daripada jenispengguna yang dipilih?",
+            "TitleDeleteUsersExclusion": "Padam semua pengguna kecuali jenis yang dipilih",
+            "MessageDeleteUsersExclusion": "Adakah anda ingin memadam semua pengguna KECUALI jenis pengguna yang dipilih?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Buka aplikasi untuk log masuk dan terima pemberitahuan dari Omnia!",
+          "titleReauthLoginReminder": "Log masuk semula untuk terima pemberitahuan",
+          "textWaitForNetwork": "Tunggu sambungan rangkaian!"
+        },
+        "Commons": {
+          "btnSave": "Simpan",
+          "btnClose": "Tutup",
+          "btnOpenFile": "Buka Fail",
+          "btnSubmit": "Hantar",
+          "btnPrevious": "Sebelumnya",
+          "btnSaveForLater": "Simpan untuk nanti",
+          "textThereAreNoMatchingSearchResults": "Tiada hasil carian yang sepadan",
+          "textComments": "Komen",
+          "textNumberOfResponses": "Bilangan respons: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Sila tambah jawapan anda",
+          "textEndsOn": "berakhir pada: ",
+          "textEndedOn": "berakhir pada: ",
+          "textFormBy": "oleh ",
+          "textQuestionNoOfTotal": "Soalan {n} daripada {total}",
+          "titleOmniaLogin": "Log masuk Omnia",
+          "titleForm": "Borang",
+          "titleNew": "Baru",
+          "titleComments": "Komen",
+          "titleNewComments": "Komen baru",
+          "titleGroupNews": "Berita kumpulan",
+          "titleOpenJobs": "Jawatan terbuka",
+          "OmniaWebView": {
+            "textLoadingWarning": "Sila tunggu sebentar. Kami sedangcuba memperbaiki masalah semasa memuatkan halaman Omnia!",
+            "textLoadingError": "Jika anda masih mengalami masalah memuatkan halaman Omnia, sila tekan butang muat semula!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Kemas kini bahasa Omnia",
+            "body": "Adakah anda ingin menetapkan bahasa Omnia mengikut bahasa peranti {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Pelaporan masalah Umpan Omnia",
+            "message": "Ini adalah fail log debug",
+            "subject": "Pelaporan masalah"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Reset data aplikasi",
+            "buttonBackToApp": "Kembali ke aplikasi",
+            "textResetAppData": "Reset dataaplikasi",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Aplikasi mengalami ralat serius. Sila cuba reset data aplikasi jika anda mengalami ralat yang sama.",
+            "textDoYouWantToResetAppData": "Adakah anda ingin reset data aplikasi?"
+          }
+        }
+      }
+    }
+  }
+}
