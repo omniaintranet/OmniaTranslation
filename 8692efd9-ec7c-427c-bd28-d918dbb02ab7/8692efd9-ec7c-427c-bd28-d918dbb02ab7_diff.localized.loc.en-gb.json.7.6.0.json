@@ -30,7 +30,7 @@
       },
       "App": {
         "ReAuthScreen": {
-          "textReauthLoginReminder": "Open app to login and receive notifications from Omnia!",
+          "textReauthLoginReminder": "Open app to login and receive notifications from Omnia.",
           "titleReauthLoginReminder": "Re-login to receive notifications",
           "textWaitForNetwork": "Wait for network connection!"
         },
@@ -57,8 +57,8 @@
           "titleGroupNews": "Group news",
           "titleOpenJobs": "Open jobs",
           "OmniaWebView": {
-            "textLoadingWarning": "Please wait a minute. We are trying to fix the issue when loading Omnia page!",
-            "textLoadingError": "If you still haveissue loading Omnia page please press on button reload!"
+            "textLoadingWarning": "Please wait a minute. We are trying to fix the issue when loading Omnia page.",
+            "textLoadingError": "If you still haveissue loading Omnia page please press on button reload."
           },
           "AlertUpdateOmniaLanguageByMobileAppLanguage": {
             "title": "Update Omnia language",
