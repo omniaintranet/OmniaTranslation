@@ -1,0 +1,83 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "SelectTypesLabel": "Chọn loại người dùng để đồng bộ lại",
+          "SelectTypesHint": "Để trống để đồng bộ lại tất cả",
+          "Dialog": {
+            "MessageResyncAllUsersWithTypes": "Bạn có muốn đồng bộ lại người dùng với các loại đã chọn? Việc này sẽ mất một thời gian để hoàn thành."
+          },
+          "Progression": {
+            "UserTypesResynced": "Đã đồng bộ lại loại người dùng"
+          }
+        },
+        "UnpublishedBPWarning": "Hồ sơ doanh nghiệp này chưa được xuất bản. Xuất bản hồ sơ doanh nghiệp để sử dụng chức năng này.",
+        "DeleteUsers": {
+          "Title": "Xóa người dùng",
+          "DeleteUsersBtn": "Xóa người dùng",
+          "DeleteUsersByTypesDescription": "Xóa người dùng theo loại người dùng",
+          "ExclusionModeLabel": "Chế độ loại trừ",
+          "ExclusionModelHint": "Trong chế độ này, các loại người dùng đã chọn sẽ không bị xóa",
+          "SelectDeleteTypesLabel": "Chọnloại người dùng để xóa",
+          "Dialog": {
+            "TitleDeleteUsers": "Xóa người dùng với các loại đã chọn",
+            "MessageDeleteUsers": "Bạn có muốn xóa người dùng từ các loại ngườidùng đã chọn?",
+            "TitleDeleteUsersExclusion": "Xóa tất cả người dùng trừ các loại đã chọn",
+            "MessageDeleteUsersExclusion": "Bạn có muốn xóa tất cả người dùng TRỪ các loại người dùng đã chọn?"
+          }
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Mở ứng dụng để đăng nhập và nhận thông báo từ Omnia.",
+          "titleReauthLoginReminder": "Đăng nhập lại để nhận thông báo",
+          "textWaitForNetwork": "Đợi kết nối mạng!"
+        },
+        "Commons": {
+          "btnSave": "Lưu",
+          "btnClose": "Đóng",
+          "btnOpenFile": "Mở tệp",
+          "btnSubmit": "Gửi",
+          "btnPrevious": "Trước",
+          "btnSaveForLater": "Lưu để sau",
+          "textThereAreNoMatchingSearchResults": "Không có kết quả tìm kiếm phù hợp",
+          "textComments": "Bình luận",
+          "textNumberOfResponses": "Số lượng phản hồi: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Vui lòng thêm câu trả lời của bạn",
+          "textEndsOn": "kết thúc vào: ",
+          "textEndedOn": "kết thúc vào: ",
+          "textFormBy": "bởi ",
+          "textQuestionNoOfTotal": "Câu hỏi {n} trên tổng số {total}",
+          "titleOmniaLogin": "Đăng nhập Omnia",
+          "titleForm": "Biểu mẫu",
+          "titleNew": "Mới",
+          "titleComments": "Bình luận",
+          "titleNewComments": "Bình luận mới",
+          "titleGroupNews": "Tin nhóm",
+          "titleOpenJobs": "Công việc đang mở",
+          "OmniaWebView": {
+            "textLoadingWarning": "Vui lòng đợi một chút. Chúng tôi đang cố gắng khắc phục sự cố khi tải trang Omnia.",
+            "textLoadingError": "Nếu bạn vẫn gặp sự cố khi tải trang Omnia, vui lòng nhấn nút để tải lại!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Cập nhật ngôn ngữOmnia",
+            "body": "Bạn có muốn đặt ngôn ngữ Omnia theo ngôn ngữ thiết bị {nameLanguage}?"
+          },
+          "ShareLogsFileOptions": {
+            "title": "Báo cáo sự cố Omnia Feed",
+            "message": "Đây là tệp nhật ký gỡ lỗi",
+            "subject": "Báo cáo sự cố"
+          },
+          "FatalErrorBoundary": {
+            "buttonResetAppData": "Đặt lại dữ liệu ứng dụng",
+            "buttonBackToApp": "Quay lại ứng dụng",
+            "textResetAppData": "Đặt lại dữ liệu ứng dụng",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Ứng dụng gặp lỗi nghiêm trọng. Vui lòng thử đặt lại dữ liệu ứng dụng nếu bạn gặp cùng lỗi.",
+            "textDoYouWantToResetAppData": "Bạn có muốn đặt lại dữ liệu ứng dụng?"
+          }
+        }
+      }
+    }
+  }
+}
