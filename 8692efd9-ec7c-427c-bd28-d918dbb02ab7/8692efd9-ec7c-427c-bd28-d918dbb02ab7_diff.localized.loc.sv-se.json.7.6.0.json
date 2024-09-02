@@ -30,8 +30,8 @@
       },
       "App": {
         "ReAuthScreen": {
-          "textReauthLoginReminder": "Öppna appenför att logga in och ta emot meddelanden från Omnia.",
-          "titleReauthLoginReminder": "Logga in igen för att ta emot meddelanden",
+          "textReauthLoginReminder": "Öppna appen för att logga in och ta emot meddelanden från Omnia.",
+          "titleReauthLoginReminder": "Logga in igen för att ta emot meddelanden.",
           "textWaitForNetwork": "Vänta på nätverksanslutning."
         },
         "Commons": {
@@ -41,7 +41,7 @@
           "btnSubmit": "Skicka",
           "btnPrevious": "Föregående",
           "btnSaveForLater": "Spara för senare",
-          "textThereAreNoMatchingSearchResults": "Det finns inga matchande sökresultat",
+          "textThereAreNoMatchingSearchResults": "Det finns inga matchande sökresultat.",
           "textComments": "Kommentarer",
           "textNumberOfResponses": "Antal svar: {noOfResponses}",
           "textPleaseWriteYourAnswers": "Vänligen lägg till dina svar",
