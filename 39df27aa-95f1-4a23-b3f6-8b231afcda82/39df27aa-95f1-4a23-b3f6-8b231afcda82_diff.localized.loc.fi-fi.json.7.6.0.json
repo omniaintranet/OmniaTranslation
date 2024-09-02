@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Sulje pyyntö"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Päivitä",
+        "Agree": "Hyväksy",
+        "Skip": "Ohita",
+        "ChangeProfilePhoto": "Vaihda kuva",
+        "ChangeProfilePhotoMessage": "Huomaa, että kuvan saatavuus kestää jonkin aikaa.",
+        "Message": "Viesti",
+        "AddFeedback": "Lisää palautetta",
+        "RequiredFieldMessage": "Tämä kenttä on pakollinen.",
+        "Send": "Lähetä",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Käyttäjäprofiilin ominaisuuden {{userprofileproperty}} palaute"
+        },
+        "SentFeedbackMessage": "Kiitos palautteestasi, se on lähetetty osoitteeseen {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Virhe lähettäessä palautettasi osoitteeseen {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Kuukausi",
+          "Day": "Päivä"
+        },
+        "NoSectionSettingMessage": "Määritä ominaisuuden kuvaukset",
+        "SaveAndClose": "Tallenna jasulje"
+      },
+      "Settings": {
+        "Style": "Tyyli",
+        "HideNameInText": "Piilota käyttäjänimi tekstissä",
+        "HidePercentageInText": "Piilota prosentti tekstissä",
+        "HideBlockWhenCompleted": "Piilota lohko, kun valmis",
+        "Size": "Koko",
+        "BorderSize": "Reunuksen koko",
+        "Views": {
+          "Title": "Näkymä",
+          "Line": "Viiva",
+          "Circle": "Ympyrä"
+        },
+        "TitleText": "Otsikkoteksti",
+        "CompletedProfileText": "Valmis teksti",
+        "NotCompletedProfileText": "Kesken teksti",
+        "ConfirmationCloseEditingFormTitle": "Peruuta käyttäjäprofiilin täydellisyyden muokkaus",
+        "ConfirmationCloseEditingFormMessage": "Haluatko varmasti sulkea tallentamattomilla muutoksilla?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Oma profiili",
+        "StrengthenProfile": "Vahvista profiiliasi",
+        "Done": "valmis",
+        "YouHaveAStrongProfile": "Sinulla on vahva profiili,se on",
+        "YouHaveToStrengthenYourProfile": "Vahvista profiiliasi, se on",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Vahvista profiiliasi",
+        "WelcomeTitle": "Tervetuloa",
+        "WebPart": {
+          "WebPartTitle": "Käyttäjäprofiilin edistyminen",
+          "WebPartDescription": "Näyttää profiilin täydellisyyden asteen."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Käyttäjäprofiilin täydellisyys",
+          "GeneralTabTitle": "Yleinen",
+          "MappingTabTitle": "Ominaisuuden kuvaukset"
+        },
+        "Buttons": {
+          "Update": "Päivitä",
+          "AddPropertyMapping": "Lisää kuvaus",
+          "AddSection": "Lisää osio"
+        },
+        "Pattern": {
+          "ShowDialog": "Näytä valintaikkuna",
+          "Daily": "Päivittäin",
+          "Weekly": "Viikoittain",
+          "Monthly": "Kuukausittain",
+          "Never": "Ei koskaan",
+          "Title": "Otsikko",
+          "Description": "Kuvaus",
+          "FeedbackEmail": "Palaute sähköposti",
+          "Levels": "Tasot",
+          "WeakLevelPercentage": "Prosenttitaso - Heikko",
+          "GoodLevelPercentage": "Prosenttitaso - Hyvä",
+          "EveryWeekday": "Joka arkipäivä",
+          "Every": "Joka",
+          "Days": "päivä(ä)",
+          "Weeks": "viikko(a)",
+          "Months": "kuukausi(a)",
+          "DayOfWeeks": {
+            "Monday": "Maanantai",
+            "Tuesday": "Tiistai",
+            "Wednesday": "Keskiviikko",
+            "Thursday": "Torstai",
+            "Friday": "Perjantai",
+            "Saturday": "Lauantai",
+            "Sunday": "Sunnuntai",
+            "Day": "Päivä",
+            "Weekday": "Arkipäivä",
+            "WeekendDay": "Viikonloppupäivä"
+          },
+          "Day": "Päivä",
+          "OfEvery": "joka",
+          "The": "The",
+          "WeekOfMonth": {
+            "First": "Ensimmäinen",
+            "Second": "Toinen",
+            "Third": "Kolmas",
+            "Fourth": "Neljäs",
+            "Last": "Viimeinen"
+          },
+          "StartDate": "Aloituspäivä",
+          "NoEndDate": "Ei päättymispäivää",
+          "EndBy": "Päättymispäivä"
+        },
+        "MappingSetting": {
+          "Section": "Osio"
+        },
+        "Section": {
+          "Property": "Ominaisuus",
+          "Name": "Nimi",
+          "Description": "Kuvaus"
+        },
+        "PropertyMapping": {
+          "SourceType": "Lähde",
+          "Type": "Tyyppi",
+          "Property": "Ominaisuus",
+          "Label": "Tunniste",
+          "CompletenessImpact": "Täydellisyyden vaikutus",
+          "ReadyOnly": "Vain luku",
+          "Multiple": "Useita",
+          "AllowFeedback": "Salli palaute",
+          "CustomTarget": "Mukautettu kohde",
+          "CustomTargetUrl": "Mukautettu kohde URL",
+          "DeleteUserProfileCompletionSectionConfirmation": "Haluatko varmasti poistaatämän osion?",
+          "Confirmation": "Vahvistus",
+          "DisplayTypes": {
+            "ProfilePicture": "Profiilikuva",
+            "Text": "Teksti",
+            "MultilineText": "Usean rivin teksti",
+            "HtmlText": "HTML",
+            "TermSet": "Termiryhmä",
+            "Person": "Henkilö"
+          },
+          "CompletenessImpacts": {
+            "High": "Korkea",
+            "Medium": "Keskitaso",
+            "Low": "Matala",
+            "None": "Ei vaikutusta"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint-käyttäjäprofiili",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia-järjestelmän kieli"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Mukautettu päivämäärä"
+        }
+      }
+    }
+  }
+}
