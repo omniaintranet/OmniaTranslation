@@ -18,7 +18,7 @@
           "EmailSubject": "Feedback för användarprofilsegenskap {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Tack för din feedback, den har skickats till {{feedback-email}}.",
-        "SendFeedbackErrorMessage": "Fel när din feedback skickades till {{feedback-email}}",
+        "SendFeedbackErrorMessage": "Fel när din feedback skickades till {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Månad",
           "Day": "Dag"
