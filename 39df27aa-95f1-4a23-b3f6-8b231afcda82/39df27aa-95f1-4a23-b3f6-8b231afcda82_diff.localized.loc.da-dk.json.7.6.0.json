@@ -15,7 +15,7 @@
         "RequiredFieldMessage": "Dette felt er påkrævet.",
         "Send": "Send",
         "FeedbackEmailTemplate": {
-          "EmailSubject": "Brugerprofil egenskab {{userprofileproperty}} feedback"
+          "EmailSubject": "Feedback til brugerprofil-egenskaben {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Tak for din feedback, den er blevet sendt til {{feedback-email}}.",
         "SendFeedbackErrorMessage": "Fejl ved afsendelse af din feedback til {{feedback-email}}",
@@ -23,7 +23,7 @@
           "Month": "Måned",
           "Day": "Dag"
         },
-        "NoSectionSettingMessage": "Konfigurer venligst egenskabsmappningerne",
+        "NoSectionSettingMessage": "Konfigurer venligst egenskabstilknytningerne",
         "SaveAndClose": "Gem og luk"
       },
       "Settings": {
@@ -38,11 +38,11 @@
           "Line": "Linje",
           "Circle": "Cirkel"
         },
-        "TitleText": "Overskriftstekst",
-        "CompletedProfileText": "Fuldført tekst",
-        "NotCompletedProfileText": "Ikke fuldført tekst",
-        "ConfirmationCloseEditingFormTitle": "Annuller redigering af brugerprofil fuldførelse",
-        "ConfirmationCloseEditingFormMessage": "Vil du virkelig lukke med ikke-gemte ændringer?"
+        "TitleText": "Overskrift",
+        "CompletedProfileText": "Tekst for fuldført",
+        "NotCompletedProfileText": "Tekst for ikke-fuldført",
+        "ConfirmationCloseEditingFormTitle": "Annuller redigering af brugerprofil",
+        "ConfirmationCloseEditingFormMessage": "Vil du lukke uden at gemme ændringerne?"
       },
       "ProfileCompletion": {
         "Headline": "Min profil",
@@ -53,19 +53,19 @@
         "YouHaveToStrengthenYourProfileHidePercentage": "Styrk din profil",
         "WelcomeTitle": "Velkommen",
         "WebPart": {
-          "WebPartTitle": "Brugerprofil fremskridt",
-          "WebPartDescription": "Viser din grad af profilfuldførelse."
+          "WebPartTitle": "Status på udfyldelse af brugerprofil",
+          "WebPartDescription": "Viser, hvor langt du er med at udfylde din profil."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "Brugerprofil fuldførelse",
+          "ProfileCompletionAdmin": "Opdatering af brugerprofil",
           "GeneralTabTitle": "Generelt",
-          "MappingTabTitle": "Egenskabsmappning"
+          "MappingTabTitle": "Tilknyt egenskaber"
         },
         "Buttons": {
           "Update": "Opdater",
-          "AddPropertyMapping": "Tilføj mappning",
+          "AddPropertyMapping": "Tilføj tilknytning",
           "AddSection": "Tilføj sektion"
         },
         "Pattern": {
@@ -123,8 +123,8 @@
           "SourceType": "Kildetype",
           "Type": "Type",
           "Property": "Egenskab",
-          "Label": "Mærkat",
-          "CompletenessImpact": "Fuldførelsespåvirkning",
+          "Label": "Etiket",
+          "CompletenessImpact": "Indflydelse på færdiggørelse",
           "ReadyOnly": "Skrivebeskyttet",
           "Multiple": "Flere",
           "AllowFeedback": "Tillad feedback",
@@ -137,7 +137,7 @@
             "Text": "Tekst",
             "MultilineText": "Flere linjer tekst",
             "HtmlText": "Html",
-            "TermSet": "Term sæt",
+            "TermSet": "Ordsæt",
             "Person": "Person"
           },
           "CompletenessImpacts": {
@@ -149,7 +149,7 @@
           "SourceTypes": {
             "SPUserProfile": "SharePoint brugerprofil",
             "AzureAD": "Azure AD",
-            "OmniaSystemLanguage": "Omnia system sprog"
+            "OmniaSystemLanguage": "Omnia systemsprog"
           }
         }
       }
