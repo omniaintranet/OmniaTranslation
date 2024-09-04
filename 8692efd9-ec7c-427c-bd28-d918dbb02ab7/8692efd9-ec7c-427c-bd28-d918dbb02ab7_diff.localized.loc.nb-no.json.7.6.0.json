@@ -57,7 +57,7 @@
           "titleGroupNews": "Gruppenyheter",
           "titleOpenJobs": "Åpne stillinger",
           "OmniaWebView": {
-            "textLoadingWarning": "Vennligst vent et øyeblikk. Viprøver å fikse problemet med lasting av Omnia-siden!",
+            "textLoadingWarning": "Vennligst vent et øyeblikk. Vi prøver å fikse problemet med lasting av Omnia-siden!",
             "textLoadingError": "Hvis du fortsatt har problemer med å laste Omnia-siden, trykk på knappen for å laste på nytt!"
           },
           "AlertUpdateOmniaLanguageByMobileAppLanguage": {
