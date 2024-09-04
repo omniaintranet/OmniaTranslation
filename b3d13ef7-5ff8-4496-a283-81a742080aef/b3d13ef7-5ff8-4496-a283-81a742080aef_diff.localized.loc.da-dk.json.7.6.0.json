@@ -34,17 +34,17 @@
       "Features": {
         "SignOffRequestInPublishedDocument": {
           "Category": "Tilføjelser",
-          "Description": "Aktivér godkendelsesanmodninger for offentliggjortedokumenter.",
-          "Title": "Godkendelsesanmodning for offentliggjort dokument"
+          "Description": "Aktivér godkendelsesanmodninger for publicerede dokumenter.",
+          "Title": "Godkendelsesanmodning for publicerede dokument"
         }
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequest": "Opretgodkendelsesanmodning"
+        "CreateSignOffRequest": "Opret godkendelsesanmodning"
       },
       "Messages": {
-        "MessageFileHasUnacceptedChanges": "Dette dokument indeholder uaccepterede ændringer. Gennemgå og accepter eller afvis dem, før du offentliggør."
+        "MessageFileHasUnacceptedChanges": "Dette dokument indeholder uaccepterede ændringer. Gennemgå og accepter eller afvis dem, før du publicerer."
       }
     },
     "DocumentRollup": {
