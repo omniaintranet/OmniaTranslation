@@ -3,34 +3,34 @@
     "Feed": {
       "Settings": {
         "ResyncUsers": {
-          "SelectTypesLabel": "Brugertyper at synkronisere",
+          "SelectTypesLabel": "Brugertyper, der skal synkroniseres",
           "SelectTypesHint": "Efterlad tom for at synkronisere alle",
           "Dialog": {
             "MessageResyncAllUsersWithTypes": "Vil du synkronisere brugere med valgte typer? Dette vil tage noget tid at fuldføre."
           },
           "Progression": {
-            "UserTypesResynced": "Brugertyper synkroniseret"
+            "UserTypesResynced": "Brugertyper er synkroniseret"
           }
         },
-        "UnpublishedBPWarning": "Denne virksomhedsprofil er endnu ikke offentliggjort. Offentliggør virksomhedsprofilen for at bruge denne funktion.",
+        "UnpublishedBPWarning": "Denne virksomhedsprofil er endnu ikke publiceret. Virksomhedsprofilen skal publiceres for at kunne bruge denne funktion.",
         "DeleteUsers": {
           "Title": "Slet brugere",
           "DeleteUsersBtn": "Slet brugere",
           "DeleteUsersByTypesDescription": "Slet brugere efter brugertyper",
           "ExclusionModeLabel": "Eksklusionsfunktion",
           "ExclusionModelHint": "I denne tilstand vil valgte brugertyper blive ekskluderet fra at blive slettet",
-          "SelectDeleteTypesLabel": "Brugertyper at slette",
+          "SelectDeleteTypesLabel": "Brugertyper, der skal slettes",
           "Dialog": {
             "TitleDeleteUsers": "Slet brugere med valgte typer",
-            "MessageDeleteUsers": "Vil du slette brugere fra valgte brugertyper?",
-            "TitleDeleteUsersExclusion": "Slet alle brugere undtagen valgte typer",
-            "MessageDeleteUsersExclusion": "Vil du slette alle brugere UNDTAGEN valgtebrugertyper?"
+            "MessageDeleteUsers": "Vil du slette brugere fra de valgte brugertyper?",
+            "TitleDeleteUsersExclusion": "Slet alle brugere undtagen de valgte typer",
+            "MessageDeleteUsersExclusion": "Vil du slette alle brugere UNDTAGEN de valgte brugertyper?"
           }
         }
       },
       "App": {
         "ReAuthScreen": {
-          "textReauthLoginReminder": "Åbn appen forat logge ind og modtage meddelelser fra Omnia!",
+          "textReauthLoginReminder": "Åbn appen for at logge ind og modtage meddelelser fra Omnia!",
           "titleReauthLoginReminder": "Log ind igen for at modtage meddelelser",
           "textWaitForNetwork": "Vent på netværksforbindelse!"
         },
@@ -73,7 +73,7 @@
             "buttonResetAppData": "Nulstil appdata",
             "buttonBackToApp": "Tilbage til appen",
             "textResetAppData": "Nulstil appdata",
-            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har en fatal fejl. Prøv at nulstille appdata, hvis du oplever den samme fejl.",
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har en kritisk fejl. Prøv at nulstille appdata, hvis du oplever den samme fejl.",
             "textDoYouWantToResetAppData": "Vil du nulstille appdata?"
           }
         }
