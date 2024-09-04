@@ -7,7 +7,7 @@
       "Block": {
         "BlockTitle": "Velkomstblok",
         "BlockDescription": "Velkomstblok",
-        "NoAvailableMessage": "Ingen tilgængelig besked at vise nu",
+        "NoAvailableMessage": "Der er ingen tilgængelige beskeder",
         "DayOfWeek": {
           "Monday": "Mandag",
           "Tuesday": "Tirsdag",
@@ -21,11 +21,11 @@
           "Sections": {
             "General": "Generelt",
             "Display": "Visning",
-            "Style": "Stil"
+            "Style": "Layout"
           },
           "Display": {
             "MessageTypeSelect": "Beskedtype",
-            "NoResultText": "Ingen resultattekst",
+            "NoResultText": "Tekst ved intet resultat",
             "MessageTemplate": "Beskedskabelon",
             "NotAllowEmpty": "Ikke tillad tom",
             "MessageType": {
@@ -42,7 +42,7 @@
                 "Label": "Dato og tid",
                 "StartTime": "Starttid",
                 "EndTime": "Sluttid",
-                "Overlapped": "Denne tidsintervaloverlapper",
+                "Overlapped": "Dette tidsinterval overlapper",
                 "NoValid": "Sluttiden skal være senere end starttiden"
               },
               "Birthday": "Fødselsdag",
