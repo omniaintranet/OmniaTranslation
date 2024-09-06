@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Close request"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Update",
+        "Agree": "Agree",
+        "Skip": "Skip",
+        "ChangeProfilePhoto": "Change Image",
+        "ChangeProfilePhotoMessage": "Please note that it will take time for the image to be available.",
+        "Message": "Message",
+        "AddFeedback": "Add Feedback",
+        "RequiredFieldMessage": "This field is required.",
+        "Send": "Send",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "User profile property {{userprofileproperty}} feedback"
+        },
+        "SentFeedbackMessage": "Thanks for your feedback, it has been sent to {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}",
+        "BirthdayProperty": {
+          "Month": "Month",
+          "Day": "Day"
+        },
+        "NoSectionSettingMessage": "Please configure the property mappings",
+        "SaveAndClose": "Save and Close"
+      },
+      "Settings": {
+        "Style": "Style",
+        "HideNameInText": "Hide User Name in Text",
+        "HidePercentageInText": "Hide Percentage in Text",
+        "HideBlockWhenCompleted": "Hide Block when Completed",
+        "Size": "Size",
+        "BorderSize": "Border Size",
+        "Views": {
+          "Title": "View",
+          "Line": "Line",
+          "Circle": "Circle"
+        },
+        "TitleText": "Header Text",
+        "CompletedProfileText": "Completed Text",
+        "NotCompletedProfileText": "Not Completed Text",
+        "ConfirmationCloseEditingFormTitle": "Cancel editing User Profile Completeness",
+        "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?"
+      },
+      "ProfileCompletion": {
+        "Headline": "My Profile",
+        "StrengthenProfile": "Strengthen Profile",
+        "Done": "done",
+        "YouHaveAStrongProfile": "You have a strong profile it's",
+        "YouHaveToStrengthenYourProfile": "Strengthen your profile it's",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Strengthen your profile",
+        "WelcomeTitle": "Welcome",
+        "WebPart": {
+          "WebPartTitle": "User Profile Progress",
+          "WebPartDescription": "Shows your degree of profile completion."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "User Profile Completion",
+          "GeneralTabTitle": "General",
+          "MappingTabTitle": "Property Mappings"
+        },
+        "Buttons": {
+          "Update": "Update",
+          "AddPropertyMapping": "Add Mapping",
+          "AddSection": "Add Section"
+        },
+        "Pattern": {
+          "ShowDialog": "Show Dialog",
+          "Daily": "Daily",
+          "Weekly": "Weekly",
+          "Monthly": "Monthly",
+          "Never": "Never",
+          "Title": "Title",
+          "Description": "Description",
+          "FeedbackEmail": "Feedback email",
+          "Levels": "Levels",
+          "WeakLevelPercentage": "Percentage Level - Weak",
+          "GoodLevelPercentage": "Percentage Level - Good",
+          "EveryWeekday": "Every weekday",
+          "Every": "Every",
+          "Days": "day(s)",
+          "Weeks": "week(s)",
+          "Months": "month(s)",
+          "DayOfWeeks": {
+            "Monday": "Monday",
+            "Tuesday": "Tuesday",
+            "Wednesday": "Wednesday",
+            "Thursday": "Thursday",
+            "Friday": "Friday",
+            "Saturday": "Saturday",
+            "Sunday": "Sunday",
+            "Day": "Day",
+            "Weekday": "Weekday",
+            "WeekendDay": "Weekend Day"
+          },
+          "Day": "Day",
+          "OfEvery": "of every",
+          "The": "The",
+          "WeekOfMonth": {
+            "First": "First",
+            "Second": "Second",
+            "Third": "Third",
+            "Fourth": "Fourth",
+            "Last": "Last"
+          },
+          "StartDate": "Start date",
+          "NoEndDate": "No end date",
+          "EndBy": "End by"
+        },
+        "MappingSetting": {
+          "Section": "Section"
+        },
+        "Section": {
+          "Property": "Property",
+          "Name": "Name",
+          "Description": "Description"
+        },
+        "PropertyMapping": {
+          "SourceType": "Source type",
+          "Type": "Type",
+          "Property": "Property",
+          "Label": "Label",
+          "CompletenessImpact": "Completeness Impact",
+          "ReadyOnly": "Read-Only",
+          "Multiple": "Multiple",
+          "AllowFeedback": "Allow Feedback",
+          "CustomTarget": "Custom Target",
+          "CustomTargetUrl": "Custom Target Url",
+          "DeleteUserProfileCompletionSectionConfirmation": "Are you sure you want to delete this section?",
+          "Confirmation": "Confirmation",
+          "DisplayTypes": {
+            "ProfilePicture": "Profile Picture",
+            "Text": "Text",
+            "MultilineText": "Multiline Text",
+            "HtmlText": "Html",
+            "TermSet": "Term Set",
+            "Person": "Person"
+          },
+          "CompletenessImpacts": {
+            "High": "High",
+            "Medium": "Medium",
+            "Low": "Low",
+            "None": "None"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint User Profile",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia System Language"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Custom date"
+        }
+      }
+    }
+  }
+}
