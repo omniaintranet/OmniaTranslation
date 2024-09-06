@@ -8,78 +8,78 @@
         "Update": "Update",
         "Agree": "Agree",
         "Skip": "Skip",
-        "ChangeProfilePhoto": "Change Image",
+        "ChangeProfilePhoto": "Change image",
         "ChangeProfilePhotoMessage": "Please note that it will take time for the image to be available.",
         "Message": "Message",
-        "AddFeedback": "Add Feedback",
+        "AddFeedback": "Add feedback",
         "RequiredFieldMessage": "This field is required.",
         "Send": "Send",
         "FeedbackEmailTemplate": {
           "EmailSubject": "User profile property {{userprofileproperty}} feedback"
         },
-        "SentFeedbackMessage": "Thanks for your feedback, it has been sent to {{feedback-email}}.",
-        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}",
+        "SentFeedbackMessage": "Thank you for your feedback, it has been sent to {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Month",
           "Day": "Day"
         },
-        "NoSectionSettingMessage": "Please configure the property mappings",
-        "SaveAndClose": "Save and Close"
+        "NoSectionSettingMessage": "Please configure the property mappings.",
+        "SaveAndClose": "Save and close"
       },
       "Settings": {
         "Style": "Style",
-        "HideNameInText": "Hide User Name in Text",
-        "HidePercentageInText": "Hide Percentage in Text",
-        "HideBlockWhenCompleted": "Hide Block when Completed",
+        "HideNameInText": "Hide user name in text",
+        "HidePercentageInText": "Hide percentage in text",
+        "HideBlockWhenCompleted": "Hide block when completed",
         "Size": "Size",
-        "BorderSize": "Border Size",
+        "BorderSize": "Border size",
         "Views": {
           "Title": "View",
           "Line": "Line",
           "Circle": "Circle"
         },
-        "TitleText": "Header Text",
-        "CompletedProfileText": "Completed Text",
-        "NotCompletedProfileText": "Not Completed Text",
-        "ConfirmationCloseEditingFormTitle": "Cancel editing User Profile Completeness",
+        "TitleText": "Header text",
+        "CompletedProfileText": "Completed text",
+        "NotCompletedProfileText": "Not completed text",
+        "ConfirmationCloseEditingFormTitle": "Cancel editing user profile",
         "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?"
       },
       "ProfileCompletion": {
-        "Headline": "My Profile",
-        "StrengthenProfile": "Strengthen Profile",
+        "Headline": "My profile",
+        "StrengthenProfile": "Strengthen profile",
         "Done": "done",
         "YouHaveAStrongProfile": "You have a strong profile it's",
         "YouHaveToStrengthenYourProfile": "Strengthen your profile it's",
         "YouHaveToStrengthenYourProfileHidePercentage": "Strengthen your profile",
         "WelcomeTitle": "Welcome",
         "WebPart": {
-          "WebPartTitle": "User Profile Progress",
-          "WebPartDescription": "Shows your degree of profile completion."
+          "WebPartTitle": "User profile progress",
+          "WebPartDescription": "Displays your degree of profile completion."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "User Profile Completion",
+          "ProfileCompletionAdmin": "User profile completion",
           "GeneralTabTitle": "General",
-          "MappingTabTitle": "Property Mappings"
+          "MappingTabTitle": "Property mappings"
         },
         "Buttons": {
           "Update": "Update",
-          "AddPropertyMapping": "Add Mapping",
-          "AddSection": "Add Section"
+          "AddPropertyMapping": "Add mapping",
+          "AddSection": "Add section"
         },
         "Pattern": {
-          "ShowDialog": "Show Dialog",
+          "ShowDialog": "Show dialog",
           "Daily": "Daily",
           "Weekly": "Weekly",
           "Monthly": "Monthly",
           "Never": "Never",
           "Title": "Title",
           "Description": "Description",
-          "FeedbackEmail": "Feedback email",
+          "FeedbackEmail": "Feedback Email",
           "Levels": "Levels",
-          "WeakLevelPercentage": "Percentage Level - Weak",
-          "GoodLevelPercentage": "Percentage Level - Good",
+          "WeakLevelPercentage": "Percentage level - Weak",
+          "GoodLevelPercentage": "Percentage level - Good",
           "EveryWeekday": "Every weekday",
           "Every": "Every",
           "Days": "day(s)",
@@ -124,20 +124,20 @@
           "Type": "Type",
           "Property": "Property",
           "Label": "Label",
-          "CompletenessImpact": "Completeness Impact",
-          "ReadyOnly": "Read-Only",
+          "CompletenessImpact": "Completeness impact",
+          "ReadyOnly": "Read-only",
           "Multiple": "Multiple",
-          "AllowFeedback": "Allow Feedback",
-          "CustomTarget": "Custom Target",
-          "CustomTargetUrl": "Custom Target Url",
+          "AllowFeedback": "Allow feedback",
+          "CustomTarget": "Custom target",
+          "CustomTargetUrl": "Custom target URL",
           "DeleteUserProfileCompletionSectionConfirmation": "Are you sure you want to delete this section?",
           "Confirmation": "Confirmation",
           "DisplayTypes": {
-            "ProfilePicture": "Profile Picture",
+            "ProfilePicture": "Profile picture",
             "Text": "Text",
-            "MultilineText": "Multiline Text",
-            "HtmlText": "Html",
-            "TermSet": "Term Set",
+            "MultilineText": "Multiline text",
+            "HtmlText": "HTML",
+            "TermSet": "Term set",
             "Person": "Person"
           },
           "CompletenessImpacts": {
@@ -147,9 +147,9 @@
             "None": "None"
           },
           "SourceTypes": {
-            "SPUserProfile": "SharePoint User Profile",
+            "SPUserProfile": "SharePoint user profile",
             "AzureAD": "Azure AD",
-            "OmniaSystemLanguage": "Omnia System Language"
+            "OmniaSystemLanguage": "Omnia system language"
           }
         }
       }
