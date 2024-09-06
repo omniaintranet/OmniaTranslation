@@ -2,9 +2,9 @@
   "WCM": {
     "WelcomeBlock": {
       "Block": {
-        "BlockTitle": "Welcome Block",
-        "BlockDescription": "Welcome Block",
-        "NoAvailableMessage": "No available message to render now",
+        "BlockTitle": "Welcome block",
+        "BlockDescription": "Welcome block",
+        "NoAvailableMessage": "No available message to show now",
         "DayOfWeek": {
           "Monday": "Monday",
           "Tuesday": "Tuesday",
@@ -21,33 +21,33 @@
             "Style": "Style"
           },
           "Display": {
-            "MessageTypeSelect": "Message Type",
-            "NoResultText": "No Result Text",
-            "MessageTemplate": "Message Template",
-            "NotAllowEmpty": "Not allow empty",
+            "MessageTypeSelect": "Message type",
+            "NoResultText": "No result text",
+            "MessageTemplate": "Message template",
+            "NotAllowEmpty": "Can't be empty",
             "MessageType": {
               "TimeInDay": {
                 "Label": "Time in day",
-                "StartTime": "Start Time"
+                "StartTime": "Start time"
               },
               "DayOfWeek": {
                 "Label": "Day of week",
                 "Day": "Day",
-                "NoValid": "The day is already selected"
+                "NoValid": "The day is already selected."
               },
               "DateTime": {
-                "Label": "Date Time",
-                "StartTime": "Start Time",
-                "EndTime": "End Time",
-                "Overlapped": "This interval time is overlapped",
-                "NoValid": "The end time must be greater than the start time"
+                "Label": "Date time",
+                "StartTime": "Start time",
+                "EndTime": "End time",
+                "Overlapped": "This interval is overlapped.",
+                "NoValid": "The end time must be later than the start time."
               },
               "Birthday": "Birthday",
               "Default": "Default"
             },
             "DisplaySetting": {
               "Avatar": {
-                "ShowAvatar": "Show Avatar",
+                "ShowAvatar": "Show avatar",
                 "Position": {
                   "Label": "Position",
                   "Left": "Left",
@@ -55,7 +55,7 @@
                   "Top": "Top",
                   "Bottom": "Bottom"
                 },
-                "Label": "Avatar Display",
+                "Label": "Avatar display",
                 "Size": "Size"
               }
             }
