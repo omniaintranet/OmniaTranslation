@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Enable sign-off request",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Sign-off request types"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Your search did not return any sites.",
+        "NoSiteToShow": "There's no site to show."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Published Document",
+      "SignOffRequest": "Sign-off Request",
+      "ThisDocumentHasBeenDeleted": "This document has been deleted",
+      "Button": {
+        "Confirm": "Confirm",
+        "ShowRequests": "Show Requests",
+        "HideRequests": "Hide Requests",
+        "EndUserSignOff": "End-user sign off"
+      },
+      "Banner": {
+        "IndividualRequest": "I confirm that I have read and understood the contents of document.",
+        "GroupRequest": "{{requestTo}} confirm that we have read and understood the contents of this document.",
+        "MultipleRequest": "There are more than one sign-off request related to this document."
+      },
+      "ReadSignOffDocumentNotFound": "The read sign-off request related to this document cannot be found.",
+      "DefaultMessage": "I confirm that I have read and understood the contents of this document."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Add-ons",
+          "Description": "Enable sign-off requests for published document.",
+          "Title": "Sign-off request for  published document"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Create Sign-off request"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "This document contains unaccepted changes. Please review and accept or reject them before publishing."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Today",
+          "CustomDate": "Custom date"
+        }
+      }
+    }
+  }
+}
