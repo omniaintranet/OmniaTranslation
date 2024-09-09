@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Welcome block",
+        "BlockDescription": "Welcome block",
+        "NoAvailableMessage": "No available message to show now",
+        "DayOfWeek": {
+          "Monday": "Monday",
+          "Tuesday": "Tuesday",
+          "Wednesday": "Wednesday",
+          "Thursday": "Thursday",
+          "Friday": "Friday",
+          "Saturday": "Saturday",
+          "Sunday": "Sunday"
+        },
+        "Common": {
+          "Sections": {
+            "General": "General",
+            "Display": "Display",
+            "Style": "Style"
+          },
+          "Display": {
+            "MessageTypeSelect": "Message type",
+            "NoResultText": "No result text",
+            "MessageTemplate": "Message template",
+            "NotAllowEmpty": "Can't be empty",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Time in day",
+                "StartTime": "Start time"
+              },
+              "DayOfWeek": {
+                "Label": "Day of week",
+                "Day": "Day",
+                "NoValid": "The day is already selected."
+              },
+              "DateTime": {
+                "Label": "Date time",
+                "StartTime": "Start time",
+                "EndTime": "End time",
+                "Overlapped": "This interval is overlapped.",
+                "NoValid": "The end time must be later than the start time."
+              },
+              "Birthday": "Birthday",
+              "Default": "Default"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Show avatar",
+                "Position": {
+                  "Label": "Position",
+                  "Left": "Left",
+                  "Right": "Right",
+                  "Top": "Top",
+                  "Bottom": "Bottom"
+                },
+                "Label": "Avatar display",
+                "Size": "Size"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
