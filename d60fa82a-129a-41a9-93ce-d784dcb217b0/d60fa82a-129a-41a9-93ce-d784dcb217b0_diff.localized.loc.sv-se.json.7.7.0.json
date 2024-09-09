@@ -4,7 +4,7 @@
       "Block": {
         "BlockTitle": "Välkomstblock",
         "BlockDescription": "Välkomstblock",
-        "NoAvailableMessage": "Inget tillgängligt meddelande att visa just nu",
+        "NoAvailableMessage": "Finns inget meddelande att visa just nu.",
         "DayOfWeek": {
           "Monday": "Måndag",
           "Tuesday": "Tisdag",
@@ -22,7 +22,7 @@
           },
           "Display": {
             "MessageTypeSelect": "Meddelandetyp",
-            "NoResultText": "Ingen resultattext",
+            "NoResultText": "Text för inget resultat",
             "MessageTemplate": "Meddelandemall",
             "NotAllowEmpty": "Får inte vara tomt",
             "MessageType": {
