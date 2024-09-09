@@ -9,7 +9,7 @@
         "Agree": "Agree",
         "Skip": "Skip",
         "ChangeProfilePhoto": "Change image",
-        "ChangeProfilePhotoMessage": "Please note that it will take time for the image to be available.",
+        "ChangeProfilePhotoMessage": "Please note, it will take some time for the image to be available.",
         "Message": "Message",
         "AddFeedback": "Add feedback",
         "RequiredFieldMessage": "This field is required.",
@@ -17,7 +17,7 @@
         "FeedbackEmailTemplate": {
           "EmailSubject": "User profile property {{userprofileproperty}} feedback"
         },
-        "SentFeedbackMessage": "Thank you foryour feedback, it has been sent to {{feedback-email}}.",
+        "SentFeedbackMessage": "Thank you for your feedback, it has been sent to {{feedback-email}}.",
         "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Month",
@@ -59,7 +59,7 @@
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "User profilecompletion",
+          "ProfileCompletionAdmin": "User profile completion",
           "GeneralTabTitle": "General",
           "MappingTabTitle": "Property mappings"
         },
@@ -98,7 +98,7 @@
             "WeekendDay": "Weekend Day"
           },
           "Day": "Day",
-          "OfEvery": "ofevery",
+          "OfEvery": "of every",
           "The": "The",
           "WeekOfMonth": {
             "First": "First",
