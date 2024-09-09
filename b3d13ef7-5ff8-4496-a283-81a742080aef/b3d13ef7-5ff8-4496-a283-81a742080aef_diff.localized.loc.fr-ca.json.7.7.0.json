@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Activer la demande devalidation",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Types de demande de validation"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Votrerecherche n'a retourné aucun site.",
+        "NoSiteToShow": "Il n'y a aucun site à afficher."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Document publié",
+      "SignOffRequest": "Demande de validation",
+      "ThisDocumentHasBeenDeleted": "Ce document a été supprimé.",
+      "Button": {
+        "Confirm": "Confirmer",
+        "ShowRequests": "Afficher les demandes",
+        "HideRequests": "Masquer les demandes",
+        "EndUserSignOff": "Validation de l'utilisateur final"
+      },
+      "Banner": {
+        "IndividualRequest": "Je confirme avoir lu et compris le contenu de ce document.",
+        "GroupRequest": "{{requestTo}} confirme que nous avons lu et compris le contenu de ce document.",
+        "MultipleRequest": "Il y a plus d'une demande de validation liée à ce document."
+      },
+      "ReadSignOffDocumentNotFound": "La demande de validation de lecture liée à ce document est introuvable.",
+      "DefaultMessage": "Je confirme avoir lu et compris le contenu de ce document."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Compléments",
+          "Description": "Activer les demandes de validation pour le documentpublié.",
+          "Title": "Demande de validation pour le document publié"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Créer une demande de validation"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Ce document contient des modifications non acceptées. Veuillez les examiner et les accepter ou les rejeter avant de le publier."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Aujourd'hui",
+          "CustomDate": "Date personnalisée"
+        }
+      }
+    }
+  }
+}
