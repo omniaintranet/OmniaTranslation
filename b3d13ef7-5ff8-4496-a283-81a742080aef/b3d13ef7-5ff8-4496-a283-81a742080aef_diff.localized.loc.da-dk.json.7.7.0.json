@@ -3,7 +3,7 @@
     "Admin": {
       "EnableSignOffRequest": "Aktivér anmodning om godkendelse",
       "DocumentTemplates": {
-        "SignOffRequestTypes": "Typer af godkendelsesanmodninger"
+        "SignOffRequestTypes": "Typer af anmodninger"
       }
     },
     "PublishedDocumentPicker": {
@@ -13,8 +13,8 @@
       }
     },
     "SignOffRequest": {
-      "PublishedDocument": "Offentliggjort dokument",
-      "SignOffRequest": "Godkendelsesanmodning",
+      "PublishedDocument": "Publiceret dokument",
+      "SignOffRequest": "Anmodning om godkendelse",
       "ThisDocumentHasBeenDeleted": "Dette dokument er blevet slettet.",
       "Button": {
         "Confirm": "Bekræft",
@@ -23,28 +23,28 @@
         "EndUserSignOff": "Brugergodkendelse"
       },
       "Banner": {
-        "IndividualRequest": "Jeg bekræfter, at jeg har læst og forstået indholdet af dette dokument.",
-        "GroupRequest": "{{requestTo}} bekræft, at vi har læst og forstået indholdet af dette dokument.",
-        "MultipleRequest": "Der er mere end én godkendelsesanmodning relateret til dette dokument."
+        "IndividualRequest": "Jeg bekræfter, at jeg har læst og forstået indholdet af dokumentet.",
+        "GroupRequest": "{{requestTo}} bekræft, at vi har læst og forstået indholdet af dokumentet.",
+        "MultipleRequest": "Der er mere end én anmodning om godkendelse relateret til dette dokument."
       },
-      "ReadSignOffDocumentNotFound": "Den læste godkendelsesanmodning relateret til dette dokument kan ikke findes.",
-      "DefaultMessage": "Jeg bekræfter, at jeg har læst og forstået indholdet af dette dokument."
+      "ReadSignOffDocumentNotFound": "Den læste anmodning om godkendelse for dokumentet kan ikke findes.",
+      "DefaultMessage": "Jeg bekræfter, at jeg har læst og forstået indholdet af dokumentet."
     },
     "Core": {
       "Features": {
         "SignOffRequestInPublishedDocument": {
           "Category": "Tilføjelser",
-          "Description": "Aktivér godkendelsesanmodninger for det offentliggjorte dokument.",
-          "Title": "Godkendelsesanmodning for det offentliggjorte dokument"
+          "Description": "Aktivér anmodninger om godkendelse for det publicerede dokument.",
+          "Title": "Anmodning om godkendelse for det publicerede dokument"
         }
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequest": "Opretgodkendelsesanmodning"
+        "CreateSignOffRequest": "Opret anmodning om godkendelse"
       },
       "Messages": {
-        "MessageFileHasUnacceptedChanges": "Dette dokument indeholder uaccepterede ændringer. Gennemgå og accepter eller afvis dem, før du offentliggør."
+        "MessageFileHasUnacceptedChanges": "Dette dokument indeholder ændringer, der ikke er accepteret. Gennemgå og accepter eller afvis dem, før du publicerer."
       }
     },
     "DocumentRollup": {
