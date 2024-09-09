@@ -18,7 +18,7 @@
           "EmailSubject": "Feedback för användarprofilsegenskap {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Tack för din feedback, den har skickats till {{feedback-email}}.",
-        "SendFeedbackErrorMessage": "Fel vid skickandeav din feedback till {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Fel när din feedback skickades till {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Månad",
           "Day": "Dag"
@@ -39,10 +39,10 @@
           "Circle": "Cirkel"
         },
         "TitleText": "Rubriktext",
-        "CompletedProfileText": "Textnär profil är klar",
+        "CompletedProfileText": "Text när profil är klar",
         "NotCompletedProfileText": "Text när profil inte är klar",
         "ConfirmationCloseEditingFormTitle": "Avbryt redigering av användarprofil",
-        "ConfirmationCloseEditingFormMessage": "Vill du verkligen avslutamed osparade ändringar?"
+        "ConfirmationCloseEditingFormMessage": "Vill du verkligen avsluta utan att ha sparat ändringar?"
       },
       "ProfileCompletion": {
         "Headline": "Min profil",
@@ -76,7 +76,7 @@
           "Never": "Aldrig",
           "Title": "Titel",
           "Description": "Beskrivning",
-          "FeedbackEmail": "Feedback-e-post",
+          "FeedbackEmail": "E-postadress för Feedback",
           "Levels": "Nivåer",
           "WeakLevelPercentage": "Procentnivå - Svag",
           "GoodLevelPercentage": "Procentnivå - Bra",
@@ -129,7 +129,7 @@
           "Multiple": "Flera",
           "AllowFeedback": "Tillåt feedback",
           "CustomTarget": "Anpassad målplats",
-          "CustomTargetUrl": "Anpassad målplats-URL",
+          "CustomTargetUrl": "URL för anpassad målplats",
           "DeleteUserProfileCompletionSectionConfirmation": "Är du säker på att du vill ta bort denna sektion?",
           "Confirmation": "Bekräftelse",
           "DisplayTypes": {
