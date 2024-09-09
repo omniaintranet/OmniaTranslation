@@ -15,7 +15,7 @@
         "RequiredFieldMessage": "Dette feltet er påkrevd.",
         "Send": "Send",
         "FeedbackEmailTemplate": {
-          "EmailSubject": "Tilbakemelding på brukerprofilattributt {{userprofileproperty}}"
+          "EmailSubject": "Tilbakemelding på brukerprofilegenskap {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Takk for tilbakemeldingen din, den er sendt til {{feedback-email}}.",
         "SendFeedbackErrorMessage": "Feil ved sending av tilbakemeldingen din til {{feedback-email}}.",
@@ -23,7 +23,7 @@
           "Month": "Måned",
           "Day": "Dag"
         },
-        "NoSectionSettingMessage": "Vennligst konfigurer egenskapsmappene.",
+        "NoSectionSettingMessage": "Vennligst konfigurer egenskapstilordning.",
         "SaveAndClose": "Lagre og lukk"
       },
       "Settings": {
@@ -32,7 +32,7 @@
         "HidePercentageInText": "Skjul prosentandel i tekst",
         "HideBlockWhenCompleted": "Skjul blokk når fullført",
         "Size": "Størrelse",
-        "BorderSize": "Grensestørrelse",
+        "BorderSize": "Kantstørrelse",
         "Views": {
           "Title": "Visning",
           "Line": "Linje",
@@ -61,11 +61,11 @@
         "Titles": {
           "ProfileCompletionAdmin": "Fullføring av brukerprofil",
           "GeneralTabTitle": "Generelt",
-          "MappingTabTitle": "Egenskapsmappinger"
+          "MappingTabTitle": "Egenskapstilordninger"
         },
         "Buttons": {
           "Update": "Oppdater",
-          "AddPropertyMapping": "Legg til mappning",
+          "AddPropertyMapping": "Legg til tilordning",
           "AddSection": "Legg til seksjon"
         },
         "Pattern": {
@@ -124,7 +124,7 @@
           "Type": "Type",
           "Property": "Egenskap",
           "Label": "Etikett",
-          "CompletenessImpact": "Fullstendighetspåvirkning",
+          "CompletenessImpact": "Påvirkning på fullstendighet",
           "ReadyOnly": "Skrivebeskyttet",
           "Multiple": "Flere",
           "AllowFeedback": "Tillat tilbakemelding",
