@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Cerrar solicitud"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Actualizar",
+        "Agree": "Aceptar",
+        "Skip": "Saltar",
+        "ChangeProfilePhoto": "Cambiar imagen",
+        "ChangeProfilePhotoMessage": "Ten en cuenta que tomará tiempo para que laimagen esté disponible.",
+        "Message": "Mensaje",
+        "AddFeedback": "Agregar comentarios",
+        "RequiredFieldMessage": "Este campo es obligatorio.",
+        "Send": "Enviar",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Comentarios sobre la propiedad del perfil de usuario {{userprofileproperty}}"
+        },
+        "SentFeedbackMessage": "Gracias por tus comentarios, sehan enviado a {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Error al enviar tus comentarios a {{feedback-email}}.",
+        "BirthdayProperty": {
+          "Month": "Mes",
+          "Day": "Día"
+        },
+        "NoSectionSettingMessage": "Por favor, configura las asignaciones de propiedades.",
+        "SaveAndClose": "Guardar y cerrar"
+      },
+      "Settings": {
+        "Style": "Estilo",
+        "HideNameInText": "Ocultar nombre de usuario en el texto",
+        "HidePercentageInText": "Ocultar porcentaje en el texto",
+        "HideBlockWhenCompleted": "Ocultar bloque cuando esté completado",
+        "Size": "Tamaño",
+        "BorderSize": "Tamaño del borde",
+        "Views": {
+          "Title": "Vista",
+          "Line": "Línea",
+          "Circle": "Círculo"
+        },
+        "TitleText": "Texto del encabezado",
+        "CompletedProfileText": "Texto de perfil completado",
+        "NotCompletedProfileText": "Texto de perfil no completado",
+        "ConfirmationCloseEditingFormTitle": "Cancelar la edición del perfil de usuario",
+        "ConfirmationCloseEditingFormMessage": "¿Realmente deseas cerrar con cambios no guardados?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Mi perfil",
+        "StrengthenProfile": "Fortalecer perfil",
+        "Done": "hecho",
+        "YouHaveAStrongProfile": "Tienes un perfil sólido, es",
+        "YouHaveToStrengthenYourProfile": "Fortalece tu perfil, es",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Fortalece tu perfil",
+        "WelcomeTitle": "Bienvenido",
+        "WebPart": {
+          "WebPartTitle": "Progreso del perfil de usuario",
+          "WebPartDescription": "Muestra tu grado de completitud del perfil."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Completitud del perfil de usuario",
+          "GeneralTabTitle": "General",
+          "MappingTabTitle": "Asignaciones de propiedades"
+        },
+        "Buttons": {
+          "Update": "Actualizar",
+          "AddPropertyMapping": "Agregar asignación",
+          "AddSection": "Agregar sección"
+        },
+        "Pattern": {
+          "ShowDialog": "Mostrar diálogo",
+          "Daily": "Diario",
+          "Weekly": "Semanal",
+          "Monthly": "Mensual",
+          "Never": "Nunca",
+          "Title": "Título",
+          "Description": "Descripción",
+          "FeedbackEmail": "Correo electrónico de comentarios",
+          "Levels": "Niveles",
+          "WeakLevelPercentage": "Nivel de porcentaje - Débil",
+          "GoodLevelPercentage": "Nivel de porcentaje - Bueno",
+          "EveryWeekday": "Cada día de la semana",
+          "Every": "Cada",
+          "Days": "día(s)",
+          "Weeks": "semana(s)",
+          "Months": "mes(es)",
+          "DayOfWeeks": {
+            "Monday": "Lunes",
+            "Tuesday": "Martes",
+            "Wednesday": "Miércoles",
+            "Thursday": "Jueves",
+            "Friday": "Viernes",
+            "Saturday": "Sábado",
+            "Sunday": "Domingo",
+            "Day": "Día",
+            "Weekday": "Día de la semana",
+            "WeekendDay": "Día de fin de semana"
+          },
+          "Day": "Día",
+          "OfEvery": "de cada",
+          "The": "El",
+          "WeekOfMonth": {
+            "First": "Primero",
+            "Second": "Segundo",
+            "Third": "Tercero",
+            "Fourth": "Cuarto",
+            "Last": "Último"
+          },
+          "StartDate": "Fecha de inicio",
+          "NoEndDate": "Sin fecha de finalización",
+          "EndBy": "Finalizar antes de"
+        },
+        "MappingSetting": {
+          "Section": "Sección"
+        },
+        "Section": {
+          "Property": "Propiedad",
+          "Name": "Nombre",
+          "Description": "Descripción"
+        },
+        "PropertyMapping": {
+          "SourceType": "Tipode origen",
+          "Type": "Tipo",
+          "Property": "Propiedad",
+          "Label": "Etiqueta",
+          "CompletenessImpact": "Impacto en la completitud",
+          "ReadyOnly": "Solo lectura",
+          "Multiple": "Múltiple",
+          "AllowFeedback": "Permitir comentarios",
+          "CustomTarget": "Destino personalizado",
+          "CustomTargetUrl": "URL de destino personalizado",
+          "DeleteUserProfileCompletionSectionConfirmation": "¿Estás seguro de que deseas eliminar esta sección?",
+          "Confirmation": "Confirmación",
+          "DisplayTypes": {
+            "ProfilePicture": "Imagende perfil",
+            "Text": "Texto",
+            "MultilineText": "Texto multilínea",
+            "HtmlText": "HTML",
+            "TermSet": "Conjunto de términos",
+            "Person": "Persona"
+          },
+          "CompletenessImpacts": {
+            "High": "Alto",
+            "Medium": "Medio",
+            "Low": "Bajo",
+            "None": "Ninguno"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "Perfil de usuario de SharePoint",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Idioma del sistema Omnia"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Fecha personalizada"
+        }
+      }
+    }
+  }
+}
