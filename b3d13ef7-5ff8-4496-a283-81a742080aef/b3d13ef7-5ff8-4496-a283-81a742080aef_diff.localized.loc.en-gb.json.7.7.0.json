@@ -15,7 +15,7 @@
     "SignOffRequest": {
       "PublishedDocument": "Published document",
       "SignOffRequest": "Sign-off request",
-      "ThisDocumentHasBeenDeleted": "Thisdocument has been deleted.",
+      "ThisDocumentHasBeenDeleted": "This document has been deleted.",
       "Button": {
         "Confirm": "Confirm",
         "ShowRequests": "Show requests",
