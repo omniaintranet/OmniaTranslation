@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Aktivér anmodning om godkendelse",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Typer af godkendelsesanmodninger"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Din søgning gav ingen resultater.",
+        "NoSiteToShow": "Der er ingen websteder at vise."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Offentliggjort dokument",
+      "SignOffRequest": "Godkendelsesanmodning",
+      "ThisDocumentHasBeenDeleted": "Dette dokument er blevet slettet.",
+      "Button": {
+        "Confirm": "Bekræft",
+        "ShowRequests": "Vis anmodninger",
+        "HideRequests": "Skjul anmodninger",
+        "EndUserSignOff": "Brugergodkendelse"
+      },
+      "Banner": {
+        "IndividualRequest": "Jeg bekræfter, at jeg har læst og forstået indholdet af dette dokument.",
+        "GroupRequest": "{{requestTo}} bekræft, at vi har læst og forstået indholdet af dette dokument.",
+        "MultipleRequest": "Der er mere end én godkendelsesanmodning relateret til dette dokument."
+      },
+      "ReadSignOffDocumentNotFound": "Den læste godkendelsesanmodning relateret til dette dokument kan ikke findes.",
+      "DefaultMessage": "Jeg bekræfter, at jeg har læst og forstået indholdet af dette dokument."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Tilføjelser",
+          "Description": "Aktivér godkendelsesanmodninger for det offentliggjorte dokument.",
+          "Title": "Godkendelsesanmodning for det offentliggjorte dokument"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Opretgodkendelsesanmodning"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Dette dokument indeholder uaccepterede ændringer. Gennemgå og accepter eller afvis dem, før du offentliggør."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "I dag",
+          "CustomDate": "Brugerdefineret dato"
+        }
+      }
+    }
+  }
+}
