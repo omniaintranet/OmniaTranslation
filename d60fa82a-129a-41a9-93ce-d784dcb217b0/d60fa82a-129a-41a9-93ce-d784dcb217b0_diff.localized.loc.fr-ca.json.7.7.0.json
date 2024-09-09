@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Bloc de bienvenue",
+        "BlockDescription": "Bloc de bienvenue",
+        "NoAvailableMessage": "Aucun message disponible à afficher pour le moment",
+        "DayOfWeek": {
+          "Monday": "Lundi",
+          "Tuesday": "Mardi",
+          "Wednesday": "Mercredi",
+          "Thursday": "Jeudi",
+          "Friday": "Vendredi",
+          "Saturday": "Samedi",
+          "Sunday": "Dimanche"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Général",
+            "Display": "Affichage",
+            "Style": "Style"
+          },
+          "Display": {
+            "MessageTypeSelect": "Type de message",
+            "NoResultText": "Aucun texte de résultat",
+            "MessageTemplate": "Modèle de message",
+            "NotAllowEmpty": "Ne peut pas être vide",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Heure dans la journée",
+                "StartTime": "Heure de début"
+              },
+              "DayOfWeek": {
+                "Label": "Jour de la semaine",
+                "Day": "Jour",
+                "NoValid": "Le jour est déjà sélectionné."
+              },
+              "DateTime": {
+                "Label": "Date et heure",
+                "StartTime": "Heure de début",
+                "EndTime": "Heure de fin",
+                "Overlapped": "Cet intervalle se chevauche.",
+                "NoValid": "L'heure de fin doit être postérieure à l'heure de début."
+              },
+              "Birthday": "Anniversaire",
+              "Default": "Par défaut"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Afficher l'avatar",
+                "Position": {
+                  "Label": "Position",
+                  "Left": "Gauche",
+                  "Right": "Droite",
+                  "Top": "Haut",
+                  "Bottom": "Bas"
+                },
+                "Label": "Affichage de l'avatar",
+                "Size": "Taille"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
