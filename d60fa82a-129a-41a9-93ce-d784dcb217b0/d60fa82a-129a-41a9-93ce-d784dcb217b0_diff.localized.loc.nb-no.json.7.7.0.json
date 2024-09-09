@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Velkomstblokk",
+        "BlockDescription": "Velkomstblokk",
+        "NoAvailableMessage": "Ingen tilgjengelig melding å vise nå",
+        "DayOfWeek": {
+          "Monday": "Mandag",
+          "Tuesday": "Tirsdag",
+          "Wednesday": "Onsdag",
+          "Thursday": "Torsdag",
+          "Friday": "Fredag",
+          "Saturday": "Lørdag",
+          "Sunday": "Søndag"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Generelt",
+            "Display": "Visning",
+            "Style": "Stil"
+          },
+          "Display": {
+            "MessageTypeSelect": "Meldingstype",
+            "NoResultText": "Ingen resultattekst",
+            "MessageTemplate": "Meldingsmal",
+            "NotAllowEmpty": "Kan ikke være tom",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Tid på dagen",
+                "StartTime": "Starttid"
+              },
+              "DayOfWeek": {
+                "Label": "Ukedag",
+                "Day": "Dag",
+                "NoValid": "Dagen er allerede valgt."
+              },
+              "DateTime": {
+                "Label": "Dato og tid",
+                "StartTime": "Starttid",
+                "EndTime": "Sluttid",
+                "Overlapped": "Dette intervallet overlapper.",
+                "NoValid": "Sluttiden må være senere enn starttiden."
+              },
+              "Birthday": "Bursdag",
+              "Default": "Standard"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Vis avatar",
+                "Position": {
+                  "Label": "Posisjon",
+                  "Left": "Venstre",
+                  "Right": "Høyre",
+                  "Top": "Topp",
+                  "Bottom": "Bunn"
+                },
+                "Label": "Avatarvisning",
+                "Size": "Størrelse"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
