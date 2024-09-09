@@ -17,7 +17,7 @@
         "FeedbackEmailTemplate": {
           "EmailSubject": "User profile property {{userprofileproperty}} feedback"
         },
-        "SentFeedbackMessage": "Thank you foryour feedback, it has been sent to {{feedback-email}}.",
+        "SentFeedbackMessage": "Thank you for your feedback, it has been sent to {{feedback-email}}.",
         "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}.",
         "BirthdayProperty": {
           "Month": "Month",
@@ -42,7 +42,7 @@
         "CompletedProfileText": "Completed text",
         "NotCompletedProfileText": "Not completed text",
         "ConfirmationCloseEditingFormTitle": "Cancel editing user profile",
-        "ConfirmationCloseEditingFormMessage": "Do you really want to close withunsaved changes?"
+        "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?"
       },
       "ProfileCompletion": {
         "Headline": "My profile",
@@ -59,7 +59,7 @@
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "User profilecompletion",
+          "ProfileCompletionAdmin": "User profile completion",
           "GeneralTabTitle": "General",
           "MappingTabTitle": "Property mappings"
         },
