@@ -15,7 +15,7 @@
         "RequiredFieldMessage": "Dette felt er påkrævet.",
         "Send": "Send",
         "FeedbackEmailTemplate": {
-          "EmailSubject": "Brugerprofil egenskab {{userprofileproperty}} feedback"
+          "EmailSubject": "Feedback til brugerprofilegenskab {{userprofileproperty}}"
         },
         "SentFeedbackMessage": "Tak for din feedback, den er blevet sendt til {{feedback-email}}.",
         "SendFeedbackErrorMessage": "Fejl ved afsendelse af din feedback til {{feedback-email}}.",
@@ -23,8 +23,8 @@
           "Month": "Måned",
           "Day": "Dag"
         },
-        "NoSectionSettingMessage": "Konfigurer venligst egenskabsmappningerne.",
-        "SaveAndClose": "Gemog luk"
+        "NoSectionSettingMessage": "Konfigurer venligst egenskabstilknytningerne.",
+        "SaveAndClose": "Gem og luk"
       },
       "Settings": {
         "Style": "Stil",
@@ -53,19 +53,19 @@
         "YouHaveToStrengthenYourProfileHidePercentage": "Styrk din profil",
         "WelcomeTitle": "Velkommen",
         "WebPart": {
-          "WebPartTitle": "Brugerprofil fremskridt",
-          "WebPartDescription": "Viser din grad af profilfuldførelse."
+          "WebPartTitle": "Opdatering af brugerprofil",
+          "WebPartDescription": "Viser din grad af færdiggørelse af profil."
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdmin": "Brugerprofil fuldførelse",
+          "ProfileCompletionAdmin": "Opdatering af brugerprofil",
           "GeneralTabTitle": "Generelt",
-          "MappingTabTitle": "Egenskabsmappning"
+          "MappingTabTitle": "Egenskabstilknytning"
         },
         "Buttons": {
           "Update": "Opdater",
-          "AddPropertyMapping": "Tilføj mappning",
+          "AddPropertyMapping": "Tilføj tilknytning",
           "AddSection": "Tilføj sektion"
         },
         "Pattern": {
@@ -123,8 +123,8 @@
           "SourceType": "Kildetype",
           "Type": "Type",
           "Property": "Egenskab",
-          "Label": "Mærkat",
-          "CompletenessImpact": "Fuldførelsespåvirkning",
+          "Label": "Etiket",
+          "CompletenessImpact": "Indvirken på færdiggørelse",
           "ReadyOnly": "Skrivebeskyttet",
           "Multiple": "Flere",
           "AllowFeedback": "Tillad feedback",
@@ -149,7 +149,7 @@
           "SourceTypes": {
             "SPUserProfile": "SharePoint brugerprofil",
             "AzureAD": "Azure AD",
-            "OmniaSystemLanguage": "Omnia system sprog"
+            "OmniaSystemLanguage": "Omnia system-sprog"
           }
         }
       }
