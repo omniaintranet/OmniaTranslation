@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Welkomstblok",
+        "BlockDescription": "Welkomstblok",
+        "NoAvailableMessage": "Geen beschikbaar bericht om nu te tonen",
+        "DayOfWeek": {
+          "Monday": "Maandag",
+          "Tuesday": "Dinsdag",
+          "Wednesday": "Woensdag",
+          "Thursday": "Donderdag",
+          "Friday": "Vrijdag",
+          "Saturday": "Zaterdag",
+          "Sunday": "Zondag"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Algemeen",
+            "Display": "Weergave",
+            "Style": "Stijl"
+          },
+          "Display": {
+            "MessageTypeSelect": "Berichttype",
+            "NoResultText": "Geen resultaattekst",
+            "MessageTemplate": "Berichtsjabloon",
+            "NotAllowEmpty": "Mag niet leeg zijn",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Tijd van de dag",
+                "StartTime": "Starttijd"
+              },
+              "DayOfWeek": {
+                "Label": "Dag van de week",
+                "Day": "Dag",
+                "NoValid": "De dag is al geselecteerd."
+              },
+              "DateTime": {
+                "Label": "Datum en tijd",
+                "StartTime": "Starttijd",
+                "EndTime": "Eindtijd",
+                "Overlapped": "Deze interval overlapt.",
+                "NoValid": "De eindtijd moet later zijn dan de starttijd."
+              },
+              "Birthday": "Verjaardag",
+              "Default": "Standaard"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Avatar tonen",
+                "Position": {
+                  "Label": "Positie",
+                  "Left": "Links",
+                  "Right": "Rechts",
+                  "Top": "Boven",
+                  "Bottom": "Onder"
+                },
+                "Label": "Avatar weergave",
+                "Size": "Grootte"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

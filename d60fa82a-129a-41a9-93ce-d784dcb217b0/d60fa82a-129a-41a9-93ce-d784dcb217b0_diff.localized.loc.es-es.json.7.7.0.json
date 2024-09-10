@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Bloque de bienvenida",
+        "BlockDescription": "Bloque de bienvenida",
+        "NoAvailableMessage": "No hay mensajes disponibles para mostrar ahora",
+        "DayOfWeek": {
+          "Monday": "Lunes",
+          "Tuesday": "Martes",
+          "Wednesday": "Miércoles",
+          "Thursday": "Jueves",
+          "Friday": "Viernes",
+          "Saturday": "Sábado",
+          "Sunday": "Domingo"
+        },
+        "Common": {
+          "Sections": {
+            "General": "General",
+            "Display": "Visualización",
+            "Style": "Estilo"
+          },
+          "Display": {
+            "MessageTypeSelect": "Tipo de mensaje",
+            "NoResultText": "Texto sin resultados",
+            "MessageTemplate": "Plantilla de mensaje",
+            "NotAllowEmpty": "No puede estar vacío",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Hora del día",
+                "StartTime": "Hora de inicio"
+              },
+              "DayOfWeek": {
+                "Label": "Día de la semana",
+                "Day": "Día",
+                "NoValid": "El día ya está seleccionado."
+              },
+              "DateTime": {
+                "Label": "Fecha y hora",
+                "StartTime": "Hora de inicio",
+                "EndTime": "Hora de finalización",
+                "Overlapped": "Este intervalo se superpone.",
+                "NoValid": "La hora de finalización debe ser posterior a la hora de inicio."
+              },
+              "Birthday": "Cumpleaños",
+              "Default": "Predeterminado"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Mostrar avatar",
+                "Position": {
+                  "Label": "Posición",
+                  "Left": "Izquierda",
+                  "Right": "Derecha",
+                  "Top": "Arriba",
+                  "Bottom": "Abajo"
+                },
+                "Label": "Visualización de avatar",
+                "Size": "Tamaño"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

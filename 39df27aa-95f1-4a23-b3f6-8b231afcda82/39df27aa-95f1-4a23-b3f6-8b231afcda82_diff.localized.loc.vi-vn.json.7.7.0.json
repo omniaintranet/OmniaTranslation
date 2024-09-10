@@ -1,0 +1,167 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "CloseMessage": "Đóng yêu cầu"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "Update": "Cập nhật",
+        "Agree": "Đồng ý",
+        "Skip": "Bỏ qua",
+        "ChangeProfilePhoto": "Thay đổi hình ảnh",
+        "ChangeProfilePhotoMessage": "Vui lòng lưu ý rằng việc hiển thị hình ảnh có thể mất thời gian.",
+        "Message": "Tin nhắn",
+        "AddFeedback": "Thêm phản hồi",
+        "RequiredFieldMessage": "Trường này là bắt buộc.",
+        "Send": "Gửi",
+        "FeedbackEmailTemplate": {
+          "EmailSubject": "Phản hồi thuộc tínhhồ sơ người dùng {{userprofileproperty}}"
+        },
+        "SentFeedbackMessage": "Cảm ơn bạn đã gửi phản hồi, nó đã được gửi đến {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Lỗi khi gửi phản hồi của bạn đến {{feedback-email}}.",
+        "BirthdayProperty": {
+          "Month": "Tháng",
+          "Day": "Ngày"
+        },
+        "NoSectionSettingMessage": "Vui lòng cấu hình ánh xạ thuộc tính.",
+        "SaveAndClose": "Lưu và đóng"
+      },
+      "Settings": {
+        "Style": "Kiểu",
+        "HideNameInText": "Ẩn tên người dùng trong văn bản",
+        "HidePercentageInText": "Ẩn phần trăm trong văn bản",
+        "HideBlockWhenCompleted": "Ẩn khối khi hoàn thành",
+        "Size": "Kích thước",
+        "BorderSize": "Kích thước viền",
+        "Views": {
+          "Title": "Xem",
+          "Line": "Dòng",
+          "Circle": "Vòng tròn"
+        },
+        "TitleText": "Văn bản tiêu đề",
+        "CompletedProfileText": "Văn bản đã hoàn thành",
+        "NotCompletedProfileText": "Văn bản chưa hoàn thành",
+        "ConfirmationCloseEditingFormTitle": "Hủy chỉnh sửa hồ sơ người dùng",
+        "ConfirmationCloseEditingFormMessage": "Bạn có thực sự muốn đóng mà không lưu các thay đổi?"
+      },
+      "ProfileCompletion": {
+        "Headline": "Hồ sơ của tôi",
+        "StrengthenProfile": "Tăng cường hồ sơ",
+        "Done": "hoàn thành",
+        "YouHaveAStrongProfile": "Bạn có một hồ sơ mạnh mẽ",
+        "YouHaveToStrengthenYourProfile": "Hãy tăng cường hồ sơ của bạn",
+        "YouHaveToStrengthenYourProfileHidePercentage": "Hãy tăng cường hồ sơ của bạn",
+        "WelcomeTitle": "Chào mừng",
+        "WebPart": {
+          "WebPartTitle": "Tiến trình hồ sơ người dùng",
+          "WebPartDescription": "Hiển thị mức độ hoàn thành hồ sơ của bạn."
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "Hoàn thành hồ sơ người dùng",
+          "GeneralTabTitle": "Chung",
+          "MappingTabTitle": "Ánh xạ thuộc tính"
+        },
+        "Buttons": {
+          "Update": "Cập nhật",
+          "AddPropertyMapping": "Thêm ánh xạ",
+          "AddSection": "Thêm phần"
+        },
+        "Pattern": {
+          "ShowDialog": "Hiển thị hộp thoại",
+          "Daily": "Hàng ngày",
+          "Weekly": "Hàng tuần",
+          "Monthly": "Hàng tháng",
+          "Never": "Không bao giờ",
+          "Title": "Tiêu đề",
+          "Description": "Mô tả",
+          "FeedbackEmail": "Email phản hồi",
+          "Levels": "Cấp độ",
+          "WeakLevelPercentage": "Cấp độ phần trăm - Yếu",
+          "GoodLevelPercentage": "Cấp độphần trăm - Tốt",
+          "EveryWeekday": "Mỗi ngày trong tuần",
+          "Every": "Mỗi",
+          "Days": "ngày",
+          "Weeks": "tuần",
+          "Months": "tháng",
+          "DayOfWeeks": {
+            "Monday": "Thứ Hai",
+            "Tuesday": "Thứ Ba",
+            "Wednesday": "Thứ Tư",
+            "Thursday": "Thứ Năm",
+            "Friday": "Thứ Sáu",
+            "Saturday": "Thứ Bảy",
+            "Sunday": "Chủ Nhật",
+            "Day": "Ngày",
+            "Weekday": "Ngày trong tuần",
+            "WeekendDay": "Ngày cuối tuần"
+          },
+          "Day": "Ngày",
+          "OfEvery": "của mỗi",
+          "The": "Ngày",
+          "WeekOfMonth": {
+            "First": "Thứnhất",
+            "Second": "Thứ hai",
+            "Third": "Thứ ba",
+            "Fourth": "Thứ tư",
+            "Last": "Cuối cùng"
+          },
+          "StartDate": "Ngày bắt đầu",
+          "NoEndDate": "Không có ngày kết thúc",
+          "EndBy": "Kết thúc bởi"
+        },
+        "MappingSetting": {
+          "Section": "Phần"
+        },
+        "Section": {
+          "Property": "Thuộc tính",
+          "Name": "Tên",
+          "Description": "Mô tả"
+        },
+        "PropertyMapping": {
+          "SourceType": "Loại nguồn",
+          "Type": "Loại",
+          "Property": "Thuộc tính",
+          "Label": "Nhãn",
+          "CompletenessImpact": "Tác động hoàn thiện",
+          "ReadyOnly": "Chỉđọc",
+          "Multiple": "Nhiều",
+          "AllowFeedback": "Cho phép phản hồi",
+          "CustomTarget": "Mục tiêu tùy chỉnh",
+          "CustomTargetUrl": "URL mục tiêu tùy chỉnh",
+          "DeleteUserProfileCompletionSectionConfirmation": "Bạn có chắc chắn muốn xóa phần này không?",
+          "Confirmation": "Xác nhận",
+          "DisplayTypes": {
+            "ProfilePicture": "Hình ảnh hồ sơ",
+            "Text": "Văn bản",
+            "MultilineText": "Văn bản nhiều dòng",
+            "HtmlText": "HTML",
+            "TermSet": "Bộ thuật ngữ",
+            "Person": "Người"
+          },
+          "CompletenessImpacts": {
+            "High": "Cao",
+            "Medium": "Trung bình",
+            "Low": "Thấp",
+            "None": "Không"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "Hồ sơ người dùng SharePoint",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Ngôn ngữ hệ thống Omnia"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CustomDate": "Ngàytùy chỉnh"
+        }
+      }
+    }
+  }
+}

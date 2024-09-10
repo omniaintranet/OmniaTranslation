@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Willkommensblock",
+        "BlockDescription": "Willkommensblock",
+        "NoAvailableMessage": "Keine verfügbare Nachricht zum Anzeigen",
+        "DayOfWeek": {
+          "Monday": "Montag",
+          "Tuesday": "Dienstag",
+          "Wednesday": "Mittwoch",
+          "Thursday": "Donnerstag",
+          "Friday": "Freitag",
+          "Saturday": "Samstag",
+          "Sunday": "Sonntag"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Allgemein",
+            "Display": "Anzeige",
+            "Style": "Stil"
+          },
+          "Display": {
+            "MessageTypeSelect": "Nachrichtentyp",
+            "NoResultText": "Kein Ergebnistext",
+            "MessageTemplate": "Nachrichtenvorlage",
+            "NotAllowEmpty": "Darf nichtleer sein",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Zeit am Tag",
+                "StartTime": "Startzeit"
+              },
+              "DayOfWeek": {
+                "Label": "Wochentag",
+                "Day": "Tag",
+                "NoValid": "Der Tag ist bereits ausgewählt."
+              },
+              "DateTime": {
+                "Label": "Datum und Uhrzeit",
+                "StartTime": "Startzeit",
+                "EndTime": "Endzeit",
+                "Overlapped": "Dieser Zeitraum überlappt sich.",
+                "NoValid": "Die Endzeit muss später als die Startzeit sein."
+              },
+              "Birthday": "Geburtstag",
+              "Default": "Standard"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Avatar anzeigen",
+                "Position": {
+                  "Label": "Position",
+                  "Left": "Links",
+                  "Right": "Rechts",
+                  "Top": "Oben",
+                  "Bottom": "Unten"
+                },
+                "Label": "Avatar-Anzeige",
+                "Size": "Größe"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

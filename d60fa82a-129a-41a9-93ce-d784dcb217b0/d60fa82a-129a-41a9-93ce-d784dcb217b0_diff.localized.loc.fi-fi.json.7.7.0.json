@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Tervetuloa-lohko",
+        "BlockDescription": "Tervetuloa-lohko",
+        "NoAvailableMessage": "Ei saatavilla olevaa viestiä näytettäväksi tällä hetkellä",
+        "DayOfWeek": {
+          "Monday": "Maanantai",
+          "Tuesday": "Tiistai",
+          "Wednesday": "Keskiviikko",
+          "Thursday": "Torstai",
+          "Friday": "Perjantai",
+          "Saturday": "Lauantai",
+          "Sunday": "Sunnuntai"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Yleinen",
+            "Display": "Näyttö",
+            "Style": "Tyyli"
+          },
+          "Display": {
+            "MessageTypeSelect": "Viestin tyyppi",
+            "NoResultText": "Eitulostekstiä",
+            "MessageTemplate": "Viestipohja",
+            "NotAllowEmpty": "Ei voi olla tyhjä",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Aika päivässä",
+                "StartTime": "Aloitusaika"
+              },
+              "DayOfWeek": {
+                "Label": "Viikonpäivä",
+                "Day": "Päivä",
+                "NoValid": "Päivä on jo valittu."
+              },
+              "DateTime": {
+                "Label": "Päivämäärä ja aika",
+                "StartTime": "Aloitusaika",
+                "EndTime": "Lopetusaika",
+                "Overlapped": "Tämä aikaväli on päällekkäinen.",
+                "NoValid": "Lopetusaika on oltava myöhemmin kuin aloitusaika."
+              },
+              "Birthday": "Syntymäpäivä",
+              "Default": "Oletus"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Näytä avatar",
+                "Position": {
+                  "Label": "Sijainti",
+                  "Left": "Vasen",
+                  "Right": "Oikea",
+                  "Top": "Ylä",
+                  "Bottom": "Ala"
+                },
+                "Label": "Avatarin näyttö",
+                "Size": "Koko"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

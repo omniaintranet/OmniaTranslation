@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Inschakelen van goedkeuringsverzoek",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Typen goedkeuringsverzoek"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Uw zoekopdracht heeft geen resultaten opgeleverd.",
+        "NoSiteToShow": "Er zijn geen sites om weer te geven."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Gepubliceerd document",
+      "SignOffRequest": "Goedkeuringsverzoek",
+      "ThisDocumentHasBeenDeleted": "Dit document is verwijderd.",
+      "Button": {
+        "Confirm": "Bevestigen",
+        "ShowRequests": "Verzoeken weergeven",
+        "HideRequests": "Verzoeken verbergen",
+        "EndUserSignOff": "Goedkeuring door eindgebruiker"
+      },
+      "Banner": {
+        "IndividualRequest": "Ik bevestig dat ik de inhoudvan dit document heb gelezen en begrepen.",
+        "GroupRequest": "{{requestTo}} bevestigt dat wij de inhoud van dit document hebben gelezen en begrepen.",
+        "MultipleRequest": "Er zijn meerdere goedkeuringsverzoeken gerelateerdaan dit document."
+      },
+      "ReadSignOffDocumentNotFound": "Het gelezen goedkeuringsverzoek gerelateerd aan dit document kan niet worden gevonden.",
+      "DefaultMessage": "Ik bevestig dat ik de inhoud van dit document heb gelezen en begrepen."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Add-ons",
+          "Description": "Inschakelen van goedkeuringsverzoeken voor het gepubliceerde document.",
+          "Title": "Goedkeuringsverzoek voor het gepubliceerde document"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Goedkeuringsverzoek maken"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Dit document bevat niet-geaccepteerde wijzigingen. Bekijk en accepteer of wijs ze afvoordat u publiceert."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Vandaag",
+          "CustomDate": "Aangepaste datum"
+        }
+      }
+    }
+  }
+}

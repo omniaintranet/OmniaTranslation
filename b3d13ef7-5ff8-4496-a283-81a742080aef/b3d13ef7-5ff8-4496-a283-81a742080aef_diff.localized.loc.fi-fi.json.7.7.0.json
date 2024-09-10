@@ -1,0 +1,59 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableSignOffRequest": "Ota käyttöön hyväksymispyynnön lähettäminen",
+      "DocumentTemplates": {
+        "SignOffRequestTypes": "Hyväksymispyyntöjen tyypit"
+      }
+    },
+    "PublishedDocumentPicker": {
+      "Messages": {
+        "SearchReturnNoSite": "Hakusi eituottanut tuloksia sivustoista.",
+        "NoSiteToShow": "Näytettäviä sivustoja ei ole."
+      }
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Julkaistu asiakirja",
+      "SignOffRequest": "Hyväksymispyyntö",
+      "ThisDocumentHasBeenDeleted": "Tämä asiakirja on poistettu.",
+      "Button": {
+        "Confirm": "Vahvista",
+        "ShowRequests": "Näytä pyynnöt",
+        "HideRequests": "Piilota pyynnöt",
+        "EndUserSignOff": "Loppukäyttäjän hyväksyntä"
+      },
+      "Banner": {
+        "IndividualRequest": "Vahvistan, että olen lukenut ja ymmärtänyt tämän asiakirjan sisällön.",
+        "GroupRequest": "{{requestTo}} vahvistaa, että olemme lukeneet ja ymmärtäneet tämän asiakirjan sisällön.",
+        "MultipleRequest": "Tähän asiakirjaan liittyy useampi kuin yksi hyväksymispyyntö."
+      },
+      "ReadSignOffDocumentNotFound": "Tähän asiakirjaan liittyvää hyväksymispyyntöä ei löydy.",
+      "DefaultMessage": "Vahvistan, että olen lukenut ja ymmärtänyt tämän asiakirjan sisällön."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInPublishedDocument": {
+          "Category": "Lisäosat",
+          "Description": "Ota käyttöön hyväksymispyynnöt julkaistulle asiakirjalle.",
+          "Title": "Hyväksymispyyntö julkaistulle asiakirjalle"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequest": "Luo hyväksymispyyntö"
+      },
+      "Messages": {
+        "MessageFileHasUnacceptedChanges": "Tämä asiakirja sisältää hyväksymättömiä muutoksia. Käy ne läpi ja hyväksy tai hylkää ne ennen julkaisua."
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "QueryValueOptions": {
+          "Today": "Tänään",
+          "CustomDate": "Mukautettu päivämäärä"
+        }
+      }
+    }
+  }
+}

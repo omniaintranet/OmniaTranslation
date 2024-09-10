@@ -1,0 +1,67 @@
+{
+  "WCM": {
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Khối chào mừng",
+        "BlockDescription": "Khối chào mừng",
+        "NoAvailableMessage": "Không có tin nhắn hiển thị",
+        "DayOfWeek": {
+          "Monday": "Thứ Hai",
+          "Tuesday": "Thứ Ba",
+          "Wednesday": "Thứ Tư",
+          "Thursday": "Thứ Năm",
+          "Friday": "Thứ Sáu",
+          "Saturday": "ThứBảy",
+          "Sunday": "Chủ Nhật"
+        },
+        "Common": {
+          "Sections": {
+            "General": "Chung",
+            "Display": "Hiển thị",
+            "Style": "Kiểu"
+          },
+          "Display": {
+            "MessageTypeSelect": "Loại tin nhắn",
+            "NoResultText": "Không có kết quả",
+            "MessageTemplate": "Mẫu tin nhắn",
+            "NotAllowEmpty": "Không được để trống",
+            "MessageType": {
+              "TimeInDay": {
+                "Label": "Thời gian trong ngày",
+                "StartTime": "Thời gian bắt đầu"
+              },
+              "DayOfWeek": {
+                "Label": "Ngày trong tuần",
+                "Day": "Ngày",
+                "NoValid": "Ngày đã được chọn."
+              },
+              "DateTime": {
+                "Label": "Ngày giờ",
+                "StartTime": "Thời gian bắt đầu",
+                "EndTime": "Thời gian kết thúc",
+                "Overlapped": "Khoảng thời gian này bị chồng chéo.",
+                "NoValid": "Thời gian kết thúc phải sau thời gian bắt đầu."
+              },
+              "Birthday": "Ngày sinh nhật",
+              "Default": "Mặc định"
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Hiển thị avatar",
+                "Position": {
+                  "Label": "Vị trí",
+                  "Left": "Trái",
+                  "Right": "Phải",
+                  "Top": "Trên",
+                  "Bottom": "Dưới"
+                },
+                "Label": "Hiển thị avatar",
+                "Size": "Kích thước"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
