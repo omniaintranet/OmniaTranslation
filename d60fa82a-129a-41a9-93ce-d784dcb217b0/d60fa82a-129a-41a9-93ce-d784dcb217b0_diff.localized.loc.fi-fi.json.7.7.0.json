@@ -22,7 +22,7 @@
           },
           "Display": {
             "MessageTypeSelect": "Viestin tyyppi",
-            "NoResultText": "Eitulostekstiä",
+            "NoResultText": "Ei tulostekstiä",
             "MessageTemplate": "Viestipohja",
             "NotAllowEmpty": "Ei voi olla tyhjä",
             "MessageType": {
