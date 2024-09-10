@@ -9,9 +9,9 @@
         "Agree": "Hyväksy",
         "Skip": "Ohita",
         "ChangeProfilePhoto": "Vaihda kuva",
-        "ChangeProfilePhotoMessage": "Huomaa, että kuvan saatavuus voi kestää hetken.",
+        "ChangeProfilePhotoMessage": "Huomaa, että kuvan päivittyminen voi kestää hetken.",
         "Message": "Viesti",
-        "AddFeedback": "Lisää palaute",
+        "AddFeedback": "Lisää palautetta",
         "RequiredFieldMessage": "Tämä kenttä on pakollinen.",
         "Send": "Lähetä",
         "FeedbackEmailTemplate": {
@@ -23,7 +23,7 @@
           "Month": "Kuukausi",
           "Day": "Päivä"
         },
-        "NoSectionSettingMessage": "Määritä ominaisuuden kuvaukset.",
+        "NoSectionSettingMessage": "Määritä ominaisuuden liitokset.",
         "SaveAndClose": "Tallenna ja sulje"
       },
       "Settings": {
@@ -40,7 +40,7 @@
         },
         "TitleText": "Otsikkoteksti",
         "CompletedProfileText": "Valmis teksti",
-        "NotCompletedProfileText": "Kesken teksti",
+        "NotCompletedProfileText": "Keskeneräinen teksti",
         "ConfirmationCloseEditingFormTitle": "Peruuta käyttäjäprofiilin muokkaus",
         "ConfirmationCloseEditingFormMessage": "Haluatko varmasti sulkea tallentamattomat muutokset?"
       },
@@ -61,11 +61,11 @@
         "Titles": {
           "ProfileCompletionAdmin": "Käyttäjäprofiilin täyttöaste",
           "GeneralTabTitle": "Yleiset",
-          "MappingTabTitle": "Ominaisuusmäppäykset"
+          "MappingTabTitle": "Ominaisuusliitokset"
         },
         "Buttons": {
           "Update": "Päivitä",
-          "AddPropertyMapping": "Lisää mäppäys",
+          "AddPropertyMapping": "Lisää liitos",
           "AddSection": "Lisää osio"
         },
         "Pattern": {
@@ -76,7 +76,7 @@
           "Never": "Ei koskaan",
           "Title": "Otsikko",
           "Description": "Kuvaus",
-          "FeedbackEmail": "Palaute sähköposti",
+          "FeedbackEmail": "Palautesähköposti",
           "Levels": "Tasot",
           "WeakLevelPercentage": "Prosenttitaso - Heikko",
           "GoodLevelPercentage": "Prosenttitaso - Hyvä",
@@ -137,7 +137,7 @@
             "Text": "Teksti",
             "MultilineText": "Usean rivin teksti",
             "HtmlText": "HTML",
-            "TermSet": "Termiryhmä",
+            "TermSet": "Termiryhmä (termset)",
             "Person": "Henkilö"
           },
           "CompletenessImpacts": {
