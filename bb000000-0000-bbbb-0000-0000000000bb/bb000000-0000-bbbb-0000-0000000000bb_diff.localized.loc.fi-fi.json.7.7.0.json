@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Properties": {
+        "Converters": {
+          "Date": "Päivämäärä"
+        }
+      },
+      "PermissionInput": {
+        "AddTenantAdminByFreeText": {
+          "AdminUserName": "Käyttäjänimi",
+          "AdminPlaceholder": "Kirjoita käyttäjänimi"
+        }
+      },
+      "Profilecard": {
+        "SwitchToPublicView": "Vaihda julkiseen näkymään",
+        "SwitchToPrivateView": "Vaihda yksityiseen näkymään"
+      }
+    }
+  }
+}
