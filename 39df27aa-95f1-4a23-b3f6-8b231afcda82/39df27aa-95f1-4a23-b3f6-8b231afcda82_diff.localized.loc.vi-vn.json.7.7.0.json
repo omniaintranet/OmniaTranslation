@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Trả lời",
+      "UserAnswer": "Trả lời của người dùng",
+      "Point": "Điểm",
+      "UserDisplayName": "Tênhiển thị của người dùng",
+      "CreatedAt": "Được tạo lúc",
+      "CreatedBy": "Được tạo bởi"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Thêm thuộc tính",
+          "EditProperty": "Chỉnh sửa thuộc tính",
+          "ScheduleTitle": "Lịch trình"
+        },
+        "Buttons": {
+          "AddProperty": "Thêm thuộc tính"
+        },
+        "Pattern": {
+          "NotSet": "Chưa được thiết lập"
+        },
+        "Table": {
+          "Name": "Tên",
+          "DataSource": "Nguồn dữ liệu",
+          "CompletenessImpact": "Tác động đến độ hoàn thiện",
+          "DuplicateError": "Một thuộc tính với tên này đã tồn tại."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Vui lòng đảm bảo người dùng hiện tại là quản trị viên trang, điều này cần thiết để thực hiện thao tác này."
+      }
+    }
+  }
+}

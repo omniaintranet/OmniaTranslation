@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Eigenschaften": {
+        "Konverter": {
+          "Datum": "Datum"
+        }
+      },
+      "PermissionInput": {
+        "AddTenantAdminByFreeText": {
+          "AdminBenutzername": "Benutzername",
+          "AdminPlatzhalter": "Benutzernamen eingeben"
+        }
+      },
+      "Profilecard": {
+        "ZuÖffentlicherAnsichtWechseln": "Zu öffentlicher Ansicht wechseln",
+        "ZuPrivaterAnsichtWechseln": "Zu privater Ansicht wechseln"
+      }
+    }
+  }
+}

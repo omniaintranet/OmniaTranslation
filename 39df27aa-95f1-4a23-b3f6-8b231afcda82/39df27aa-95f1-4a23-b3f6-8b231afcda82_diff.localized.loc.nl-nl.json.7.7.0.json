@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Antwoord",
+      "UserAnswer": "Gebruikersantwoord",
+      "Point": "Punt",
+      "UserDisplayName": "Gebruikersweergavenaam",
+      "CreatedAt": "Aangemaakt op",
+      "CreatedBy": "Aangemaakt door"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Eigenschap toevoegen",
+          "EditProperty": "Eigenschap bewerken",
+          "ScheduleTitle": "Planning"
+        },
+        "Buttons": {
+          "AddProperty": "Eigenschap toevoegen"
+        },
+        "Pattern": {
+          "NotSet": "Niet ingesteld"
+        },
+        "Table": {
+          "Name": "Naam",
+          "DataSource": "Gegevensbron",
+          "CompletenessImpact": "Impact op volledigheid",
+          "DuplicateError": "Er bestaat al een eigenschap met deze naam."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Zorg ervoor dat de huidige gebruiker een sitebeheerder is, dit is nodig om deze bewerking uit te voeren."
+      }
+    }
+  }
+}

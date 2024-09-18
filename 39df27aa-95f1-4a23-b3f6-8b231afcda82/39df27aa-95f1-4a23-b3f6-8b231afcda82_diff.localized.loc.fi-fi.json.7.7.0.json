@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Vastaus",
+      "UserAnswer": "Käyttäjän vastaus",
+      "Point": "Piste",
+      "UserDisplayName": "Käyttäjän näyttönimi",
+      "CreatedAt": "Luotu",
+      "CreatedBy": "Luonut"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Lisää ominaisuus",
+          "EditProperty": "Muokkaa ominaisuutta",
+          "ScheduleTitle": "Aikataulu"
+        },
+        "Buttons": {
+          "AddProperty": "Lisää ominaisuus"
+        },
+        "Pattern": {
+          "NotSet": "Ei asetettu"
+        },
+        "Table": {
+          "Name": "Nimi",
+          "DataSource": "Tietolähde",
+          "CompletenessImpact": "Täydellisyyden vaikutus",
+          "DuplicateError": "Ominaisuus tällä nimellä on jo olemassa."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Varmista, että nykyinen käyttäjä on sivuston ylläpitäjä, tämä toiminto vaatii sitä."
+      }
+    }
+  }
+}

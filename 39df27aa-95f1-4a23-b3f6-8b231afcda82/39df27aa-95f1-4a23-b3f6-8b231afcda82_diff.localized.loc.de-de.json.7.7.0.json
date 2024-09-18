@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Antwort",
+      "UserAnswer": "Benutzerantwort",
+      "Point": "Punkt",
+      "UserDisplayName": "Benutzeranzeigename",
+      "CreatedAt": "Erstellt am",
+      "CreatedBy": "Erstellt von"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Eigenschaft hinzufügen",
+          "EditProperty": "Eigenschaft bearbeiten",
+          "ScheduleTitle": "Zeitplan"
+        },
+        "Buttons": {
+          "AddProperty": "Eigenschaft hinzufügen"
+        },
+        "Pattern": {
+          "NotSet": "Nicht festgelegt"
+        },
+        "Table": {
+          "Name": "Name",
+          "DataSource": "Datenquelle",
+          "CompletenessImpact": "Vollständigkeitsauswirkung",
+          "DuplicateError": "Eine Eigenschaft mit diesem Namen existiert bereits."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Bitte stellen Sie sicher, dass der aktuelleBenutzer ein Site-Administrator ist. Dies ist erforderlich, um diese Operation auszuführen."
+      }
+    }
+  }
+}
