@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Svar",
+      "UserAnswer": "Användarsvar",
+      "Point": "Poäng",
+      "UserDisplayName": "Användarens visningsnamn",
+      "CreatedAt": "Skapad den",
+      "CreatedBy": "Skapad av"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Lägg till egenskap",
+          "EditProperty": "Redigera egenskap",
+          "ScheduleTitle": "Schema"
+        },
+        "Buttons": {
+          "AddProperty": "Lägg till egenskap"
+        },
+        "Pattern": {
+          "NotSet": "Inte angiven"
+        },
+        "Table": {
+          "Name": "Namn",
+          "DataSource": "Datakälla",
+          "CompletenessImpact": "Effekt på fullständighet",
+          "DuplicateError": "En egenskap med detta namn finns redan."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Se till att den aktuella användaren är en webbplatsadministratör, det krävs för att utföra denna åtgärd."
+      }
+    }
+  }
+}
