@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Properties": {
+        "Converters": {
+          "Date": "Datum"
+        }
+      },
+      "PermissionInput": {
+        "AddTenantAdminByFreeText": {
+          "AdminUserName": "Gebruikersnaam",
+          "AdminPlaceholder": "Voer gebruikersnaam in"
+        }
+      },
+      "Profilecard": {
+        "SwitchToPublicView": "Schakel over naar openbare weergave",
+        "SwitchToPrivateView": "Schakel over naar privéweergave"
+      }
+    }
+  }
+}
