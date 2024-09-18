@@ -5,27 +5,27 @@
       "UserAnswer": "User answer",
       "Point": "Point",
       "UserDisplayName": "User display name",
-      "CreatedAt": "Created At",
-      "CreatedBy": "Created By"
+      "CreatedAt": "Created at",
+      "CreatedBy": "Created by"
     },
     "UserProfileCompletion": {
       "AdminSettings": {
         "Titles": {
-          "AddProperty": "Add Property",
-          "EditProperty": "Edit Property",
+          "AddProperty": "Add property",
+          "EditProperty": "Edit property",
           "ScheduleTitle": "Schedule"
         },
         "Buttons": {
-          "AddProperty": "Add Property"
+          "AddProperty": "Add property"
         },
         "Pattern": {
           "NotSet": "Not set"
         },
         "Table": {
           "Name": "Name",
-          "DataSource": "Data Source",
-          "CompletenessImpact": "Completeness Impact",
-          "DuplicateError": "Property with this name already exists."
+          "DataSource": "Data source",
+          "CompletenessImpact": "Completeness impact",
+          "DuplicateError": "A property with this name already exists."
         }
       }
     }
@@ -33,7 +33,7 @@
   "OmniaTeamCollaboration": {
     "TeamCollaborationApp": {
       "AttachSite": {
-        "OnpremMissingPermissionErrorMessage": "Please to ensure the current user is a site admin to perform this operation"
+        "OnpremMissingPermissionErrorMessage": "Please ensure the current user is a site admin, it's needed to perform this operation."
       }
     }
   }
