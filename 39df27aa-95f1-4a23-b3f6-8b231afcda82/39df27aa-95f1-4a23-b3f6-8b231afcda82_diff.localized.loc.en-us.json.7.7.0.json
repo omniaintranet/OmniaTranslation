@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Answer",
+      "UserAnswer": "User answer",
+      "Point": "Point",
+      "UserDisplayName": "User display name",
+      "CreatedAt": "Created At",
+      "CreatedBy": "Created By"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Add Property",
+          "EditProperty": "Edit Property",
+          "ScheduleTitle": "Schedule"
+        },
+        "Buttons": {
+          "AddProperty": "Add Property"
+        },
+        "Pattern": {
+          "NotSet": "Not set"
+        },
+        "Table": {
+          "Name": "Name",
+          "DataSource": "Data Source",
+          "CompletenessImpact": "Completeness Impact",
+          "DuplicateError": "Property with this name already exists."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Please to ensure the current user is a site admin to perform this operation"
+      }
+    }
+  }
+}
