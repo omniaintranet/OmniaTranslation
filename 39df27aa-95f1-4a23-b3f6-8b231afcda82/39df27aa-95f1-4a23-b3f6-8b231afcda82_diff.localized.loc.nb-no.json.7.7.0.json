@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Svar",
+      "UserAnswer": "Brukersvar",
+      "Point": "Poeng",
+      "UserDisplayName": "Brukervisningsnavn",
+      "CreatedAt": "Opprettet den",
+      "CreatedBy": "Opprettet av"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Titles": {
+          "AddProperty": "Legg tilegenskap",
+          "EditProperty": "Rediger egenskap",
+          "ScheduleTitle": "Planlegg"
+        },
+        "Buttons": {
+          "AddProperty": "Legg til egenskap"
+        },
+        "Pattern": {
+          "NotSet": "Ikke satt"
+        },
+        "Table": {
+          "Name": "Navn",
+          "DataSource": "Datakilde",
+          "CompletenessImpact": "Fullstendighetspåvirkning",
+          "DuplicateError": "En egenskap med dette navnet finnes allerede."
+        }
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Vennligst forsikre deg om at den nåværendebrukeren er en nettstedadministrator, det er nødvendig for å utføre denne operasjonen."
+      }
+    }
+  }
+}
