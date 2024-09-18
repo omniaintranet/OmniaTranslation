@@ -24,7 +24,7 @@
         "Table": {
           "Name": "Namn",
           "DataSource": "Datakälla",
-          "CompletenessImpact": "Effekt på fullständighet",
+          "CompletenessImpact": "Effekt när klar",
           "DuplicateError": "En egenskap med detta namn finns redan."
         }
       }
