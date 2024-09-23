@@ -2,9 +2,9 @@
   "OmniaWorkplace": {
     "Forms": {
       "Answer": "Svar",
-      "UserAnswer": "Bruger svar",
+      "UserAnswer": "Brugersvar",
       "Point": "Point",
-      "UserDisplayName": "Bruger visningsnavn",
+      "UserDisplayName": "Visningsnavn",
       "CreatedAt": "Oprettet den",
       "CreatedBy": "Oprettet af"
     },
@@ -24,8 +24,8 @@
         "Table": {
           "Name": "Navn",
           "DataSource": "Datakilde",
-          "CompletenessImpact": "Fuldstændighedspåvirkning",
-          "DuplicateError": "En egenskab med dette navn findes allerede."
+          "CompletenessImpact": "Indvirken på færdiggørelse",
+          "DuplicateError": "Der er allerede en egenskab med dette navn"
         }
       }
     }
@@ -33,7 +33,7 @@
   "OmniaTeamCollaboration": {
     "TeamCollaborationApp": {
       "AttachSite": {
-        "OnpremMissingPermissionErrorMessage": "Sørg venligst for, at den aktuelle bruger er en webstedsadministrator, det er nødvendigt for at udføre denne handling."
+        "OnpremMissingPermissionErrorMessage": "Sørg venligst for, at den aktuelle bruger er webstedsadministrator. Det er nødvendigt for at udføre handlingen."
       }
     }
   }
