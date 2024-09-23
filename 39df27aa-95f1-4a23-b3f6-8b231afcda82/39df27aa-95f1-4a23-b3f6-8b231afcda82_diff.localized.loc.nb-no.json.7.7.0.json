@@ -4,7 +4,7 @@
       "Answer": "Svar",
       "UserAnswer": "Brukersvar",
       "Point": "Poeng",
-      "UserDisplayName": "Brukervisningsnavn",
+      "UserDisplayName": "Visningsnavn",
       "CreatedAt": "Opprettet den",
       "CreatedBy": "Opprettet av"
     },
@@ -24,7 +24,7 @@
         "Table": {
           "Name": "Navn",
           "DataSource": "Datakilde",
-          "CompletenessImpact": "Fullstendighetspåvirkning",
+          "CompletenessImpact": "Påvirkning på fullstendighet",
           "DuplicateError": "En egenskap med dette navnet finnes allerede."
         }
       }
@@ -33,7 +33,7 @@
   "OmniaTeamCollaboration": {
     "TeamCollaborationApp": {
       "AttachSite": {
-        "OnpremMissingPermissionErrorMessage": "Vennligst forsikre deg om at den nåværendebrukeren er en nettstedadministrator, det er nødvendig for å utføre denne operasjonen."
+        "OnpremMissingPermissionErrorMessage": "Vennligst forsikre deg om at den nåværendebrukeren er en nettstedadministrator. Det er nødvendig for å utføre denne operasjonen."
       }
     }
   }
