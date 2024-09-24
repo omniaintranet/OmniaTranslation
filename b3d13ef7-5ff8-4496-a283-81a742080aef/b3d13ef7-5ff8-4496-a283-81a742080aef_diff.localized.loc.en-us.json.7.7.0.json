@@ -1,0 +1,7 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "All the sign-off requests for this document have been completed."
+    }
+  }
+}
