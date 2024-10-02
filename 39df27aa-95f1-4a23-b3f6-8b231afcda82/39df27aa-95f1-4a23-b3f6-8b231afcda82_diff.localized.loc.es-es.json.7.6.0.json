@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Respuesta",
+      "UserAnswer": "Respuesta del usuario",
+      "Point": "Punto",
+      "UserDisplayName": "Nombre de usuario",
+      "CreatedAt": "Creado en",
+      "CreatedBy": "Creado por"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Asegúrese de que el usuario actual sea un administrador del sitio. Es necesario para esta operación."
+      }
+    }
+  }
+}
