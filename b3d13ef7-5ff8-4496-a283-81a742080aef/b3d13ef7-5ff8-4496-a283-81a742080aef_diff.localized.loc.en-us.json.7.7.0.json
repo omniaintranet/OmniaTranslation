@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "All the sign-off requests for this document have been completed."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Add-ons",
+          "Description": "Enable the possibility to create sign-off requests for controlled documents.",
+          "Title": "Sign-off request for controlled documents"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Create sign-off request"
+      }
+    }
+  }
+}
