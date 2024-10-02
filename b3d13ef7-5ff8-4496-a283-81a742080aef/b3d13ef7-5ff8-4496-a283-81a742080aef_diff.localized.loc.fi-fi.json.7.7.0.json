@@ -1,7 +1,7 @@
 {
   "ODM": {
     "SignOffRequest": {
-      "ReadSignOffRequestComplete": "Kaikkitämän asiakirjan hyväksyntäpyynnöt on suoritettu."
+      "ReadSignOffRequestComplete": "Kaikki tämän asiakirjan hyväksyntäpyynnöt on suoritettu."
     },
     "Core": {
       "Features": {
