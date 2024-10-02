@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Forespørgsler"
+      },
+      "Buttons": {
+        "AddQuery": "Tilføj forespørgsel"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alle forespørgsler",
+            "RequestedByMe": "Forespurgt af mig",
+            "TargetedToMe": "Målrettet tilmig"
+          },
+          "Properties": {
+            "TitleAndLink": "Titel og link",
+            "Description": "Beskrivelse",
+            "Requested": "Forespurgt",
+            "RequestedBy": "Forespurgt af",
+            "Status": "Status",
+            "ProgressStatus": "Fremskridtsstatus",
+            "RequestSentTo": "Forespørgsel sendt til",
+            "RequestsCompleted": "Forespørgsler fuldført",
+            "TotalNoOfRequests": "Samlet antal forespørgsler",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Åben",
+            "Close": "Lukket",
+            "Pending": "Afventer",
+            "Error": "Fejl",
+            "Scheduled": "Planlagt"
+          }
+        }
+      }
+    }
+  }
+}
