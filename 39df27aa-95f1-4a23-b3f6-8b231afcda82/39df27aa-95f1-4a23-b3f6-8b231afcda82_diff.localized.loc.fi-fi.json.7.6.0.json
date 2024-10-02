@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Vastaus",
+      "UserAnswer": "Käyttäjän vastaus",
+      "Point": "Piste",
+      "UserDisplayName": "Käyttäjän näyttönimi",
+      "CreatedAt": "Luotu",
+      "CreatedBy": "Luonut"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Varmista, että nykyinen käyttäjä on sivuston ylläpitäjä. Se tarvitaan tätä toimintoa varten."
+      }
+    }
+  }
+}
