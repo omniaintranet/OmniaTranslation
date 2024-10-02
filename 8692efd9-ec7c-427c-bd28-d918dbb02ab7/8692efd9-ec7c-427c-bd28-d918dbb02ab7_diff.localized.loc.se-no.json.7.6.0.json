@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Guhkkit"
+      },
+      "Buttons": {
+        "AddQuery": "Guhkit guhkki"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Buot rivdet",
+            "RequestedByMe": "Mun ásahan",
+            "TargetedToMe": "Mun čuovvova"
+          },
+          "Properties": {
+            "TitleAndLink": "Ovdamearkkat ja čujuhus",
+            "Description": "Dávdda",
+            "Requested": "Ásahuvvon",
+            "RequestedBy": "Ásahuvvonolbmot",
+            "Status": "Status",
+            "ProgressStatus": "Progressema status",
+            "RequestSentTo": "Ásahus vuostá",
+            "RequestsCompleted": "Ásahusat leaba čállánan",
+            "TotalNoOfRequests": "Ásahusat mii leat",
+            "Type": "Tyyppi"
+          },
+          "RequestStatus": {
+            "Open": "Rievdaduvvon",
+            "Close": "Gorahallan",
+            "Pending": "Čuovvova",
+            "Error": "Válddálaš",
+            "Scheduled": "Gaskkas"
+          }
+        }
+      }
+    }
+  }
+}

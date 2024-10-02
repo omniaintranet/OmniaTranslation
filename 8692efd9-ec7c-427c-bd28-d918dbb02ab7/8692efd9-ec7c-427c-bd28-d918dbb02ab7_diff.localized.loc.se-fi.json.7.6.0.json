@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Guhkkit"
+      },
+      "Buttons": {
+        "AddQuery": "Addit guhkki"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Buot jearahallat",
+            "RequestedByMe": "Jearahallat mu mielde",
+            "TargetedToMe": "Jearahallatmu mielde"
+          },
+          "Properties": {
+            "TitleAndLink": "Ovdamearkka ja čujuhus",
+            "Description": "Dávddašuvdna",
+            "Requested": "Jearahallan",
+            "RequestedBy": "Jearahallan olbmot",
+            "Status": "Stáhtut",
+            "ProgressStatus": "Progresse stáhtut",
+            "RequestSentTo": "Jearahallan sáddejuvvon",
+            "RequestsCompleted": "Jearahallat leigga",
+            "TotalNoOfRequests": "Jearahallat molsa",
+            "Type": "Tyyppi"
+          },
+          "RequestStatus": {
+            "Open": "Rievdaduvvon",
+            "Close": "Gorahallan",
+            "Pending": "Čuovvovaš",
+            "Error": "Válddálaš",
+            "Scheduled": "Gaskkas"
+          }
+        }
+      }
+    }
+  }
+}

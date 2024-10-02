@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "질의"
+      },
+      "Buttons": {
+        "AddQuery": "질의 추가"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "모든 요청",
+            "RequestedByMe": "내가 요청한",
+            "TargetedToMe": "나에게 대상"
+          },
+          "Properties": {
+            "TitleAndLink": "제목 및 링크",
+            "Description": "설명",
+            "Requested": "요청됨",
+            "RequestedBy": "요청자",
+            "Status": "상태",
+            "ProgressStatus": "진행 상태",
+            "RequestSentTo": "요청 보낸 대상",
+            "RequestsCompleted": "완료된 요청",
+            "TotalNoOfRequests": "총 요청 수",
+            "Type": "유형"
+          },
+          "RequestStatus": {
+            "Open": "열림",
+            "Close": "닫힘",
+            "Pending": "보류중",
+            "Error": "오류",
+            "Scheduled": "예약됨"
+          }
+        }
+      }
+    }
+  }
+}

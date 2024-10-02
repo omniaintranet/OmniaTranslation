@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Antwoord",
+      "UserAnswer": "Gebruikersantwoord",
+      "Point": "Punt",
+      "UserDisplayName": "Gebruikersweergavenaam",
+      "CreatedAt": "Aangemaakt op",
+      "CreatedBy": "Aangemaakt door"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Zorg ervoor dat de huidige gebruiker een sitebeheerder is. Dit is vereist voor deze operatie."
+      }
+    }
+  }
+}
