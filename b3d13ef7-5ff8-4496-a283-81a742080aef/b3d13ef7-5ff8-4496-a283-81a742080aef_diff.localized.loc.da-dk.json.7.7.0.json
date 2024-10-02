@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Alle sign-off-anmodninger for dette dokument er blevet fuldført."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tilføjelser",
+          "Description": "Aktiver muligheden for at oprette sign-off-anmodninger for kontrollerede dokumenter.",
+          "Title": "Sign-off-anmodning for kontrollerede dokumenter"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Opret sign-off-anmodning"
+      }
+    }
+  }
+}
