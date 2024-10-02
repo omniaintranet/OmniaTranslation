@@ -1,2 +1,2 @@
 # OmniaTranslation
-Automatic repo for omnia translations 
+Automatic repo for omnia translations  
