@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Galderak"
+      },
+      "Buttons": {
+        "AddQuery": "Galdera gehitu"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Eskaerak guztiak",
+            "RequestedByMe": "Nire eskaerak",
+            "TargetedToMe": "Niretzat zuzendutakoak"
+          },
+          "Properties": {
+            "TitleAndLink": "Izenburua eta esteka",
+            "Description": "Deskribapena",
+            "Requested": "Eskaera eginda",
+            "RequestedBy": "Eskaera egilea",
+            "Status": "Egoera",
+            "ProgressStatus": "Aurrerapen egoera",
+            "RequestSentTo": "Eskaera bidali zaiotza",
+            "RequestsCompleted": "Eskaerak amaituta",
+            "TotalNoOfRequests": "Eskaerak guztira",
+            "Type": "Mota"
+          },
+          "RequestStatus": {
+            "Open": "Ireki",
+            "Close": "Itxi",
+            "Pending": "Zain",
+            "Error": "Errorea",
+            "Scheduled": "Egitarauan"
+          }
+        }
+      }
+    }
+  }
+}
