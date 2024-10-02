@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Päringud"
+      },
+      "Buttons": {
+        "AddQuery": "Lisa päring"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Kõik päringud",
+            "RequestedByMe": "Minu poolt taotletud",
+            "TargetedToMe": "Minu jaoks suunatud"
+          },
+          "Properties": {
+            "TitleAndLink": "Pealkiri ja link",
+            "Description": "Kirjeldus",
+            "Requested": "Taotletud",
+            "RequestedBy": "Taotletudpoolt",
+            "Status": "Staatus",
+            "ProgressStatus": "Edenemise staatus",
+            "RequestSentTo": "Päring saadetud",
+            "RequestsCompleted": "Valmis päringud",
+            "TotalNoOfRequests": "Päringute koguarv",
+            "Type": "Tüüp"
+          },
+          "RequestStatus": {
+            "Open": "Avatud",
+            "Close": "Suletud",
+            "Pending": "Ootel",
+            "Error": "Viga",
+            "Scheduled": "Planeeritud"
+          }
+        }
+      }
+    }
+  }
+}
