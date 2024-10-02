@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Kaikkitämän asiakirjan hyväksyntäpyynnöt on suoritettu."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Lisäosat",
+          "Description": "Mahdollistaa hyväksyntäpyyntöjen luomisen hallittuihin asiakirjoihin.",
+          "Title": "Hyväksyntäpyyntö hallituille asiakirjoille"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Luo hyväksyntäpyyntö"
+      }
+    }
+  }
+}

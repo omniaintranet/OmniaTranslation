@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Alle signeringssøknader for dette dokumentet er fullført."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tillegg",
+          "Description": "Aktiver muligheten til å opprette signeringssøknader for kontrollerte dokumenter.",
+          "Title": "Signeringssøknad for kontrollerte dokumenter"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Opprett signeringssøknad"
+      }
+    }
+  }
+}

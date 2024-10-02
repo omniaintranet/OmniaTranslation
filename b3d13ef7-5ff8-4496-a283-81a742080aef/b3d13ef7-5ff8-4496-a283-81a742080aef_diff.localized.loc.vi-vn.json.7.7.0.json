@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Tất cảcác yêu cầu ký duyệt cho tài liệu này đã được hoàn thành."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tiện ích bổ sung",
+          "Description": "Cho phép tạo yêu cầu ký duyệt cho tài liệu được kiểm soát.",
+          "Title": "Yêu cầu ký duyệt cho tài liệu được kiểm soát"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Tạo yêu cầu ký duyệt"
+      }
+    }
+  }
+}

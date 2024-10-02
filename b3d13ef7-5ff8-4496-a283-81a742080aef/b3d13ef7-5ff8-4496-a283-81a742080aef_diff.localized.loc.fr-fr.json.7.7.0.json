@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Toutesles demandes de validation pour ce document ont été complétées."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Compléments",
+          "Description": "Permettre la possibilité de créer des demandes de validation pour les documents contrôlés.",
+          "Title": "Demande de validation pourles documents contrôlés"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Créer une demande de validation"
+      }
+    }
+  }
+}
