@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Se hancompletado todas las solicitudes de aprobación para este documento."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Complementos",
+          "Description": "Permite la posibilidad de crear solicitudes de aprobación para documentos controlados.",
+          "Title": "Solicitud de aprobación para documentos controlados"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Crear solicitud de aprobación"
+      }
+    }
+  }
+}
