@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Svar",
+      "UserAnswer": "Brugersvar",
+      "Point": "Point",
+      "UserDisplayName": "Brugerens visningsnavn",
+      "CreatedAt": "Oprettet den",
+      "CreatedBy": "Oprettet af"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Sørg venligst for, at den aktuelle bruger er en webstedsadministrator. Det er nødvendigt for denne handling."
+      }
+    }
+  }
+}
