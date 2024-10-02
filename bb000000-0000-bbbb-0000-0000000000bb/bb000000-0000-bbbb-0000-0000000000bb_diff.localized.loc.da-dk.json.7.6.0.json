@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "IsExternal": "Er ekstern"
+        }
+      },
+      "PermissionInput": {
+        "AddTenantAdminByFreeText": {
+          "AdminUserName": "Brugernavn",
+          "AdminPlaceholder": "Indtast brugernavn"
+        }
+      }
+    }
+  }
+}
