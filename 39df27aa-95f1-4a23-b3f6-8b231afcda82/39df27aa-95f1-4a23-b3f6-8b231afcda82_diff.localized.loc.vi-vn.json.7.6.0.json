@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Trả lời",
+      "UserAnswer": "Trả lời của người dùng",
+      "Point": "Điểm",
+      "UserDisplayName": "Tênhiển thị của người dùng",
+      "CreatedAt": "Được tạo lúc",
+      "CreatedBy": "Được tạo bởi"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Vui lòng đảm bảo rằng người dùng hiện tại là quản trị viên trang web. Điều này cần thiết cho hoạt động này."
+      }
+    }
+  }
+}
