@@ -1,0 +1,21 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "ReadSignOffRequestComplete": "Alle ondertekeningsverzoeken voor dit document zijn voltooid."
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Add-ons",
+          "Description": "Maak het mogelijk om ondertekeningsverzoeken te maken voor gecontroleerde documenten.",
+          "Title": "Ondertekeningsverzoek voor gecontroleerde documenten"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Maak ondertekeningsverzoek"
+      }
+    }
+  }
+}
