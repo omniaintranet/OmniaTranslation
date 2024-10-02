@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "الاستعلامات"
+      },
+      "Buttons": {
+        "AddQuery": "إضافة استعلام"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "جميع الطلبات",
+            "RequestedByMe": "طلبتها أنا",
+            "TargetedToMe": "مستهدفة لي"
+          },
+          "Properties": {
+            "TitleAndLink": "العنوان والرابط",
+            "Description": "الوصف",
+            "Requested": "تم الطلب",
+            "RequestedBy": "طلب بواسطة",
+            "Status": "الحالة",
+            "ProgressStatus": "حالة التقدم",
+            "RequestSentTo": "تم إرسال الطلب إلى",
+            "RequestsCompleted": "تم إكمال الطلبات",
+            "TotalNoOfRequests": "إجمالي عدد الطلبات",
+            "Type": "النوع"
+          },
+          "RequestStatus": {
+            "Open": "مفتوح",
+            "Close": "مغلق",
+            "Pending": "معلق",
+            "Error": "خطأ",
+            "Scheduled": "مجدول"
+          }
+        }
+      }
+    }
+  }
+}
