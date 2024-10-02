@@ -1,7 +1,7 @@
 {
   "ODM": {
     "SignOffRequest": {
-      "ReadSignOffRequestComplete": "Alla signeringbegäranden för detta dokument har slutförts."
+      "ReadSignOffRequestComplete": "Alla signeringsbegäranden för detta dokument har slutförts."
     },
     "Core": {
       "Features": {
