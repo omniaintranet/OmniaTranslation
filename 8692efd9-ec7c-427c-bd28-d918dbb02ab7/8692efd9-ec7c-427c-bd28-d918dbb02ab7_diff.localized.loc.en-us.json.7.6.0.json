@@ -10,12 +10,12 @@
       "Settings": {
         "SignOffRequest": {
           "Scopes": {
-            "AllRequests": "All Requests",
+            "AllRequests": "All requests",
             "RequestedByMe": "Requested by me",
             "TargetedToMe": "Targeted to me"
           },
           "Properties": {
-            "TitleAndLink": "Title and Link",
+            "TitleAndLink": "Title and link",
             "Description": "Description",
             "Requested": "Requested",
             "RequestedBy": "Requested by",
@@ -23,7 +23,7 @@
             "ProgressStatus": "Progress Status",
             "RequestSentTo": "Request sent to",
             "RequestsCompleted": "Requests completed",
-            "TotalNoOfRequests": "Total no of requests",
+            "TotalNoOfRequests": "Total number of requests",
             "Type": "Type"
           },
           "RequestStatus": {
