@@ -1,0 +1,19 @@
+{
+  "OmniaWorkplace": {
+    "Forms": {
+      "Answer": "Svar",
+      "UserAnswer": "Användarsvar",
+      "Point": "Poäng",
+      "UserDisplayName": "Användarens visningsnamn",
+      "CreatedAt": "Skapad den",
+      "CreatedBy": "Skapad av"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationApp": {
+      "AttachSite": {
+        "OnpremMissingPermissionErrorMessage": "Var god se till att den aktuella användaren är en webbplatsadministratör. Det krävs för denna operation."
+      }
+    }
+  }
+}
