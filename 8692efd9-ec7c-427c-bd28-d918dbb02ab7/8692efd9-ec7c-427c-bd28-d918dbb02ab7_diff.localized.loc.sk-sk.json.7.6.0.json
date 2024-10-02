@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Dopyty"
+      },
+      "Buttons": {
+        "AddQuery": "Pridať dopyt"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Všetky žiadosti",
+            "RequestedByMe": "Požiadané mnou",
+            "TargetedToMe": "Zamerané na mňa"
+          },
+          "Properties": {
+            "TitleAndLink": "Názov a odkaz",
+            "Description": "Popis",
+            "Requested": "Požiadané",
+            "RequestedBy": "Požiadal",
+            "Status": "Stav",
+            "ProgressStatus": "Stav pokroku",
+            "RequestSentTo": "Žiadosť odoslaná",
+            "RequestsCompleted": "Dokončené žiadosti",
+            "TotalNoOfRequests": "Celkový počet žiadostí",
+            "Type": "Typ"
+          },
+          "RequestStatus": {
+            "Open": "Otvorené",
+            "Close": "Uzavreté",
+            "Pending": "Čakajúce",
+            "Error": "Chyba",
+            "Scheduled": "Naplánované"
+          }
+        }
+      }
+    }
+  }
+}
