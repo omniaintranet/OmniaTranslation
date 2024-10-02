@@ -1,20 +1,20 @@
 {
   "ODM": {
     "SignOffRequest": {
-      "ReadSignOffRequestComplete": "Alle sign-off-anmodninger for dette dokument er blevet fuldført."
+      "ReadSignOffRequestComplete": "Alle anmodninger om kvittering for dette dokument er blevet fuldført."
     },
     "Core": {
       "Features": {
         "SignOffRequestInControlledDocument": {
           "Category": "Tilføjelser",
-          "Description": "Aktiver muligheden for at oprette sign-off-anmodninger for kontrollerede dokumenter.",
-          "Title": "Sign-off-anmodning for kontrollerede dokumenter"
+          "Description": "Aktiver muligheden for at oprette anmodninger om kvittering for kontrollerede dokumenter.",
+          "Title": "Anmodning om kvittering for kontrollerede dokumenter"
         }
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequests": "Opret sign-off-anmodning"
+        "CreateSignOffRequests": "Opret anmodning om kvittering"
       }
     }
   }
