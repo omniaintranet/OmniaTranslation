@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Sorgular"
+      },
+      "Buttons": {
+        "AddQuery": "Sorgu ekle"
+      },
+      "Settings": {
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Tüm talepler",
+            "RequestedByMe": "Benim tarafımdan istenenler",
+            "TargetedToMe": "Bana hedeflenenler"
+          },
+          "Properties": {
+            "TitleAndLink": "Başlık ve bağlantı",
+            "Description": "Açıklama",
+            "Requested": "İstenen",
+            "RequestedBy": "Tarafından istenen",
+            "Status": "Durum",
+            "ProgressStatus": "İlerleme Durumu",
+            "RequestSentTo": "Talep gönderildi",
+            "RequestsCompleted": "Tamamlanan talepler",
+            "TotalNoOfRequests": "Toplam talep sayısı",
+            "Type": "Tür"
+          },
+          "RequestStatus": {
+            "Open": "Açık",
+            "Close": "Kapalı",
+            "Pending": "Beklemede",
+            "Error": "Hata",
+            "Scheduled": "Planlanmış"
+          }
+        }
+      }
+    }
+  }
+}
