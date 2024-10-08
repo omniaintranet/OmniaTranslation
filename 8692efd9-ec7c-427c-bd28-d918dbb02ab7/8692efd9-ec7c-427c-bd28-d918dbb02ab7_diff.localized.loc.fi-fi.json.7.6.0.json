@@ -11,7 +11,7 @@
         "SignOffRequest": {
           "Scopes": {
             "AllRequests": "Kaikki pyynnöt",
-            "RequestedByMe": "Minun tekemät pyynnöt",
+            "RequestedByMe": "Tekemäni pyynnöt",
             "TargetedToMe": "Minulle kohdistetut pyynnöt"
           },
           "Properties": {
