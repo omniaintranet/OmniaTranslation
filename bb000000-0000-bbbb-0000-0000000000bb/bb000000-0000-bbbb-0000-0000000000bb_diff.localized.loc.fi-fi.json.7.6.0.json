@@ -8,8 +8,8 @@
       },
       "PermissionInput": {
         "AddTenantAdminByFreeText": {
-          "AdminUserName": "Käyttäjänimi",
-          "AdminPlaceholder": "Kirjoita käyttäjänimi"
+          "AdminUserName": "Käyttäjätunnus",
+          "AdminPlaceholder": "Kirjoita käyttäjätunnus"
         }
       }
     }
