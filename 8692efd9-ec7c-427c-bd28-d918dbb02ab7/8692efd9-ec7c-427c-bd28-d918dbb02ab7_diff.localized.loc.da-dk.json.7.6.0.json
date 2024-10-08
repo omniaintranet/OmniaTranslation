@@ -10,20 +10,20 @@
       "Settings": {
         "SignOffRequest": {
           "Scopes": {
-            "AllRequests": "Alle forespørgsler",
-            "RequestedByMe": "Forespurgt af mig",
-            "TargetedToMe": "Målrettet tilmig"
+            "AllRequests": "Alle anmodninger",
+            "RequestedByMe": "Admodet af mig",
+            "TargetedToMe": "Målrettet til mig"
           },
           "Properties": {
             "TitleAndLink": "Titel og link",
             "Description": "Beskrivelse",
-            "Requested": "Forespurgt",
-            "RequestedBy": "Forespurgt af",
+            "Requested": "Andmodet",
+            "RequestedBy": "Anmodet af",
             "Status": "Status",
-            "ProgressStatus": "Fremskridtsstatus",
-            "RequestSentTo": "Forespørgsel sendt til",
-            "RequestsCompleted": "Forespørgsler fuldført",
-            "TotalNoOfRequests": "Samlet antal forespørgsler",
+            "ProgressStatus": "Status",
+            "RequestSentTo": "Anmodning sendt til",
+            "RequestsCompleted": "Anmodninger fuldført",
+            "TotalNoOfRequests": "Samlet antal anmodninger",
             "Type": "Type"
           },
           "RequestStatus": {
