@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "Settings": {
+            "Columns": {
+              "UseEnterpriseGlossary": "Käytä yrityksen sanastoa"
+            }
+          },
+          "TermCanNotResolve": "Termiä tunnisteella {0} ei löytynyt."
+        }
+      }
+    }
+  }
+}
