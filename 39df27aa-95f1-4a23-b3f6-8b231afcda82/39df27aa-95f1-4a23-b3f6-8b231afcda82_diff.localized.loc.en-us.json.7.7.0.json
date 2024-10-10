@@ -11,7 +11,7 @@
     "UserProfileCompletion": {
       "AdminSettings": {
         "Error": {
-          "DuplicateError": "*Property with this name already exists."
+          "DuplicateError": "*A property with this name already exists."
         }
       }
     }
