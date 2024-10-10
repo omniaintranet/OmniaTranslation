@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "RecurringSetting": {
+        "InvalidWeeklyErrorMessage": "Selecteer minimaal één dag van de week."
+      }
+    },
+    "SignOffRequest": {
+      "IncludeCurrentGroup": "Huidige groep opnemen"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Error": {
+          "DuplicateError": "*Een eigenschap met deze naam bestaat al."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "StrengthenProfileLegacy": "Versterk profiel (Klassiek)",
+        "WebPart": {
+          "WebPartTitleLegacy": "Profiel voltooiing (Klassiek)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "Gebruikersprofiel voltooiing (Klassiek)"
+        }
+      }
+    }
+  }
+}
