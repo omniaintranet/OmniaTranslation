@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "En opplastet docx- og xlsx-dokument må lastes ned for å bli lest. EtPDF-dokument kan leses direkte i nettleseren."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Tøm"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Gjeldende gruppe"
+            }
+          }
+        }
+      }
+    }
+  }
+}
