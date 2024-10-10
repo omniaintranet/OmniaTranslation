@@ -6,15 +6,15 @@
     "SignOffRequest": {
       "DocumentIsNotAvailableMessage": "This document is not available. If it is a new document, please wait a few minutes and try again. Otherwise, the document may have been deleted.",
       "ReadSignOffRequestComplete": "All the sign-off requests for this document have been completed.",
-      "CurrentDocument": "Current Document",
-      "SpecificDocument": "Specific Document"
+      "CurrentDocument": "Current document",
+      "SpecificDocument": "Specific document"
     },
     "Core": {
       "Features": {
         "SignOffRequestInControlledDocument": {
           "Category": "Add-ons",
           "Description": "Enable the possibility to create sign-off requests for controlled documents.",
-          "Title": "Sign-off request for controlled documents"
+          "Title": "Sign-off requests for controlled documents"
         }
       }
     },
@@ -26,8 +26,8 @@
     "DocumentRollup": {
       "Common": {
         "UnsearchableDocuments": {
-          "UnsearchableMessage": "This document has not been crawled yet or is deleted.",
-          "UnsearchableSiteTitle": "Waiting for crawling or is deleted"
+          "UnsearchableMessage": "This document has not been indexed yet or is deleted.",
+          "UnsearchableSiteTitle": "Waiting for indexing or is deleted"
         }
       }
     }
