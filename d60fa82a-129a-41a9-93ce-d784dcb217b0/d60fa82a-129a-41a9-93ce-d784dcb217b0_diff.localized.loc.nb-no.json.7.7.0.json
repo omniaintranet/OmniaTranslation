@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "Settings": {
+            "Columns": {
+              "UseEnterpriseGlossary": "Bruk bedriftsglossar"
+            }
+          },
+          "TermCanNotResolve": "Termen med ID {0} kunne ikke bli funnet."
+        }
+      }
+    }
+  }
+}
