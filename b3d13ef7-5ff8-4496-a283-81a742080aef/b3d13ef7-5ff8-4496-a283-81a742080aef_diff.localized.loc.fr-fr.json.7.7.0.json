@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Activer les accusés de lecture"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Ce document n'est pas disponible. S'il s'agit d'un nouveau document, veuillez patienter quelques minutes et réessayer. Sinon, le document a peut-être été supprimé.",
+      "ReadSignOffRequestComplete": "Toutes les demandes de validation pour ce document ont été complétées.",
+      "CurrentDocument": "Document actuel",
+      "SpecificDocument": "Document spécifique"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Compléments",
+          "Description": "Activer la possibilité de créer des demandes de validation pour les documents contrôlés.",
+          "Title": "Demandes de validation pour les documents contrôlés"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Créer une demande de validation"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Ce document n'a pas encore été indexé ou a été supprimé.",
+          "UnsearchableSiteTitle": "En attente d'indexation ou a été supprimé"
+        }
+      }
+    }
+  }
+}
