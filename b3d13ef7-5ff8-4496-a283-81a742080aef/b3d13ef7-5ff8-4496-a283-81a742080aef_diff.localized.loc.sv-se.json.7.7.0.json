@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Aktivera läsningskvitton"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Detta dokument är inte tillgängligt. Om det är ett nytt dokument, vänta några minuter och försök igen. Annars kan dokumentet ha blivit raderat.",
+      "ReadSignOffRequestComplete": "Alla sign-off-begäranden för detta dokument har slutförts.",
+      "CurrentDocument": "Aktuellt dokument",
+      "SpecificDocument": "Specifikt dokument"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tillägg",
+          "Description": "Aktivera möjligheten att skapa sign-off-begäranden för kontrollerade dokument.",
+          "Title": "Sign-off-begäranden för kontrollerade dokument"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Skapa sign-off-begäran"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Detta dokument har ännu inte indexerats eller har raderats.",
+          "UnsearchableSiteTitle": "Väntar på indexering eller har raderats"
+        }
+      }
+    }
+  }
+}
