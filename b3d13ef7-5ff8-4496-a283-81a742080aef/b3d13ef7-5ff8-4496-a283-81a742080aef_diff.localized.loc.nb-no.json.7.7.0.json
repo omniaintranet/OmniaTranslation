@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Aktiver lesekvitteringer"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Dette dokumentet er ikke tilgjengelig. Hvis det er et nytt dokument, vennligst vent noen minutter og prøv igjen. Ellers kan dokumentet ha blitt slettet.",
+      "ReadSignOffRequestComplete": "Alle signeringssøknader for dette dokumentet er fullført.",
+      "CurrentDocument": "Nåværende dokument",
+      "SpecificDocument": "Spesifikt dokument"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tillegg",
+          "Description": "Aktiver muligheten til å opprette signeringssøknader for kontrollerte dokumenter.",
+          "Title": "Signeringssøknader for kontrollerte dokumenter"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Opprett signeringssøknad"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Dette dokumentet er ikke indeksert ennå eller er slettet.",
+          "UnsearchableSiteTitle": "Venter på indeksering eller er slettet"
+        }
+      }
+    }
+  }
+}
