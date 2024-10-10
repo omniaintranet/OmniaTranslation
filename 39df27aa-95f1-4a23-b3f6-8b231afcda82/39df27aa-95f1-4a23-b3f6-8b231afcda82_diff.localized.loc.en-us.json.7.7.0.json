@@ -19,14 +19,14 @@
   "PAN": {
     "UserProfileCompletion": {
       "ProfileCompletion": {
-        "StrengthenProfileLegacy": "Strengthen Profile (Classic)",
+        "StrengthenProfileLegacy": "Strengthen profile (Classic)",
         "WebPart": {
-          "WebPartTitleLegacy": "Profile Completion (Classic)"
+          "WebPartTitleLegacy": "Profile completion (Classic)"
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdminLegacy": "User Profile Completion (Classic)"
+          "ProfileCompletionAdminLegacy": "User profile completion (Classic)"
         }
       }
     }
