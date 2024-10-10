@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Consultas"
+      },
+      "Buttons": {
+        "AddQuery": "Añadir consulta"
+      },
+      "Settings": {
+        "HideVariationSelector": "Ocultar selector de variación",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Todas las solicitudes",
+            "RequestedByMe": "Solicitadas por mí",
+            "TargetedToMe": "Dirigidas a mí"
+          },
+          "Properties": {
+            "TitleAndLink": "Título y enlace",
+            "Description": "Descripción",
+            "Requested": "Solicitado",
+            "RequestedBy": "Solicitado por",
+            "Status": "Estado",
+            "ProgressStatus": "Estado de progreso",
+            "RequestSentTo": "Solicitud enviada a",
+            "RequestsCompleted": "Solicitudescompletadas",
+            "TotalNoOfRequests": "Número total de solicitudes",
+            "Type": "Tipo"
+          },
+          "RequestStatus": {
+            "Open": "Abierto",
+            "Close": "Cerrado",
+            "Pending": "Pendiente",
+            "Error": "Error",
+            "Scheduled": "Programado"
+          }
+        }
+      }
+    }
+  }
+}
