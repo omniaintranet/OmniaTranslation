@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "Settings": {
+            "Columns": {
+              "UseEnterpriseGlossary": "Gebruik bedrijfsglossarium"
+            }
+          },
+          "TermCanNotResolve": "Het term met ID {0} kon niet worden gevonden."
+        }
+      }
+    }
+  }
+}
