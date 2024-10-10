@@ -5,7 +5,7 @@
         "TableView": {
           "Settings": {
             "Columns": {
-              "UseEnterpriseGlossary": "Use Enterprise Glossary"
+              "UseEnterpriseGlossary": "Use enterprise glossary"
             }
           },
           "TermCanNotResolve": "The term with ID {0} cloud not be found"
