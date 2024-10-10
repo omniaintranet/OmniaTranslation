@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Kueri"
+      },
+      "Buttons": {
+        "AddQuery": "Tambahkan kueri"
+      },
+      "Settings": {
+        "HideVariationSelector": "Sembunyikan pemilih variasi",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Semua permintaan",
+            "RequestedByMe": "Diminta oleh saya",
+            "TargetedToMe": "Ditujukan kepadasaya"
+          },
+          "Properties": {
+            "TitleAndLink": "Judul dan tautan",
+            "Description": "Deskripsi",
+            "Requested": "Diminta",
+            "RequestedBy": "Diminta oleh",
+            "Status": "Status",
+            "ProgressStatus": "Status kemajuan",
+            "RequestSentTo": "Permintaan dikirim ke",
+            "RequestsCompleted": "Permintaan selesai",
+            "TotalNoOfRequests": "Total jumlah permintaan",
+            "Type": "Tipe"
+          },
+          "RequestStatus": {
+            "Open": "Terbuka",
+            "Close": "Tutup",
+            "Pending": "Tertunda",
+            "Error": "Kesalahan",
+            "Scheduled": "Terjadwal"
+          }
+        }
+      }
+    }
+  }
+}
