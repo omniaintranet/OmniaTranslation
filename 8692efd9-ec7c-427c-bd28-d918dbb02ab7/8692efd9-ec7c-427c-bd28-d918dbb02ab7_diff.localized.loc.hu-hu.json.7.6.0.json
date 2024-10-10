@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Lekérdezések"
+      },
+      "Buttons": {
+        "AddQuery": "Lekérdezés hozzáadása"
+      },
+      "Settings": {
+        "HideVariationSelector": "Variáció kiválasztó elrejtése",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Minden kérelem",
+            "RequestedByMe": "Általam kért",
+            "TargetedToMe": "Rám irányuló"
+          },
+          "Properties": {
+            "TitleAndLink": "Cím és hivatkozás",
+            "Description": "Leírás",
+            "Requested": "Kért",
+            "RequestedBy": "Kértő",
+            "Status": "Állapot",
+            "ProgressStatus": "Folyamat állapota",
+            "RequestSentTo": "Kérelem elküldve",
+            "RequestsCompleted": "Kész kérelmek",
+            "TotalNoOfRequests": "Összes kérelem száma",
+            "Type": "Típus"
+          },
+          "RequestStatus": {
+            "Open": "Nyitott",
+            "Close": "Lezárt",
+            "Pending": "Függőben",
+            "Error": "Hiba",
+            "Scheduled": "Ütemezett"
+          }
+        }
+      }
+    }
+  }
+}
