@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Bật chức năng xác nhận đã đọc"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Tài liệu này không khả dụng. Nếu đây là tài liệu mới, vui lòng đợi và thử lại sau vài phút. Nếu không, có thể tài liệu đã bị xóa.",
+      "ReadSignOffRequestComplete": "Tất cả yêu cầu ký duyệt cho tài liệu này đã được hoàn thành.",
+      "CurrentDocument": "Tài liệu hiện tại",
+      "SpecificDocument": "Tài liệu cụ thể"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tiệních bổ sung",
+          "Description": "Cho phép tạo yêu cầu ký duyệt cho tài liệu được kiểmsoát.",
+          "Title": "Yêu cầu ký duyệt cho tài liệu được kiểm soát"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Tạo yêu cầu ký duyệt"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Tài liệu này chưa được lập chỉ mục hoặc đã bị xóa.",
+          "UnsearchableSiteTitle": "Đang chờ lập chỉ mục hoặc đã bị xóa"
+        }
+      }
+    }
+  }
+}
