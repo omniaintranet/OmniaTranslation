@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "En uploadet docx- og xlsx-dokument skal downloades for at blive læst. Et PDF-dokument kan læses direkte i browseren."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Ryd"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Nuværende gruppe"
+            }
+          }
+        }
+      }
+    }
+  }
+}
