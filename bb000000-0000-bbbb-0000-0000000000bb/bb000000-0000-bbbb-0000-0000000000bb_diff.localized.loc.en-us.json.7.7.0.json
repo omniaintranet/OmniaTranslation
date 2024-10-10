@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "An uploaded docx and xlsx document must be downloaded to be read. A PDF document can be read directly in the browser."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Clear"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Current group"
+            }
+          }
+        }
+      }
+    }
+  }
+}
