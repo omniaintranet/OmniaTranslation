@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Một tài liệu docx và xlsx đã được tải lên phải được tải xuống để đọc. Một tài liệu PDF có thể được đọc trực tiếp trong trình duyệt."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Xóa"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Nhóm hiện tại"
+            }
+          }
+        }
+      }
+    }
+  }
+}
