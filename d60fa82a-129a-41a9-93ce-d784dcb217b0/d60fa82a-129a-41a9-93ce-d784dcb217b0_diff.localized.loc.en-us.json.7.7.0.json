@@ -8,7 +8,7 @@
               "UseEnterpriseGlossary": "Use enterprise glossary"
             }
           },
-          "TermCanNotResolve": "The term with ID {0} cloud not be found"
+          "TermCanNotResolve": "The term with ID {0} could not be found."
         }
       }
     }
