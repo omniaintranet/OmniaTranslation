@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "En uppladdad docx- och xlsx-dokument måste laddas ner för att kunna läsas. En PDF-dokument kan läsas direkt i webbläsaren."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Rensa"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Nuvarande grupp"
+            }
+          }
+        }
+      }
+    }
+  }
+}
