@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Ladattu docx- ja xlsx-dokumentti on luettava lataamalla. PDF-dokumentti voidaan lukea suoraan selaimessa."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Tyhjennä"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Nykyinen ryhmä"
+            }
+          }
+        }
+      }
+    }
+  }
+}
