@@ -11,7 +11,7 @@
     "UserProfileCompletion": {
       "AdminSettings": {
         "Error": {
-          "DuplicateError": "*Enegenskap med detta namn finns redan."
+          "DuplicateError": "*En egenskap med detta namn finns redan."
         }
       }
     }
@@ -26,7 +26,7 @@
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdminLegacy": "Användarprofilkomplettering (Klassisk)"
+          "ProfileCompletionAdminLegacy": "Komplettering av användarprofil (Klassisk)"
         }
       }
     }
