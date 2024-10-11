@@ -5,7 +5,7 @@
         "TableView": {
           "Settings": {
             "Columns": {
-              "UseEnterpriseGlossary": "Använd företagsglossariet"
+              "UseEnterpriseGlossary": "Använd verksamhetsordlista"
             }
           },
           "TermCanNotResolve": "Termen med ID {0} kunde inte hittas."
