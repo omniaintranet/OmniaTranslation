@@ -5,7 +5,7 @@
     },
     "SignOffRequest": {
       "DocumentIsNotAvailableMessage": "Detta dokument är inte tillgängligt. Om det är ett nytt dokument, vänta några minuter och försök igen. Annars kan dokumentet ha blivit raderat.",
-      "ReadSignOffRequestComplete": "Alla sign-off-begäranden för detta dokument har slutförts.",
+      "ReadSignOffRequestComplete": "Alla signeringsbegäranden för detta dokument har slutförts.",
       "CurrentDocument": "Aktuellt dokument",
       "SpecificDocument": "Specifikt dokument"
     },
@@ -13,14 +13,14 @@
       "Features": {
         "SignOffRequestInControlledDocument": {
           "Category": "Tillägg",
-          "Description": "Aktivera möjligheten att skapa sign-off-begäranden för kontrollerade dokument.",
-          "Title": "Sign-off-begäranden för kontrollerade dokument"
+          "Description": "Aktivera möjligheten att skapa signeringsbegäranden för styrda dokument.",
+          "Title": "Signeringsbegäranden för styrda dokument"
         }
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequests": "Skapa sign-off-begäran"
+        "CreateSignOffRequests": "Skapa signeringsbegäran"
       }
     },
     "DocumentRollup": {
