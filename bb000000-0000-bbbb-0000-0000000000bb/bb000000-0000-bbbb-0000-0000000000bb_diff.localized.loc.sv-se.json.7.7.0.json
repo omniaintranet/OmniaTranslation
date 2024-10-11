@@ -3,7 +3,7 @@
     "Ux": {
       "FilePicker": {
         "MyComputerProvider": {
-          "New7WarningMessage": "En uppladdad docx- och xlsx-dokument måste laddas ner för att kunna läsas. En PDF-dokument kan läsas direkt i webbläsaren."
+          "New7WarningMessage": "Ett  uppladdat docx- och xlsx-dokument måste laddas ner för att kunna läsas. Ett PDF-dokument kan läsas direkt i webbläsaren."
         }
       },
       "Common": {
