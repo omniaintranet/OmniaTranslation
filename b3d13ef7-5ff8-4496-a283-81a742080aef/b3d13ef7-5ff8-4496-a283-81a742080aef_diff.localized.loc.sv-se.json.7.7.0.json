@@ -13,8 +13,8 @@
       "Features": {
         "SignOffRequestInControlledDocument": {
           "Category": "Tillägg",
-          "Description": "Aktivera möjligheten att skapa signeringsbegäranden för styrda dokument.",
-          "Title": "Signeringsbegäranden för styrda dokument"
+          "Description": "Aktivera möjligheten att skapa signeringsbegäran för styrda dokument.",
+          "Title": "Signeringsbegäran för styrda dokument"
         }
       }
     },
