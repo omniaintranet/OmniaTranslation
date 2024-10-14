@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Ota lukuilmoitukset käyttöön"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Tämä asiakirja ei ole saatavilla. Jos se on uusi asiakirja, odota muutama minuutti ja yritä uudelleen. Muussa tapauksessa asiakirja saattaa olla poistettu.",
+      "ReadSignOffRequestComplete": "Kaikki tämän asiakirjan hyväksyntäpyynnöt on suoritettu.",
+      "CurrentDocument": "Nykyinen asiakirja",
+      "SpecificDocument": "Tietty asiakirja"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Lisäosat",
+          "Description": "Ota käyttöön mahdollisuus luoda hyväksyntäpyyntöjä hallituille asiakirjoille.",
+          "Title": "Hyväksyntäpyynnöt hallituille asiakirjoille"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Luo hyväksyntäpyyntö"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Tätä asiakirjaa ei ole vielä indeksoitu tai se on poistettu.",
+          "UnsearchableSiteTitle": "Odottaa indeksointia tai on poistettu"
+        }
+      }
+    }
+  }
+}

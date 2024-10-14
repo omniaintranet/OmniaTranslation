@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "Settings": {
+            "Columns": {
+              "UseEnterpriseGlossary": "Sử dụng từ điển doanh nghiệp"
+            }
+          },
+          "TermCanNotResolve": "Không thể tìm thấy thuật ngữ với ID {0}."
+        }
+      }
+    }
+  }
+}

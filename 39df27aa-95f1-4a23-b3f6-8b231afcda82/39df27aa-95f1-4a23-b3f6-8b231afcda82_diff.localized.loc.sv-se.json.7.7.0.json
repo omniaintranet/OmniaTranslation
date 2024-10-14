@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "RecurringSetting": {
+        "InvalidWeeklyErrorMessage": "Välj åtminstone en dag i veckan."
+      }
+    },
+    "SignOffRequest": {
+      "IncludeCurrentGroup": "Inkludera nuvarande grupp"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Error": {
+          "DuplicateError": "*En egenskap med detta namn finns redan."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "StrengthenProfileLegacy": "Stärk profil (Klassisk)",
+        "WebPart": {
+          "WebPartTitleLegacy": "Uppgifter flör användarprofil (Klassisk)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "Komplettering av användarprofil (Klassisk)"
+        }
+      }
+    }
+  }
+}

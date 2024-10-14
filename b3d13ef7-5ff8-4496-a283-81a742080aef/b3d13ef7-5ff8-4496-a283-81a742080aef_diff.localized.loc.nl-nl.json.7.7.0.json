@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Leesbewijzen inschakelen"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Dit document isniet beschikbaar. Als het een nieuw document is, wacht dan een paar minuten en probeer het opnieuw. Anders is het document mogelijk verwijderd.",
+      "ReadSignOffRequestComplete": "Alle ondertekeningsverzoeken voor ditdocument zijn voltooid.",
+      "CurrentDocument": "Huidig document",
+      "SpecificDocument": "Specifiek document"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Add-ons",
+          "Description": "Mogelijkheid inschakelen om ondertekeningsverzoeken te maken voor gecontroleerde documenten.",
+          "Title": "Ondertekeningsverzoeken voor gecontroleerde documenten"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Ondertekeningsverzoek maken"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Dit document is nog niet geïndexeerd of is verwijderd.",
+          "UnsearchableSiteTitle": "Wachten op indexering of is verwijderd"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Enable read receipts"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "This document is not available. If it is a new document, please wait a few minutes and try again.Otherwise, the document may have been deleted.",
+      "ReadSignOffRequestComplete": "All the sign-off requests for this document have been completed.",
+      "CurrentDocument": "Current document",
+      "SpecificDocument": "Specific document"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Add-ons",
+          "Description": "Enable the possibility to create sign-off requests for controlled documents.",
+          "Title": "Sign-off requests for controlled documents"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Create sign-off request"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "This document has not been indexed yet or is deleted.",
+          "UnsearchableSiteTitle": "Waiting for indexing or is deleted"
+        }
+      }
+    }
+  }
+}

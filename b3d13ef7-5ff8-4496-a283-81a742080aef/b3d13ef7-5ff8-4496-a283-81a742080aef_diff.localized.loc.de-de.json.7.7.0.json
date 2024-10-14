@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Lesebestätigungen aktivieren"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Dieses Dokument ist nicht verfügbar. Wenn es sich um ein neues Dokument handelt, bitte warten Sie einige Minuten und versuchen Sie es erneut. Andernfalls wurde das Dokument möglicherweise gelöscht.",
+      "ReadSignOffRequestComplete": "Alle Sign-Off-Anfragen für dieses Dokument wurden abgeschlossen.",
+      "CurrentDocument": "Aktuelles Dokument",
+      "SpecificDocument": "Spezifisches Dokument"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Add-Ons",
+          "Description": "Aktivieren Sie die Möglichkeit, Sign-Off-Anfragen für kontrollierte Dokumente zu erstellen.",
+          "Title": "Sign-Off-Anfragen für kontrollierte Dokumente"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Sign-Off-Anfrage erstellen"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Dieses Dokument wurde noch nicht indiziert oder gelöscht.",
+          "UnsearchableSiteTitle": "Warten auf Indizierung oder gelöscht"
+        }
+      }
+    }
+  }
+}

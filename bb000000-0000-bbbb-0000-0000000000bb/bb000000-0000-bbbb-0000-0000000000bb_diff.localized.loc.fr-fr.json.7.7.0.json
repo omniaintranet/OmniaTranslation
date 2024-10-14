@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Un document docx et xlsx téléchargé doit être téléchargé pour être lu. Un document PDF peut être lu directement dans le navigateur."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Effacer"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Groupe actuel"
+            }
+          }
+        }
+      }
+    }
+  }
+}

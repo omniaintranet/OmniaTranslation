@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "RecurringSetting": {
+        "InvalidWeeklyErrorMessage": "Chọn ít nhất một ngày trong tuần."
+      }
+    },
+    "SignOffRequest": {
+      "IncludeCurrentGroup": "Bao gồm nhóm hiện tại"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Error": {
+          "DuplicateError": "*Một thuộc tính với tên này đã tồn tại."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "StrengthenProfileLegacy": "Nâng cao hồ sơ (Classic)",
+        "WebPart": {
+          "WebPartTitleLegacy": "Hoàn thành hồ sơ (Classic)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "Hoàn thành hồ sơ người dùng (Classic)"
+        }
+      }
+    }
+  }
+}

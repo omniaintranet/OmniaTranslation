@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "Settings": {
+            "Columns": {
+              "UseEnterpriseGlossary": "Use enterprise glossary"
+            }
+          },
+          "TermCanNotResolve": "The term with ID {0} could not be found."
+        }
+      }
+    }
+  }
+}

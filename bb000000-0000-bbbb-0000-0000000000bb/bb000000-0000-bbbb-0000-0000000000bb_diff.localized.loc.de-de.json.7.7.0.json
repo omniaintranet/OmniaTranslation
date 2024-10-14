@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Ein hochgeladenes docx- und xlsx-Dokument muss heruntergeladen werden, um gelesen zu werden. Ein PDF-Dokument kann direkt im Browser gelesen werden."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Löschen"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Aktuelle Gruppe"
+            }
+          }
+        }
+      }
+    }
+  }
+}

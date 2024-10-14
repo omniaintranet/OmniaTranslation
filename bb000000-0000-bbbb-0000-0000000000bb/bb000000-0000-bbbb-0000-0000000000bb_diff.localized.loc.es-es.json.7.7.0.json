@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Un documento docx y xlsx subido debe ser descargado para ser leído. Un documento PDF puede ser leído directamente en el navegador."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Limpiar"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Grupo actual"
+            }
+          }
+        }
+      }
+    }
+  }
+}

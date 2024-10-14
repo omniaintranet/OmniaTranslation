@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "RecurringSetting": {
+        "InvalidWeeklyErrorMessage": "Valitse vähintään yksi viikonpäivä."
+      }
+    },
+    "SignOffRequest": {
+      "IncludeCurrentGroup": "Sisällytä nykyinen ryhmä"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Error": {
+          "DuplicateError": "*Tällä nimellä on jo olemassa oleva ominaisuus."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "StrengthenProfileLegacy": "Vahvista profiili (Classic)",
+        "WebPart": {
+          "WebPartTitleLegacy": "Profiilin täydentäminen (Classic)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "Käyttäjän profiilin täydentäminen (Classic)"
+        }
+      }
+    }
+  }
+}

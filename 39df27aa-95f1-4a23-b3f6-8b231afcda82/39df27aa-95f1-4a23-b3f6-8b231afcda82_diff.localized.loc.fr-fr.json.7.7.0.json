@@ -1,0 +1,34 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "RecurringSetting": {
+        "InvalidWeeklyErrorMessage": "Sélectionnez au moins un jour de la semaine."
+      }
+    },
+    "SignOffRequest": {
+      "IncludeCurrentGroup": "Inclure le groupe actuel"
+    },
+    "UserProfileCompletion": {
+      "AdminSettings": {
+        "Error": {
+          "DuplicateError": "*Une propriété avec ce nom existe déjà."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "StrengthenProfileLegacy": "Renforcer le profil (Classique)",
+        "WebPart": {
+          "WebPartTitleLegacy": "Complétion du profil (Classique)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "Complétion du profil utilisateur (Classique)"
+        }
+      }
+    }
+  }
+}

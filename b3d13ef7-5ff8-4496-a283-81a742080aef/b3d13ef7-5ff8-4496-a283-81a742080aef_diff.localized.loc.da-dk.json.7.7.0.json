@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Aktivér læsekvitteringer"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Dette dokument er ikke tilgængeligt. Hvis det er et nyt dokument, skal du vente et parminutter og prøve igen. Ellers kan dokumentet være blevet slettet.",
+      "ReadSignOffRequestComplete": "Alle sign-off-anmodninger for dette dokument er blevet fuldført.",
+      "CurrentDocument": "Nuværende dokument",
+      "SpecificDocument": "Specifikt dokument"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Tilføjelser",
+          "Description": "Aktivér muligheden for at oprette sign-off-anmodninger for kontrollerede dokumenter.",
+          "Title": "Sign-off-anmodninger for kontrollerede dokumenter"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Opret sign-off-anmodning"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Dette dokument er endnu ikke indekseret eller er slettet.",
+          "UnsearchableSiteTitle": "Venter på indeksering eller er slettet"
+        }
+      }
+    }
+  }
+}

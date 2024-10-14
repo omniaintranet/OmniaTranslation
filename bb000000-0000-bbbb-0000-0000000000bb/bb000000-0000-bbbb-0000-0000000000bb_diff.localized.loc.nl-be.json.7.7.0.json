@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilePicker": {
+        "MyComputerProvider": {
+          "New7WarningMessage": "Een geüpload docx- en xlsx-document moet worden gedownload om te worden gelezen. Een PDF-document kan direct in de browser worden gelezen."
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "Clear": "Wissen"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "UserFilterOption": {
+              "CurrentGroup": "Huidige groep"
+            }
+          }
+        }
+      }
+    }
+  }
+}

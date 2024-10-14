@@ -1,0 +1,35 @@
+{
+  "ODM": {
+    "Admin": {
+      "EnableReadReceipts": "Activar recibos de lectura"
+    },
+    "SignOffRequest": {
+      "DocumentIsNotAvailableMessage": "Este documento no está disponible. Si es un documento nuevo, por favor espera unos minutos y vuelve a intentarlo. De lo contrario, es posible que el documento haya sido eliminado.",
+      "ReadSignOffRequestComplete": "Se han completado todas las solicitudes de aprobación para este documento.",
+      "CurrentDocument": "Documento actual",
+      "SpecificDocument": "Documento específico"
+    },
+    "Core": {
+      "Features": {
+        "SignOffRequestInControlledDocument": {
+          "Category": "Complementos",
+          "Description": "Habilitar la posibilidad de crear solicitudes deaprobación para documentos controlados.",
+          "Title": "Solicitudes de aprobación paradocumentos controlados"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "CreateSignOffRequests": "Crear solicitud de aprobación"
+      }
+    },
+    "DocumentRollup": {
+      "Common": {
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "Este documento aún no ha sido indexado o ha sido eliminado.",
+          "UnsearchableSiteTitle": "Esperando indexación o ha sido eliminado"
+        }
+      }
+    }
+  }
+}
