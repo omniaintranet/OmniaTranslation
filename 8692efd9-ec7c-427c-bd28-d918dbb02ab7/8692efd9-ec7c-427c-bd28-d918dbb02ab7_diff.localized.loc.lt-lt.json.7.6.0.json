@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Užklausos"
+      },
+      "Buttons": {
+        "AddQuery": "Pridėti užklausą"
+      },
+      "Settings": {
+        "HideVariationSelector": "Slėpti varianto pasirinkiklį",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Visos užklausos",
+            "RequestedByMe": "Mano užklausos",
+            "TargetedToMe": "Man skirtos užklausos"
+          },
+          "Properties": {
+            "TitleAndLink": "Pavadinimas ir nuoroda",
+            "Description": "Aprašymas",
+            "Requested": "Užklausta",
+            "RequestedBy": "Užklausė",
+            "Status": "Būsena",
+            "ProgressStatus": "Progreso būsena",
+            "RequestSentTo": "Užklausa išsiųsta",
+            "RequestsCompleted": "Užklausos atlikta",
+            "TotalNoOfRequests": "Viso užklausų skaičius",
+            "Type": "Tipas"
+          },
+          "RequestStatus": {
+            "Open": "Atidaryta",
+            "Close": "Uždaryta",
+            "Pending": "Laukiama",
+            "Error": "Klaida",
+            "Scheduled": "Suplanuota"
+          }
+        }
+      }
+    }
+  }
+}

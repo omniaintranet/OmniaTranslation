@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Kyselyt"
+      },
+      "Buttons": {
+        "AddQuery": "Lisää kysely"
+      },
+      "Settings": {
+        "HideVariationSelector": "Piilota muunnelman valitsin",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Kaikki pyynnöt",
+            "RequestedByMe": "Minun tekemät pyynnöt",
+            "TargetedToMe": "Minulle kohdistetut pyynnöt"
+          },
+          "Properties": {
+            "TitleAndLink": "Otsikko ja linkki",
+            "Description": "Kuvaus",
+            "Requested": "Pyydetty",
+            "RequestedBy": "Pyytäjä",
+            "Status": "Tila",
+            "ProgressStatus": "Edistyksen tila",
+            "RequestSentTo": "Pyyntö lähetetty",
+            "RequestsCompleted": "Valmiit pyynnöt",
+            "TotalNoOfRequests": "Pyyntöjen kokonaismäärä",
+            "Type": "Tyyppi"
+          },
+          "RequestStatus": {
+            "Open": "Avoin",
+            "Close": "Suljettu",
+            "Pending": "Odottaa",
+            "Error": "Virhe",
+            "Scheduled": "Ajoitettu"
+          }
+        }
+      }
+    }
+  }
+}
