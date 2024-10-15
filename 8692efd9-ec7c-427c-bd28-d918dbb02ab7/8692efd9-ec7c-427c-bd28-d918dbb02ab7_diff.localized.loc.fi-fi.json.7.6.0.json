@@ -8,11 +8,11 @@
         "AddQuery": "Lisää kysely"
       },
       "Settings": {
-        "HideVariationSelector": "Piilota muunnelman valitsin",
+        "HideVariationSelector": "Piilota variaation valitsin",
         "SignOffRequest": {
           "Scopes": {
             "AllRequests": "Kaikki pyynnöt",
-            "RequestedByMe": "Minun tekemät pyynnöt",
+            "RequestedByMe": "Minun tekemäni pyynnöt",
             "TargetedToMe": "Minulle kohdistetut pyynnöt"
           },
           "Properties": {
