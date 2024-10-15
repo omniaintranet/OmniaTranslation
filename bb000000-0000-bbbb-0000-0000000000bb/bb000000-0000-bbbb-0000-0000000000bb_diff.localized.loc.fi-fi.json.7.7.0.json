@@ -3,7 +3,7 @@
     "Ux": {
       "FilePicker": {
         "MyComputerProvider": {
-          "New7WarningMessage": "Ladattu docx- ja xlsx-dokumentti on luettava lataamalla. PDF-dokumentti voidaan lukea suoraan selaimessa."
+          "New7WarningMessage": "Docx- ja xlsx-dokumentti on luettava lataamalla se koneellesi. PDF-dokumentti voidaan lukea suoraan selaimessa."
         }
       },
       "Common": {
