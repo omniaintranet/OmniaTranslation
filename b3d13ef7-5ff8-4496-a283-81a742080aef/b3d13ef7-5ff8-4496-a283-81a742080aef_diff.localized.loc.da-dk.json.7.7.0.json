@@ -4,23 +4,23 @@
       "EnableReadReceipts": "Aktivér læsekvitteringer"
     },
     "SignOffRequest": {
-      "DocumentIsNotAvailableMessage": "Dette dokument er ikke tilgængeligt. Hvis det er et nyt dokument, skal du vente et parminutter og prøve igen. Ellers kan dokumentet være blevet slettet.",
-      "ReadSignOffRequestComplete": "Alle sign-off-anmodninger for dette dokument er blevet fuldført.",
-      "CurrentDocument": "Nuværende dokument",
+      "DocumentIsNotAvailableMessage": "Dette dokument er ikke tilgængeligt. Hvis det er et nyt dokument, skal du vente et par minutter og prøve igen. Ellers kan dokumentet være blevet slettet.",
+      "ReadSignOffRequestComplete": "Alle anmodninger om læsekvittering for dette dokument er blevet fuldført.",
+      "CurrentDocument": "Aktuelle dokument",
       "SpecificDocument": "Specifikt dokument"
     },
     "Core": {
       "Features": {
         "SignOffRequestInControlledDocument": {
           "Category": "Tilføjelser",
-          "Description": "Aktivér muligheden for at oprette sign-off-anmodninger for kontrollerede dokumenter.",
-          "Title": "Sign-off-anmodninger for kontrollerede dokumenter"
+          "Description": "Aktivér muligheden for at oprette kvitteringsanmodninger for kontrollerede dokumenter.",
+          "Title": "Kvitteringsanmodninger for kontrollerede dokumenter"
         }
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
-        "CreateSignOffRequests": "Opret sign-off-anmodning"
+        "CreateSignOffRequests": "Opret anmodning om læsekvittering"
       }
     },
     "DocumentRollup": {
