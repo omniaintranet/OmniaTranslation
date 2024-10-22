@@ -6,12 +6,12 @@
       }
     },
     "SignOffRequest": {
-      "IncludeCurrentGroup": "Inkluder nuværende gruppe"
+      "IncludeCurrentGroup": "Inkluder aktuelle gruppe"
     },
     "UserProfileCompletion": {
       "AdminSettings": {
         "Error": {
-          "DuplicateError": "*En egenskab med dette navn findes allerede."
+          "DuplicateError": "*Der er allerede en egenskab med dette navn."
         }
       }
     }
@@ -21,12 +21,12 @@
       "ProfileCompletion": {
         "StrengthenProfileLegacy": "Styrk profil (Klassisk)",
         "WebPart": {
-          "WebPartTitleLegacy": "Profilfuldførelse (Klassisk)"
+          "WebPartTitleLegacy": "Opdatering af brugerprofil (Klassisk)"
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdminLegacy": "Brugerprofilfuldførelse (Klassisk)"
+          "ProfileCompletionAdminLegacy": "Opdatering af brugerprofil (Klassisk)"
         }
       }
     }
