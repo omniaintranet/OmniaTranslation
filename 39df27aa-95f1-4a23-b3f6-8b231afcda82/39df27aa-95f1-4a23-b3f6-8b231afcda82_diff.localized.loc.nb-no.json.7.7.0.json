@@ -21,12 +21,12 @@
       "ProfileCompletion": {
         "StrengthenProfileLegacy": "Styrk profil (Klassisk)",
         "WebPart": {
-          "WebPartTitleLegacy": "Profillutfylling (Klassisk)"
+          "WebPartTitleLegacy": "Brukerprofil fullføring (Klassisk)"
         }
       },
       "AdminSettings": {
         "Titles": {
-          "ProfileCompletionAdminLegacy": "Brukerprofilutfylling (Klassisk)"
+          "ProfileCompletionAdminLegacy": "Brukerprofil fullføring (Klassisk)"
         }
       }
     }
