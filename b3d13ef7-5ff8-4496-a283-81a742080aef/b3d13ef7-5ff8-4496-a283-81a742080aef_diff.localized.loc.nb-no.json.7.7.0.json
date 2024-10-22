@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "EnableReadReceipts": "Aktiver lesekvitteringer"
+      "EnableReadReceipts": "Aktiver signeringer"
     },
     "SignOffRequest": {
       "DocumentIsNotAvailableMessage": "Dette dokumentet er ikke tilgjengelig. Hvis det er et nytt dokument, vennligst vent noen minutter og prøv igjen. Ellers kan dokumentet ha blitt slettet.",
