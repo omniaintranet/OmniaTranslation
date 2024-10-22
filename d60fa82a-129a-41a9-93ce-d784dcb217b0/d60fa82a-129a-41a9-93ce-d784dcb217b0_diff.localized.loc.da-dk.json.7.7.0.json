@@ -5,7 +5,7 @@
         "TableView": {
           "Settings": {
             "Columns": {
-              "UseEnterpriseGlossary": "Brug virksomhedsglossar"
+              "UseEnterpriseGlossary": "Brug virksomhedsordsæt"
             }
           },
           "TermCanNotResolve": "Termen med ID {0} kunne ikke findes."
