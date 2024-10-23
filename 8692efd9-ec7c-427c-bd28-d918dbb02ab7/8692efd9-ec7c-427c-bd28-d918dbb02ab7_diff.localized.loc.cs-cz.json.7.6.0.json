@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Dotazy"
+      },
+      "Buttons": {
+        "AddQuery": "Přidat dotaz"
+      },
+      "Settings": {
+        "HideVariationSelector": "Skrýt selektorvarianty",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Všechny žádosti",
+            "RequestedByMe": "Žádosti ode mě",
+            "TargetedToMe": "Zaměřeno na mě"
+          },
+          "Properties": {
+            "TitleAndLink": "Název a odkaz",
+            "Description": "Popis",
+            "Requested": "Požadováno",
+            "RequestedBy": "Požadováno od",
+            "Status": "Stav",
+            "ProgressStatus": "Stav pokroku",
+            "RequestSentTo": "Žádost odeslána",
+            "RequestsCompleted": "Dokončené žádosti",
+            "TotalNoOfRequests": "Celkový počet žádostí",
+            "Type": "Typ"
+          },
+          "RequestStatus": {
+            "Open": "Otevřeno",
+            "Close": "Uzavřeno",
+            "Pending": "Čekající",
+            "Error": "Chyba",
+            "Scheduled": "Naplánováno"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtr událostí povolených",
+          "EnableEventsFilter": "Povolit filtr událostí",
+          "Radio": {
+            "Hint": "Přepnout mezi režimem povolených a zakázaných událostí",
+            "Blacklist": "Zakázané",
+            "Whitelist": "Povolené"
+          },
+          "FilterMode": {
+            "Label": "Režim filtru",
+            "BusinessProfile": "Obchodní profil",
+            "PublishingApp": "Publikační aplikace",
+            "PageCollection": "Sbírka stránek",
+            "BusinessProfileInputLabel": "Obchodní profily",
+            "PublishingAppInputLabel": "Publikační aplikace"
+          }
+        }
+      }
+    }
+  }
+}
