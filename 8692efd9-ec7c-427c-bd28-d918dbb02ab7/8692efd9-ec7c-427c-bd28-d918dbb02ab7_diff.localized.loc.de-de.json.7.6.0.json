@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Abfragen"
+      },
+      "Buttons": {
+        "AddQuery": "Abfrage hinzufügen"
+      },
+      "Settings": {
+        "HideVariationSelector": "Variationsauswahl ausblenden",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alle Anfragen",
+            "RequestedByMe": "Von mir angefordert",
+            "TargetedToMe": "An mich gerichtet"
+          },
+          "Properties": {
+            "TitleAndLink": "Titel und Link",
+            "Description": "Beschreibung",
+            "Requested": "Angefordert",
+            "RequestedBy": "Angefordert von",
+            "Status": "Status",
+            "ProgressStatus": "Fortschrittsstatus",
+            "RequestSentTo": "Anfrage gesendet an",
+            "RequestsCompleted": "Abgeschlossene Anfragen",
+            "TotalNoOfRequests": "Gesamtzahl der Anfragen",
+            "Type": "Typ"
+          },
+          "RequestStatus": {
+            "Open": "Offen",
+            "Close": "Geschlossen",
+            "Pending": "Ausstehend",
+            "Error": "Fehler",
+            "Scheduled": "Geplant"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist-Ereignisfilter",
+          "EnableEventsFilter": "Ereignisfilter aktivieren",
+          "Radio": {
+            "Hint": "Zwischen Whitelist-Modus und Blacklist-Modus wechseln",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Geschäftsprofil",
+            "PublishingApp": "Veröffentlichungs-App",
+            "PageCollection": "Seitensammlung",
+            "BusinessProfileInputLabel": "Geschäftsprofile",
+            "PublishingAppInputLabel": "Veröffentlichungs-Apps"
+          }
+        }
+      }
+    }
+  }
+}
