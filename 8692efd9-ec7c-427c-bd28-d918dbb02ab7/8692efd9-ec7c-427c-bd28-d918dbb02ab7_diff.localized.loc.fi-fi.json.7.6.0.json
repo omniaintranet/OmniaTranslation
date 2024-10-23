@@ -12,7 +12,7 @@
         "SignOffRequest": {
           "Scopes": {
             "AllRequests": "Kaikki pyynnöt",
-            "RequestedByMe": "Minun pyynnöt",
+            "RequestedByMe": "Minun pyyntöni",
             "TargetedToMe": "Minulle kohdistetut"
           },
           "Properties": {
@@ -39,12 +39,12 @@
           "Title": "Tapahtumien suodatus",
           "EnableEventsFilter": "Ota tapahtumien suodatus käyttöön",
           "Radio": {
-            "Hint": "Vaihda valkoisen listan tilan ja mustan listan tilan välillä",
-            "Blacklist": "Musta lista",
-            "Whitelist": "Valkoinen lista"
+            "Hint": "Vaihda estolistan ja sallintalistan tilojen välillä",
+            "Blacklist": "Estolista",
+            "Whitelist": "Sallintalista"
           },
           "FilterMode": {
-            "Label": "Suodatus tila",
+            "Label": "Suodatustila",
             "BusinessProfile": "Liiketoimintaprofiili",
             "PublishingApp": "Julkaisusovellus",
             "PageCollection": "Sivukokoelma",
