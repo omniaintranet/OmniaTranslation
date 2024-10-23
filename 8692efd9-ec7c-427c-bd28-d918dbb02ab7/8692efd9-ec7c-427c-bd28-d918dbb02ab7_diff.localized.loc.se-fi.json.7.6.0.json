@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Guhkkit"
+      },
+      "Buttons": {
+        "AddQuery": "Addet guhkki"
+      },
+      "Settings": {
+        "HideVariationSelector": "Ávnnas variation selector",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Buot ráiddu",
+            "RequestedByMe": "Ráiddu mu mielde",
+            "TargetedToMe": "Ráiddu mu mielde"
+          },
+          "Properties": {
+            "TitleAndLink": "Ovdamearkka ja čujuhus",
+            "Description": "Dávddaheaddji",
+            "Requested": "Ráiddu",
+            "RequestedBy": "Ráiddujuvvon",
+            "Status": "Status",
+            "ProgressStatus": "Progressestatus",
+            "RequestSentTo": "Ráiddujuvvon",
+            "RequestsCompleted": "Ráiddujuvvon",
+            "TotalNoOfRequests": "Ráiddujuvvon",
+            "Type": "Tyyppi"
+          },
+          "RequestStatus": {
+            "Open": "Ráiddujuvvon",
+            "Close": "Gorahallan",
+            "Pending": "Čuovvovaš",
+            "Error": "Válddálaš",
+            "Scheduled": "Gávnnat"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Dás leatnjaevents filter",
+          "Radio": {
+            "Hint": "Váldde čuovvovaš ja váldde válddálaš",
+            "Blacklist": "Válddálašlistu",
+            "Whitelist": "Leatnjalistu"
+          },
+          "FilterMode": {
+            "Label": "Filter mode",
+            "BusinessProfile": "Birračujuhus",
+            "PublishingApp": "Julkaisuohjelma",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Birračujuhussat",
+            "PublishingAppInputLabel": "Julkaisuohjelmat"
+          }
+        }
+      }
+    }
+  }
+}
