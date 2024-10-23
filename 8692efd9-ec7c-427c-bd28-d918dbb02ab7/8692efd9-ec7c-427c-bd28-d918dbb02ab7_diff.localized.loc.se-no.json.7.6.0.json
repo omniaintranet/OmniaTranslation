@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Guhkkit"
+      },
+      "Buttons": {
+        "AddQuery": "Addet guhkki"
+      },
+      "Settings": {
+        "HideVariationSelector": "Ávnnas variation selector",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Buot ráiddu",
+            "RequestedByMe": "Ráiddu munnje",
+            "TargetedToMe": "Ráiddu mu"
+          },
+          "Properties": {
+            "TitleAndLink": "Ovdamearkkat ja čujuhusat",
+            "Description": "Dávddaheaddji",
+            "Requested": "Ráiddu",
+            "RequestedBy": "Ráiddu munnje",
+            "Status": "Status",
+            "ProgressStatus": "Progressema status",
+            "RequestSentTo": "Ráiddu bidjan",
+            "RequestsCompleted": "Ráiddu buktet",
+            "TotalNoOfRequests": "Ráiddu buktet",
+            "Type": "Týpe"
+          },
+          "RequestStatus": {
+            "Open": "Ráiddu",
+            "Close": "Gorut",
+            "Pending": "Čuovvovaš",
+            "Error": "Válddálaš",
+            "Scheduled": "Gávnnat"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Dás leatnji events filter",
+          "Radio": {
+            "Hint": "Váldde čuovvovaš ja váldde válddálaš",
+            "Blacklist": "Válddálašlistu",
+            "Whitelist": "Whitelistu"
+          },
+          "FilterMode": {
+            "Label": "Filter mode",
+            "BusinessProfile": "Birra profiila",
+            "PublishingApp": "Bures profiila",
+            "PageCollection": "Searvi sivvat",
+            "BusinessProfileInputLabel": "Birra profiilat",
+            "PublishingAppInputLabel": "Bures profiilat"
+          }
+        }
+      }
+    }
+  }
+}
