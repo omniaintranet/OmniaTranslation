@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Galderak"
+      },
+      "Buttons": {
+        "AddQuery": "Galdera gehitu"
+      },
+      "Settings": {
+        "HideVariationSelector": "Aukera hautapenak ezkutatu",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Eskaerak guztiak",
+            "RequestedByMe": "Nire eskaerak",
+            "TargetedToMe": "Niretzat zuzendutakoak"
+          },
+          "Properties": {
+            "TitleAndLink": "Izenburua eta esteka",
+            "Description": "Deskribapena",
+            "Requested": "Eskaera eginda",
+            "RequestedBy": "Eskaera egilea",
+            "Status": "Egoera",
+            "ProgressStatus": "Aurrerapen egoera",
+            "RequestSentTo": "Eskaera bidali zaiotza",
+            "RequestsCompleted": "Eskaerak amaituta",
+            "TotalNoOfRequests": "Eskaerak guztira",
+            "Type": "Mota"
+          },
+          "RequestStatus": {
+            "Open": "Ireki",
+            "Close": "Itxi",
+            "Pending": "Zain",
+            "Error": "Errorea",
+            "Scheduled": "Egitarauan"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Gertaerak iragazkiaren filtroa",
+          "EnableEventsFilter": "Gertaerak iragazkiaren filtroa gaitu",
+          "Radio": {
+            "Hint": "Iragazki modua eta beltza modua artean aldatu",
+            "Blacklist": "Beltza",
+            "Whitelist": "Iragazki"
+          },
+          "FilterMode": {
+            "Label": "Iragazki modua",
+            "BusinessProfile": "Negozio profila",
+            "PublishingApp": "Argitaratze aplikazioa",
+            "PageCollection": "Orrialde bilduma",
+            "BusinessProfileInputLabel": "Negozio profilak",
+            "PublishingAppInputLabel": "Argitaratze aplikazioak"
+          }
+        }
+      }
+    }
+  }
+}
