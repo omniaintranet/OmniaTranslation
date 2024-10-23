@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Zoekopdrachten"
+      },
+      "Buttons": {
+        "AddQuery": "Zoekopdracht toevoegen"
+      },
+      "Settings": {
+        "HideVariationSelector": "Variatiekiezer verbergen",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alle verzoeken",
+            "RequestedByMe": "Aangevraagd door mij",
+            "TargetedToMe": "Gericht aan mij"
+          },
+          "Properties": {
+            "TitleAndLink": "Titel en link",
+            "Description": "Beschrijving",
+            "Requested": "Aangevraagd",
+            "RequestedBy": "Aangevraagd door",
+            "Status": "Status",
+            "ProgressStatus": "Voortgangsstatus",
+            "RequestSentTo": "Verzoek verzonden naar",
+            "RequestsCompleted": "Verzoeken voltooid",
+            "TotalNoOfRequests": "Totaal aantal verzoeken",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Open",
+            "Close": "Gesloten",
+            "Pending": "In behandeling",
+            "Error": "Fout",
+            "Scheduled": "Gepland"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist gebeurtenisfilter",
+          "EnableEventsFilter": "Gebeurtenisfilter inschakelen",
+          "Radio": {
+            "Hint": "Schakel tussen whitelist-modus en blacklist-modus",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedrijfsprofiel",
+            "PublishingApp": "Publicatie-app",
+            "PageCollection": "Paginacollectie",
+            "BusinessProfileInputLabel": "Bedrijfsprofielen",
+            "PublishingAppInputLabel": "Publicatie-apps"
+          }
+        }
+      }
+    }
+  }
+}
