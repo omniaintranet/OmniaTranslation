@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Запити"
+      },
+      "Buttons": {
+        "AddQuery": "Додати запит"
+      },
+      "Settings": {
+        "HideVariationSelector": "Приховати вибір варіації",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Всі запити",
+            "RequestedByMe": "Запитані мною",
+            "TargetedToMe": "Адресовані мені"
+          },
+          "Properties": {
+            "TitleAndLink": "Назва та посилання",
+            "Description": "Опис",
+            "Requested": "Запитано",
+            "RequestedBy": "Запитано користувачем",
+            "Status": "Статус",
+            "ProgressStatus": "Статус виконання",
+            "RequestSentTo": "Запит надіслано до",
+            "RequestsCompleted": "Запити виконано",
+            "TotalNoOfRequests": "Загальна кількість запитів",
+            "Type": "Тип"
+          },
+          "RequestStatus": {
+            "Open": "Відкритий",
+            "Close": "Закритий",
+            "Pending": "Очікує",
+            "Error": "Помилка",
+            "Scheduled": "Запланований"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Фільтр подій білого списку",
+          "EnableEventsFilter": "Увімкнути фільтр подій",
+          "Radio": {
+            "Hint": "Переключитися між режимом білого списку та чорного списку",
+            "Blacklist": "Чорний список",
+            "Whitelist": "Білий список"
+          },
+          "FilterMode": {
+            "Label": "Режим фільтра",
+            "BusinessProfile": "Бізнес-профіль",
+            "PublishingApp": "Публікаційний додаток",
+            "PageCollection": "Колекція сторінок",
+            "BusinessProfileInputLabel": "Бізнес-профілі",
+            "PublishingAppInputLabel": "Публікаційні додатки"
+          }
+        }
+      }
+    }
+  }
+}
