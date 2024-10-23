@@ -36,19 +36,19 @@
           }
         },
         "EventsFilter": {
-          "Title": "Whitelist händelsesfilter",
+          "Title": "Händelsesfilter tillåtlista",
           "EnableEventsFilter": "Aktivera händelsesfilter",
           "Radio": {
-            "Hint": "Växla mellan whitelist-läge och blacklist-läge",
-            "Blacklist": "Blacklist",
-            "Whitelist": "Whitelist"
+            "Hint": "Växla mellan tillåt-läge och block-läge",
+            "Blacklist": "Blocklista",
+            "Whitelist": "Tillåtlista"
           },
           "FilterMode": {
             "Label": "Filterläge",
-            "BusinessProfile": "Företagsprofil",
+            "BusinessProfile": "Verksamhetsprofil",
             "PublishingApp": "Publiceringsapp",
-            "PageCollection": "Sidinsamling",
-            "BusinessProfileInputLabel": "Företagsprofiler",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
             "PublishingAppInputLabel": "Publiceringsappar"
           }
         }
