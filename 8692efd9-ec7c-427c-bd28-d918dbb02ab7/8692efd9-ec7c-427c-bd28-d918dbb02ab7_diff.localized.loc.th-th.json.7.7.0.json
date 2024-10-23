@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "คำถาม"
+      },
+      "Buttons": {
+        "AddQuery": "เพิ่มคำถาม"
+      },
+      "Settings": {
+        "HideVariationSelector": "ซ่อนตัวเลือกการแปลง",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "คำขอทั้งหมด",
+            "RequestedByMe": "คำขอที่ขอโดยฉัน",
+            "TargetedToMe": "คำขอที่เป้าหมายถึงฉัน"
+          },
+          "Properties": {
+            "TitleAndLink": "ชื่อและลิงก์",
+            "Description": "คำอธิบาย",
+            "Requested": "ขอโดย",
+            "RequestedBy": "ขอโดย",
+            "Status": "สถานะ",
+            "ProgressStatus": "สถานะความคืบหน้า",
+            "RequestSentTo": "ส่งคำขอไปยัง",
+            "RequestsCompleted": "คำขอที่เสร็จสิ้น",
+            "TotalNoOfRequests": "จำนวนคำขอทั้งหมด",
+            "Type": "ประเภท"
+          },
+          "RequestStatus": {
+            "Open": "เปิด",
+            "Close": "ปิด",
+            "Pending": "รอดำเนินการ",
+            "Error": "ข้อผิดพลาด",
+            "Scheduled": "กำหนดการ"
+          }
+        }
+      }
+    }
+  }
+}
