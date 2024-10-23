@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Päringud"
+      },
+      "Buttons": {
+        "AddQuery": "Lisa päring"
+      },
+      "Settings": {
+        "HideVariationSelector": "Peida variatsiooni valija",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Kõik päringud",
+            "RequestedByMe": "Minu poolt taotletud",
+            "TargetedToMe": "Minu jaoks suunatud"
+          },
+          "Properties": {
+            "TitleAndLink": "Pealkiri ja link",
+            "Description": "Kirjeldus",
+            "Requested": "Taotletud",
+            "RequestedBy": "Taotletudpoolt",
+            "Status": "Staatus",
+            "ProgressStatus": "Edenemise staatus",
+            "RequestSentTo": "Päring saadetud",
+            "RequestsCompleted": "Valmis päringud",
+            "TotalNoOfRequests": "Kokku päringuid",
+            "Type": "Tüüp"
+          },
+          "RequestStatus": {
+            "Open": "Avatud",
+            "Close": "Suletud",
+            "Pending": "Ootel",
+            "Error": "Viga",
+            "Scheduled": "Planeeritud"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Sündmuste filtri lubamine",
+          "EnableEventsFilter": "Luba sündmuste filter",
+          "Radio": {
+            "Hint": "Lülita ümber valge nimekirja ja musta nimekirja režiimivahel",
+            "Blacklist": "Must nimekiri",
+            "Whitelist": "Valge nimekiri"
+          },
+          "FilterMode": {
+            "Label": "Filtri režiim",
+            "BusinessProfile": "Äriprofiil",
+            "PublishingApp": "Avaldamisrakendus",
+            "PageCollection": "Leheküljekogu",
+            "BusinessProfileInputLabel": "Äriprofiilid",
+            "PublishingAppInputLabel": "Avaldamisrakendused"
+          }
+        }
+      }
+    }
+  }
+}
