@@ -21,7 +21,7 @@
             "Requested": "Begärt",
             "RequestedBy": "Begärt av",
             "Status": "Status",
-            "ProgressStatus": "Framstegsstatus",
+            "ProgressStatus": "Status",
             "RequestSentTo": "Begäran skickad till",
             "RequestsCompleted": "Avslutade begäranden",
             "TotalNoOfRequests": "Totalt antal begäranden",
