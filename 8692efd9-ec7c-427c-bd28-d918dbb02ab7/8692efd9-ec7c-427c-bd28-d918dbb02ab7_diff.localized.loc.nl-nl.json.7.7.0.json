@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Zoekopdrachten"
+      },
+      "Buttons": {
+        "AddQuery": "Zoekopdracht toevoegen"
+      },
+      "Settings": {
+        "HideVariationSelector": "Variatiekiezer verbergen",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alle verzoeken",
+            "RequestedByMe": "Aangevraagd door mij",
+            "TargetedToMe": "Gericht aan mij"
+          },
+          "Properties": {
+            "TitleAndLink": "Titel en link",
+            "Description": "Beschrijving",
+            "Requested": "Aangevraagd",
+            "RequestedBy": "Aangevraagd door",
+            "Status": "Status",
+            "ProgressStatus": "Voortgangsstatus",
+            "RequestSentTo": "Verzoek verzonden naar",
+            "RequestsCompleted": "Verzoeken voltooid",
+            "TotalNoOfRequests": "Totaal aantal verzoeken",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Open",
+            "Close": "Gesloten",
+            "Pending": "In behandeling",
+            "Error": "Fout",
+            "Scheduled": "Gepland"
+          }
+        }
+      }
+    }
+  }
+}
