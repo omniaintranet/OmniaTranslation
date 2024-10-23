@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Запросы"
+      },
+      "Buttons": {
+        "AddQuery": "Добавить запрос"
+      },
+      "Settings": {
+        "HideVariationSelector": "Скрыть селектор вариантов",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Все запросы",
+            "RequestedByMe": "Запрошено мной",
+            "TargetedToMe": "Направлено мне"
+          },
+          "Properties": {
+            "TitleAndLink": "Название и ссылка",
+            "Description": "Описание",
+            "Requested": "Запрошено",
+            "RequestedBy": "Запрошено пользователем",
+            "Status": "Статус",
+            "ProgressStatus": "Статус выполнения",
+            "RequestSentTo": "Запрос отправлен",
+            "RequestsCompleted": "Запросы выполнены",
+            "TotalNoOfRequests": "Общее количество запросов",
+            "Type": "Тип"
+          },
+          "RequestStatus": {
+            "Open": "Открыт",
+            "Close": "Закрыт",
+            "Pending": "Ожидает",
+            "Error": "Ошибка",
+            "Scheduled": "Запланирован"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Фильтр событий белого списка",
+          "EnableEventsFilter": "Включить фильтр событий",
+          "Radio": {
+            "Hint": "Переключение между режимом белого списка и режимом черного списка",
+            "Blacklist": "Черный список",
+            "Whitelist": "Белый список"
+          },
+          "FilterMode": {
+            "Label": "Режим фильтра",
+            "BusinessProfile": "Бизнес-профиль",
+            "PublishingApp": "Публикационное приложение",
+            "PageCollection": "Коллекция страниц",
+            "BusinessProfileInputLabel": "Бизнес-профили",
+            "PublishingAppInputLabel": "Публикационные приложения"
+          }
+        }
+      }
+    }
+  }
+}
