@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Frågor"
+      },
+      "Buttons": {
+        "AddQuery": "Lägg till fråga"
+      },
+      "Settings": {
+        "HideVariationSelector": "Dölj variationsväljare",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alla begäranden",
+            "RequestedByMe": "Begärt av mig",
+            "TargetedToMe": "Riktat till mig"
+          },
+          "Properties": {
+            "TitleAndLink": "Titel och länk",
+            "Description": "Beskrivning",
+            "Requested": "Begärt",
+            "RequestedBy": "Begärt av",
+            "Status": "Status",
+            "ProgressStatus": "Framstegsstatus",
+            "RequestSentTo": "Begäran skickad till",
+            "RequestsCompleted": "Avslutade begäranden",
+            "TotalNoOfRequests": "Totalt antal begäranden",
+            "Type": "Typ"
+          },
+          "RequestStatus": {
+            "Open": "Öppen",
+            "Close": "Stängd",
+            "Pending": "Väntande",
+            "Error": "Fel",
+            "Scheduled": "Schemalagd"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist händelsesfilter",
+          "EnableEventsFilter": "Aktivera händelsesfilter",
+          "Radio": {
+            "Hint": "Växla mellan whitelist-läge och blacklist-läge",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filterläge",
+            "BusinessProfile": "Företagsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidinsamling",
+            "BusinessProfileInputLabel": "Företagsprofiler",
+            "PublishingAppInputLabel": "Publiceringsappar"
+          }
+        }
+      }
+    }
+  }
+}
