@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Spørringer"
+      },
+      "Buttons": {
+        "AddQuery": "Legg til spørring"
+      },
+      "Settings": {
+        "HideVariationSelector": "Skjulvariasjonsvelger",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Alle forespørsler",
+            "RequestedByMe": "Forespurt av meg",
+            "TargetedToMe": "Målrettet mot meg"
+          },
+          "Properties": {
+            "TitleAndLink": "Tittel og lenke",
+            "Description": "Beskrivelse",
+            "Requested": "Forespurt",
+            "RequestedBy": "Forespurt av",
+            "Status": "Status",
+            "ProgressStatus": "Fremdriftsstatus",
+            "RequestSentTo": "Forespørsel sendt til",
+            "RequestsCompleted": "Forespørsler fullført",
+            "TotalNoOfRequests": "Totalt antall forespørsler",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Åpen",
+            "Close": "Lukket",
+            "Pending": "Avventer",
+            "Error": "Feil",
+            "Scheduled": "Planlagt"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Hviteliste hendelsesfilter",
+          "EnableEventsFilter": "Aktiver hendelsesfilter",
+          "Radio": {
+            "Hint": "Bytt mellom hviteliste-modus og svarteliste-modus",
+            "Blacklist": "Svarteliste",
+            "Whitelist": "Hviteliste"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Forretningsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidekolleksjon",
+            "BusinessProfileInputLabel": "Forretningsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapper"
+          }
+        }
+      }
+    }
+  }
+}

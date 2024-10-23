@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Užklausos"
+      },
+      "Buttons": {
+        "AddQuery": "Pridėti užklausą"
+      },
+      "Settings": {
+        "HideVariationSelector": "Slėpti varianto pasirinkiklį",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Visos užklausos",
+            "RequestedByMe": "Mano užklausos",
+            "TargetedToMe": "Man skirtos užklausos"
+          },
+          "Properties": {
+            "TitleAndLink": "Pavadinimas ir nuoroda",
+            "Description": "Aprašymas",
+            "Requested": "Prašoma",
+            "RequestedBy": "Prašėjas",
+            "Status": "Būsena",
+            "ProgressStatus": "Pažangos būsena",
+            "RequestSentTo": "Užklausaišsiųsta į",
+            "RequestsCompleted": "Užklausos atlikta",
+            "TotalNoOfRequests": "Viso užklausų skaičius",
+            "Type": "Tipas"
+          },
+          "RequestStatus": {
+            "Open": "Atidaryta",
+            "Close": "Uždaryta",
+            "Pending": "Laukiama",
+            "Error": "Klaida",
+            "Scheduled": "Suplanuota"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Baltosios sąrašo įvykių filtras",
+          "EnableEventsFilter": "Įjungti įvykiųfiltrą",
+          "Radio": {
+            "Hint": "Perjungti tarp baltosios sąrašo ir juodosios sąrašo režimų",
+            "Blacklist": "Juodasis sąrašas",
+            "Whitelist": "Baltasis sąrašas"
+          },
+          "FilterMode": {
+            "Label": "Filtro režimas",
+            "BusinessProfile": "Verslo profilis",
+            "PublishingApp": "Publikavimo programa",
+            "PageCollection": "Puslapių kolekcija",
+            "BusinessProfileInputLabel": "Verslo profiliai",
+            "PublishingAppInputLabel": "Publikavimo programos"
+          }
+        }
+      }
+    }
+  }
+}

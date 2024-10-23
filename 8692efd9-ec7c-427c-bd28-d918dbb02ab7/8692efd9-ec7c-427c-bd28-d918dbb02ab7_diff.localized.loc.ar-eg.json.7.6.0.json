@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "الاستعلامات"
+      },
+      "Buttons": {
+        "AddQuery": "إضافة استعلام"
+      },
+      "Settings": {
+        "HideVariationSelector": "إخفاء محدد التباين",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "جميع الطلبات",
+            "RequestedByMe": "المطلوبة من قبلي",
+            "TargetedToMe": "المستهدفة لي"
+          },
+          "Properties": {
+            "TitleAndLink": "العنوان والرابط",
+            "Description": "الوصف",
+            "Requested": "المطلوب",
+            "RequestedBy": "المطلوب من قبل",
+            "Status": "الحالة",
+            "ProgressStatus": "حالة التقدم",
+            "RequestSentTo": "تم إرسال الطلب إلى",
+            "RequestsCompleted": "الطلبات المكتملة",
+            "TotalNoOfRequests": "إجمالي عدد الطلبات",
+            "Type": "النوع"
+          },
+          "RequestStatus": {
+            "Open": "مفتوح",
+            "Close": "مغلق",
+            "Pending": "معلق",
+            "Error": "خطأ",
+            "Scheduled": "مجدول"
+          }
+        },
+        "EventsFilter": {
+          "Title": "تصفية حدث القائمة البيضاء",
+          "EnableEventsFilter": "تمكين تصفية الأحداث",
+          "Radio": {
+            "Hint": "التبديل بين وضع القائمة البيضاء ووضع القائمة السوداء",
+            "Blacklist": "القائمة السوداء",
+            "Whitelist": "القائمة البيضاء"
+          },
+          "FilterMode": {
+            "Label": "وضع التصفية",
+            "BusinessProfile": "الملف التجاري",
+            "PublishingApp": "تطبيق النشر",
+            "PageCollection": "مجموعة الصفحات",
+            "BusinessProfileInputLabel": "الملفات التجارية",
+            "PublishingAppInputLabel": "تطبيقات النشر"
+          }
+        }
+      }
+    }
+  }
+}

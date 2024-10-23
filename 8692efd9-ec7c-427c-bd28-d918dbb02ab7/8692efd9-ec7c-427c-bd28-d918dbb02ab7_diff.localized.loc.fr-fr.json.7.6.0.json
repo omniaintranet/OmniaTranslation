@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Requêtes"
+      },
+      "Buttons": {
+        "AddQuery": "Ajouter une requête"
+      },
+      "Settings": {
+        "HideVariationSelector": "Masquer le sélecteur de variation",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Toutes les demandes",
+            "RequestedByMe": "Demandées par moi",
+            "TargetedToMe": "Ciblées sur moi"
+          },
+          "Properties": {
+            "TitleAndLink": "Titre et lien",
+            "Description": "Description",
+            "Requested": "Demandé",
+            "RequestedBy": "Demandé par",
+            "Status": "Statut",
+            "ProgressStatus": "Statut d'avancement",
+            "RequestSentTo": "Demande envoyée à",
+            "RequestsCompleted": "Demandes terminées",
+            "TotalNoOfRequests": "Nombre total de demandes",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Ouvert",
+            "Close": "Fermé",
+            "Pending": "En attente",
+            "Error": "Erreur",
+            "Scheduled": "Planifié"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtre des événements en liste blanche",
+          "EnableEventsFilter": "Activer le filtre des événements",
+          "Radio": {
+            "Hint": "Basculer entre le mode liste blanche et le mode liste noire",
+            "Blacklist": "Liste noire",
+            "Whitelist": "Liste blanche"
+          },
+          "FilterMode": {
+            "Label": "Mode de filtrage",
+            "BusinessProfile": "Profil d'entreprise",
+            "PublishingApp": "Application de publication",
+            "PageCollection": "Collection de pages",
+            "BusinessProfileInputLabel": "Profils d'entreprise",
+            "PublishingAppInputLabel": "Applications de publication"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Interogări"
+      },
+      "Buttons": {
+        "AddQuery": "Adăugați interogare"
+      },
+      "Settings": {
+        "HideVariationSelector": "Ascundeți selectorul de variații",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Toate cererile",
+            "RequestedByMe": "Cerute de mine",
+            "TargetedToMe": "Adresate mie"
+          },
+          "Properties": {
+            "TitleAndLink": "Titlu și link",
+            "Description": "Descriere",
+            "Requested": "Cerut",
+            "RequestedBy": "Cerut de",
+            "Status": "Stare",
+            "ProgressStatus": "Stare de progres",
+            "RequestSentTo": "Cereretrimisă către",
+            "RequestsCompleted": "Cereri finalizate",
+            "TotalNoOfRequests": "Număr total de cereri",
+            "Type": "Tip"
+          },
+          "RequestStatus": {
+            "Open": "Deschis",
+            "Close": "Închis",
+            "Pending": "În așteptare",
+            "Error": "Eroare",
+            "Scheduled": "Programat"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtru evenimente whitelist",
+          "EnableEventsFilter": "Activați filtrul de evenimente",
+          "Radio": {
+            "Hint": "Comutați între modul whitelist și modul blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Mod filtru",
+            "BusinessProfile": "Profil de afaceri",
+            "PublishingApp": "Aplicație de publicare",
+            "PageCollection": "Colectie de pagini",
+            "BusinessProfileInputLabel": "Profile de afaceri",
+            "PublishingAppInputLabel": "Aplicații de publicare"
+          }
+        }
+      }
+    }
+  }
+}

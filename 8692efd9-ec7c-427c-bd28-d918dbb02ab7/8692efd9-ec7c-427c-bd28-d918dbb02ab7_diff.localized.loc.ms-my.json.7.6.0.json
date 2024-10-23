@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Kueries"
+      },
+      "Buttons": {
+        "AddQuery": "Tambah kuery"
+      },
+      "Settings": {
+        "HideVariationSelector": "Sembunyikan pemilih variasi",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Semua permintaan",
+            "RequestedByMe": "Diminta oleh saya",
+            "TargetedToMe": "Ditujukan kepadasaya"
+          },
+          "Properties": {
+            "TitleAndLink": "Judul dan tautan",
+            "Description": "Deskripsi",
+            "Requested": "Diminta",
+            "RequestedBy": "Diminta oleh",
+            "Status": "Status",
+            "ProgressStatus": "Status kemajuan",
+            "RequestSentTo": "Permintaan dikirim ke",
+            "RequestsCompleted": "Permintaan selesai",
+            "TotalNoOfRequests": "Jumlah total permintaan",
+            "Type": "Jenis"
+          },
+          "RequestStatus": {
+            "Open": "Terbuka",
+            "Close": "Tutup",
+            "Pending": "Tertunda",
+            "Error": "Kesalahan",
+            "Scheduled": "Dijadwalkan"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filter acara daftar putih",
+          "EnableEventsFilter": "Aktifkan filter acara",
+          "Radio": {
+            "Hint": "Beralih antara mode daftar putih dan mode daftar hitam",
+            "Blacklist": "Daftar hitam",
+            "Whitelist": "Daftar putih"
+          },
+          "FilterMode": {
+            "Label": "Mode filter",
+            "BusinessProfile": "Profil bisnis",
+            "PublishingApp": "Aplikasi penerbitan",
+            "PageCollection": "Koleksi halaman",
+            "BusinessProfileInputLabel": "Profil bisnis",
+            "PublishingAppInputLabel": "Aplikasi penerbitan"
+          }
+        }
+      }
+    }
+  }
+}

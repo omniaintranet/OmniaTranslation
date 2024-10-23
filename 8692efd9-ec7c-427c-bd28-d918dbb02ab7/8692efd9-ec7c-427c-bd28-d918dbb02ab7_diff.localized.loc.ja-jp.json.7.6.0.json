@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "クエリ"
+      },
+      "Buttons": {
+        "AddQuery": "クエリを追加"
+      },
+      "Settings": {
+        "HideVariationSelector": "バリエーションセレクタを非表示にする",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "すべてのリクエスト",
+            "RequestedByMe": "自分がリクエストしたもの",
+            "TargetedToMe": "自分に対象のリクエスト"
+          },
+          "Properties": {
+            "TitleAndLink": "タイトルとリンク",
+            "Description": "説明",
+            "Requested": "リクエスト日時",
+            "RequestedBy": "リクエスト者",
+            "Status": "ステータス",
+            "ProgressStatus": "進行状況ステータス",
+            "RequestSentTo": "リクエスト送信先",
+            "RequestsCompleted": "完了したリクエスト",
+            "TotalNoOfRequests": "総リクエスト数",
+            "Type": "タイプ"
+          },
+          "RequestStatus": {
+            "Open": "オープン",
+            "Close": "クローズ",
+            "Pending": "保留中",
+            "Error": "エラー",
+            "Scheduled": "スケジュール済み"
+          }
+        },
+        "EventsFilter": {
+          "Title": "イベントフィルタのホワイトリスト",
+          "EnableEventsFilter": "イベントフィルタを有効にする",
+          "Radio": {
+            "Hint": "ホワイトリストモードとブラックリストモードを切り替える",
+            "Blacklist": "ブラックリスト",
+            "Whitelist": "ホワイトリスト"
+          },
+          "FilterMode": {
+            "Label": "フィルタモード",
+            "BusinessProfile": "ビジネスプロファイル",
+            "PublishingApp": "パブリッシングアプリ",
+            "PageCollection": "ページコレクション",
+            "BusinessProfileInputLabel": "ビジネスプロファイル",
+            "PublishingAppInputLabel": "パブリッシングアプリ"
+          }
+        }
+      }
+    }
+  }
+}

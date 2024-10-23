@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Kyselyt"
+      },
+      "Buttons": {
+        "AddQuery": "Lisää kysely"
+      },
+      "Settings": {
+        "HideVariationSelector": "Piilota variaation valitsin",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Kaikki pyynnöt",
+            "RequestedByMe": "Minun pyynnöt",
+            "TargetedToMe": "Minulle kohdistetut"
+          },
+          "Properties": {
+            "TitleAndLink": "Otsikko ja linkki",
+            "Description": "Kuvaus",
+            "Requested": "Pyydetty",
+            "RequestedBy": "Pyytäjä",
+            "Status": "Tila",
+            "ProgressStatus": "Edistyksen tila",
+            "RequestSentTo": "Pyyntö lähetetty",
+            "RequestsCompleted": "Valmiit pyynnöt",
+            "TotalNoOfRequests": "Kaikkien pyyntöjen määrä",
+            "Type": "Tyyppi"
+          },
+          "RequestStatus": {
+            "Open": "Avoin",
+            "Close": "Suljettu",
+            "Pending": "Odottaa",
+            "Error": "Virhe",
+            "Scheduled": "Ajoitettu"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Tapahtumien suodatus",
+          "EnableEventsFilter": "Ota tapahtumien suodatus käyttöön",
+          "Radio": {
+            "Hint": "Vaihda valkoisen listan tilan ja mustan listan tilan välillä",
+            "Blacklist": "Musta lista",
+            "Whitelist": "Valkoinen lista"
+          },
+          "FilterMode": {
+            "Label": "Suodatus tila",
+            "BusinessProfile": "Liiketoimintaprofiili",
+            "PublishingApp": "Julkaisusovellus",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Liiketoimintaprofiilit",
+            "PublishingAppInputLabel": "Julkaisusovellukset"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Các truy vấn"
+      },
+      "Buttons": {
+        "AddQuery": "Thêm truy vấn"
+      },
+      "Settings": {
+        "HideVariationSelector": "Ẩn bộ chọn biến thể",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Tất cả yêu cầu",
+            "RequestedByMe": "Yêu cầu của tôi",
+            "TargetedToMe": "Hướng đến tôi"
+          },
+          "Properties": {
+            "TitleAndLink": "Tiêu đề và liên kết",
+            "Description": "Mô tả",
+            "Requested": "Yêu cầu",
+            "RequestedBy": "Yêu cầu bởi",
+            "Status": "Trạng thái",
+            "ProgressStatus": "Trạng thái tiến độ",
+            "RequestSentTo": "Yêu cầu đã gửi đến",
+            "RequestsCompleted": "Yêu cầu đã hoàn thành",
+            "TotalNoOfRequests": "Tổng số yêu cầu",
+            "Type": "Loại"
+          },
+          "RequestStatus": {
+            "Open": "Mở",
+            "Close": "Đóng",
+            "Pending": "Đang chờ",
+            "Error": "Lỗi",
+            "Scheduled": "Đã lên lịch"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Bộ lọc sự kiện whitelist",
+          "EnableEventsFilter": "Bật bộ lọc sự kiện",
+          "Radio": {
+            "Hint": "Chuyển đổi giữa chế độ whitelist và chế độ blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Chế độ lọc",
+            "BusinessProfile": "Hồ sơ doanh nghiệp",
+            "PublishingApp": "Ứng dụng xuất bản",
+            "PageCollection": "Bộ sưu tập trang",
+            "BusinessProfileInputLabel": "Hồ sơdoanh nghiệp",
+            "PublishingAppInputLabel": "Ứng dụng xuất bản"
+          }
+        }
+      }
+    }
+  }
+}
