@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Queries"
+      },
+      "Buttons": {
+        "AddQuery": "Add query"
+      },
+      "Settings": {
+        "HideVariationSelector": "Hide Variation selector",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "All requests",
+            "RequestedByMe": "Requested by me",
+            "TargetedToMe": "Targeted to me"
+          },
+          "Properties": {
+            "TitleAndLink": "Title and link",
+            "Description": "Description",
+            "Requested": "Requested",
+            "RequestedBy": "Requested by",
+            "Status": "Status",
+            "ProgressStatus": "Progress status",
+            "RequestSentTo": "Request sent to",
+            "RequestsCompleted": "Requests completed",
+            "TotalNoOfRequests": "Total number of requests",
+            "Type": "Type"
+          },
+          "RequestStatus": {
+            "Open": "Open",
+            "Close": "Closed",
+            "Pending": "Pending",
+            "Error": "Error",
+            "Scheduled": "Scheduled"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Enable events filter",
+          "Radio": {
+            "Hint": "Switch between whitelist mode and blacklist mode",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filter mode",
+            "BusinessProfile": "Business profile",
+            "PublishingApp": "Publishing app",
+            "PageCollection": "Page collection",
+            "BusinessProfileInputLabel": "Business profiles",
+            "PublishingAppInputLabel": "Publishing apps"
+          }
+        }
+      }
+    }
+  }
+}
