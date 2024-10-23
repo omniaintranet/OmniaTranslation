@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Запити"
+      },
+      "Buttons": {
+        "AddQuery": "Додати запит"
+      },
+      "Settings": {
+        "HideVariationSelector": "Приховати вибір варіації",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Всі запити",
+            "RequestedByMe": "Запитані мною",
+            "TargetedToMe": "Адресовані мені"
+          },
+          "Properties": {
+            "TitleAndLink": "Назва та посилання",
+            "Description": "Опис",
+            "Requested": "Запитано",
+            "RequestedBy": "Запитано користувачем",
+            "Status": "Статус",
+            "ProgressStatus": "Статус виконання",
+            "RequestSentTo": "Запит надіслано до",
+            "RequestsCompleted": "Запити виконано",
+            "TotalNoOfRequests": "Загальна кількість запитів",
+            "Type": "Тип"
+          },
+          "RequestStatus": {
+            "Open": "Відкритий",
+            "Close": "Закритий",
+            "Pending": "Очікує",
+            "Error": "Помилка",
+            "Scheduled": "Запланований"
+          }
+        }
+      }
+    }
+  }
+}
