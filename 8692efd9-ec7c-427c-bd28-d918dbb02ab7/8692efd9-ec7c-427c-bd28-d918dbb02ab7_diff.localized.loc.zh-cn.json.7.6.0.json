@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "查询"
+      },
+      "Buttons": {
+        "AddQuery": "添加查询"
+      },
+      "Settings": {
+        "HideVariationSelector": "隐藏变体选择器",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "所有请求",
+            "RequestedByMe": "由我请求",
+            "TargetedToMe": "针对我"
+          },
+          "Properties": {
+            "TitleAndLink": "标题和链接",
+            "Description": "描述",
+            "Requested": "请求时间",
+            "RequestedBy": "请求人",
+            "Status": "状态",
+            "ProgressStatus": "进度状态",
+            "RequestSentTo": "请求发送至",
+            "RequestsCompleted": "已完成的请求",
+            "TotalNoOfRequests": "请求总数",
+            "Type": "类型"
+          },
+          "RequestStatus": {
+            "Open": "打开",
+            "Close": "关闭",
+            "Pending": "待处理",
+            "Error": "错误",
+            "Scheduled": "已计划"
+          }
+        },
+        "EventsFilter": {
+          "Title": "白名单事件过滤器",
+          "EnableEventsFilter": "启用事件过滤器",
+          "Radio": {
+            "Hint": "在白名单模式和黑名单模式之间切换",
+            "Blacklist": "黑名单",
+            "Whitelist": "白名单"
+          },
+          "FilterMode": {
+            "Label": "过滤模式",
+            "BusinessProfile": "业务配置文件",
+            "PublishingApp": "发布应用",
+            "PageCollection": "页面集合",
+            "BusinessProfileInputLabel": "业务配置文件",
+            "PublishingAppInputLabel": "发布应用"
+          }
+        }
+      }
+    }
+  }
+}
