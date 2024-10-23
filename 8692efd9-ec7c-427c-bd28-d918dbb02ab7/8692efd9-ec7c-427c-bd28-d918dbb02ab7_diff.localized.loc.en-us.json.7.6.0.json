@@ -11,17 +11,17 @@
         "HideVariationSelector": "Hide Variation selector",
         "SignOffRequest": {
           "Scopes": {
-            "AllRequests": "All Requests",
+            "AllRequests": "All requests",
             "RequestedByMe": "Requested by me",
             "TargetedToMe": "Targeted to me"
           },
           "Properties": {
-            "TitleAndLink": "Title and Link",
+            "TitleAndLink": "Title and link",
             "Description": "Description",
             "Requested": "Requested",
             "RequestedBy": "Requested by",
             "Status": "Status",
-            "ProgressStatus": "Progress Status",
+            "ProgressStatus": "Progress status",
             "RequestSentTo": "Request sent to",
             "RequestsCompleted": "Requests completed",
             "TotalNoOfRequests": "Total no of requests",
@@ -36,7 +36,7 @@
           }
         },
         "EventsFilter": {
-          "Title": "Whitelist Events filter",
+          "Title": "Whitelist events filter",
           "EnableEventsFilter": "Enable events filter",
           "Radio": {
             "Hint": "Switch between whitelist mode and blacklist mode",
