@@ -1,0 +1,41 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "Запросы"
+      },
+      "Buttons": {
+        "AddQuery": "Добавить запрос"
+      },
+      "Settings": {
+        "HideVariationSelector": "Скрыть селектор вариантов",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "Все запросы",
+            "RequestedByMe": "Запрошено мной",
+            "TargetedToMe": "Направлено мне"
+          },
+          "Properties": {
+            "TitleAndLink": "Название и ссылка",
+            "Description": "Описание",
+            "Requested": "Запрошено",
+            "RequestedBy": "Запрошено пользователем",
+            "Status": "Статус",
+            "ProgressStatus": "Статус выполнения",
+            "RequestSentTo": "Запрос отправлен",
+            "RequestsCompleted": "Запросы выполнены",
+            "TotalNoOfRequests": "Общее количество запросов",
+            "Type": "Тип"
+          },
+          "RequestStatus": {
+            "Open": "Открыт",
+            "Close": "Закрыт",
+            "Pending": "Ожидает",
+            "Error": "Ошибка",
+            "Scheduled": "Запланирован"
+          }
+        }
+      }
+    }
+  }
+}
