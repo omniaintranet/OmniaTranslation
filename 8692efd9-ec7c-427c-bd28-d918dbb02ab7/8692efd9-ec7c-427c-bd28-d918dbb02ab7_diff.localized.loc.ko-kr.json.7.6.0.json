@@ -1,0 +1,58 @@
+{
+  "Omnia": {
+    "Feed": {
+      "TabSections": {
+        "Queries": "질의"
+      },
+      "Buttons": {
+        "AddQuery": "질의 추가"
+      },
+      "Settings": {
+        "HideVariationSelector": "다국어 선택기 숨기기",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "모든 요청",
+            "RequestedByMe": "내가 요청한 것",
+            "TargetedToMe": "나에게 대상 지정된 것"
+          },
+          "Properties": {
+            "TitleAndLink": "제목 및 링크",
+            "Description": "설명",
+            "Requested": "요청됨",
+            "RequestedBy": "요청자",
+            "Status": "상태",
+            "ProgressStatus": "진행 상태",
+            "RequestSentTo": "요청 보낸 대상",
+            "RequestsCompleted": "완료된 요청",
+            "TotalNoOfRequests": "총 요청 수",
+            "Type": "유형"
+          },
+          "RequestStatus": {
+            "Open": "열림",
+            "Close": "닫힘",
+            "Pending": "보류중",
+            "Error": "오류",
+            "Scheduled": "예약됨"
+          }
+        },
+        "EventsFilter": {
+          "Title": "이벤트 필터 화이트리스트",
+          "EnableEventsFilter": "이벤트 필터 사용",
+          "Radio": {
+            "Hint": "화이트리스트 모드와 블랙리스트 모드 전환",
+            "Blacklist": "블랙리스트",
+            "Whitelist": "화이트리스트"
+          },
+          "FilterMode": {
+            "Label": "필터 모드",
+            "BusinessProfile": "비즈니스 프로필",
+            "PublishingApp": "게시 앱",
+            "PageCollection": "페이지 컬렉션",
+            "BusinessProfileInputLabel": "비즈니스 프로필",
+            "PublishingAppInputLabel": "게시 앱"
+          }
+        }
+      }
+    }
+  }
+}
