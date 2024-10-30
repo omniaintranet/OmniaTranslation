@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "This page is in read-only mode. Moving Id: {TrackingId}"
+        }
+      }
+    }
+  }
+}
