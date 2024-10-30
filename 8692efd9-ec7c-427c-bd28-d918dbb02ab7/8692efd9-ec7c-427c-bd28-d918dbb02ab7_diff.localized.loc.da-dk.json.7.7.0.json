@@ -21,7 +21,7 @@
             "Requested": "Anmodet",
             "RequestedBy": "Anmodet af",
             "Status": "Status",
-            "ProgressStatus": "Fremskridtsstatus",
+            "ProgressStatus": "Status",
             "RequestSentTo": "Forespørgsel sendt til",
             "RequestsCompleted": "Forespørgsler fuldført",
             "TotalNoOfRequests": "Samlet antal forespørgsler",
