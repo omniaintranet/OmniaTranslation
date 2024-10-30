@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Tämä sivu on vain luku -tilassa. Siirretään tunnisteella: {TrackingId}"
+        }
+      }
+    }
+  }
+}
