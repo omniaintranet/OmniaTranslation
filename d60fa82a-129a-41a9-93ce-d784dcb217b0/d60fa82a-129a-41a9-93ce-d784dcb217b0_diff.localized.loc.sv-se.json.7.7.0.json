@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Denna sida är i läsläge. Flyttar Id: {TrackingId}"
+        }
+      }
+    }
+  }
+}
