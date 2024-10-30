@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Deze pagina is in alleen-lezen modus. Verplaatsen Id: {TrackingId}"
+        }
+      }
+    }
+  }
+}
