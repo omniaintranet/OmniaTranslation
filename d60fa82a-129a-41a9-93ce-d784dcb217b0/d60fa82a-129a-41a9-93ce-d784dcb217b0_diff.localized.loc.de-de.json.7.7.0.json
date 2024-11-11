@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Diese Seite befindet sich im Nur-Lese-Modus. Verschieben der ID: {TrackingId}"
+        }
+      }
+    }
+  }
+}

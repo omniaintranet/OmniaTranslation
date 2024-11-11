@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Trang này đang ở chế độ chỉ đọc. Di chuyển Id: {TrackingId}"
+        }
+      }
+    }
+  }
+}

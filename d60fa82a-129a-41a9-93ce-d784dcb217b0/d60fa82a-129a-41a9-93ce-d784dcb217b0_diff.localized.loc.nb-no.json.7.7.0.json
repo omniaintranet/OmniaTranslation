@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Denne siden er i skrivebeskyttet modus. Flytting ID: {TrackingId}"
+        }
+      }
+    }
+  }
+}

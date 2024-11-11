@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "MovePage": {
+          "PageInReadModeMessage": "Esta página está en modo de solo lectura. Moviendo Id: {TrackingId}"
+        }
+      }
+    }
+  }
+}
