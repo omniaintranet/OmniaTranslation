@@ -1,7 +1,7 @@
 {
   "OmniaWorkplace": {
     "SignOffRequest": {
-      "DefaultContentMessage": "I confirm that I have read and understood the contents of this content."
+      "DefaultContentMessage": "I confirm that I have read and understood this content."
     }
   }
 }
