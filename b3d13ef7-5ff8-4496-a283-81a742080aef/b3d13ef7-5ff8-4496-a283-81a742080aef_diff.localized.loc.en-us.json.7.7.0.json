@@ -1,16 +1,16 @@
 {
   "ODM": {
     "Admin": {
-      "AllowValidateUnacceptedChange": "Allow validate unaccepted change"
+      "AllowValidateUnacceptedChange": "Allow validation of unaccepted change"
     },
     "DocumentLibrary": {
       "PublishErrorMessages": {
         "ErrorBeforePublishingDocumentMessage": "Something went wrong while reading the draft. Please double-check the properties and try again.",
-        "ErrorEnsureColumnsAndFoldersMessage": "Something went wrong while preparing to publish your document. Please try again.",
-        "ErrorConvertingPdfFileMessage": "Something went wrong while generating your PDF. Please double-check the content of the file and try again.",
-        "ErrorPublishingDocumentMessage": "Something went wrong while publishing your document. Please try again.",
-        "ErrorEnsureDocumentPermissionMessage": "Something went wrong while ensuring permissions on your published document. Please try again.",
-        "ErrorFinishingPublishDocumentMessage": "Something went wrong in the final step of the publishing. Please try again."
+        "ErrorEnsureColumnsAndFoldersMessage": "Something went wrong while preparing to publish the document. Please try again.",
+        "ErrorConvertingPdfFileMessage": "Something went wrong while generating the PDF. Please double-check the content of the file and try again.",
+        "ErrorPublishingDocumentMessage": "Something went wrong while publishing the document. Please try again.",
+        "ErrorEnsureDocumentPermissionMessage": "Something went wrong while ensuring permissions for the published document. Please try again.",
+        "ErrorFinishingPublishDocumentMessage": "Something went wrong in the final step of publishing. Please try again."
       }
     }
   }
