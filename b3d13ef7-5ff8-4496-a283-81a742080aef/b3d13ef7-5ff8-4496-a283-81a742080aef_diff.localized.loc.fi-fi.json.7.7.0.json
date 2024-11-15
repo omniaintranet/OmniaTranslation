@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Salli muutosten validointi Microsoft Wordissa, joita et ole vielä hyväksynyt manuaalisesti"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Jotain meni pieleen luonnoksen lukemisessa. Tarkista ominaisuudet ja yritä uudelleen.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Jotain meni pieleen dokumentin julkaisun valmistelussa. Yritä uudelleen.",
+        "ErrorConvertingPdfFileMessage": "Jotain meni pieleen PDF:n luomisessa. Tarkista tiedoston sisältö ja yritä uudelleen.",
+        "ErrorPublishingDocumentMessage": "Jotain meni pieleen dokumentin julkaisussa. Yritä uudelleen.",
+        "ErrorEnsureDocumentPermissionMessage": "Jotain meni pieleen julkaisun dokumentin käyttöoikeuksien varmistamisessa. Yritä uudelleen.",
+        "ErrorFinishingPublishDocumentMessage": "Jotain meni pieleen julkaisun viimeisessä vaiheessa. Yritä uudelleen."
+      }
+    }
+  }
+}
