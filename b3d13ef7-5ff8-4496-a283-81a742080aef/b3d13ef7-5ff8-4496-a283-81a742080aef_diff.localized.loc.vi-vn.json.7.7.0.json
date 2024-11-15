@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Cho phép xácnhận các thay đổi trong Microsoft Word mà bạn chưa chấp nhận thủ công"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Đã xảy ra lỗi khi đọc bản nháp. Vui lòng kiểm tra lại các thuộc tính và thử lại.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Đã xảy ra lỗi khi chuẩn bị xuất bản tài liệu. Vui lòng thử lại.",
+        "ErrorConvertingPdfFileMessage": "Đã xảy ralỗi khi tạo file PDF. Vui lòng kiểm tra lại nội dung của tệp và thử lại.",
+        "ErrorPublishingDocumentMessage": "Đã xảy ra lỗi khi xuất bản tài liệu. Vuilòng thử lại.",
+        "ErrorEnsureDocumentPermissionMessage": "Đã xảy ra lỗi khi đảm bảoquyền truy cập cho tài liệu đã xuất bản. Vui lòng thử lại.",
+        "ErrorFinishingPublishDocumentMessage": "Đã xảy ra lỗi trong bước cuối cùngcủa quá trình xuất bản. Vui lòng thử lại."
+      }
+    }
+  }
+}
