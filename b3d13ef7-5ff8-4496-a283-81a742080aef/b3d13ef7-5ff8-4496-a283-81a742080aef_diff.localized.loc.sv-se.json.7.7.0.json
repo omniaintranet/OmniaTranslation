@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Tillåt validering av ändringar i Microsoft Word som du inte har accepterat manuellt ännu"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Något gick fel när utkastet lästes. Var vänlig kontrollera egenskaperna och försök igen.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Något gickfel när dokumentet förbereddes för publicering. Var vänlig försök igen.",
+        "ErrorConvertingPdfFileMessage": "Något gick fel när PDF:en genererades. Var vänlig kontrollera filens innehåll och försök igen.",
+        "ErrorPublishingDocumentMessage": "Något gick fel när dokumentet publicerades. Var vänlig försök igen.",
+        "ErrorEnsureDocumentPermissionMessage": "Något gick fel när behörigheter för det publicerade dokumentet säkerställdes. Var vänlig försök igen.",
+        "ErrorFinishingPublishDocumentMessage": "Något gick fel i det sista stegetav publiceringen. Var vänlig försök igen."
+      }
+    }
+  }
+}
