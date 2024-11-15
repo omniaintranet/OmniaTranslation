@@ -2,7 +2,7 @@
   "WCM": {
     "Editor": {
       "Editor": {
-        "PageNotLoadedMessage": "This page hasn't been loaded yet."
+        "PageNotLoadedMessage": "This page is still loading - please wait till it's finished."
       }
     }
   }
