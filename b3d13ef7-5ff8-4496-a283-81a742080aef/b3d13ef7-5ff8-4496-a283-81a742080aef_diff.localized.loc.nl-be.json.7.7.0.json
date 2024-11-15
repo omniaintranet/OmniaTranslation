@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Toestaan validatie van wijzigingen in Microsoft Word, die je nog niet handmatig hebt afgewezen"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Er is iets misgegaan bij het lezen van de conceptversie. Controleer de eigenschappen en probeer het opnieuw.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Er is iets misgegaan bij het voorbereiden van het publiceren van het document. Probeer het opnieuw.",
+        "ErrorConvertingPdfFileMessage": "Er is iets misgegaan bij het genereren van de PDF. Controleer de inhoud van het bestand en probeer het opnieuw.",
+        "ErrorPublishingDocumentMessage": "Er is iets misgegaan bij het publiceren van het document. Probeer het opnieuw.",
+        "ErrorEnsureDocumentPermissionMessage": "Er is iets misgegaan bij het controleren van de machtigingen voor het gepubliceerde document. Probeer het opnieuw.",
+        "ErrorFinishingPublishDocumentMessage": "Er is iets misgegaan in de laatste stap van het publiceren. Probeer het opnieuw."
+      }
+    }
+  }
+}

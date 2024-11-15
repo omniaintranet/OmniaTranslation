@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Autoriser lavalidation des modifications dans Microsoft Word que vous n'avez pas encore acceptées manuellement"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Une erreur s'est produite lors de la lecture du brouillon. Veuillez vérifier à nouveau les propriétés et réessayer.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Une erreur s'est produite lors de la préparation de la publication du document. Veuillez réessayer.",
+        "ErrorConvertingPdfFileMessage": "Une erreur s'est produite lors de la génération du PDF. Veuillez vérifier à nouveau le contenu du fichier et réessayer.",
+        "ErrorPublishingDocumentMessage": "Une erreur s'est produite lors de la publication du document. Veuillez réessayer.",
+        "ErrorEnsureDocumentPermissionMessage": "Une erreur s'est produite lors de la vérification des autorisations pour le document publié. Veuillez réessayer.",
+        "ErrorFinishingPublishDocumentMessage": "Une erreur s'est produite lors de la dernière étape de la publication. Veuillez réessayer."
+      }
+    }
+  }
+}

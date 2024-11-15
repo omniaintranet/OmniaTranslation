@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Erlaube die Validierung von Änderungen in Microsoft Word, die du noch nicht manuell abgelehnt hast"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Beim Lesen des Entwurfs ist ein Fehler aufgetreten. Bitte überprüfe die Eigenschaften und versuche es erneut.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Beim Vorbereiten der Veröffentlichung des Dokuments ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+        "ErrorConvertingPdfFileMessage": "Beim Generieren des PDFs ist ein Fehler aufgetreten. Bitte überprüfe den Inhalt der Datei und versuche es erneut.",
+        "ErrorPublishingDocumentMessage": "Beim Veröffentlichen des Dokuments ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+        "ErrorEnsureDocumentPermissionMessage": "Beim Überprüfen der Berechtigungen für das veröffentlichte Dokument ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+        "ErrorFinishingPublishDocumentMessage": "Beim abschließenden Schritt der Veröffentlichung ist ein Fehler aufgetreten. Bitte versuche es erneut."
+      }
+    }
+  }
+}

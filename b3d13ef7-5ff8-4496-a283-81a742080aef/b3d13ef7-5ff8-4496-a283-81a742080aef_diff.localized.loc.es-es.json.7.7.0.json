@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Permitir la validación de cambios en Microsoft Word que aún no has rechazado manualmente"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Algo salió mal al leer el borrador. Por favor, verifica las propiedades y vuelve a intentarlo.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Algo salió mal al preparar la publicación del documento. Por favor, inténtalo de nuevo.",
+        "ErrorConvertingPdfFileMessage": "Algo salió mal al generar el PDF. Por favor, verifica el contenido del archivo y vuelve a intentarlo.",
+        "ErrorPublishingDocumentMessage": "Algo salió mal al publicar el documento. Por favor, inténtalo de nuevo.",
+        "ErrorEnsureDocumentPermissionMessage": "Algo salió mal al asegurar los permisos para el documento publicado. Por favor, inténtalo de nuevo.",
+        "ErrorFinishingPublishDocumentMessage": "Algo salió mal en el último pasode la publicación. Por favor, inténtalo de nuevo."
+      }
+    }
+  }
+}

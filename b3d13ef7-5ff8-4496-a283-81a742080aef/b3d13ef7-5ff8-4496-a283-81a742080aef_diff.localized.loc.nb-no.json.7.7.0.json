@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowValidateUnacceptedChange": "Tillat validering av endringer i Microsoft Word som du ikke har avvist manuelt"
+    },
+    "DocumentLibrary": {
+      "PublishErrorMessages": {
+        "ErrorBeforePublishingDocumentMessage": "Noe gikk galt under lesing av utkastet. Vennligst dobbeltsjekk egenskapene og prøv igjen.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Noe gikk galt under forberedelse for publisering av dokumentet. Vennligst prøv igjen.",
+        "ErrorConvertingPdfFileMessage": "Noe gikk galt under generering av PDF. Vennligst dobbeltsjekk innholdet i filen og prøv igjen.",
+        "ErrorPublishingDocumentMessage": "Noe gikk galt under publisering av dokumentet. Vennligst prøv igjen.",
+        "ErrorEnsureDocumentPermissionMessage": "Noe gikk galt under sikring av tillatelser for det publiserte dokumentet. Vennligst prøv igjen.",
+        "ErrorFinishingPublishDocumentMessage": "Noe gikk galt i siste trinnav publiseringen. Vennligst prøv igjen."
+      }
+    }
+  }
+}

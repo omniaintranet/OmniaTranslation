@@ -1,0 +1,7 @@
+{
+  "Omnia": {
+    "SignIn": {
+      "MagicLinkValidTimeInMinutesMessage": "De eenmalige link is {0} minuten geldig."
+    }
+  }
+}
