@@ -6,8 +6,8 @@
     "DocumentLibrary": {
       "PublishErrorMessages": {
         "ErrorBeforePublishingDocumentMessage": "Der opstod en fejl under læsning af udkastet. Kontrollér venligst egenskaberne og prøv igen.",
-        "ErrorEnsureColumnsAndFoldersMessage": "Der opstod enfejl under forberedelsen til at offentliggøre dokumentet. Prøv venligst igen.",
-        "ErrorConvertingPdfFileMessage": "Der opstod en fejl under genereringen afPDF'en. Kontrollér venligst indholdet af filen og prøv igen.",
+        "ErrorEnsureColumnsAndFoldersMessage": "Der opstod en fejl under forberedelsen til at offentliggøre dokumentet. Prøv venligst igen.",
+        "ErrorConvertingPdfFileMessage": "Der opstod en fejl under genereringen af PDF'en. Kontrollér venligst indholdet af filen og prøv igen.",
         "ErrorPublishingDocumentMessage": "Der opstod en fejl under offentliggørelsen af dokumentet. Prøv venligst igen.",
         "ErrorEnsureDocumentPermissionMessage": "Der opstod en fejl under sikring af tilladelser for det offentliggjorte dokument. Prøv venligst igen.",
         "ErrorFinishingPublishDocumentMessage": "Der opstod en fejl i den sidste fase af offentliggørelsen. Prøv venligst igen."
