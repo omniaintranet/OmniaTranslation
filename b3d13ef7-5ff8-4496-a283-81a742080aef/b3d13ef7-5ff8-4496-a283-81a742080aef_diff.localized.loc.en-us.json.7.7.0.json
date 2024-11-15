@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "AllowValidateUnacceptedChange": "Allow validation of unaccepted change"
+      "AllowValidateUnacceptedChange": "Allow validation of changes in Microsoft Word, you haven't manually unaccepted yet"
     },
     "DocumentLibrary": {
       "PublishErrorMessages": {
