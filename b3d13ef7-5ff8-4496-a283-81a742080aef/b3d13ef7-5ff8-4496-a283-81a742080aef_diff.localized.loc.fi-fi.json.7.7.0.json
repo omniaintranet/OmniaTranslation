@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "AllowValidateUnacceptedChange": "Salli muutosten validointi Microsoft Wordissa, joita et ole vielä hyväksynyt manuaalisesti"
+      "AllowValidateUnacceptedChange": "Salli niiden muutosten validointi Microsoft Wordissa, joita et ole vielä hyväksynyt manuaalisesti"
     },
     "DocumentLibrary": {
       "PublishErrorMessages": {
