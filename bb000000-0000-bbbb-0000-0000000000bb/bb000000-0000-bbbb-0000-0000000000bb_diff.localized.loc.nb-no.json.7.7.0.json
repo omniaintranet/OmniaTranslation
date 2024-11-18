@@ -1,7 +1,7 @@
 {
   "Omnia": {
     "SignIn": {
-      "MagicLinkValidTimeInMinutesMessage": "Den engangskoblingen vil være gyldig i {0} minutter."
+      "MagicLinkValidTimeInMinutesMessage": "Engangskoblingen vil være gyldig i {0} minutter."
     }
   }
 }
