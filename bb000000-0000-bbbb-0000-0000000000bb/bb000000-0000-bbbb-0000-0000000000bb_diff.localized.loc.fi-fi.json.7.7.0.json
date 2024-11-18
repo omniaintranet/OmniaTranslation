@@ -1,7 +1,7 @@
 {
   "Omnia": {
     "SignIn": {
-      "MagicLinkValidTimeInMinutesMessage": "Yhden kerran linkki on voimassa {0} minuuttia."
+      "MagicLinkValidTimeInMinutesMessage": "Kertakäyttöinen linkki on voimassa {0} minuuttia."
     }
   }
 }
