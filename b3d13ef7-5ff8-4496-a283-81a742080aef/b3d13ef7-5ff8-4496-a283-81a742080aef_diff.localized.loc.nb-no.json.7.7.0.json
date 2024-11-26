@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "AllowValidateUnacceptedChange": "Tillat validering av endringer i Microsoft Word som du ikke har avvist manuelt"
+      "AllowValidateUnacceptedChange": "Gjør det obligatorisk å kontrollere dokumenter for ikke-aksepterte endringer før de publiseres."
     },
     "DocumentLibrary": {
       "PublishErrorMessages": {
