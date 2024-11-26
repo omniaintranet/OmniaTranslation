@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Sidindelning"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Ange e-postadressen som är kopplad till ditt konto, så skickar vi dig en länk för attåterställa ditt lösenord."
+    }
+  }
+}
