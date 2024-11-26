@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Uusi julkaisupyyntö kanavalle: {{title}}",
+            "Body": "Arvoisa ylläpitäjä,<br/><br/>Olette saanut uuden pyynnön julkaista sisältöä kanavalle {{title}}. Käykää läpi tiedot ja toimikaa sen mukaisesti.<br/><br/>Hyväksyäksenne tai hylätäksenne julkaisun, klikatkaa alla olevaa linkkiä:<br/><br/><a href='{{channelAdminUrl}}'>Näytä pyyntö</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Julkaisupyyntö hyväksytty sivulle {{pageTitle}}",
+            "Body": "Arvoisa {{userDisplayName}},<br/><br/>Julkaisupyyntönne sivun <a href={{pageUrl}}>{{pageTitle}}</a> julkaisemisesta kanavalle {{title}} on hyväksytty onnistuneesti."
+          },
+          "RejectEmail": {
+            "Subject": "Julkaisupyyntö hylätty sivulle {{pageTitle}}",
+            "Body": "Arvoisa {{userDisplayName}},<br/><br/>Julkaisupyyntönne sivun <a href={{pageUrl}}>{{pageTitle}}</a> julkaisemisesta kanavalle {{title}} on hylätty.",
+            "Comment": "Hylkäämisen syy:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}

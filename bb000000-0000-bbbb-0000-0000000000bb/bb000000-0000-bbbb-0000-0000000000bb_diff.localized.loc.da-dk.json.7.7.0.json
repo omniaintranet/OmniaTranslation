@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Sidenummerering"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Indtast venligst den e-mailadresse, der er forbundet med din konto, og vi sender dig et link til at nulstille din adgangskode."
+    }
+  }
+}

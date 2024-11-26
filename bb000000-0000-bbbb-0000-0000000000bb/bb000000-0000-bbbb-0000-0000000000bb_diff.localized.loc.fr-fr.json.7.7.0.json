@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Pagination"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Veuillez saisir l'adresse e-mail associée à votre compte, et nous vous enverrons un lien pour réinitialiser votre mot de passe."
+    }
+  }
+}

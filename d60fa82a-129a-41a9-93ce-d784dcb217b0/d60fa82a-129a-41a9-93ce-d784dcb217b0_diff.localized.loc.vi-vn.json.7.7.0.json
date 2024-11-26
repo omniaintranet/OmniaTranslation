@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Yêu cầu xuất bản mới cho kênh: {{title}}",
+            "Body": "Quản trị viên thân mến,<br/><br/>Bạn đã nhận được một yêu cầumới để xuất bản nội dung lên kênh {{title}}. Vui lòng xem xét chi tiết và thực hiện hành động.<br/><br/>Để phê duyệt hoặc từ chối xuất bản, vui lòng nhấp vào liên kết dưới đây:<br/><br/><a href='{{channelAdminUrl}}'>Xem Yêu Cầu</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Yêu cầu xuất bản đã được phê duyệt cho {{pageTitle}}",
+            "Body": "Chào {{userDisplayName}},<br/><br/>Yêu cầu của bạn để xuất bản trang <a href={{pageUrl}}>{{pageTitle}}</a> lên kênh {{title}} đã được phê duyệt thành công."
+          },
+          "RejectEmail": {
+            "Subject": "Yêu cầu xuất bản bị từ chối cho {{pageTitle}}",
+            "Body": "Chào {{userDisplayName}},<br/><br/>Yêu cầu của bạn đểxuất bản trang <a href={{pageUrl}}>{{pageTitle}}</a> lên kênh {{title}} đã bị từchối.",
+            "Comment": "Lý do từ chối:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
