@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Nueva solicitud de publicación para el canal: {{title}}",
+            "Body": "Estimado administrador,<br/><br/>Ha recibido una nueva solicitud para publicar contenido en el canal {{title}}. Por favor, revise los detalles y tome acción.<br/><br/>Para aprobar o rechazar la publicación, haga clic en el siguiente enlace:<br/><br/><a href='{{channelAdminUrl}}'>Ver Solicitud</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Solicitud de publicación aprobada para {{pageTitle}}",
+            "Body": "Estimado {{userDisplayName}},<br/><br/>Su solicitud para publicar la página <a href={{pageUrl}}>{{pageTitle}}</a> en el canal {{title}} ha sido aprobada exitosamente."
+          },
+          "RejectEmail": {
+            "Subject": "Solicitud de publicación rechazada para {{pageTitle}}",
+            "Body": "Estimado {{userDisplayName}},<br/><br/>Su solicitud para publicar la página <a href={{pageUrl}}>{{pageTitle}}</a> en el canal {{title}} ha sido rechazada.",
+            "Comment": "Motivo del rechazo:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
