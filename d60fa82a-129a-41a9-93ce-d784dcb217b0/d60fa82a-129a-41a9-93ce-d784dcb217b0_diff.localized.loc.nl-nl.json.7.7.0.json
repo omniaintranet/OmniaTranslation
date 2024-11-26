@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Nieuw publicatieverzoek voor kanaal: {{title}}",
+            "Body": "Beste beheerder,<br/><br/>U heeft een nieuw verzoek ontvangenom inhoud te publiceren naar het kanaal {{title}}. Bekijk de details en neem actie.<br/><br/>Om de publicatie goed te keuren of af te wijzen, klik op de onderstaande link:<br/><br/><a href='{{channelAdminUrl}}'>Verzoek bekijken</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Publicatieverzoek goedgekeurd voor {{pageTitle}}",
+            "Body": "Beste {{userDisplayName}},<br/><br/>Uw verzoek om de pagina <a href={{pageUrl}}>{{pageTitle}}</a> te publiceren naar het kanaal {{title}} is succesvol goedgekeurd."
+          },
+          "RejectEmail": {
+            "Subject": "Publicatieverzoek afgewezen voor {{pageTitle}}",
+            "Body": "Beste {{userDisplayName}},<br/><br/>Uw verzoek om de pagina <a href={{pageUrl}}>{{pageTitle}}</a> te publiceren naar het kanaal {{title}} is afgewezen.",
+            "Comment": "Reden voor afwijzing:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
