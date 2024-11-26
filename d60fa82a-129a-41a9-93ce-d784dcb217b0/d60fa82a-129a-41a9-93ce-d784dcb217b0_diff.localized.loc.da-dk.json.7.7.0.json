@@ -5,7 +5,7 @@
         "PublishingChannel": {
           "RequestEmail": {
             "Subject": "Ny anmodning om publicering til kanal: {{title}}",
-            "Body": "Kære administrator,<br/><br/>Du har modtaget en ny anmodning om at publicere indhold til kanalen {{title}}. Venligst gennemgå detaljerne og træf handling.<br/><br/>For at godkende eller afvise publicering, klik på nedenstående link:<br/><br/><a href='{{channelAdminUrl}}'>Vis anmodning</a>"
+            "Body": "Kære administrator,<br/><br/>Du har modtaget en ny anmodning om at publicere indhold til kanalen {{title}}.<br/><br/>For at godkende eller afvise publicering, klik på nedenstående link:<br/><br/><a href='{{channelAdminUrl}}'>Vis anmodning</a>"
           },
           "ApprovalEmail": {
             "Subject": "Anmodning om publicering godkendt for {{pageTitle}}",
