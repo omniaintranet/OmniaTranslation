@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Phân trang"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Vui lòng nhập địa chỉ Email liên kết với tài khoản của bạn, chúng tôi sẽ gửi cho bạn một liên kết để đặt lại mật khẩu."
+    }
+  }
+}
