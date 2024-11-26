@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Ny anmodning om publicering til kanal: {{title}}",
+            "Body": "Kære administrator,<br/><br/>Du har modtaget en ny anmodning om at publicere indhold til kanalen {{title}}. Venligst gennemgå detaljerne og træf handling.<br/><br/>For at godkende eller afvise publicering, klik på nedenstående link:<br/><br/><a href='{{channelAdminUrl}}'>Vis anmodning</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Anmodning om publicering godkendt for {{pageTitle}}",
+            "Body": "Kære {{userDisplayName}},<br/><br/>Din anmodning om at publicere siden <a href={{pageUrl}}>{{pageTitle}}</a> til kanalen {{title}} er blevet godkendt."
+          },
+          "RejectEmail": {
+            "Subject": "Anmodning om publicering afvist for {{pageTitle}}",
+            "Body": "Kære {{userDisplayName}},<br/><br/>Din anmodning om at publicere siden <a href={{pageUrl}}>{{pageTitle}}</a> til kanalen {{title}} er blevet afvist.",
+            "Comment": "Årsag til afvisning:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
