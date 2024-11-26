@@ -4,13 +4,13 @@
       "LayoutEngine": {
         "Panels": {
           "StepperSettings": {
-            "Paging": "Sidindelning"
+            "Paging": "Siddelning"
           }
         }
       }
     },
     "SignIn": {
-      "SendResetPasswordMessageTooltip": "Ange e-postadressen som är kopplad till ditt konto, så skickar vi dig en länk för attåterställa ditt lösenord."
+      "SendResetPasswordMessageTooltip": "Ange e-postadressen som är kopplad till ditt konto, så skickar vi en länk för att återställa lösenordet."
     }
   }
 }
