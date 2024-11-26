@@ -5,15 +5,15 @@
         "PublishingChannel": {
           "RequestEmail": {
             "Subject": "Ny publiceringsbegäran för kanal: {{title}}",
-            "Body": "Kära administratör,<br/><br/>Du har fått en ny begäran om attpublicera innehåll till kanalen {{title}}. Vänligen granska detaljerna och vidtaåtgärder.<br/><br/>För att godkänna eller avvisa publiceringen, klicka på länkennedan:<br/><br/><a href='{{channelAdminUrl}}'>Visa begäran</a>"
+            "Body": "Hej,<br/><br/>du har fått en ny begäran om publicering av innehåll till kanalen {{title}}. Vänligen granska detaljerna och vidta åtgärder.<br/><br/>För att godkänna eller avvisa publiceringen, klicka på länken nedan:<br/><br/><a href='{{channelAdminUrl}}'>Visa begäran</a>"
           },
           "ApprovalEmail": {
             "Subject": "Publiceringsbegäran godkänd för {{pageTitle}}",
-            "Body": "Kära {{userDisplayName}},<br/><br/>Din begäran att publicera sidan <a href={{pageUrl}}>{{pageTitle}}</a> till kanalen {{title}} harframgångsrikt godkänts."
+            "Body": "Hej {{userDisplayName}},<br/><br/>din begäran att publicera sidan <a href={{pageUrl}}>{{pageTitle}}</a> till kanalen {{title}} har godkänts."
           },
           "RejectEmail": {
             "Subject": "Publiceringsbegäran avvisad för {{pageTitle}}",
-            "Body": "Kära {{userDisplayName}},<br/><br/>Din begäran att publicera sidan <a href={{pageUrl}}>{{pageTitle}}</a> till kanalen {{title}} haravvisats.",
+            "Body": "Hej {{userDisplayName}},<br/><br/>din begäran att publicera sidan <a href={{pageUrl}}>{{pageTitle}}</a> till kanalen {{title}} har avvisats.",
             "Comment": "Anledning till avvisning:<br/><strong>{{rejectionComment}}</strong><br/>"
           }
         }
