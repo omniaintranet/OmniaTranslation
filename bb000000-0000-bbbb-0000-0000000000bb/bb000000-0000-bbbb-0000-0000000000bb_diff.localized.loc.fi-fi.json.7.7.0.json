@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Sivutus"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Syötä sähköpostiosoite, joka on liitetty tiliisi, ja lähetämme sinulle linkin salasanan palauttamiseksi."
+    }
+  }
+}
