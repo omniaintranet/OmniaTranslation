@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "New publishing request for channel: {{title}}",
+            "Body": "Dear administrator,<br/><br/>You have received a new request to publish content to the channel {{title}}. Please review the details and take action.<br/><br/>To approve or reject the publication, click the link below:<br/><br/><a href='{{channelAdminUrl}}'>View Request</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Publishing request approved for {{pageTitle}}",
+            "Body": "Dear {{userDisplayName}},<br/><br/>Your request to publish the page <a href={{pageUrl}}>{{pageTitle}}</a> to the channel {{title}} has been successfully approved."
+          },
+          "RejectEmail": {
+            "Subject": "Publishing request rejected for {{pageTitle}}",
+            "Body": "Dear {{userDisplayName}},<br/><br/>Your request to publish the page <a href={{pageUrl}}>{{pageTitle}}</a> to the channel {{title}} has been rejected.",
+            "Comment": "Reason for rejection:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
