@@ -1,0 +1,23 @@
+{
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Subject": "Neue Veröffentlichungsanfrage für Kanal: {{title}}",
+            "Body": "Sehr geehrter Administrator,<br/><br/>Sie haben eine neue Anfrage erhalten, Inhalte auf den Kanal {{title}} zu veröffentlichen. Bitte überprüfen Sie die Details und ergreifen Sie Maßnahmen.<br/><br/>Um die Veröffentlichung zu genehmigen oder abzulehnen, klicken Sie auf den folgenden Link:<br/><br/><a href='{{channelAdminUrl}}'>Anfrage anzeigen</a>"
+          },
+          "ApprovalEmail": {
+            "Subject": "Veröffentlichungsanfrage für {{pageTitle}} genehmigt",
+            "Body": "Sehr geehrte/r {{userDisplayName}},<br/><br/>Ihre Anfrage, die Seite <a href={{pageUrl}}>{{pageTitle}}</a> auf den Kanal {{title}} zu veröffentlichen, wurde erfolgreich genehmigt."
+          },
+          "RejectEmail": {
+            "Subject": "Veröffentlichungsanfrage für {{pageTitle}} abgelehnt",
+            "Body": "Sehr geehrte/r {{userDisplayName}},<br/><br/>Ihre Anfrage, die Seite <a href={{pageUrl}}>{{pageTitle}}</a> auf den Kanal {{title}} zu veröffentlichen, wurde abgelehnt.",
+            "Comment": "Grund für die Ablehnung:<br/><strong>{{rejectionComment}}</strong><br/>"
+          }
+        }
+      }
+    }
+  }
+}
