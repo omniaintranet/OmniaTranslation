@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "Paging": "Paginatie"
+          }
+        }
+      }
+    },
+    "SignIn": {
+      "SendResetPasswordMessageTooltip": "Gelieve hete-mailadres in te voeren dat is gekoppeld aan uw account. We sturen u een link om uw wachtwoord te resetten."
+    }
+  }
+}
