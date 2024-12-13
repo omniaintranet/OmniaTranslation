@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Textausrichtung",
+        "TextUppercase": "Text in Großbuchstaben"
+      },
+      "Tabs": {
+        "Actions": "Aktionen",
+        "Analytics": "Analyse"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Ausgewählte Textfarbe",
+        "SelectedBackgroundColor": "Ausgewählte Hintergrundfarbe"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Typ",
+            "FilterValue": "Filterwert",
+            "FirstDimension": "Erste Dimension",
+            "SecondDimension": "Zweite Dimension",
+            "WebsiteQueryType": {
+              "Reports": "Berichte",
+              "Events": "Ereignisse"
+            },
+            "Event": {
+              "EventCategories": "Ereigniskategorien",
+              "EventActions": "Ereignisaktionen",
+              "EventNames": "Ereignisnamen"
+            },
+            "ExpandRows": "Zeilen erweitern"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Echtzeit-Besucherzähler"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Metrik",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besucherfrequenz"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Stamm-URL ausschließen (/)",
+            "ShowExportToExcel": "Export nach Excel aktivieren",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besucherfrequenz"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besucherfrequenz"
+            },
+            "Export": {
+              "ExportToExcel": "Export nach Excel",
+              "FileExporting": "Excel-Datei wird generiert...",
+              "ErrorWhenFileExporting": "Beim Exportieren ist ein Fehler aufgetreten."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Banner-Bild"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Web-Inhaltsverwaltung",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Veröffentlichungs-App",
+            "Type": "Veröffentlichungs-App"
+          },
+          "PageType": {
+            "Title": "Seitentyp",
+            "Type": "Seitentyp"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Seiten-ID",
+      "PageTitle": "Seitentitel"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analyse"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Veröffentlichungsrichtlinien",
+            "AddContentAnalysisSetting": "Richtlinie hinzufügen"
+          },
+          "SemanticSearch": {
+            "Title": "Semantische Suche",
+            "EnableSemanticSearch": "Semantische Suche aktivieren",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "In semantischer Suche enthaltene Seiten",
+              "Message": "Veröffentlichte Seiten sind für alle Benutzer mit der Rolle 'Semantischer Suchleser' durchsuchbar. Möchten Sie fortfahren?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Vorveröffentlichungsanalyse",
+            "TextProperties": "Texteigenschaften",
+            "Save": "Speichern",
+            "Cancel": "Abbrechen",
+            "ContentAnalysisTitle": "Inhaltsanalyse"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Vorveröffentlichungsanalyse",
+            "EditPage": "Seite bearbeiten",
+            "FixPage": "Seite reparieren",
+            "Cancel": "Abbrechen",
+            "Passed": "Bestanden",
+            "Failed": "Fehlgeschlagen",
+            "ContinuePublishing": "Fortfahren",
+            "FixedPageSuccessMessage": "Der Seiteninhalt wurde erfolgreich repariert. Sie können ihn erneut überprüfen.",
+            "ErrorMessage": "Seiteninhalt kann nicht analysiert oder repariert werden"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Gesamtzahl der Benutzer"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Für Archivierung geplant"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Promotion zu Viva aktivieren"
+      }
+    }
+  }
+}
