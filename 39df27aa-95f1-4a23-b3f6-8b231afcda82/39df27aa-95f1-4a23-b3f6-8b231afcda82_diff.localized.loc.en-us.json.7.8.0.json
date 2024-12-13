@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "AI engine AI search",
+      "ApiKey": "API Key",
+      "ApiBaseUrl": "API base URL",
+      "DeploymentName": "Deployment name",
+      "ApiVersion": "API version",
+      "EmptyApiVersion": "Will use latest version if left empty.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "AI search URL is changed",
+        "Message": "The existing AI search data will be lost when the AI search URL is changed. Do you want to proceed?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Semantic search"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "AI engine OpenAI API",
+      "ApiKey": "API key",
+      "ApiBaseUrl": "API base URL"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Semantic search",
+          "PropertyProvider": "Property provider"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "AI engine",
+      "GeneralSetting": {
+        "OpenAISetting": "Setting",
+        "TextCompletionConfig": "Text completion configuration",
+        "DeploymentName": "Deployment name",
+        "AIAlias": "AI alias",
+        "SemanticSearchConfig": {
+          "Title": "Semantic search",
+          "LLMDeploymentName": "LLM deployment name",
+          "EmbeddingsDeploymentName": "Embeddings deployment name",
+          "MissingConfigurationMessage": "Please make sure AI search and OpenAI API secrets are configured."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Show result",
+        "RunAnalysis": "Run analysis",
+        "Tryout": "Try out"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Content analysis",
+        "Detail": {
+          "BladeTitle": "Prompt settings",
+          "ErrorMessage": "This field is required and must contain token {0} inside the quotation: \"{0}\"",
+          "ExampleText": "Example: Fix the spelling in the following text: \"{0}\" ?",
+          "PromptAnalysisField": "Prompt - Analysis",
+          "PromptFixField": "Prompt - Fix",
+          "ReminderText": "Add an action and remember to include the token {0} inside the quotation: \"{0}\"",
+          "TitleField": "Title",
+          "ExampleAnalysisPromptText": "Example: Is the spelling of the following text correct: \"{0}\" ?",
+          "CriteriaToPass": "Criteria to pass check",
+          "CriteriaToPassHint": "Result from prompt - Analysis that will pass the analysis.",
+          "DefaultEnterpriseProperties": "Default enterprise properties"
+        },
+        "ConfirmDelete": {
+          "Title": "Deleting content analysis setting",
+          "Message": "Are you sure you want to delete this content analysis setting?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Improve selected text",
+        "Detail": {
+          "BladeTitle": "Prompt settings",
+          "ErrorMessage": "This field is required and must contain token: ",
+          "ExampleFixPromptText": "Example: Fix the spelling of the following text: ",
+          "PromptField": "Prompt",
+          "ReminderText": "Add an action and remember to include the token: ",
+          "TitleField": "Title",
+          "OpenInDialog": "Open chat dialog"
+        },
+        "ConfirmDelete": {
+          "Title": "Deleting improve selected text setting",
+          "Message": "Are you sure you want to delete this "Improve selected text" setting?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Result",
+        "ConfigurationError": "Cannot send request to Azure OpenAI! Please check your configuration or retry.",
+        "ContainFilterTextError": "The response contains content that is not allowed by Azure OpenAI policy. Please change the prompt and try again.",
+        "Fail": "Failed",
+        "Outcome": "Outcome: ",
+        "Pass": "Pass",
+        "Prompt": "Prompt: "
+      },
+      "Tryout": {
+        "BladeTitle": "Try out",
+        "Text": "Text"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webparts"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "AI engine Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Share website with other business profiles",
+          "businessProfile": "Business profile"
+        },
+        "errors": {
+          "permissionMissingMessage": "You do not have the required permissions. In order to access this feature you need to be a business profile administrator in Omnia.",
+          "businessProfileSharedDisabled": "This business profile does not support sharing with other business profiles."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Open comment dialog"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Delete from My links"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0}, has {1} unread."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Semantic search",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Note! Enabling semantic search will replace the current quick search functionality within the system.",
+          "UseSemanticSearch": "Enable semantic search",
+          "CustomHelpText": "Custom help text",
+          "EnableCustomPostAnswerMessage": "Custom post answer message",
+          "EnableShowReferences": "Show references",
+          "IncludeParagraphs": "Include paragraphs",
+          "IncludeSemanticSummary": "Include semantic summary",
+          "AddFilter": "Add filter",
+          "PropertyProvider": "Property provider"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Always open in a new tab.",
+        "EnableMultilineSearchPrompt": "Multi-line search prompt",
+        "EnableCustomHelpText": "Custom help text"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Paragraphs",
+        "SeeMore": "See more results",
+        "Page": "Page",
+        "MissingConfigurationMessage": "Please make sure semantic search settings are configured."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Semantic search"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "ServerKey"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Back to teamwork list"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Pick users",
+          "UseQueryBuilder": "Use query builder"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Remove user",
+          "Message": "Are you sure you want to remove this user?"
+        },
+        "AddUsers": "Add user",
+        "ManualSort": "Manual sort"
+      },
+      "SendEmailAction": "Send Email action",
+      "StartChatAction": "Start chat action",
+      "StartCallAction": "Start call action"
+    }
+  }
+}
