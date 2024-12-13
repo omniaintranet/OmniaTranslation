@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Xóa người dùng",
+        "PeolePicker": "Chọn người",
+        "SearchUserLabel": "Tìm kiếm người dùng",
+        "SearchUserTooltip": "Tìm kiếm người dùng, nhấn Enter để tìm kiếm",
+        "NoItemsFound": "Không tìm thấy kết quả phù hợp",
+        "Searching": "Đang tìm kiếm...",
+        "ResultsFound": "Tìm thấy kết quả"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "Hệ thống",
+          "Title": "Máy trí tuệ nhân tạo",
+          "Description": "Bật tính năng này để truy cập hệ thống vào máy trí tuệ nhân tạo"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Tìm kiếm hoàn thành với kết quả.",
+            "SearchCompletedWithNoResults": "Tìm kiếm hoàn thành không có kết quả."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Nhà cung cấp hình ảnh miễn phí Unsplash.",
+        "DowloadImageFailed": "Tải hình ảnh thất bại",
+        "PhotoBy": "Ảnh từ",
+        "PhotosProviderBy": "Hình ảnh được cung cấp bởi"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Trình đọc tìm kiếm ngữ nghĩa"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Hành động chỉnh sửa bình luận"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Mở rộng"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Phân tích",
+        "EnableEventTracking": "Bật theo dõi sự kiện",
+        "EventActions": "Hành động sự kiện",
+        "EventAction": "Hành động sự kiện",
+        "EventCategory": "Danh mục sự kiện",
+        "EventName": "Tên sự kiện"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Chuyển đến nội dung"
+    }
+  }
+}
