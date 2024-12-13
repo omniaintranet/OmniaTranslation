@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "AI-zoekmachine AI-zoeken",
+      "ApiKey": "API-sleutel",
+      "ApiBaseUrl": "API-basis-URL",
+      "DeploymentName": "Implementatienaam",
+      "ApiVersion": "API-versie",
+      "EmptyApiVersion": "Gebruik de nieuwste versie als dit leeg wordt gelaten.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "AI-zoek-URL is gewijzigd",
+        "Message": "De bestaande AI-zoekgegevens gaan verloren wanneer de AI-zoek-URL wordt gewijzigd. Wil je doorgaan?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Semantisch zoeken"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "AI-engine OpenAI API",
+      "ApiKey": "API-sleutel",
+      "ApiBaseUrl": "API-basis-URL"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Semantisch zoeken",
+          "PropertyProvider": "Eigenschap-provider"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "AI-engine",
+      "GeneralSetting": {
+        "OpenAISetting": "Instelling",
+        "TextCompletionConfig": "Configuratie voor tekstvoltooiing",
+        "DeploymentName": "Implementatienaam",
+        "AIAlias": "AI-alias",
+        "SemanticSearchConfig": {
+          "Title": "Semantisch zoeken",
+          "LLMDeploymentName": "LLM-implementatienaam",
+          "EmbeddingsDeploymentName": "Implementatienaam van embeddings",
+          "MissingConfigurationMessage": "Zorg ervoor datde geheimen voor AI-zoeken en OpenAI API zijn geconfigureerd."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Resultaat tonen",
+        "RunAnalysis": "Analyse uitvoeren",
+        "Tryout": "Uitproberen"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Inhoudsanalyse",
+        "Detail": {
+          "BladeTitle": "Prompt-instellingen",
+          "ErrorMessage": "Dit veld is verplicht en moet het token {0} bevatten binnen de aanhalingstekens: \"{0}\"",
+          "ExampleText": "Voorbeeld: Verbeter de spelling in de volgende tekst: \"{0}\" ?",
+          "PromptAnalysisField": "Prompt - Analyse",
+          "PromptFixField": "Prompt - Verbetering",
+          "ReminderText": "Voeg een actie toe en vergeet niet het token {0} binnen de aanhalingstekens op te nemen: \"{0}\"",
+          "TitleField": "Titel",
+          "ExampleAnalysisPromptText": "Voorbeeld: Is de spelling van de volgende tekst correct: \"{0}\" ?",
+          "CriteriaToPass": "Criteria omcontrole te doorstaan",
+          "CriteriaToPassHint": "Resultaat van prompt - Analyse dat de analyse zal doorstaan.",
+          "DefaultEnterpriseProperties": "Standaard bedrijfseigenschappen"
+        },
+        "ConfirmDelete": {
+          "Title": "Inhoudsanalyse-instelling verwijderen",
+          "Message": "Weet je zeker dat je deze inhoudsanalyse-instelling wiltverwijderen?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Geselecteerde tekst verbeteren",
+        "Detail": {
+          "BladeTitle": "Prompt-instellingen",
+          "ErrorMessage": "Dit veld is verplicht en moet het token bevatten: ",
+          "ExampleFixPromptText": "Voorbeeld: Verbeter de spelling van de volgende tekst:",
+          "PromptField": "Prompt",
+          "ReminderText": "Voeg een actie toe en vergeet niet het token op te nemen: ",
+          "TitleField": "Titel",
+          "OpenInDialog": "Chatvenster openen"
+        },
+        "ConfirmDelete": {
+          "Title": "Instelling voor het verbeteren van geselecteerde tekst verwijderen",
+          "Message": "Weet je zeker dat je deze instellingvoor het verbeteren van geselecteerde tekst wilt verwijderen?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Resultaat",
+        "ConfigurationError": "Kan geen verzoek naar Azure OpenAI verzenden! Controleer je configuratie of probeer het opnieuw.",
+        "ContainFilterTextError": "De respons bevat inhoud die niet is toegestaan volgens het beleid van Azure OpenAI. Wijzig de prompt en probeer het opnieuw.",
+        "Fail": "Mislukt",
+        "Outcome": "Resultaat: ",
+        "Pass": "Geslaagd",
+        "Prompt": "Prompt: "
+      },
+      "Tryout": {
+        "BladeTitle": "Uitproberen",
+        "Text": "Tekst"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webonderdelen"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "AI-engine Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Website delen met andere bedrijfsprofielen",
+          "businessProfile": "Bedrijfsprofiel"
+        },
+        "errors": {
+          "permissionMissingMessage": "Je hebt niet de vereiste machtigingen. Om toegang te krijgen tot deze functie moet je een bedrijfsprofielbeheerder zijn in Omnia.",
+          "businessProfileSharedDisabled": "Dit bedrijfsprofiel ondersteunt geen delen met andere bedrijfsprofielen."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Opmerkingendialoog openen"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Verwijderen uit Mijn links"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0} heeft {1} ongelezen."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Semantisch zoeken",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Opmerking! Het inschakelen van semantisch zoeken vervangt de huidige functionaliteit voor snel zoeken binnen het systeem.",
+          "UseSemanticSearch": "Semantisch zoeken inschakelen",
+          "CustomHelpText": "Aangepaste helptekst",
+          "EnableCustomPostAnswerMessage": "Aangepast bericht na antwoord",
+          "EnableShowReferences": "Referenties tonen",
+          "IncludeParagraphs": "Paragrafen opnemen",
+          "IncludeSemanticSummary": "Semantische samenvatting opnemen",
+          "AddFilter": "Filter toevoegen",
+          "PropertyProvider": "Eigenschap-provider"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Altijd openen in een nieuw tabblad.",
+        "EnableMultilineSearchPrompt": "Meerregelige zoekprompt",
+        "EnableCustomHelpText": "Aangepaste helptekst"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Paragrafen",
+        "SeeMore": "Meer resultaten bekijken",
+        "Page": "Pagina",
+        "MissingConfigurationMessage": "Zorg ervoor dat de instellingen voor semantisch zoeken zijn geconfigureerd."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Semantisch zoeken"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Server-sleutel"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Terug naar teamworklijst"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Gebruikers selecteren",
+          "UseQueryBuilder": "Query-builder gebruiken"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Gebruiker verwijderen",
+          "Message": "Weet je zeker dat je deze gebruiker wilt verwijderen?"
+        },
+        "AddUsers": "Gebruiker toevoegen",
+        "ManualSort": "Handmatig sorteren"
+      },
+      "SendEmailAction": "E-mail verzenden-actie",
+      "StartChatAction": "Chat starten-actie",
+      "StartCallAction": "Oproep starten-actie"
+    }
+  }
+}
