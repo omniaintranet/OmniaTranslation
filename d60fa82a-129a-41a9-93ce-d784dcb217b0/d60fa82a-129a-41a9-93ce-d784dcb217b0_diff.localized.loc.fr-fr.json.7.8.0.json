@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Alignement du texte",
+        "TextUppercase": "Texte en majuscules"
+      },
+      "Tabs": {
+        "Actions": "Actions",
+        "Analytics": "Analytique"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Couleur du texte sélectionné",
+        "SelectedBackgroundColor": "Couleur de fond sélectionnée"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Type de filtre",
+            "FilterValue": "Valeur du filtre",
+            "FirstDimension": "Première dimension",
+            "SecondDimension": "Deuxième dimension",
+            "WebsiteQueryType": {
+              "Reports": "Rapports",
+              "Events": "Événements"
+            },
+            "Event": {
+              "EventCategories": "Catégories d'événements",
+              "EventActions": "Actions d'événements",
+              "EventNames": "Noms d'événements"
+            },
+            "ExpandRows": "Développer les lignes"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Nombre de visiteurs en temps réel"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Métrique",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Fréquence des visiteurs"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Exclure l'URL racine (/)",
+            "ShowExportToExcel": "Activer l'exportation vers Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Fréquence des visiteurs"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Fréquence des visiteurs"
+            },
+            "Export": {
+              "ExportToExcel": "Exporter vers Excel",
+              "FileExporting": "Génération du fichier Excel...",
+              "ErrorWhenFileExporting": "Une erreur s'est produite lors de l'exportation."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Image de la bannière"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Gestion de contenu Web",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Application de publication",
+            "Type": "Application de publication"
+          },
+          "PageType": {
+            "Title": "Type de page",
+            "Type": "Type de page"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "ID de la page",
+      "PageTitle": "Titre de la page"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analytique"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Politiques de publication",
+            "AddContentAnalysisSetting": "Ajouter une politique"
+          },
+          "SemanticSearch": {
+            "Title": "Recherche sémantique",
+            "EnableSemanticSearch": "Activer la recherche sémantique",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Pages incluses dans la recherche sémantique",
+              "Message": "Les pages publiées seront consultables par tousles utilisateurs ayant le rôle de lecteur de recherche sémantique. Voulez-vous continuer ?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Analyse préalable à la publication",
+            "TextProperties": "Propriétés du texte",
+            "Save": "Enregistrer",
+            "Cancel": "Annuler",
+            "ContentAnalysisTitle": "Analyse de contenu"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Analyse préalable à la publication",
+            "EditPage": "Modifier la page",
+            "FixPage": "Corriger la page",
+            "Cancel": "Annuler",
+            "Passed": "Réussi",
+            "Failed": "Échoué",
+            "ContinuePublishing": "Continuer",
+            "FixedPageSuccessMessage": "Le contenu de la page a été corrigé avec succès. Vous pouvez le vérifier à nouveau.",
+            "ErrorMessage": "Impossible d'analyser ou de corriger le contenu de la page"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Nombre total d'utilisateurs"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Planifié pour archivage"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Activer la promotion vers Viva"
+      }
+    }
+  }
+}
