@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Gebruiker verwijderen",
+        "PeolePicker": "Personenkiezer",
+        "SearchUserLabel": "Zoek gebruiker",
+        "SearchUserTooltip": "Zoek gebruiker, druk op enter om te zoeken",
+        "NoItemsFound": "Geen overeenkomende items gevonden",
+        "Searching": "Bezig met zoeken...",
+        "ResultsFound": "Resultaten gevonden"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "Systeem",
+          "Title": "AI-engine",
+          "Description": "Schakel deze functie in voor systeemtoegang tot de AI-engine"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Zoeken voltooid met resultaten.",
+            "SearchCompletedWithNoResults": "Zoeken voltooid zonder resultaten."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash mediaprovider voor rechtenvrije afbeeldingen.",
+        "DowloadImageFailed": "Downloaden van afbeelding mislukt",
+        "PhotoBy": "Foto door",
+        "PhotosProviderBy": "Foto's geleverd door"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semantische zoeklezer"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Reactie bewerkingsacties"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Uitklappen"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analyse",
+        "EnableEventTracking": "Evenementen volgen inschakelen",
+        "EventActions": "Evenementacties",
+        "EventAction": "Evenementactie",
+        "EventCategory": "Evenementcategorie",
+        "EventName": "Evenementnaam"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Ga naar inhoud"
+    }
+  }
+}
