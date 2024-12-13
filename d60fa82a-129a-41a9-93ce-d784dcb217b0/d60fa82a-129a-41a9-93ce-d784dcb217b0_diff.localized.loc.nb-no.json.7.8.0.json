@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Tekstjustering",
+        "TextUppercase": "Store bokstaver"
+      },
+      "Tabs": {
+        "Actions": "Handlinger",
+        "Analytics": "Analyse"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Valgt tekstfarge",
+        "SelectedBackgroundColor": "Valgt bakgrunnsfarge"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Type",
+            "FilterValue": "Filterverdi",
+            "FirstDimension": "Første dimensjon",
+            "SecondDimension": "Andre dimensjon",
+            "WebsiteQueryType": {
+              "Reports": "Rapporter",
+              "Events": "Hendelser"
+            },
+            "Event": {
+              "EventCategories": "Hendelseskategorier",
+              "EventActions": "Hendelseshandlinger",
+              "EventNames": "Hendelsesnavn"
+            },
+            "ExpandRows": "Utvid rader"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Besøkende i sanntid"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Måling",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøksfrekvens"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Ekskluder rot-URL (/)",
+            "ShowExportToExcel": "Aktiver eksport til Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøksfrekvens"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøksfrekvens"
+            },
+            "Export": {
+              "ExportToExcel": "Eksporter til Excel",
+              "FileExporting": "Genererer Excel-fil...",
+              "ErrorWhenFileExporting": "Det oppstod en feil under eksportering."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Bannerbilde"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Webinnholdshåndtering",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publiseringsapp",
+            "Type": "Publiseringsapp"
+          },
+          "PageType": {
+            "Title": "Sidetype",
+            "Type": "Sidetype"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Sidens ID",
+      "PageTitle": "Sidetittel"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analyse"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Publiseringsregler",
+            "AddContentAnalysisSetting": "Legg til regel"
+          },
+          "SemanticSearch": {
+            "Title": "Semantisk søk",
+            "EnableSemanticSearch": "Aktiver semantisk søk",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Sider inkludert i semantisk søk",
+              "Message": "Publiserte sider vil være søkbare for alle brukere med rollen 'semantisk søk leser'. Ønsker du å fortsette?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Forhåndsanalyse før publisering",
+            "TextProperties": "Tekstegenskaper",
+            "Save": "Lagre",
+            "Cancel": "Avbryt",
+            "ContentAnalysisTitle": "Innholdsanalyse"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Forhåndsanalyse før publisering",
+            "EditPage": "Rediger side",
+            "FixPage": "Fiks side",
+            "Cancel": "Avbryt",
+            "Passed": "Bestått",
+            "Failed": "Mislyktes",
+            "ContinuePublishing": "Fortsett",
+            "FixedPageSuccessMessage": "Sideinnholdet er fikset. Du kan sjekke det på nytt.",
+            "ErrorMessage": "Kan ikke analysere eller fikse sideinnholdet"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Totalt antall brukere"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Planlagt for arkivering"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Aktiver promotering til Viva"
+      }
+    }
+  }
+}
