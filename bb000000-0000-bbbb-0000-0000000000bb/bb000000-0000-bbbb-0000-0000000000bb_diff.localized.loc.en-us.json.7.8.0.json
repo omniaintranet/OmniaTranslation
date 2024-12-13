@@ -2,9 +2,9 @@
   "Omnia": {
     "Ux": {
       "IdentityPicker": {
-        "RemoveUser": "Remove User",
-        "PeolePicker": "People Picker",
-        "SearchUserLabel": "Search User",
+        "RemoveUser": "Remove user",
+        "PeolePicker": "People picker",
+        "SearchUserLabel": "Search user",
         "SearchUserTooltip": "Search User, hit enter to search",
         "NoItemsFound": "No matching items found",
         "Searching": "Searching...",
@@ -13,8 +13,8 @@
       "Features": {
         "AIEngine": {
           "Category": "System",
-          "Title": "AI Engine",
-          "Description": "Enable this feature to give your system access to the AI Engine"
+          "Title": "AI engine",
+          "Description": "Enable this feature for system access to the AI engine"
         }
       },
       "FilterEngine": {
