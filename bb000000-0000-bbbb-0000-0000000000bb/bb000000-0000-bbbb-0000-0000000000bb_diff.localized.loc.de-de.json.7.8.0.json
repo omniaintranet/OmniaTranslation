@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Benutzer entfernen",
+        "PeolePicker": "Personenauswahl",
+        "SearchUserLabel": "Benutzer suchen",
+        "SearchUserTooltip": "Benutzer suchen, drücken Sie die Eingabetaste, um zu suchen",
+        "NoItemsFound": "Keine übereinstimmenden Elemente gefunden",
+        "Searching": "Suche...",
+        "ResultsFound": "Ergebnisse gefunden"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "System",
+          "Title": "KI-Engine",
+          "Description": "Aktivieren Sie diese Funktion für den Systemzugriff auf die KI-Engine"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Suche abgeschlossen mit Ergebnissen.",
+            "SearchCompletedWithNoResults": "Suche abgeschlossen ohne Ergebnisse."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash-Mediendienst für lizenzfreie Bilder.",
+        "DowloadImageFailed": "Bild herunterladen fehlgeschlagen",
+        "PhotoBy": "Foto von",
+        "PhotosProviderBy": "Bilder bereitgestellt von"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semantischer Suchleser"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Kommentar Bearbeitungsoptionen"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Erweitern"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analytik",
+        "EnableEventTracking": "Ereignisverfolgung aktivieren",
+        "EventActions": "Ereignisaktionen",
+        "EventAction": "Ereignisaktion",
+        "EventCategory": "Ereigniskategorie",
+        "EventName": "Ereignisname"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Zum Inhalt springen"
+    }
+  }
+}
