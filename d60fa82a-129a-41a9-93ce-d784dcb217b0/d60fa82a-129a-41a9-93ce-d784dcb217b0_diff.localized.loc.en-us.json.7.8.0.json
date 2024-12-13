@@ -2,7 +2,7 @@
   "WCM": {
     "ActionButton": {
       "Labels": {
-        "TextAlignment": "Text Alignment",
+        "TextAlignment": "Text alignment",
         "TextUppercase": "Text Uppercase"
       },
       "Tabs": {
@@ -53,8 +53,8 @@
         },
         "TableView": {
           "Settings": {
-            "ExcludeRootUrl": "Exclude root url (/)",
-            "ShowExportToExcel": "Enable Export to Excel",
+            "ExcludeRootUrl": "Exclude root URL (/)",
+            "ShowExportToExcel": "Enable export to Excel",
             "BuiltInColumns": {
               "VisitorFrequency": "Visitor frequency"
             }
@@ -74,7 +74,7 @@
     },
     "BannerBlock": {
       "Block": {
-        "BannerPicture": "Banner Picture"
+        "BannerPicture": "Banner picture"
       }
     },
     "Core": {
@@ -82,19 +82,19 @@
         "WebContentManagment": "Web content management",
         "BuiltinProperty": {
           "PublishingApp": {
-            "Title": "Publishing App",
-            "Type": "PublishingApp"
+            "Title": "Publishing app",
+            "Type": "Publishing app"
           },
           "PageType": {
-            "Title": "Page Type",
-            "Type": "PageType"
+            "Title": "Page type",
+            "Type": "Page type"
           }
         }
       }
     },
     "Tokens": {
-      "PageId": "Page Id",
-      "PageTitle": "Page Title"
+      "PageId": "Page id",
+      "PageTitle": "Page title"
     },
     "Editor": {
       "Editor": {
@@ -105,15 +105,15 @@
             }
           },
           "ContentAnalysis": {
-            "Title": "Publish policies",
+            "Title": "Publishing policies",
             "AddContentAnalysisSetting": "Add policy"
           },
           "SemanticSearch": {
             "Title": "Semantic search",
             "EnableSemanticSearch": "Enable semantic search",
             "SemanticSearchEnableConfirmation": {
-              "Title": "Included pages in Semantic search",
-              "Message": "Published pages will be searchable by all users with the Semantic search reader role. Do you want to proceed?"
+              "Title": "Pages included in semantic search",
+              "Message": "Published pages will be searchable by all users with the semantic search reader role. Do you want to proceed?"
             }
           }
         },
@@ -123,18 +123,18 @@
             "TextProperties": "Text properties",
             "Save": "Save",
             "Cancel": "Cancel",
-            "ContentAnalysisTitle": "Content Analysis"
+            "ContentAnalysisTitle": "Content analysis"
           },
           "PrePublishContentAnalysis": {
             "Title": "Pre-publishing analysis",
-            "EditPage": "Edit Page",
-            "FixPage": "Fix Page",
+            "EditPage": "Edit page",
+            "FixPage": "Fix page",
             "Cancel": "Cancel",
             "Passed": "Passed",
             "Failed": "Failed",
             "ContinuePublishing": "Continue",
-            "FixedPageSuccessMessage": "Page Content is fixed successfully. You can re-check it !",
-            "ErrorMessage": "Unable to Analyze or Fix Page Content"
+            "FixedPageSuccessMessage": "Page content is fixed successfully. You can re-check it.",
+            "ErrorMessage": "Unable to analyze or fix page content"
           }
         }
       }
@@ -146,12 +146,12 @@
         "TotalNoOfUsers": "Total number of users"
       },
       "WorkflowStatus": {
-        "ScheduledForArchiving": "Scheduled For Archiving"
+        "ScheduledForArchiving": "Scheduled for archiving"
       }
     },
     "PublishingApp": {
       "SharepointSync": {
-        "EnablePromoteToViva": "Enable Promote To Viva"
+        "EnablePromoteToViva": "Enable promote to Viva"
       }
     }
   }
