@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Tekstjustering",
+        "TextUppercase": "Store bogstaver"
+      },
+      "Tabs": {
+        "Actions": "Handlinger",
+        "Analytics": "Analyse"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Valgt tekstfarve",
+        "SelectedBackgroundColor": "Valgt baggrundsfarve"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Type",
+            "FilterValue": "Filterværdi",
+            "FirstDimension": "Første dimension",
+            "SecondDimension": "Anden dimension",
+            "WebsiteQueryType": {
+              "Reports": "Rapporter",
+              "Events": "Hændelser"
+            },
+            "Event": {
+              "EventCategories": "Hændelseskategorier",
+              "EventActions": "Hændelseshandlinger",
+              "EventNames": "Hændelsesnavne"
+            },
+            "ExpandRows": "Udvid rækker"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Besøgende i realtid"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Måling",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøgsfrekvens"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Ekskluder rod-URL (/)",
+            "ShowExportToExcel": "Aktivér eksport til Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøgsfrekvens"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besøgsfrekvens"
+            },
+            "Export": {
+              "ExportToExcel": "Eksportér til Excel",
+              "FileExporting": "Genererer Excel-fil...",
+              "ErrorWhenFileExporting": "Der opstod en fejl under eksporten."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Bannerbillede"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Webindholdsadministration",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publiceringsapp",
+            "Type": "Publiceringsapp"
+          },
+          "PageType": {
+            "Title": "Sidetype",
+            "Type": "Sidetype"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Side-id",
+      "PageTitle": "Sidetitel"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analyse"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Publiceringspolitikker",
+            "AddContentAnalysisSetting": "Tilføj politik"
+          },
+          "SemanticSearch": {
+            "Title": "Semantisk søgning",
+            "EnableSemanticSearch": "Aktivér semantisk søgning",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Sider inkluderet i semantisk søgning",
+              "Message": "Offentliggjorte sider vil være søgbare af alle brugere med rollen som semantisk søgningslæser. Vil du fortsætte?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Forudgående publiceringsanalyse",
+            "TextProperties": "Tekstegenskaber",
+            "Save": "Gem",
+            "Cancel": "Annuller",
+            "ContentAnalysisTitle": "Indholdsanalyse"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Forudgående publiceringsanalyse",
+            "EditPage": "Rediger side",
+            "FixPage": "Ret side",
+            "Cancel": "Annuller",
+            "Passed": "Godkendt",
+            "Failed": "Mislykkedes",
+            "ContinuePublishing": "Fortsæt",
+            "FixedPageSuccessMessage": "Sidens indhold er rettet med succes. Du kan kontrollere det igen.",
+            "ErrorMessage": "Kan ikke analysere eller rette sidens indhold"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Samlet antal brugere"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Planlagt til arkivering"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Aktivér promovering til Viva"
+      }
+    }
+  }
+}
