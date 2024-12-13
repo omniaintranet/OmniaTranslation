@@ -80,7 +80,7 @@
         },
         "ConfirmDelete": {
           "Title": "Deleting improve selected text setting",
-          "Message": "Are you sure you want to delete this "Improve selected text" setting?"
+          "Message": "Are you sure you want to delete this \"Improve selected text\" setting?"
         }
       },
       "Result": {
