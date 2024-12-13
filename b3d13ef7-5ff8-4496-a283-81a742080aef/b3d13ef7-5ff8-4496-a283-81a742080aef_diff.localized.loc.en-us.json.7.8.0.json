@@ -14,7 +14,7 @@
       },
       "TemplateMerge": {
         "LinkedDocumentTemplateHasNewEditionMessage": "This document template has been updated. Please review and apply the changes as part of the publishing workflow.",
-        "ChangeDocumentTemplate": "Change Document Template"
+        "ChangeDocumentTemplate": "Change document template"
       }
     },
     "DocumentLibrary": {
@@ -30,16 +30,16 @@
           "Analytics": "Analytics"
         },
         "QueryScope": {
-          "SharePointLibrary": "SharePoint Library"
+          "SharePointLibrary": "SharePoint library"
         },
-        "SiteUrl": "Site Url"
+        "SiteUrl": "Site URL"
       }
     },
     "Features": {
       "Fields": {
         "ODMIsIncludedInSemanticSearch": {
-          "Name": "Is Included Semantic Search",
-          "Description": "System column in Omnia Document Management for information about if a controlled document is included in semantic search."
+          "Name": "Is included in semantic search",
+          "Description": "System column in Omnia document management for information about if a controlled document is included in semantic search."
         }
       }
     }
