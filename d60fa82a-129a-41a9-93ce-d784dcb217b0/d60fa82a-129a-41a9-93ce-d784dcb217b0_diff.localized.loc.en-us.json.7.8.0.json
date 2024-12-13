@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Text Alignment",
+        "TextUppercase": "Text Uppercase"
+      },
+      "Tabs": {
+        "Actions": "Actions",
+        "Analytics": "Analytics"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Selected text color",
+        "SelectedBackgroundColor": "Selected background color"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Type",
+            "FilterValue": "Filter value",
+            "FirstDimension": "First dimension",
+            "SecondDimension": "Second dimension",
+            "WebsiteQueryType": {
+              "Reports": "Reports",
+              "Events": "Events"
+            },
+            "Event": {
+              "EventCategories": "Event categories",
+              "EventActions": "Event actions",
+              "EventNames": "Event names"
+            },
+            "ExpandRows": "Expand rows"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Real-time visitor count"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Metric",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Visitor frequency"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Exclude root url (/)",
+            "ShowExportToExcel": "Enable Export to Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Visitor frequency"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Visitor frequency"
+            },
+            "Export": {
+              "ExportToExcel": "Export to Excel",
+              "FileExporting": "Generating Excel file...",
+              "ErrorWhenFileExporting": "An error occurred while exporting."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Banner Picture"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Web content management",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publishing App",
+            "Type": "PublishingApp"
+          },
+          "PageType": {
+            "Title": "Page Type",
+            "Type": "PageType"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Page Id",
+      "PageTitle": "Page Title"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analytics"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Publish policies",
+            "AddContentAnalysisSetting": "Add policy"
+          },
+          "SemanticSearch": {
+            "Title": "Semantic search",
+            "EnableSemanticSearch": "Enable semantic search",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Included pages in Semantic search",
+              "Message": "Published pages will be searchable by all users with the Semantic search reader role. Do you want to proceed?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Pre-publishing analysis",
+            "TextProperties": "Text properties",
+            "Save": "Save",
+            "Cancel": "Cancel",
+            "ContentAnalysisTitle": "Content Analysis"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Pre-publishing analysis",
+            "EditPage": "Edit Page",
+            "FixPage": "Fix Page",
+            "Cancel": "Cancel",
+            "Passed": "Passed",
+            "Failed": "Failed",
+            "ContinuePublishing": "Continue",
+            "FixedPageSuccessMessage": "Page Content is fixed successfully. You can re-check it !",
+            "ErrorMessage": "Unable to Analyze or Fix Page Content"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Total number of users"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Scheduled For Archiving"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Enable Promote To Viva"
+      }
+    }
+  }
+}
