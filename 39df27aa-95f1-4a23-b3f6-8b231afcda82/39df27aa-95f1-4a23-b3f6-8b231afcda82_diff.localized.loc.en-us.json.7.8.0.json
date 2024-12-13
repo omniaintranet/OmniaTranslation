@@ -1,57 +1,57 @@
 {
   "OTAD": {
     "AISearchConfig": {
-      "AISearchTitle": "AI Engine AI Search",
+      "AISearchTitle": "AI engine AI search",
       "ApiKey": "API Key",
-      "ApiBaseUrl": "API Base URL",
-      "DeploymentName": "Deployment Name",
-      "ApiVersion": "API Version",
+      "ApiBaseUrl": "API base URL",
+      "DeploymentName": "Deployment name",
+      "ApiVersion": "API version",
       "EmptyApiVersion": "Will use latest version if left empty.",
       "AISearchUrlChangedConfirmation": {
-        "Title": "AI Search Url is changed",
-        "Message": "The existing AI Search data will be lost when the AI Search Url is changed. Do you want to proceed?"
+        "Title": "AI search URL is changed",
+        "Message": "The existing AI search data will be lost when the AI search URL is changed. Do you want to proceed?"
       }
     },
     "QueryableProperties": {
       "SemanticSearch": "Semantic search"
     },
     "OpenAIApiConfig": {
-      "OpenAITitle": "AI Engine OpenAI API",
-      "ApiKey": "API Key",
-      "ApiBaseUrl": "API Base URL"
+      "OpenAITitle": "AI engine OpenAI API",
+      "ApiKey": "API key",
+      "ApiBaseUrl": "API base URL"
     },
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
           "Title": "Semantic search",
-          "PropertyProvider": "Property Provider"
+          "PropertyProvider": "Property provider"
         }
       }
     },
     "AIEngineSettings": {
-      "AIEngine": "AI Engine",
+      "AIEngine": "AI engine",
       "GeneralSetting": {
         "OpenAISetting": "Setting",
-        "TextCompletionConfig": "Text Completion Configuration",
-        "DeploymentName": "Deployment Name",
-        "AIAlias": "AI Alias",
+        "TextCompletionConfig": "Text completion configuration",
+        "DeploymentName": "Deployment name",
+        "AIAlias": "AI alias",
         "SemanticSearchConfig": {
-          "Title": "Semantic Search",
-          "LLMDeploymentName": "LLM Deployment name",
-          "EmbeddingsDeploymentName": "Embeddings Deployment name",
-          "MissingConfigurationMessage": "Please make sure AI Search and OpenAI API secrets are configured."
+          "Title": "Semantic search",
+          "LLMDeploymentName": "LLM deployment name",
+          "EmbeddingsDeploymentName": "Embeddings deployment name",
+          "MissingConfigurationMessage": "Please make sure AI search and OpenAI API secrets are configured."
         }
       },
       "Buttons": {
-        "ShowResult": "Show Result",
-        "RunAnalysis": "Run Analysis",
-        "Tryout": "Try Out"
+        "ShowResult": "Show result",
+        "RunAnalysis": "Run analysis",
+        "Tryout": "Try out"
       },
       "ContentAnalysis": {
-        "BladeTitle": "Content Analysis",
+        "BladeTitle": "Content analysis",
         "Detail": {
           "BladeTitle": "Prompt settings",
-          "ErrorMessage": "This field is required and must contains token {0} inside the quotation: \"{0}\"",
+          "ErrorMessage": "This field is required and must contain token {0} inside the quotation: \"{0}\"",
           "ExampleText": "Example: Fix the spelling in the following text: \"{0}\" ?",
           "PromptAnalysisField": "Prompt - Analysis",
           "PromptFixField": "Prompt - Fix",
@@ -59,7 +59,7 @@
           "TitleField": "Title",
           "ExampleAnalysisPromptText": "Example: Is the spelling of the following text correct: \"{0}\" ?",
           "CriteriaToPass": "Criteria to pass check",
-          "CriteriaToPassHint": "Result from Prompt - Analysis that will pass the analysis.",
+          "CriteriaToPassHint": "Result from prompt - Analysis that will pass the analysis.",
           "DefaultEnterpriseProperties": "Default enterprise properties"
         },
         "ConfirmDelete": {
@@ -71,7 +71,7 @@
         "BladeTitle": "Improve selected text",
         "Detail": {
           "BladeTitle": "Prompt settings",
-          "ErrorMessage": "This field is required and must contains token: ",
+          "ErrorMessage": "This field is required and must contain token: ",
           "ExampleFixPromptText": "Example: Fix the spelling of the following text: ",
           "PromptField": "Prompt",
           "ReminderText": "Add an action and remember to include the token: ",
@@ -80,13 +80,13 @@
         },
         "ConfirmDelete": {
           "Title": "Deleting improve selected text setting",
-          "Message": "Are you sure you want to delete this improve selected text setting?"
+          "Message": "Are you sure you want to delete this "Improve selected text" setting?"
         }
       },
       "Result": {
         "BladeTitle": "Result",
-        "ConfigurationError": "Cannot send request to Azure Open AI! Please check your configuration or retry your prompt.",
-        "ContainFilterTextError": "The response contains content that is not allowed by Azure OpenAI policy. Please change your prompt and try again.",
+        "ConfigurationError": "Cannot send request to Azure OpenAI! Please check your configuration or retry.",
+        "ContainFilterTextError": "The response contains content that is not allowed by Azure OpenAI policy. Please change the prompt and try again.",
         "Fail": "Failed",
         "Outcome": "Outcome: ",
         "Pass": "Pass",
@@ -105,16 +105,16 @@
   },
   "OmniaWorkplace": {
     "DallE": {
-      "DallETitle": "AI Engine Dall-E"
+      "DallETitle": "AI engine Dall-E"
     },
     "Analytics": {
       "admin": {
         "general": {
-          "shared": "Share website with other Business profiles",
-          "businessProfile": "Business Profile"
+          "shared": "Share website with other business profiles",
+          "businessProfile": "Business profile"
         },
         "errors": {
-          "permissionMissingMessage": "You do not have the required permissions. In order to access this feature you need to be a Business Profile Administrator in Omnia.",
+          "permissionMissingMessage": "You do not have the required permissions. In order to access this feature you need to be a business profile administrator in Omnia.",
           "businessProfileSharedDisabled": "This business profile does not support sharing with other business profiles."
         }
       }
@@ -124,7 +124,7 @@
     },
     "LinksManagement": {
       "MyLinks": {
-        "DeleteMyLinks": "Delete from My Links"
+        "DeleteMyLinks": "Delete from My links"
       }
     },
     "NotificationPanel": {
@@ -154,10 +154,10 @@
         "Paragraphs": "Paragraphs",
         "SeeMore": "See more results",
         "Page": "Page",
-        "MissingConfigurationMessage": "Please make sure Semantic Search settings is configured."
+        "MissingConfigurationMessage": "Please make sure semantic search settings are configured."
       },
       "SearchProviders": {
-        "SemanticSearch": "Semantic Search"
+        "SemanticSearch": "Semantic search"
       }
     }
   },
@@ -176,16 +176,16 @@
       "Settings": {
         "QueryConfigurationTypes": {
           "PickUsers": "Pick users",
-          "UseQueryBuilder": "Use Query builder"
+          "UseQueryBuilder": "Use query builder"
         },
         "DeleteUserConfirmation": {
           "Title": "Remove user",
           "Message": "Are you sure you want to remove this user?"
         },
         "AddUsers": "Add user",
-        "ManualSort": "Manual Sort"
+        "ManualSort": "Manual sort"
       },
-      "SendEmailAction": "Send email action",
+      "SendEmailAction": "Send Email action",
       "StartChatAction": "Start chat action",
       "StartCallAction": "Start call action"
     }
