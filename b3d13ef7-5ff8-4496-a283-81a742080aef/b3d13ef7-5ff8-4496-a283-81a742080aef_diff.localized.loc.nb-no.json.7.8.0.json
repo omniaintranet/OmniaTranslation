@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semantisk søk",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Tillat å bli inkludert i semantisk søk. Ikke merket av som standard.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Tillat å bli inkludert i semantisk søk. Merket av som standard.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Alltid inkludert i semantisk søk."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Side"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Denne dokumentmalen er oppdatert. Vennligst gjennomgå ogbruk endringene som en del av publiseringsprosessen.",
+        "ChangeDocumentTemplate": "Endre dokumentmal"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Inkluder i semantisk søk"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analyse"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint-bibliotek"
+        },
+        "SiteUrl": "Nettstedets URL"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Er inkludert i semantisk søk",
+          "Description": "Systemkolonne i Omnia dokumenthåndtering som angir om et kontrollert dokument er inkludert i semantisksøk."
+        }
+      }
+    }
+  }
+}
