@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semanttinen haku",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Salli sisällyttäminen semanttiseen hakuun. Oletuksena ei valittu.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Salli sisällyttäminen semanttiseen hakuun. Oletuksena valittu.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Sisällytä aina semanttiseen hakuun."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Sivu"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Tämä asiakirjapohja on päivitetty. Tarkista ja hyväksy muutokset julkaisuprosessin osana.",
+        "ChangeDocumentTemplate": "Vaihda asiakirjapohja"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Sisällytä semanttiseen hakuun"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analytiikka"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint-kirjasto"
+        },
+        "SiteUrl": "Sivuston URL-osoite"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Sisällytetään semanttiseen hakuun",
+          "Description": "Omnia-dokumentinhallinnan järjestelmäkenttä, joka kertoo, onko hallittu asiakirja sisällytetty semanttiseen hakuun."
+        }
+      }
+    }
+  }
+}
