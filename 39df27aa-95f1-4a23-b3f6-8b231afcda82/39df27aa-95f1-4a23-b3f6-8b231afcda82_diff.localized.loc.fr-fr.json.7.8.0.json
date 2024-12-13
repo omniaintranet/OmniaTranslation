@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "Moteur d'IA - Recherche IA",
+      "ApiKey": "Clé API",
+      "ApiBaseUrl": "URL de base de l'API",
+      "DeploymentName": "Nom du déploiement",
+      "ApiVersion": "Version de l'API",
+      "EmptyApiVersion": "Utilisera la dernière version si laissée vide.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "L'URL de recherche IA a été modifiée",
+        "Message": "Les données de recherche IA existantes seront perdues lorsque l'URL de recherche IA sera modifiée. Voulez-vous continuer ?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Recherche sémantique"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "Moteur d'IA - API OpenAI",
+      "ApiKey": "Clé API",
+      "ApiBaseUrl": "URL de base de l'API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Recherche sémantique",
+          "PropertyProvider": "Fournisseur de propriétés"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "Moteur d'IA",
+      "GeneralSetting": {
+        "OpenAISetting": "Réglage",
+        "TextCompletionConfig": "Configuration de complétion de texte",
+        "DeploymentName": "Nom du déploiement",
+        "AIAlias": "Alias de l'IA",
+        "SemanticSearchConfig": {
+          "Title": "Recherche sémantique",
+          "LLMDeploymentName": "Nom du déploiement LLM",
+          "EmbeddingsDeploymentName": "Nom du déploiement des embeddings",
+          "MissingConfigurationMessage": "Veuillez vous assurer que les secretsde recherche IA et d'API OpenAI sont configurés."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Afficher le résultat",
+        "RunAnalysis": "Lancer l'analyse",
+        "Tryout": "Essayer"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Analyse de contenu",
+        "Detail": {
+          "BladeTitle": "Paramètres de la requête",
+          "ErrorMessage": "Ce champ est requis et doit contenir le jeton {0} à l'intérieur des guillemets : \"{0}\"",
+          "ExampleText": "Exemple : Corrigez l'orthographe dans le texte suivant :\"{0}\" ?",
+          "PromptAnalysisField": "Requête - Analyse",
+          "PromptFixField": "Requête -Correction",
+          "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton {0} à l'intérieur des guillemets : \"{0}\"",
+          "TitleField": "Titre",
+          "ExampleAnalysisPromptText": "Exemple : L'orthographe du texte suivant est-elle correcte : \"{0}\" ?",
+          "CriteriaToPass": "Critères pour passer la vérification",
+          "CriteriaToPassHint": "Résultat de la requête - Analyse qui passeral'analyse.",
+          "DefaultEnterpriseProperties": "Propriétés d'entreprise par défaut"
+        },
+        "ConfirmDelete": {
+          "Title": "Supprimer le paramètre d'analyse de contenu",
+          "Message": "Êtes-vous sûr de vouloir supprimer ce paramètre d'analyse decontenu ?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Améliorer le texte sélectionné",
+        "Detail": {
+          "BladeTitle": "Paramètres de la requête",
+          "ErrorMessage": "Ce champ est requis et doit contenir le jeton : ",
+          "ExampleFixPromptText": "Exemple : Corrigez l'orthographe du texte suivant : ",
+          "PromptField": "Requête",
+          "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton : ",
+          "TitleField": "Titre",
+          "OpenInDialog": "Ouvrir la fenêtre dediscussion"
+        },
+        "ConfirmDelete": {
+          "Title": "Supprimer le paramètre d'amélioration du texte sélectionné",
+          "Message": "Êtes-vous sûr de vouloir supprimer ce paramètre \"Améliorer le texte sélectionné\" ?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Résultat",
+        "ConfigurationError": "Impossible d'envoyer la requête à Azure OpenAI ! Veuillez vérifier votre configuration ou réessayer.",
+        "ContainFilterTextError": "La réponse contient un contenu non autorisé par la politique Azure OpenAI. Veuillez modifier la requête et réessayer.",
+        "Fail": "Échec",
+        "Outcome": "Résultat : ",
+        "Pass": "Réussite",
+        "Prompt": "Requête : "
+      },
+      "Tryout": {
+        "BladeTitle": "Essayer",
+        "Text": "Texte"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webparts"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "Moteur d'IA Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Partager le site avec d'autres profils d'entreprise",
+          "businessProfile": "Profil d'entreprise"
+        },
+        "errors": {
+          "permissionMissingMessage": "Vous n'avez pas les autorisations requises. Pour accéder à cette fonctionnalité, vous devez être administrateur d'un profil d'entreprise dans Omnia.",
+          "businessProfileSharedDisabled": "Ce profil d'entreprise ne prend pas en charge le partage avec d'autres profils d'entreprise."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Ouvrir la fenêtre de commentaires"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Supprimer de Mes liens"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0}, a {1} nonlus."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Recherche sémantique",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Note ! L'activation de larecherche sémantique remplacera la fonctionnalité de recherche rapide actuelle dans le système.",
+          "UseSemanticSearch": "Activer la recherche sémantique",
+          "CustomHelpText": "Texte d'aide personnalisé",
+          "EnableCustomPostAnswerMessage": "Message personnalisé après la réponse",
+          "EnableShowReferences": "Afficher les références",
+          "IncludeParagraphs": "Inclure les paragraphes",
+          "IncludeSemanticSummary": "Inclure le résumé sémantique",
+          "AddFilter": "Ajouter un filtre",
+          "PropertyProvider": "Fournisseur de propriétés"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Ouvrir toujours dans un nouvel onglet.",
+        "EnableMultilineSearchPrompt": "Requête de recherche multiligne",
+        "EnableCustomHelpText": "Texte d'aide personnalisé"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Paragraphes",
+        "SeeMore": "Voir plusde résultats",
+        "Page": "Page",
+        "MissingConfigurationMessage": "Veuillez vous assurerque les paramètres de recherche sémantique sont configurés."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Recherche sémantique"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Clé du serveur"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Retour à la liste de travail d'équipe"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Sélectionner des utilisateurs",
+          "UseQueryBuilder": "Utiliser le générateur de requêtes"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Supprimer l'utilisateur",
+          "Message": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?"
+        },
+        "AddUsers": "Ajouter un utilisateur",
+        "ManualSort": "Tri manuel"
+      },
+      "SendEmailAction": "Envoyer un e-mail",
+      "StartChatAction": "Démarrer une discussion",
+      "StartCallAction": "Démarrer un appel"
+    }
+  }
+}
