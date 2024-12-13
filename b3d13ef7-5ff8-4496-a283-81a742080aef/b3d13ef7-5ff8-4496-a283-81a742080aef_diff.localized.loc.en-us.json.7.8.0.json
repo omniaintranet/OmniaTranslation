@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semantic search",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Allow to be included in semantic search. Unchecked by default.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Allow to be included in semantic search. Checked by default.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Always include in semantic search."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Page"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "This document template has been updated. Please review and apply the changes as part of the publishing workflow.",
+        "ChangeDocumentTemplate": "Change Document Template"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Include in semantic search"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analytics"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint Library"
+        },
+        "SiteUrl": "Site Url"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Is Included Semantic Search",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is included in semantic search."
+        }
+      }
+    }
+  }
+}
