@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "AI-hakumoottori AI-haku",
+      "ApiKey": "API-avain",
+      "ApiBaseUrl": "API:n perus-URL",
+      "DeploymentName": "Julkaisun nimi",
+      "ApiVersion": "API-versio",
+      "EmptyApiVersion": "Käytetään uusinta versiota, jos jätetään tyhjäksi.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "AI-hakujen URL on muuttunut",
+        "Message": "Olemassa olevat AI-hakutiedot menetetään, kun AI-hakujen URL muuttuu. Haluatko jatkaa?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Semanttinen haku"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "AI-hakumoottori OpenAI API",
+      "ApiKey": "API-avain",
+      "ApiBaseUrl": "API:n perus-URL"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Semanttinen haku",
+          "PropertyProvider": "Ominaisuuden tarjoaja"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "AI-hakumoottori",
+      "GeneralSetting": {
+        "OpenAISetting": "Asetus",
+        "TextCompletionConfig": "Tekstin täydennyskonfiguraatio",
+        "DeploymentName": "Julkaisun nimi",
+        "AIAlias": "AI-aliaksen",
+        "SemanticSearchConfig": {
+          "Title": "Semanttinen haku",
+          "LLMDeploymentName": "LLM-julkaisun nimi",
+          "EmbeddingsDeploymentName": "Upotusten julkaisun nimi",
+          "MissingConfigurationMessage": "Varmista, että AI-hakujen ja OpenAI API -salaisuudet on määritetty."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Näytä tulos",
+        "RunAnalysis": "Suorita analyysi",
+        "Tryout": "Kokeile"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Sisällön analysointi",
+        "Detail": {
+          "BladeTitle": "Käynnistysasetukset",
+          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisällettävä merkki {0} lainausmerkkien sisällä: \"{0}\"",
+          "ExampleText": "Esimerkki: Korjaa seuraavan tekstin oikeinkirjoitus: \"{0}\" ?",
+          "PromptAnalysisField": "Käynnistys - Analyysi",
+          "PromptFixField": "Käynnistys - Korjaus",
+          "ReminderText": "Lisää toimintoja muista sisällyttää merkki {0} lainausmerkkien sisällä: \"{0}\"",
+          "TitleField": "Otsikko",
+          "ExampleAnalysisPromptText": "Esimerkki: Onko seuraavan tekstin oikeinkirjoitus oikein: \"{0}\" ?",
+          "CriteriaToPass": "Kriteerittarkistuksen läpäisemiseksi",
+          "CriteriaToPassHint": "Analyysin tuloksesta, joka läpäisee analyysin.",
+          "DefaultEnterpriseProperties": "Oletusyritysominaisuudet"
+        },
+        "ConfirmDelete": {
+          "Title": "Poistetaanko sisällön analysointiasetus",
+          "Message": "Haluatko varmasti poistaa tämän sisällön analysointiasetuksen?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Paranna valittua tekstiä",
+        "Detail": {
+          "BladeTitle": "Käynnistysasetukset",
+          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisällettävä merkki: ",
+          "ExampleFixPromptText": "Esimerkki: Korjaa seuraavan tekstin oikeinkirjoitus: ",
+          "PromptField": "Käynnistys",
+          "ReminderText": "Lisää toiminto ja muista sisällyttää merkki: ",
+          "TitleField": "Otsikko",
+          "OpenInDialog": "Avaa keskusteluruutu"
+        },
+        "ConfirmDelete": {
+          "Title": "Poistetaanko paranna valittua tekstiä -asetus",
+          "Message": "Haluatko varmasti poistaa tämän \"Paranna valittua tekstiä\" -asetuksen?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Tulos",
+        "ConfigurationError": "Azure OpenAI:lle ei voi lähettää pyyntöä! Tarkista asetukset tai yritä uudelleen.",
+        "ContainFilterTextError": "Vastaus sisältää sisältöä, joka ei ole sallittu Azure OpenAI -käytännön mukaan. Vaihda käynnistystä ja yritä uudelleen.",
+        "Fail": "Epäonnistui",
+        "Outcome": "Tulos: ",
+        "Pass": "Läpäisee",
+        "Prompt": "Käynnistys: "
+      },
+      "Tryout": {
+        "BladeTitle": "Kokeile",
+        "Text": "Teksti"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Web-osat"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "AI-hakumoottori Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Jaa verkkosivusto muiden yritysprofiilien kanssa",
+          "businessProfile": "Yritysprofiili"
+        },
+        "errors": {
+          "permissionMissingMessage": "Sinulla ei ole tarvittavia käyttöoikeuksia. Päästäksesi tähän toimintoon sinunon oltava yritysprofiilin järjestelmänvalvoja Omniassa.",
+          "businessProfileSharedDisabled": "Tämä yritysprofiili ei tue jakamistamuiden yritysprofiilien kanssa."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Avaa kommenttiruutu"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Poista \"Omat linkit\" -luettelosta"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0}, sinulla on {1} lukematonta."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Semanttinen haku",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Huomio! Semanttisen haun käyttöönotto korvaa nykyisen pikahaun toiminnallisuuden järjestelmässä.",
+          "UseSemanticSearch": "Ota semanttinen haku käyttöön",
+          "CustomHelpText": "Mukautettu ohjeteksti",
+          "EnableCustomPostAnswerMessage": "Mukautettu jälkivastausviesti",
+          "EnableShowReferences": "Näytä viitteet",
+          "IncludeParagraphs": "Sisällytä kappaleet",
+          "IncludeSemanticSummary": "Sisällytä semanttinen yhteenveto",
+          "AddFilter": "Lisää suodatin",
+          "PropertyProvider": "Ominaisuuden tarjoaja"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Avaa aina uudessa välilehdessä.",
+        "EnableMultilineSearchPrompt": "Usean rivin hakuohje",
+        "EnableCustomHelpText": "Mukautettu ohjeteksti"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Kappaleet",
+        "SeeMore": "Näytä lisää tuloksia",
+        "Page": "Sivu",
+        "MissingConfigurationMessage": "Varmista, että semanttisen haun asetukset on määritetty."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Semanttinen haku"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Palvelimen avain"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Takaisin yhteistyöluetteloon"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Valitse käyttäjät",
+          "UseQueryBuilder": "Käytä kyselyrakentajaa"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Poista käyttäjä",
+          "Message": "Haluatko varmasti poistaa tämän käyttäjän?"
+        },
+        "AddUsers": "Lisää käyttäjä",
+        "ManualSort": "Manuaalinen lajittelu"
+      },
+      "SendEmailAction": "Lähetä sähköpostitoiminto",
+      "StartChatAction": "Aloita keskustelu-toiminto",
+      "StartCallAction": "Aloita puhelu-toiminto"
+    }
+  }
+}
