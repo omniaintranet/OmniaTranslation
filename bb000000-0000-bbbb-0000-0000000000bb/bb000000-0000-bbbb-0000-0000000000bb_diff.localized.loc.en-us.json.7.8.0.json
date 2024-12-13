@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Remove user",
+        "PeolePicker": "People picker",
+        "SearchUserLabel": "Search user",
+        "SearchUserTooltip": "Search User, hit enter to search",
+        "NoItemsFound": "No matching items found",
+        "Searching": "Searching...",
+        "ResultsFound": "Results found"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "System",
+          "Title": "AI engine",
+          "Description": "Enable this feature for system access to the AI engine"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Search completed with results.",
+            "SearchCompletedWithNoResults": "Search completed with no results."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash media provider for royalty-free images.",
+        "DowloadImageFailed": "Download image failed",
+        "PhotoBy": "Photo by",
+        "PhotosProviderBy": "Photos provided by"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semantic search reader"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Comment edit actions"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Expand"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analytics",
+        "EnableEventTracking": "Enable event tracking",
+        "EventActions": "Event actions",
+        "EventAction": "Event action",
+        "EventCategory": "Event category",
+        "EventName": "Event name"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Skip to content"
+    }
+  }
+}
