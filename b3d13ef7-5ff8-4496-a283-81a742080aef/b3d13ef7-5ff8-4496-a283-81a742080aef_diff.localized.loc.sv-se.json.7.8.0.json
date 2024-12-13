@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semantisk sökning",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Tillåt att inkluderas i semantisk sökning. Avmarkerad som standard.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Tillåt att inkluderas i semantisk sökning. Markerad som standard.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Alltid inkludera i semantisk sökning."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Sida"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Denna dokumentmall har uppdaterats. Vänligen granskaoch tillämpa ändringarna som en del av publiceringsprocessen.",
+        "ChangeDocumentTemplate": "Byt dokumentmall"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Inkludera i semantisk sökning"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analys"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint-bibliotek"
+        },
+        "SiteUrl": "Webbplats-URL"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Är inkluderad i semantisk sökning",
+          "Description": "Systemkolumn i Omnia dokumenthantering för information om en kontrollerad dokument är inkluderad i semantisk sökning."
+        }
+      }
+    }
+  }
+}
