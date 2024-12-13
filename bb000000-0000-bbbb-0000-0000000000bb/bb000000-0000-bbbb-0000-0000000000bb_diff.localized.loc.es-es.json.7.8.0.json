@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Eliminar usuario",
+        "PeolePicker": "Selector de personas",
+        "SearchUserLabel": "Buscar usuario",
+        "SearchUserTooltip": "Buscar usuario, presiona enter para buscar",
+        "NoItemsFound": "No se encontraron elementos coincidentes",
+        "Searching": "Buscando...",
+        "ResultsFound": "Resultados encontrados"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "Sistema",
+          "Title": "Motor de IA",
+          "Description": "Habilita esta función para el acceso del sistema al motor de IA"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Búsqueda completada con resultados.",
+            "SearchCompletedWithNoResults": "Búsqueda completada sin resultados."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Proveedor de medios Unsplash para imágenes sin derechos de autor.",
+        "DowloadImageFailed": "Error al descargar la imagen",
+        "PhotoBy": "Foto de",
+        "PhotosProviderBy": "Fotos proporcionadas por"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Lector de búsqueda semántica"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Acciones de edición de comentarios"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Expandir"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analíticas",
+        "EnableEventTracking": "Habilitar seguimiento de eventos",
+        "EventActions": "Acciones de eventos",
+        "EventAction": "Acción de evento",
+        "EventCategory": "Categoría de evento",
+        "EventName": "Nombre de evento"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Ir al contenido"
+    }
+  }
+}
