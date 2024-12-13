@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "AI-motor AI-sökning",
+      "ApiKey": "API-nyckel",
+      "ApiBaseUrl": "API-basadress",
+      "DeploymentName": "Namn på distribution",
+      "ApiVersion": "API-version",
+      "EmptyApiVersion": "Använder senaste versionen om fältet lämnas tomt.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "URL för AI-sökning har ändrats",
+        "Message": "Den befintliga AI-sökningsdatan kommer att förloras när URL:en för AI-sökning ändras. Vill du fortsätta?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Semantisk sökning"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "AI-motor OpenAI API",
+      "ApiKey": "API-nyckel",
+      "ApiBaseUrl": "API-basadress"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Semantisk sökning",
+          "PropertyProvider": "Egenskapsleverantör"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "AI-motor",
+      "GeneralSetting": {
+        "OpenAISetting": "Inställning",
+        "TextCompletionConfig": "Konfiguration för textkomplettering",
+        "DeploymentName": "Namn på distribution",
+        "AIAlias": "AI-alias",
+        "SemanticSearchConfig": {
+          "Title": "Semantisk sökning",
+          "LLMDeploymentName": "Namn på LLM-distribution",
+          "EmbeddingsDeploymentName": "Namn på inbäddningsdistribution",
+          "MissingConfigurationMessage": "Se till att AI-sökning och OpenAI API-hemligheterna är konfigurerade."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Visa resultat",
+        "RunAnalysis": "Kör analys",
+        "Tryout": "Testa"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Innehållsanalys",
+        "Detail": {
+          "BladeTitle": "Inställningar för prompt",
+          "ErrorMessage": "Detta fält är obligatoriskt och måste innehålla token {0} inom citationstecken: \"{0}\"",
+          "ExampleText": "Exempel: Fixa stavningen i följande text: \"{0}\" ?",
+          "PromptAnalysisField": "Prompt - Analys",
+          "PromptFixField": "Prompt - Fixa",
+          "ReminderText": "Lägg till en åtgärd och kom ihåg att inkludera token {0} inom citationstecken: \"{0}\"",
+          "TitleField": "Titel",
+          "ExampleAnalysisPromptText": "Exempel: Är stavningen i följande text korrekt: \"{0}\" ?",
+          "CriteriaToPass": "Kriterier för att passera kontroll",
+          "CriteriaToPassHint": "Resultat från prompt - Analys som kommer att passera analysen.",
+          "DefaultEnterpriseProperties": "Standardföretagsegenskaper"
+        },
+        "ConfirmDelete": {
+          "Title": "Radera inställning för innehållsanalys",
+          "Message": "Är du säker på att du vill radera denna inställning för innehållsanalys?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Förbättra markerad text",
+        "Detail": {
+          "BladeTitle": "Inställningar för prompt",
+          "ErrorMessage": "Detta fält är obligatoriskt och måste innehålla token: ",
+          "ExampleFixPromptText": "Exempel: Fixa stavningen i följande text: ",
+          "PromptField": "Prompt",
+          "ReminderText": "Lägg till en åtgärd och kom ihåg att inkludera token: ",
+          "TitleField": "Titel",
+          "OpenInDialog": "Öppna chatt-dialog"
+        },
+        "ConfirmDelete": {
+          "Title": "Radera inställning för att förbättra markerad text",
+          "Message": "Är du säker på att du vill radera denna inställning för att förbättra markerad text?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Resultat",
+        "ConfigurationError": "Kan inte skickabegäran till Azure OpenAI! Kontrollera din konfiguration eller försök igen.",
+        "ContainFilterTextError": "Svaret innehåller innehåll som inte är tillåtetenligt Azure OpenAI-policy. Ändra prompten och försök igen.",
+        "Fail": "Misslyckades",
+        "Outcome": "Resultat: ",
+        "Pass": "Passera",
+        "Prompt": "Prompt: "
+      },
+      "Tryout": {
+        "BladeTitle": "Testa",
+        "Text": "Text"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webbdelar"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "AI-motor Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Dela webbplatsen med andra företagsprofiler",
+          "businessProfile": "Företagsprofil"
+        },
+        "errors": {
+          "permissionMissingMessage": "Du har inte de nödvändiga behörigheterna. För att få åtkomst till den här funktionen måste du vara företagsprofiladministratör i Omnia.",
+          "businessProfileSharedDisabled": "Denna företagsprofil stöder inte delning med andra företagsprofiler."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Öppna kommentarsdialog"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Ta bort från Mina länkar"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0} har {1} olästa."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Semantisk sökning",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Observera! Aktivering av semantisk sökning kommer att ersätta den nuvarande snabbsökningsfunktionaliteteni systemet.",
+          "UseSemanticSearch": "Aktivera semantisk sökning",
+          "CustomHelpText": "Anpassad hjälptext",
+          "EnableCustomPostAnswerMessage": "Anpassat meddelande efter svar",
+          "EnableShowReferences": "Visa referenser",
+          "IncludeParagraphs": "Inkludera stycken",
+          "IncludeSemanticSummary": "Inkludera semantisk sammanfattning",
+          "AddFilter": "Lägg till filter",
+          "PropertyProvider": "Egenskapsleverantör"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Öppna alltid i en ny flik.",
+        "EnableMultilineSearchPrompt": "Flerradig sökprompt",
+        "EnableCustomHelpText": "Anpassad hjälptext"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Stycken",
+        "SeeMore": "Visa fler resultat",
+        "Page": "Sida",
+        "MissingConfigurationMessage": "Se till att inställningarna för semantisk sökning är konfigurerade."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Semantisk sökning"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Servernyckel"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Tillbaka till teamwork-listan"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Välj användare",
+          "UseQueryBuilder": "Använd frågebyggaren"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Ta bort användare",
+          "Message": "Är du säker på att du vill ta bort denna användare?"
+        },
+        "AddUsers": "Lägg till användare",
+        "ManualSort": "Manuell sortering"
+      },
+      "SendEmailAction": "Skicka e-post-åtgärd",
+      "StartChatAction": "Starta chatt-åtgärd",
+      "StartCallAction": "Starta samtal-åtgärd"
+    }
+  }
+}
