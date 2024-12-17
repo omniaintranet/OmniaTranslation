@@ -32,7 +32,7 @@
       "AIEngine": "AI engine",
       "GeneralSetting": {
         "OpenAISetting": "Setting",
-        "TextCompletionConfig": "Textcompletion configuration",
+        "TextCompletionConfig": "Text completion configuration",
         "DeploymentName": "Deployment name",
         "AIAlias": "AI alias",
         "SemanticSearchConfig": {
@@ -53,17 +53,17 @@
           "BladeTitle": "Prompt settings",
           "ErrorMessage": "This field is required and must contain token {0} inside the quotation: \"{0}\"",
           "ExampleText": "Example: Fix the spelling in the following text: \"{0}\"?",
-          "PromptAnalysisField": "Prompt - Analyzis",
+          "PromptAnalysisField": "Prompt - Analysis",
           "PromptFixField": "Prompt - Fix",
           "ReminderText": "Add an action and remember to include the token {0} inside the quotation: \"{0}\"",
           "TitleField": "Title",
           "ExampleAnalysisPromptText": "Example: Is the spelling of the following text correct: \"{0}\" ?",
           "CriteriaToPass": "Criteria to pass check",
-          "CriteriaToPassHint": "Result from prompt - that will pass the analyzis.",
+          "CriteriaToPassHint": "Result from prompt - that will pass the analysis.",
           "DefaultEnterpriseProperties": "Default enterprise properties"
         },
         "ConfirmDelete": {
-          "Title": "Deleting content analyzis setting",
+          "Title": "Deleting content analysis setting",
           "Message": "Are you sure you want to delete this content analyzis setting?"
         }
       },
