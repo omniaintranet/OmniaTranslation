@@ -5,7 +5,7 @@
         "RemoveUser": "Ta bort användare",
         "PeolePicker": "Personväljare",
         "SearchUserLabel": "Sök användare",
-        "SearchUserTooltip": "Sök användare, tryck på enter för att söka",
+        "SearchUserTooltip": "Sök användare, tryck på Enter för att söka",
         "NoItemsFound": "Inga matchande objekt hittades",
         "Searching": "Söker...",
         "ResultsFound": "Resultat hittades"
@@ -54,7 +54,7 @@
       }
     },
     "Header": {
-      "SkipToContent": "Hoppa till innehåll"
+      "SkipToContent": "Gå till innehåll"
     }
   }
 }
