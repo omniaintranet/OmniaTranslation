@@ -3,7 +3,7 @@
     "ActionButton": {
       "Labels": {
         "TextAlignment": "Text alignment",
-        "TextUppercase": "Text Uppercase"
+        "TextUppercase": "Text uppercase"
       },
       "Tabs": {
         "Actions": "Actions",
@@ -119,14 +119,14 @@
         },
         "Dialogs": {
           "EditContentAnalysis": {
-            "Title": "Pre-publishing analysis",
+            "Title": "Pre-publishing analyzis",
             "TextProperties": "Text properties",
             "Save": "Save",
             "Cancel": "Cancel",
-            "ContentAnalysisTitle": "Content analysis"
+            "ContentAnalysisTitle": "Content analyzis"
           },
           "PrePublishContentAnalysis": {
-            "Title": "Pre-publishing analysis",
+            "Title": "Pre-publishing analyzis",
             "EditPage": "Edit page",
             "FixPage": "Fix page",
             "Cancel": "Cancel",
