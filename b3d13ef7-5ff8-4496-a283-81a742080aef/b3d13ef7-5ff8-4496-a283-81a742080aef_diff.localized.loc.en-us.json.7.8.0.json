@@ -3,7 +3,7 @@
     "Admin": {
       "SemanticSearch": "Semantic search",
       "SemanticSearchTypes": {
-        "AllowIncludedDocumentInSemanticSearch": "Allow tobe included in semantic search. Unchecked by default.",
+        "AllowIncludedDocumentInSemanticSearch": "Allow to be included in semantic search. Unchecked by default.",
         "AllowAndDefaultIncludedDocumentInSemanticSearch": "Allow to be included in semantic search. Checked by default.",
         "AlwaysIncludedDocumentInSemanticSearch": "Always include in semantic search."
       }
