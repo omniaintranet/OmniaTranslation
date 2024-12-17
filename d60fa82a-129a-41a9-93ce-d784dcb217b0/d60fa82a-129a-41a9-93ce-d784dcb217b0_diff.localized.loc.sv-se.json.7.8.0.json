@@ -22,8 +22,8 @@
           "Settings": {
             "FilterType": "Typ",
             "FilterValue": "Filtervärde",
-            "FirstDimension": "Första dimension",
-            "SecondDimension": "Andra dimension",
+            "FirstDimension": "Första dimensionen",
+            "SecondDimension": "Andra dimensionen",
             "WebsiteQueryType": {
               "Reports": "Rapporter",
               "Events": "Händelser"
@@ -105,7 +105,7 @@
             }
           },
           "ContentAnalysis": {
-            "Title": "Publiceringspolicyer",
+            "Title": "Publiceringspolicy",
             "AddContentAnalysisSetting": "Lägg till policy"
           },
           "SemanticSearch": {
@@ -119,22 +119,22 @@
         },
         "Dialogs": {
           "EditContentAnalysis": {
-            "Title": "Förpubliceringsanalys",
+            "Title": "Analys före publicering",
             "TextProperties": "Textegenskaper",
             "Save": "Spara",
             "Cancel": "Avbryt",
-            "ContentAnalysisTitle": "Innehållsanalys"
+            "ContentAnalysisTitle": "Analys av innehåll"
           },
           "PrePublishContentAnalysis": {
-            "Title": "Förpubliceringsanalys",
+            "Title": "Analys före publicering",
             "EditPage": "Redigera sida",
-            "FixPage": "Fixa sida",
+            "FixPage": "Åtgärda sida",
             "Cancel": "Avbryt",
             "Passed": "Godkänd",
             "Failed": "Misslyckades",
             "ContinuePublishing": "Fortsätt",
-            "FixedPageSuccessMessage": "Sidinnehållet är fixat. Du kan kontrollera det igen.",
-            "ErrorMessage": "Kunde inte analysera eller fixa sidinnehåll"
+            "FixedPageSuccessMessage": "Sidinnehållet är åtgärdat. Du kan kontrollera det igen.",
+            "ErrorMessage": "Kunde inte analysera eller åtgärda sidinnehåll"
           }
         }
       }
@@ -151,7 +151,7 @@
     },
     "PublishingApp": {
       "SharepointSync": {
-        "EnablePromoteToViva": "Aktiveramarknadsföring till Viva"
+        "EnablePromoteToViva": "Aktivera marknadsföring till Viva"
       }
     }
   }
