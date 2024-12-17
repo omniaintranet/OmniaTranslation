@@ -32,7 +32,7 @@
       "AIEngine": "AI engine",
       "GeneralSetting": {
         "OpenAISetting": "Setting",
-        "TextCompletionConfig": "Textcompletion configuration",
+        "TextCompletionConfig": "Text completion configuration",
         "DeploymentName": "Deployment name",
         "AIAlias": "AI alias",
         "SemanticSearchConfig": {
@@ -44,27 +44,27 @@
       },
       "Buttons": {
         "ShowResult": "Show result",
-        "RunAnalysis": "Run analysis",
+        "RunAnalysis": "Run analyzis",
         "Tryout": "Try out"
       },
       "ContentAnalysis": {
-        "BladeTitle": "Content analysis",
+        "BladeTitle": "Content analyzis",
         "Detail": {
           "BladeTitle": "Prompt settings",
-          "ErrorMessage": "This field isrequired and must contain token {0} inside the quotation: \"{0}\"",
+          "ErrorMessage": "This field is required and must contain token {0} inside the quotation: \"{0}\"",
           "ExampleText": "Example: Fix the spelling in the following text: \"{0}\"?",
-          "PromptAnalysisField": "Prompt - Analysis",
+          "PromptAnalysisField": "Prompt - Analyzis",
           "PromptFixField": "Prompt - Fix",
           "ReminderText": "Add an action and remember to include the token {0} inside the quotation: \"{0}\"",
           "TitleField": "Title",
           "ExampleAnalysisPromptText": "Example: Is the spelling of the following text correct: \"{0}\" ?",
-          "CriteriaToPass": "Criteria topass check",
-          "CriteriaToPassHint": "Result from prompt - Analysis that will pass the analysis.",
+          "CriteriaToPass": "Criteria to pass check",
+          "CriteriaToPassHint": "Result from prompt - that will pass the analyzis.",
           "DefaultEnterpriseProperties": "Default enterprise properties"
         },
         "ConfirmDelete": {
-          "Title": "Deleting content analysis setting",
-          "Message": "Are you sure you want to delete this content analysis setting?"
+          "Title": "Deleting content analyzis setting",
+          "Message": "Are you sure you want to delete this content analyzis setting?"
         }
       },
       "ImproveSelectedText": {
@@ -114,7 +114,7 @@
           "businessProfile": "Business profile"
         },
         "errors": {
-          "permissionMissingMessage": "You do not have the required permissions. In order to access this feature you need to be a business profile administrator in Omnia.",
+          "permissionMissingMessage": "You don't have the required permissions. In order to access this feature you need to be a business profile administrator in Omnia.",
           "businessProfileSharedDisabled": "This business profile does not support sharing with other business profiles."
         }
       }
@@ -141,7 +141,7 @@
           "EnableShowReferences": "Show references",
           "IncludeParagraphs": "Include paragraphs",
           "IncludeSemanticSummary": "Include semantic summary",
-          "AddFilter": "Addfilter",
+          "AddFilter": "Add filter",
           "PropertyProvider": "Property provider"
         }
       },
@@ -163,7 +163,7 @@
   },
   "OmniaBusinessProfile": {
     "MediaflowSecrets": {
-      "ServerKey": "ServerKey"
+      "ServerKey": "Server key"
     }
   },
   "OmniaTeamCollaboration": {
