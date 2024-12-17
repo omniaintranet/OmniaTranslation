@@ -3,9 +3,9 @@
     "Admin": {
       "SemanticSearch": "Semantisk sökning",
       "SemanticSearchTypes": {
-        "AllowIncludedDocumentInSemanticSearch": "Tillåt att inkluderas i semantisk sökning. Avmarkerad som standard.",
-        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Tillåt att inkluderas i semantisk sökning. Markerad som standard.",
-        "AlwaysIncludedDocumentInSemanticSearch": "Alltid inkludera i semantisk sökning."
+        "AllowIncludedDocumentInSemanticSearch": "Tillåt att ingå i semantisk sökning. Avmarkerad som standard.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Tillåt att ingå i semantisk sökning. Markerad som standard.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Alltid ingå i semantisk sökning."
       }
     },
     "Core": {
@@ -13,14 +13,14 @@
         "Page": "Sida"
       },
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewEditionMessage": "Denna dokumentmall har uppdaterats. Vänligen granskaoch tillämpa ändringarna som en del av publiceringsprocessen.",
+        "LinkedDocumentTemplateHasNewEditionMessage": "Denna dokumentmall har uppdaterats. Vänligen granska och tillämpa ändringarna som en del av publiceringsprocessen.",
         "ChangeDocumentTemplate": "Byt dokumentmall"
       }
     },
     "DocumentLibrary": {
       "DocumentActions": {
         "PublishActions": {
-          "IncludeInSemanticSearch": "Inkludera i semantisk sökning"
+          "IncludeInSemanticSearch": "Ingå i semantisk sökning"
         }
       }
     },
@@ -38,8 +38,8 @@
     "Features": {
       "Fields": {
         "ODMIsIncludedInSemanticSearch": {
-          "Name": "Är inkluderad i semantisk sökning",
-          "Description": "Systemkolumn i Omnia dokumenthantering för information om en kontrollerad dokument är inkluderad i semantisk sökning."
+          "Name": "Ingår i semantisk sökning",
+          "Description": "Systemkolumn i Omnia dokumenthantering för information om ett styrt dokument ingår i semantisk sökning."
         }
       }
     }
