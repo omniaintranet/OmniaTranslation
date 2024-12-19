@@ -6,8 +6,8 @@
       "Sunday": "Sunday"
     },
     "CustomEmailSettings": {
-      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell Script to specific Exchange Online resources and do not apply to other Microsoft Graph workloads.",
-      "New7TestConfigureApplicationAccessPolicyMessage": "To test it use this PowerShell Script",
+      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell Script to specific Exchange Online resources and do not apply to other Microsoft Graph workloads:",
+      "New7TestConfigureApplicationAccessPolicyMessage": "To test it use this PowerShell Script:",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
       "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy -AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
@@ -17,7 +17,7 @@
       "SetupWizard": {
         "General": {
           "DateTime": {
-            "FirstDayOfWeekLabel": "First Day Of Week",
+            "FirstDayOfWeekLabel": "First day Of Week",
             "Monday": "Monday",
             "Sunday": "Sunday"
           }
