@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Die Funktion für E-Mail-Teilnehmer hat die URL-Begrenzung überschritten. Klicken Sie bitte auf die unten stehenden Schaltflächen, um separate E-Mail-Client-Apps zu öffnen."
+        },
+        "Buttons": {
+          "MailParticipants": "E-Mail-Teilnehmer"
+        }
+      }
+    }
+  }
+}
