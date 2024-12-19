@@ -3,7 +3,7 @@
     "EM": {
       "EventParticipantList": {
         "Messages": {
-          "MailParticipantOverflowInfo": "Sähköpostiosallistujien toiminnallisuus on ylittänyt URL:n rajoituksen. Avaa erilliset sähköpostiohjelmat napsauttamalla alla olevia painikkeita."
+          "MailParticipantOverflowInfo": "Sähköpostiosallistujien korkean lukumäärän takia viesti täytyy lähettää erissä. Lähetä erilliset sähköpostit klikkaamalla alla olevia painikkeita."
         },
         "Buttons": {
           "MailParticipants": "Sähköpostiosallistujat"
