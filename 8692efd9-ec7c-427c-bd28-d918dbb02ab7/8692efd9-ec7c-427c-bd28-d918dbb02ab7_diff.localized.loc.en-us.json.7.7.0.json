@@ -8,7 +8,7 @@
           "AutomaticPageTranslationFinished": "VariationPageTranslation"
         },
         "EventsFilter": {
-          "Title": "Whitelist Events filter",
+          "Title": "Whitelist events filter",
           "EnableEventsFilter": "Enable events filter",
           "Radio": {
             "Hint": "Switch between whitelist mode and blacklist mode",
