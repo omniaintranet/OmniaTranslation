@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Ekle veya Güncelle",
+          "Delete": "Sil",
+          "AutomaticPageTranslationFinished": "Çeşitlilik Sayfa Çevirisi"
+        },
+        "EventsFilter": {
+          "Title": "Olaylar Filtresini Beyaz Liste Yap",
+          "EnableEventsFilter": "Olaylar filtresini etkinleştir",
+          "Radio": {
+            "Hint": "Beyaz liste modu ve siyah liste modu arasında geçiş yapın",
+            "Blacklist": "Siyah liste",
+            "Whitelist": "Beyaz liste"
+          },
+          "FilterMode": {
+            "Label": "Filtre modu",
+            "BusinessProfile": "İş profili",
+            "PublishingApp": "Yayınlama uygulaması",
+            "PageCollection": "Sayfa koleksiyonu",
+            "BusinessProfileInputLabel": "İş profilleri",
+            "PublishingAppInputLabel": "Yayınlama uygulamaları"
+          }
+        }
+      }
+    }
+  }
+}
