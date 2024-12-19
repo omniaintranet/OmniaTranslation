@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Tambahkan atau Perbarui",
+          "Delete": "Hapus",
+          "AutomaticPageTranslationFinished": "Variasi Halaman Terjemahan"
+        },
+        "EventsFilter": {
+          "Title": "Filter Acara Whitelist",
+          "EnableEventsFilter": "Aktifkan filter acara",
+          "Radio": {
+            "Hint": "Beralihantara mode daftar putih dan mode daftar hitam",
+            "Blacklist": "Daftar hitam",
+            "Whitelist": "Daftar putih"
+          },
+          "FilterMode": {
+            "Label": "Mode filter",
+            "BusinessProfile": "Profil bisnis",
+            "PublishingApp": "Aplikasi penerbitan",
+            "PageCollection": "Koleksi halaman",
+            "BusinessProfileInputLabel": "Profil bisnis",
+            "PublishingAppInputLabel": "Aplikasi penerbitan"
+          }
+        }
+      }
+    }
+  }
+}
