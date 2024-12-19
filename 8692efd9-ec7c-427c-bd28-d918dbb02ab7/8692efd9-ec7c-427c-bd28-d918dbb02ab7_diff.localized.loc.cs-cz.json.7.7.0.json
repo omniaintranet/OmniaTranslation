@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Přidat nebo aktualizovat",
+          "Delete": "Smazat",
+          "AutomaticPageTranslationFinished": "Variace překladu stránky"
+        },
+        "EventsFilter": {
+          "Title": "Filtr událostí povolených",
+          "EnableEventsFilter": "Povolit filtr událostí",
+          "Radio": {
+            "Hint": "Přepnout mezi režimem povolených a zakázaných událostí",
+            "Blacklist": "Zakázané",
+            "Whitelist": "Povolené"
+          },
+          "FilterMode": {
+            "Label": "Režim filtru",
+            "BusinessProfile": "Obchodní profil",
+            "PublishingApp": "Publikační aplikace",
+            "PageCollection": "Sbírka stránek",
+            "BusinessProfileInputLabel": "Obchodní profily",
+            "PublishingAppInputLabel": "Publikační aplikace"
+          }
+        }
+      }
+    }
+  }
+}
