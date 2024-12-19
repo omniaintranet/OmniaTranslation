@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Adăugare sau actualizare",
+          "Delete": "Ștergere",
+          "AutomaticPageTranslationFinished": "Traducerea automată a paginii"
+        },
+        "EventsFilter": {
+          "Title": "Filtru evenimente whitelist",
+          "EnableEventsFilter": "Activare filtru evenimente",
+          "Radio": {
+            "Hint": "Comutați între modul whitelist și modul blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Mod filtru",
+            "BusinessProfile": "Profil de afaceri",
+            "PublishingApp": "Aplicație de publicare",
+            "PageCollection": "Colectie de pagini",
+            "BusinessProfileInputLabel": "Profile de afaceri",
+            "PublishingAppInputLabel": "Aplicații de publicare"
+          }
+        }
+      }
+    }
+  }
+}
