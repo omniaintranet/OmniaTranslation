@@ -9,7 +9,7 @@
       "New7ConfigureApplicationAccessPolicyMessage": "Sử dụng kịch bản PowerShell này để chỉ định tài nguyên Exchange Online cụ thể và không áp dụng cho các khối công việc Microsoft Graph khác:",
       "New7TestConfigureApplicationAccessPolicyMessage": "Để kiểm tra, sử dụng kịch bản PowerShell này:",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy-Identity {{emailIdentity}} -AppId {{appId}}",
-      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Hạn chế ứng dụng này chỉ gửi dưới quyền quản trị viên.\""
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
   },
   "Omnia": {
