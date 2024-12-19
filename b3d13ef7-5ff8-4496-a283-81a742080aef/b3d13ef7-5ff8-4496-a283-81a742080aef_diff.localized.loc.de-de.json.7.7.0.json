@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Diese Dokumentvorlage wurde aktualisiert. Bitte überprüfen Sie die Änderungen und wenden Sie sie im Rahmen des Veröffentlichungsworkflows an.",
+        "ChangeDocumentTemplate": "Dokumentvorlage ändern"
+      }
+    }
+  }
+}
