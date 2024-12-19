@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lägg till eller uppdatera",
+          "Delete": "Ta bort",
+          "AutomaticPageTranslationFinished": "Variationsidöversättning"
+        },
+        "EventsFilter": {
+          "Title": "Vitlistningsfilter för händelser",
+          "EnableEventsFilter": "Aktivera händelsefilter",
+          "Radio": {
+            "Hint": "Växla mellan vitlistningsläge och svartlistningsläge",
+            "Blacklist": "Svartlista",
+            "Whitelist": "Vitlista"
+          },
+          "FilterMode": {
+            "Label": "Filterläge",
+            "BusinessProfile": "Företagsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidinsamling",
+            "BusinessProfileInputLabel": "Företagsprofiler",
+            "PublishingAppInputLabel": "Publiceringsappar"
+          }
+        }
+      }
+    }
+  }
+}
