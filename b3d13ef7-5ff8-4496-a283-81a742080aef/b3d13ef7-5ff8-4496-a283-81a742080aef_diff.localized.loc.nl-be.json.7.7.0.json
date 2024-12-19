@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Dit document sjabloon is bijgewerkt. Gelieve de wijzigingen te bekijken en toe te passen als onderdeel van de publicatieworkflow.",
+        "ChangeDocumentTemplate": "Verander document sjabloon"
+      }
+    }
+  }
+}
