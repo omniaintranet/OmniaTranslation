@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Pridėti arba atnaujinti",
+          "Delete": "Ištrinti",
+          "AutomaticPageTranslationFinished": "Variacijos puslapio vertimas"
+        },
+        "EventsFilter": {
+          "Title": "Baltasis sąrašas įvykių filtravimui",
+          "EnableEventsFilter": "Įjungti įvykių filtravimą",
+          "Radio": {
+            "Hint": "Perjungti tarp baltosios sąrašo ir juodosios sąrašorežimų",
+            "Blacklist": "Juodasis sąrašas",
+            "Whitelist": "Baltasis sąrašas"
+          },
+          "FilterMode": {
+            "Label": "Filtravimo režimas",
+            "BusinessProfile": "Verslo profilis",
+            "PublishingApp": "Leidimo programa",
+            "PageCollection": "Puslapių kolekcija",
+            "BusinessProfileInputLabel": "Verslo profiliai",
+            "PublishingAppInputLabel": "Leidimo programos"
+          }
+        }
+      }
+    }
+  }
+}
