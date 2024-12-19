@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Aggiungi o aggiorna",
+          "Delete": "Elimina",
+          "AutomaticPageTranslationFinished": "Traduzione automatica della pagina terminata"
+        },
+        "EventsFilter": {
+          "Title": "Filtro eventi whitelist",
+          "EnableEventsFilter": "Abilita filtro eventi",
+          "Radio": {
+            "Hint": "Passa tra la modalità whitelist e la modalità blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Modalità filtro",
+            "BusinessProfile": "Profilo aziendale",
+            "PublishingApp": "App di pubblicazione",
+            "PageCollection": "Collezione di pagine",
+            "BusinessProfileInputLabel": "Profili aziendali",
+            "PublishingAppInputLabel": "App di pubblicazione"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Legg til eller oppdater",
+          "Delete": "Slett",
+          "AutomaticPageTranslationFinished": "Automatisk sideoversettelse fullført"
+        },
+        "EventsFilter": {
+          "Title": "Hviteliste for hendelsesfilter",
+          "EnableEventsFilter": "Aktiver hendelsesfilter",
+          "Radio": {
+            "Hint": "Bytt mellom hviteliste-modus og svarteliste-modus",
+            "Blacklist": "Svarteliste",
+            "Whitelist": "Hviteliste"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Forretningsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidekolleksjon",
+            "BusinessProfileInputLabel": "Forretningsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapper"
+          }
+        }
+      }
+    }
+  }
+}

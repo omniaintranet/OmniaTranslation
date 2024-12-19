@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Добавить или обновить",
+          "Delete": "Удалить",
+          "AutomaticPageTranslationFinished": "Перевод варианта страницы"
+        },
+        "EventsFilter": {
+          "Title": "Фильтр событий белого списка",
+          "EnableEventsFilter": "Включить фильтр событий",
+          "Radio": {
+            "Hint": "Переключение между режимом белого списка и режимом черного списка",
+            "Blacklist": "Черный список",
+            "Whitelist": "Белый список"
+          },
+          "FilterMode": {
+            "Label": "Режим фильтра",
+            "BusinessProfile": "Бизнес-профиль",
+            "PublishingApp": "Публикационное приложение",
+            "PageCollection": "Коллекция страниц",
+            "BusinessProfileInputLabel": "Бизнес-профили",
+            "PublishingAppInputLabel": "Публикационные приложения"
+          }
+        }
+      }
+    }
+  }
+}

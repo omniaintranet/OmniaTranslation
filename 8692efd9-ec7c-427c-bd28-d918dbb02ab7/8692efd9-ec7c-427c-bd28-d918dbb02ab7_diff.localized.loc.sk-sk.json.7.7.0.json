@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Pridať alebo aktualizovať",
+          "Delete": "Vymazať",
+          "AutomaticPageTranslationFinished": "Variácia prekladu stránky"
+        },
+        "EventsFilter": {
+          "Title": "Biela listina filtrov udalostí",
+          "EnableEventsFilter": "Povoliť filtrovanie udalostí",
+          "Radio": {
+            "Hint": "Prepnúť medzi režimom biela listina a režimom čierna listina",
+            "Blacklist": "Čierna listina",
+            "Whitelist": "Biela listina"
+          },
+          "FilterMode": {
+            "Label": "Režim filtra",
+            "BusinessProfile": "Obchodný profil",
+            "PublishingApp": "Publikačná aplikácia",
+            "PageCollection": "Kolekcia stránok",
+            "BusinessProfileInputLabel": "Obchodné profily",
+            "PublishingAppInputLabel": "Publikačné aplikácie"
+          }
+        }
+      }
+    }
+  }
+}

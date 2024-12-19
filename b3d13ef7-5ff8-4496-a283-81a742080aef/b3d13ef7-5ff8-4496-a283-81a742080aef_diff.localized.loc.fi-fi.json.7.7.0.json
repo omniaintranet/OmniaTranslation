@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Tämä asiakirjapohja on päivitetty. Käy läpi ja hyväksy muutokset osana julkaisuprosessia.",
+        "ChangeDocumentTemplate": "Vaihda asiakirjapohja"
+      }
+    }
+  }
+}

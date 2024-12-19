@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "추가 또는 업데이트",
+          "Delete": "삭제",
+          "AutomaticPageTranslationFinished": "다양한 페이지 번역"
+        },
+        "EventsFilter": {
+          "Title": "이벤트 필터 화이트리스트",
+          "EnableEventsFilter": "이벤트 필터 사용",
+          "Radio": {
+            "Hint": "화이트리스트 모드와 블랙리스트 모드 전환",
+            "Blacklist": "블랙리스트",
+            "Whitelist": "화이트리스트"
+          },
+          "FilterMode": {
+            "Label": "필터 모드",
+            "BusinessProfile": "비즈니스 프로필",
+            "PublishingApp": "게시 앱",
+            "PageCollection": "페이지 컬렉션",
+            "BusinessProfileInputLabel": "비즈니스 프로필",
+            "PublishingAppInputLabel": "게시 앱"
+          }
+        }
+      }
+    }
+  }
+}

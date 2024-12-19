@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Tambah atau Kemas Kini",
+          "Delete": "Padam",
+          "AutomaticPageTranslationFinished": "Terjemahan Halaman Variasi"
+        },
+        "EventsFilter": {
+          "Title": "Penapis Acara Senarai Putih",
+          "EnableEventsFilter": "Aktifkan penapis acara",
+          "Radio": {
+            "Hint": "Tukar antara mod putih senarai dan mod hitam senarai",
+            "Blacklist": "Senarai Hitam",
+            "Whitelist": "Senarai Putih"
+          },
+          "FilterMode": {
+            "Label": "Mod penapis",
+            "BusinessProfile": "Profil Perniagaan",
+            "PublishingApp": "Aplikasi Penerbitan",
+            "PageCollection": "Koleksi Halaman",
+            "BusinessProfileInputLabel": "Profil Perniagaan",
+            "PublishingAppInputLabel": "Aplikasi Penerbitan"
+          }
+        }
+      }
+    }
+  }
+}

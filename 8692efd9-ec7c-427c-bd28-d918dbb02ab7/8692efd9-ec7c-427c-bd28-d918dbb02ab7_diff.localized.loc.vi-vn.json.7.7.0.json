@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Thêm hoặc cập nhật",
+          "Delete": "Xóa",
+          "AutomaticPageTranslationFinished": "Biến thể trang dịch"
+        },
+        "EventsFilter": {
+          "Title": "Bộ lọc sự kiện cho phép",
+          "EnableEventsFilter": "Bật bộ lọc sự kiện",
+          "Radio": {
+            "Hint": "Chuyển đổi giữachế độ danh sách trắng và chế độ danh sách đen",
+            "Blacklist": "Danh sách đen",
+            "Whitelist": "Danh sách trắng"
+          },
+          "FilterMode": {
+            "Label": "Chế độ bộ lọc",
+            "BusinessProfile": "Hồ sơ doanh nghiệp",
+            "PublishingApp": "Ứng dụng xuất bản",
+            "PageCollection": "Bộ sưu tập trang",
+            "BusinessProfileInputLabel": "Hồ sơ doanh nghiệp",
+            "PublishingAppInputLabel": "Ứng dụng xuất bản"
+          }
+        }
+      }
+    }
+  }
+}

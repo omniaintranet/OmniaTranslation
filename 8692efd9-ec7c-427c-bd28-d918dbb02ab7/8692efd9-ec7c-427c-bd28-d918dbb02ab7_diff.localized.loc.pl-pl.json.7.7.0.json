@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Dodaj lub aktualizuj",
+          "Delete": "Usuń",
+          "AutomaticPageTranslationFinished": "Tłumaczenie strony wariantowej"
+        },
+        "EventsFilter": {
+          "Title": "Filtr zdarzeń na białej liście",
+          "EnableEventsFilter": "Włącz filtr zdarzeń",
+          "Radio": {
+            "Hint": "Przełącz między trybem białej listy a trybem czarnej listy",
+            "Blacklist": "Czarna lista",
+            "Whitelist": "Biała lista"
+          },
+          "FilterMode": {
+            "Label": "Tryb filtra",
+            "BusinessProfile": "Profil biznesowy",
+            "PublishingApp": "Aplikacja publikująca",
+            "PageCollection": "Kolekcja stron",
+            "BusinessProfileInputLabel": "Profile biznesowe",
+            "PublishingAppInputLabel": "Aplikacje publikujące"
+          }
+        }
+      }
+    }
+  }
+}

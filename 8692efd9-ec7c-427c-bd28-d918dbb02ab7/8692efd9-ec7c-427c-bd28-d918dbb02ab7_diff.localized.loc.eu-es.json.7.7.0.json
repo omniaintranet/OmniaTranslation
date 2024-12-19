@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "GehituEdoEguneratu",
+          "Delete": "Ezabatu",
+          "AutomaticPageTranslationFinished": "BariazioOrrialdeItzulpena"
+        },
+        "EventsFilter": {
+          "Title": "Gertaera-iragazkiaren zerrenda-blankeo",
+          "EnableEventsFilter": "Gaitu gertaera-iragazkia",
+          "Radio": {
+            "Hint": "Aldatu blankeo modua eta zuri-lista modua",
+            "Blacklist": "Blankeo-lista",
+            "Whitelist": "Zuri-lista"
+          },
+          "FilterMode": {
+            "Label": "Iragazki modua",
+            "BusinessProfile": "Negozio profila",
+            "PublishingApp": "Argitaratze aplikazioa",
+            "PageCollection": "Orrialde bilduma",
+            "BusinessProfileInputLabel": "Negozio profilak",
+            "PublishingAppInputLabel": "Argitaratze aplikazioak"
+          }
+        }
+      }
+    }
+  }
+}

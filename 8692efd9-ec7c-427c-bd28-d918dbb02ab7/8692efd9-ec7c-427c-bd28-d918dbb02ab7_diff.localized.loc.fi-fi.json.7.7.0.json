@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisää tai päivitä",
+          "Delete": "Poista",
+          "AutomaticPageTranslationFinished": "VariaatioSivunKäännös"
+        },
+        "EventsFilter": {
+          "Title": "Whitelist-tapahtumien suodatin",
+          "EnableEventsFilter": "Ota tapahtumien suodatin käyttöön",
+          "Radio": {
+            "Hint": "Vaihda whitelist-tilan ja blacklist-tilan välillä",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Suodatustila",
+            "BusinessProfile": "Liiketoimintaprofiili",
+            "PublishingApp": "Julkaisusovellus",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Liiketoimintaprofiilit",
+            "PublishingAppInputLabel": "Julkaisusovellukset"
+          }
+        }
+      }
+    }
+  }
+}

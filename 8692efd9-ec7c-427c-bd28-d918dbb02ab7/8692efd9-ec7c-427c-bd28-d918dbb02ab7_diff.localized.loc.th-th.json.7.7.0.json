@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "เพิ่มหรืออัปเดต",
+          "Delete": "ลบ",
+          "AutomaticPageTranslationFinished": "การแปลหน้าอัตโนมัติเสร็จสิ้น"
+        },
+        "EventsFilter": {
+          "Title": "ตัวกรองเหตุการณ์ Whitelist",
+          "EnableEventsFilter": "เปิดใช้งานตัวกรองเหตุการณ์",
+          "Radio": {
+            "Hint": "สลับระหว่างโหมด Whitelist และโหมด Blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "โหมดตัวกรอง",
+            "BusinessProfile": "โปรไฟล์ธุรกิจ",
+            "PublishingApp": "แอปพลิเคชันการเผยแพร่",
+            "PageCollection": "คอลเลกชันหน้า",
+            "BusinessProfileInputLabel": "โปรไฟล์ธุรกิจ",
+            "PublishingAppInputLabel": "แอปพลิเคชันการเผยแพร่"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Esta plantilla de documento se ha actualizado. Por favor, revise y aplique los cambios como parte del flujo de publicación.",
+        "ChangeDocumentTemplate": "Cambiar plantilla de documento"
+      }
+    }
+  }
+}

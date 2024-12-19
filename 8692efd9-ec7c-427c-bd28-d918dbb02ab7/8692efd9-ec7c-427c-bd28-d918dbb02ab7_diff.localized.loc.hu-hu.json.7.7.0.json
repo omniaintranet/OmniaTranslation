@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Hozzáadás vagy frissítés",
+          "Delete": "Törlés",
+          "AutomaticPageTranslationFinished": "Variáció oldal fordítás"
+        },
+        "EventsFilter": {
+          "Title": "Események szűrő engedélyezése",
+          "EnableEventsFilter": "Események szűrő engedélyezése",
+          "Radio": {
+            "Hint": "Váltás a fehérlista mód és a feketelista mód között",
+            "Blacklist": "Feketelista",
+            "Whitelist": "Fehérlista"
+          },
+          "FilterMode": {
+            "Label": "Szűrő mód",
+            "BusinessProfile": "Üzleti profil",
+            "PublishingApp": "Kiadó alkalmazás",
+            "PageCollection": "Oldal gyűjtemény",
+            "BusinessProfileInputLabel": "Üzleti profilok",
+            "PublishingAppInputLabel": "Kiadó alkalmazások"
+          }
+        }
+      }
+    }
+  }
+}

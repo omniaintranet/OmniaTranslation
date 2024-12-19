@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Ce modèle de document a été mis à jour. Veuillez examiner et appliquer les modifications dans le cadre du flux de publication.",
+        "ChangeDocumentTemplate": "Changer le modèle de document"
+      }
+    }
+  }
+}

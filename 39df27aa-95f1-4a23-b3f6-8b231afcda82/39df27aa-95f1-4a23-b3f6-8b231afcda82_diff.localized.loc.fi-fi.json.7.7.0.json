@@ -1,0 +1,28 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Viikon ensimmäinen päivä",
+      "Monday": "Maanantai",
+      "Sunday": "Sunnuntai"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Käytä tätä PowerShell-skriptiä määrittääksesi Exchange Online -resurssit ja älä sovelleta muihin Microsoft Graph -kuormituksiin:",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Testaasitä käyttämällä tätä PowerShell-skriptiä:",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Rajoita tämän sovelluksen lähettämistä vain ylläpitäjänä.\""
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Viikon ensimmäinen päivä",
+            "Monday": "Maanantai",
+            "Sunday": "Sunnuntai"
+          }
+        }
+      }
+    }
+  }
+}

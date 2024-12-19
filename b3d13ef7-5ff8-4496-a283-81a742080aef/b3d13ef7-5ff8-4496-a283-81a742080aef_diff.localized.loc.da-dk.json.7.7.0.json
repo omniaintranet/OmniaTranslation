@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Denne dokumentskabelon er blevet opdateret. Gennemgå og anvend ændringerne som en del af publiceringsprocessen.",
+        "ChangeDocumentTemplate": "Skift dokumentskabelon"
+      }
+    }
+  }
+}

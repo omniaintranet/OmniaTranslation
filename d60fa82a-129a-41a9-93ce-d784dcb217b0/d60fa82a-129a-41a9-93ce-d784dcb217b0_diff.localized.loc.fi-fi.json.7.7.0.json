@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Sähköpostiosallistujien toiminnallisuus on ylittänyt URL:n rajoituksen. Avaa erilliset sähköpostiohjelmat napsauttamalla alla olevia painikkeita."
+        },
+        "Buttons": {
+          "MailParticipants": "Sähköpostiosallistujat"
+        }
+      }
+    }
+  }
+}

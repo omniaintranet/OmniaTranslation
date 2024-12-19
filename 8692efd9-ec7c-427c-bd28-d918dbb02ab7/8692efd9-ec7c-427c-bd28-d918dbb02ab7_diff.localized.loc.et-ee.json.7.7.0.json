@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisa või uuenda",
+          "Delete": "Kustuta",
+          "AutomaticPageTranslationFinished": "Variatsiooni lehetõlge"
+        },
+        "EventsFilter": {
+          "Title": "Sündmuste filtrite lubamine",
+          "EnableEventsFilter": "Luba sündmuste filter",
+          "Radio": {
+            "Hint": "Vaheta lubatud ja keelatud režiimi vahel",
+            "Blacklist": "Keelatud nimekiri",
+            "Whitelist": "Lubatud nimekiri"
+          },
+          "FilterMode": {
+            "Label": "Filtrirežiim",
+            "BusinessProfile": "Äriprofiil",
+            "PublishingApp": "Avaldamisrakendus",
+            "PageCollection": "Leheküljekogu",
+            "BusinessProfileInputLabel": "Äriprofiilid",
+            "PublishingAppInputLabel": "Avaldamisrakendused"
+          }
+        }
+      }
+    }
+  }
+}

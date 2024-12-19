@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Toevoegen of bijwerken",
+          "Delete": "Verwijderen",
+          "AutomaticPageTranslationFinished": "Variatiepagina vertaling"
+        },
+        "EventsFilter": {
+          "Title": "Whitelist gebeurtenisfilter",
+          "EnableEventsFilter": "Gebeurtenisfilter inschakelen",
+          "Radio": {
+            "Hint": "Schakel tussen whitelist-modus en blacklist-modus",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedrijfsprofiel",
+            "PublishingApp": "Publicatie-app",
+            "PageCollection": "Paginacollectie",
+            "BusinessProfileInputLabel": "Bedrijfsprofielen",
+            "PublishingAppInputLabel": "Publicatie-apps"
+          }
+        }
+      }
+    }
+  }
+}

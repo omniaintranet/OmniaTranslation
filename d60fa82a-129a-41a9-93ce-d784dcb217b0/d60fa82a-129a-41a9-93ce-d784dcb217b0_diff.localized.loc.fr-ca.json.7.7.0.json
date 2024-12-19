@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "La fonctionnalité des participants par courrier électronique a dépassé la limite de l'URL, veuillez cliquer sur chaque bouton ci-dessous pourouvrir des applications de messagerie distinctes."
+        },
+        "Buttons": {
+          "MailParticipants": "Participants par courrier électronique"
+        }
+      }
+    }
+  }
+}
