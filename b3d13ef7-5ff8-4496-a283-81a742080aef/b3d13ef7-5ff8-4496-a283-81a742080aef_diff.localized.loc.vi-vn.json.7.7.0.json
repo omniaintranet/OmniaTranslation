@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Mẫu tài liệu này đã được cập nhật. Vui lòng xem xét và áp dụng các thay đổi như một phần của quy trình xuất bản.",
+        "ChangeDocumentTemplate": "Thay đổi mẫu tài liệu"
+      }
+    }
+  }
+}
