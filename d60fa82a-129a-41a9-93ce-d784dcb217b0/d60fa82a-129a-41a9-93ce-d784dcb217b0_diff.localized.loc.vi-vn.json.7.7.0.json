@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Chức năng tham gia qua email đã vượt quá giới hạn URL, vui lòng nhấp vào từng nút bên dưới để mở ứng dụng email riêng."
+        },
+        "Buttons": {
+          "MailParticipants": "Tham gia qua email"
+        }
+      }
+    }
+  }
+}
