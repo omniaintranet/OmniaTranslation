@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "追加または更新",
+          "Delete": "削除",
+          "AutomaticPageTranslationFinished": "バリエーションページの翻訳"
+        },
+        "EventsFilter": {
+          "Title": "イベントフィルタのホワイトリスト",
+          "EnableEventsFilter": "イベントフィルタを有効にする",
+          "Radio": {
+            "Hint": "ホワイトリストモードとブラックリストモードの切り替え",
+            "Blacklist": "ブラックリスト",
+            "Whitelist": "ホワイトリスト"
+          },
+          "FilterMode": {
+            "Label": "フィルターモード",
+            "BusinessProfile": "ビジネスプロファイル",
+            "PublishingApp": "パブリッシングアプリ",
+            "PageCollection": "ページコレクション",
+            "BusinessProfileInputLabel": "ビジネスプロファイル",
+            "PublishingAppInputLabel": "パブリッシングアプリ"
+          }
+        }
+      }
+    }
+  }
+}
