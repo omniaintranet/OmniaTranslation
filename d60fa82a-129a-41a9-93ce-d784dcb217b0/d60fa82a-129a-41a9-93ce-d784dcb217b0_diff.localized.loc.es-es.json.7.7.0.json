@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "La funcionalidad de participantes de correo ha superado la limitación de URL, por favor haga clic en cada botón a continuación para abrir aplicaciones de correo electrónico separadas."
+        },
+        "Buttons": {
+          "MailParticipants": "Participantes de correo"
+        }
+      }
+    }
+  }
+}
