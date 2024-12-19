@@ -3,7 +3,7 @@
     "EM": {
       "EventParticipantList": {
         "Messages": {
-          "MailParticipantOverflowInfo": "The mail participants functionality has exceed the limitation of URL, please click on each button below to open separate mail client apps."
+          "MailParticipantOverflowInfo": "The mail participants functionality has exceeded the URL limit. Please click each button below to open the respective mail client apps."
         },
         "Buttons": {
           "MailParticipants": "Mail participants"
