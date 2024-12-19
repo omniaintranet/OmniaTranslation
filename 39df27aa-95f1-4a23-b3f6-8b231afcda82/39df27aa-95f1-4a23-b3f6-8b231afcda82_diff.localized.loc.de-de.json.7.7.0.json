@@ -9,7 +9,7 @@
       "New7ConfigureApplicationAccessPolicyMessage": "Verwenden Sie dieses PowerShell-Skript, um spezifische Exchange Online-Ressourcen festzulegen und nicht auf andere Microsoft Graph-Arbeitslasten anzuwenden:",
       "New7TestConfigureApplicationAccessPolicyMessage": "Verwenden Sie dieses PowerShell-Skript zum Testen:",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
-      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Beschränken Sie diese App darauf, nur als Administrator zu senden.\""
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
   },
   "Omnia": {
