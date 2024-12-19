@@ -6,7 +6,7 @@
           "MailParticipantOverflowInfo": "The mail participants functionality has exceed the limitation of URL, please click on each buttons below to open separate mail client apps."
         },
         "Buttons": {
-          "MailParticipants": "Mail Participants"
+          "MailParticipants": "Mail participants"
         }
       }
     }
