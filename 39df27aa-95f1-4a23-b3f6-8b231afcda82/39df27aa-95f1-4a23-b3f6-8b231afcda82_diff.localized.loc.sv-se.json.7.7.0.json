@@ -1,0 +1,28 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Första dagen i veckan",
+      "Monday": "Måndag",
+      "Sunday": "Söndag"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Använd detta PowerShell-skript för att specificera Exchange Online-resurser och inte tillämpa på andra Microsoft Graph-arbetsbelastningar:",
+      "New7TestConfigureApplicationAccessPolicyMessage": "För att testa det, använd detta PowerShell-skript:",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Begränsa denna app att endast skicka som administratör.\""
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Första dagen i veckan",
+            "Monday": "Måndag",
+            "Sunday": "Söndag"
+          }
+        }
+      }
+    }
+  }
+}
