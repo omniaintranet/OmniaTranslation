@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "إضافة أو تحديث",
+          "Delete": "حذف",
+          "AutomaticPageTranslationFinished": "ترجمة الصفحة التلقائية"
+        },
+        "EventsFilter": {
+          "Title": "تصفية الأحداث البيضاء",
+          "EnableEventsFilter": "تمكين تصفية الأحداث",
+          "Radio": {
+            "Hint": "التبديل بينوضع القائمة البيضاء ووضع القائمة السوداء",
+            "Blacklist": "القائمة السوداء",
+            "Whitelist": "القائمة البيضاء"
+          },
+          "FilterMode": {
+            "Label": "وضع التصفية",
+            "BusinessProfile": "الملف التجاري",
+            "PublishingApp": "تطبيق النشر",
+            "PageCollection": "مجموعة الصفحات",
+            "BusinessProfileInputLabel": "الملفات التجارية",
+            "PublishingAppInputLabel": "تطبيقات النشر"
+          }
+        }
+      }
+    }
+  }
+}
