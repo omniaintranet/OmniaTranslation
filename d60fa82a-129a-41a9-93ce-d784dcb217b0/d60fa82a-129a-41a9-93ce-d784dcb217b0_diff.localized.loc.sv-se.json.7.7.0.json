@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Funktionaliteten för e-postdeltagare har överskridit begränsningen för URL. Klicka på varje knapp nedan för att öppna separata e-postklientappar."
+        },
+        "Buttons": {
+          "MailParticipants": "E-postdeltagare"
+        }
+      }
+    }
+  }
+}
