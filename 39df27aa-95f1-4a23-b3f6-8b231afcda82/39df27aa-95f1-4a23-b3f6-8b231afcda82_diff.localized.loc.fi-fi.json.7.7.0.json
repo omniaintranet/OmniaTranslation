@@ -6,8 +6,8 @@
       "Sunday": "Sunnuntai"
     },
     "CustomEmailSettings": {
-      "New7ConfigureApplicationAccessPolicyMessage": "Käytä tätä PowerShell-skriptiä määrittääksesi Exchange Online -resurssit ja älä sovelleta muihin Microsoft Graph -kuormituksiin:",
-      "New7TestConfigureApplicationAccessPolicyMessage": "Testaasitä käyttämällä tätä PowerShell-skriptiä:",
+      "New7ConfigureApplicationAccessPolicyMessage": "Käytä tätä PowerShell-skriptiä määrittääksesi Exchange Online -postilaatikko jota Omnia voi käyttää sähköpostin lähettämiseen.:",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Testaa sitä käyttämällä tätä PowerShell-skriptiä:",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
       "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
