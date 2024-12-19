@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Додати або оновити",
+          "Delete": "Видалити",
+          "AutomaticPageTranslationFinished": "Переклад сторінки варіації"
+        },
+        "EventsFilter": {
+          "Title": "Фільтр подій білого списку",
+          "EnableEventsFilter": "Увімкнути фільтр подій",
+          "Radio": {
+            "Hint": "Переключитися між режимом білого списку та режимом чорного списку",
+            "Blacklist": "Чорний список",
+            "Whitelist": "Білий список"
+          },
+          "FilterMode": {
+            "Label": "Режим фільтра",
+            "BusinessProfile": "Бізнес-профіль",
+            "PublishingApp": "Публікаційний додаток",
+            "PageCollection": "Колекція сторінок",
+            "BusinessProfileInputLabel": "Бізнес-профілі",
+            "PublishingAppInputLabel": "Публікаційні додатки"
+          }
+        }
+      }
+    }
+  }
+}
