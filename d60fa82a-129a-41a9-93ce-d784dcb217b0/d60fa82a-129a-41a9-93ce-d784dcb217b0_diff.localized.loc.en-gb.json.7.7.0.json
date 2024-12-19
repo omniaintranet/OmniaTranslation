@@ -1,0 +1,14 @@
+{
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "The mail participants functionality has exceeded the URL limitation. Please click on each button below to open separate mail client apps."
+        },
+        "Buttons": {
+          "MailParticipants": "Mail participants"
+        }
+      }
+    }
+  }
+}
