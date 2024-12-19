@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Denne dokumentmalen har blitt oppdatert. Vennligst gjennomgå ogbruk endringene som en del av publiseringsprosessen.",
+        "ChangeDocumentTemplate": "Endre dokumentmal"
+      }
+    }
+  }
+}
