@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "AI-motor AI-søk",
+      "ApiKey": "API-nøkkel",
+      "ApiBaseUrl": "API-base-URL",
+      "DeploymentName": "Navnpå distribusjon",
+      "ApiVersion": "API-versjon",
+      "EmptyApiVersion": "Vil bruke nyeste versjon hvis feltet er tomt.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "URL forAI-søk er endret",
+        "Message": "Eksisterende data for AI-søk vil gå tapt når URL for AI-søk endres. Ønsker du å fortsette?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Semantisk søk"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "AI-motor OpenAI API",
+      "ApiKey": "API-nøkkel",
+      "ApiBaseUrl": "API-base-URL"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Semantisk søk",
+          "PropertyProvider": "Egenskapsleverandør"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "AI-motor",
+      "GeneralSetting": {
+        "OpenAISetting": "Innstilling",
+        "TextCompletionConfig": "Konfigurasjon for tekstutfylling",
+        "DeploymentName": "Navn på distribusjon",
+        "AIAlias": "AI-alias",
+        "SemanticSearchConfig": {
+          "Title": "Semantisk søk",
+          "LLMDeploymentName": "Navn på LLM-distribusjon",
+          "EmbeddingsDeploymentName": "Navn på distribusjon for innbygging",
+          "MissingConfigurationMessage": "Vennligst sørg for at hemmelighetene for AI-søk og OpenAI API er konfigurert."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Vis resultat",
+        "RunAnalysis": "Kjør analyse",
+        "Tryout": "Prøv ut"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Innholdsanalyse",
+        "Detail": {
+          "BladeTitle": "Innstillinger for prompt",
+          "ErrorMessage": "Dette feltet er påkrevd og må inneholdetoken {0} inne i anførselstegn: \"{0}\"",
+          "ExampleText": "Eksempel: Fiks stavefeili følgende tekst: \"{0}\" ?",
+          "PromptAnalysisField": "Prompt - Analyse",
+          "PromptFixField": "Prompt - Fiks",
+          "ReminderText": "Legg til en handling og husk å inkludere token {0} inne i anførselstegn: \"{0}\"",
+          "TitleField": "Tittel",
+          "ExampleAnalysisPromptText": "Eksempel: Er stavefeilen i følgende tekst korrekt: \"{0}\" ?",
+          "CriteriaToPass": "Kriterier forå bestå sjekk",
+          "CriteriaToPassHint": "Resultat fra prompt - Analyse som vil beståanalysen.",
+          "DefaultEnterpriseProperties": "Standardbedriftsegenskaper"
+        },
+        "ConfirmDelete": {
+          "Title": "Slette innstilling for innholdsanalyse",
+          "Message": "Er du sikkerpå at du vil slette denne innstillingen for innholdsanalyse?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Forbedre valgt tekst",
+        "Detail": {
+          "BladeTitle": "Innstillinger for prompt",
+          "ErrorMessage": "Dette feltet er påkrevd og må inneholde token: ",
+          "ExampleFixPromptText": "Eksempel: Fiks stavefeilen i følgende tekst: ",
+          "PromptField": "Prompt",
+          "ReminderText": "Leggtil en handling og husk å inkludere token: ",
+          "TitleField": "Tittel",
+          "OpenInDialog": "Åpne chatdialog"
+        },
+        "ConfirmDelete": {
+          "Title": "Slette innstilling for forbedring av valgt tekst",
+          "Message": "Er du sikker på at du vil slette denne innstillingen for\"Forbedre valgt tekst\"?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Resultat",
+        "ConfigurationError": "Kan ikke sende forespørsel til Azure OpenAI! Vennligst sjekk konfigurasjonen din eller prøv på nytt.",
+        "ContainFilterTextError": "Svaret inneholder innhold som ikke er tillatt i henhold til Azure OpenAI-policyen. Vennligst endre prompten og prøv pånytt.",
+        "Fail": "Mislyktes",
+        "Outcome": "Resultat: ",
+        "Pass": "Bestått",
+        "Prompt": "Prompt: "
+      },
+      "Tryout": {
+        "BladeTitle": "Prøv ut",
+        "Text": "Tekst"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webdeler"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "AI-motor Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Del nettstedet med andre bedriftsprofiler",
+          "businessProfile": "Bedriftsprofil"
+        },
+        "errors": {
+          "permissionMissingMessage": "Du har ikke tilgang til nødvendige tillatelser. For å få tilgang tildenne funksjonen må du være en administrator for bedriftsprofilen i Omnia.",
+          "businessProfileSharedDisabled": "Denne bedriftsprofilen støtter ikke deling med andre bedriftsprofiler."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Åpne kommentardialog"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Slett fra Mine lenker"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0} har {1} uleste."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Semantisk søk",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Merk! Aktivering av semantisk søk vil erstatte gjeldende hurtigsøkfunksjonalitet i systemet.",
+          "UseSemanticSearch": "Aktiver semantisk søk",
+          "CustomHelpText": "Tilpasset hjelpetekst",
+          "EnableCustomPostAnswerMessage": "Tilpasset melding etter svar",
+          "EnableShowReferences": "Vis referanser",
+          "IncludeParagraphs": "Inkluder avsnitt",
+          "IncludeSemanticSummary": "Inkluder semantisk sammendrag",
+          "AddFilter": "Legg til filter",
+          "PropertyProvider": "Egenskapsleverandør"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Åpne alltid i ny fane.",
+        "EnableMultilineSearchPrompt": "Flere linjer for søkeprompt",
+        "EnableCustomHelpText": "Tilpasset hjelpetekst"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Avsnitt",
+        "SeeMore": "Se flere resultater",
+        "Page": "Side",
+        "MissingConfigurationMessage": "Vennligst sørg for at innstillinger for semantisk søk er konfigurert."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Semantisk søk"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Servernøkkel"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Tilbake til teamarbeidsliste"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Velg brukere",
+          "UseQueryBuilder": "Bruk spørringsbygger"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Fjern bruker",
+          "Message": "Erdu sikker på at du vil fjerne denne brukeren?"
+        },
+        "AddUsers": "Legg til bruker",
+        "ManualSort": "Manuell sortering"
+      },
+      "SendEmailAction": "Send e-post-aksjon",
+      "StartChatAction": "Start chat-aksjon",
+      "StartCallAction": "Start samtale-aksjon"
+    }
+  }
+}

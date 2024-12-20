@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Recherche sémantique",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Permettre d'être inclus dans la recherche sémantique. Non cochée par défaut.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Permettre d'être inclus dans la recherche sémantique. Coché par défaut.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Toujours inclure dans la recherche sémantique."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Page"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Ce modèle de document a été mis à jour. Veuillez examiner et appliquer les modifications dans le cadre du flux de publication.",
+        "ChangeDocumentTemplate": "Changer le modèle de document"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Inclure dans la recherche sémantique"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analytiques"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "Bibliothèque SharePoint"
+        },
+        "SiteUrl": "URL du site"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Est inclus dans la recherche sémantique",
+          "Description": "Colonne système dans la gestion des documents Omnia pour obtenir des informations sur l'inclusion d'un document contrôlé dans la recherche sémantique."
+        }
+      }
+    }
+  }
+}

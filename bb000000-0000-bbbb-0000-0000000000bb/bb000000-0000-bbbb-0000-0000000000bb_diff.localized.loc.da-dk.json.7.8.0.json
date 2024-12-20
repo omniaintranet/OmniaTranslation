@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Fjern bruger",
+        "PeolePicker": "Personvælger",
+        "SearchUserLabel": "Søg bruger",
+        "SearchUserTooltip": "Søg bruger, tryk enter for at søge",
+        "NoItemsFound": "Ingen matchende elementer fundet",
+        "Searching": "Søger...",
+        "ResultsFound": "Resultater fundet"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "System",
+          "Title": "AI-motor",
+          "Description": "Aktivér denne funktion for systemadgang til AI-motoren"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Søgning fuldført med resultater.",
+            "SearchCompletedWithNoResults": "Søgning fuldført uden resultater."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash medieudbyder til royalty-fri billeder.",
+        "DowloadImageFailed": "Download af billede mislykkedes",
+        "PhotoBy": "Foto af",
+        "PhotosProviderBy": "Billeder leveret af"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semantisk søgelæser"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Kommentar redigeringshandlinger"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Udvid"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analytik",
+        "EnableEventTracking": "Aktivér begivenhedssporing",
+        "EventActions": "Begivenhedshandlinger",
+        "EventAction": "Begivenhedshandling",
+        "EventCategory": "Begivenhedskategori",
+        "EventName": "Begivenhedsnavn"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Spring til indhold"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Textjustering",
+        "TextUppercase": "Versaler"
+      },
+      "Tabs": {
+        "Actions": "Åtgärder",
+        "Analytics": "Analys"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Vald textfärg",
+        "SelectedBackgroundColor": "Vald bakgrundsfärg"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Typ",
+            "FilterValue": "Filtervärde",
+            "FirstDimension": "Första dimensionen",
+            "SecondDimension": "Andra dimensionen",
+            "WebsiteQueryType": {
+              "Reports": "Rapporter",
+              "Events": "Händelser"
+            },
+            "Event": {
+              "EventCategories": "Händelsekategorier",
+              "EventActions": "Händelseåtgärder",
+              "EventNames": "Händelsenamn"
+            },
+            "ExpandRows": "Expandera rader"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Besökarantal i realtid"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Mätvärde",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besöksfrekvens"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Exkludera rot-URL (/)",
+            "ShowExportToExcel": "Aktivera export till Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besöksfrekvens"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Besöksfrekvens"
+            },
+            "Export": {
+              "ExportToExcel": "Exportera till Excel",
+              "FileExporting": "Genererar Excel-fil...",
+              "ErrorWhenFileExporting": "Ett fel uppstod vid export."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Bannerbild"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Webbinnehållshantering",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publiceringsapp",
+            "Type": "Publiceringsapp"
+          },
+          "PageType": {
+            "Title": "Sidtyp",
+            "Type": "Sidtyp"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Sid-ID",
+      "PageTitle": "Sidtitel"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analys"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Publiceringspolicy",
+            "AddContentAnalysisSetting": "Lägg till policy"
+          },
+          "SemanticSearch": {
+            "Title": "Semantisk sökning",
+            "EnableSemanticSearch": "Aktivera semantisk sökning",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Sidor som ingår i semantisk sökning",
+              "Message": "Publicerade sidor kommer att vara sökbara av alla användare med rollen semantisk sökning. Vill du fortsätta?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Analys före publicering",
+            "TextProperties": "Textegenskaper",
+            "Save": "Spara",
+            "Cancel": "Avbryt",
+            "ContentAnalysisTitle": "Analys av innehåll"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Analys före publicering",
+            "EditPage": "Redigera sida",
+            "FixPage": "Åtgärda sida",
+            "Cancel": "Avbryt",
+            "Passed": "Godkänd",
+            "Failed": "Misslyckades",
+            "ContinuePublishing": "Fortsätt",
+            "FixedPageSuccessMessage": "Sidinnehållet är åtgärdat. Du kan kontrollera det igen.",
+            "ErrorMessage": "Kunde inte analysera eller åtgärda sidinnehåll"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Totalt antal användare"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Schemalagd för arkivering"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Aktivera marknadsföring till Viva"
+      }
+    }
+  }
+}

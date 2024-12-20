@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Tìm kiếm ngữ nghĩa",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Cho phép được bao gồm trong tìm kiếm ngữ nghĩa. Mặc định không được chọn.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Cho phép được bao gồm trong tìm kiếm ngữ nghĩa. Mặc định được chọn.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Luôn bao gồm trong tìm kiếm ngữnghĩa."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Trang"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Mẫu tài liệu liên kết này đã được cập nhật. Vui lòng xem xét và áp dụng các thay đổi như một phần của quy trình xuất bản.",
+        "ChangeDocumentTemplate": "Thay đổi mẫu tài liệu"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Bao gồm trong tìm kiếm ngữ nghĩa"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Phân tích số liệu"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "Thư viện SharePoint"
+        },
+        "SiteUrl": "URL trang web"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Đượcbao gồm trong tìm kiếm ngữ nghĩa",
+          "Description": "Cột hệ thống trong quản lý tài liệu Omnia để cung cấp thông tin về việc một tài liệu kiểm soát có được bao gồm trong tìm kiếm ngữ nghĩa hay không."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Tekstuitlijning",
+        "TextUppercase": "Tekst in hoofdletters"
+      },
+      "Tabs": {
+        "Actions": "Acties",
+        "Analytics": "Analyse"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Geselecteerde tekstkleur",
+        "SelectedBackgroundColor": "Geselecteerde achtergrondkleur"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Type",
+            "FilterValue": "Filterwaarde",
+            "FirstDimension": "Eerste dimensie",
+            "SecondDimension": "Tweede dimensie",
+            "WebsiteQueryType": {
+              "Reports": "Rapporten",
+              "Events": "Gebeurtenissen"
+            },
+            "Event": {
+              "EventCategories": "Gebeurteniscategorieën",
+              "EventActions": "Gebeurtenisacties",
+              "EventNames": "Gebeurtenisnamen"
+            },
+            "ExpandRows": "Rijen uitvouwen"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Aantal bezoekers in realtime"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Metriek",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Bezoekersfrequentie"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Root-URL uitsluiten (/)",
+            "ShowExportToExcel": "Exporteren naar Excel inschakelen",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Bezoekersfrequentie"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Bezoekersfrequentie"
+            },
+            "Export": {
+              "ExportToExcel": "Exporteren naar Excel",
+              "FileExporting": "Excel-bestand genereren...",
+              "ErrorWhenFileExporting": "Er is een fout opgetreden bij het exporteren."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Bannerafbeelding"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Webcontentbeheer",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publicatie-app",
+            "Type": "Publicatie-app"
+          },
+          "PageType": {
+            "Title": "Paginatype",
+            "Type": "Paginatype"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Pagina-id",
+      "PageTitle": "Paginatitel"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analyse"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Publicatiebeleid",
+            "AddContentAnalysisSetting": "Beleid toevoegen"
+          },
+          "SemanticSearch": {
+            "Title": "Semantisch zoeken",
+            "EnableSemanticSearch": "Semantisch zoeken inschakelen",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Pagina's opgenomen in semantisch zoeken",
+              "Message": "Gepubliceerde pagina's zijn door alle gebruikers met de rol van semantisch zoeklezer doorzoekbaar. Wilt u doorgaan?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Pre-publicatieanalyse",
+            "TextProperties": "Teksteigenschappen",
+            "Save": "Opslaan",
+            "Cancel": "Annuleren",
+            "ContentAnalysisTitle": "Contentanalyse"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Pre-publicatieanalyse",
+            "EditPage": "Pagina bewerken",
+            "FixPage": "Pagina herstellen",
+            "Cancel": "Annuleren",
+            "Passed": "Geslaagd",
+            "Failed": "Mislukt",
+            "ContinuePublishing": "Doorgaan",
+            "FixedPageSuccessMessage": "Pagina-inhoud is succesvol hersteld. U kunt het opnieuw controleren.",
+            "ErrorMessage": "Kan pagina-inhoud niet analyseren of herstellen"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Totaal aantal gebruikers"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Gepland voor archivering"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Promoten naar Viva inschakelen"
+      }
+    }
+  }
+}

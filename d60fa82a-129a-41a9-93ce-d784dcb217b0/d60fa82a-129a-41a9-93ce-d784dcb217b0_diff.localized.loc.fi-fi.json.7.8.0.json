@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Tekstin tasaus",
+        "TextUppercase": "Tekstin suuraakkoset"
+      },
+      "Tabs": {
+        "Actions": "Toiminnot",
+        "Analytics": "Analytiikka"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Valitun tekstin väri",
+        "SelectedBackgroundColor": "Valitun taustaväri"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Tyyppi",
+            "FilterValue": "Suodatusarvo",
+            "FirstDimension": "Ensimmäinen ulottuvuus",
+            "SecondDimension": "Toinen ulottuvuus",
+            "WebsiteQueryType": {
+              "Reports": "Raportit",
+              "Events": "Tapahtumat"
+            },
+            "Event": {
+              "EventCategories": "Tapahtumakategoriat",
+              "EventActions": "Tapahtumatoiminnot",
+              "EventNames": "Tapahtumanimet"
+            },
+            "ExpandRows": "Laajenna rivit"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Reaaliaikainen vierailijoiden määrä"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Mittari",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Vierailijoiden taajuus"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Poista pää-URL (/)",
+            "ShowExportToExcel": "Ota käyttöön vienti Exceliin",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Vierailijoiden taajuus"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Vierailijoiden taajuus"
+            },
+            "Export": {
+              "ExportToExcel": "Vie Exceliin",
+              "FileExporting": "Luodaan Excel-tiedostoa...",
+              "ErrorWhenFileExporting": "Virhe vientiä suoritettaessa."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Banner-kuva"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Verkkosisällön hallinta",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Julkaisusovellus",
+            "Type": "Julkaisusovellus"
+          },
+          "PageType": {
+            "Title": "Sivutyyppi",
+            "Type": "Sivutyyppi"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "Sivun tunniste",
+      "PageTitle": "Sivun otsikko"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Analytiikka"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Julkaisupolitiikat",
+            "AddContentAnalysisSetting": "Lisää politiikka"
+          },
+          "SemanticSearch": {
+            "Title": "Semanttinen haku",
+            "EnableSemanticSearch": "Ota käyttöön semanttinen haku",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Semanttiseen hakuun sisältyvät sivut",
+              "Message": "Julkaistut sivut ovat haettavissa kaikkien semanttisen haun lukijan roolin käyttäjien toimesta. Haluatko jatkaa?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Ennen julkaisua tehtävä analyysi",
+            "TextProperties": "Tekstin ominaisuudet",
+            "Save": "Tallenna",
+            "Cancel": "Peruuta",
+            "ContentAnalysisTitle": "Sisällön analyysi"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Ennen julkaisua tehtävä analyysi",
+            "EditPage": "Muokkaa sivua",
+            "FixPage": "Korjaa sivu",
+            "Cancel": "Peruuta",
+            "Passed": "Hyväksytty",
+            "Failed": "Hylätty",
+            "ContinuePublishing": "Jatka",
+            "FixedPageSuccessMessage": "Sivun sisältö on korjattu onnistuneesti. Voit tarkistaa sen uudelleen.",
+            "ErrorMessage": "Sivun sisällön analysointi tai korjaaminen ei onnistunut"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Käyttäjien kokonaismäärä"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Aikataulutettu arkistointiin"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Ota käyttöön Vivaan edistäminen"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semantische Suche",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "In semantische Suche einbeziehen. Standardmäßig nicht aktiviert.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "In semantische Suche einbeziehen. Standardmäßig aktiviert.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Immer in semantische Sucheeinbeziehen."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Seite"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Diese Dokumentvorlage wurde aktualisiert. Bitteüberprüfen Sie die Änderungen und wenden Sie sie im Rahmen des Veröffentlichungsworkflows an.",
+        "ChangeDocumentTemplate": "Dokumentvorlage ändern"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "In semantische Suche einbeziehen"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analytik"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint-Bibliothek"
+        },
+        "SiteUrl": "Website-URL"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Ist in semantische Suche einbezogen",
+          "Description": "Systemspalte in der Omnia-Dokumentenverwaltung zur Information, ob ein kontrolliertes Dokument in der semantischen Suche einbezogen ist."
+        }
+      }
+    }
+  }
+}

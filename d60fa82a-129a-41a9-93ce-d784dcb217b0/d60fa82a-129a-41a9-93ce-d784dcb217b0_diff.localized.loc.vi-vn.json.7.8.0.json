@@ -1,0 +1,158 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "Labels": {
+        "TextAlignment": "Căn chỉnh văn bản",
+        "TextUppercase": "Văn bản in hoa"
+      },
+      "Tabs": {
+        "Actions": "Hành động",
+        "Analytics": "Phân tích số liệu"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "SelectedTextColor": "Màu văn bản được chọn",
+        "SelectedBackgroundColor": "Màu nền được chọn"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "Settings": {
+            "FilterType": "Loại",
+            "FilterValue": "Giá trị bộ lọc",
+            "FirstDimension": "Kích thước thứ nhất",
+            "SecondDimension": "Kích thước thứ hai",
+            "WebsiteQueryType": {
+              "Reports": "Báo cáo",
+              "Events": "Sự kiện"
+            },
+            "Event": {
+              "EventCategories": "Danh mục sự kiện",
+              "EventActions": "Hành động sự kiện",
+              "EventNames": "Tên sự kiện"
+            },
+            "ExpandRows": "Mở rộng hàng"
+          }
+        },
+        "LiveCounter": {
+          "BlockTitle2": "Số lượng khách truy cập thời gian thực"
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "MetricViewTitle": "Chỉ số",
+          "Settings": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Tần suất khách truy cập"
+            }
+          }
+        },
+        "TableView": {
+          "Settings": {
+            "ExcludeRootUrl": "Loại trừ URL gốc (/)",
+            "ShowExportToExcel": "Cho phép xuất ra Excel",
+            "BuiltInColumns": {
+              "VisitorFrequency": "Tần suất khách truy cập"
+            }
+          },
+          "View": {
+            "BuiltInColumns": {
+              "VisitorFrequency": "Tần suất khách truy cập"
+            },
+            "Export": {
+              "ExportToExcel": "Xuất ra Excel",
+              "FileExporting": "Đang tạo tệp Excel...",
+              "ErrorWhenFileExporting": "Đã xảy ra lỗi khi xuất tệp."
+            }
+          }
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Hình ảnh banner"
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "WebContentManagment": "Quản lý nội dung web",
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Ứng dụng xuất bản",
+            "Type": "Ứngdụng xuất bản"
+          },
+          "PageType": {
+            "Title": "Loại trang",
+            "Type": "Loại trang"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PageId": "ID trang",
+      "PageTitle": "Tiêu đề trang"
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "PageTypes": {
+            "Analytics": {
+              "Title": "Phân tích số liệu"
+            }
+          },
+          "ContentAnalysis": {
+            "Title": "Chính sách xuất bản",
+            "AddContentAnalysisSetting": "Thêm chính sách"
+          },
+          "SemanticSearch": {
+            "Title": "Tìm kiếm ngữ nghĩa",
+            "EnableSemanticSearch": "Bật tìm kiếm ngữ nghĩa",
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Các trang được bao gồm trongtìm kiếm ngữ nghĩa",
+              "Message": "Các trang đã xuất bản sẽ có thể tìm kiếm được bởitất cả người dùng có vai trò đọc giả tìm kiếm ngữ nghĩa. Bạn có muốn tiếp tục không?"
+            }
+          }
+        },
+        "Dialogs": {
+          "EditContentAnalysis": {
+            "Title": "Phân tích trước khi xuất bản",
+            "TextProperties": "Thuộc tính văn bản",
+            "Save": "Lưu",
+            "Cancel": "Hủy",
+            "ContentAnalysisTitle": "Phân tích nội dung"
+          },
+          "PrePublishContentAnalysis": {
+            "Title": "Phân tích trước khi xuất bản",
+            "EditPage": "Chỉnh sửa trang",
+            "FixPage": "Sửa trang",
+            "Cancel": "Hủy",
+            "Passed": "Đã vượt qua",
+            "Failed": "Không vượt qua",
+            "ContinuePublishing": "Tiếp tục",
+            "FixedPageSuccessMessage": "Nội dung trang đã được sửa thành công. Bạn có thể kiểm tra lại.",
+            "ErrorMessage": "Không thể phântích hoặc sửa nội dung trang"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "ListView": {
+        "TotalNoOfUsers": "Tổng số người dùng"
+      },
+      "WorkflowStatus": {
+        "ScheduledForArchiving": "Đã lên lịch để lưu trữ"
+      }
+    },
+    "PublishingApp": {
+      "SharepointSync": {
+        "EnablePromoteToViva": "Bật chế độ quảng bá lên Viva"
+      }
+    }
+  }
+}

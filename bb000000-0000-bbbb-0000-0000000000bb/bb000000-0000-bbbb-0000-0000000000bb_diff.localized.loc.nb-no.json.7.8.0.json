@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Fjern bruker",
+        "PeolePicker": "Personvelger",
+        "SearchUserLabel": "Søk bruker",
+        "SearchUserTooltip": "Søk bruker, trykk enter for å søke",
+        "NoItemsFound": "Ingen treff",
+        "Searching": "Søker...",
+        "ResultsFound": "Resultater funnet"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "System",
+          "Title": "AI-motor",
+          "Description": "Aktiver denne funksjonen for systemtilgang til AI-motoren"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Søk fullført med resultater.",
+            "SearchCompletedWithNoResults": "Søk fullført uten resultater."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash medieleverandør for royaltyfrie bilder.",
+        "DowloadImageFailed": "Kunne ikke laste ned bilde",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Bilder levert av"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semantisk søkleser"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Kommentar redigeringshandlinger"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Utvid"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analyse",
+        "EnableEventTracking": "Aktiver hendelsessporing",
+        "EventActions": "Hendelseshandlinger",
+        "EventAction": "Hendelseshandling",
+        "EventCategory": "Hendelseskategori",
+        "EventName": "Hendelsesnavn"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Hopp til innhold"
+    }
+  }
+}

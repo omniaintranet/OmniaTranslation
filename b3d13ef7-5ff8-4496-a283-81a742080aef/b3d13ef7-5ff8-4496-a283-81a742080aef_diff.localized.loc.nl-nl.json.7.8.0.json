@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Semantisch zoeken",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Toestaanom opgenomen te worden in semantisch zoeken. Standaard niet aangevinkt.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Toestaan om opgenomen te worden in semantisch zoeken. Standaard aangevinkt.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Altijd opnemen in semantisch zoeken."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Pagina"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Dit document sjabloon is bijgewerkt. Controleer en pas de wijzigingen toe als onderdeel van de publicatieworkflow.",
+        "ChangeDocumentTemplate": "Verander document sjabloon"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Opnemen in semantisch zoeken"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analyse"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "SharePoint bibliotheek"
+        },
+        "SiteUrl": "Site URL"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Is opgenomen in semantisch zoeken",
+          "Description": "Systeemkolom in Omnia documentbeheer voor informatie over of een gecontroleerd document is opgenomen in semantisch zoeken."
+        }
+      }
+    }
+  }
+}

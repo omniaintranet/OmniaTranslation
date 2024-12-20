@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Supprimer l'utilisateur",
+        "PeolePicker": "Sélecteur de personnes",
+        "SearchUserLabel": "Rechercher un utilisateur",
+        "SearchUserTooltip": "Rechercher un utilisateur, appuyez sur Entrée pour rechercher",
+        "NoItemsFound": "Aucun élément correspondant trouvé",
+        "Searching": "Recherche en cours...",
+        "ResultsFound": "Résultats trouvés"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "Système",
+          "Title": "Moteur d'IA",
+          "Description": "Activez cette fonctionnalité pour accéder au moteur d'IA dusystème"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Recherche terminée avec des résultats.",
+            "SearchCompletedWithNoResults": "Recherche terminée sans résultats."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Fournisseur de médias Unsplash pour des images libres de droits.",
+        "DowloadImageFailed": "Échec du téléchargement de l'image",
+        "PhotoBy": "Photo par",
+        "PhotosProviderBy": "Photos fournies par"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Lecteur de recherche sémantique"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Actions de modification des commentaires"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Développer"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analytiques",
+        "EnableEventTracking": "Activer le suivi des événements",
+        "EventActions": "Actions d'événement",
+        "EventAction": "Action d'événement",
+        "EventCategory": "Catégorie d'événement",
+        "EventName": "Nom de l'événement"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Passer au contenu"
+    }
+  }
+}

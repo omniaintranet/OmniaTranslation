@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "Công cụ tìm kiếm trí tuệ nhân tạo AI",
+      "ApiKey": "Khóa API",
+      "ApiBaseUrl": "URL cơ sở API",
+      "DeploymentName": "Tên triển khai",
+      "ApiVersion": "Phiên bản API",
+      "EmptyApiVersion": "Sẽ sử dụng phiên bản mới nhất nếu để trống.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "URL tìm kiếm AI đã thay đổi",
+        "Message": "Dữ liệu tìm kiếm AI hiện có sẽ bị mất khi URL tìm kiếm AI thay đổi. Bạn có muốn tiếp tục không?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Tìmkiếm ngữ nghĩa"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "Công cụ trí tuệ nhân tạo OpenAI",
+      "ApiKey": "Khóa API",
+      "ApiBaseUrl": "URL cơ sở API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Tìm kiếm ngữ nghĩa",
+          "PropertyProvider": "Nhà cung cấp thuộc tính"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "Công cụ trí tuệ nhân tạo",
+      "GeneralSetting": {
+        "OpenAISetting": "Cài đặt",
+        "TextCompletionConfig": "Cấu hình hoàn thiện văn bản",
+        "DeploymentName": "Tên triển khai",
+        "AIAlias": "Bí danh AI",
+        "SemanticSearchConfig": {
+          "Title": "Tìm kiếm ngữ nghĩa",
+          "LLMDeploymentName": "Tên triển khai LLM",
+          "EmbeddingsDeploymentName": "Tên triển khai Embeddings",
+          "MissingConfigurationMessage": "Vui lòng đảm bảo rằng các bí mật tìm kiếm AI và OpenAI API đã được cấu hình."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Hiển thị kết quả",
+        "RunAnalysis": "Chạy phân tích",
+        "Tryout": "Thử nghiệm"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Phân tích nội dung",
+        "Detail": {
+          "BladeTitle": "Cài đặt gợi ý",
+          "ErrorMessage": "Trường này là bắt buộc và phải chứa mã thông báo {0} trong dấu ngoặc kép: \"{0}\"",
+          "ExampleText": "Ví dụ: Sửa chính tả trong đoạn văn sau: \"{0}\" ?",
+          "PromptAnalysisField": "Gợi ý - Phân tích",
+          "PromptFixField": "Gợi ý - Sửa",
+          "ReminderText": "Thêm một hành động và nhớ bao gồm mã thông báo {0} trong dấu ngoặc kép: \"{0}\"",
+          "TitleField": "Tiêu đề",
+          "ExampleAnalysisPromptText": "Ví dụ: Có đúng chính tả của đoạn văn sau không: \"{0}\" ?",
+          "CriteriaToPass": "Tiêu chí để vượt qua kiểm tra",
+          "CriteriaToPassHint": "Kết quả từ gợi ý - Phân tích sẽ vượt qua phân tích.",
+          "DefaultEnterpriseProperties": "Thuộc tính doanh nghiệp mặc định"
+        },
+        "ConfirmDelete": {
+          "Title": "Xóa cài đặt phân tích nội dung",
+          "Message": "Bạn có chắc chắn muốn xóa cài đặt phân tích nội dung này không?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Cải thiện văn bản đã chọn",
+        "Detail": {
+          "BladeTitle": "Cài đặt gợi ý",
+          "ErrorMessage": "Trường này là bắt buộc và phải chứa mã thông báo: ",
+          "ExampleFixPromptText": "Ví dụ: Sửa chính tả của đoạn văn sau: ",
+          "PromptField": "Gợi ý",
+          "ReminderText": "Thêm một hành động và nhớ bao gồm mã thông báo: ",
+          "TitleField": "Tiêu đề",
+          "OpenInDialog": "Mở hội thoại trò chuyện"
+        },
+        "ConfirmDelete": {
+          "Title": "Xóa cài đặt cải thiện văn bản đã chọn",
+          "Message": "Bạn có chắc chắn muốn xóa cài đặt \"Cải thiện văn bản đã chọn\"này không?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Kết quả",
+        "ConfigurationError": "Không thể gửi yêu cầu đến Azure OpenAI! Vui lòng kiểm tra cấu hình hoặc thử lại.",
+        "ContainFilterTextError": "Phản hồi chứa nội dung không được phép theo chính sách Azure OpenAI. Vui lòng thay đổi gợi ý và thử lại.",
+        "Fail": "Thất bại",
+        "Outcome": "Kết quả: ",
+        "Pass": "Vượt qua",
+        "Prompt": "Gợi ý: "
+      },
+      "Tryout": {
+        "BladeTitle": "Thử nghiệm",
+        "Text": "Văn bản"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webparts"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "Công cụ trí tuệ nhân tạo Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Chia sẻ trang web với các hồsơ kinh doanh khác",
+          "businessProfile": "Hồ sơ kinh doanh"
+        },
+        "errors": {
+          "permissionMissingMessage": "Bạn không có quyền cần thiết. Để truy cập tính năng này, bạn cần là quản trị viên hồ sơ kinh doanh trong Omnia.",
+          "businessProfileSharedDisabled": "Hồ sơ kinh doanh này không hỗ trợ chia sẻ với các hồ sơ kinh doanh khác."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Mở hộp thoại bình luận"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Xóa khỏi Liên kết của tôi"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0}, có {1} thông báo chưa đọc."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Tìm kiếm ngữ nghĩa",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "Lưu ý! Bật tìm kiếm ngữ nghĩa sẽ thay thế chức năng tìm kiếm nhanh hiện tại trong hệ thống.",
+          "UseSemanticSearch": "Bật tìm kiếm ngữ nghĩa",
+          "CustomHelpText": "Văn bản trợ giúp tùy chỉnh",
+          "EnableCustomPostAnswerMessage": "Thông báo sau khi trả lời tùy chỉnh",
+          "EnableShowReferences": "Hiển thị tham chiếu",
+          "IncludeParagraphs": "Baogồm đoạn văn",
+          "IncludeSemanticSummary": "Bao gồm tóm tắt ngữ nghĩa",
+          "AddFilter": "Thêm bộ lọc",
+          "PropertyProvider": "Nhà cung cấp thuộc tính"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Luôn mở trong tab mới.",
+        "EnableMultilineSearchPrompt": "Gợi ý tìm kiếm nhiều dòng",
+        "EnableCustomHelpText": "Văn bản trợ giúp tùy chỉnh"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Đoạn văn",
+        "SeeMore": "Xem thêm kết quả",
+        "Page": "Trang",
+        "MissingConfigurationMessage": "Vui lòng đảm bảo rằng các càiđặt tìm kiếm ngữ nghĩa đã được cấu hình."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Tìm kiếm ngữ nghĩa"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Khóa máy chủ"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Quay lại danh sách làm việc nhóm"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Chọn người dùng",
+          "UseQueryBuilder": "Sử dụng trình tạo truy vấn"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Xóa người dùng",
+          "Message": "Bạn có chắc chắn muốn xóa người dùng này không?"
+        },
+        "AddUsers": "Thêm người dùng",
+        "ManualSort": "Sắp xếp thủ công"
+      },
+      "SendEmailAction": "Hành động Gửi Email",
+      "StartChatAction": "Hành động Bắt đầu trò chuyện",
+      "StartCallAction": "Hành động Bắt đầu cuộc gọi"
+    }
+  }
+}

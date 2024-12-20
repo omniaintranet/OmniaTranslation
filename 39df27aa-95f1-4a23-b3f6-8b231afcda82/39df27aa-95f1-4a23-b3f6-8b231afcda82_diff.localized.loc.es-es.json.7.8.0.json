@@ -1,0 +1,193 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchTitle": "Motor de IA - Búsqueda de IA",
+      "ApiKey": "Clave de API",
+      "ApiBaseUrl": "URL base de la API",
+      "DeploymentName": "Nombre de implementación",
+      "ApiVersion": "Versión de API",
+      "EmptyApiVersion": "Se utilizará la última versión si se deja vacío.",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "Se ha cambiado la URL de búsqueda de IA",
+        "Message": "Se perderán los datos de búsqueda de IA existentes cuando se cambie la URL de búsqueda de IA. ¿Desea continuar?"
+      }
+    },
+    "QueryableProperties": {
+      "SemanticSearch": "Búsqueda semántica"
+    },
+    "OpenAIApiConfig": {
+      "OpenAITitle": "Motor de IA - API de OpenAI",
+      "ApiKey": "Clave de API",
+      "ApiBaseUrl": "URL base de la API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Title": "Búsqueda semántica",
+          "PropertyProvider": "Proveedor de propiedades"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIEngine": "Motor de IA",
+      "GeneralSetting": {
+        "OpenAISetting": "Configuración",
+        "TextCompletionConfig": "Configuración de completado de texto",
+        "DeploymentName": "Nombre de implementación",
+        "AIAlias": "Alias de IA",
+        "SemanticSearchConfig": {
+          "Title": "Búsqueda semántica",
+          "LLMDeploymentName": "Nombre de implementación de LLM",
+          "EmbeddingsDeploymentName": "Nombre de implementación de embeddings",
+          "MissingConfigurationMessage": "Asegúrese de que se hayan configuradolos secretos de búsqueda de IA y la API de OpenAI."
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Mostrar resultado",
+        "RunAnalysis": "Ejecutar análisis",
+        "Tryout": "Probar"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Análisis de contenido",
+        "Detail": {
+          "BladeTitle": "Configuración de indicaciones",
+          "ErrorMessage": "Este campo es obligatorio y debe contener el token{0} dentro de las comillas: \"{0}\"",
+          "ExampleText": "Ejemplo: Corregir la ortografía en el siguiente texto: \"{0}\" ?",
+          "PromptAnalysisField": "Indicación -Análisis",
+          "PromptFixField": "Indicación - Corrección",
+          "ReminderText": "Agregue unaacción y recuerde incluir el token {0} dentro de las comillas: \"{0}\"",
+          "TitleField": "Título",
+          "ExampleAnalysisPromptText": "Ejemplo: ¿Es correcta la ortografía del siguiente texto: \"{0}\" ?",
+          "CriteriaToPass": "Criterios para aprobar la comprobación",
+          "CriteriaToPassHint": "Resultado de la indicación - Análisis que aprobará el análisis.",
+          "DefaultEnterpriseProperties": "Propiedades empresariales predeterminadas"
+        },
+        "ConfirmDelete": {
+          "Title": "Eliminar configuración de análisis de contenido",
+          "Message": "¿Está seguro de que desea eliminar esta configuración de análisis de contenido?"
+        }
+      },
+      "ImproveSelectedText": {
+        "BladeTitle": "Mejorar texto seleccionado",
+        "Detail": {
+          "BladeTitle": "Configuración de indicaciones",
+          "ErrorMessage": "Este campo es obligatorio y debe contener el token: ",
+          "ExampleFixPromptText": "Ejemplo: Corregir la ortografía del siguiente texto: ",
+          "PromptField": "Indicación",
+          "ReminderText": "Agregue una acción y recuerde incluir el token: ",
+          "TitleField": "Título",
+          "OpenInDialog": "Abrir diálogode chat"
+        },
+        "ConfirmDelete": {
+          "Title": "Eliminar configuración de mejora de texto seleccionado",
+          "Message": "¿Está seguro de que desea eliminar esta configuración de \"Mejorar texto seleccionado\"?"
+        }
+      },
+      "Result": {
+        "BladeTitle": "Resultado",
+        "ConfigurationError": "¡No se puede enviar la solicitud a Azure OpenAI! Verifique su configuración o vuelvaa intentarlo.",
+        "ContainFilterTextError": "La respuesta contiene contenido que no está permitido según la política de Azure OpenAI. Cambie la indicación y vuelva a intentarlo.",
+        "Fail": "Error",
+        "Outcome": "Resultado: ",
+        "Pass": "Aprobado",
+        "Prompt": "Indicación: "
+      },
+      "Tryout": {
+        "BladeTitle": "Probar",
+        "Text": "Texto"
+      }
+    },
+    "System": {
+      "Webparts": {
+        "Title": "Webparts"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallETitle": "Motor de IA Dall-E"
+    },
+    "Analytics": {
+      "admin": {
+        "general": {
+          "shared": "Compartir sitio web con otros perfiles empresariales",
+          "businessProfile": "Perfil empresarial"
+        },
+        "errors": {
+          "permissionMissingMessage": "No tiene los permisos necesarios. Para acceder a esta función, debe ser administrador de perfil empresarial en Omnia.",
+          "businessProfileSharedDisabled": "Este perfil empresarial no admite compartir con otros perfiles empresariales."
+        }
+      }
+    },
+    "Announcements": {
+      "OpenCommentDialog": "Abrir diálogo de comentarios"
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "DeleteMyLinks": "Eliminar de Mis enlaces"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationCountMessage": "{0}, tiene {1} sin leer."
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearchTitle": "Búsqueda semántica",
+        "SemanticSearch": {
+          "NoteForSemanticSearch": "¡Nota! Habilitar la búsqueda semántica reemplazará la funcionalidad de búsqueda rápida actual dentrodel sistema.",
+          "UseSemanticSearch": "Habilitar búsqueda semántica",
+          "CustomHelpText": "Texto de ayuda personalizado",
+          "EnableCustomPostAnswerMessage": "Mensaje de respuesta personalizado posterior",
+          "EnableShowReferences": "Mostrar referencias",
+          "IncludeParagraphs": "Incluir párrafos",
+          "IncludeSemanticSummary": "Incluir resumen semántico",
+          "AddFilter": "Agregar filtro",
+          "PropertyProvider": "Proveedor de propiedades"
+        }
+      },
+      "SearchBlock": {
+        "OpenInNewTab": "Siempre abrir en una nueva pestaña.",
+        "EnableMultilineSearchPrompt": "Indicación de búsqueda de varias líneas",
+        "EnableCustomHelpText": "Texto de ayuda personalizado"
+      },
+      "SemanticSearch": {
+        "Paragraphs": "Párrafos",
+        "SeeMore": "Ver más resultados",
+        "Page": "Página",
+        "MissingConfigurationMessage": "Asegúrese de que se hayan configurado los ajustes de búsqueda semántica."
+      },
+      "SearchProviders": {
+        "SemanticSearch": "Búsqueda semántica"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ServerKey": "Clave de servidor"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamworkNavigation": {
+      "BackToTeamworkList": "Volver a la lista de trabajo en equipo"
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickUsers": "Seleccionar usuarios",
+          "UseQueryBuilder": "Usar generador de consultas"
+        },
+        "DeleteUserConfirmation": {
+          "Title": "Eliminar usuario",
+          "Message": "¿Está seguro de que desea eliminar este usuario?"
+        },
+        "AddUsers": "Agregar usuario",
+        "ManualSort": "Orden manual"
+      },
+      "SendEmailAction": "Acción de enviar correo electrónico",
+      "StartChatAction": "Acción de iniciar chat",
+      "StartCallAction": "Acción de iniciar llamada"
+    }
+  }
+}

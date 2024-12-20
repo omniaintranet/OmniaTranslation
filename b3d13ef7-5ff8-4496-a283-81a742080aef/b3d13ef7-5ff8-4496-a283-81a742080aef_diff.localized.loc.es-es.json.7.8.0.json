@@ -1,0 +1,47 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearch": "Búsqueda semántica",
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearch": "Permitir incluir en la búsqueda semántica. No seleccionado por defecto.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearch": "Permitir incluir enla búsqueda semántica. Seleccionado por defecto.",
+        "AlwaysIncludedDocumentInSemanticSearch": "Incluir siempre en la búsqueda semántica."
+      }
+    },
+    "Core": {
+      "Common": {
+        "Page": "Página"
+      },
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewEditionMessage": "Esta plantilla de documento ha sido actualizada.Por favor, revise y aplique los cambios como parte del flujo de publicación.",
+        "ChangeDocumentTemplate": "Cambiar plantilla de documento"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentActions": {
+        "PublishActions": {
+          "IncludeInSemanticSearch": "Incluir en la búsqueda semántica"
+        }
+      }
+    },
+    "DocumentRollup": {
+      "Settings": {
+        "Tabs": {
+          "Analytics": "Analíticas"
+        },
+        "QueryScope": {
+          "SharePointLibrary": "Biblioteca de SharePoint"
+        },
+        "SiteUrl": "URL del sitio"
+      }
+    },
+    "Features": {
+      "Fields": {
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Está incluido en la búsqueda semántica",
+          "Description": "Columna del sistema en la gestión de documentos de Omnia para obtener información sobre si un documento controlado está incluido en la búsqueda semántica."
+        }
+      }
+    }
+  }
+}

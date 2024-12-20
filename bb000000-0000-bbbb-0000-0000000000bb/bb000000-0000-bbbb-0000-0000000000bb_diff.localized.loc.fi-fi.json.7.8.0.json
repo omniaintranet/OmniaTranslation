@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Poista käyttäjä",
+        "PeolePicker": "Henkilön valitsin",
+        "SearchUserLabel": "Etsi käyttäjää",
+        "SearchUserTooltip": "Etsi käyttäjää, paina Enter etsiäksesi",
+        "NoItemsFound": "Ei löytynyt vastaavia kohteita",
+        "Searching": "Etsitään...",
+        "ResultsFound": "Tuloksia löydetty"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "Järjestelmä",
+          "Title": "AI-moottori",
+          "Description": "Ota tämä ominaisuus käyttöön järjestelmän pääsyä varten AI-moottoriin"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Haku valmistui tuloksilla.",
+            "SearchCompletedWithNoResults": "Haku valmistuiilman tuloksia."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash-mediatoimittaja vapaasti käytettäville kuville.",
+        "DowloadImageFailed": "Kuvan lataaminen epäonnistui",
+        "PhotoBy": "Kuva:",
+        "PhotosProviderBy": "Kuvat tarjoaa:"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Semanttisen haun lukija"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Kommentin muokkaustoiminnot"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Laajenna"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analytiikka",
+        "EnableEventTracking": "Ota tapahtumaseuranta käyttöön",
+        "EventActions": "Tapahtumatoiminnot",
+        "EventAction": "Tapahtumatoiminto",
+        "EventCategory": "Tapahtumakategoria",
+        "EventName": "Tapahtuman nimi"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Siirry sisältöön"
+    }
+  }
+}

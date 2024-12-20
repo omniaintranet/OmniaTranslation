@@ -1,0 +1,60 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "RemoveUser": "Ta bort användare",
+        "PeolePicker": "Personväljare",
+        "SearchUserLabel": "Sök användare",
+        "SearchUserTooltip": "Sök användare, tryck på Enter för att söka",
+        "NoItemsFound": "Inga matchande objekt hittades",
+        "Searching": "Söker...",
+        "ResultsFound": "Resultat hittades"
+      },
+      "Features": {
+        "AIEngine": {
+          "Category": "System",
+          "Title": "AI-motor",
+          "Description": "Aktivera den här funktionen för systemåtkomst till AI-motorn"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "SearchCompletedWithResults": "Sökning slutförd med resultat.",
+            "SearchCompletedWithNoResults": "Sökning slutförd utan resultat."
+          }
+        }
+      },
+      "UnsplashProvider": {
+        "Title": "Unsplash",
+        "FeatureTitle": "Unsplash",
+        "NewFeatureDescription": "Unsplash medieleverantör för royaltyfria bilder.",
+        "DowloadImageFailed": "Misslyckades att ladda ner bild",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Bilder tillhandahålls av"
+      },
+      "PermissionInput": {
+        "SemanticSearchReader": "Läsare av semantisk sökning"
+      },
+      "Comment": {
+        "EditActionsButtonArialLabel": "Kommentera redigeringsåtgärder"
+      }
+    },
+    "TermPicker": {
+      "Expand": "Expandera"
+    },
+    "AnalyticsSettings": {
+      "Analytics": {
+        "Title": "Analys",
+        "EnableEventTracking": "Aktivera händelsespårning",
+        "EventActions": "Händelseåtgärder",
+        "EventAction": "Händelseåtgärd",
+        "EventCategory": "Händelsekategori",
+        "EventName": "Händelsenamn"
+      }
+    },
+    "Header": {
+      "SkipToContent": "Gå till innehåll"
+    }
+  }
+}
