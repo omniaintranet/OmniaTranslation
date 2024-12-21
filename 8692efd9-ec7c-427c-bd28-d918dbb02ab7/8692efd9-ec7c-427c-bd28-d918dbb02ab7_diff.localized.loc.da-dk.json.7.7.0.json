@@ -5,7 +5,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Tilføj eller opdater",
           "Delete": "Slet",
-          "AutomaticPageTranslationFinished": "Variationssideoversættelse"
+          "AutomaticPageTranslationFinished": "Oversættelse af sidevariant"
         },
         "EventsFilter": {
           "Title": "Hvidlistefiltrering af begivenheder",
@@ -20,7 +20,7 @@
             "BusinessProfile": "Virksomhedsprofil",
             "PublishingApp": "Publiceringsapp",
             "PageCollection": "Sidebibliotek",
-            "BusinessProfileInputLabel": "Virksomehdsprofil",
+            "BusinessProfileInputLabel": "Virksomhedsprofil",
             "PublishingAppInputLabel": "Publiceringsapps"
           }
         }
