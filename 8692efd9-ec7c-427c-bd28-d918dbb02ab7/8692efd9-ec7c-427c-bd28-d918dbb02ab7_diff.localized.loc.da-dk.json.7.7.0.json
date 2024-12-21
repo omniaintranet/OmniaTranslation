@@ -5,7 +5,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Tilføj eller opdater",
           "Delete": "Slet",
-          "AutomaticPageTranslationFinished": "Oversættelse af sidevariant"
+          "AutomaticPageTranslationFinished": "Automatisk sideoversættelse"
         },
         "EventsFilter": {
           "Title": "Hvidlistefiltrering af begivenheder",
