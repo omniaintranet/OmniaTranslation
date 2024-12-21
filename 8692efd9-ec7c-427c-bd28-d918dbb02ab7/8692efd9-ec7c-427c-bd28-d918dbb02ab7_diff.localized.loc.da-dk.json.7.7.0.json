@@ -17,10 +17,10 @@
           },
           "FilterMode": {
             "Label": "Filtreringstilstand",
-            "BusinessProfile": "Forretningsprofil",
+            "BusinessProfile": "Virksomhedsprofil",
             "PublishingApp": "Publiceringsapp",
-            "PageCollection": "Sidekollektion",
-            "BusinessProfileInputLabel": "Forretningsprofiler",
+            "PageCollection": "Sidebibliotek",
+            "BusinessProfileInputLabel": "Virksomehdsprofil",
             "PublishingAppInputLabel": "Publiceringsapps"
           }
         }
