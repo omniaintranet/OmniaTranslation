@@ -1,0 +1,73 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Delete analysis",
+            "Message": "Are you sure you want to delete this analysis?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Note: In order for the page to be indexed for semantic search, it needs to be re-published."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Pages",
+      "SortBy": "Sort by",
+      "SortDirection": "Sort direction",
+      "Ascending": "Ascending",
+      "Descending": "Descending",
+      "Scope": {
+        "Label": "Scope",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publishing Apps",
+        "PageCollections": "Page Collections",
+        "NavigationPath": "Navigation Path",
+        "Channels": "Channels",
+        "BusinessProfiles": "Business Profiles",
+        "Apps": "Apps"
+      },
+      "ExcludeVariations": "Exclude variations",
+      "AddFilter": "Add filter",
+      "PageType": "Page Type",
+      "Variation": "Variation",
+      "LanguageSettings": {
+        "Language": "Language",
+        "CurrentUser": "Current User",
+        "FixedValue": "Fixed Value"
+      },
+      "Channels": "Channels",
+      "FixedValue": "Fixed value",
+      "FilterByUserSubscription": "Filter by user subscription",
+      "PageVariationType": {
+        "CurrentUserVariation": "Current User",
+        "DefaultVariation": "Default variation",
+        "CurrentVariation": "Current Variation"
+      },
+      "IncludeEmpty": "Include Empty",
+      "TermSetNotFound": "Term Set not found",
+      "CurrentPageCollection": "Current Page Collection",
+      "CurrentApp": "Current Publishing App",
+      "Others": "Others...",
+      "InvalidPageCollectionUrl": "Invalid page collection url",
+      "Resolve": "Resolve",
+      "UrlToPageCollection": "Url to Page Collection"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "The mail participants functionality has exceed the limitation of URL, please click on each buttons below to open separate mail client apps."
+        },
+        "Buttons": {
+          "MailParticipants": "Mail Participants"
+        }
+      }
+    }
+  }
+}
