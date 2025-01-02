@@ -5,7 +5,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Lägg till eller uppdatera",
           "Delete": "Ta bort",
-          "AutomaticPageTranslationFinished": "Variationsidöversättning"
+          "AutomaticPageTranslationFinished": "Översättning av variationssida"
         },
         "EventsFilter": {
           "Title": "Vitlistningsfilter för händelser",
@@ -19,8 +19,8 @@
             "Label": "Filterläge",
             "BusinessProfile": "Företagsprofil",
             "PublishingApp": "Publiceringsapp",
-            "PageCollection": "Sidinsamling",
-            "BusinessProfileInputLabel": "Företagsprofiler",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
             "PublishingAppInputLabel": "Publiceringsappar"
           }
         }
