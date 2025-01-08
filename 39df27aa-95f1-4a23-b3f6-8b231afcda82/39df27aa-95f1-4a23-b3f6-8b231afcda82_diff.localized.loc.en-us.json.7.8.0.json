@@ -27,21 +27,21 @@
         }
       },
       "Common": {
-        "DeletedUser": "Deleted User"
+        "DeletedUser": "Deleted user"
       }
     },
     "LinksManagement": {
       "MyLinks": {
-        "AddMyLinksMessage": "Link added to My Links successfully",
-        "DeleteMyLinksMessage": "Link deleted from My Links successfully",
-        "RemoveMyLinksMessage": "Link removed from My Links successfully"
+        "AddMyLinksMessage": "Link added to My links successfully",
+        "DeleteMyLinksMessage": "Link deleted from My links successfully",
+        "RemoveMyLinksMessage": "Link removed from My links successfully"
       }
     },
     "Search": {
       "Admin": {
         "Users": "Users",
         "SearchResultSourceSettings": {
-          "DisplayName": "Display Name",
+          "DisplayName": "Display name",
           "AddFilter": "Add filter"
         }
       },
@@ -52,7 +52,7 @@
         }
       },
       "SearchProviders": {
-        "OmniaSearch": "Omnia Search"
+        "OmniaSearch": "Omnia search"
       }
     }
   },
@@ -72,7 +72,7 @@
       "SetupWizard": {
         "General": {
           "DateTime": {
-            "FirstDayOfWeekLabel": "First Day Of Week",
+            "FirstDayOfWeekLabel": "First day of week",
             "Monday": "Monday",
             "Sunday": "Sunday"
           }
