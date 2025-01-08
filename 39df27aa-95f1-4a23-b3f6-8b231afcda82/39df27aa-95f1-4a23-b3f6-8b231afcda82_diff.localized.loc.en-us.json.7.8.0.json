@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "First day of week",
+      "Monday": "Monday",
+      "Sunday": "Sunday"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell Script to specific Exchange Online resources and do not apply to other Microsoft Graph workloads.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "To test it use this PowerShell Script",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy -AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Note! If you don't find the desired business profile, you need to be added as a Matomo user in that business profile."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Footer",
+          "Category": "System",
+          "Description": "Show the footer in SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Deleted User"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Link added to My Links successfully",
+        "DeleteMyLinksMessage": "Link deleted from My Links successfully",
+        "RemoveMyLinksMessage": "Link removed from My Links successfully"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Users",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Display Name",
+          "AddFilter": "Add filter"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Pages",
+          "Users": "Users"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Omnia Search"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Follow for",
+        "UnFollowFor": "Unfollow for"
+      },
+      "AppTypes": {
+        "GoToTeams": "Go to Teams for"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "First Day Of Week",
+            "Monday": "Monday",
+            "Sunday": "Sunday"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevance"
+      }
+    }
+  }
+}
