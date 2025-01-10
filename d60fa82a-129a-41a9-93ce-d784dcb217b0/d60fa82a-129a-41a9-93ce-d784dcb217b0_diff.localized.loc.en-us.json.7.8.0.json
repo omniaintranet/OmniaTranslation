@@ -116,7 +116,7 @@
     "EM": {
       "EventParticipantList": {
         "Messages": {
-          "MailParticipantOverflowInfo": "The number of participants in the Email exceeds the URL limit. Please click on each button below to open the respective mail client apps."
+          "MailParticipantOverflowInfo": "The number of participants can not be sent in one batch. Please click on each button below to open the respective mail client apps."
         },
         "Buttons": {
           "MailParticipants": "Mail participants"
