@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Größe der automatischen Seitenübersetzungsbatches"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Analyse löschen",
+            "Message": "Sind Sie sicher, dass Sie diese Analyse löschen möchten?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Hinweis: Damit die Seite für die semantische Suche indiziert werden kann, muss sie erneut veröffentlicht werden."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Seiten",
+      "SortBy": "Sortieren nach",
+      "SortDirection": "Sortierrichtung",
+      "Ascending": "Aufsteigend",
+      "Descending": "Absteigend",
+      "Scope": {
+        "Label": "Bereich",
+        "Tenant": "Mandant",
+        "PublishingApps": "Veröffentlichungs-Apps",
+        "PageCollections": "Seitensammlungen",
+        "NavigationPath": "Navigationspfad",
+        "Channels": "Kanäle",
+        "BusinessProfiles": "Unternehmensprofile",
+        "Apps": "Apps"
+      },
+      "ExcludeVariations": "Varianten ausschließen",
+      "AddFilter": "Filter hinzufügen",
+      "PageType": "Seitentyp",
+      "Variation": "Variante",
+      "LanguageSettings": {
+        "Language": "Sprache",
+        "CurrentUser": "Aktueller Benutzer",
+        "FixedValue": "Fester Wert"
+      },
+      "Channels": "Kanäle",
+      "FixedValue": "Fester Wert",
+      "FilterByUserSubscription": "Nach Benutzerabonnement filtern",
+      "PageVariationType": {
+        "CurrentUserVariation": "Aktueller Benutzer",
+        "DefaultVariation": "Standardvariante",
+        "CurrentVariation": "Aktuelle Variante"
+      },
+      "IncludeEmpty": "Leere einbeziehen",
+      "TermSetNotFound": "Termset nicht gefunden",
+      "CurrentPageCollection": "Aktuelle Seitensammlung",
+      "CurrentApp": "Aktuelle Veröffentlichungs-App",
+      "Others": "Andere...",
+      "InvalidPageCollectionUrl": "Ungültige URL der Seitensammlung",
+      "Resolve": "Lösen",
+      "UrlToPageCollection": "URL zur Seitensammlung"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Details öffnen"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Ganztägig",
+          "Morning": "Morgen",
+          "Afternoon": "Nachmittag",
+          "Evening": "Abend",
+          "Custom": "Benutzerdefiniert"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profilbild",
+            "Messages": "Nachrichten"
+          },
+          "Display": {
+            "NewMessage": "Neue Nachricht",
+            "Content": "Inhalt",
+            "MessageStyle": "Nachrichtenstil",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Tag auswählen",
+                "DisplayTime": "Anzeigezeit",
+                "From": "Von",
+                "To": "Bis"
+              },
+              "DayOfWeek": {
+                "Info": "Jeden {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Erhebung",
+                "BorderWidth": "Rahmenbreite",
+                "BorderColor": "Rahmenfarbe"
+              },
+              "Message": {
+                "Color": "Textfarbe",
+                "FontSize": "Schriftgröße"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Die Anzahl der Teilnehmer kann nicht in einem Batch gesendet werden. Klicken Sie bitte auf die jeweiligen Schaltflächen unten, um die entsprechenden E-Mail-Client-Apps zu öffnen."
+        },
+        "Buttons": {
+          "MailParticipants": "Teilnehmer per E-Mail senden"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} Kommentare",
+        "Likes": "{0} Likes"
+      }
+    }
+  }
+}
