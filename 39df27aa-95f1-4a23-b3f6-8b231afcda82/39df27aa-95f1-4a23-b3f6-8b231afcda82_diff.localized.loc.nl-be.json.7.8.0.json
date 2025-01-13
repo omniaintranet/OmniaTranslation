@@ -9,7 +9,7 @@
       "New7ConfigureApplicationAccessPolicyMessage": "Gebruik dit PowerShell-script om Omnia te beperken tot het gebruik van slechts één specifieke Exchange Online-postbus om e-mails te verzenden.",
       "New7TestConfigureApplicationAccessPolicyMessage": "Gebruik dit PowerShell-script om het te testen",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
-      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Beperk deze app tot alleen verzenden als beheerder.\""
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
   },
   "OmniaWorkplace": {
