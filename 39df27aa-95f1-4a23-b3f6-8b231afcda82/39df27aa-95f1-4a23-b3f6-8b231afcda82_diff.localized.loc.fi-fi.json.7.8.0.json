@@ -15,7 +15,7 @@
   "OmniaWorkplace": {
     "Analytics": {
       "admin": {
-        "matomoUserAssignmentMessage": "Huom! Jos et löydä haluttua yritysprofiilia, sinun täytyy lisätä Matomo-käyttäjäksi kyseiseen yritysprofiiliin."
+        "matomoUserAssignmentMessage": "Huom! Jos et löydä haluttua yritysprofiilia, sinut täytyy lisätä Matomo-käyttäjäksi kyseiseen yritysprofiiliin."
       }
     },
     "Core": {
@@ -33,7 +33,7 @@
     "LinksManagement": {
       "MyLinks": {
         "AddMyLinksMessage": "Linkki lisätty Omat linkit -osioon onnistuneesti",
-        "DeleteMyLinksMessage": "Linkki poistettu Omatlinkit -osiosta onnistuneesti",
+        "DeleteMyLinksMessage": "Linkki poistettu Omat linkit -osiosta onnistuneesti",
         "RemoveMyLinksMessage": "Linkki poistettu Omat linkit -osiosta onnistuneesti"
       }
     },
