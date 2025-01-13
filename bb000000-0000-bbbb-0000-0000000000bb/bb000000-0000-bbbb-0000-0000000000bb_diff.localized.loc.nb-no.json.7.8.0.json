@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "SharePoint-nettstedets URL er ugyldig. Vennligst sjekk URL-en og prøv igjen."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Brukernavn"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Alternativ {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "System",
+          "Description": "Sett standard skriftfamiliebase til SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}
