@@ -9,7 +9,7 @@
       "New7ConfigureApplicationAccessPolicyMessage": "Utilisez ce script PowerShell pour restreindre Omnia à utiliser uniquement une boîte aux lettres Exchange Online spécifique pour envoyer des e-mails.",
       "New7TestConfigureApplicationAccessPolicyMessage": "Pour le tester, utilisez ce script PowerShell",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
-      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restreindre cette application à l'envoi en tant qu'administrateur.\""
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
   },
   "OmniaWorkplace": {
