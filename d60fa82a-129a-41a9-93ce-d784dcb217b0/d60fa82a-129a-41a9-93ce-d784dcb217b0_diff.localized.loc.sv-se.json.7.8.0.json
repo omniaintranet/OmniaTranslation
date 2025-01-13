@@ -2,7 +2,7 @@
   "WCM": {
     "Admin": {
       "Settings": {
-        "AutomaticPageTranslationBatchSize": "Storlek på automatisk sidaöversättningsbatch"
+        "AutomaticPageTranslationBatchSize": "Storlek på automatisk sidöversättningsbatch"
       }
     },
     "Editor": {
@@ -10,7 +10,7 @@
         "AnalysisPage": {
           "DeleteConfirmation": {
             "Title": "Ta bort analys",
-            "Message": "Är du säker på att du vill ta bort dennaanalys?"
+            "Message": "Är du säker på att du vill ta bort denna analys?"
           }
         },
         "Panels": {
@@ -28,12 +28,12 @@
       "Descending": "Fallande",
       "Scope": {
         "Label": "Omfattning",
-        "Tenant": "Hyresgäst",
+        "Tenant": "Tenant",
         "PublishingApps": "Publiceringsappar",
         "PageCollections": "Sidsamlingar",
         "NavigationPath": "Navigeringsväg",
         "Channels": "Kanaler",
-        "BusinessProfiles": "Företagsprofiler",
+        "BusinessProfiles": "Verksamhetsprofiler",
         "Apps": "Appar"
       },
       "ExcludeVariations": "Exkludera variationer",
@@ -54,13 +54,13 @@
         "CurrentVariation": "Nuvarande variation"
       },
       "IncludeEmpty": "Inkludera tomma",
-      "TermSetNotFound": "Termuppsättning hittades inte",
+      "TermSetNotFound": "Termuppsättningen hittades inte",
       "CurrentPageCollection": "Nuvarande sidsamling",
       "CurrentApp": "Nuvarande publiceringsapp",
       "Others": "Andra...",
-      "InvalidPageCollectionUrl": "Ogiltig URL försidsamling",
+      "InvalidPageCollectionUrl": "Ogiltig URL för sidsamling",
       "Resolve": "Lös",
-      "UrlToPageCollection": "URL till sidsamling"
+      "UrlToPageCollection": "URL för sidsamling"
     },
     "SignOffRequest": {
       "Button": {
@@ -116,10 +116,10 @@
     "EM": {
       "EventParticipantList": {
         "Messages": {
-          "MailParticipantOverflowInfo": "Antalet deltagare kan inte skickas i en enda sändning. Klicka på varje knapp nedan för att öppna respektive e-postklientapp."
+          "MailParticipantOverflowInfo": "Alla deltagare kan inte skickas i en enda sändning. Klicka nedan för att öppna respektive e-postapp."
         },
         "Buttons": {
-          "MailParticipants": "Skicka deltagare e-post"
+          "MailParticipants": "Skicka e-popst till deltagare"
         }
       }
     }
