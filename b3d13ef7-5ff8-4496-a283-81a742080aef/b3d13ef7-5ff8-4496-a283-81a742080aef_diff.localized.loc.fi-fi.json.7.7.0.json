@@ -2,7 +2,7 @@
   "ODM": {
     "Core": {
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewerVersionMessage": "Tämän asiakirjan mallista on saatavilla uusi versio. Napsautaalla olevaa \"Päivitä uusimpaan malliversioon\" -painiketta tarkastellaksesi asiakirjaa päivitetyn mallin avulla.",
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Tämän asiakirjan mallista on saatavilla uusi versio. Napsauta alla olevaa \"Päivitä uusimpaan malliversioon\" -painiketta tarkastellaksesi asiakirjaa päivitetyn mallin avulla.",
         "UpdateToLatestTemplateVersion": "Päivitä uusimpaan malliversioon"
       }
     },
