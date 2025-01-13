@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "URL của trang SharePoint không hợp lệ. Vui lòng kiểm tra URL và thử lại."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Tên người dùng"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Tùy chọn {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "Hệ thống",
+          "Description": "Đặt phông chữ mặc định cho SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}
