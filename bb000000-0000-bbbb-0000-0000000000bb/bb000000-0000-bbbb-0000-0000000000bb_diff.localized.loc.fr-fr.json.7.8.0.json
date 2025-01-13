@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "L'URL du site SharePoint est invalide. Veuillez vérifier l'URL et réessayer."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Nom d'utilisateur"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Option{0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "Système",
+          "Description": "Définir la famille de polices par défaut sur SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

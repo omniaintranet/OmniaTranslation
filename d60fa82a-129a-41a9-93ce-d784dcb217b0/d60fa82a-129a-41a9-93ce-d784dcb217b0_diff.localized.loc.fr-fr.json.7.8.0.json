@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Taille du lot de traduction automatique des pages"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Supprimer l'analyse",
+            "Message": "Êtes-vous sûr de vouloir supprimer cette analyse ?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Remarque : Pour que la page soit indexée pour la recherche sémantique, elle doit être republiée."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Pages",
+      "SortBy": "Trier par",
+      "SortDirection": "Direction de tri",
+      "Ascending": "Croissant",
+      "Descending": "Décroissant",
+      "Scope": {
+        "Label": "Portée",
+        "Tenant": "Locataire",
+        "PublishingApps": "Applications de publication",
+        "PageCollections": "Collections de pages",
+        "NavigationPath": "Chemin de navigation",
+        "Channels": "Canaux",
+        "BusinessProfiles": "Profils d'entreprise",
+        "Apps": "Applications"
+      },
+      "ExcludeVariations": "Exclure les variations",
+      "AddFilter": "Ajouter un filtre",
+      "PageType": "Type de page",
+      "Variation": "Variation",
+      "LanguageSettings": {
+        "Language": "Langue",
+        "CurrentUser": "Utilisateur actuel",
+        "FixedValue": "Valeur fixe"
+      },
+      "Channels": "Canaux",
+      "FixedValue": "Valeur fixe",
+      "FilterByUserSubscription": "Filtrer par abonnement de l'utilisateur",
+      "PageVariationType": {
+        "CurrentUserVariation": "Utilisateur actuel",
+        "DefaultVariation": "Variation par défaut",
+        "CurrentVariation": "Variation actuelle"
+      },
+      "IncludeEmpty": "Inclure les vides",
+      "TermSetNotFound": "Ensemble de termes introuvable",
+      "CurrentPageCollection": "Collection de pages actuelle",
+      "CurrentApp": "Application de publication actuelle",
+      "Others": "Autres...",
+      "InvalidPageCollectionUrl": "URL de collection de pages invalide",
+      "Resolve": "Résoudre",
+      "UrlToPageCollection": "URL vers la collection de pages"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Ouvrir les détails"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Toute la journée",
+          "Morning": "Matin",
+          "Afternoon": "Après-midi",
+          "Evening": "Soir",
+          "Custom": "Personnalisé"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Image de profil",
+            "Messages": "Messages"
+          },
+          "Display": {
+            "NewMessage": "Nouveau message",
+            "Content": "Contenu",
+            "MessageStyle": "Style de message",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Choisir le jour",
+                "DisplayTime": "Afficher l'heure",
+                "From": "De",
+                "To": "À"
+              },
+              "DayOfWeek": {
+                "Info": "Chaque {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Élévation",
+                "BorderWidth": "Largeur de la bordure",
+                "BorderColor": "Couleur de la bordure"
+              },
+              "Message": {
+                "Color": "Couleur du texte",
+                "FontSize": "Taille de police"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Le nombre de participants ne peut pas être envoyé en une seule fois. Veuillez cliquer sur chaque bouton ci-dessous pour ouvrir les applicationsde messagerie respectives."
+        },
+        "Buttons": {
+          "MailParticipants": "Envoyer un courrier aux participants"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} commentaires",
+        "Likes": "{0} mentions J'aime"
+      }
+    }
+  }
+}

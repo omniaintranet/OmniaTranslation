@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "De URLvan de SharePoint-site is ongeldig. Controleer de URL en probeer het opnieuw."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Gebruikersnaam"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Optie {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "Systeem",
+          "Description": "Stel de standaard lettertypefamilie in op SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

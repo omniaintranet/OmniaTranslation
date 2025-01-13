@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "Die SharePoint-Website-URL ist ungültig. Bitte überprüfen Sie die URL und versuchen Sie es erneut."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Benutzername"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Option {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "System",
+          "Description": "Setzen Sie die Standard-Schriftfamilie auf SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

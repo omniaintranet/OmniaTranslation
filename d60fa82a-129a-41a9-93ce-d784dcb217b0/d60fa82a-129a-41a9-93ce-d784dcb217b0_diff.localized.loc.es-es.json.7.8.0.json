@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Tamaño del lote de traducción automática de páginas"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Eliminar análisis",
+            "Message": "¿Estás seguro de que quieres eliminar este análisis?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Nota: Para que la página se indexe para la búsqueda semántica, debe volver a publicarse."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Páginas",
+      "SortBy": "Ordenar por",
+      "SortDirection": "Dirección de ordenamiento",
+      "Ascending": "Ascendente",
+      "Descending": "Descendente",
+      "Scope": {
+        "Label": "Ámbito",
+        "Tenant": "Inquilino",
+        "PublishingApps": "Aplicaciones de publicación",
+        "PageCollections": "Colecciones de páginas",
+        "NavigationPath": "Ruta de navegación",
+        "Channels": "Canales",
+        "BusinessProfiles": "Perfiles de empresa",
+        "Apps": "Aplicaciones"
+      },
+      "ExcludeVariations": "Excluir variaciones",
+      "AddFilter": "Agregar filtro",
+      "PageType": "Tipo de página",
+      "Variation": "Variación",
+      "LanguageSettings": {
+        "Language": "Idioma",
+        "CurrentUser": "Usuario actual",
+        "FixedValue": "Valor fijo"
+      },
+      "Channels": "Canales",
+      "FixedValue": "Valor fijo",
+      "FilterByUserSubscription": "Filtrar por suscripción de usuario",
+      "PageVariationType": {
+        "CurrentUserVariation": "Usuario actual",
+        "DefaultVariation": "Variación predeterminada",
+        "CurrentVariation": "Variación actual"
+      },
+      "IncludeEmpty": "Incluir vacío",
+      "TermSetNotFound": "Conjunto de términos no encontrado",
+      "CurrentPageCollection": "Colección de páginas actual",
+      "CurrentApp": "Aplicación de publicación actual",
+      "Others": "Otros...",
+      "InvalidPageCollectionUrl": "URL de colección de páginas no válida",
+      "Resolve": "Resolver",
+      "UrlToPageCollection": "URL a colección de páginas"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Abrir detalles"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Todo el día",
+          "Morning": "Mañana",
+          "Afternoon": "Tarde",
+          "Evening": "Noche",
+          "Custom": "Personalizado"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Imagen de perfil",
+            "Messages": "Mensajes"
+          },
+          "Display": {
+            "NewMessage": "Nuevo mensaje",
+            "Content": "Contenido",
+            "MessageStyle": "Estilo de mensaje",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Elegir día",
+                "DisplayTime": "Mostrar hora",
+                "From": "Desde",
+                "To": "Hasta"
+              },
+              "DayOfWeek": {
+                "Info": "Cada {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Elevación",
+                "BorderWidth": "Ancho del borde",
+                "BorderColor": "Color del borde"
+              },
+              "Message": {
+                "Color": "Color del texto",
+                "FontSize": "Tamaño de fuente"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "El número de participantes no se puede enviar en un solo lote. Haz clic en cada botón a continuación para abrir las respectivas aplicaciones decorreo electrónico."
+        },
+        "Buttons": {
+          "MailParticipants": "Enviar participantes por correo electrónico"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} comentarios",
+        "Likes": "{0} me gusta"
+      }
+    }
+  }
+}

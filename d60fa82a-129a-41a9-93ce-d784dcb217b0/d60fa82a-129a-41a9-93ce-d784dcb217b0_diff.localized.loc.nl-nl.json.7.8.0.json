@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Automatische batchgrootte voor automatische paginavertaling"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Analyse verwijderen",
+            "Message": "Weet u zeker dat u deze analyse wilt verwijderen?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Opmerking: Om de pagina te indexeren voor semantisch zoeken, moet deze opnieuw worden gepubliceerd."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Pagina's",
+      "SortBy": "Sorteren op",
+      "SortDirection": "Sorteerrichting",
+      "Ascending": "Oplopend",
+      "Descending": "Aflopend",
+      "Scope": {
+        "Label": "Bereik",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publicatie-apps",
+        "PageCollections": "Paginaverzamelingen",
+        "NavigationPath": "Navigatiepad",
+        "Channels": "Kanalen",
+        "BusinessProfiles": "Bedrijfsprofielen",
+        "Apps": "Apps"
+      },
+      "ExcludeVariations": "Variaties uitsluiten",
+      "AddFilter": "Filter toevoegen",
+      "PageType": "Paginatype",
+      "Variation": "Variatie",
+      "LanguageSettings": {
+        "Language": "Taal",
+        "CurrentUser": "Huidige gebruiker",
+        "FixedValue": "Vaste waarde"
+      },
+      "Channels": "Kanalen",
+      "FixedValue": "Vaste waarde",
+      "FilterByUserSubscription": "Filteren op gebruikersabonnement",
+      "PageVariationType": {
+        "CurrentUserVariation": "Huidige gebruiker",
+        "DefaultVariation": "Standaard variatie",
+        "CurrentVariation": "Huidige variatie"
+      },
+      "IncludeEmpty": "Lege items opnemen",
+      "TermSetNotFound": "Termenset nietgevonden",
+      "CurrentPageCollection": "Huidige paginaverzameling",
+      "CurrentApp": "Huidige publicatie-app",
+      "Others": "Overige...",
+      "InvalidPageCollectionUrl": "Ongeldige URL voor paginaverzameling",
+      "Resolve": "Oplossen",
+      "UrlToPageCollection": "URL naar paginaverzameling"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Details openen"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Hele dag",
+          "Morning": "Ochtend",
+          "Afternoon": "Middag",
+          "Evening": "Avond",
+          "Custom": "Aangepast"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profielafbeelding",
+            "Messages": "Berichten"
+          },
+          "Display": {
+            "NewMessage": "Nieuw bericht",
+            "Content": "Inhoud",
+            "MessageStyle": "Berichtstijl",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Kies dag",
+                "DisplayTime": "Weergavetijd",
+                "From": "Van",
+                "To": "Tot"
+              },
+              "DayOfWeek": {
+                "Info": "Elke {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Elevatie",
+                "BorderWidth": "Randbreedte",
+                "BorderColor": "Randkleur"
+              },
+              "Message": {
+                "Color": "Tekstkleur",
+                "FontSize": "Lettergrootte"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Het aantal deelnemers kan niet in één batch worden verzonden. Klik op elke knop hieronder om de respectievelijke e-mailclient-apps te openen."
+        },
+        "Buttons": {
+          "MailParticipants": "Deelnemers mailen"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} opmerkingen",
+        "Likes": "{0} vind-ik-leuks"
+      }
+    }
+  }
+}

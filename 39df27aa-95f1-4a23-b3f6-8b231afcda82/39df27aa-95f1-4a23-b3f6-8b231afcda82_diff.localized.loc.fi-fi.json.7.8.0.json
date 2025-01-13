@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Viikon ensimmäinen päivä",
+      "Monday": "Maanantai",
+      "Sunday": "Sunnuntai"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Käytä tätä PowerShell-skriptiä rajoittaaksesi Omniaa käyttämään vain tiettyä Exchange Online -postilaatikkoa sähköpostien lähettämiseen.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Testataksesi sitä, käytä tätä PowerShell-skriptiä",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Huom! Jos et löydä haluttua yritysprofiilia, sinut täytyy lisätä Matomo-käyttäjäksi kyseiseen yritysprofiiliin."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Alatunniste",
+          "Category": "Järjestelmä",
+          "Description": "Näytä alatunniste SharePointissa."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Poistettu käyttäjä"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Linkki lisätty Omat linkit -osioon onnistuneesti",
+        "DeleteMyLinksMessage": "Linkki poistettu Omat linkit -osiosta onnistuneesti",
+        "RemoveMyLinksMessage": "Linkki poistettu Omat linkit -osiosta onnistuneesti"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Käyttäjät",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Näyttönimi",
+          "AddFilter": "Lisää suodatin"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Sivut",
+          "Users": "Käyttäjät"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Omnia-haku"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Seuraa",
+        "UnFollowFor": "Lopeta seuraaminen"
+      },
+      "AppTypes": {
+        "GoToTeams": "Siirry Teamsiin"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Viikon ensimmäinen päivä",
+            "Monday": "Maanantai",
+            "Sunday": "Sunnuntai"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevanssi"
+      }
+    }
+  }
+}

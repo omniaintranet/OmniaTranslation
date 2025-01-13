@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Automaattisen sivukäännöksen eräkoko"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Poista analyysi",
+            "Message": "Haluatko varmasti poistaa tämän analyysin?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Huomaa: Jotta sivu voidaan indeksoida semanttista hakua varten, se on julkaistava uudelleen."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Sivut",
+      "SortBy": "Lajittele",
+      "SortDirection": "Lajittelusuunta",
+      "Ascending": "Nouseva",
+      "Descending": "Laskeva",
+      "Scope": {
+        "Label": "Laajuus",
+        "Tenant": "Tenant",
+        "PublishingApps": "Julkaisusovellukset",
+        "PageCollections": "Sivukokoelmat",
+        "NavigationPath": "Navigointipolku",
+        "Channels": "Kanavat",
+        "BusinessProfiles": "Liiketoimintaprofiilit",
+        "Apps": "Sovellukset"
+      },
+      "ExcludeVariations": "Jätä variaatiot pois",
+      "AddFilter": "Lisää suodatin",
+      "PageType": "Sivutyyppi",
+      "Variation": "Variaatio",
+      "LanguageSettings": {
+        "Language": "Kieli",
+        "CurrentUser": "Nykyinen käyttäjä",
+        "FixedValue": "Kiinteä arvo"
+      },
+      "Channels": "Kanavat",
+      "FixedValue": "Kiinteä arvo",
+      "FilterByUserSubscription": "Suodata käyttäjän tilauksen perusteella",
+      "PageVariationType": {
+        "CurrentUserVariation": "Nykyinen käyttäjä",
+        "DefaultVariation": "Oletusvariaatio",
+        "CurrentVariation": "Nykyinen variaatio"
+      },
+      "IncludeEmpty": "Sisällytä tyhjät",
+      "TermSetNotFound": "Termiryhmää ei löytynyt",
+      "CurrentPageCollection": "Nykyinen sivukokoelma",
+      "CurrentApp": "Nykyinen julkaisusovellus",
+      "Others": "Muut...",
+      "InvalidPageCollectionUrl": "Virheellinen sivukokoelman URL",
+      "Resolve": "Ratkaise",
+      "UrlToPageCollection": "URL sivukokoelmaan"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Avaa tiedot"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Koko päivä",
+          "Morning": "Aamu",
+          "Afternoon": "Iltapäivä",
+          "Evening": "Ilta",
+          "Custom": "Mukautettu"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profiilikuva",
+            "Messages": "Viestit"
+          },
+          "Display": {
+            "NewMessage": "Uusi viesti",
+            "Content": "Sisältö",
+            "MessageStyle": "Viestin tyyli",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Valitse päivä",
+                "DisplayTime": "Näyttöaika",
+                "From": "Alkaen",
+                "To": "Asti"
+              },
+              "DayOfWeek": {
+                "Info": "Joka {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Korkeus",
+                "BorderWidth": "Reunuksen leveys",
+                "BorderColor": "Reunuksen väri"
+              },
+              "Message": {
+                "Color": "Tekstin väri",
+                "FontSize": "Fonttikoko"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Osallistujien määrää ei voi lähettää yhdessä erässä. Napsauta alla olevia painikkeita avataksesi lähetys sähköpostiohjelmassa useassa erässä."
+        },
+        "Buttons": {
+          "MailParticipants": "Lähetä osallistujille sähköpostia"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} kommenttia",
+        "Likes": "{0} tykkäystä"
+      }
+    }
+  }
+}

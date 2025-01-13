@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Eerste dag van de week",
+      "Monday": "Maandag",
+      "Sunday": "Zondag"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Gebruik dit PowerShell-script om Omnia te beperken tot het gebruik van slechts één specifieke Exchange Online-postbus om e-mails te verzenden.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Gebruik dit PowerShell-script om het te testen",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Opmerking! Als je het gewenste bedrijfsprofiel niet kunt vinden, moet je worden toegevoegd als een Matomo-gebruiker in dat bedrijfsprofiel."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Footer",
+          "Category": "Systeem",
+          "Description": "Toon de footer in SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Verwijderde gebruiker"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Link succesvol toegevoegd aan Mijn links",
+        "DeleteMyLinksMessage": "Link succesvol verwijderd uitMijn links",
+        "RemoveMyLinksMessage": "Link succesvol verwijderd uit Mijn links"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Gebruikers",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Weergavenaam",
+          "AddFilter": "Filter toevoegen"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Pagina's",
+          "Users": "Gebruikers"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Omnia-zoekopdracht"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Volgen voor",
+        "UnFollowFor": "Niet meer volgen voor"
+      },
+      "AppTypes": {
+        "GoToTeams": "Ga naar Teams voor"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Eerste dag van de week",
+            "Monday": "Maandag",
+            "Sunday": "Zondag"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevantie"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "SharePoint-webbplatsens URL är ogiltig. Kontrollera denna URL och försök igen."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Användarnamn"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Alternativ {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "System",
+          "Description": "Ange standardtypsnittsfamilj för SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

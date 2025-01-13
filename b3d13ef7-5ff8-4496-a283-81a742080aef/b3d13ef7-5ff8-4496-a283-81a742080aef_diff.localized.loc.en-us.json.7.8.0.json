@@ -1,0 +1,31 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Open details"
+      }
+    },
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "There's a new version of the template for this document available.  Click \"Update to latest template version\" below to review the document using the updated template.",
+        "UpdateToLatestTemplateVersion": "Update to latest template version"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "You are about to publish a document using an older version of the document template. Click \"Update document properties\" below to update your document to use the latest version od the template.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "You need to select a document type and add all required properties to be able to publish a document. Also note that the document is using an older version of the document template. Click \"Update document properties\" below to update your document to use the latest version od the template."
+      }
+    },
+    "DocumentRollup": {
+      "ListView": {
+        "OpenInfo": "Open info",
+        "OpenFeedback": "Open feedback",
+        "OpenSignedDocuments": "Open signed documents",
+        "FoundRelatedDocuments": "Found {0} related documents",
+        "FoundRelatedProcesses": "Found {0} related processes",
+        "FoundAppendices": "Found {0} appendices"
+      }
+    }
+  }
+}

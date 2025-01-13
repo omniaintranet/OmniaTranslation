@@ -1,0 +1,31 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Open details"
+      }
+    },
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Er is een nieuwe versie van de sjabloon voor dit document beschikbaar. Klik op \"Bijwerken naar de nieuwste sjabloonversie\" hieronder om het document te bekijken met behulp van de bijgewerkte sjabloon.",
+        "UpdateToLatestTemplateVersion": "Bijwerken naar de nieuwste sjabloonversie"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "U staat op het punt een document te publiceren met behulp van een oudereversie van de document-sjabloon. Klik op \"Documenteigenschappen bijwerken\" hieronder om uw document bij te werken naar de nieuwste versie van de sjabloon.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "U moet een documenttype selecteren en alle vereiste eigenschappen toevoegen om een documentte kunnen publiceren. Let ook op dat het document gebruikmaakt van een oudere versie van de document-sjabloon. Klik op \"Documenteigenschappen bijwerken\" hieronder om uw document bij te werken naar de nieuwste versie van de sjabloon."
+      }
+    },
+    "DocumentRollup": {
+      "ListView": {
+        "OpenInfo": "Open info",
+        "OpenFeedback": "Open feedback",
+        "OpenSignedDocuments": "Open ondertekende documenten",
+        "FoundRelatedDocuments": "Gevonden {0} gerelateerde documenten",
+        "FoundRelatedProcesses": "Gevonden {0} gerelateerde processen",
+        "FoundAppendices": "Gevonden {0} bijlagen"
+      }
+    }
+  }
+}

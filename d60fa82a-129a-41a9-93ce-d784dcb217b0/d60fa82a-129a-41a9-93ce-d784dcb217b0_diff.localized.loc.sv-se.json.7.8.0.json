@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Storlek på automatisk sidöversättningsbatch"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Ta bort analys",
+            "Message": "Är du säker på att du vill ta bort denna analys?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Observera: För att sidan ska indexeras för semantisk sökning måste den publiceras igen."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Sidor",
+      "SortBy": "Sortera efter",
+      "SortDirection": "Sorteringsriktning",
+      "Ascending": "Stigande",
+      "Descending": "Fallande",
+      "Scope": {
+        "Label": "Omfattning",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publiceringsappar",
+        "PageCollections": "Sidsamlingar",
+        "NavigationPath": "Navigeringsväg",
+        "Channels": "Kanaler",
+        "BusinessProfiles": "Verksamhetsprofiler",
+        "Apps": "Appar"
+      },
+      "ExcludeVariations": "Exkludera variationer",
+      "AddFilter": "Lägg till filter",
+      "PageType": "Sidtyp",
+      "Variation": "Variation",
+      "LanguageSettings": {
+        "Language": "Språk",
+        "CurrentUser": "Nuvarande användare",
+        "FixedValue": "Fast värde"
+      },
+      "Channels": "Kanaler",
+      "FixedValue": "Fast värde",
+      "FilterByUserSubscription": "Filtrera efter användarprenumeration",
+      "PageVariationType": {
+        "CurrentUserVariation": "Nuvarande användare",
+        "DefaultVariation": "Standardvariation",
+        "CurrentVariation": "Nuvarande variation"
+      },
+      "IncludeEmpty": "Inkludera tomma",
+      "TermSetNotFound": "Termuppsättningen hittades inte",
+      "CurrentPageCollection": "Nuvarande sidsamling",
+      "CurrentApp": "Nuvarande publiceringsapp",
+      "Others": "Andra...",
+      "InvalidPageCollectionUrl": "Ogiltig URL för sidsamling",
+      "Resolve": "Lös",
+      "UrlToPageCollection": "URL för sidsamling"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Öppna detaljer"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Hela dagen",
+          "Morning": "Morgon",
+          "Afternoon": "Eftermiddag",
+          "Evening": "Kväll",
+          "Custom": "Anpassad"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profilbild",
+            "Messages": "Meddelanden"
+          },
+          "Display": {
+            "NewMessage": "Nytt meddelande",
+            "Content": "Innehåll",
+            "MessageStyle": "Meddelandestil",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Välj dag",
+                "DisplayTime": "Visningstid",
+                "From": "Från",
+                "To": "Till"
+              },
+              "DayOfWeek": {
+                "Info": "Varje {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Höjd",
+                "BorderWidth": "Kantbredd",
+                "BorderColor": "Kantfärg"
+              },
+              "Message": {
+                "Color": "Textfärg",
+                "FontSize": "Teckenstorlek"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Alla deltagare kan inte skickas i en enda sändning. Klicka nedan för att öppna respektive e-postapp."
+        },
+        "Buttons": {
+          "MailParticipants": "Skicka e-popst till deltagare"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} kommentarer",
+        "Likes": "{0} gillar"
+      }
+    }
+  }
+}
