@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Automaattisen sivun käännöserän koko"
+      }
+    }
+  }
+}
