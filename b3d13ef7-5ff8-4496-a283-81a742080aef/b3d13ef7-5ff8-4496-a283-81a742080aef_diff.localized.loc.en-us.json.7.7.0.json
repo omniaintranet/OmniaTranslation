@@ -3,7 +3,7 @@
     "Core": {
       "TemplateMerge": {
         "LinkedDocumentTemplateHasNewerVersionMessage": "There's a new version of the template for this document available.  Click \"Update to latest template version\" below to review the document using the updated template.",
-        "UpdateToLatestTemplateVersion": "Update tolatest template version"
+        "UpdateToLatestTemplateVersion": "Update to latest template version"
       }
     },
     "DocumentLibrary": {
