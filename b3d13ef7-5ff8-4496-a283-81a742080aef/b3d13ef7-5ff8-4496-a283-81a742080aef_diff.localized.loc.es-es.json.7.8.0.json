@@ -1,0 +1,31 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Abrir detalles"
+      }
+    },
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Hay una nueva versión de la plantilla disponible para este documento. Haz clic en \"Actualizar a la última versión de la plantilla\" a continuación para revisar el documento utilizando la plantilla actualizada.",
+        "UpdateToLatestTemplateVersion": "Actualizar a la última versión dela plantilla"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Estás a punto de publicar un documento utilizando una versión anterior de la plantilla del documento. Haz clic en \"Actualizar propiedades del documento\" a continuación para actualizar tu documento y utilizar la última versión de la plantilla.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Debes seleccionar un tipo de documento y agregar todas las propiedades requeridas parapoder publicar un documento. Además, ten en cuenta que el documento utiliza una versión anterior de la plantilla del documento. Haz clic en \"Actualizar propiedades del documento\" a continuación para actualizar tu documento y utilizar la última versión de la plantilla."
+      }
+    },
+    "DocumentRollup": {
+      "ListView": {
+        "OpenInfo": "Abrir información",
+        "OpenFeedback": "Abrir comentarios",
+        "OpenSignedDocuments": "Abrir documentos firmados",
+        "FoundRelatedDocuments": "Se encontraron {0} documentos relacionados",
+        "FoundRelatedProcesses": "Se encontraron {0} procesos relacionados",
+        "FoundAppendices": "Se encontraron {0} apéndices"
+      }
+    }
+  }
+}
