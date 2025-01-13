@@ -9,7 +9,7 @@
       "New7ConfigureApplicationAccessPolicyMessage": "Bruk denne PowerShell-skripten for å begrense Omnia til å bruke bare en bestemt Exchange Online-postboks for å sende e-post.",
       "New7TestConfigureApplicationAccessPolicyMessage": "For å teste det, bruk denne PowerShell-skripten",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
-      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Begrens denne appen til bare å sende som Admin.\""
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
   },
   "OmniaWorkplace": {
