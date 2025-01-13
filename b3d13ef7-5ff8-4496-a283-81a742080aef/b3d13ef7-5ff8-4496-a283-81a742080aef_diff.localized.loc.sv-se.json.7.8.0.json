@@ -7,8 +7,8 @@
     },
     "Core": {
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewerVersionMessage": "Det finns en ny version av mallen för detta dokument tillgänglig. Klicka på\"Uppdatera till senaste mallversion\" nedan för att granska dokumentet med den uppdaterade mallen.",
-        "UpdateToLatestTemplateVersion": "Uppdatera till senaste mallversion"
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Det finns en ny version av mallen för detta dokument tillgänglig. Klicka på \"Uppdatera till senaste version av mallen\" nedan för att granska dokumentet med den uppdaterade mallen.",
+        "UpdateToLatestTemplateVersion": "Uppdatera till senaste version av mallen"
       }
     },
     "DocumentLibrary": {
