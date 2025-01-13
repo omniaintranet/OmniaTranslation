@@ -6,7 +6,7 @@
       "Sunday": "Sunday"
     },
     "CustomEmailSettings": {
-      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell script to restrict Omnia touse only a specific Exchange Online mailbox to send Email.",
+      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell script to restrict Omnia to use only a specific Exchange Online mailbox to send Email.",
       "New7TestConfigureApplicationAccessPolicyMessage": "To test it, use this PowerShell Script",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
       "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
@@ -15,7 +15,7 @@
   "OmniaWorkplace": {
     "Analytics": {
       "admin": {
-        "matomoUserAssignmentMessage": "Note! If you don't find the desired business profile, you need to be added asa Matomo user in that business profile."
+        "matomoUserAssignmentMessage": "Note! If you don't find the desired business profile, you need to be added as a Matomo user in that business profile."
       }
     },
     "Core": {
