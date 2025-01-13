@@ -1,0 +1,16 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Tämän asiakirjan mallista on saatavilla uusi versio. Napsautaalla olevaa \"Päivitä uusimpaan malliversioon\" -painiketta tarkastellaksesi asiakirjaa päivitetyn mallin avulla.",
+        "UpdateToLatestTemplateVersion": "Päivitä uusimpaan malliversioon"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Olet julkaisemassa asiakirjaa vanhemmalla asiakirjamallin versiolla. Napsauta alla olevaa \"Päivitä asiakirjan ominaisuudet\" -painiketta päivittääksesi asiakirjan käyttämään uusinta malliversiota.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Sinun on valittava asiakirjatyypi ja lisättävä kaikki tarvittavat ominaisuudet, jotta voit julkaista asiakirjan. Huomaa myös, että asiakirja käyttää vanhempaa asiakirjamallin versiota. Napsauta alla olevaa \"Päivitä asiakirjan ominaisuudet\" -painiketta päivittääksesi asiakirjan käyttämään uusinta malliversiota."
+      }
+    }
+  }
+}
