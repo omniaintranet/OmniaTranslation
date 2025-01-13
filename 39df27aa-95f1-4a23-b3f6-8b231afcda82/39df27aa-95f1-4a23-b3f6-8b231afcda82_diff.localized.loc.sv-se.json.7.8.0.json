@@ -7,7 +7,7 @@
     },
     "CustomEmailSettings": {
       "New7ConfigureApplicationAccessPolicyMessage": "Använd detta PowerShell-skript för att begränsa Omnia att använda endast en specifik Exchange Online-postlåda för att skicka e-post.",
-      "New7TestConfigureApplicationAccessPolicyMessage": "För att testadet, använd detta PowerShell-skript",
+      "New7TestConfigureApplicationAccessPolicyMessage": "För test, använd detta PowerShell-skript",
       "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
       "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
     }
@@ -15,7 +15,7 @@
   "OmniaWorkplace": {
     "Analytics": {
       "admin": {
-        "matomoUserAssignmentMessage": "Observera! Om du inte hittar önskat företagsprofil måste du läggas till som en Matomo-användare i den företagsprofilen."
+        "matomoUserAssignmentMessage": "Observera! Om du inte hittar önskad verksamhetsprofil måste du läggas till som Matomo-användare i den verksamhetsprofilen."
       }
     },
     "Core": {
