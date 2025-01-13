@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "SharePointListTree": {
-        "InvalidSiteUrl": "SharePoint-webbplatsens URL är ogiltig. Kontrollera URL:en och försök igen."
+        "InvalidSiteUrl": "SharePoint-webbplatsens URL är ogiltig. Kontrollera denna URL och försök igen."
       },
       "User": {
         "Tokens": {
