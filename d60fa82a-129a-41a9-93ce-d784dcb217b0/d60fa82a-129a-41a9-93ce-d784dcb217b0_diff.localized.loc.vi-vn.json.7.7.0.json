@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Kích thước lô dịch tự động trang"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Størrelse af automatisk sideoversættelsesbatch"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Es gibt eine neue Version der Vorlage für dieses Dokument. Klicken Sie unten auf \"Aktualisieren auf die neueste Vorlagenversion\", um das Dokument mit der aktualisierten Vorlage zu überprüfen.",
+        "UpdateToLatestTemplateVersion": "Aktualisieren auf die neueste Vorlagenversion"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Sie sind dabei, ein Dokument mit einer älteren Version der Dokumentvorlage zu veröffentlichen. Klicken Sie unten auf \"Dokumenteigenschaften aktualisieren\", um Ihr Dokument auf die neueste Versionder Vorlage zu aktualisieren.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Sie müssen einen Dokumenttyp auswählen und alle erforderlichen Eigenschaften hinzufügen, umein Dokument veröffentlichen zu können. Beachten Sie auch, dass das Dokument eine ältere Version der Dokumentvorlage verwendet. Klicken Sie unten auf \"Dokumenteigenschaften aktualisieren\", um Ihr Dokument auf die neueste Versionder Vorlage zu aktualisieren."
+      }
+    }
+  }
+}
