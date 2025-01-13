@@ -21,7 +21,7 @@
       "Features": {
         "SPFxFontFamilyBase": {
           "Category": "System",
-          "Description": "Set default font family base to SharePoint.",
+          "Description": "Set default font family base for SharePoint.",
           "Title": "SPFx FontFamilyBase"
         }
       }
