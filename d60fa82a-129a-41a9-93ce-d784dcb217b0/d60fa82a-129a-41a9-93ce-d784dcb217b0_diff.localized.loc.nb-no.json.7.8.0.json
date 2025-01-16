@@ -2,7 +2,7 @@
   "WCM": {
     "Admin": {
       "Settings": {
-        "AutomaticPageTranslationBatchSize": "Automatisk sideoversettelsesbatchstørrelse"
+        "AutomaticPageTranslationBatchSize": "Batch-størrelse for automatisk sideoversettelse"
       }
     },
     "Editor": {
@@ -28,7 +28,7 @@
       "Descending": "Synkende",
       "Scope": {
         "Label": "Omfang",
-        "Tenant": "Leietaker",
+        "Tenant": "Tenant",
         "PublishingApps": "Publiseringsapper",
         "PageCollections": "Sidekolleksjoner",
         "NavigationPath": "Navigasjonssti",
@@ -84,7 +84,7 @@
           "Display": {
             "NewMessage": "Ny melding",
             "Content": "Innhold",
-            "MessageStyle": "Meldingsstil",
+            "MessageStyle": "Stil",
             "MessageType": {
               "TimeInDay": {
                 "ChooseDay": "Velg dag",
