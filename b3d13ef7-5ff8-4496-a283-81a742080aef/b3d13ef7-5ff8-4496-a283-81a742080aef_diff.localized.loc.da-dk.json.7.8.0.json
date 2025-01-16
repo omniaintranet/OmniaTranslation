@@ -7,14 +7,14 @@
     },
     "Core": {
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewerVersionMessage": "Der er en ny version af skabelonen til dette dokument tilgængelig. Klik på \"Opdater til nyeste skabelonversion\" nedenfor for at gennemgå dokumentet ved hjælp af den opdaterede skabelon.",
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Der er en ny version af skabelonen til dette dokument tilgængelig. Klik på \"Opdater til nyeste skabelonversion\" nedenfor for at gennemgå dokumentet med den opdaterede skabelon.",
         "UpdateToLatestTemplateVersion": "Opdater til nyeste skabelonversion"
       }
     },
     "DocumentLibrary": {
       "Messages": {
-        "MessageNeedToUpdateDocumentTemplate": "Du er ved at offentliggøre et dokument ved hjælp af en ældre version afdokumentskabelonen. Klik på \"Opdater dokumentegenskaber\" nedenfor for at opdatere dit dokument til at bruge den nyeste version af skabelonen.",
-        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Du skal vælge en dokumenttype og tilføje alle påkrævede egenskaber for at kunne offentliggøre et dokument. Bemærk også, at dokumentet bruger en ældre version af dokumentskabelonen. Klik på \"Opdater dokumentegenskaber\" nedenfor for at opdatere dit dokument til at bruge den nyeste version af skabelonen."
+        "MessageNeedToUpdateDocumentTemplate": "Du er ved at udgive et dokument ved hjælp af en ældre version af dokumentskabelonen. Klik på \"Opdater dokumentegenskaber\" nedenfor for at opdatere dit dokument til at bruge den nyeste version af skabelonen.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Du skal vælge en dokumenttype og tilføje alle påkrævede egenskaber for at kunne udgive et dokument. Bemærk også, at dokumentet bruger en ældre version af dokumentskabelonen. Klik på \"Opdater dokumentegenskaber\" nedenfor for at opdatere dit dokument til at bruge den nyeste version af skabelonen."
       }
     },
     "DocumentRollup": {
@@ -22,9 +22,9 @@
         "OpenInfo": "Åbn info",
         "OpenFeedback": "Åbn feedback",
         "OpenSignedDocuments": "Åbn underskrevne dokumenter",
-        "FoundRelatedDocuments": "Fundet {0} relaterede dokumenter",
-        "FoundRelatedProcesses": "Fundet {0} relaterede processer",
-        "FoundAppendices": "Fundet {0} bilag"
+        "FoundRelatedDocuments": "{0} relaterede dokumenter",
+        "FoundRelatedProcesses": "{0} relaterede processer",
+        "FoundAppendices": "{0} bilag"
       }
     }
   }
