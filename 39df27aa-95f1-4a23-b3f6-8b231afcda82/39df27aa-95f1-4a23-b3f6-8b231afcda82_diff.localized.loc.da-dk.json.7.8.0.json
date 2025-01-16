@@ -15,7 +15,7 @@
   "OmniaWorkplace": {
     "Analytics": {
       "admin": {
-        "matomoUserAssignmentMessage": "Bemærk! Hvis du ikke finder den ønskede forretningsprofil, skal du tilføjes som en Matomo-bruger i den forretningsprofil."
+        "matomoUserAssignmentMessage": "Bemærk! Hvis du ikke finder den ønskede virksomhedsprofil, skal du tilføjes som en Matomo-bruger i profilen."
       }
     },
     "Core": {
