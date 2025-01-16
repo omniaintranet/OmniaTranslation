@@ -21,7 +21,7 @@
       "Features": {
         "SPFxFontFamilyBase": {
           "Category": "System",
-          "Description": "Indstil standard skrifttypefamilie til SharePoint.",
+          "Description": "Indstil standard skrifttype for SharePoint.",
           "Title": "SPFx FontFamilyBase"
         }
       }
