@@ -2,7 +2,7 @@
   "WCM": {
     "Admin": {
       "Settings": {
-        "AutomaticPageTranslationBatchSize": "Størrelse af automatisk sideoversættelsesbatch"
+        "AutomaticPageTranslationBatchSize": "Batch-størrelse for automatisk sideoversættelse"
       }
     },
     "Editor": {
@@ -27,13 +27,13 @@
       "Ascending": "Stigende",
       "Descending": "Faldende",
       "Scope": {
-        "Label": "Område",
-        "Tenant": "Lejer",
+        "Label": "Etiket",
+        "Tenant": "Tenant",
         "PublishingApps": "Publiceringsapps",
-        "PageCollections": "Sidekollektioner",
+        "PageCollections": "Sidebiblioteker",
         "NavigationPath": "Navigationssti",
         "Channels": "Kanaler",
-        "BusinessProfiles": "Forretningsprofiler",
+        "BusinessProfiles": "Virksomhedsprofiler",
         "Apps": "Apps"
       },
       "ExcludeVariations": "Udeluk variationer",
@@ -54,13 +54,13 @@
         "CurrentVariation": "Nuværende variation"
       },
       "IncludeEmpty": "Inkluder tomme",
-      "TermSetNotFound": "Term sæt ikke fundet",
-      "CurrentPageCollection": "Nuværende sidekollektion",
+      "TermSetNotFound": "Ordsæt ikke fundet",
+      "CurrentPageCollection": "Nuværende sidebibliotek",
       "CurrentApp": "Nuværende publiceringsapp",
       "Others": "Andre...",
-      "InvalidPageCollectionUrl": "Ugyldig sidekollektions-URL",
+      "InvalidPageCollectionUrl": "Ugyldig URL til sidebibliotek",
       "Resolve": "Løs",
-      "UrlToPageCollection": "URL til sidekollektion"
+      "UrlToPageCollection": "URL til sidebibliotek"
     },
     "SignOffRequest": {
       "Button": {
@@ -84,7 +84,7 @@
           "Display": {
             "NewMessage": "Ny besked",
             "Content": "Indhold",
-            "MessageStyle": "Beskedstil",
+            "MessageStyle": "Stil",
             "MessageType": {
               "TimeInDay": {
                 "ChooseDay": "Vælg dag",
