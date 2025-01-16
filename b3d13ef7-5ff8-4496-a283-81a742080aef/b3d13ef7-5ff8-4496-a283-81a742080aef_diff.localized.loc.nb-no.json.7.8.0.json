@@ -7,7 +7,7 @@
     },
     "Core": {
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewerVersionMessage": "Det finnes en ny versjon av malen for dette dokumentet. Klikk på \"Oppdatertil nyeste malversjon\" nedenfor for å gjennomgå dokumentet med den oppdaterte malen.",
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Det finnes en ny versjon av malen for dette dokumentet. Klikk på \"Oppdater til nyeste malversjon\" nedenfor for å gjennomgå dokumentet med den oppdaterte malen.",
         "UpdateToLatestTemplateVersion": "Oppdater til nyeste malversjon"
       }
     },
@@ -22,9 +22,9 @@
         "OpenInfo": "Åpne informasjon",
         "OpenFeedback": "Åpne tilbakemeldinger",
         "OpenSignedDocuments": "Åpne signerte dokumenter",
-        "FoundRelatedDocuments": "Fant {0} relaterte dokumenter",
-        "FoundRelatedProcesses": "Fant {0} relaterte prosesser",
-        "FoundAppendices": "Fant {0} vedlegg"
+        "FoundRelatedDocuments": "{0} relaterte dokumenter",
+        "FoundRelatedProcesses": "{0} relaterte prosesser",
+        "FoundAppendices": "{0} vedlegg"
       }
     }
   }
