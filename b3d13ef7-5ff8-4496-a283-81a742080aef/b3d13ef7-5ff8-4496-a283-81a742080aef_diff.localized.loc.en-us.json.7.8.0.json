@@ -8,12 +8,12 @@
     },
     "SignOffRequest": {
       "Button": {
-        "OpenDetail": "Open Detail"
+        "OpenDetail": "Open detail"
       }
     },
     "Core": {
       "TemplateMerge": {
-        "LinkedDocumentTemplateHasNewerVersionMessage": "The template of this document has a newer version.  Click \"Update to latest template version\" below to review how the new template looks on your document.",
+        "LinkedDocumentTemplateHasNewerVersionMessage": "The template of this document has a newer version. Click \"Update to latest template version\" below to review how the new template looks on your document.",
         "UpdateToLatestTemplateVersion": "Update to latest template version"
       }
     },
