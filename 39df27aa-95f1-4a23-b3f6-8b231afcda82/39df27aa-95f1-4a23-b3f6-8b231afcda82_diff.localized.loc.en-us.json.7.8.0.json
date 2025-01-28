@@ -1,0 +1,136 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI features: AI search"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI features: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Note! Once created, a semantic search queryable property cannot be removed."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI features",
+      "GeneralSetting": {
+        "ModelConfiguration": "Model configuration",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Deployment name"
+        }
+      }
+    },
+    "Regional": {
+      "FirstDayOfWeek": "First day of week",
+      "Monday": "Monday",
+      "Sunday": "Sunday"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell script to restrict Omnia to use only a specific Exchange Online mailbox to send email.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "To test it use this PowerShell Script",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy -AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI features: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Application id",
+      "ClientIdKey": "Client id",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Client secret"
+    },
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Note! If you don't find the desired business profile, you need to be added as a Matomo user in that business profile."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Footer",
+          "Category": "System",
+          "Description": "Show the footer in SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Deleted user"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Link added to My links successfully",
+        "DeleteMyLinksMessage": "Link deleted from My links successfully",
+        "RemoveMyLinksMessage": "Link removed from My links successfully"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Hidden"
+          }
+        },
+        "Users": "Users",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Display name",
+          "AddFilter": "Add filter"
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Always open in new tab",
+        "SearchReadyMessage": "Search ready"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "See {0} more results",
+        "GoToAdvancedSearch": "Go to advanced search"
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Pages",
+          "Users": "Users"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Omnia search"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Follow for",
+        "UnFollowFor": "Unfollow for"
+      },
+      "AppTypes": {
+        "GoToTeams": "Go to Teams for"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "First day Of Week",
+            "Monday": "Monday",
+            "Sunday": "Sunday"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevance"
+      }
+    }
+  }
+}

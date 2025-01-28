@@ -1,0 +1,146 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Automatic page translation batch size"
+      },
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Resume from last sync",
+        "ResumeFromLastSyncTitle": "Resume from last sync",
+        "ResumeFromLastSyncDescription": "Are you sure you want to resume from last sync on tenant?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "The term with ID {0} could not be found."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Delete analysis",
+            "Message": "Are you sure you want to delete this analysis?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Note: In order for the page to be indexed for semantic search, it needs to be re-published."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Pages",
+      "SortBy": "Sort by",
+      "SortDirection": "Sort direction",
+      "Ascending": "Ascending",
+      "Descending": "Descending",
+      "Scope": {
+        "Label": "Scope",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publishing apps",
+        "PageCollections": "Page collections",
+        "NavigationPath": "Navigation path",
+        "Channels": "Channels",
+        "BusinessProfiles": "Business profiles",
+        "Apps": "Apps"
+      },
+      "ExcludeVariations": "Exclude variations",
+      "AddFilter": "Add filter",
+      "PageType": "Page Type",
+      "Variation": "Variation",
+      "LanguageSettings": {
+        "Language": "Language",
+        "CurrentUser": "Current user",
+        "FixedValue": "Fixed Value"
+      },
+      "Channels": "Channels",
+      "FixedValue": "Fixed value",
+      "FilterByUserSubscription": "Filter by user subscription",
+      "PageVariationType": {
+        "CurrentUserVariation": "Current User",
+        "DefaultVariation": "Default variation",
+        "CurrentVariation": "Current Variation"
+      },
+      "IncludeEmpty": "Include empty",
+      "TermSetNotFound": "Term set not found",
+      "CurrentPageCollection": "Current page collection",
+      "CurrentApp": "Current publishing app",
+      "Others": "Others...",
+      "InvalidPageCollectionUrl": "Invalid page collection URL",
+      "Resolve": "Resolve",
+      "UrlToPageCollection": "URL to page collection"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Open detail"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "All day",
+          "Morning": "Morning",
+          "Afternoon": "Afternoon",
+          "Evening": "Evening",
+          "Custom": "Custom"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profile image",
+            "Messages": "Messages"
+          },
+          "Display": {
+            "NewMessage": "New message",
+            "Content": "Content",
+            "MessageStyle": "Message style",
+            "MessageType": {
+              "TimeInDay": {
+                "DisplayTime": "Display time",
+                "From": "From",
+                "To": "To"
+              },
+              "DayOfWeek": {
+                "Info": "Every {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Elevation",
+                "BorderWidth": "Border width",
+                "BorderColor": "Border color"
+              },
+              "Message": {
+                "Color": "Text color",
+                "FontSize": "Font size"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "The mail participants functionality has exceed the limitation of URL, please click on each buttons below to open separate mail client apps."
+        },
+        "Buttons": {
+          "MailParticipants": "Mail Participants"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} comments",
+        "Likes": "{0} likes"
+      }
+    }
+  }
+}

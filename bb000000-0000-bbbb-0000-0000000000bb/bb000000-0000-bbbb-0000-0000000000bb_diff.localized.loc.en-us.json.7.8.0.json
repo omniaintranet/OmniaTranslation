@@ -1,0 +1,44 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "The SharePoint site URL is invalid. Please check the URL and try again."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Username"
+        }
+      },
+      "IdentityPicker": {
+        "FindUser": "Find user",
+        "FindGroup": "Find group",
+        "FindUserOrGroup": "Find user or group"
+      },
+      "Features": {
+        "AIEngine": {
+          "SemanticSearch": {
+            "Category": "System",
+            "Title": "Semantic search",
+            "Description": "Enable this feature to give your system access to the Semantic Search"
+          }
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Option {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "System",
+          "Description": "Set default font family base to SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}
