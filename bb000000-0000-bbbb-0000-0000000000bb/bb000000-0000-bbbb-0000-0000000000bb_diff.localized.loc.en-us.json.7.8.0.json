@@ -18,7 +18,7 @@
         "AIEngine": {
           "SemanticSearch": {
             "Category": "System",
-            "Title": "Semantic Search",
+            "Title": "Semantic search",
             "Description": "Enable this feature to give your system access to the Semantic Search"
           }
         }
