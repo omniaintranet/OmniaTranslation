@@ -1,10 +1,10 @@
 {
   "OTAD": {
     "AISearchConfig": {
-      "AISearchSecretTitle": "AI Features: AI Search"
+      "AISearchSecretTitle": "AI features: AI search"
     },
     "OpenAIApiConfig": {
-      "OpenAISecretTitle": "AI Features: OpenAI API"
+      "OpenAISecretTitle": "AI features: OpenAI API"
     },
     "SemanticSearch": {
       "QueryableProperties": {
@@ -14,12 +14,12 @@
       }
     },
     "AIEngineSettings": {
-      "AIFeatures": "AI Features",
+      "AIFeatures": "AI features",
       "GeneralSetting": {
-        "ModelConfiguration": "Model Configuration",
+        "ModelConfiguration": "Model configuration",
         "DallEConfig": {
           "Title": "Dall-E",
-          "DeploymentName": "Deployment Name"
+          "DeploymentName": "Deployment name"
         }
       }
     },
@@ -41,10 +41,10 @@
     },
     "Unplash": {
       "UnplashSecretTitle": "Unplash",
-      "ApplicationId": "Application Id",
-      "ClientIdKey": "Client Id",
+      "ApplicationId": "Application id",
+      "ClientIdKey": "Client id",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "SecretKey": "Client Secret"
+      "SecretKey": "Client secret"
     },
     "Analytics": {
       "admin": {
@@ -60,14 +60,14 @@
         }
       },
       "Common": {
-        "DeletedUser": "Deleted User"
+        "DeletedUser": "Deleted user"
       }
     },
     "LinksManagement": {
       "MyLinks": {
-        "AddMyLinksMessage": "Link added to My Links successfully",
-        "DeleteMyLinksMessage": "Link deleted from My Links successfully",
-        "RemoveMyLinksMessage": "Link removed from My Links successfully"
+        "AddMyLinksMessage": "Link added to My links successfully",
+        "DeleteMyLinksMessage": "Link deleted from My links successfully",
+        "RemoveMyLinksMessage": "Link removed from My links successfully"
       }
     },
     "Search": {
@@ -79,12 +79,12 @@
         },
         "Users": "Users",
         "SearchResultSourceSettings": {
-          "DisplayName": "Display Name",
+          "DisplayName": "Display name",
           "AddFilter": "Add filter"
         }
       },
       "SearchBlock": {
-        "AlwaysOpenInNewTab": "Always open in a new tab",
+        "AlwaysOpenInNewTab": "Always open in new tab",
         "SearchReadyMessage": "Search ready"
       },
       "QuickSearch": {
@@ -98,7 +98,7 @@
         }
       },
       "SearchProviders": {
-        "OmniaSearch": "Omnia Search"
+        "OmniaSearch": "Omnia search"
       }
     }
   },
@@ -118,7 +118,7 @@
       "SetupWizard": {
         "General": {
           "DateTime": {
-            "FirstDayOfWeekLabel": "First Day Of Week",
+            "FirstDayOfWeekLabel": "First day Of Week",
             "Monday": "Monday",
             "Sunday": "Sunday"
           }
