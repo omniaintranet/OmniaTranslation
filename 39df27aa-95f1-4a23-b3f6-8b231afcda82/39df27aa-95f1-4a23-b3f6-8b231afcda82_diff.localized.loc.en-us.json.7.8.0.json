@@ -37,10 +37,10 @@
   },
   "OmniaWorkplace": {
     "DallE": {
-      "DallESecretTitle": "AI Features: Dall-E"
+      "DallESecretTitle": "AI features: Dall-E"
     },
     "Unplash": {
-      "UnplashSecretTitle": "Unplash",
+      "UnplashSecretTitle": "Unsplash",
       "ApplicationId": "Application id",
       "ClientIdKey": "Client id",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
