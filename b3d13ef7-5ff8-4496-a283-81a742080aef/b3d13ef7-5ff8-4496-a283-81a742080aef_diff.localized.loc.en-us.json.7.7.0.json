@@ -1,0 +1,16 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "There is a new version of the template for this document. Click \"Update to latest template version\" below to update your document to use the latest version of the template.",
+        "UpdateToLatestTemplateVersion": "Update to latest template version"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "You are about to publish a document using an older version of the document template. Click the \"Update document properties\" below to update your document to use the latest version of the template.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "You need to select a document type and add all required properties to be able to publish a document. Beseides that, the document is using an older version of the document template. Click the \"Update document properties\" below to update your document to use the latest version of the template."
+      }
+    }
+  }
+}
