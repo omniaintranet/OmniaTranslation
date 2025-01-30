@@ -1,0 +1,31 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Mở chi tiết"
+      }
+    },
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Có một phiên bản mới của mẫu cho tài liệu này. Nhấp vào \"Cập nhật lên phiên bản mẫu mới nhất\" bên dưới để xem lại tài liệu sử dụng mẫu đã cập nhật.",
+        "UpdateToLatestTemplateVersion": "Cập nhật lên phiên bản mẫu mới nhất"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Bạn đang chuẩn bị xuất bản một tài liệu sử dụng phiên bản cũ hơn của mẫu tài liệu.Nhấp vào \"Cập nhật thuộc tính tài liệu\" bên dưới để cập nhật tài liệu của bạn để sử dụng phiên bản mới nhất của mẫu.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Bạn cần chọn một loại tài liệu và thêm tất cả các thuộc tính cần thiết để có thể xuất bản tài liệu. Lưu ý rằng tài liệu đang sử dụng phiên bản cũ hơn của mẫu tài liệu. Nhấp vào \"Cập nhật thuộc tính tài liệu\" bên dưới để cập nhật tài liệu của bạn để sử dụng phiên bản mới nhất của mẫu."
+      }
+    },
+    "DocumentRollup": {
+      "ListView": {
+        "OpenInfo": "Mởthông tin",
+        "OpenFeedback": "Mở phản hồi",
+        "OpenSignedDocuments": "Mở tài liệu đã ký",
+        "FoundRelatedDocuments": "Tìm thấy {0} tài liệu liên quan",
+        "FoundRelatedProcesses": "Tìm thấy {0} quy trình liên quan",
+        "FoundAppendices": "Tìm thấy {0} phụ lục"
+      }
+    }
+  }
+}

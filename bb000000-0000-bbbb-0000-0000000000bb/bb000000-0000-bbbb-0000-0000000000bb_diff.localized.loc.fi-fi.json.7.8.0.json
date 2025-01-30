@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "SharePoint-sivuston URL on virheellinen. Tarkista URL ja yritä uudelleen."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Käyttäjänimi"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Valinta {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "Järjestelmä",
+          "Description": "Aseta SharePointin oletusfonttiperusta.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

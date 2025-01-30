@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Första dagen i veckan",
+      "Monday": "Måndag",
+      "Sunday": "Söndag"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Använd detta PowerShell-skript för att begränsa Omnia att använda endast en specifik Exchange Online-postlåda för att skicka e-post.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "För test, använd detta PowerShell-skript",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Observera! Om du inte hittar önskad verksamhetsprofil måste du läggas till som Matomo-användare i den verksamhetsprofilen."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Sidfot",
+          "Category": "System",
+          "Description": "Visa sidfoten i SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Borttagen användare"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Länk tillagd i Mina länkar",
+        "DeleteMyLinksMessage": "Länk borttagen från Mina länkar",
+        "RemoveMyLinksMessage": "Länk borttagen från Mina länkar"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Användare",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Visningsnamn",
+          "AddFilter": "Lägg till filter"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Sidor",
+          "Users": "Användare"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Omnia-sökning"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Följ för",
+        "UnFollowFor": "Sluta följa för"
+      },
+      "AppTypes": {
+        "GoToTeams": "Gå till Teams för"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Första dagen i veckan",
+            "Monday": "Måndag",
+            "Sunday": "Söndag"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevans"
+      }
+    }
+  }
+}

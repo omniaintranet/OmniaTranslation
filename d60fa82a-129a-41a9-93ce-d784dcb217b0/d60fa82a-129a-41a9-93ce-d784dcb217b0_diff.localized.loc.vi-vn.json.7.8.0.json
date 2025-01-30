@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Kích thước lô dịch tự động trang"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Xóa phân tích",
+            "Message": "Bạn có chắc chắn muốn xóa phân tích này không?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Lưu ý: Để trang được lậpchỉ mục cho tìm kiếm ngữ nghĩa, nó phải được xuất bản lại."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Trang",
+      "SortBy": "Sắp xếp theo",
+      "SortDirection": "Hướng sắp xếp",
+      "Ascending": "Tăng dần",
+      "Descending": "Giảm dần",
+      "Scope": {
+        "Label": "Phạm vi",
+        "Tenant": "Người thuê",
+        "PublishingApps": "Ứng dụngxuất bản",
+        "PageCollections": "Bộ sưu tập trang",
+        "NavigationPath": "Đường dẫn điều hướng",
+        "Channels": "Kênh",
+        "BusinessProfiles": "Hồ sơ doanh nghiệp",
+        "Apps": "Ứng dụng"
+      },
+      "ExcludeVariations": "Loại trừ biến thể",
+      "AddFilter": "Thêm bộ lọc",
+      "PageType": "Loại trang",
+      "Variation": "Biến thể",
+      "LanguageSettings": {
+        "Language": "Ngôn ngữ",
+        "CurrentUser": "Người dùng hiện tại",
+        "FixedValue": "Giá trị cố định"
+      },
+      "Channels": "Kênh",
+      "FixedValue": "Giá trị cố định",
+      "FilterByUserSubscription": "Lọc theo đăng ký người dùng",
+      "PageVariationType": {
+        "CurrentUserVariation": "Người dùng hiện tại",
+        "DefaultVariation": "Biến thể mặc định",
+        "CurrentVariation": "Biến thể hiện tại"
+      },
+      "IncludeEmpty": "Bao gồm trống",
+      "TermSetNotFound": "Không tìm thấy bộ thuật ngữ",
+      "CurrentPageCollection": "Bộ sưu tập trang hiện tại",
+      "CurrentApp": "Ứng dụng xuất bản hiện tại",
+      "Others": "Khác...",
+      "InvalidPageCollectionUrl": "URL bộ sưu tậptrang không hợp lệ",
+      "Resolve": "Giải quyết",
+      "UrlToPageCollection": "URL đến bộ sưutập trang"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Mở chi tiết"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Cả ngày",
+          "Morning": "Buổi sáng",
+          "Afternoon": "Buổi chiều",
+          "Evening": "Buổi tối",
+          "Custom": "Tùy chỉnh"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Hình ảnh hồ sơ",
+            "Messages": "Tin nhắn"
+          },
+          "Display": {
+            "NewMessage": "Tin nhắn mới",
+            "Content": "Nộidung",
+            "MessageStyle": "Kiểu tin nhắn",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Chọn ngày",
+                "DisplayTime": "Hiển thị thời gian",
+                "From": "Từ",
+                "To": "Đến"
+              },
+              "DayOfWeek": {
+                "Info": "Mỗi {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Độ nâng",
+                "BorderWidth": "Độ rộng viền",
+                "BorderColor": "Màu viền"
+              },
+              "Message": {
+                "Color": "Màu văn bản",
+                "FontSize": "Cỡ chữ"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Số lượng người tham gia không thể gửi trong một lô. Vui lòng nhấp vào từng nút bên dưới để mở ứng dụng thư điện tử tương ứng."
+        },
+        "Buttons": {
+          "MailParticipants": "Gửi thư cho người tham gia"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} bình luận",
+        "Likes": "{0}lượt thích"
+      }
+    }
+  }
+}

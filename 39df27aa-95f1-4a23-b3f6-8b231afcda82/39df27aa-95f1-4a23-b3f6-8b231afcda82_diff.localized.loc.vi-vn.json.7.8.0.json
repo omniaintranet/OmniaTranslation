@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Ngày đầu tuần",
+      "Monday": "Thứ Hai",
+      "Sunday": "Chủ Nhật"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Sử dụng kịch bản PowerShell này để hạn chế Omnia chỉ sử dụng một hộp thư Exchange Online cụ thể để gửi Email.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Để kiểm tra, sử dụng kịch bản PowerShell này",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "Lưu ý! Nếu bạn không tìm thấy hồ sơ kinh doanh mong muốn, bạn cần được thêm vào làm người dùng Matomo trong hồ sơ kinh doanh đó."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Chân trang",
+          "Category": "Hệ thống",
+          "Description": "Hiển thị chân trang trong SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Người dùng đã xóa"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Liên kết đã được thêm vào My links thành công",
+        "DeleteMyLinksMessage": "Liên kết đã được xóa khỏi My links thành công",
+        "RemoveMyLinksMessage": "Liên kết đã được gỡ bỏ khỏi My links thành công"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Người dùng",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Tên hiển thị",
+          "AddFilter": "Thêm bộ lọc"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Trang",
+          "Users": "Người dùng"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Tìm kiếm Omnia"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Theo dõi cho",
+        "UnFollowFor": "Bỏ theo dõi cho"
+      },
+      "AppTypes": {
+        "GoToTeams": "Chuyển đến Teams cho"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Ngày đầu tuần",
+            "Monday": "Thứ Hai",
+            "Sunday": "Chủ Nhật"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Sắp xếp theo liên quan"
+      }
+    }
+  }
+}

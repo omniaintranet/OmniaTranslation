@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Batch-størrelse for automatisk sideoversettelse"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Slett analyse",
+            "Message": "Er du sikker på at du vil slettedenne analysen?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Merk: For at siden skal indekseres for semantisk søk, må den publiseres på nytt."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Sider",
+      "SortBy": "Sorter etter",
+      "SortDirection": "Sorteringsretning",
+      "Ascending": "Stigende",
+      "Descending": "Synkende",
+      "Scope": {
+        "Label": "Omfang",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publiseringsapper",
+        "PageCollections": "Sidekolleksjoner",
+        "NavigationPath": "Navigasjonssti",
+        "Channels": "Kanaler",
+        "BusinessProfiles": "Forretningsprofiler",
+        "Apps": "Apper"
+      },
+      "ExcludeVariations": "Ekskluder variasjoner",
+      "AddFilter": "Legg til filter",
+      "PageType": "Sidetype",
+      "Variation": "Variasjon",
+      "LanguageSettings": {
+        "Language": "Språk",
+        "CurrentUser": "Gjeldende bruker",
+        "FixedValue": "Fast verdi"
+      },
+      "Channels": "Kanaler",
+      "FixedValue": "Fast verdi",
+      "FilterByUserSubscription": "Filtrer etter brukerabonnement",
+      "PageVariationType": {
+        "CurrentUserVariation": "Gjeldende bruker",
+        "DefaultVariation": "Standardvariasjon",
+        "CurrentVariation": "Gjeldende variasjon"
+      },
+      "IncludeEmpty": "Inkluder tomme",
+      "TermSetNotFound": "Termsett ikke funnet",
+      "CurrentPageCollection": "Gjeldende sidekolleksjon",
+      "CurrentApp": "Gjeldende publiseringsapp",
+      "Others": "Andre...",
+      "InvalidPageCollectionUrl": "Ugyldig URL forsidekolleksjon",
+      "Resolve": "Løs",
+      "UrlToPageCollection": "URL til sidekolleksjon"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Åpne detaljer"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Hele dagen",
+          "Morning": "Morgen",
+          "Afternoon": "Ettermiddag",
+          "Evening": "Kveld",
+          "Custom": "Tilpasset"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profilbilde",
+            "Messages": "Meldinger"
+          },
+          "Display": {
+            "NewMessage": "Ny melding",
+            "Content": "Innhold",
+            "MessageStyle": "Stil",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Velg dag",
+                "DisplayTime": "Vis tid",
+                "From": "Fra",
+                "To": "Til"
+              },
+              "DayOfWeek": {
+                "Info": "Hver {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Heving",
+                "BorderWidth": "Kantbredde",
+                "BorderColor": "Kantfarge"
+              },
+              "Message": {
+                "Color": "Tekstfarge",
+                "FontSize": "Skriftstørrelse"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Antallet deltakere kan ikke sendes i én batch. Klikk på hverknapp nedenfor for å åpne de respektive e-postklientappene."
+        },
+        "Buttons": {
+          "MailParticipants": "Send deltakere e-post"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} kommentarer",
+        "Likes": "{0} liker"
+      }
+    }
+  }
+}

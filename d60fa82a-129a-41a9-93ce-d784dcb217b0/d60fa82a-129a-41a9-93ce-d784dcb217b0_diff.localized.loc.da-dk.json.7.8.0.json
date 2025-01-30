@@ -1,0 +1,135 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Batch-størrelse for automatisk sideoversættelse"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "AnalysisPage": {
+          "DeleteConfirmation": {
+            "Title": "Slet analyse",
+            "Message": "Er du sikker på, at du vil slette denne analyse?"
+          }
+        },
+        "Panels": {
+          "SemanticSearch": {
+            "ReindexMessage": "Bemærk: For at siden kan indekseres til semantisk søgning, skal den genudgives."
+          }
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Pages": "Sider",
+      "SortBy": "Sorter efter",
+      "SortDirection": "Sorteringsretning",
+      "Ascending": "Stigende",
+      "Descending": "Faldende",
+      "Scope": {
+        "Label": "Omfang",
+        "Tenant": "Tenant",
+        "PublishingApps": "Publiceringsapps",
+        "PageCollections": "Sidebiblioteker",
+        "NavigationPath": "Navigationssti",
+        "Channels": "Kanaler",
+        "BusinessProfiles": "Virksomhedsprofiler",
+        "Apps": "Apps"
+      },
+      "ExcludeVariations": "Udeluk variationer",
+      "AddFilter": "Tilføj filter",
+      "PageType": "Sidetype",
+      "Variation": "Variation",
+      "LanguageSettings": {
+        "Language": "Sprog",
+        "CurrentUser": "Nuværende bruger",
+        "FixedValue": "Fast værdi"
+      },
+      "Channels": "Kanaler",
+      "FixedValue": "Fast værdi",
+      "FilterByUserSubscription": "Filtrer efter brugerabonnement",
+      "PageVariationType": {
+        "CurrentUserVariation": "Nuværende bruger",
+        "DefaultVariation": "Standardvariation",
+        "CurrentVariation": "Nuværende variation"
+      },
+      "IncludeEmpty": "Inkluder tomme",
+      "TermSetNotFound": "Ordsæt ikke fundet",
+      "CurrentPageCollection": "Nuværende sidebibliotek",
+      "CurrentApp": "Nuværende publiceringsapp",
+      "Others": "Andre...",
+      "InvalidPageCollectionUrl": "Ugyldig URL til sidebibliotek",
+      "Resolve": "Løs",
+      "UrlToPageCollection": "URL til sidebibliotek"
+    },
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Åbn detaljer"
+      }
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "TimePeriod": {
+          "AllDay": "Hele dagen",
+          "Morning": "Morgen",
+          "Afternoon": "Eftermiddag",
+          "Evening": "Aften",
+          "Custom": "Brugerdefineret"
+        },
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profilbillede",
+            "Messages": "Beskeder"
+          },
+          "Display": {
+            "NewMessage": "Ny besked",
+            "Content": "Indhold",
+            "MessageStyle": "Stil",
+            "MessageType": {
+              "TimeInDay": {
+                "ChooseDay": "Vælg dag",
+                "DisplayTime": "Vis tid",
+                "From": "Fra",
+                "To": "Til"
+              },
+              "DayOfWeek": {
+                "Info": "Hver {day}"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "Elevation": "Højde",
+                "BorderWidth": "Kantbredde",
+                "BorderColor": "Kantfarve"
+              },
+              "Message": {
+                "Color": "Tekstfarve",
+                "FontSize": "Skriftstørrelse"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "Messages": {
+          "MailParticipantOverflowInfo": "Antallet af deltagere kan ikke sendes i én batch. Klik på hver knap nedenfor for at åbne de respektive mailklientapps."
+        },
+        "Buttons": {
+          "MailParticipants": "Send deltagere en mail"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Comments": "{0} kommentarer",
+        "Likes": "{0} synes godt om"
+      }
+    }
+  }
+}

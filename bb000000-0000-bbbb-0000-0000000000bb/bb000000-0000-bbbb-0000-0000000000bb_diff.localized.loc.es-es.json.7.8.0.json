@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "SharePointListTree": {
+        "InvalidSiteUrl": "La URLdel sitio de SharePoint no es válida. Por favor, verifica la URL e intenta nuevamente."
+      },
+      "User": {
+        "Tokens": {
+          "Username": "Nombre de usuario"
+        }
+      },
+      "FilterEngine": {
+        "Renderer": {
+          "Message": {
+            "OptionSelected": "Opción {0}"
+          }
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Category": "Sistema",
+          "Description": "Establece la fuente base por defecto para SharePoint.",
+          "Title": "SPFx FontFamilyBase"
+        }
+      }
+    }
+  }
+}

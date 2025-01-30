@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "Regional": {
+      "FirstDayOfWeek": "Primer día de la semana",
+      "Monday": "Lunes",
+      "Sunday": "Domingo"
+    },
+    "CustomEmailSettings": {
+      "New7ConfigureApplicationAccessPolicyMessage": "Utilice este script de PowerShell para restringir Omnia a utilizar solo un buzón específico de Exchange Online para enviar correos electrónicos.",
+      "New7TestConfigureApplicationAccessPolicyMessage": "Para probarlo,utilice este script de PowerShell",
+      "New7TestConfigureApplicationAccessPolicyPS": "Test-ApplicationAccessPolicy -Identity {{emailIdentity}} -AppId {{appId}}",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy-AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\""
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "matomoUserAssignmentMessage": "¡Nota! Si no encuentra el perfil empresarial deseado, debe ser agregado como usuario de Matomo en ese perfil empresarial."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ShowFooter": {
+          "Title": "Pie de página",
+          "Category": "Sistema",
+          "Description": "Mostrar el pie de página en SharePoint."
+        }
+      },
+      "Common": {
+        "DeletedUser": "Usuario eliminado"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "AddMyLinksMessage": "Enlace agregado a Mis enlaces correctamente",
+        "DeleteMyLinksMessage": "Enlace eliminado de Mis enlaces correctamente",
+        "RemoveMyLinksMessage": "Enlace eliminado de Mis enlaces correctamente"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "Users": "Usuarios",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Nombre para mostrar",
+          "AddFilter": "Agregar filtro"
+        }
+      },
+      "ResultSource": {
+        "OmniaSearch": {
+          "Pages": "Páginas",
+          "Users": "Usuarios"
+        }
+      },
+      "SearchProviders": {
+        "OmniaSearch": "Búsqueda de Omnia"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationRollup": {
+      "Common": {
+        "FollowFor": "Seguir para",
+        "UnFollowFor": "Dejar de seguir para"
+      },
+      "AppTypes": {
+        "GoToTeams": "Ir a Teams para"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "General": {
+          "DateTime": {
+            "FirstDayOfWeekLabel": "Primer día de la semana",
+            "Monday": "Lunes",
+            "Sunday": "Domingo"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "RelevanceSort": "Relevancia"
+      }
+    }
+  }
+}

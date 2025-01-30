@@ -1,0 +1,31 @@
+{
+  "ODM": {
+    "SignOffRequest": {
+      "Button": {
+        "OpenDetail": "Åpne detaljer"
+      }
+    },
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Det finnes en ny versjon av malen for dette dokumentet. Klikk på \"Oppdater til nyeste malversjon\" nedenfor for å gjennomgå dokumentet med den oppdaterte malen.",
+        "UpdateToLatestTemplateVersion": "Oppdater til nyeste malversjon"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Du er i ferd med å publisere et dokument ved hjelp av en eldre versjon av dokumentmalen. Klikk på \"Oppdater dokumentegenskaper\" nedenfor for å oppdateredokumentet ditt til å bruke den nyeste versjonen av malen.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Du må velge en dokumenttype og legge til alle nødvendige egenskaper for å kunne publisere et dokument. Merk også at dokumentet bruker en eldre versjon av dokumentmalen. Klikk på \"Oppdater dokumentegenskaper\" nedenfor for å oppdatere dokumentet ditt til å bruke den nyeste versjonen av malen."
+      }
+    },
+    "DocumentRollup": {
+      "ListView": {
+        "OpenInfo": "Åpne informasjon",
+        "OpenFeedback": "Åpne tilbakemeldinger",
+        "OpenSignedDocuments": "Åpne signerte dokumenter",
+        "FoundRelatedDocuments": "{0} relaterte dokumenter",
+        "FoundRelatedProcesses": "{0} relaterte prosesser",
+        "FoundAppendices": "{0} vedlegg"
+      }
+    }
+  }
+}
