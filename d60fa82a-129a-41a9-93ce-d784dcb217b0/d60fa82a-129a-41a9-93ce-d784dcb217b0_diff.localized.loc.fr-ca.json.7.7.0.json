@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "Admin": {
+      "Settings": {
+        "AutomaticPageTranslationBatchSize": "Taille du lot de traduction automatique des pages"
+      }
+    }
+  }
+}

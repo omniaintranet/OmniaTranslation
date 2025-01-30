@@ -1,0 +1,16 @@
+{
+  "ODM": {
+    "Core": {
+      "TemplateMerge": {
+        "LinkedDocumentTemplateHasNewerVersionMessage": "Il existe une nouvelle version du modèle pour ce document. Cliquez sur \"Mettre à jour vers la dernière version du modèle\" ci-dessous pourexaminer le document en utilisant le modèle mis à jour.",
+        "UpdateToLatestTemplateVersion": "Mettre à jour vers la dernière version du modèle"
+      }
+    },
+    "DocumentLibrary": {
+      "Messages": {
+        "MessageNeedToUpdateDocumentTemplate": "Vous êtes sur le point de publier un document en utilisant une version plus ancienne du modèle de document. Cliquez sur \"Mettre à jour les propriétés du document\" ci-dessous pour mettre à jour votre document en utilisant la dernièreversion du modèle.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "Vous devez sélectionner un type de document et ajouter toutes les propriétés requisespour pouvoir publier un document. Notez également que le document utilise une version plus ancienne du modèle de document. Cliquez sur \"Mettre à jour les propriétés du document\" ci-dessous pour mettre à jour votre document en utilisant la dernière version du modèle."
+      }
+    }
+  }
+}
