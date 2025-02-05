@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "FindUser": "Buscar usuario",
+        "FindGroup": "Buscar grupo",
+        "FindUserOrGroup": "Buscar usuario o grupo"
+      },
+      "Features": {
+        "AIEngine": {
+          "SemanticSearch": {
+            "Category": "Sistema",
+            "Title": "Búsqueda semántica",
+            "Description": "Activa esta función para permitir que tu sistema utilice la búsqueda semántica."
+          }
+        }
+      }
+    }
+  }
+}
