@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearchForNewDocuments": "Cho phép được bao gồm trong tìm kiếm ngữ nghĩa. Không được chọn cho tài liệu mới.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearchForNewDocuments": "Cho phépđược bao gồm trong tìm kiếm ngữ nghĩa. Được chọn mặc định cho tài liệu mới."
+      }
+    }
+  }
+}
