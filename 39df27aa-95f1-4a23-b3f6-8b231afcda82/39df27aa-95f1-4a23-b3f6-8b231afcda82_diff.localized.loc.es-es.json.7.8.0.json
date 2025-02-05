@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "Funciones deIA: Búsqueda de IA"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "Funciones de IA: API de OpenAI"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "¡Nota! Una vez creada, una propiedad de búsqueda semántica no se puede eliminar."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "Funciones de IA",
+      "GeneralSetting": {
+        "ModelConfiguration": "Configuración del modelo",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Nombre de implementación"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "Funciones de IA: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "ID de aplicación",
+      "ClientIdKey": "ID de cliente",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Clave secreta del cliente"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Oculto"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Abrir siempre en una nueva pestaña",
+        "SearchReadyMessage": "Búsqueda lista"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Ver {0} resultados más",
+        "GoToAdvancedSearch": "Ir a la búsqueda avanzada"
+      }
+    }
+  }
+}
