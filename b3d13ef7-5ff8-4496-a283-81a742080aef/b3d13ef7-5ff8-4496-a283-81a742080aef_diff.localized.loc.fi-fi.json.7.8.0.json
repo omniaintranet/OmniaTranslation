@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearchForNewDocuments": "Salli sisällyttäminen semanttiseen hakuun. Ei valittu uusille asiakirjoille.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearchForNewDocuments": "Salli sisällyttäminen semanttiseen hakuun. Valittu oletusarvona uusille asiakirjoille."
+      }
+    }
+  }
+}
