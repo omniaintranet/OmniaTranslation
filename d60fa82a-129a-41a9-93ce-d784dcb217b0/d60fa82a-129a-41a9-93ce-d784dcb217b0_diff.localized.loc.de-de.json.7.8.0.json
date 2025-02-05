@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Fortsetzen ab der letzten Synchronisierung",
+        "ResumeFromLastSyncTitle": "Fortsetzen ab derletzten Synchronisierung",
+        "ResumeFromLastSyncDescription": "Sind Sie sicher, dassSie ab der letzten Synchronisierung im Mandanten fortsetzen möchten?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "Der Begriff mit der ID {0} konnte nicht gefunden werden"
+        }
+      }
+    }
+  }
+}
