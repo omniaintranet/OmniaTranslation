@@ -1,39 +1,39 @@
 {
   "OTAD": {
     "AISearchConfig": {
-      "AISearchSecretTitle": "AI Features: AI Search"
+      "AISearchSecretTitle": "AI features: AI search"
     },
     "OpenAIApiConfig": {
-      "OpenAISecretTitle": "AI Features: OpenAI API"
+      "OpenAISecretTitle": "AI features: OpenAI API"
     },
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "Disclaimer": "Note! Once created, a semantic search queryable property cannot be removed."
+          "Disclaimer": "Note! Once created, a semantic search queryable property can not be removed."
         }
       }
     },
     "AIEngineSettings": {
-      "AIFeatures": "AI Features",
+      "AIFeatures": "AI features",
       "GeneralSetting": {
-        "ModelConfiguration": "Model Configuration",
+        "ModelConfiguration": "Model configuration",
         "DallEConfig": {
           "Title": "Dall-E",
-          "DeploymentName": "Deployment Name"
+          "DeploymentName": "Deployment name"
         }
       }
     }
   },
   "OmniaWorkplace": {
     "DallE": {
-      "DallESecretTitle": "AI Features: Dall-E"
+      "DallESecretTitle": "AI features: Dall-E"
     },
     "Unplash": {
-      "UnplashSecretTitle": "Unplash",
-      "ApplicationId": "Application Id",
-      "ClientIdKey": "Client Id",
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Application id",
+      "ClientIdKey": "Client id",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "SecretKey": "Client Secret"
+      "SecretKey": "Client secret"
     },
     "Search": {
       "Admin": {
@@ -44,7 +44,7 @@
         }
       },
       "SearchBlock": {
-        "AlwaysOpenInNewTab": "Always open in a new tab",
+        "AlwaysOpenInNewTab": "Always open in new tab",
         "SearchReadyMessage": "Search ready"
       },
       "QuickSearch": {
