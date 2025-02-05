@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI features:AI search"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI features: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Note! Once created, a semantic search queryable property can not be removed."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI features",
+      "GeneralSetting": {
+        "ModelConfiguration": "Model configuration",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Deployment name"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI features: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Applicationid",
+      "ClientIdKey": "Client id",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Clientsecret"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Hidden"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Always open in new tab",
+        "SearchReadyMessage": "Search ready"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "See{0} more results",
+        "GoToAdvancedSearch": "Go to advanced search"
+      }
+    }
+  }
+}
