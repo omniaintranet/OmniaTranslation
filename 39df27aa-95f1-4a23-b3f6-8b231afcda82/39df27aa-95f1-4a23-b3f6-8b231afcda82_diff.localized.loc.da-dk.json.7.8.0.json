@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI-funktioner: AI-søgning"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI-funktioner: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Bemærk! Når en semantisk søgbar egenskab er oprettet, kan den ikke fjernes."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI-funktioner",
+      "GeneralSetting": {
+        "ModelConfiguration": "Modelkonfiguration",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Navn på implementering"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI-funktioner: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Applikations-id",
+      "ClientIdKey": "Klient-id",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Klienthemmelighed"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Skjult"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Åbn altid i ny fane",
+        "SearchReadyMessage": "Søgning klar"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Se {0} flere resultater",
+        "GoToAdvancedSearch": "Gå til avanceret søgning"
+      }
+    }
+  }
+}
