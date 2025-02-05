@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Resume From Last Sync",
+        "ResumeFromLastSyncTitle": "Resume From Last Sync",
+        "ResumeFromLastSyncDescription": "Are you sure you want to resume from last sync on tenant?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "The term with ID {0} could not be found"
+        }
+      }
+    }
+  }
+}
