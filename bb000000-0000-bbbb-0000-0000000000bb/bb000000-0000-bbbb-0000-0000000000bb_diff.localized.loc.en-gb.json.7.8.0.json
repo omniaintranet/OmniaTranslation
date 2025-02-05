@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "FindUser": "Find user",
+        "FindGroup": "Find group",
+        "FindUserOrGroup": "Find user or group"
+      },
+      "Features": {
+        "AIEngine": {
+          "SemanticSearch": {
+            "Category": "System",
+            "Title": "Semantic search",
+            "Description": "Activate this feature to enable your system to utilize Semantic search."
+          }
+        }
+      }
+    }
+  }
+}
