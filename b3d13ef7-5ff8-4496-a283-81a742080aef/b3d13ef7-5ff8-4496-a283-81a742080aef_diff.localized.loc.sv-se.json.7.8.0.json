@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearchForNewDocuments": "Tillåt att inkluderas i semantisk sökning. Ej markerat för nya dokument.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearchForNewDocuments": "Tillåt att inkluderas i semantisk sökning. Markerat för nya dokument."
+      }
+    }
+  }
+}
