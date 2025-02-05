@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI-ominaisuudet: AI-haku"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI-ominaisuudet: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Huomio! Kun luot semanttisen haun kyselyominaisuuden, sitä ei voi poistaa."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI-ominaisuudet",
+      "GeneralSetting": {
+        "ModelConfiguration": "Mallin määritys",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Julkaisun nimi"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI-ominaisuudet: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Sovelluksentunniste",
+      "ClientIdKey": "Asiakastunnus",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Asiakkaan salainen avain"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Piilotettu"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Avaa aina uudessa välilehdessä",
+        "SearchReadyMessage": "Haku valmis"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Näytä {0} lisää tulosta",
+        "GoToAdvancedSearch": "Siirry edistyneeseen hakuun"
+      }
+    }
+  }
+}
