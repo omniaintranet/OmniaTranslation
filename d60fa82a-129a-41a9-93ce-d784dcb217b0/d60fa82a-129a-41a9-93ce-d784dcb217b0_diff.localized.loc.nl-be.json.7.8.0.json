@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Hervat vanaf laatste synchronisatie",
+        "ResumeFromLastSyncTitle": "Hervat vanaf laatste synchronisatie",
+        "ResumeFromLastSyncDescription": "Weet u zeker dat u wilt hervatten vanaf de laatste synchronisatie op de tenant?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "De term met id {0} kon niet worden gevonden"
+        }
+      }
+    }
+  }
+}
