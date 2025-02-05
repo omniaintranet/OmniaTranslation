@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI-funktioner: AI-sökning"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI-funktioner: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Observera! När en semantisk sökbar egenskap har skapats kan den inte tas bort."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI-funktioner",
+      "GeneralSetting": {
+        "ModelConfiguration": "Modellkonfiguration",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Namn på distribution"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI-funktioner: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Applikations-ID",
+      "ClientIdKey": "Klient-ID",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Klienthemlighet"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Dold"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Öppna alltid i ny flik",
+        "SearchReadyMessage": "Sökning redo"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Visa {0} fler resultat",
+        "GoToAdvancedSearch": "Gå till avancerad sökning"
+      }
+    }
+  }
+}
