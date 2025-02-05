@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Continuar desde la última sincronización",
+        "ResumeFromLastSyncTitle": "Continuar desde la última sincronización",
+        "ResumeFromLastSyncDescription": "¿Estás seguro de que quieres continuar desde la última sincronización en el inquilino?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "No se pudo encontrar el término con el id {0}"
+        }
+      }
+    }
+  }
+}
