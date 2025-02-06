@@ -11,7 +11,7 @@
           "SemanticSearch": {
             "Category": "System",
             "Title": "Semantic search",
-            "Description": "Activate this feature to allow your system to utilize Semantic search."
+            "Description": "Activate this feature to allow your system to utilize semantic search."
           }
         }
       }
