@@ -3,14 +3,14 @@
     "Admin": {
       "OmniaSearch": {
         "ResumeFromLastSync": "Återuppta från senaste synkronisering",
-        "ResumeFromLastSyncTitle": "Återuppta från senastesynkronisering",
-        "ResumeFromLastSyncDescription": "Är du säker på att du vill återuppta från senaste synkronisering på hyresgästen?"
+        "ResumeFromLastSyncTitle": "Återuppta från senaste synkronisering",
+        "ResumeFromLastSyncDescription": "Är du säker på att du vill återuppta från senaste synkronisering för tenant?"
       }
     },
     "AnalyticsReport": {
       "Views": {
         "TableView": {
-          "TermCanNotResolveMessage": "Termen med id {0} kunde inte hittas"
+          "TermCanNotResolveMessage": "Kunde inte hitta termen med id {0}."
         }
       }
     }
