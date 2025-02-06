@@ -48,7 +48,7 @@
         "SearchReadyMessage": "Haku valmis"
       },
       "QuickSearch": {
-        "SeeMoreWithTotal": "Näytä {0} lisää tulosta",
+        "SeeMoreWithTotal": "Näytä {0} tulosta lisää",
         "GoToAdvancedSearch": "Siirry edistyneeseen hakuun"
       }
     }
