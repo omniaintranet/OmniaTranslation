@@ -9,7 +9,7 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "Disclaimer": "Observera! När en semantisk sökbar egenskap har skapats kan den inte tas bort."
+          "Disclaimer": "Observera! När en egenskap för semantisk sökning har skapats kan den inte tas bort."
         }
       }
     },
