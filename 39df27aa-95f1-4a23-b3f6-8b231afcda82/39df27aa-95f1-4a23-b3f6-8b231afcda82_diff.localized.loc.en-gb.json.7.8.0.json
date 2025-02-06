@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "AISearchConfig": {
-      "AISearchSecretTitle": "AI features:AI search"
+      "AISearchSecretTitle": "AI features: AI search"
     },
     "OpenAIApiConfig": {
       "OpenAISecretTitle": "AI features: OpenAI API"
@@ -30,10 +30,10 @@
     },
     "Unplash": {
       "UnplashSecretTitle": "Unsplash",
-      "ApplicationId": "ApplicationID",
+      "ApplicationId": "Application ID",
       "ClientIdKey": "Client ID",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "SecretKey": "Clientsecret"
+      "SecretKey": "Client secret"
     },
     "Search": {
       "Admin": {
