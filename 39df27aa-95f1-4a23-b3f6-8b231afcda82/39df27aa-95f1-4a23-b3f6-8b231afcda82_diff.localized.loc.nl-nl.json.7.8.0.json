@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI-functies:AI-zoekopdracht"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI-functies: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Let op! Eenmaal gemaakt, kan een doorzoekbare eigenschap voor semantisch zoeken niet worden verwijderd."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI-functies",
+      "GeneralSetting": {
+        "ModelConfiguration": "Modelconfiguratie",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Naam implementatie"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI-functies: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Toepassings-ID",
+      "ClientIdKey": "Client-ID",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Clientgeheim"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Verborgen"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Altijd openen in nieuw tabblad",
+        "SearchReadyMessage": "Zoeken gereed"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Bekijk {0} meer resultaten",
+        "GoToAdvancedSearch": "Ga naar geavanceerd zoeken"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "KI-Funktionen: KI-Suche"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "KI-Funktionen: OpenAI-API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Hinweis! Sobald erstellt, kann eine semantische Suchabfrageeigenschaft nicht entfernt werden."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "KI-Funktionen",
+      "GeneralSetting": {
+        "ModelConfiguration": "Modellkonfiguration",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Bereitstellungsname"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "KI-Funktionen: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "Anwendungs-ID",
+      "ClientIdKey": "Client-ID",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Client-Geheimnis"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Versteckt"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Immer in neuem Tab öffnen",
+        "SearchReadyMessage": "Suche bereit"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Weitere {0} Ergebnisse anzeigen",
+        "GoToAdvancedSearch": "Zur erweiterten Suche gehen"
+      }
+    }
+  }
+}

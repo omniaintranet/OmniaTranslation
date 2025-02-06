@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "IdentityPicker": {
+        "FindUser": "Tìm người dùng",
+        "FindGroup": "Tìm nhóm",
+        "FindUserOrGroup": "Tìm người dùng hoặc nhóm"
+      },
+      "Features": {
+        "AIEngine": {
+          "SemanticSearch": {
+            "Category": "Hệ thống",
+            "Title": "Tìm kiếm ngữ nghĩa",
+            "Description": "Kích hoạt tính năng này để cho phép hệ thống của bạn sử dụng Tìm kiếm ngữ nghĩa."
+          }
+        }
+      }
+    }
+  }
+}

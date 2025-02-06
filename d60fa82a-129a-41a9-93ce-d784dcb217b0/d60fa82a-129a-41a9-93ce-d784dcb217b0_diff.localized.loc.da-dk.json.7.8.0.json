@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Genoptagfra sidste synkronisering",
+        "ResumeFromLastSyncTitle": "Genoptag fra sidste synkronisering",
+        "ResumeFromLastSyncDescription": "Er du sikker på, at du vil genoptage fra sidste synkronisering på tenant?"
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "TermCanNotResolveMessage": "Termen med id {0} kunne ikke findes"
+        }
+      }
+    }
+  }
+}

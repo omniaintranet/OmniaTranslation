@@ -1,0 +1,10 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchTypes": {
+        "AllowIncludedDocumentInSemanticSearchForNewDocuments": "Toestaan om opgenomen te worden in semantisch zoeken. Niet aangevinkt voor nieuwe documenten.",
+        "AllowAndDefaultIncludedDocumentInSemanticSearchForNewDocuments": "Toestaan om opgenomen te worden in semantisch zoeken. Aangevinkt voor nieuwe documenten."
+      }
+    }
+  }
+}

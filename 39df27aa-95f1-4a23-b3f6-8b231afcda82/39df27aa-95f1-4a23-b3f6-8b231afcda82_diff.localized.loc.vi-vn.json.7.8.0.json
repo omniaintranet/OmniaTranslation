@@ -1,0 +1,56 @@
+{
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "Tính năng AI: Tìm kiếm AI"
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "Tính năng AI: OpenAI API"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "Disclaimer": "Chú ý! Sau khi tạo, một thuộc tính tìm kiếm ngữ nghĩa không thể bị xóa."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "Tính năng AI",
+      "GeneralSetting": {
+        "ModelConfiguration": "Cấu hình mô hình",
+        "DallEConfig": {
+          "Title": "Dall-E",
+          "DeploymentName": "Tên triển khai"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "Tính năng AI: Dall-E"
+    },
+    "Unplash": {
+      "UnplashSecretTitle": "Unsplash",
+      "ApplicationId": "ID ứng dụng",
+      "ClientIdKey": "ID khách hàng",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Mã bí mật khách hàng"
+    },
+    "Search": {
+      "Admin": {
+        "AdvancedSearch": {
+          "ViewMoreResults": {
+            "Hidden": "Ẩn"
+          }
+        }
+      },
+      "SearchBlock": {
+        "AlwaysOpenInNewTab": "Luôn mở trong tab mới",
+        "SearchReadyMessage": "Tìm kiếm sẵn sàng"
+      },
+      "QuickSearch": {
+        "SeeMoreWithTotal": "Xem thêm {0} kết quả",
+        "GoToAdvancedSearch": "Đi đến tìm kiếm nâng cao"
+      }
+    }
+  }
+}
