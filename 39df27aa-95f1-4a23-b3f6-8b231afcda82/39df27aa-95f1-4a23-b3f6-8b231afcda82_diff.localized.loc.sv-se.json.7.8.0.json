@@ -9,7 +9,7 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "Disclaimer": "Observera! När en egenskap för semantisk sökning har skapats kan den inte tas bort."
+          "Disclaimer": "Observera! När en förfrågningsbar egenskap för semantisk sökning har skapats kan den inte tas bort."
         }
       }
     },
@@ -19,7 +19,7 @@
         "ModelConfiguration": "Modellkonfiguration",
         "DallEConfig": {
           "Title": "Dall-E",
-          "DeploymentName": "Namn på distribution"
+          "DeploymentName": "Distributionsnamn"
         }
       }
     }
