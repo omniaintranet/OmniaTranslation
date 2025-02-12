@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Jatka viimeisimmästä synkronoinnista",
+        "ResumeFromLastSyncTitle": "Jatka viimeisimmästä synkronoinnista",
+        "ResumeFromLastSyncDescription": "Oletko varma, että haluat jatkaa viimeisimmästä synkronoinnista tenantissa?"
+      }
+    }
+  }
+}
