@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Reprendre depuis la dernière synchronisation",
+        "ResumeFromLastSyncTitle": "Reprendre depuis la dernière synchronisation",
+        "ResumeFromLastSyncDescription": "Êtes-vous sûr de vouloir reprendre depuis la dernière synchronisation sur le locataire ?"
+      }
+    }
+  }
+}
