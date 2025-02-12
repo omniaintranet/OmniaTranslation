@@ -9,7 +9,7 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "Disclaimer": "Huomio! Kun luot semanttisen haun kyselyominaisuuden, sitä ei voi poistaa."
+          "Disclaimer": "Huomio! Semanttisen haun kyselyominaisuutta ei luomisen jälkeen voi poistaa."
         }
       }
     },
@@ -30,7 +30,7 @@
     },
     "Unplash": {
       "UnplashSecretTitle": "Unsplash",
-      "ApplicationId": "Sovelluksentunniste",
+      "ApplicationId": "Sovellustunniste",
       "ClientIdKey": "Asiakastunnus",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
       "SecretKey": "Asiakkaan salainen avain"
