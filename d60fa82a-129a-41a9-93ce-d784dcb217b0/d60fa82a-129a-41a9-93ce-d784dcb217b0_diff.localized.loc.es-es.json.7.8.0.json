@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "SemanticSearchWebContentManagement": {
+          "Title": "Búsqueda semántica de gestión de contenido web",
+          "Description": "Ejemplo de configuración de búsqueda semántica",
+          "Category": "Configuración predeterminada"
+        }
+      }
+    }
+  }
+}
