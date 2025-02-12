@@ -3,12 +3,12 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "AddSemanticSearchError": "Ett fel har uppstått vid tillägg av egenskapen för semantisk sökning. Specialtecken som prefix är inte tillåtna."
+          "AddSemanticSearchError": "Ett fel uppstod när en egenskap för semantisk sökning lades till. Specialtecken som prefix är inte tillåtna."
         }
       }
     },
     "Authentication": {
-      "OmniaTokenExpiredHours": "Omnia-tokenlivslängd (i timmar)"
+      "OmniaTokenExpiredHours": "Tidsbegränsning för Omnia-token (i timmar)"
     }
   },
   "OmniaWorkplace": {
