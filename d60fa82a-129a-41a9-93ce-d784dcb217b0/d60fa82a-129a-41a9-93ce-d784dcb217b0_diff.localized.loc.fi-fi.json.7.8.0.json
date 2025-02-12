@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "SemanticSearchWebContentManagement": {
+          "Title": "Semanttinen hakukoneen sisällönhallinta",
+          "Description": "Esimerkki semanttisen haun määrityksestä",
+          "Category": "Oletusmääritys"
+        }
+      }
+    }
+  }
+}
