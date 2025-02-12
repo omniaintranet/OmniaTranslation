@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Beim Hinzufügen der semantischen Sucheigenschaftist ein Fehler aufgetreten. Sonderzeichenpräfixe sind nicht erlaubt."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Omnia-Token-Lebensdauer(in Stunden)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}

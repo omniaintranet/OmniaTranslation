@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "SemanticSearchWebContentManagement": {
+          "Title": "Semantisk sökning för webbinnehållshantering",
+          "Description": "Exempel på konfiguration för semantisk sökning",
+          "Category": "Standardkonfiguration"
+        }
+      }
+    }
+  }
+}

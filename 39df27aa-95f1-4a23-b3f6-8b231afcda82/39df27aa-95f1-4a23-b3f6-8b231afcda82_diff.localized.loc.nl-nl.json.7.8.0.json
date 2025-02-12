@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Er is een fout opgetreden bij het toevoegen van de eigenschap voor semantisch zoeken. Speciale tekens als voorvoegsels zijn niettoegestaan."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Omnia-tokenlevensduur (in uren)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}

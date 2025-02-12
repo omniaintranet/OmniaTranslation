@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Ett fel uppstod när en egenskap för semantisk sökning lades till. Specialtecken som prefix är inte tillåtna."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Tidsbegränsning för Omnia-token (i timmar)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}

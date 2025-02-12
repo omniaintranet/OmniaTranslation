@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Det har oppstått en feil ved tillegg av egenskapen for semantisk søk. Spesialtegnprefikser er ikke tillatt."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Omnia-tokenlevetid (i timer)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Se ha producido un error al agregar la propiedadde búsqueda semántica. No se permiten prefijos de caracteres especiales."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Tiempo de vida del token de Omnia (en horas)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}

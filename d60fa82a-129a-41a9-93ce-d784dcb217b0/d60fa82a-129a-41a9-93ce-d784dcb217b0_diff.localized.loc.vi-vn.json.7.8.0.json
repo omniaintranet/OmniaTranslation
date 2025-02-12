@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "SemanticSearchWebContentManagement": {
+          "Title": "Quản lý nội dung web tìm kiếm ngữ nghĩa",
+          "Description": "Cấu hình tìm kiếm ngữ nghĩa mẫu",
+          "Category": "Cấu hình mặc định"
+        }
+      }
+    }
+  }
+}
