@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Fortsetzen ab der letzten Synchronisierung",
+        "ResumeFromLastSyncTitle": "Fortsetzen ab derletzten Synchronisierung",
+        "ResumeFromLastSyncDescription": "Sind Sie sicher, dassSie ab der letzten Synchronisierung auf dem Mandanten fortsetzen möchten?"
+      }
+    }
+  }
+}
