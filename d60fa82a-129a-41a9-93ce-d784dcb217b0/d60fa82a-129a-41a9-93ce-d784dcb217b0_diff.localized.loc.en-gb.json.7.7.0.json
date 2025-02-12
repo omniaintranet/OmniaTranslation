@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Resume from last sync",
+        "ResumeFromLastSyncTitle": "Resume from last sync",
+        "ResumeFromLastSyncDescription": "Are you sure you want to resume from the last sync on the tenant?"
+      }
+    }
+  }
+}
