@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Genoptagfra sidste synkronisering",
+        "ResumeFromLastSyncTitle": "Genoptag fra sidste synkronisering",
+        "ResumeFromLastSyncDescription": "Er du sikker på, at du vil genoptage fra sidste synkronisering på lejeren?"
+      }
+    }
+  }
+}
