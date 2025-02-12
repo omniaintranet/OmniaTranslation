@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "AddSemanticSearchError": "Đã xảy ra lỗi khi thêm thuộc tính tìm kiếm ngữ nghĩa. Không cho phép tiền tố ký tự đặc biệt."
+        }
+      }
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Thời gian sống của mã Omnia (theo giờ)"
+    }
+  },
+  "OmniaWorkplace": {
+    "Unplash": {
+      "UnsplashSecretTitle": "Unsplash"
+    }
+  }
+}
