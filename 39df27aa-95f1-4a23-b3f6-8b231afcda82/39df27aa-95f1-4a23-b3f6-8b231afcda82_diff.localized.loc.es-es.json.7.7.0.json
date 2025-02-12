@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Vida útildel token de Omnia (en horas)"
+    }
+  }
+}

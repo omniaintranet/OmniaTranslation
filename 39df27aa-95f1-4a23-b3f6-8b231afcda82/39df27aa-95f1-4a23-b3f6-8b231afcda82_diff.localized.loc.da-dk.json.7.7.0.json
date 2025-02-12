@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Omnia-token levetid (i timer)"
+    }
+  }
+}

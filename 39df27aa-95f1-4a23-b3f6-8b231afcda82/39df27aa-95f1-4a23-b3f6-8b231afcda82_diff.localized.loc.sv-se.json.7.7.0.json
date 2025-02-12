@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Tidsbegränsning för Omnia-token (i timmar)"
+    }
+  }
+}

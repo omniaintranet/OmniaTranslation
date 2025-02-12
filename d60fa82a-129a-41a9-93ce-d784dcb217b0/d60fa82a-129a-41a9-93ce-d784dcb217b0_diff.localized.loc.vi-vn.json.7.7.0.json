@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "OmniaSearch": {
+        "ResumeFromLastSync": "Tiếp tụctừ đồng bộ gần nhất",
+        "ResumeFromLastSyncTitle": "Tiếp tục từ đồng bộ gần nhất",
+        "ResumeFromLastSyncDescription": "Bạn có chắc chắn muốn tiếp tục từ đồng bộgần nhất trên tenant không?"
+      }
+    }
+  }
+}
