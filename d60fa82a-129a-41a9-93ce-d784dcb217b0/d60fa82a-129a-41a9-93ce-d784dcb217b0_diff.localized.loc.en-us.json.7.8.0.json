@@ -3,8 +3,8 @@
     "Core": {
       "Features": {
         "SemanticSearchWebContentManagement": {
-          "Title": "Semantic Search Web Content Management",
-          "Description": "Example Semantic Search configuration",
+          "Title": "Semantic search web content anagement",
+          "Description": "Example semantic search configuration",
           "Category": "Default configuration"
         }
       }
