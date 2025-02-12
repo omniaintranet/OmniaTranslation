@@ -3,12 +3,12 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "AddSemanticSearchError": "An error has occurred while adding the semantic search property. Special character prefixes are not allowed"
+          "AddSemanticSearchError": "An error has occurred while adding the semantic search property. Special character prefixes are not allowed."
         }
       }
     },
     "Authentication": {
-      "OmniaTokenExpiredHours": "Omnia Token lifetime (in hours)"
+      "OmniaTokenExpiredHours": "Omnia token lifetime (in hours)"
     }
   },
   "OmniaWorkplace": {
