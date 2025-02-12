@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Thời giantồn tại của mã thông báo Omnia (theo giờ)"
+    }
+  }
+}
