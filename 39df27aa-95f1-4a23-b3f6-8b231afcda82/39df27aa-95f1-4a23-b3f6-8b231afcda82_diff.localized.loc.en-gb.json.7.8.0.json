@@ -48,7 +48,7 @@
         "SearchReadyMessage": "Search ready"
       },
       "QuickSearch": {
-        "SeeMoreWithTotal": "See{0} more results",
+        "SeeMoreWithTotal": "See {0} more results",
         "GoToAdvancedSearch": "Go to advanced search"
       }
     }
