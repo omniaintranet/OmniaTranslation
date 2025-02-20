@@ -19,7 +19,7 @@
         "ModelConfiguration": "Modellkonfigurasjon",
         "DallEConfig": {
           "Title": "Dall-E",
-          "DeploymentName": "Navn på distribusjon"
+          "DeploymentName": "Utrullingsnavn"
         }
       }
     }
