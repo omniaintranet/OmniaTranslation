@@ -11,7 +11,7 @@
           "SemanticSearch": {
             "Category": "System",
             "Title": "Semantisk søgning",
-            "Description": "Aktivér denne funktion for at tillade dit system at udnytte semantisk søgning."
+            "Description": "Aktivér denne funktion for at tillade dit system at bruge semantisk søgning."
           }
         }
       }
