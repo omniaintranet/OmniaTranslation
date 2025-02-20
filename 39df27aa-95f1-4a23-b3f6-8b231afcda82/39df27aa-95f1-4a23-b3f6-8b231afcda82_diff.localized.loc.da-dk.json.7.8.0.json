@@ -19,7 +19,7 @@
         "ModelConfiguration": "Modelkonfiguration",
         "DallEConfig": {
           "Title": "Dall-E",
-          "DeploymentName": "Navn på implementering"
+          "DeploymentName": "Udrulningsnavn"
         }
       }
     }
