@@ -2,9 +2,9 @@
   "WCM": {
     "Admin": {
       "OmniaSearch": {
-        "ResumeFromLastSync": "Fortsettfra forrige synkronisering",
+        "ResumeFromLastSync": "Fortsett fra forrige synkronisering",
         "ResumeFromLastSyncTitle": "Fortsett fra forrige synkronisering",
-        "ResumeFromLastSyncDescription": "Er du sikker på at du vil fortsette fra forrige synkronisering på tenant?"
+        "ResumeFromLastSyncDescription": "Er du sikker på at du vil fortsette fra forrige synkronisering på denne tenant?"
       }
     }
   }
