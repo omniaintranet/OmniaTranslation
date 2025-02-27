@@ -5,7 +5,7 @@
       "ApplicationId": "Applikations-id",
       "ClientIdKey": "Klient-id",
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "SecretKey": "Klienthemmelighed"
+      "SecretKey": "Klientnøgle"
     }
   }
 }
