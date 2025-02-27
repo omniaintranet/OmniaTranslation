@@ -1,0 +1,11 @@
+{
+  "OmniaWorkplace": {
+    "Unsplash": {
+      "UnsplashSecretTitle": "Unsplash",
+      "ApplicationId": "Application Id",
+      "ClientIdKey": "Client Id",
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "SecretKey": "Clientsecret"
+    }
+  }
+}
