@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "EnableCustomNoResultMessage": "Benutzerdefinierte Nachricht bei keinem Ergebnis"
+        }
+      },
+      "SemanticSearch": {
+        "DefaultNoResultMessage": "Wir konnten keine relevanten Ergebnisse finden. Versuchen Sie, Ihre Frage umzuformulieren oder andere Formulierungen zu verwenden."
+      }
+    }
+  }
+}
