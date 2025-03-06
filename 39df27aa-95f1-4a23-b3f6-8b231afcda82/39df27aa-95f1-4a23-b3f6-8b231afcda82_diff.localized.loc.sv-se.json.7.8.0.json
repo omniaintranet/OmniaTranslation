@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "EnableCustomNoResultMessage": "Anpassat meddelande för inga resultat"
+        }
+      },
+      "SemanticSearch": {
+        "DefaultNoResultMessage": "Vi kunde inte hitta några relevanta resultat. Försök att omformulera din fråga eller använda andra ord."
+      }
+    }
+  }
+}
