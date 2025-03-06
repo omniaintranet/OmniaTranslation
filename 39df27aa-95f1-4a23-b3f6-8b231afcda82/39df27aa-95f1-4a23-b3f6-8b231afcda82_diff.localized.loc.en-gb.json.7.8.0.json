@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "EnableCustomNoResultMessage": "Custom no results message"
+        }
+      },
+      "SemanticSearch": {
+        "DefaultNoResultMessage": "We couldn't find any relevant results. Try rephrasing your question or using different terms."
+      }
+    }
+  }
+}
