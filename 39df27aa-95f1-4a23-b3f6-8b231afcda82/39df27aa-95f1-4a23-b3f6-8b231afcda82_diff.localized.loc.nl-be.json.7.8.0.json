@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "EnableCustomNoResultMessage": "Aangepaste geen resultaat bericht"
+        }
+      },
+      "SemanticSearch": {
+        "DefaultNoResultMessage": "We konden geen relevante resultaten vinden. Probeer uw vraag anders te formuleren of andere woorden te gebruiken."
+      }
+    }
+  }
+}
