@@ -3,11 +3,11 @@
     "Search": {
       "Admin": {
         "SemanticSearch": {
-          "EnableCustomNoResultMessage": "Mukautettu ei tuloksia -viesti"
+          "EnableCustomNoResultMessage": "Mukautettu \"ei tuloksia\" -viesti"
         }
       },
       "SemanticSearch": {
-        "DefaultNoResultMessage": "Emme löytäneet mitään relevantteja tuloksia. Yritä muotoilla kysymyksesi uudelleen tai käyttää erilaisia sanoja."
+        "DefaultNoResultMessage": "Emme löytäneet mitään relevantteja tuloksia. Yritä muotoilla kysymyksesi uudelleen tai käyttää eri sanoja."
       }
     }
   }
