@@ -3,11 +3,11 @@
     "Search": {
       "Admin": {
         "SemanticSearch": {
-          "EnableCustomNoResultMessage": "Brugerdefineret besked uden resultater"
+          "EnableCustomNoResultMessage": "Tilpasset besked ved ingen resultater"
         }
       },
       "SemanticSearch": {
-        "DefaultNoResultMessage": "Vi kunne ikke finde nogen relevante resultater. Prøv at omformulere dit spørgsmål eller bruge andre ord."
+        "DefaultNoResultMessage": "Vi kunne ikke finde nogen relevante resultater. Prøv at omformulere dit spørgsmål eller brug andre ord."
       }
     }
   }
