@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ikke startet",
+            "InProgress": "I gang",
+            "Completed": "Fuldført"
+          }
+        }
+      }
+    }
+  }
+}
