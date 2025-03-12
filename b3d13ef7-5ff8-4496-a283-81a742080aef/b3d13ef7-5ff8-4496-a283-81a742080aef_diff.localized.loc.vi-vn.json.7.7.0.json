@@ -1,0 +1,7 @@
+{
+  "ODM": {
+    "Admin": {
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Không cho phép xuất bản tài liệu có thay đổi chưa được chấp nhận"
+    }
+  }
+}
