@@ -1,0 +1,7 @@
+{
+  "ODM": {
+    "Admin": {
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Sta de publicatie van een document met niet-geaccepteerde wijzigingen niet toe"
+    }
+  }
+}
