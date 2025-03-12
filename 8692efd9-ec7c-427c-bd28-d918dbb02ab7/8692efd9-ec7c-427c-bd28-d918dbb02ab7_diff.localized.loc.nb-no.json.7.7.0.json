@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "Signeringsforespørsel": {
+          "Fremdrift": {
+            "IkkeStartet": "Ikke startet",
+            "Pågår": "Pågår",
+            "Fullført": "Fullført"
+          }
+        }
+      }
+    }
+  }
+}

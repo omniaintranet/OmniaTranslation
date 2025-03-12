@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nem kezdődött el",
+            "InProgress": "Folyamatban",
+            "Completed": "Befejezett"
+          }
+        }
+      }
+    }
+  }
+}
