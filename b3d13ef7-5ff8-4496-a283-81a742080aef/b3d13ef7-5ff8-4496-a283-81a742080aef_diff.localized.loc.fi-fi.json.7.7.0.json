@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Älä salli asiakirjan julkaisemista, jossa on hyväksymättömiä muutoksia"
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Älä salli sellaisen asiakirjan julkaisemista, jossa on hyväksymättömiä muutoksia"
     }
   }
 }
