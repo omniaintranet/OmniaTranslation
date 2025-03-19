@@ -11,7 +11,7 @@
   "OWCM": {
     "PublishingApp": {
       "AttachSite": {
-        "MissingPermissionErrorMessage": "Site collection admin permission is required to perform this operation"
+        "MissingPermissionErrorMessage": "Site collection admin permission is required to perform this operation."
       }
     }
   }
