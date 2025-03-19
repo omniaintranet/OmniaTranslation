@@ -1,0 +1,18 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "PageReports": {
+          "MaximumCapacityMessage": "This report has reached its maximum capacity and is no longer available for use. We recommend utilising Matomo-based statistics as an alternative. For more information, please refer to the following <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>resource</a>."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Site collection admin permission is required to perform this operation."
+      }
+    }
+  }
+}
