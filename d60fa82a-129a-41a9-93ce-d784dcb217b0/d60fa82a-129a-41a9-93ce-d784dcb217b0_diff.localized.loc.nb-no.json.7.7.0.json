@@ -11,7 +11,7 @@
   "OWCM": {
     "PublishingApp": {
       "AttachSite": {
-        "MissingPermissionErrorMessage": "Administratortillatelser for nettstedssamling er nødvendig for å utføre denne operasjonen."
+        "MissingPermissionErrorMessage": "Administratortillatelser for nettstedet er nødvendig for å utføre denne operasjonen."
       }
     }
   }
