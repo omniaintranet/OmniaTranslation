@@ -6,7 +6,7 @@
     "Editor": {
       "Editor": {
         "PageReports": {
-          "MaximumCapacityMessage": "This report has reached its maximum capacity and is no longer available for use. We recommend utilizing Matomo-based statistics as an alternative. For more information, please refer to: <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>resource</a>."
+          "MaximumCapacityMessage": "This report has reached the maximum capacity and is no longer available for use. We recommend utilizing Matomo-based statistics as an alternative. For more information, please refer to: <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>resource</a>."
         }
       }
     }
