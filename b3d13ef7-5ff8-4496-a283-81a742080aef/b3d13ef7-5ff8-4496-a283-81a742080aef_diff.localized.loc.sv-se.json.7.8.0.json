@@ -1,7 +1,7 @@
 {
   "ODM": {
     "Admin": {
-      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Tillåt inte publicering av ett dokument med oacceptabla ändringar"
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Tillåt inte publicering av ett dokument med ändringar som inte är godkända"
     },
     "Core": {
       "Common": {
