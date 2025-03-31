@@ -1,0 +1,21 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "DisableRedirectToCreatedPage": "Poista ohjaus luodulle sivulle"
+    },
+    "Editor": {
+      "Editor": {
+        "PageReports": {
+          "MaximumCapacityMessage": "Tämä raportti on saavuttanut maksimi kapasiteettinsa eikä ole enää käytettävissä. Suosittelemme käyttämään Matomo-pohjaisia tilastoja vaihtoehtona. Lisätietoja varten, katso: <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>resurssi</a>."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Sivustokokoelman ylläpitäjän oikeudet ovat tarpeen tämän toiminnon suorittamiseksi."
+      }
+    }
+  }
+}
