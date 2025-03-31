@@ -1,0 +1,21 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "DisableRedirectToCreatedPage": "Vôhiệu hóa chuyển hướng đến trang đã tạo"
+    },
+    "Editor": {
+      "Editor": {
+        "PageReports": {
+          "MaximumCapacityMessage": "Báo cáo này đã đạt đến dung lượng tối đa và không còn khả dụng để sử dụng. Chúng tôi khuyên bạn nên sử dụng thống kê dựa trên Matomo như một lựa chọn thay thế. Để biết thêmthông tin, vui lòng tham khảo: <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>tài nguyên</a>."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Cần có quyền quản trị bộ sưu tập trang để thực hiện thao tác này."
+      }
+    }
+  }
+}

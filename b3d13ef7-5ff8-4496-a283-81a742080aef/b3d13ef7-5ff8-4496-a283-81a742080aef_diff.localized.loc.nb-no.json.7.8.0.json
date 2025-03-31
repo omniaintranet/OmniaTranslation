@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Admin": {
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Ikke tillat publisering av et dokument med ikke aksepterte endringer"
+    },
+    "Core": {
+      "Common": {
+        "Revert": "Tilbakestill"
+      }
+    }
+  }
+}

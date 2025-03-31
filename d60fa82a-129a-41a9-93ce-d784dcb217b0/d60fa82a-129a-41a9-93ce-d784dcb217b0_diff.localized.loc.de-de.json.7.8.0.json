@@ -1,0 +1,21 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "DisableRedirectToCreatedPage": "Deaktivieren Sie die Weiterleitung zur erstellten Seite"
+    },
+    "Editor": {
+      "Editor": {
+        "PageReports": {
+          "MaximumCapacityMessage": "Dieser Bericht hat seine maximale Kapazität erreicht und ist nicht mehr verfügbar. Wir empfehlen, stattdessen Matomo-basierte Statistiken zu nutzen. Für weitere Informationen siehe: <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>Ressource</a>."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "AttachSite": {
+        "MissingPermissionErrorMessage": "Die Berechtigung des Site-Collection-Administrators ist erforderlich, um diese Operation auszuführen."
+      }
+    }
+  }
+}
