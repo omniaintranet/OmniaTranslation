@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Admin": {
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Älä salli asiakirjan julkaisemista, jossa on hyväksymättömiä muutoksia"
+    },
+    "Core": {
+      "Common": {
+        "Revert": "Palauta"
+      }
+    }
+  }
+}
