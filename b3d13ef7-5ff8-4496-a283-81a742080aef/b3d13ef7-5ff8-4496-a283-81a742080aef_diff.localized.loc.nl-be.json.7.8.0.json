@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Admin": {
+      "DoNotAllowPublishingDocumentWithUnacceptedChange": "Publiceer geen document met onaanvaarde wijzigingen"
+    },
+    "Core": {
+      "Common": {
+        "Revert": "Herstellen"
+      }
+    }
+  }
+}
