@@ -4,7 +4,7 @@
       "Settings": {
         "ResyncUsers": {
           "Dialog": {
-            "MessageRetryResyncAllUsers": "Är du verkligen säker på att du vill försöka synkroniseraanvändare igen?"
+            "MessageRetryResyncAllUsers": "Är du verkligen säker på att du vill försöka synkronisera användare igen?"
           }
         }
       }
