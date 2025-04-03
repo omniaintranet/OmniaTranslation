@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "정말로 사용자를 다시 동기화하려고 하시나요?"
+          }
+        }
+      }
+    }
+  }
+}

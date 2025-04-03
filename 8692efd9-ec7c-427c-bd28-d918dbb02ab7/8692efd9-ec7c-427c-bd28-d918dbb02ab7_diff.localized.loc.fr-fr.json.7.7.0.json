@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Êtes-vous vraiment sûr de vouloir réessayer de resynchroniser tous les utilisateurs ?"
+          }
+        }
+      }
+    }
+  }
+}

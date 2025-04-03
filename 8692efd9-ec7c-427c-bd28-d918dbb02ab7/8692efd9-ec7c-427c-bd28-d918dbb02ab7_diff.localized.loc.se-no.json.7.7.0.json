@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Don leat dušše áibbas, geat du váldde áibbas resync-a users álggo?"
+          }
+        }
+      }
+    }
+  }
+}
