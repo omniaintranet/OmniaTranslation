@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "Liiketoimintaprofiili": {
+      "RootPathDeletionErrorMessage": "Tätä liiketoimintaprofiilia ei voida poistaa, koska se on tällä hetkellä asetettu juuripoluksi. Määritä toinen polku ennen jatkamista."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Jaa tietoja muiden liiketoimintaprofiilien kanssa"
+          }
+        }
+      }
+    }
+  }
+}
