@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denna affärsprofil kan inte raderas eftersom den för närvarande är inställd som rotväg. Vänligen tilldela en annan väg innan du fortsätter."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Dela data med annan affärsprofil"
+          }
+        }
+      }
+    }
+  }
+}
