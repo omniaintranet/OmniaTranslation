@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denne virksomhedsprofil kan ikke slettes, da den i øjeblikket er indstillet som rout route. Tildel en anden sti til denne virksomhedsprofil, før du fortsætter. Husk at tildele root route til en anden virksomhedsprofil"
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Del data med anden virksomhedsprofil"
+          }
+        }
+      }
+    }
+  }
+}

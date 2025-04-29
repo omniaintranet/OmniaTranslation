@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Dieses Geschäftsprofil kann nicht gelöscht werden, da es derzeit als Rout-Route festgelegt ist. Bitte weisen Sie einen anderen Pfad zu, bevor Sie fortfahren. Denken Sie daran, die Rout-Route einem anderen Geschäftsprofil zuzuweisen."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Daten mit anderem Geschäftsprofil teilen"
+          }
+        }
+      }
+    }
+  }
+}

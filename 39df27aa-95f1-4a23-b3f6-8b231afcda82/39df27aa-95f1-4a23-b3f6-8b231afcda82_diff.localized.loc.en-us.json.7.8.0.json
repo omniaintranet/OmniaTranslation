@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "This business profile cannot be deleted as it is currently set as the root route. Please assign a different route before proceeding. Remember to assign the root route to another business profile."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Share data with other business profile"
+          }
+        }
+      }
+    }
+  }
+}

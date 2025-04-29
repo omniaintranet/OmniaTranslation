@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denne forretningsprofilen kan ikke slettes da den for øyeblikket er satt som rot-rute. Vennligst tilordne en annen rute før du fortsetter. Husk å tildele rot-ruten til en annen bedriftsprofil"
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Del data med annen forretningsprofil"
+          }
+        }
+      }
+    }
+  }
+}

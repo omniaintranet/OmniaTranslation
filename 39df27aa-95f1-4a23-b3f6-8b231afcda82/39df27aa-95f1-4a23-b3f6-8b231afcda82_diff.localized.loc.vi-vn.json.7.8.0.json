@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Hồsơ doanh nghiệp này không thể bị xóa vì nó hiện đang được đặt làm đường dẫn gốc.Vui lòng chỉ định một đường dẫn khác trước khi tiếp tục. Hãy nhớ gán tuyến gốc cho một hồ sơ doanh nghiệp khác."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Chia sẻ dữ liệu với hồ sơ doanh nghiệp khác"
+          }
+        }
+      }
+    }
+  }
+}

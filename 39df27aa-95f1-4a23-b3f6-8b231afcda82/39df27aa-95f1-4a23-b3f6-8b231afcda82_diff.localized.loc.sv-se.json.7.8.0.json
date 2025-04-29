@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denna verksamhetsprofil kan inte tas bort eftersom den är inställd som rotsökväg. Vänligen ange annan sökväg innan du fortsätter. Kom också ihåg att tilldela rotsökvägen till en annan verksamhetsprofil."
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "admin": {
+        "general": {
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Dela data med annan verksamhetsprofil"
+          }
+        }
+      }
+    }
+  }
+}
