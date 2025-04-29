@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "RootPathDeletionErrorMessage": "Denne virksomhedsprofil kan ikke slettes, da den i øjeblikket er indstillet som rodsti. Tildel en anden sti, før du fortsætter."
+      "RootPathDeletionErrorMessage": "Denne virksomhedsprofil kan ikke slettes, da den i øjeblikket er indstillet som rout route. Tildel en anden sti, før du fortsætter."
     }
   },
   "OmniaWorkplace": {
