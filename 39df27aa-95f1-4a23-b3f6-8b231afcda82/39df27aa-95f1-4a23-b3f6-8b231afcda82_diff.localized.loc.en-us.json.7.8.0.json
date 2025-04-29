@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "RootPathDeletionErrorMessage": "This business profile cannot be deleted as it is currently set as the root path. Please assign a different path before proceeding."
+      "RootPathDeletionErrorMessage": "This business profile cannot be deleted as it is currently set as the root route. Please assign a different route before proceeding."
     }
   },
   "OmniaWorkplace": {
