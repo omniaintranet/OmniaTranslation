@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "RootPathDeletionErrorMessage": "Dieses Geschäftsprofil kann nicht gelöscht werden, da es derzeit als Stammverzeichnis festgelegt ist. Bitte weisen Sie einen anderen Pfad zu, bevor Sie fortfahren. Denken Sie daran, die Stammroute einem anderen Geschäftsprofil zuzuweisen."
+      "RootPathDeletionErrorMessage": "Dieses Geschäftsprofil kann nicht gelöscht werden, da es derzeit als Rout-Route festgelegt ist. Bitte weisen Sie einen anderen Pfad zu, bevor Sie fortfahren. Denken Sie daran, die Rout-Route einem anderen Geschäftsprofil zuzuweisen."
     }
   },
   "OmniaWorkplace": {
