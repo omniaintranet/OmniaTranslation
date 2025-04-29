@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "RootPathDeletionErrorMessage": "Dit bedrijfsprofiel kan niet worden verwijderd omdat het momenteel is ingesteld als het hoofdpad. Wijs een ander pad toe voordat u verdergaat."
+      "RootPathDeletionErrorMessage": "Dit bedrijfsprofiel kan niet worden verwijderd omdat het momenteel is ingesteld als het hoofdpad. Wijs een ander pad toe voordat u verdergaat. Vergeet niet de hoofdroute aan een ander bedrijfsprofiel toe te wijzen."
     }
   },
   "OmniaWorkplace": {
