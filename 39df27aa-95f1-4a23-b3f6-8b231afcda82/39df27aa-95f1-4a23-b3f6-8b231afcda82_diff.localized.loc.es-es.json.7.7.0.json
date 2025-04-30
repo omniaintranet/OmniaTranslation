@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Este perfil de negocio no se puede eliminar ya que actualmente está configurado como la ruta raíz. Por favor, asigna una ruta diferente antes de continuar. Recuerda asignar la ruta raíz a otro perfil de negocio."
+    }
+  }
+}

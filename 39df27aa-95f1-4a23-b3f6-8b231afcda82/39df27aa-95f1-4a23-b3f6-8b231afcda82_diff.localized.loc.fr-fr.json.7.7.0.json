@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Ceprofil d'entreprise ne peut pas être supprimé car il est actuellement défini comme le chemin racine. Veuillez attribuer un chemin différent avant de continuer. N'oubliez pas d'assigner la route racine à un autre profil d'entreprise."
+    }
+  }
+}
