@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "Liiketoimintaprofiili": {
-      "RootPathDeletionErrorMessage": "Tätä liiketoimintaprofiilia ei voida poistaa, koska se on tällä hetkellä asetettu juurireitiksi. Määritä toinen reitti ennen jatkamista. Muista määrittääjuurireitti toiselle liiketoimintaprofiilille."
+      "RootPathDeletionErrorMessage": "Tätä liiketoimintaprofiilia ei voi poistaa, sillä se on asetettu juuripoluksi. Sille tulee asettaa jokin toinen polku ennen poistamista. Muistathan asettaa jonkin toisen liiketoimintaprofiilin juuripoluksi."
     }
   }
 }
