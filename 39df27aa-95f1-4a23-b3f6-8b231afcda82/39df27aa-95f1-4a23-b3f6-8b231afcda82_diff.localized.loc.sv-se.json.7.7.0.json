@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "RootPathDeletionErrorMessage": "Denna affärsprofil kan inte raderas eftersom den för närvarande är inställd som rotväg. Vänligen tilldela en annan väg innan du fortsätter. Kom ihåg att tilldela rotvägen till en annan affärsprofil."
+      "RootPathDeletionErrorMessage": "Denna verksamhetsprofil kan inte tas bort eftersom den är inställd som rotsökväg. Vänligen ange annan sökväg innan du fortsätter. Kom också ihåg att tilldela rotsökvägen till en annan verksamhetsprofil."
     }
   }
 }
