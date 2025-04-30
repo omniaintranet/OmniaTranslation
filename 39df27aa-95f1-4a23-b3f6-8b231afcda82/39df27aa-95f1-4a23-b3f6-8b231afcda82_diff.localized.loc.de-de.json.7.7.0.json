@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Dieses Geschäftsprofil kann nicht gelöscht werden, da es derzeit als die Hauptroute festgelegt ist. Bitte weisen Sie eine andere Route zu, bevor Sie fortfahren. Denken Sie daran, die Hauptroute einem anderen Geschäftsprofil zuzuweisen."
+    }
+  }
+}
