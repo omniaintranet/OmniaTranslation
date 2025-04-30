@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Hồsơ doanh nghiệp này không thể bị xóa vì hiện tại nó được đặt làm đường dẫn gốc. Vui lòng chỉ định một đường dẫn khác trước khi tiếp tục. Nhớ chỉ định đường dẫn gốc cho một hồ sơ doanh nghiệp khác."
+    }
+  }
+}
