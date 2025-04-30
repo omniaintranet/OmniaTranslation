@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denne virksomhedsprofil kan ikke slettes, da den i øjeblikket er indstillet som rodvejen. Tildel venligst en anden vej, før du fortsætter. Husk at tildele rodvejen til en anden virksomhedsprofil."
+    }
+  }
+}
