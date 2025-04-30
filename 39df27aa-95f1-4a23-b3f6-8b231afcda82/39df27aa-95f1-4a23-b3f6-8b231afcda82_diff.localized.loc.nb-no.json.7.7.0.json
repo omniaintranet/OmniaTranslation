@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "RootPathDeletionErrorMessage": "Denne forretningsprofilen kan ikke slettes da den for øyeblikket er satt som rotbane. Vennligst tilordne en annen bane før du fortsetter. Husk å tilordne rotbanen til en annen forretningsprofil."
+    }
+  }
+}
