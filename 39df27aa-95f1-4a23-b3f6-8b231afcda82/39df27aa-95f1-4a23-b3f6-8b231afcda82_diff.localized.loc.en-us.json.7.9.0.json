@@ -3,8 +3,8 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Library Providers",
-          "SharePointMediaLibrary": "SharePoint Media Library"
+          "LibraryProviders": "Library providers",
+          "SharePointMediaLibrary": "SharePoint media library"
         }
       }
     }
@@ -29,7 +29,7 @@
           "Summary": "Use it to display shared links created in Omnia admin, either for the tenant or for a business profile."
         },
         "TaskRollup": {
-          "Summary": "Lists tasks assigned to the logged in user, from teamsites. Tasks from Planner may also be displayed."
+          "Summary": "Lists tasks from teamsites, assigned to the logged in user. Tasks from Planner may also be displayed."
         },
         "NotificationPanel": {
           "Summary": "Use it to display a notification panel set up in Omnia admin."
@@ -38,7 +38,7 @@
           "Summary": "Use it to configure a Trello list to display cards from."
         },
         "Search": {
-          "Summary": "This block block can be used for quick search or advanced search."
+          "Summary": "This block can be used for quick search or advanced search."
         },
         "Form": {
           "Summary": "Make a form available for users. These forms are created and maintained in Omnia admin."
