@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Danh sách tài liệu cho nhiều mục đích khác nhau, với các chế độ xem, bộ lọc và bộ tinh chỉnh khác nhau."
+        },
+        "DocumentLibrary": {
+          "Summary": "Thêm điều này vào một trang nơi bạn muốn làm việc với các tài liệu được kiểm soát."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Hiển thị nộidung quy trình - được thêm vào tab Nội dung bởi tác giả quy trình."
+        },
+        "Drawing": {
+          "Summary": "Hiển thị bản vẽ quy trình cho quy trình."
+        },
+        "Tasks": {
+          "Summary": "Hiển thị các nhiệm vụ mà tác giả quy trình đã thêm vào tab Nhiệm vụ cho quy trình."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Sử dụng nó trong ngữ cảnh quy trình để thiết lập và xem trạng thái cho một bước trong quy trình."
+        },
+        "Links": {
+          "Summary": "Hiển thị các liên kết mà tác giả quy trình đã thêm vào tab Liên kết cho quy trình."
+        },
+        "ProcessNavigation": {
+          "Summary": "Nó sẽ thêm mộtđiều hướng giống như điều hướng hiện tại cho các bước quy trình."
+        },
+        "ProcessContext": {
+          "Summary": "Sử dụng nó để hiển thị một quy trình cụ thể trên trang, dựa trên một thuộc tính."
+        },
+        "ProcessRollup": {
+          "Summary": "Danh sáchcác quy trình có sẵn, với khả năng lọc."
+        },
+        "Properties": {
+          "Summary": "Hiển thị các thuộc tính cho quy trình cho người dùng cuối, chẳng hạn như chủ sở hữu quy trình."
+        },
+        "Title": {
+          "Summary": "Hiển thị tiêu đề quy trình, được thêm cho quy trìnhbởi tác giả quy trình."
+        },
+        "Breadcrumb": {
+          "Summary": "Sử dụng nó để hiển thị một đường dẫn trên trang quy trình."
+        },
+        "Documents": {
+          "Summary": "Hiển thị danh sách tàiliệu - được thêm vào tab Tài liệu bởi tác giả quy trình."
+        },
+        "Pages": {
+          "Summary": "Danh sách các trang, được thêm vào tab Trang bởi tác giả quy trình."
+        },
+        "ProcessLayout": {
+          "Summary": "Hiển thị toàn bộ quy trình trênmột trang. Phải được kết hợp với khối ngữ cảnh quy trình."
+        }
+      }
+    }
+  }
+}
