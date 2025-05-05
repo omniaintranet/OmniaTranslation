@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Create content that is presented in an accordion style format, for FAQ:s and other purposes."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Page bulk update",
+        "UpdateStatus": "Update status",
+        "SearchProperty": "Search property",
+        "SearchValue": "Search value",
+        "PropertyValue": "Property value",
+        "NewValue": "New value",
+        "Replace": "Replace",
+        "ReplaceAll": "Replace all",
+        "Find": "Find",
+        "SelectItemRequiredMessage": "Please select at least one page to update.",
+        "ReplaceAllMessage": "Replace all searchable pages with the property above",
+        "Recalculate": "Recalculate",
+        "RecalculateAll": "Recalculate all",
+        "RecalculatePageTypeMessage": "Recalculate page type for selected pages",
+        "Logs": "Logs",
+        "SearchDeletedUsers": "Search deleted users",
+        "Columns": {
+          "WorkflowStatus": "Workflow status",
+          "PageType": "Page type",
+          "CreatedBy": "Created by"
+        },
+        "LogsTitle": "Page bulk update - logs",
+        "LogDetailsTitle": "Log detail - ",
+        "LogsColumns": {
+          "Started": "Started",
+          "Ended": "Ended",
+          "Status": "Status",
+          "Title": "Title",
+          "Message": "Message",
+          "Error": "Error"
+        },
+        "LogsStatus": {
+          "Queued": "Queued",
+          "Success": "Success",
+          "Error": "Error",
+          "InProgress": "In progress",
+          "Cancelled": "Cancelled"
+        },
+        "Log": {
+          "RecalculateSummary": "Apply the recalculation property to the page type: {0}.",
+          "ReplaceSummary": "Set the property with the internal name: {0} to the new value: {1}.",
+          "Total": "Total pages to update",
+          "TotalUpdatedPagesSuccess": "Total pages updated successfully",
+          "TotalUpdatedPagesFail": "Total pages update failed",
+          "TotalUpdatedPagesProcessed": "Total pages processed",
+          "ViewErrors": "View errors",
+          "Cancel": "Cancel",
+          "CancelMessage": "Cancel unassign bulk update task"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Display page usage fora business profile."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Display a simple analytics counter for a chosen website."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "List all or some of the communities available in one or more business profiles."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Version comparison type",
+      "CompareWithDefaultVariation": "Compare with default variation",
+      "CompareWithCurrentVariation": "Compare with current variation"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Compare versions"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Use it to add a banner to a page."
+        },
+        "Text": {
+          "Summary": "Use it to add text anywhere on a page, with or without default text."
+        },
+        "HtmlScript": {
+          "Summary": "Makes it possible to add HTML, Javascript and CSS."
+        },
+        "Media": {
+          "Summary": "Add an image or a video anywhere on a page."
+        },
+        "PageProperties": {
+          "Summary": "Display metadata about the page."
+        },
+        "RelatedLinks": {
+          "Summary": "Use it to add links to related pages or documents in the tenant, or a custom link to any web page."
+        },
+        "Breadcrumb": {
+          "Summary": "Makes it possible to navigate to any parent node of the current page."
+        },
+        "ActionButton": {
+          "Summary": "Add one or more actions activated by buttons on a page."
+        },
+        "CommentLike": {
+          "Summary": "Enable user interactions on pages."
+        },
+        "PageRollup": {
+          "Summary": "List pages for many different purposes, with different views, filters and refiners."
+        },
+        "CurrentNavigation": {
+          "Summary": "Makes it possible to navigate to siblings, parent nodes and parent node siblings."
+        },
+        "MegaMenu": {
+          "Summary": "Createa mega menu for a workspace, or for other purposes."
+        },
+        "RatePage": {
+          "Summary": "Makes it possible for users to rate content, using stars."
+        },
+        "CalendarRollup": {
+          "Summary": "Display events from one or more Outlook or Exchange calendars."
+        },
+        "VariationSelector": {
+          "Summary": "Makes it possible for end users to select a variation of the page."
+        },
+        "RSSReader": {
+          "Summary": "Using this block, notes from a RSS reader sourcecan be displayed on a page."
+        },
+        "ActivityFeed": {
+          "Summary": "Display activities for subscriptions the logged in user has, or for activities on content pages."
+        },
+        "PageFeedback": {
+          "Summary": "Makes it possible for users to send feedbackabout the page."
+        },
+        "Iframe": {
+          "Summary": "Display contents in an iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "List publishing channels for easy access for administrators and/or pending approvals for channels."
+        },
+        "PageNavigation": {
+          "Summary": "Add navigation through anchors within apage."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "List different types of media resources for easy access, mainly for end users. Can also be configured to be ofuse for editors."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Suspended"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Page review rule",
+            "RuleName": "Title",
+            "DateProperty": "Date property",
+            "MessageBarEnabled": "Show message bar",
+            "MessageBarTitle": "Message title",
+            "MessageBarBody": "Message body",
+            "MessageBarBackgroundColor": "Background color",
+            "MessageBarTextColor": "Text color",
+            "EmailEnabled": "Send Email",
+            "EmailSubject": "Email subject",
+            "EmailBody": "Email body",
+            "EmailRecipients": "Recipients",
+            "SuspendEnabled": "Set state Suspended",
+            "ChangePageTypeEnabled": "Change page type",
+            "PageType": "Page type",
+            "RemoveFromSearch": "Remove from search",
+            "Save": "Save",
+            "Add": "Add",
+            "Cancel": "Cancel",
+            "SendEmailDialog": {
+              "Title": "Send Email",
+              "Message": "Pick a date to review Emails sent based on this rule.",
+              "Buttons": {
+                "SendEmail": "Send"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Remove rule",
+            "ConfirmationMessage": "Are you sure you want to remove this rule?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Failed to fulfill page review rules from page type",
+            "Message": "The following properties need to be updated to a date in the future:",
+            "Close": "Close"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Enable variation specific permissions"
+    },
+    "SearchResultSource": {
+      "Suspended": "Suspended"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Can be used for various messages to the logged in user, onspecific dates or occasions."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Display the number of participants that has registered for the event and max number of participants."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "List participants that has registered for an event."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Suspended"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variation authors",
+        "EnableEditNotifications": "Notifications for edits of pages"
+      },
+      "PublishingAppRollup": {
+        "Summary": "The purpose of this block is to list publishing apps available in the business profile."
+      }
+    }
+  }
+}
