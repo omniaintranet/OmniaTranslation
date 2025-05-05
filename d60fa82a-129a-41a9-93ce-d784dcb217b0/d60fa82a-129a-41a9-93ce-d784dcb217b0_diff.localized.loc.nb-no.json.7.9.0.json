@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Lag innhold som presenteres i et akordeonformat, for FAQ-er og andre formål."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Masseoppdatering av sider",
+        "UpdateStatus": "Oppdater status",
+        "SearchProperty": "Søk eiendom",
+        "SearchValue": "Søk verdi",
+        "PropertyValue": "Eiendomsverdi",
+        "NewValue": "Ny verdi",
+        "Replace": "Erstatt",
+        "ReplaceAll": "Erstatt alle",
+        "Find": "Finn",
+        "SelectItemRequiredMessage": "Vennligst velg minst én side for oppdatering.",
+        "ReplaceAllMessage": "Erstatt alle søkbare sider med eiendommenovenfor",
+        "Recalculate": "Beregne på nytt",
+        "RecalculateAll": "Beregne alle på nytt",
+        "RecalculatePageTypeMessage": "Beregne sidetype for valgte sider",
+        "Logs": "Logger",
+        "SearchDeletedUsers": "Søk etter slettede brukere",
+        "Columns": {
+          "WorkflowStatus": "Arbeidsflytstatus",
+          "PageType": "Sidetype",
+          "CreatedBy": "Opprettet av"
+        },
+        "LogsTitle": "Masseoppdatering av sider - logger",
+        "LogDetailsTitle": "Loggdetalj - ",
+        "LogsColumns": {
+          "Started": "Startet",
+          "Ended": "Avsluttet",
+          "Status": "Status",
+          "Title": "Tittel",
+          "Message": "Melding",
+          "Error": "Feil"
+        },
+        "LogsStatus": {
+          "Queued": "I kø",
+          "Success": "Suksess",
+          "Error": "Feil",
+          "InProgress": "Pågår",
+          "Cancelled": "Avbrutt"
+        },
+        "Log": {
+          "RecalculateSummary": "Bruk beregningsegenskapen på sidetypen: {0}.",
+          "ReplaceSummary": "Sett eiendommen med det interne navnet: {0} til den nye verdien: {1}.",
+          "Total": "Totalt antall sider som skal oppdateres",
+          "TotalUpdatedPagesSuccess": "Totalt antall sider oppdatert med suksess",
+          "TotalUpdatedPagesFail": "Totalt antall sider oppdatering mislyktes",
+          "TotalUpdatedPagesProcessed": "Totalt antall sider behandlet",
+          "ViewErrors": "Vis feil",
+          "Cancel": "Avbryt",
+          "CancelMessage": "Avbryt avvikling av masseoppdateringsoppgave"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Vis sidebruk for en forretningsprofil."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Vis en enkel analyse teller for et valgt nettsted."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "List opp alle eller noen av samfunnene tilgjengelig i en eller flere forretningsprofiler."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Versjons sammenligningstype",
+      "CompareWithDefaultVariation": "Sammenlign med standard variasjon",
+      "CompareWithCurrentVariation": "Sammenlign med nåværende variasjon"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Sammenlign versjoner"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Bruk det for å legge til et banner på en side."
+        },
+        "Text": {
+          "Summary": "Bruk det for å legge til tekst hvor som helst på en side, med eller uten standard tekst."
+        },
+        "HtmlScript": {
+          "Summary": "Gjørdet mulig å legge til HTML, Javascript og CSS."
+        },
+        "Media": {
+          "Summary": "Legg til etbilde eller en video hvor som helst på en side."
+        },
+        "PageProperties": {
+          "Summary": "Vis metadata om siden."
+        },
+        "RelatedLinks": {
+          "Summary": "Bruk det for å legge til lenker til relaterte sider eller dokumenter i leietaker, eller en tilpasset lenke til en hvilken som helst nettside."
+        },
+        "Breadcrumb": {
+          "Summary": "Gjør det mulig å navigeretil hvilken som helst overordnet node av den nåværende siden."
+        },
+        "ActionButton": {
+          "Summary": "Legg til en eller flere handlinger aktivert av knapper på en side."
+        },
+        "CommentLike": {
+          "Summary": "Aktiver brukerinteraksjoner på sider."
+        },
+        "PageRollup": {
+          "Summary": "List sider for mange forskjellige formål, med forskjellige visninger, filtre og raffineringsverktøy."
+        },
+        "CurrentNavigation": {
+          "Summary": "Gjør det mulig å navigeretil søsken, overordnede noder og søsken til overordnede noder."
+        },
+        "MegaMenu": {
+          "Summary": "Lag en mega meny for et arbeidsområde, eller forandre formål."
+        },
+        "RatePage": {
+          "Summary": "Gjør det mulig for brukere å vurdere innhold, ved hjelp av stjerner."
+        },
+        "CalendarRollup": {
+          "Summary": "Vis hendelser fraen eller flere Outlook eller Exchange kalendere."
+        },
+        "VariationSelector": {
+          "Summary": "Gjør det mulig for sluttbrukere å velge en variasjon av siden."
+        },
+        "RSSReader": {
+          "Summary": "Ved å bruke denne blokkenkan notater fra en RSS-leser kilde vises på en side."
+        },
+        "ActivityFeed": {
+          "Summary": "Vis aktiviteter for abonnementer den innloggede brukeren har, eller for aktiviteter på innholdssider."
+        },
+        "PageFeedback": {
+          "Summary": "Gjør det mulig for brukere å sende tilbakemelding om siden."
+        },
+        "Iframe": {
+          "Summary": "Vis innhold i en iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "List publiseringskanaler for enkel tilgangfor administratorer og/eller ventende godkjenninger for kanaler."
+        },
+        "PageNavigation": {
+          "Summary": "Legg til navigasjon gjennom anker innen en side."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "List forskjellige typer medie ressurser for enkel tilgang, hovedsakelig for sluttbrukere. Kan også konfigureres for å være nyttig for redaktører."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Suspendert"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Regel for sidegjennomgang",
+            "RuleName": "Tittel",
+            "DateProperty": "Dato eiendom",
+            "MessageBarEnabled": "Vis meldingslinje",
+            "MessageBarTitle": "Meldings tittel",
+            "MessageBarBody": "Meldings kropp",
+            "MessageBarBackgroundColor": "Bakgrunnsfarge",
+            "MessageBarTextColor": "Tekstfarge",
+            "EmailEnabled": "Send e-post",
+            "EmailSubject": "E-post emne",
+            "EmailBody": "E-post kropp",
+            "EmailRecipients": "Mottakere",
+            "SuspendEnabled": "Sett tilstand til Suspendert",
+            "ChangePageTypeEnabled": "Endre sidetype",
+            "PageType": "Sidetype",
+            "RemoveFromSearch": "Fjern fra søk",
+            "Save": "Lagre",
+            "Add": "Legg til",
+            "Cancel": "Avbryt",
+            "SendEmailDialog": {
+              "Title": "Send e-post",
+              "Message": "Velg en dato for å gjennomgå e-poster sendt basert på denne regelen.",
+              "Buttons": {
+                "SendEmail": "Send"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Fjern regel",
+            "ConfirmationMessage": "Er du sikker på at du vil fjerne denne regelen?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Mislyktes i å oppfylle sidegjennomgangsregler fra sidetype",
+            "Message": "Følgende eiendommer må oppdateres til en dato i fremtiden:",
+            "Close": "Lukk"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Aktiver variasjonsspesifikke tillatelser"
+    },
+    "SearchResultSource": {
+      "Suspended": "Suspendert"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Kan brukes til forskjellige meldinger til den innloggede brukeren, på spesifikke datoer eller anledninger."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Vis antall deltakere som har registrert seg for arrangementet og maks antall deltakere."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "List deltakere som har registrert seg for et arrangement."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Suspendert"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variasjonsforfattere",
+        "EnableEditNotifications": "Varsler for redigering av sider"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Formålet med denne blokken er å liste publiseringsapper tilgjengelig i forretningsprofilen."
+      }
+    }
+  }
+}
