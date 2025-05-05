@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Library providers",
+          "SharePointMediaLibrary": "SharePoint media library"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Display Matomo analytics data."
+        },
+        "Filter": {
+          "BlockSummary": "Set filters to be used in several Analytics widget and/or Analytics report blocks on the page."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Display central announcements targeted to the logged in user."
+        },
+        "QuickLinks": {
+          "Summary": "Use it to display shared links created in Omnia admin, either for the tenant or for a business profile."
+        },
+        "TaskRollup": {
+          "Summary": "Lists tasks from teamsites, assigned to the logged in user. Tasks from Planner may also be displayed."
+        },
+        "NotificationPanel": {
+          "Summary": "Use it to display a notification panel set up in Omnia admin."
+        },
+        "TrelloCards": {
+          "Summary": "Use it to configure a Trello list to display cards from."
+        },
+        "Search": {
+          "Summary": "This block can be used for quick search or advanced search."
+        },
+        "Form": {
+          "Summary": "Make a form available for users. These forms are created and maintained in Omnia admin."
+        },
+        "FormQuestion": {
+          "Summary": "Used only when working with the graphic presentation of a form, in Omnia admin."
+        },
+        "FormRollup": {
+          "Summary": "List forms for various purposes, or display a number of forms to be used."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Display a Teams channel feed. The feed will be read only."
+        },
+        "PostsFeed": {
+          "Summary": "Makes it possible to post conversation messages in an app. Can also aggregate messages from several sources."
+        },
+        "Properties": {
+          "Title": "Properties",
+          "Summary": "Use this block to display information from a property."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Makes it possible to add an app built according to Microsoft’s Power App framework."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Display an organization tree based on information in Entra ID about who reports to who."
+    },
+    "QrCode": {
+      "Summary": "Use it to place a QR code on any Omnia page."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Can be used for different purposes regarding sign-off requests for pages and/or for controlled documents.",
+      "OpenInNewTab": "Open in new tab"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Create taxonomy based navigation. A common example is an organization chart."
+    },
+    "UserInformation": {
+      "BlockSummary": "Use it to display user information, for example on a custom user profile card."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Display the user profile progress as a percentage. Meant to be used with the new settings for user types."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "A Viva Engage feed can be displayed in this block."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Display statistics about teamwork, search , pages, user activity, broken links or failed access attempts."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "List team news for the logged in user."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "List team sites and other teamworks the logged in user has access to."
+        },
+        "CreateApp": {
+          "Summary": "Makes it possible to create an Omnia app; Publishing, Community or Teamwork."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "List people for many different purposes, with different views, filters and refiners."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Display how far the logged in user has come towards completing the profile, if using the older functionality."
+        }
+      }
+    }
+  }
+}
