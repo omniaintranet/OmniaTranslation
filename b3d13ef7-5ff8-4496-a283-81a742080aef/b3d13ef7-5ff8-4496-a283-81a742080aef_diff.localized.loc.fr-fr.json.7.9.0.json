@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Lister des documents pour de nombreux usages différents, avec différentes vues, filtreset affinateurs."
+        },
+        "DocumentLibrary": {
+          "Summary": "Ajoutez ceci à une page où vous souhaitez travailler avec des documents contrôlés."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Afficher le contenu du processus - ajouté dans l'onglet Contenu par l'auteur du processus."
+        },
+        "Drawing": {
+          "Summary": "Afficher le dessin du processus pour le processus."
+        },
+        "Tasks": {
+          "Summary": "Afficher les tâches que l'auteur du processus aajoutées à l'onglet Tâches pour le processus."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Utilisez-le dans un contexte de processus pour définir et afficher le statut d'une étape dans le processus."
+        },
+        "Links": {
+          "Summary": "Afficher les liens que l'auteur du processus a ajoutés à l'onglet Liens pour le processus."
+        },
+        "ProcessNavigation": {
+          "Summary": "Cela ajoutera une navigation actuelle semblable à une navigation pour les étapes du processus."
+        },
+        "ProcessContext": {
+          "Summary": "Utilisez-le pour afficher un processusspécifique sur la page, basé sur une propriété."
+        },
+        "ProcessRollup": {
+          "Summary": "Lister les processus disponibles, avec des possibilités de filtrage."
+        },
+        "Properties": {
+          "Summary": "Afficher les propriétésdu processus pour les utilisateurs finaux, par exemple le propriétaire du processus."
+        },
+        "Title": {
+          "Summary": "Afficher le titre du processus, ajouté pour le processus par l'auteur du processus."
+        },
+        "Breadcrumb": {
+          "Summary": "Utilisez-le pourafficher un fil d'Ariane sur une page de processus."
+        },
+        "Documents": {
+          "Summary": "Afficher une liste de documents - ajoutée dans l'onglet Documents par l'auteur du processus."
+        },
+        "Pages": {
+          "Summary": "Lister les pages, ajoutées dans l'onglet Pages par l'auteur du processus."
+        },
+        "ProcessLayout": {
+          "Summary": "Afficher l'ensemble du processus sur une page. Doit être combiné avec le bloc de contexte de processus."
+        }
+      }
+    }
+  }
+}
