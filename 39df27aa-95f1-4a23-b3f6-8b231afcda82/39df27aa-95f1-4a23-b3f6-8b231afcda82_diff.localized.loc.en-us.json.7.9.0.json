@@ -16,7 +16,7 @@
           "BlockSummary": "Display Matomo analytics data."
         },
         "Filter": {
-          "BlockSummary": "Set filters to be usedin several Analytics widget and/or Analytics report blocks on the page."
+          "BlockSummary": "Set filters to be used in several Analytics widget and/or Analytics report blocks on the page."
         }
       }
     },
@@ -29,7 +29,7 @@
           "Summary": "Use it to display shared links created in Omnia admin, either for the tenant or for a business profile."
         },
         "TaskRollup": {
-          "Summary": "Lists tasks from teamsites, assigned to the logged in user. Tasks from Planner may also be displayed."
+          "Summary": "List tasks from teamsites, assigned to the logged in user. Tasks from Planner may also be displayed."
         },
         "NotificationPanel": {
           "Summary": "Use it to display a notification panel set up in Omnia admin."
@@ -38,7 +38,7 @@
           "Summary": "Use it to configure a Trello list to display cards from."
         },
         "Search": {
-          "Summary": "This block can be usedfor quick search or advanced search."
+          "Summary": "This block can be used for quick search or advanced search."
         },
         "Form": {
           "Summary": "Make a form available for users. These forms are created and maintained in Omnia admin."
@@ -50,7 +50,7 @@
           "Summary": "List forms for various purposes, or display a number of forms to be used."
         },
         "MicrosoftTeamChannelFeed": {
-          "Summary": "Display a Teams channel feed. Thefeed will be read only."
+          "Summary": "Display a Teams channel feed. The feed will be read only."
         },
         "PostsFeed": {
           "Summary": "Makes it possible to post conversation messages in an app. Can also aggregate messages from several sources."
@@ -63,17 +63,17 @@
     },
     "PowerApp": {
       "PowerAppBlock": {
-        "BlockSummary": "Makes it possible to add an app built according to Microsoft’s Power App framework."
+        "BlockSummary": "Makes it possible to add an app built according to Microsoft’s Power app framework."
       }
     },
     "OrgTreeBlock": {
-      "BlockSummary": "Display an organization tree basedon information in Entra ID about who reports to who."
+      "BlockSummary": "Display an organization tree based on information in Entra ID about who reports to who."
     },
     "QrCode": {
       "Summary": "Use it to place a QR code on any Omnia page."
     },
     "SignOffRequest": {
-      "BlockSummary": "Canbe used for different purposes regarding sign-off requests for pages and/or for controlled documents.",
+      "BlockSummary": "Can be used for different purposes regarding sign-off requests for pages and/or for controlled documents.",
       "OpenInNewTab": "Open in new tab"
     },
     "TaxonomyNavigation": {
@@ -97,7 +97,7 @@
   },
   "OmniaTenantAdministration": {
     "GovernanceDashboard": {
-      "BlockSummary": "Display statistics about teamwork, search , pages, user activity, broken links orfailed access attempts."
+      "BlockSummary": "Display statistics about teamwork, search , pages, user activity, broken links or failed access attempts."
     }
   },
   "OmniaTeamCollaboration": {
