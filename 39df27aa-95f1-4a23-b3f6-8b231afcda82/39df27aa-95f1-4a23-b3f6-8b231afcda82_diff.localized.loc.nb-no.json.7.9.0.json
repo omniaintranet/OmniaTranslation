@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Biblioteksleverandører",
+          "SharePointMediaLibrary": "SharePointmediebibliotek"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Vis Matomo analyse data."
+        },
+        "Filter": {
+          "BlockSummary": "Sett filtre som skal brukes i flere Analytics-widgeter og/eller Analytics-rapporter på siden."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Vis sentrale kunngjøringer rettet mot den innloggede brukeren."
+        },
+        "QuickLinks": {
+          "Summary": "Bruk det til å vise delte lenker opprettet i Omnia admin, enten for leietaker eller for en forretningsprofil."
+        },
+        "TaskRollup": {
+          "Summary": "Lister oppgaver fra teamsider, tildelt den innloggede brukeren. Oppgaver fra Planner kan også vises."
+        },
+        "NotificationPanel": {
+          "Summary": "Bruk det til å vise et varslingspanel satt opp i Omnia admin."
+        },
+        "TrelloCards": {
+          "Summary": "Bruk det til å konfigurere en Trello-liste for å vise kort fra."
+        },
+        "Search": {
+          "Summary": "Denne blokken kan brukes til rask søk eller avansert søk."
+        },
+        "Form": {
+          "Summary": "Gjør et skjema tilgjengelig for brukere. Disse skjemaene opprettes og vedlikeholdes i Omnia admin."
+        },
+        "FormQuestion": {
+          "Summary": "Brukes kun når man arbeider med den grafiskepresentasjonen av et skjema, i Omnia admin."
+        },
+        "FormRollup": {
+          "Summary": "Lister skjemaer for ulike formål, eller viser et antall skjemaer som skal brukes."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Vis en Teams-kanal feed. Feedenvil være skrivebeskyttet."
+        },
+        "PostsFeed": {
+          "Summary": "Gjør det mulig å poste samtalebeskjeder i en app. Kan også aggregere meldinger fra flere kilder."
+        },
+        "Properties": {
+          "Title": "Egenskaper",
+          "Summary": "Bruk denne blokken til åvise informasjon fra en eiendom."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Gjør det mulig å leggetil en app bygget i henhold til Microsofts Power App-rammeverk."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Vis et organisasjonskart basert på informasjon i Entra ID om hvem som rapporterer til hvem."
+    },
+    "QrCode": {
+      "Summary": "Bruk det til å plassere en QR-kode på hvilken som helst Omnia-side."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Kan brukes til forskjellige formål angående signeringsforespørsler for sider og/eller for kontrollerte dokumenter.",
+      "OpenInNewTab": "Åpne i ny fane"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Opprett taksonomi-basert navigasjon. Et vanlig eksempel er et organisasjonskart."
+    },
+    "UserInformation": {
+      "BlockSummary": "Bruk det til å vise brukerinfo, for eksempel på et tilpasset brukerprofilkort."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Vis fremdriften til brukerprofilen som en prosentandel. Ment å brukes med de nye innstillingene for brukertyper."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "En Viva Engage-feed kan vises i denne blokken."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Vis statistikk om teamarbeid, søk, sider, brukeraktivitet, ødelagte lenker eller mislykkede tilgangsforsøk."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "Lister teamnyheter for den innloggede brukeren."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "Lister teamsider og annet teamarbeid som den innloggede brukeren har tilgang til."
+        },
+        "CreateApp": {
+          "Summary": "Gjør det mulig å opprette en Omnia-app; Publisering, Fellesskap eller Teamarbeid."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "Lister personer for mange forskjellige formål, med forskjellige visninger, filtre og avgrensninger."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Vis hvor langt den innloggede brukeren har kommet mot å fullføre profilen, hvis man bruker den eldre funksjonaliteten."
+        }
+      }
+    }
+  }
+}
