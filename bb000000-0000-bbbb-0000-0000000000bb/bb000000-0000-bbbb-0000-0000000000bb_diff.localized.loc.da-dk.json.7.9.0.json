@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "En sektion forudkonfigureret som et akordeon",
+            "StepperDescription": "En sektion forudkonfigureret som en stepper"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "En sektion i fuld bredde",
+          "TwoColumnsDescription": "En sektion i fuld bredde med to forudkonfigurerede kolonner",
+          "ThreeColumnsDescription": "En sektion i fuld breddemed tre forudkonfigurerede kolonner",
+          "TabDescription": "En sektion forudkonfigureret med faner"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Bruges kun til autentifikationsskærme."
+      },
+      "BlockGallery": {
+        "Title": "Blokgalleri",
+        "Settings": "Indstillinger",
+        "EnableModernDialogSwitch": "Moderne 'Tilføj indhold' dialog",
+        "BlockTemplates": {
+          "Title": "Blokskabeloner",
+          "Create": "Opret skabelon",
+          "Fields": {
+            "Definition": "Definition"
+          },
+          "InvalidJsonField": "Indholdet er ikke en gyldig json-struktur",
+          "ErrorMsg": "Der opstod en fejl",
+          "EmptyMsg": "Ingen blokskabelon fundet",
+          "DeleteConfirmationMessage": "Er du sikker på, at du vil slette blokskabelonen? Den vil ikke blive fjernet automatisk fra den eksisterende blokskabelon-dialog, du skal fjerne den manuelt.",
+          "DeleteConfirmationTitle": "Slet blokskabelon"
+        },
+        "BlockDialog": {
+          "Title": "Blokdialog",
+          "AddBlocks": "Tilføj blokke",
+          "AddHeader": "Tilføj header",
+          "EditHeader": "Rediger header",
+          "ManageList": "Administrer liste",
+          "Confirm": "Bekræft",
+          "DeletedItemWarning": "Denne genstand er blevet slettet",
+          "DeleteItemTitle": "Slettet genstand",
+          "Header": "Header",
+          "EmptyMsg": "Ingen genstand fundet"
+        },
+        "BlockDialogLayout": {
+          "Title": "Blokdialoglayout",
+          "Default": "Standard",
+          "Authentication": "Autentifikation",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Administrer blokskabeloner"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Blokskabelonredigerer"
+      }
+    }
+  }
+}
