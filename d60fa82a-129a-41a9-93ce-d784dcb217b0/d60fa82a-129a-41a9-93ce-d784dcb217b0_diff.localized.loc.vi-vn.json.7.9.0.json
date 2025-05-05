@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Tạo nội dungđược trình bày theo định dạng accordion, cho các câu hỏi thường gặp và các mục đích khác."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Cập nhật hàng loạt trang",
+        "UpdateStatus": "Cập nhật trạng thái",
+        "SearchProperty": "Tìm kiếm thuộc tính",
+        "SearchValue": "Tìm kiếm giá trị",
+        "PropertyValue": "Giá trị thuộc tính",
+        "NewValue": "Giá trị mới",
+        "Replace": "Thay thế",
+        "ReplaceAll": "Thay thế tất cả",
+        "Find": "Tìm",
+        "SelectItemRequiredMessage": "Vui lòng chọn ít nhất một trang đểcập nhật.",
+        "ReplaceAllMessage": "Thay thế tất cả các trang có thể tìm kiếm bằng thuộc tính trên",
+        "Recalculate": "Tính lại",
+        "RecalculateAll": "Tính lại tất cả",
+        "RecalculatePageTypeMessage": "Tính lại loại trang cho các trang đã chọn",
+        "Logs": "Nhật ký",
+        "SearchDeletedUsers": "Tìm kiếm người dùng đã xóa",
+        "Columns": {
+          "WorkflowStatus": "Trạng thái quy trình",
+          "PageType": "Loại trang",
+          "CreatedBy": "Được tạo bởi"
+        },
+        "LogsTitle": "Cập nhật hàng loạt trang - nhật ký",
+        "LogDetailsTitle": "Chi tiết nhật ký - ",
+        "LogsColumns": {
+          "Started": "Bắt đầu",
+          "Ended": "Kết thúc",
+          "Status": "Trạng thái",
+          "Title": "Tiêu đề",
+          "Message": "Tin nhắn",
+          "Error": "Lỗi"
+        },
+        "LogsStatus": {
+          "Queued": "Đang chờ",
+          "Success": "Thành công",
+          "Error": "Lỗi",
+          "InProgress": "Đang tiến hành",
+          "Cancelled": "Đã hủy"
+        },
+        "Log": {
+          "RecalculateSummary": "Áp dụng thuộc tính tính lại cho loại trang: {0}.",
+          "ReplaceSummary": "Đặt thuộc tính với tên nội bộ: {0} thành giá trị mới: {1}.",
+          "Total": "Tổng số trang cần cập nhật",
+          "TotalUpdatedPagesSuccess": "Tổng số trang đã cập nhật thành công",
+          "TotalUpdatedPagesFail": "Tổng số trang cập nhật thất bại",
+          "TotalUpdatedPagesProcessed": "Tổng số trang đã xử lý",
+          "ViewErrors": "Xem lỗi",
+          "Cancel": "Hủy",
+          "CancelMessage": "Hủy nhiệm vụ cập nhậthàng loạt không được chỉ định"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Hiển thị việc sử dụng trang cho một hồ sơ doanh nghiệp."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Hiển thị một bộ đếm phân tích đơn giản cho một trang web đã chọn."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Liệt kê tất cả hoặc một số cộng đồngcó sẵn trong một hoặc nhiều hồ sơ doanh nghiệp."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Loại so sánh phiên bản",
+      "CompareWithDefaultVariation": "So sánh với biến thể mặc định",
+      "CompareWithCurrentVariation": "So sánh với biến thể hiện tại"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "So sánh phiên bản"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Sử dụng để thêm một banner vào trang."
+        },
+        "Text": {
+          "Summary": "Sử dụng để thêm văn bản ở bất kỳ đâu trên trang, có hoặc không có văn bản mặc định."
+        },
+        "HtmlScript": {
+          "Summary": "Cho phép thêm HTML, Javascript và CSS."
+        },
+        "Media": {
+          "Summary": "Thêm hình ảnh hoặc video ở bất kỳ đâu trên trang."
+        },
+        "PageProperties": {
+          "Summary": "Hiển thị siêu dữ liệu về trang."
+        },
+        "RelatedLinks": {
+          "Summary": "Sử dụng để thêm liên kết đến các trang hoặc tài liệu liên quan trong tenant, hoặc một liên kết tùy chỉnh đến bất kỳ trang web nào."
+        },
+        "Breadcrumb": {
+          "Summary": "Cho phép điều hướng đến bất kỳ nút cha nào của trang hiện tại."
+        },
+        "ActionButton": {
+          "Summary": "Thêm một hoặc nhiều hành động được kích hoạt bởi các nút trên trang."
+        },
+        "CommentLike": {
+          "Summary": "Cho phép người dùng tương tác trên các trang."
+        },
+        "PageRollup": {
+          "Summary": "Liệt kê các trang cho nhiều mục đích khác nhau, với các chế độ xem, bộ lọc và bộ tinh chỉnh khác nhau."
+        },
+        "CurrentNavigation": {
+          "Summary": "Cho phép điều hướng đến các nút anhem, nút cha và các nút cha của nút cha."
+        },
+        "MegaMenu": {
+          "Summary": "Tạo một menu lớn cho một không gian làm việc, hoặc cho các mục đích khác."
+        },
+        "RatePage": {
+          "Summary": "Cho phép người dùng đánh giá nội dung, sử dụng sao."
+        },
+        "CalendarRollup": {
+          "Summary": "Hiển thị các sự kiện từ một hoặc nhiều lịch Outlook hoặc Exchange."
+        },
+        "VariationSelector": {
+          "Summary": "Cho phép người dùng cuối chọn một biến thể của trang."
+        },
+        "RSSReader": {
+          "Summary": "Sử dụng khối này, các ghi chú từ nguồn RSS có thể được hiển thị trên một trang."
+        },
+        "ActivityFeed": {
+          "Summary": "Hiển thị các hoạt động cho các đăng ký mà người dùng đã đăng nhập có, hoặc cho các hoạt động trên các trang nội dung."
+        },
+        "PageFeedback": {
+          "Summary": "Cho phép người dùng gửi phản hồi về trang."
+        },
+        "Iframe": {
+          "Summary": "Hiển thị nội dung trong một iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "Liệt kê các kênh xuất bản để dễ dàng truy cập cho các quản trị viên và/hoặc các phê duyệt đang chờ cho các kênh."
+        },
+        "PageNavigation": {
+          "Summary": "Thêm điều hướng thông qua các điểm neo trong một trang."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Liệt kê các loại tài nguyên truyền thông khác nhau để dễ dàng truy cập, chủ yếu cho người dùng cuối. Cũng có thể được cấu hình để hữu ích cho các biên tập viên."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Đã tạm dừng"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Quy tắc xem xét trang",
+            "RuleName": "Tiêu đề",
+            "DateProperty": "Thuộc tính ngày",
+            "MessageBarEnabled": "Hiển thị thanh thông báo",
+            "MessageBarTitle": "Tiêu đề thông báo",
+            "MessageBarBody": "Nội dung thông báo",
+            "MessageBarBackgroundColor": "Màu nền",
+            "MessageBarTextColor": "Màu văn bản",
+            "EmailEnabled": "Gửi Email",
+            "EmailSubject": "Chủ đề Email",
+            "EmailBody": "Nội dung Email",
+            "EmailRecipients": "Người nhận",
+            "SuspendEnabled": "Đặt trạng thái Tạm dừng",
+            "ChangePageTypeEnabled": "Thay đổi loại trang",
+            "PageType": "Loại trang",
+            "RemoveFromSearch": "Xóa khỏi tìm kiếm",
+            "Save": "Lưu",
+            "Add": "Thêm",
+            "Cancel": "Hủy",
+            "SendEmailDialog": {
+              "Title": "Gửi Email",
+              "Message": "Chọn một ngày để xem xét các Email đã gửi dựa trên quy tắc này.",
+              "Buttons": {
+                "SendEmail": "Gửi"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Xóa quy tắc",
+            "ConfirmationMessage": "Bạn có chắc chắn muốn xóa quy tắc này không?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Không thể thực hiện các quy tắc xem xét trang từ loại trang",
+            "Message": "Các thuộc tính sau cần được cập nhật đếnmột ngày trong tương lai:",
+            "Close": "Đóng"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Bật quyền truy cập cụ thể cho biến thể"
+    },
+    "SearchResultSource": {
+      "Suspended": "Đãtạm dừng"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Có thể được sử dụng cho nhiều thông điệp khác nhau đến người dùng đã đăng nhập, vào những ngày hoặc dịp cụ thể."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Hiển thị số lượngngười tham gia đã đăng ký cho sự kiện và số lượng tối đa người tham gia."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Liệt kê những người tham gia đã đăng ký cho một sự kiện."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Đã tạm dừng"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Tác giả biến thể",
+        "EnableEditNotifications": "Thông báo cho các chỉnh sửa của trang"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Mục đích của khối này là liệt kê các ứng dụng xuất bản có sẵn trong hồ sơ doanh nghiệp."
+      }
+    }
+  }
+}
