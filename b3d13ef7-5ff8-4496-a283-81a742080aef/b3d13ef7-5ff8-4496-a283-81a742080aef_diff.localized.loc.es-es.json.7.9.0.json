@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Lista de documentos para muchos propósitos diferentes, con diferentes vistas, filtros y refinadores."
+        },
+        "DocumentLibrary": {
+          "Summary": "Añade esto a una página donde quieras trabajar con documentos controlados."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Muestra el contenido del proceso - añadido en la pestaña Contenido por el autor del proceso."
+        },
+        "Drawing": {
+          "Summary": "Muestra el dibujo del proceso para el proceso."
+        },
+        "Tasks": {
+          "Summary": "Muestra las tareas que el autor del proceso añadió a la pestaña Tareas para el proceso."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Úsalo en un contexto de proceso para establecer y ver el estado de un paso en el proceso."
+        },
+        "Links": {
+          "Summary": "Muestra los enlaces que el autor del proceso añadió a la pestaña Enlaces para el proceso."
+        },
+        "ProcessNavigation": {
+          "Summary": "Añadirá una navegación actual similara la navegación para los pasos del proceso."
+        },
+        "ProcessContext": {
+          "Summary": "Úsalopara mostrar un proceso específico en la página, basado en una propiedad."
+        },
+        "ProcessRollup": {
+          "Summary": "Lista los procesos disponibles, con posibilidades de filtrado."
+        },
+        "Properties": {
+          "Summary": "Muestra propiedades del proceso para los usuarios finales, por ejemplo, el propietario del proceso."
+        },
+        "Title": {
+          "Summary": "Muestra el título del proceso, añadido para el proceso por el autor del proceso."
+        },
+        "Breadcrumb": {
+          "Summary": "Úsalo para mostrar una migaja de pan en una página de proceso."
+        },
+        "Documents": {
+          "Summary": "Muestra una lista de documentos - añadidos en la pestaña Documentos por el autor del proceso."
+        },
+        "Pages": {
+          "Summary": "Lista las páginas, añadidas en la pestaña Páginaspor el autor del proceso."
+        },
+        "ProcessLayout": {
+          "Summary": "Muestra todo el proceso en una página. Debe combinarse con el bloque de contexto del proceso."
+        }
+      }
+    }
+  }
+}
