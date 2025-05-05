@@ -7,12 +7,12 @@
     },
     "Admin": {
       "PageBulkUpdate": {
-        "Title": "Page Bulk Update",
-        "UpdateStatus": "Update Status",
-        "SearchProperty": "Search Property",
-        "SearchValue": "Search Value",
-        "PropertyValue": "Property Value",
-        "NewValue": "New Value",
+        "Title": "Page bulk update",
+        "UpdateStatus": "Update status",
+        "SearchProperty": "Search property",
+        "SearchValue": "Search value",
+        "PropertyValue": "Property value",
+        "NewValue": "New value",
         "Replace": "Replace",
         "ReplaceAll": "Replace all",
         "Find": "Find",
@@ -24,12 +24,12 @@
         "Logs": "Logs",
         "SearchDeletedUsers": "Search deleted users",
         "Columns": {
-          "WorkflowStatus": "Workflow Status",
-          "PageType": "Page Type",
-          "CreatedBy": "Created By"
+          "WorkflowStatus": "Workflow status",
+          "PageType": "Page type",
+          "CreatedBy": "Created by"
         },
-        "LogsTitle": "Page Bulk Update - Logs",
-        "LogDetailsTitle": "Log Detail - ",
+        "LogsTitle": "Page bulk update - logs",
+        "LogDetailsTitle": "Log detail - ",
         "LogsColumns": {
           "Started": "Started",
           "Ended": "Ended",
@@ -74,7 +74,7 @@
       }
     },
     "ContentBlock": {
-      "VersionComparisonType": "Version Comparison Type",
+      "VersionComparisonType": "Version comparison type",
       "CompareWithDefaultVariation": "Compare with default variation",
       "CompareWithCurrentVariation": "Compare with current variation"
     },
@@ -126,7 +126,7 @@
           "Summary": "Display events from one or more Outlook or Exchange calendars."
         },
         "VariationSelector": {
-          "Summary": "Make it possible for end users to select a variation of the page."
+          "Summary": "Makes it possible for end users to select a variation of the page."
         },
         "RSSReader": {
           "Summary": "Using this block, notes from a RSS reader source can be displayed on a page."
@@ -162,7 +162,7 @@
         },
         "Dialogs": {
           "PageReviewRule": {
-            "Title": "Page Review Rule",
+            "Title": "Page review rule",
             "RuleName": "Title",
             "DateProperty": "Date property",
             "MessageBarEnabled": "Show message bar",
@@ -170,20 +170,20 @@
             "MessageBarBody": "Message body",
             "MessageBarBackgroundColor": "Background color",
             "MessageBarTextColor": "Text color",
-            "EmailEnabled": "Send email",
+            "EmailEnabled": "Send Email",
             "EmailSubject": "Email subject",
             "EmailBody": "Email body",
             "EmailRecipients": "Recipients",
             "SuspendEnabled": "Set state Suspended",
             "ChangePageTypeEnabled": "Change page type",
-            "PageType": "Page Type",
+            "PageType": "Page type",
             "RemoveFromSearch": "Remove from search",
             "Save": "Save",
             "Add": "Add",
             "Cancel": "Cancel",
             "SendEmailDialog": {
-              "Title": "Send email",
-              "Message": "Pick a date to review email sends based on this rule.",
+              "Title": "Send Email",
+              "Message": "Pick a date to review Emails sent based on this rule.",
               "Buttons": {
                 "SendEmail": "Send"
               }
@@ -231,7 +231,7 @@
     },
     "PublishingApp": {
       "Variation": {
-        "VariationAuthors": "Variation Authors",
+        "VariationAuthors": "Variation authors",
         "EnableEditNotifications": "Notifications for edits of pages"
       },
       "PublishingAppRollup": {
