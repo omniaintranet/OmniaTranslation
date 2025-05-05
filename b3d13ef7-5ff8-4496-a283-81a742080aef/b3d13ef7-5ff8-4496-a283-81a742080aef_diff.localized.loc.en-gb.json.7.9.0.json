@@ -15,7 +15,7 @@
     "Core": {
       "BlockDefinitions": {
         "Content": {
-          "Summary": "Displaythe process content - added on the Content tab by the process author."
+          "Summary": "Display the process content - added on the Content tab by the process author."
         },
         "Drawing": {
           "Summary": "Display the process drawing for the process."
@@ -24,10 +24,10 @@
           "Summary": "Display tasks the process author added to the Tasks tab for the process."
         },
         "ProcessStepStatus": {
-          "Summary": "Use it in a processcontext to set and view the status for a step in the process."
+          "Summary": "Use it in a process context to set and view the status for a step in the process."
         },
         "Links": {
-          "Summary": "Display the links the process author added to theLinks tab for the process."
+          "Summary": "Display the links the process author added to the Links tab for the process."
         },
         "ProcessNavigation": {
           "Summary": "It will add a current navigation-like feature for the process steps."
@@ -39,22 +39,22 @@
           "Summary": "List available processes, with filtering options."
         },
         "Properties": {
-          "Summary": "Display propertiesfor the process for end users, such as process owner."
+          "Summary": "Display properties for the process for end users, such as process owner."
         },
         "Title": {
-          "Summary": "Display the process title, added for the process bythe process author."
+          "Summary": "Display the process title, added for the process by the process author."
         },
         "Breadcrumb": {
-          "Summary": "Use it to display a breadcrumb ona process page."
+          "Summary": "Use it to display a breadcrumb on a process page."
         },
         "Documents": {
-          "Summary": "Display a list of documents - added onthe Documents tab by the process author."
+          "Summary": "Display a list of documents - added on the Documents tab by the process author."
         },
         "Pages": {
-          "Summary": "Lists the pages, added on the Pages tab by the process author."
+          "Summary": "List the pages, added on the Pages tab by the process author."
         },
         "ProcessLayout": {
-          "Summary": "Display the entire process on a page. Mustbe combined with the Process context block."
+          "Summary": "Display the entire process on a page. Must be combined with the Process context block."
         }
       }
     }
