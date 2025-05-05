@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Skapa innehåll som presenteras i ett akordeonformat, för FAQ:s och andra ändamål."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Massuppdatering av sidor",
+        "UpdateStatus": "Uppdatera status",
+        "SearchProperty": "Sök egenskap",
+        "SearchValue": "Sök värde",
+        "PropertyValue": "Egenskapsvärde",
+        "NewValue": "Nytt värde",
+        "Replace": "Ersätt",
+        "ReplaceAll": "Ersätt alla",
+        "Find": "Hitta",
+        "SelectItemRequiredMessage": "Vänligen välj minst en sida att uppdatera.",
+        "ReplaceAllMessage": "Ersätt alla sökbara sidor med egenskapen ovan",
+        "Recalculate": "Beräkna om",
+        "RecalculateAll": "Beräkna om alla",
+        "RecalculatePageTypeMessage": "Beräkna om sidtyp för valda sidor",
+        "Logs": "Loggar",
+        "SearchDeletedUsers": "Sök borttagna användare",
+        "Columns": {
+          "WorkflowStatus": "Arbetsflödesstatus",
+          "PageType": "Sidtyp",
+          "CreatedBy": "Skapad av"
+        },
+        "LogsTitle": "Massuppdatering av sidor - loggar",
+        "LogDetailsTitle": "Loggdetalj - ",
+        "LogsColumns": {
+          "Started": "Startad",
+          "Ended": "Avslutad",
+          "Status": "Status",
+          "Title": "Titel",
+          "Message": "Meddelande",
+          "Error": "Fel"
+        },
+        "LogsStatus": {
+          "Queued": "I kö",
+          "Success": "Lyckad",
+          "Error": "Fel",
+          "InProgress": "Pågående",
+          "Cancelled": "Avbruten"
+        },
+        "Log": {
+          "RecalculateSummary": "Tillämpa omberäkningsegenskapen på sidtypen: {0}.",
+          "ReplaceSummary": "Ställ in egenskapen med det interna namnet: {0} till detnya värdet: {1}.",
+          "Total": "Totalt antal sidor att uppdatera",
+          "TotalUpdatedPagesSuccess": "Totalt antal sidor uppdaterade framgångsrikt",
+          "TotalUpdatedPagesFail": "Totalt antal sidor uppdatering misslyckades",
+          "TotalUpdatedPagesProcessed": "Totalt antal sidor bearbetade",
+          "ViewErrors": "Visa fel",
+          "Cancel": "Avbryt",
+          "CancelMessage": "Avbryt avregistrera massuppdateringsuppgift"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Visa sidanvändning för en affärsprofil."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Visa en enkel analysräknare för en vald webbplats."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Lista alla eller några av de gemenskaper som finns i en eller flera affärsprofiler."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Versionsjämförelsetyp",
+      "CompareWithDefaultVariation": "Jämför med standardvariation",
+      "CompareWithCurrentVariation": "Jämför med nuvarande variation"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Jämför versioner"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Använd den för att lägga tillen banner på en sida."
+        },
+        "Text": {
+          "Summary": "Använd den för att lägga till text var som helst på en sida, med eller utan standardtext."
+        },
+        "HtmlScript": {
+          "Summary": "Gör det möjligt att lägga till HTML, Javascript och CSS."
+        },
+        "Media": {
+          "Summary": "Lägg till en bild eller en video var som helst på en sida."
+        },
+        "PageProperties": {
+          "Summary": "Visa metadata om sidan."
+        },
+        "RelatedLinks": {
+          "Summary": "Använd den för att lägga till länkar till relaterade sidor eller dokument i hyresgästen, eller en anpassad länk till vilken webbsida som helst."
+        },
+        "Breadcrumb": {
+          "Summary": "Gör det möjligt att navigera till vilken överordnad nod som helst på den aktuella sidan."
+        },
+        "ActionButton": {
+          "Summary": "Lägg till en eller flera åtgärder aktiveradeav knappar på en sida."
+        },
+        "CommentLike": {
+          "Summary": "Aktivera användarinteraktioner på sidor."
+        },
+        "PageRollup": {
+          "Summary": "Lista sidor för mångaolika ändamål, med olika vyer, filter och refiners."
+        },
+        "CurrentNavigation": {
+          "Summary": "Gör det möjligt att navigera till syskon, överordnade noder och syskon till överordnade noder."
+        },
+        "MegaMenu": {
+          "Summary": "Skapa en megameny för en arbetsyta, eller för andra ändamål."
+        },
+        "RatePage": {
+          "Summary": "Gör det möjligt för användare att betygsätta innehåll, med stjärnor."
+        },
+        "CalendarRollup": {
+          "Summary": "Visa evenemangfrån en eller flera Outlook- eller Exchange-kalendrar."
+        },
+        "VariationSelector": {
+          "Summary": "Gör det möjligt för slutanvändare att välja en variation av sidan."
+        },
+        "RSSReader": {
+          "Summary": "Med hjälp av denna block kan anteckningar från en RSS-läsarkälla visas på en sida."
+        },
+        "ActivityFeed": {
+          "Summary": "Visa aktiviteter för prenumerationer som den inloggade användaren har, eller för aktiviteter på innehållssidor."
+        },
+        "PageFeedback": {
+          "Summary": "Gör det möjligt för användare att skicka feedback om sidan."
+        },
+        "Iframe": {
+          "Summary": "Visa innehåll i en iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "Lista publiceringskanaler för enkel åtkomst för administratörer och/eller väntande godkännanden för kanaler."
+        },
+        "PageNavigation": {
+          "Summary": "Lägg till navigering genom ankare inom en sida."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Lista olika typer av medieresurser för enkel åtkomst, främst för slutanvändare. Kan också konfigureras för att vara till nytta för redaktörer."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Avstängd"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Regel för sidgranskning",
+            "RuleName": "Titel",
+            "DateProperty": "Datumegenskap",
+            "MessageBarEnabled": "Visa meddelandefält",
+            "MessageBarTitle": "Meddelandetitel",
+            "MessageBarBody": "Meddelandekropp",
+            "MessageBarBackgroundColor": "Bakgrundsfärg",
+            "MessageBarTextColor": "Textfärg",
+            "EmailEnabled": "Skicka e-post",
+            "EmailSubject": "Ämne för e-post",
+            "EmailBody": "E-postinnehåll",
+            "EmailRecipients": "Mottagare",
+            "SuspendEnabled": "Ställ in status Avstängd",
+            "ChangePageTypeEnabled": "Ändra sidtyp",
+            "PageType": "Sidtyp",
+            "RemoveFromSearch": "Ta bort från sökningen",
+            "Save": "Spara",
+            "Add": "Lägg till",
+            "Cancel": "Avbryt",
+            "SendEmailDialog": {
+              "Title": "Skicka e-post",
+              "Message": "Välj ett datum för att granska e-post som skickats baserat pådenna regel.",
+              "Buttons": {
+                "SendEmail": "Skicka"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Ta bort regel",
+            "ConfirmationMessage": "Är du säker på att du vill ta bort denna regel?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Misslyckades med att uppfylla reglerna för sidgranskning från sidtyp",
+            "Message": "Följande egenskaper behöver uppdateras till ett datum i framtiden:",
+            "Close": "Stäng"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Aktivera variationsspecifika behörigheter"
+    },
+    "SearchResultSource": {
+      "Suspended": "Avstängd"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Kan användas för olika meddelanden till den inloggade användaren, på specifika datum eller tillfällen."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Visa antalet deltagare som har registrerat sig för evenemanget och max antal deltagare."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Lista deltagare som har registrerat sig för ett evenemang."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Avstängd"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variationsförfattare",
+        "EnableEditNotifications": "Notifikationer för redigeringar av sidor"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Syftet med detta block är att lista publiceringsappar som finns tillgängliga i affärsprofilen."
+      }
+    }
+  }
+}
