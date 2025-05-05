@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "Une section préconfigurée en tant qu'accordéon",
+            "StepperDescription": "Une section préconfigurée en tant que stepper"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "Une section pleine largeur",
+          "TwoColumnsDescription": "Une section pleine largeur avec deux colonnes préconfigurées",
+          "ThreeColumnsDescription": "Une section pleine largeur avec troiscolonnes préconfigurées",
+          "TabDescription": "Une section préconfigurée avec des onglets"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Utilisé uniquement pour les écrans d'authentification."
+      },
+      "BlockGallery": {
+        "Title": "Galerie de blocs",
+        "Settings": "Paramètres",
+        "EnableModernDialogSwitch": "Dialogue moderne 'Ajouter du contenu'",
+        "BlockTemplates": {
+          "Title": "Modèles de blocs",
+          "Create": "Créer un modèle",
+          "Fields": {
+            "Definition": "Définition"
+          },
+          "InvalidJsonField": "Le contenu n'est pas une structure json valide",
+          "ErrorMsg": "Une erreur s'est produite",
+          "EmptyMsg": "Aucun modèle de bloc trouvé",
+          "DeleteConfirmationMessage": "Êtes-vous sûr de vouloir supprimer le modèle de bloc ? Il ne sera pas automatiquement retiré du dialogue de modèle de bloc existant, vous devez le retirer manuellement.",
+          "DeleteConfirmationTitle": "Supprimer le modèle de bloc"
+        },
+        "BlockDialog": {
+          "Title": "Dialogue de bloc",
+          "AddBlocks": "Ajouter des blocs",
+          "AddHeader": "Ajouter un en-tête",
+          "EditHeader": "Modifier l'en-tête",
+          "ManageList": "Gérer la liste",
+          "Confirm": "Confirmer",
+          "DeletedItemWarning": "Cet élément a été supprimé",
+          "DeleteItemTitle": "Élément supprimé",
+          "Header": "En-tête",
+          "EmptyMsg": "Aucun élément trouvé"
+        },
+        "BlockDialogLayout": {
+          "Title": "Mise en page du dialogue de bloc",
+          "Default": "Par défaut",
+          "Authentication": "Authentification",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Gérer les modèles de blocs"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Éditeur de modèle de bloc"
+      }
+    }
+  }
+}
