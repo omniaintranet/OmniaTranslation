@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Bibliotheekproviders",
+          "SharePointMediaLibrary": "SharePoint-mediabibliotheek"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Toon Matomo-analysegegevens."
+        },
+        "Filter": {
+          "BlockSummary": "Stel filters in die gebruikt kunnen worden in verschillende Analytics-widget en/of Analytics-rapportblokken op de pagina."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Toon centrale aankondigingen gericht op de ingelogde gebruiker."
+        },
+        "QuickLinks": {
+          "Summary": "Gebruik het om gedeelde links weer te geven die zijn gemaakt in Omnia-beheer, hetzij voor de tenant of voor een bedrijfsprofiel."
+        },
+        "TaskRollup": {
+          "Summary": "Lijst taken van teamsites op, toegewezen aan de ingelogde gebruiker. Taken van Planner kunnen ook worden weergegeven."
+        },
+        "NotificationPanel": {
+          "Summary": "Gebruik het om een meldingenpaneel weer te geven dat is ingesteld in Omnia-beheer."
+        },
+        "TrelloCards": {
+          "Summary": "Gebruik het om een Trello-lijst te configureren om kaarten weer te geven."
+        },
+        "Search": {
+          "Summary": "Dit blok kan worden gebruikt voor snelle zoekopdrachten of geavanceerde zoekopdrachten."
+        },
+        "Form": {
+          "Summary": "Maak een formulier beschikbaar voor gebruikers. Deze formulieren worden gemaakt en onderhouden in Omnia-beheer."
+        },
+        "FormQuestion": {
+          "Summary": "Wordt alleen gebruikt bij het werken met de grafische presentatie van een formulier, in Omnia-beheer."
+        },
+        "FormRollup": {
+          "Summary": "Lijst formulieren voor verschillende doeleinden, of toon een aantal formulieren die gebruikt kunnen worden."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Toon een Teams-kanaalfeed. De feed is alleen-lezen."
+        },
+        "PostsFeed": {
+          "Summary": "Maakt het mogelijk om gesprekberichten in een app te plaatsen. Kan ook berichten van verschillende bronnen aggregeren."
+        },
+        "Properties": {
+          "Title": "Eigenschappen",
+          "Summary": "Gebruik dit blok om informatie van een eigenschap weer te geven."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Maakt het mogelijk om een app toe te voegen die is gebouwd volgens het Power App-framework van Microsoft."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Toon een organisatieboom op basis van informatie in Entra ID over wie aan wie rapporteert."
+    },
+    "QrCode": {
+      "Summary": "Gebruik het om een QR-code op elke Omnia-pagina te plaatsen."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Kan voor verschillende doeleinden worden gebruikt met betrekking tot goedkeuringsverzoeken voor pagina's en/of voor gecontroleerde documenten.",
+      "OpenInNewTab": "Open in nieuw tabblad"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Creëer taxonomie-gebaseerde navigatie. Een veelvoorkomend voorbeeld is een organigram."
+    },
+    "UserInformation": {
+      "BlockSummary": "Gebruik het om gebruikersinformatie weer te geven, bijvoorbeeld op een aangepast gebruikersprofielkaart."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Toon de voortgang van het gebruikersprofiel als een percentage. Bedoeld om te worden gebruikt met de nieuwe instellingen voor gebruikers types."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "Een Viva Engage-feed kan indit blok worden weergegeven."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Toon statistieken over teamwork, zoekopdrachten, pagina's, gebruikersactiviteit, gebroken links of mislukte toegangspogingen."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "Lijst teamnieuws voor de ingelogde gebruiker."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "Lijst teamsites en andere samenwerkingen waar de ingelogde gebruiker toegang toe heeft."
+        },
+        "CreateApp": {
+          "Summary": "Maakt het mogelijk om een Omnia-app te maken; Publiceren, Gemeenschap of Teamwork."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "Lijstmensen voor veel verschillende doeleinden, met verschillende weergaven, filters en verfijningen."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Toon hoe ver de ingelogde gebruiker is met het voltooien van het profiel, als de oudere functionaliteit wordt gebruikt."
+        }
+      }
+    }
+  }
+}
