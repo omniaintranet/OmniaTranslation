@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "List documents for various purposes, with different views, filters and refiners."
+        },
+        "DocumentLibrary": {
+          "Summary": "Add this to a page where you wish to work with controlled documents."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Displaythe process content - added on the Content tab by the process author."
+        },
+        "Drawing": {
+          "Summary": "Display the process drawing for the process."
+        },
+        "Tasks": {
+          "Summary": "Display tasks the process author added to the Tasks tab for the process."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Use it in a processcontext to set and view the status for a step in the process."
+        },
+        "Links": {
+          "Summary": "Display the links the process author added to theLinks tab for the process."
+        },
+        "ProcessNavigation": {
+          "Summary": "It will add a current navigation-like feature for the process steps."
+        },
+        "ProcessContext": {
+          "Summary": "Use it to display a specific process on the page, based on a property."
+        },
+        "ProcessRollup": {
+          "Summary": "List available processes, with filtering options."
+        },
+        "Properties": {
+          "Summary": "Display propertiesfor the process for end users, such as process owner."
+        },
+        "Title": {
+          "Summary": "Display the process title, added for the process bythe process author."
+        },
+        "Breadcrumb": {
+          "Summary": "Use it to display a breadcrumb ona process page."
+        },
+        "Documents": {
+          "Summary": "Display a list of documents - added onthe Documents tab by the process author."
+        },
+        "Pages": {
+          "Summary": "Lists the pages, added on the Pages tab by the process author."
+        },
+        "ProcessLayout": {
+          "Summary": "Display the entire process on a page. Mustbe combined with the Process context block."
+        }
+      }
+    }
+  }
+}
