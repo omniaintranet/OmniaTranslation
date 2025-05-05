@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "Một phần được cấu hình sẵn dưới dạng accordion",
+            "StepperDescription": "Một phần được cấu hình sẵn dưới dạng stepper"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "Một phần toàn bộ chiều rộng",
+          "TwoColumnsDescription": "Một phần toàn bộ chiều rộng với hai cột được cấu hình sẵn",
+          "ThreeColumnsDescription": "Một phần toàn bộ chiều rộng với ba cột đượccấu hình sẵn",
+          "TabDescription": "Một phần được cấu hình sẵn với các tab"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Chỉ sử dụng cho các màn hình xác thực."
+      },
+      "BlockGallery": {
+        "Title": "Thư viện khối",
+        "Settings": "Cài đặt",
+        "EnableModernDialogSwitch": "Hộp thoại 'Thêm nội dung' hiện đại",
+        "BlockTemplates": {
+          "Title": "Mẫu khối",
+          "Create": "Tạo mẫu",
+          "Fields": {
+            "Definition": "Định nghĩa"
+          },
+          "InvalidJsonField": "Nội dung không phải là cấu trúc json hợp lệ",
+          "ErrorMsg": "Đã xảy ra lỗi",
+          "EmptyMsg": "Không tìm thấy mẫu khối nào",
+          "DeleteConfirmationMessage": "Bạn có chắc chắn muốn xóa mẫu khối không? Nó sẽ không được tự động xóa khỏi hộp thoại mẫu khối hiện có, bạn phải xóa nó thủ công.",
+          "DeleteConfirmationTitle": "Xóa mẫu khối"
+        },
+        "BlockDialog": {
+          "Title": "Hộp thoại khối",
+          "AddBlocks": "Thêm khối",
+          "AddHeader": "Thêm tiêu đề",
+          "EditHeader": "Chỉnh sửa tiêu đề",
+          "ManageList": "Quản lý danh sách",
+          "Confirm": "Xác nhận",
+          "DeletedItemWarning": "Mục này đã bị xóa",
+          "DeleteItemTitle": "Mục đã xóa",
+          "Header": "Tiêu đề",
+          "EmptyMsg": "Không tìm thấy mục nào"
+        },
+        "BlockDialogLayout": {
+          "Title": "Bố cục hộp thoại khối",
+          "Default": "Mặc định",
+          "Authentication": "Xác thực",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Quản lý mẫu khối"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Trình chỉnh sửa mẫu khối"
+      }
+    }
+  }
+}
