@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Lijst documenten voor verschillende doeleinden, met verschillende weergaven, filters en verfijningen."
+        },
+        "DocumentLibrary": {
+          "Summary": "Voeg dit toe aan een pagina waar je wilt werken met gecontroleerde documenten."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Toon de procesinhoud - toegevoegd op het tabblad Inhoud door de proces auteur."
+        },
+        "Drawing": {
+          "Summary": "Toon de procestekening voor het proces."
+        },
+        "Tasks": {
+          "Summary": "Toon taken die de proces auteur heeft toegevoegd aan het tabblad Taken voor het proces."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Gebruikhet in een procescontext om de status voor een stap in het proces in te stellen en te bekijken."
+        },
+        "Links": {
+          "Summary": "Toon de links die de proces auteur heeft toegevoegd aan het tabblad Links voor het proces."
+        },
+        "ProcessNavigation": {
+          "Summary": "Het zal een huidige navigatie-achtige navigatie voor de processtappen toevoegen."
+        },
+        "ProcessContext": {
+          "Summary": "Gebruik het om een specifiek proces opde pagina weer te geven, op basis van een eigenschap."
+        },
+        "ProcessRollup": {
+          "Summary": "Lijst beschikbare processen, met filtermogelijkheden."
+        },
+        "Properties": {
+          "Summary": "Toon eigenschappen voor het proces voor eindgebruikers, bijvoorbeeld proces eigenaar."
+        },
+        "Title": {
+          "Summary": "Toon de proces titel, toegevoegd voor het procesdoor de proces auteur."
+        },
+        "Breadcrumb": {
+          "Summary": "Gebruik het om een broodkruimel op een procespagina weer te geven."
+        },
+        "Documents": {
+          "Summary": "Toon een lijst van documenten - toegevoegd op het tabblad Documenten door de proces auteur."
+        },
+        "Pages": {
+          "Summary": "Lijst de pagina's, toegevoegd op het tabblad Pagina's door de proces auteur."
+        },
+        "ProcessLayout": {
+          "Summary": "Toon het hele proces op een pagina. Moet worden gecombineerd met de Procescontext blok."
+        }
+      }
+    }
+  }
+}
