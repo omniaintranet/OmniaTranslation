@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "Una sección preconfigurada como un acordeón",
+            "StepperDescription": "Una sección preconfigurada como un paso"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "Una sección de ancho completo",
+          "TwoColumnsDescription": "Una sección de ancho completo con dos columnas preconfiguradas",
+          "ThreeColumnsDescription": "Una sección de ancho completo con tres columnas preconfiguradas",
+          "TabDescription": "Una sección preconfigurada con pestañas"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Utilizado solo para pantallas de autenticación."
+      },
+      "BlockGallery": {
+        "Title": "Galería de bloques",
+        "Settings": "Configuraciones",
+        "EnableModernDialogSwitch": "Diálogo moderno 'Agregar contenido'",
+        "BlockTemplates": {
+          "Title": "Plantillas de bloques",
+          "Create": "Crear plantilla",
+          "Fields": {
+            "Definition": "Definición"
+          },
+          "InvalidJsonField": "El contenidono es una estructura json válida",
+          "ErrorMsg": "Ocurrió un error",
+          "EmptyMsg": "No se encontró ninguna plantilla de bloque",
+          "DeleteConfirmationMessage": "¿Está seguro de que desea eliminar la plantilla de bloque? No se eliminará automáticamente del diálogo de plantilla de bloque existente, debe eliminarlo manualmente.",
+          "DeleteConfirmationTitle": "Eliminar plantilla de bloque"
+        },
+        "BlockDialog": {
+          "Title": "Diálogo de bloque",
+          "AddBlocks": "Agregar bloques",
+          "AddHeader": "Agregar encabezado",
+          "EditHeader": "Editar encabezado",
+          "ManageList": "Gestionar lista",
+          "Confirm": "Confirmar",
+          "DeletedItemWarning": "Este elemento ha sido eliminado",
+          "DeleteItemTitle": "Elemento eliminado",
+          "Header": "Encabezado",
+          "EmptyMsg": "No se encontró ningún elemento"
+        },
+        "BlockDialogLayout": {
+          "Title": "Diseño del diálogo de bloque",
+          "Default": "Predeterminado",
+          "Authentication": "Autenticación",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Gestionar plantillas de bloques"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Editor de plantillas de bloques"
+      }
+    }
+  }
+}
