@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Liste dokumenter til mange forskellige formål, med forskellige visninger, filtre og refinere."
+        },
+        "DocumentLibrary": {
+          "Summary": "Tilføj dette til en side, hvor du ønsker at arbejde med kontrollerede dokumenter."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Vis procesindholdet - tilføjet på fanen Indhold af procesforfatteren."
+        },
+        "Drawing": {
+          "Summary": "Vis procestegningen for processen."
+        },
+        "Tasks": {
+          "Summary": "Vis opgaver, som procesforfatteren har tilføjettil fanen Opgaver for processen."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Brug det i enproceskontekst til at indstille og se status for et trin i processen."
+        },
+        "Links": {
+          "Summary": "Vis de links, som procesforfatteren har tilføjet til fanen Links for processen."
+        },
+        "ProcessNavigation": {
+          "Summary": "Det vil tilføje en aktuel navigationslignende navigation for procestrinene."
+        },
+        "ProcessContext": {
+          "Summary": "Brug det til at vise en specifik proces på siden, baseret på en egenskab."
+        },
+        "ProcessRollup": {
+          "Summary": "Liste tilgængelige processer, med filtreringsmuligheder."
+        },
+        "Properties": {
+          "Summary": "Vis egenskaber for processen for slutbrugere, for eksempel proces ejer."
+        },
+        "Title": {
+          "Summary": "Vis procesens titel, tilføjet til processen af procesforfatteren."
+        },
+        "Breadcrumb": {
+          "Summary": "Brug det til at vise et brødkrummespor på en proces side."
+        },
+        "Documents": {
+          "Summary": "Vis en liste over dokumenter - tilføjet på fanen Dokumenter af procesforfatteren."
+        },
+        "Pages": {
+          "Summary": "Lister siderne, tilføjet på fanen Sideraf procesforfatteren."
+        },
+        "ProcessLayout": {
+          "Summary": "Vis hele processen på en side. Skal kombineres med Process kontekst blokken."
+        }
+      }
+    }
+  }
+}
