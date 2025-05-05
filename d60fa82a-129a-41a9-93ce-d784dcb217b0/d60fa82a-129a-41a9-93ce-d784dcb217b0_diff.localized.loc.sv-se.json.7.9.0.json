@@ -2,7 +2,7 @@
   "WCM": {
     "Accordion": {
       "AccordionBlock": {
-        "Summary": "Skapa innehåll som presenteras i ett akordeonformat, för FAQ:s och andra ändamål."
+        "Summary": "Skapa innehåll som presenteras i ett akordeonformat, för FAQ och andra ändamål."
       }
     },
     "Admin": {
@@ -40,7 +40,7 @@
         },
         "LogsStatus": {
           "Queued": "I kö",
-          "Success": "Lyckad",
+          "Success": "Lyckades",
           "Error": "Fel",
           "InProgress": "Pågående",
           "Cancelled": "Avbruten"
@@ -49,8 +49,8 @@
           "RecalculateSummary": "Tillämpa omberäkningsegenskapen på sidtypen: {0}.",
           "ReplaceSummary": "Ställ in egenskapen med det interna namnet: {0} till detnya värdet: {1}.",
           "Total": "Totalt antal sidor att uppdatera",
-          "TotalUpdatedPagesSuccess": "Totalt antal sidor uppdaterade framgångsrikt",
-          "TotalUpdatedPagesFail": "Totalt antal sidor uppdatering misslyckades",
+          "TotalUpdatedPagesSuccess": "Totalt antal sidor uppdaterade",
+          "TotalUpdatedPagesFail": "Totalt antal sidor där uppdatering misslyckades",
           "TotalUpdatedPagesProcessed": "Totalt antal sidor bearbetade",
           "ViewErrors": "Visa fel",
           "Cancel": "Avbryt",
@@ -61,7 +61,7 @@
     "Analytics": {
       "Blocks": {
         "Report": {
-          "BlockSummary": "Visa sidanvändning för en affärsprofil."
+          "BlockSummary": "Visa sidanvändning för en verksamhetsprofil."
         },
         "LiveCounter": {
           "BlockSummary": "Visa en enkel analysräknare för en vald webbplats."
@@ -70,11 +70,11 @@
     },
     "Community": {
       "Rollup": {
-        "Summary": "Lista alla eller några av de gemenskaper som finns i en eller flera affärsprofiler."
+        "Summary": "Lista alla eller några av de gemenskaper som finns i en eller flera verksamhetsprofiler."
       }
     },
     "ContentBlock": {
-      "VersionComparisonType": "Versionsjämförelsetyp",
+      "VersionComparisonType": "Typ av versionsjämförelse",
       "CompareWithDefaultVariation": "Jämför med standardvariation",
       "CompareWithCurrentVariation": "Jämför med nuvarande variation"
     },
@@ -84,10 +84,10 @@
     "Core": {
       "Blocks": {
         "Banner": {
-          "Summary": "Använd den för att lägga tillen banner på en sida."
+          "Summary": "Använd blocket för att lägga till en banner på en sida."
         },
         "Text": {
-          "Summary": "Använd den för att lägga till text var som helst på en sida, med eller utan standardtext."
+          "Summary": "Använd blocket för att lägga till text var som helst på en sida, med eller utan standardtext."
         },
         "HtmlScript": {
           "Summary": "Gör det möjligt att lägga till HTML, Javascript och CSS."
@@ -99,19 +99,19 @@
           "Summary": "Visa metadata om sidan."
         },
         "RelatedLinks": {
-          "Summary": "Använd den för att lägga till länkar till relaterade sidor eller dokument i hyresgästen, eller en anpassad länk till vilken webbsida som helst."
+          "Summary": "Använd blocket för att lägga till länkar till relaterade sidor eller dokument i tenant, eller en anpassad länk till vilken webbsida som helst."
         },
         "Breadcrumb": {
           "Summary": "Gör det möjligt att navigera till vilken överordnad nod som helst på den aktuella sidan."
         },
         "ActionButton": {
-          "Summary": "Lägg till en eller flera åtgärder aktiveradeav knappar på en sida."
+          "Summary": "Lägg till en eller flera åtgärder aktiverade av knappar på en sida."
         },
         "CommentLike": {
           "Summary": "Aktivera användarinteraktioner på sidor."
         },
         "PageRollup": {
-          "Summary": "Lista sidor för mångaolika ändamål, med olika vyer, filter och refiners."
+          "Summary": "Lista sidor för många olika ändamål, med olika vyer, filter och refiners."
         },
         "CurrentNavigation": {
           "Summary": "Gör det möjligt att navigera till syskon, överordnade noder och syskon till överordnade noder."
@@ -120,16 +120,16 @@
           "Summary": "Skapa en megameny för en arbetsyta, eller för andra ändamål."
         },
         "RatePage": {
-          "Summary": "Gör det möjligt för användare att betygsätta innehåll, med stjärnor."
+          "Summary": "Gör det möjligt för användare att betygsätta innehåll med stjärnor."
         },
         "CalendarRollup": {
-          "Summary": "Visa evenemangfrån en eller flera Outlook- eller Exchange-kalendrar."
+          "Summary": "Visa evenemang från en eller flera Outlook- eller Exchange-kalendrar."
         },
         "VariationSelector": {
           "Summary": "Gör det möjligt för slutanvändare att välja en variation av sidan."
         },
         "RSSReader": {
-          "Summary": "Med hjälp av denna block kan anteckningar från en RSS-läsarkälla visas på en sida."
+          "Summary": "Med hjälp av detta block kan poster från en RSS-källa visas på en sida."
         },
         "ActivityFeed": {
           "Summary": "Visa aktiviteter för prenumerationer som den inloggade användaren har, eller för aktiviteter på innehållssidor."
@@ -141,7 +141,7 @@
           "Summary": "Visa innehåll i en iFrame."
         },
         "ChannelRollup": {
-          "Summary": "Lista publiceringskanaler för enkel åtkomst för administratörer och/eller väntande godkännanden för kanaler."
+          "Summary": "Lista publiceringskanaler för enkel åtkomst för administratörer och/eller kanaler som väntar på godkännande."
         },
         "PageNavigation": {
           "Summary": "Lägg till navigering genom ankare inom en sida."
@@ -166,8 +166,8 @@
             "RuleName": "Titel",
             "DateProperty": "Datumegenskap",
             "MessageBarEnabled": "Visa meddelandefält",
-            "MessageBarTitle": "Meddelandetitel",
-            "MessageBarBody": "Meddelandekropp",
+            "MessageBarTitle": "Rubrik för meddelande",
+            "MessageBarBody": "Meddelande",
             "MessageBarBackgroundColor": "Bakgrundsfärg",
             "MessageBarTextColor": "Textfärg",
             "EmailEnabled": "Skicka e-post",
@@ -183,7 +183,7 @@
             "Cancel": "Avbryt",
             "SendEmailDialog": {
               "Title": "Skicka e-post",
-              "Message": "Välj ett datum för att granska e-post som skickats baserat pådenna regel.",
+              "Message": "Välj ett datum för att granska e-post som skickats baserat på denna regel.",
               "Buttons": {
                 "SendEmail": "Skicka"
               }
@@ -235,7 +235,7 @@
         "EnableEditNotifications": "Notifikationer för redigeringar av sidor"
       },
       "PublishingAppRollup": {
-        "Summary": "Syftet med detta block är att lista publiceringsappar som finns tillgängliga i affärsprofilen."
+        "Summary": "Syftet med detta block är att lista publiceringsappar som finns tillgängliga i verksamhetsprofilen."
       }
     }
   }
