@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Listaa asiakirjat moniin eri tarkoituksiin, eri näkymillä, suodattimilla ja tarkennuksilla."
+        },
+        "DocumentLibrary": {
+          "Summary": "Lisää tämä sivulle, jolla haluattyöskennellä hallittujen asiakirjojen kanssa."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Näytä prosessin sisältö - lisätty Sisältö-välilehdelle prosessin kirjoittajan toimesta."
+        },
+        "Drawing": {
+          "Summary": "Näytä prosessin piirustus."
+        },
+        "Tasks": {
+          "Summary": "Näytä tehtävät, jotka prosessin kirjoittaja on lisännyt Tehtävät-välilehdelle prosessille."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Käytä sitä prosessikontekstissa asettaaksesi ja nähdäksesi vaiheen tilan prosessissa."
+        },
+        "Links": {
+          "Summary": "Näytä linkit, jotka prosessin kirjoittaja on lisännyt Linkit-välilehdelle prosessille."
+        },
+        "ProcessNavigation": {
+          "Summary": "Se lisää nykyisen kaltaisen navigoinnin prosessivaiheille."
+        },
+        "ProcessContext": {
+          "Summary": "Käytä sitä näyttämään tietty prosessi sivulla, perustuen ominaisuuteen."
+        },
+        "ProcessRollup": {
+          "Summary": "Listaa saatavilla olevat prosessit, suodatusmahdollisuuksilla."
+        },
+        "Properties": {
+          "Summary": "Näytä prosessin ominaisuudet loppukäyttäjille, esimerkiksi prosessin omistaja."
+        },
+        "Title": {
+          "Summary": "Näytä prosessin otsikko, jonka prosessin kirjoittaja on lisännyt prosessille."
+        },
+        "Breadcrumb": {
+          "Summary": "Käytä sitä näyttämään leivänmurun navigointi prosessisivulla."
+        },
+        "Documents": {
+          "Summary": "Näytä asiakirjalista - lisätty Asiakirjat-välilehdelle prosessin kirjoittajan toimesta."
+        },
+        "Pages": {
+          "Summary": "Listaa sivut, jotka prosessin kirjoittaja on lisännyt Sivut-välilehdelle."
+        },
+        "ProcessLayout": {
+          "Summary": "Näytä koko prosessi sivulla. On yhdistettävä Prosessikonteksti-lohkon kanssa."
+        }
+      }
+    }
+  }
+}
