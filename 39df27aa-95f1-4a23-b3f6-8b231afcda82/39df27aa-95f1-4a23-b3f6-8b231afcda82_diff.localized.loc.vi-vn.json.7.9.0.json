@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Nhà cung cấp thư viện",
+          "SharePointMediaLibrary": "Thư viện phương tiện SharePoint"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Hiển thị dữ liệu phân tích Matomo."
+        },
+        "Filter": {
+          "BlockSummary": "Đặt bộ lọc để sử dụng trong nhiều widget phân tích và/hoặc các khối báo cáo phân tích trên trang."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Hiển thị thông báo trung tâm nhắm đến người dùng đã đăng nhập."
+        },
+        "QuickLinks": {
+          "Summary": "Sử dụng để hiển thị các liên kết chia sẻ được tạo trong quản trị Omnia, cho cả tenant hoặc cho một hồ sơ doanh nghiệp."
+        },
+        "TaskRollup": {
+          "Summary": "Liệt kê các nhiệm vụtừ các trang nhóm, được giao cho người dùng đã đăng nhập. Các nhiệm vụ từ Planner cũng có thể được hiển thị."
+        },
+        "NotificationPanel": {
+          "Summary": "Sử dụng để hiển thị bảng thông báo được thiết lập trong quản trị Omnia."
+        },
+        "TrelloCards": {
+          "Summary": "Sử dụng để cấu hình một danh sách Trello để hiển thị các thẻ."
+        },
+        "Search": {
+          "Summary": "Khối này có thể được sử dụng cho tìm kiếm nhanh hoặc tìm kiếm nâng cao."
+        },
+        "Form": {
+          "Summary": "Làm cho một biểu mẫu có sẵn cho người dùng. Những biểu mẫu này được tạo và duy trì trong quản trị Omnia."
+        },
+        "FormQuestion": {
+          "Summary": "Chỉ được sử dụng khi làm việc với phần trìnhbày đồ họa của một biểu mẫu, trong quản trị Omnia."
+        },
+        "FormRollup": {
+          "Summary": "Liệt kê các biểu mẫu cho nhiều mục đích khác nhau, hoặc hiển thị một số biểu mẫu để sử dụng."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Hiển thị nguồn cấp dữ liệu kênh Teams. Nguồn cấp dữ liệu sẽ chỉ đọc."
+        },
+        "PostsFeed": {
+          "Summary": "Cho phép đăng cáctin nhắn cuộc trò chuyện trong một ứng dụng. Cũng có thể tổng hợp tin nhắn từ nhiều nguồn khác nhau."
+        },
+        "Properties": {
+          "Title": "Thuộc tính",
+          "Summary": "Sử dụng khối này để hiển thị thông tin từ một thuộc tính."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Cho phép thêm một ứng dụng được xây dựng theo khuôn khổ Power App của Microsoft."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Hiển thị cây tổ chức dựa trên thông tin trong Entra ID về ai báo cáo cho ai."
+    },
+    "QrCode": {
+      "Summary": "Sử dụng đểđặt mã QR trên bất kỳ trang nào của Omnia."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Có thể được sử dụng cho nhiều mục đích khác nhau liên quan đến yêu cầu phê duyệt cho các trang và/hoặc cho các tàiliệu kiểm soát.",
+      "OpenInNewTab": "Mở trong tab mới"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Tạo điều hướng dựa trên phân loại. Một ví dụ phổ biến là sơ đồ tổ chức."
+    },
+    "UserInformation": {
+      "BlockSummary": "Sử dụng để hiển thị thông tin người dùng, ví dụ trên thẻ hồ sơ người dùng tùy chỉnh."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Hiển thị tiến độ hồ sơ người dùng dưới dạng phần trăm. Được sử dụng với các cài đặt mới cho các loại người dùng."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "Một nguồn cấp dữ liệu Viva Engage có thể được hiển thị trong khối này."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Hiển thị thống kê về làm việc nhóm, tìm kiếm, trang, hoạt động người dùng, liên kếthỏng hoặc các lần truy cập không thành công."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "Liệt kê tin tức nhóm cho người dùng đã đăng nhập."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "Liệt kê các trang nhóm và các côngviệc nhóm khác mà người dùng đã đăng nhập có quyền truy cập."
+        },
+        "CreateApp": {
+          "Summary": "Cho phép tạo một ứng dụng Omnia; Xuất bản, Cộng đồng hoặc Làm việc nhóm."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "Liệt kê người chonhiều mục đích khác nhau, với các chế độ xem, bộ lọc và bộ tinh chỉnh khác nhau."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Hiển thị mức độ hoàn thành hồ sơ của người dùng đã đăng nhập, nếu sử dụng chức năng cũ."
+        }
+      }
+    }
+  }
+}
