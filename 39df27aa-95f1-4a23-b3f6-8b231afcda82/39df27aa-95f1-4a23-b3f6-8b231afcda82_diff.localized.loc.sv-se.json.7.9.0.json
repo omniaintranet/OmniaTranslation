@@ -3,8 +3,8 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Biblioteksleverantörer",
-          "SharePointMediaLibrary": "SharePointmediebibliotek"
+          "LibraryProviders": "Leverantörer av bibliotek",
+          "SharePointMediaLibrary": "Mediebibliotek i SharePoint"
         }
       }
     }
@@ -16,7 +16,7 @@
           "BlockSummary": "Visa Matomo analysdata."
         },
         "Filter": {
-          "BlockSummary": "Ställ in filter som ska användas i flera Analytics-widgetar och/eller Analytics-rapporter på sidan."
+          "BlockSummary": "Ställ in filter som ska användas i flera Analytics-widget och/eller Analytics-rapporter på sidan."
         }
       }
     },
@@ -26,34 +26,34 @@
           "Summary": "Visa centrala meddelanden riktade till den inloggade användaren."
         },
         "QuickLinks": {
-          "Summary": "Använd det för att visa delade länkar skapade i Omnia-administrationen, antingen för hyresgästen eller för en affärsprofil."
+          "Summary": "Använd blocket för att visa delade länkar skapade i Omnia admin, antingen för tenant eller för en verksamhetsprofil."
         },
         "TaskRollup": {
-          "Summary": "Listar uppgifter från teamsidor, tilldelade den inloggade användaren. Uppgifter från Planner kan också visas."
+          "Summary": "Lista uppgifter från teamsidor, tilldelade den inloggade användaren. Uppgifter från Planner kan också visas."
         },
         "NotificationPanel": {
-          "Summary": "Använd det för att visa en meddelandepanel som är inställd i Omnia-administrationen."
+          "Summary": "Använd blocket för att visa en meddelandepanel som är inställd i Omnia admin."
         },
         "TrelloCards": {
-          "Summary": "Använd det för att konfigurera en Trello-lista för att visa kort från."
+          "Summary": "Använd blocket för att konfigurera en Trello-lista att visa kort från."
         },
         "Search": {
-          "Summary": "Dennablock kan användas för snabb sökning eller avancerad sökning."
+          "Summary": "Blocket kan användas för snabb sökning eller avancerad sökning."
         },
         "Form": {
-          "Summary": "Gör ett formulär tillgängligt för användare. Dessaformulär skapas och underhålls i Omnia-administrationen."
+          "Summary": "Gör ett formulär tillgängligt för användare. Dessa formulär skapas och underhålls i Omnia-administrationen."
         },
         "FormQuestion": {
-          "Summary": "Används endast när man arbetar med den grafiska presentationen av ett formulär, i Omnia-administrationen."
+          "Summary": "Används endast när man arbetar med den grafiska presentationen av ett formulär, i Omnia admin."
         },
         "FormRollup": {
           "Summary": "Lista formulär för olika ändamål, eller visa ett antal formulär som ska användas."
         },
         "MicrosoftTeamChannelFeed": {
-          "Summary": "Visa en Teams-kanalens flöde.Flödet kommer att vara skrivskyddat."
+          "Summary": "Visa en Teams-kanals flöde. Flödet är skrivskyddat."
         },
         "PostsFeed": {
-          "Summary": "Gör det möjligt att posta konversationsmeddelanden i en app. Kan också aggregera meddelanden från flera källor."
+          "Summary": "Gör det möjligt att posta meddelanden i en app. Kan också aggregera meddelanden från flera källor."
         },
         "Properties": {
           "Title": "Egenskaper",
@@ -63,29 +63,29 @@
     },
     "PowerApp": {
       "PowerAppBlock": {
-        "BlockSummary": "Gör det möjligt att lägga till en app byggd enligt Microsofts Power App-ramverk."
+        "BlockSummary": "Gör det möjligt att lägga till en app skapad enligt Microsofts Power App-ramverk."
       }
     },
     "OrgTreeBlock": {
       "BlockSummary": "Visa ett organisationsdiagram baserat på information i Entra ID om vem som rapporterar till vem."
     },
     "QrCode": {
-      "Summary": "Använd det för att placera en QR-kod på vilken Omnia-sida som helst."
+      "Summary": "Använd blocket för att placera en QR-kod på en Omnia-sida."
     },
     "SignOffRequest": {
-      "BlockSummary": "Kan användas för olikaändamål angående sign-off-förfrågningar för sidor och/eller för kontrollerade dokument.",
+      "BlockSummary": "Kan användas för olika ändamål angående sign-off-förfrågningar för sidor och/eller för styrda dokument.",
       "OpenInNewTab": "Öppna i ny flik"
     },
     "TaxonomyNavigation": {
-      "BlockSummary": "Skapa taksonomi-baserad navigering.Ett vanligt exempel är ett organisationsschema."
+      "BlockSummary": "Skapa taksonomi-baserad navigering. Ett vanligt exempel är ett organisationsschema."
     },
     "UserInformation": {
-      "BlockSummary": "Använd det för att visa användarinformation, till exempel på ett anpassat användarprofilkort."
+      "BlockSummary": "Använd blocket för att visa användarinformation, till exempel på ett anpassat användarprofilkort."
     },
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Visa användarprofilens framsteg som en procentandel. Avsedd attanvändas med de nya inställningarna för användartyper."
+          "WebPartSummary": "Visa användarprofilens framsteg som en procentandel. Avsett att användas med de nya inställningarna för användartyper."
         }
       }
     },
