@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "Osio, joka on esikonfiguroitu akordeoniksi",
+            "StepperDescription": "Osio, joka on esikonfiguroitu askelmittariksi"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "Koko leveydeltään oleva osio",
+          "TwoColumnsDescription": "Koko leveydeltään oleva osio, jossa on kaksi esikonfiguroitua saraketta",
+          "ThreeColumnsDescription": "Koko leveydeltään oleva osio, jossa on kolme esikonfiguroitua saraketta",
+          "TabDescription": "Osio, joka on esikonfiguroitu välilehdillä"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Käytetään vain todennussivustoilla."
+      },
+      "BlockGallery": {
+        "Title": "Blokkigalleria",
+        "Settings": "Asetukset",
+        "EnableModernDialogSwitch": "Moderni 'Lisää sisältö' -dialogi",
+        "BlockTemplates": {
+          "Title": "Blokkimallit",
+          "Create": "Luo malli",
+          "Fields": {
+            "Definition": "Määritelmä"
+          },
+          "InvalidJsonField": "Sisältö ei ole voimassa oleva json-rakenne",
+          "ErrorMsg": "Tapahtui virhe",
+          "EmptyMsg": "Ei löytynytblokkimallia",
+          "DeleteConfirmationMessage": "Oletko varma, että haluat poistaa blokkimallin? Se ei poisteta automaattisesti olemassa olevasta blokkimallidialogista, sinun on poistettava se manuaalisesti.",
+          "DeleteConfirmationTitle": "Poista blokkimalli"
+        },
+        "BlockDialog": {
+          "Title": "Blokki-dialogi",
+          "AddBlocks": "Lisää blokkeja",
+          "AddHeader": "Lisää otsikko",
+          "EditHeader": "Muokkaa otsikkoa",
+          "ManageList": "Hallitse luetteloa",
+          "Confirm": "Vahvista",
+          "DeletedItemWarning": "Tämä kohde on poistettu",
+          "DeleteItemTitle": "Poistettu kohde",
+          "Header": "Otsikko",
+          "EmptyMsg": "Eilöytynyt kohdetta"
+        },
+        "BlockDialogLayout": {
+          "Title": "Blokki-dialogin asettelu",
+          "Default": "Oletus",
+          "Authentication": "Todennus",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Hallitse blokkimalleja"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Blokkimallin muokkaaja"
+      }
+    }
+  }
+}
