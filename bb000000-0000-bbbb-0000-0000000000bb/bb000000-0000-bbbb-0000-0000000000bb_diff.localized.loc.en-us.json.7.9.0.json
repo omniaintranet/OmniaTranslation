@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "A section pre-configured as an accordion",
+            "StepperDescription": "A section pre-configured as a stepper"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "A full width section",
+          "TwoColumnsDescription": "A full width section with two pre-configured columns",
+          "ThreeColumnsDescription": "A full width section with three pre-configured columns",
+          "TabDescription": "A section pre-configured with Tabs"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Used for authentication screens only."
+      },
+      "BlockGallery": {
+        "Title": "Block gallery",
+        "Settings": "Settings",
+        "EnableModernDialogSwitch": "Modern 'Add content' dialog",
+        "BlockTemplates": {
+          "Title": "Block templates",
+          "Create": "Create template",
+          "Fields": {
+            "Definition": "Definition"
+          },
+          "InvalidJsonField": "Content is not a valid json structure",
+          "ErrorMsg": "An error occurred",
+          "EmptyMsg": "No block template found",
+          "DeleteConfirmationMessage": "Are you sure you want to delete the block template? It will not be automatically removed from the existing block template dialog. Ensure to remove it manually from dialog",
+          "DeleteConfirmationTitle": "Delete block template"
+        },
+        "BlockDialog": {
+          "Title": "Block dialog",
+          "AddBlocks": "Add blocks",
+          "AddHeader": "Add header",
+          "EditHeader": "Edit header",
+          "ManageList": "Manage list",
+          "Confirm": "Confirm",
+          "DeletedItemWarning": "This item has been deleted",
+          "DeleteItemTitle": "Deleted item",
+          "Header": "Header",
+          "EmptyMsg": "No item found"
+        },
+        "BlockDialogLayout": {
+          "Title": "Block dialog layout",
+          "Default": "Default",
+          "Authentication": "Authentication",
+          "Spfx": "Spfx"
+        },
+        "Tooltips": {
+          "Management": "Manage block templates"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Block template editor"
+      }
+    }
+  }
+}
