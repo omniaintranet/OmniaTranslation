@@ -31,7 +31,7 @@
           "InvalidJsonField": "Content is not a valid JSON structure",
           "ErrorMsg": "An error occurred",
           "EmptyMsg": "No block template found",
-          "DeleteConfirmationMessage": "Are you sure you want to delete theblock template? It will not be automatically removed from the existing block template dialog; you must remove it manually.",
+          "DeleteConfirmationMessage": "Are you sure you want to delete the block template? It will not be automatically removed from the existing block template dialog; you must remove it manually.",
           "DeleteConfirmationTitle": "Deleteblock template"
         },
         "BlockDialog": {
@@ -39,7 +39,7 @@
           "AddBlocks": "Add blocks",
           "AddHeader": "Add header",
           "EditHeader": "Edit header",
-          "ManageList": "Managelist",
+          "ManageList": "Manage list",
           "Confirm": "Confirm",
           "DeletedItemWarning": "This item has been deleted",
           "DeleteItemTitle": "Deleted item",
