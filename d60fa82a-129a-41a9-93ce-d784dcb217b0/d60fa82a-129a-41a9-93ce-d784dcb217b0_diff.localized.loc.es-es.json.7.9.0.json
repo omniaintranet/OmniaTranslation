@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Crea contenido que se presenta en un formato de acordeón, para preguntas frecuentes yotros propósitos."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Actualización masiva depáginas",
+        "UpdateStatus": "Estado de actualización",
+        "SearchProperty": "Buscar propiedad",
+        "SearchValue": "Valor de búsqueda",
+        "PropertyValue": "Valor de propiedad",
+        "NewValue": "Nuevo valor",
+        "Replace": "Reemplazar",
+        "ReplaceAll": "Reemplazar todo",
+        "Find": "Buscar",
+        "SelectItemRequiredMessage": "Por favor, selecciona al menos una página para actualizar.",
+        "ReplaceAllMessage": "Reemplazar todas las páginas buscables con la propiedad anterior",
+        "Recalculate": "Recalcular",
+        "RecalculateAll": "Recalcular todo",
+        "RecalculatePageTypeMessage": "Recalcular el tipo de página para las páginas seleccionadas",
+        "Logs": "Registros",
+        "SearchDeletedUsers": "Buscar usuarios eliminados",
+        "Columns": {
+          "WorkflowStatus": "Estado del flujo de trabajo",
+          "PageType": "Tipo de página",
+          "CreatedBy": "Creado por"
+        },
+        "LogsTitle": "Actualización masiva de páginas - registros",
+        "LogDetailsTitle": "Detalles del registro - ",
+        "LogsColumns": {
+          "Started": "Iniciado",
+          "Ended": "Terminado",
+          "Status": "Estado",
+          "Title": "Título",
+          "Message": "Mensaje",
+          "Error": "Error"
+        },
+        "LogsStatus": {
+          "Queued": "En cola",
+          "Success": "Éxito",
+          "Error": "Error",
+          "InProgress": "En progreso",
+          "Cancelled": "Cancelado"
+        },
+        "Log": {
+          "RecalculateSummary": "Aplicar la propiedad de recalculo al tipo de página: {0}.",
+          "ReplaceSummary": "Establecer la propiedad con el nombre interno: {0} al nuevo valor: {1}.",
+          "Total": "Total de páginas a actualizar",
+          "TotalUpdatedPagesSuccess": "Total de páginas actualizadas con éxito",
+          "TotalUpdatedPagesFail": "Total de páginas actualizadas fallidas",
+          "TotalUpdatedPagesProcessed": "Total de páginas procesadas",
+          "ViewErrors": "Ver errores",
+          "Cancel": "Cancelar",
+          "CancelMessage": "Cancelar la tarea de actualizaciónmasiva no asignada"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Mostrar el uso de la página para un perfil de negocio."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Mostrar un contador de análisis simplepara un sitio web elegido."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Listar todas o algunas de las comunidades disponibles en uno o más perfiles de negocio."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Tipo de comparación de versiones",
+      "CompareWithDefaultVariation": "Comparar con la variación predeterminada",
+      "CompareWithCurrentVariation": "Comparar con la variación actual"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Comparar versiones"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Úsalo para agregar un banner a una página."
+        },
+        "Text": {
+          "Summary": "Úsalo para agregar texto en cualquier parte de una página, con o sin texto predeterminado."
+        },
+        "HtmlScript": {
+          "Summary": "Permite agregar HTML, Javascript y CSS."
+        },
+        "Media": {
+          "Summary": "Agregar una imagen o un video en cualquier parte de una página."
+        },
+        "PageProperties": {
+          "Summary": "Mostrar metadatos sobre la página."
+        },
+        "RelatedLinks": {
+          "Summary": "Úsalo para agregar enlaces a páginas o documentos relacionados en el tenant, o un enlace personalizado a cualquier página web."
+        },
+        "Breadcrumb": {
+          "Summary": "Permite navegar a cualquier nodo padre dela página actual."
+        },
+        "ActionButton": {
+          "Summary": "Agregar una o más acciones activadas por botones en una página."
+        },
+        "CommentLike": {
+          "Summary": "Habilitar interacciones de usuario en las páginas."
+        },
+        "PageRollup": {
+          "Summary": "Listar páginas para muchos propósitos diferentes, con diferentes vistas, filtros y refinadores."
+        },
+        "CurrentNavigation": {
+          "Summary": "Permite navegar a hermanos, nodospadres y hermanos de nodos padres."
+        },
+        "MegaMenu": {
+          "Summary": "Crear un mega menú para un espacio de trabajo, o para otros propósitos."
+        },
+        "RatePage": {
+          "Summary": "Permite a los usuarios calificar contenido,usando estrellas."
+        },
+        "CalendarRollup": {
+          "Summary": "Mostrar eventos de uno o más calendarios de Outlook o Exchange."
+        },
+        "VariationSelector": {
+          "Summary": "Permite a los usuarios finales seleccionar una variación de la página."
+        },
+        "RSSReader": {
+          "Summary": "Usando este bloque, se pueden mostrar notas deuna fuente de lector RSS en una página."
+        },
+        "ActivityFeed": {
+          "Summary": "Mostrar actividades para suscripciones que tiene el usuario conectado, o para actividades en páginas de contenido."
+        },
+        "PageFeedback": {
+          "Summary": "Permite a los usuarios enviar comentarios sobre la página."
+        },
+        "Iframe": {
+          "Summary": "Mostrar contenidos en un iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "Listar canales de publicación para fácil acceso para administradores y/o aprobaciones pendientes para canales."
+        },
+        "PageNavigation": {
+          "Summary": "Agregar navegación a través de anclas dentro de una página."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Listar diferentes tipos de recursos multimedia para fácil acceso, principalmente para usuarios finales. También se puede configurar para ser útil para editores."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Suspendido"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Regla de revisión de página",
+            "RuleName": "Título",
+            "DateProperty": "Propiedad de fecha",
+            "MessageBarEnabled": "Mostrar barra de mensajes",
+            "MessageBarTitle": "Títulodel mensaje",
+            "MessageBarBody": "Cuerpo del mensaje",
+            "MessageBarBackgroundColor": "Color de fondo",
+            "MessageBarTextColor": "Color del texto",
+            "EmailEnabled": "Enviar correo electrónico",
+            "EmailSubject": "Asunto del correo electrónico",
+            "EmailBody": "Cuerpo del correo electrónico",
+            "EmailRecipients": "Destinatarios",
+            "SuspendEnabled": "Establecer estado Suspendido",
+            "ChangePageTypeEnabled": "Cambiar tipo de página",
+            "PageType": "Tipo de página",
+            "RemoveFromSearch": "Eliminar de la búsqueda",
+            "Save": "Guardar",
+            "Add": "Agregar",
+            "Cancel": "Cancelar",
+            "SendEmailDialog": {
+              "Title": "Enviar correo electrónico",
+              "Message": "Elige una fecha para revisar los correos electrónicos enviados basados en esta regla.",
+              "Buttons": {
+                "SendEmail": "Enviar"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Eliminar regla",
+            "ConfirmationMessage": "¿Estás seguro de que deseas eliminar esta regla?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "No se pudo cumplir con las reglas de revisión de página del tipo de página",
+            "Message": "Las siguientes propiedades deben actualizarse a una fecha en el futuro:",
+            "Close": "Cerrar"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Habilitar permisos específicos de variación"
+    },
+    "SearchResultSource": {
+      "Suspended": "Suspendido"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Se puede usar para varios mensajes al usuario conectado, enfechas u ocasiones específicas."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Mostrar el número de participantes que se han registrado para el evento y el número máximo de participantes."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Listar participantesque se han registrado para un evento."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Suspendido"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Autores de variación",
+        "EnableEditNotifications": "Notificaciones para ediciones de páginas"
+      },
+      "PublishingAppRollup": {
+        "Summary": "El propósito de este bloque es listar aplicaciones de publicación disponibles en el perfil de negocio."
+      }
+    }
+  }
+}
