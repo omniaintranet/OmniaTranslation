@@ -12,7 +12,7 @@
           "OneColumnDescription": "A full width section",
           "TwoColumnsDescription": "A full width section with two pre-configured columns",
           "ThreeColumnsDescription": "A full width section with three pre-configured columns",
-          "TabDescription": "A section pre-configured with Tabs"
+          "TabDescription": "A section pre-configured with tabs"
         }
       },
       "AuthenticationBlock": {
@@ -31,7 +31,7 @@
           "InvalidJsonField": "Content is not a valid json structure",
           "ErrorMsg": "An error occurred",
           "EmptyMsg": "No block template found",
-          "DeleteConfirmationMessage": "Are you sure you want to delete the block template? It will not be automatically removed from the existing block template dialog. Ensure to remove it manually from dialog",
+          "DeleteConfirmationMessage": "Are you sure you want to delete the block template? It will not be automatically removed from the existing block template dialog, you must reemove it manually.",
           "DeleteConfirmationTitle": "Delete block template"
         },
         "BlockDialog": {
@@ -50,7 +50,7 @@
           "Title": "Block dialog layout",
           "Default": "Default",
           "Authentication": "Authentication",
-          "Spfx": "Spfx"
+          "Spfx": "SPFx"
         },
         "Tooltips": {
           "Management": "Manage block templates"
