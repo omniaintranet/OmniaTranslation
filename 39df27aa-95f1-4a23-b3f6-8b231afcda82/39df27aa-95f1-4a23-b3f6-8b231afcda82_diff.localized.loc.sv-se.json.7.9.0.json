@@ -3,7 +3,7 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Leverantörer av bibliotek",
+          "LibraryProviders": "Lagringsval",
           "SharePointMediaLibrary": "Mediebibliotek i SharePoint"
         }
       }
@@ -16,7 +16,7 @@
           "BlockSummary": "Visa Matomo analysdata."
         },
         "Filter": {
-          "BlockSummary": "Ställ in filter som ska användas i flera Analytics-widget och/eller Analytics-rapporter på sidan."
+          "BlockSummary": "Ställ in filter som ska användas i flera block av typ Analysrapport och Widget för analys, på sidan."
         }
       }
     },
@@ -29,10 +29,10 @@
           "Summary": "Använd blocket för att visa delade länkar skapade i Omnia admin, antingen för tenant eller för en verksamhetsprofil."
         },
         "TaskRollup": {
-          "Summary": "Lista uppgifter från teamsidor, tilldelade den inloggade användaren. Uppgifter från Planner kan också visas."
+          "Summary": "Lista uppgifter från gruppsamarbeten, tilldelade den inloggade användaren. Uppgifter från Planner kan också visas."
         },
         "NotificationPanel": {
-          "Summary": "Använd blocket för att visa en meddelandepanel som är inställd i Omnia admin."
+          "Summary": "Använd blocket för att visa en notifieringspanel som är upplagd i Omnia admin."
         },
         "TrelloCards": {
           "Summary": "Använd blocket för att konfigurera en Trello-lista att visa kort från."
@@ -41,7 +41,7 @@
           "Summary": "Blocket kan användas för snabb sökning eller avancerad sökning."
         },
         "Form": {
-          "Summary": "Gör ett formulär tillgängligt för användare. Dessa formulär skapas och underhålls i Omnia-administrationen."
+          "Summary": "Gör ett formulär tillgängligt för användare. Dessa formulär skapas och underhålls i Omnia admin."
         },
         "FormQuestion": {
           "Summary": "Används endast när man arbetar med den grafiska presentationen av ett formulär, i Omnia admin."
@@ -67,17 +67,17 @@
       }
     },
     "OrgTreeBlock": {
-      "BlockSummary": "Visa ett organisationsdiagram baserat på information i Entra ID om vem som rapporterar till vem."
+      "BlockSummary": "Visa ett organisationsträd baserat på information i Entra ID om vem som rapporterar till vem."
     },
     "QrCode": {
       "Summary": "Använd blocket för att placera en QR-kod på en Omnia-sida."
     },
     "SignOffRequest": {
-      "BlockSummary": "Kan användas för olika ändamål angående sign-off-förfrågningar för sidor och/eller för styrda dokument.",
+      "BlockSummary": "Kan användas för olika ändamål angående signeringsbegäran för sidor och/eller för styrda dokument.",
       "OpenInNewTab": "Öppna i ny flik"
     },
     "TaxonomyNavigation": {
-      "BlockSummary": "Skapa taksonomi-baserad navigering. Ett vanligt exempel är ett organisationsschema."
+      "BlockSummary": "Skapa taxonomi-baserad navigering. Ett vanligt exempel är ett organisationsschema."
     },
     "UserInformation": {
       "BlockSummary": "Använd blocket för att visa användarinformation, till exempel på ett anpassat användarprofilkort."
@@ -85,7 +85,7 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Visa användarprofilens framsteg som en procentandel. Avsett att användas med de nya inställningarna för användartyper."
+          "WebPartSummary": "Visa hur komplett användarprofilen är som en procentandel. Avsett att användas med de nya inställningarna för användartyper."
         }
       }
     },
@@ -97,20 +97,20 @@
   },
   "OmniaTenantAdministration": {
     "GovernanceDashboard": {
-      "BlockSummary": "Visa statistik om teamwork, sökningar, sidor, användaraktivitet, brutna länkar eller misslyckade åtkomstförsök."
+      "BlockSummary": "Visa statistik om gruppsamarbeten, sökningar, sidor, användaraktivitet, brutna länkar eller misslyckade åtkomstförsök."
     }
   },
   "OmniaTeamCollaboration": {
     "Core": {
       "Blocks": {
         "TeamNewsRollup": {
-          "Summary": "Lista teamnyheter för den inloggade användaren."
+          "Summary": "Lista nyheter från gruppsamarbeten för den inloggade användaren."
         },
         "TeamCollaborationRollup": {
-          "Summary": "Lista teamsidor och annat teamwork som den inloggade användaren har tillgång till."
+          "Summary": "Lista gruppsamarbeten och liknande som den inloggade användaren har tillgång till."
         },
         "CreateApp": {
-          "Summary": "Gör det möjligt att skapa en Omnia-app; Publicering, Community eller Teamwork."
+          "Summary": "Gör det möjligt att skapa en Omnia-app; Publicering, Community eller Grupssamarbete."
         }
       }
     }
