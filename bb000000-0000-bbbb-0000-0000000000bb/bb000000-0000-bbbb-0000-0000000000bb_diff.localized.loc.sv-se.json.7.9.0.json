@@ -4,15 +4,15 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "En sektion förkonfigurerad som ett ackordeon",
-            "StepperDescription": "En sektion förkonfigurerad som en stegmätare"
+            "AccordionDescription": "En sektion förkonfigurerad som dragspel.",
+            "StepperDescription": "En sektion förkonfigurerad som steg-för-steg."
           }
         },
         "PredefinedSections": {
-          "OneColumnDescription": "En sektion i full bredd",
-          "TwoColumnsDescription": "En sektion i full bredd med två förkonfigurerade kolumner",
-          "ThreeColumnsDescription": "En sektion i full bredd med tre förkonfigurerade kolumner",
-          "TabDescription": "En sektion förkonfigurerad med flikar"
+          "OneColumnDescription": "En sektion i full bredd.",
+          "TwoColumnsDescription": "En sektion i full bredd med två förkonfigurerade kolumner.",
+          "ThreeColumnsDescription": "En sektion i full bredd med tre förkonfigurerade kolumner.",
+          "TabDescription": "En sektion förkonfigurerad med flikar."
         }
       },
       "AuthenticationBlock": {
@@ -44,10 +44,10 @@
           "DeletedItemWarning": "Detta objekt har tagits bort",
           "DeleteItemTitle": "Borttaget objekt",
           "Header": "Rubrik",
-          "EmptyMsg": "Inget objekt hittades"
+          "EmptyMsg": "Hittade inget objekt"
         },
         "BlockDialogLayout": {
-          "Title": "Blockdialoglayout",
+          "Title": "Layout för blockdialog",
           "Default": "Standard",
           "Authentication": "Autentisering",
           "Spfx": "SPFx"
