@@ -4,14 +4,14 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "A section pre-configured as an accordion",
-            "StepperDescription": "A section pre-configured as a stepper"
+            "AccordionDescription": "A section pre-configured as an accordion.",
+            "StepperDescription": "A section pre-configured as a stepper."
           }
         },
         "PredefinedSections": {
-          "OneColumnDescription": "A full width section",
-          "TwoColumnsDescription": "A full width section with two pre-configured columns",
-          "ThreeColumnsDescription": "A full width section with three pre-configured columns",
+          "OneColumnDescription": "A full width section.",
+          "TwoColumnsDescription": "A full width section with two pre-configured columns.",
+          "ThreeColumnsDescription": "A full width section with three pre-configured columns.",
           "TabDescription": "A section pre-configured with tabs"
         }
       },
