@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "Liiketoimintaprofiili": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Kirjaston tarjoajat",
+          "SharePointMediaLibrary": "SharePointin mediasisältökirjasto"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Näytä Matomo-analytiikkatiedot."
+        },
+        "Filter": {
+          "BlockSummary": "Aseta suodattimia käytettäväksi useissa analytiikkawidgeteissä ja/tai analytiikkaraporttiblokeissa sivulla."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Näytä keskeiset ilmoitukset, jotka on kohdistettu kirjautuneelle käyttäjälle."
+        },
+        "QuickLinks": {
+          "Summary": "Käytä tätä näyttämään jaettuja linkkejä, jotka on luotu Omnia-hallinnassa, joko tenantille tai liiketoimintaprofiilille."
+        },
+        "TaskRollup": {
+          "Summary": "Listaa tiimisivustojen tehtävät, jotka on osoitettu kirjautuneelle käyttäjälle. Myös Plannerin tehtäviä voidaan näyttää."
+        },
+        "NotificationPanel": {
+          "Summary": "Käytä tätä näyttämään ilmoituspaneeli, joka on asetettu Omnia-hallinnassa."
+        },
+        "TrelloCards": {
+          "Summary": "Käytä tätä konfiguroidaksesi Trello-listan, josta näytetään kortteja."
+        },
+        "Search": {
+          "Summary": "Tätä blokkia voidaan käyttää nopeaan tai edistyneeseen hakuun."
+        },
+        "Form": {
+          "Summary": "Tuo lomake käyttäjien saataville. Nämä lomakkeet luodaan ja ylläpidetään Omnia-hallinnassa."
+        },
+        "FormQuestion": {
+          "Summary": "Käytetään vain, kun työskennellään lomakkeen graafisen esityksen parissa, Omnia-hallinnassa."
+        },
+        "FormRollup": {
+          "Summary": "Listaa lomakkeita eri tarkoituksiin tai näytä useita käytettäväksi tarkoitettuja lomakkeita."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Näytä Teams-kanavan syöte. Syöte on vain lukuoikeudella."
+        },
+        "PostsFeed": {
+          "Summary": "Mahdollistaa keskusteluviestien julkaisemisen sovelluksessa. Voi myös näyttää viestejä useista lähteistä."
+        },
+        "Properties": {
+          "Title": "Ominaisuudet",
+          "Summary": "Käytä tätä blokkia näyttämään tietoja ominaisuudesta."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Mahdollistaa Microsoft Power Apps -sovelluksen näyttämisen."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Näytä organisaatiopuu, joka perustuu Entra ID:ssä olevaan tietoon siitä, kuka raportoi kenelle."
+    },
+    "QrCode": {
+      "Summary": "Käytä tätä QR-koodin sijoittamiseen mihin tahansa Omnia-sivulle."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Voidaan käyttää eri tarkoituksiin, jotka liittyvät hyväksyntäpyyntöihin sivuille ja/tai hallittuihin asiakirjoihin.",
+      "OpenInNewTab": "Avaa uudessa välilehdessä"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Luo taksonomiaan perustuva navigointi. Yleinen esimerkki on organisaatiokaavio."
+    },
+    "UserInformation": {
+      "BlockSummary": "Käytä tätä näyttämään käyttäjätietoja, esimerkiksi mukautetulla käyttäjäprofiilikortilla."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Näytä käyttäjäprofiilin edistyminen prosentteina. Tarkoitettu käytettäväksi uusien käyttäjätyyppien asetusten kanssa."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "Viva Engage -syöte voidaan näyttää tässä blokissa."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsy-yrityksistä."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "Listaa tiimisivuston uutiset kirjautuneelle käyttäjälle."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "Listaa tiimisivustot ja muut tiimityöt, joihin kirjautuneella käyttäjällä on pääsy."
+        },
+        "CreateApp": {
+          "Summary": "Mahdollistaa Omnia-sovelluksen luomisen; Julkaisu, Yhteisö tai Tiimityö."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "Listaa henkilöitä moniin eri tarkoituksiin, eri näkymillä, suodattimilla ja tarkennuksilla."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Näytä, kuinka pitkälle kirjautunut käyttäjä on edennyt profiilin täydentämisessä, jos käytetään vanhempaa versiota toiminnallisuudesta."
+        }
+      }
+    }
+  }
+}

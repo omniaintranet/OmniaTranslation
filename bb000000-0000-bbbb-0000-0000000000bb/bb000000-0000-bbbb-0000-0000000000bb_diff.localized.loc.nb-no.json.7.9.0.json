@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "En seksjon forhåndskonfigurert som et akordeon",
+            "StepperDescription": "En seksjon forhåndskonfigurert som en trinnvis prosess"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "En seksjon i full bredde",
+          "TwoColumnsDescription": "En seksjon i full bredde med to forhåndskonfigurerte kolonner",
+          "ThreeColumnsDescription": "En seksjon i full bredde med tre forhåndskonfigurerte kolonner",
+          "TabDescription": "En seksjon forhåndskonfigurert med faner"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Brukes kun for autentiseringsskjermer."
+      },
+      "BlockGallery": {
+        "Title": "Blokkgalleri",
+        "Settings": "Innstillinger",
+        "EnableModernDialogSwitch": "Moderne 'Legg til innhold' dialog",
+        "BlockTemplates": {
+          "Title": "Blokkmaler",
+          "Create": "Opprett mal",
+          "Fields": {
+            "Definition": "Definisjon"
+          },
+          "InvalidJsonField": "Innholdet er ikke en gyldig json-struktur",
+          "ErrorMsg": "En feil oppstod",
+          "EmptyMsg": "Ingen blokkmaler funnet",
+          "DeleteConfirmationMessage": "Er du sikker på at du vil sletteblokkmalen? Den vil ikke bli automatisk fjernet fra den eksisterende blokkmaldialogen, du må fjerne den manuelt.",
+          "DeleteConfirmationTitle": "Slett blokkmal"
+        },
+        "BlockDialog": {
+          "Title": "Blokkdialog",
+          "AddBlocks": "Legg til blokker",
+          "AddHeader": "Legg til overskrift",
+          "EditHeader": "Rediger overskrift",
+          "ManageList": "Administrer liste",
+          "Confirm": "Bekreft",
+          "DeletedItemWarning": "Dette elementet har blitt slettet",
+          "DeleteItemTitle": "Slettet element",
+          "Header": "Overskrift",
+          "EmptyMsg": "Ingen elementer funnet"
+        },
+        "BlockDialogLayout": {
+          "Title": "Blokkdialoglayout",
+          "Default": "Standard",
+          "Authentication": "Autentisering",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Administrer blokkmaler"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Blokkmaleditor"
+      }
+    }
+  }
+}

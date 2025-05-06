@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Maak inhoud die wordt gepresenteerd in een accordeonstijl, voor FAQ's en andere doeleinden."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Bulkupdate pagina",
+        "UpdateStatus": "Status bijwerken",
+        "SearchProperty": "Zoek eigenschap",
+        "SearchValue": "Zoekwaarde",
+        "PropertyValue": "Eigenschapswaarde",
+        "NewValue": "Nieuwe waarde",
+        "Replace": "Vervangen",
+        "ReplaceAll": "Alles vervangen",
+        "Find": "Zoeken",
+        "SelectItemRequiredMessage": "Selecteer alstublieft ten minste één pagina om bij te werken.",
+        "ReplaceAllMessage": "Vervang alle doorzoekbare pagina's met de bovenstaande eigenschap",
+        "Recalculate": "Hernieuw berekenen",
+        "RecalculateAll": "Hernieuw alles",
+        "RecalculatePageTypeMessage": "Hernieuw paginatype voor geselecteerde pagina's",
+        "Logs": "Logboeken",
+        "SearchDeletedUsers": "Zoek verwijderde gebruikers",
+        "Columns": {
+          "WorkflowStatus": "Workflowstatus",
+          "PageType": "Paginatype",
+          "CreatedBy": "Aangemaakt door"
+        },
+        "LogsTitle": "Bulkupdate pagina - logboeken",
+        "LogDetailsTitle": "Logdetails - ",
+        "LogsColumns": {
+          "Started": "Gestart",
+          "Ended": "Eindigde",
+          "Status": "Status",
+          "Title": "Titel",
+          "Message": "Bericht",
+          "Error": "Fout"
+        },
+        "LogsStatus": {
+          "Queued": "In de wachtrij",
+          "Success": "Succes",
+          "Error": "Fout",
+          "InProgress": "Bezig",
+          "Cancelled": "Geannuleerd"
+        },
+        "Log": {
+          "RecalculateSummary": "Pas de herberekeningsproperty toe op het paginatype: {0}.",
+          "ReplaceSummary": "Stel de eigenschap met de interne naam: {0} in op de nieuwe waarde: {1}.",
+          "Total": "Totaal aantal pagina's om bij te werken",
+          "TotalUpdatedPagesSuccess": "Totaal aantal pagina's succesvol bijgewerkt",
+          "TotalUpdatedPagesFail": "Totaal aantal pagina's bijwerken mislukt",
+          "TotalUpdatedPagesProcessed": "Totaal aantal pagina's verwerkt",
+          "ViewErrors": "Bekijk fouten",
+          "Cancel": "Annuleren",
+          "CancelMessage": "Annuleer de bulkupdate-taak"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Toon paginagebruik voor een bedrijfsprofiel."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Toon een eenvoudige analytics teller voor een gekozen website."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Lijst alle of sommige gemeenschappen die beschikbaar zijn in een of meer bedrijfsprofielen."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Versievergelijkingstype",
+      "CompareWithDefaultVariation": "Vergelijk met standaardvariatie",
+      "CompareWithCurrentVariation": "Vergelijk met huidige variatie"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Versies vergelijken"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Gebruik het om een banner aan een pagina toe te voegen."
+        },
+        "Text": {
+          "Summary": "Gebruik het om tekst overal op een pagina toe te voegen, met of zonder standaardtekst."
+        },
+        "HtmlScript": {
+          "Summary": "Maakt het mogelijk om HTML, Javascript en CSS toe te voegen."
+        },
+        "Media": {
+          "Summary": "Voeg een afbeelding of video overal op een pagina toe."
+        },
+        "PageProperties": {
+          "Summary": "Toon metadata over de pagina."
+        },
+        "RelatedLinks": {
+          "Summary": "Gebruik het om links naar gerelateerde pagina's of documenten in de tenant toe te voegen, of een aangepaste link naar elke webpagina."
+        },
+        "Breadcrumb": {
+          "Summary": "Maakt het mogelijk om naar elke bovenliggende node van de huidige pagina te navigeren."
+        },
+        "ActionButton": {
+          "Summary": "Voeg een of meer acties toe die worden geactiveerd door knoppen op een pagina."
+        },
+        "CommentLike": {
+          "Summary": "Schakel gebruikersinteracties op pagina's in."
+        },
+        "PageRollup": {
+          "Summary": "Lijst pagina's voor veel verschillende doeleinden, met verschillende weergaven, filters en verfijningen."
+        },
+        "CurrentNavigation": {
+          "Summary": "Maakt het mogelijk om naar broers en zussen, bovenliggende nodes en broers en zussen van bovenliggende nodes te navigeren."
+        },
+        "MegaMenu": {
+          "Summary": "Maak een mega-menu voor een werkruimte, of voor andere doeleinden."
+        },
+        "RatePage": {
+          "Summary": "Maakt het mogelijk voor gebruikers om inhoud te beoordelen, met sterren."
+        },
+        "CalendarRollup": {
+          "Summary": "Toon evenementen van een of meer Outlook- of Exchange-agenda's."
+        },
+        "VariationSelector": {
+          "Summary": "Maakt het mogelijk voor eindgebruikers om een variatie van de pagina te selecteren."
+        },
+        "RSSReader": {
+          "Summary": "Met dit blok kunnen notities van een RSS-lezerbron op een pagina worden weergegeven."
+        },
+        "ActivityFeed": {
+          "Summary": "Toon activiteiten voor abonnementen die de ingelogde gebruiker heeft, of voor activiteiten op inhoudspagina's."
+        },
+        "PageFeedback": {
+          "Summary": "Maakt het mogelijk voor gebruikersom feedback over de pagina te geven."
+        },
+        "Iframe": {
+          "Summary": "Toon inhoud in een iFrame."
+        },
+        "ChannelRollup": {
+          "Summary": "Lijst publicatiekanalen voor gemakkelijke toegang voor beheerders en/of goedkeuringen in afwachting voor kanalen."
+        },
+        "PageNavigation": {
+          "Summary": "Voeg navigatie toe via ankers binnen eenpagina."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Lijst verschillende soorten mediaresources voor gemakkelijke toegang, voornamelijk voor eindgebruikers. Kan ook worden geconfigureerd voor gebruik door redacteuren."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Gestaakt"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Pagina beoordelingsregel",
+            "RuleName": "Titel",
+            "DateProperty": "Datum eigenschap",
+            "MessageBarEnabled": "Toon berichtbalk",
+            "MessageBarTitle": "Berichttitel",
+            "MessageBarBody": "Berichtinhoud",
+            "MessageBarBackgroundColor": "Achtergrondkleur",
+            "MessageBarTextColor": "Tekstkleur",
+            "EmailEnabled": "Stuur e-mail",
+            "EmailSubject": "E-mail onderwerp",
+            "EmailBody": "E-mail inhoud",
+            "EmailRecipients": "Ontvangers",
+            "SuspendEnabled": "Stel status in op Gestaakt",
+            "ChangePageTypeEnabled": "Verander paginatype",
+            "PageType": "Paginatype",
+            "RemoveFromSearch": "Verwijder uit zoekopdracht",
+            "Save": "Opslaan",
+            "Add": "Toevoegen",
+            "Cancel": "Annuleren",
+            "SendEmailDialog": {
+              "Title": "Stuur e-mail",
+              "Message": "Kies een datum om e-mails te beoordelen die op basis van deze regel zijn verzonden.",
+              "Buttons": {
+                "SendEmail": "Verstuur"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Verwijder regel",
+            "ConfirmationMessage": "Weet u zeker dat u deze regel wilt verwijderen?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Niet gelukt om paginabeoordelingsregels van paginatype te vervullen",
+            "Message": "De volgende eigenschappen moeten worden bijgewerkt naar een datum in de toekomst:",
+            "Close": "Sluiten"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Schakel variatiespecifieke machtigingen in"
+    },
+    "SearchResultSource": {
+      "Suspended": "Gestaakt"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Kan worden gebruikt voor verschillende berichten aan de ingelogde gebruiker, op specifieke data of gelegenheden."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Toon het aantal deelnemers dat zich heeft geregistreerd voor het evenement en het maximale aantal deelnemers."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Lijst deelnemers die zich hebben geregistreerd voor een evenement."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Gestaakt"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variatie auteurs",
+        "EnableEditNotifications": "Meldingen voor bewerkingen van pagina's"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Het doel van dit blok is om publicatie-apps te lijst die beschikbaar zijn in het bedrijfsprofiel."
+      }
+    }
+  }
+}

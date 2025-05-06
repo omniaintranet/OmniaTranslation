@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Erstellen Sie Inhalte, die im Akkordeon-Stil präsentiert werden, für FAQs und andere Zwecke."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Seiten-Massenaktualisierung",
+        "UpdateStatus": "Aktualisierungsstatus",
+        "SearchProperty": "Eigenschaft suchen",
+        "SearchValue": "Wert suchen",
+        "PropertyValue": "Eigenschaftswert",
+        "NewValue": "Neuer Wert",
+        "Replace": "Ersetzen",
+        "ReplaceAll": "Alle ersetzen",
+        "Find": "Finden",
+        "SelectItemRequiredMessage": "Bitte wählen Sie mindestens eine Seite zur Aktualisierung aus.",
+        "ReplaceAllMessage": "Alle durchsuchbaren Seiten mit der oben genannten Eigenschaft ersetzen",
+        "Recalculate": "Neu berechnen",
+        "RecalculateAll": "Alle neu berechnen",
+        "RecalculatePageTypeMessage": "Seitenart für ausgewählte Seiten neu berechnen",
+        "Logs": "Protokolle",
+        "SearchDeletedUsers": "Gelöschte Benutzer suchen",
+        "Columns": {
+          "WorkflowStatus": "Workflow-Status",
+          "PageType": "Seitenart",
+          "CreatedBy": "Erstellt von"
+        },
+        "LogsTitle": "Seiten-Massenaktualisierung - Protokolle",
+        "LogDetailsTitle": "Protokolldetails - ",
+        "LogsColumns": {
+          "Started": "Begonnen",
+          "Ended": "Beendet",
+          "Status": "Status",
+          "Title": "Titel",
+          "Message": "Nachricht",
+          "Error": "Fehler"
+        },
+        "LogsStatus": {
+          "Queued": "In derWarteschlange",
+          "Success": "Erfolg",
+          "Error": "Fehler",
+          "InProgress": "In Bearbeitung",
+          "Cancelled": "Abgebrochen"
+        },
+        "Log": {
+          "RecalculateSummary": "Wenden Sie die Neuberechnungs-Eigenschaft auf die Seitenart an: {0}.",
+          "ReplaceSummary": "Setzen Sie die Eigenschaft mit dem internen Namen: {0} auf den neuen Wert: {1}.",
+          "Total": "Insgesamt zu aktualisierende Seiten",
+          "TotalUpdatedPagesSuccess": "Insgesamt erfolgreich aktualisierte Seiten",
+          "TotalUpdatedPagesFail": "Insgesamt fehlgeschlagene Seitenaktualisierungen",
+          "TotalUpdatedPagesProcessed": "Insgesamt verarbeitete Seiten",
+          "ViewErrors": "Fehler anzeigen",
+          "Cancel": "Abbrechen",
+          "CancelMessage": "Massenaktualisierungsaufgabe abbrechen"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Seitenverwendung für ein Geschäftsprofil anzeigen."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Einen einfachen Analysezähler für eine gewählte Website anzeigen."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Listen Sie alle oder einige der in einem oder mehreren Geschäftsprofilen verfügbaren Gemeinschaften auf."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Versionsvergleichstyp",
+      "CompareWithDefaultVariation": "Mit der Standardvariante vergleichen",
+      "CompareWithCurrentVariation": "Mit der aktuellen Variante vergleichen"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Versionen vergleichen"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Verwenden Sie es, um ein Banner auf einer Seite hinzuzufügen."
+        },
+        "Text": {
+          "Summary": "Verwenden Sie es, um Text überall auf einer Seite hinzuzufügen, mit oder ohne Standardtext."
+        },
+        "HtmlScript": {
+          "Summary": "Ermöglicht das Hinzufügen von HTML, Javascript und CSS."
+        },
+        "Media": {
+          "Summary": "Fügen Sie ein Bild oder ein Video überall auf einer Seite hinzu."
+        },
+        "PageProperties": {
+          "Summary": "Metadaten über dieSeite anzeigen."
+        },
+        "RelatedLinks": {
+          "Summary": "Verwenden Sie es, um Links zu verwandten Seiten oder Dokumenten im Mandanten oder einen benutzerdefinierten Link zu einer beliebigen Webseite hinzuzufügen."
+        },
+        "Breadcrumb": {
+          "Summary": "Ermöglicht die Navigation zu einem übergeordneten Knoten der aktuellen Seite."
+        },
+        "ActionButton": {
+          "Summary": "Fügen Sie eine oder mehrere Aktionen hinzu, die durch Schaltflächen auf einer Seite aktiviert werden."
+        },
+        "CommentLike": {
+          "Summary": "Aktivieren Sie Benutzerinteraktionen auf Seiten."
+        },
+        "PageRollup": {
+          "Summary": "Listen Sie Seiten für viele verschiedene Zwecke auf, mit unterschiedlichen Ansichten, Filtern und Verfeinerungen."
+        },
+        "CurrentNavigation": {
+          "Summary": "Ermöglicht die Navigation zu Geschwistern, übergeordneten Knoten und Geschwistern übergeordneter Knoten."
+        },
+        "MegaMenu": {
+          "Summary": "Erstellen Sie ein Mega-Menü für einen Arbeitsbereich oder für andere Zwecke."
+        },
+        "RatePage": {
+          "Summary": "Ermöglicht es Benutzern, Inhalte mit Sternen zu bewerten."
+        },
+        "CalendarRollup": {
+          "Summary": "Ereignisse aus einem oder mehreren Outlook- oder Exchange-Kalendern anzeigen."
+        },
+        "VariationSelector": {
+          "Summary": "Ermöglicht es Endbenutzern, eine Variante der Seite auszuwählen."
+        },
+        "RSSReader": {
+          "Summary": "Mit diesem Block können Notizen aus einer RSS-Reader-Quelle auf einer Seite angezeigt werden."
+        },
+        "ActivityFeed": {
+          "Summary": "Aktivitäten für Abonnements anzeigen, die der angemeldete Benutzer hat, oder für Aktivitäten auf Inhaltsseiten."
+        },
+        "PageFeedback": {
+          "Summary": "Ermöglicht es Benutzern, Feedback zur Seite zu senden."
+        },
+        "Iframe": {
+          "Summary": "Inhalte in einem iFrame anzeigen."
+        },
+        "ChannelRollup": {
+          "Summary": "Listen Sie Veröffentlichungskanäle für einfachen Zugriff für Administratoren und/oder ausstehende Genehmigungen für Kanäle auf."
+        },
+        "PageNavigation": {
+          "Summary": "Fügen Sie die Navigation durch Anker innerhalb einer Seite hinzu."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Listen Sie verschiedene Arten von Medienressourcen für einfachen Zugriff auf, hauptsächlich für Endbenutzer. Kann auch so konfiguriert werden, dass sie für Redakteure nützlich sind."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Ausgesetzt"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Seitenprüfungsregel",
+            "RuleName": "Titel",
+            "DateProperty": "Datums-Eigenschaft",
+            "MessageBarEnabled": "Nachrichtenleiste anzeigen",
+            "MessageBarTitle": "Nachrichtentitel",
+            "MessageBarBody": "Nachrichtentext",
+            "MessageBarBackgroundColor": "Hintergrundfarbe",
+            "MessageBarTextColor": "Textfarbe",
+            "EmailEnabled": "E-Mail senden",
+            "EmailSubject": "E-Mail-Betreff",
+            "EmailBody": "E-Mail-Text",
+            "EmailRecipients": "Empfänger",
+            "SuspendEnabled": "Status auf Ausgesetzt setzen",
+            "ChangePageTypeEnabled": "Seitenart ändern",
+            "PageType": "Seitenart",
+            "RemoveFromSearch": "Von der Suche entfernen",
+            "Save": "Speichern",
+            "Add": "Hinzufügen",
+            "Cancel": "Abbrechen",
+            "SendEmailDialog": {
+              "Title": "E-Mail senden",
+              "Message": "Wählen Sie ein Datum aus, um E-Mailszu überprüfen, die auf dieser Regel basieren.",
+              "Buttons": {
+                "SendEmail": "Senden"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Regel entfernen",
+            "ConfirmationMessage": "Sind Sie sicher, dass Sie diese Regel entfernen möchten?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Seitenprüfungsregeln der Seitenart konnten nicht erfüllt werden",
+            "Message": "Die folgenden Eigenschaften müssen auf ein Datum in der Zukunft aktualisiert werden:",
+            "Close": "Schließen"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Variation spezifische Berechtigungen aktivieren"
+    },
+    "SearchResultSource": {
+      "Suspended": "Ausgesetzt"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Kann für verschiedene Nachrichten an den angemeldeten Benutzer an bestimmten Daten oder Anlässen verwendet werden."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Die Anzahl der Teilnehmer anzeigen, die sich für die Veranstaltung registriert haben, und die maximale Anzahl der Teilnehmer."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Teilnehmer auflisten, die sich für eine Veranstaltung registriert haben."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Ausgesetzt"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variationsautoren",
+        "EnableEditNotifications": "Benachrichtigungen für Seitenbearbeitungen"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Zweck dieses Blocks ist es, Veröffentlichungsanwendungen aufzulisten, die im Geschäftsprofil verfügbar sind."
+      }
+    }
+  }
+}

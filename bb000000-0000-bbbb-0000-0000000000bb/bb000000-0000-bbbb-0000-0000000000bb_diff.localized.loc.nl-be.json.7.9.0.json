@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "Een sectie die is geconfigureerd als een accordion",
+            "StepperDescription": "Een sectie die is geconfigureerd als een stepper"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "Een sectie over de volle breedte",
+          "TwoColumnsDescription": "Een sectie over de volle breedte met twee vooraf geconfigureerde kolommen",
+          "ThreeColumnsDescription": "Een sectie overde volle breedte met drie vooraf geconfigureerde kolommen",
+          "TabDescription": "Eensectie die is geconfigureerd met tabbladen"
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Alleen gebruikt voor authenticatieschermen."
+      },
+      "BlockGallery": {
+        "Title": "Blokgalerij",
+        "Settings": "Instellingen",
+        "EnableModernDialogSwitch": "Moderne 'Inhoud toevoegen' dialoog",
+        "BlockTemplates": {
+          "Title": "Bloktemplates",
+          "Create": "Sjabloon maken",
+          "Fields": {
+            "Definition": "Definitie"
+          },
+          "InvalidJsonField": "Inhoud is geen geldige json-structuur",
+          "ErrorMsg": "Er is een fout opgetreden",
+          "EmptyMsg": "Geen bloktemplate gevonden",
+          "DeleteConfirmationMessage": "Weet je zeker dat je de bloktemplate wilt verwijderen? Deze wordt niet automatisch verwijderd uit de bestaande bloktemplate-dialoog, je moet deze handmatig verwijderen.",
+          "DeleteConfirmationTitle": "Bloktemplate verwijderen"
+        },
+        "BlockDialog": {
+          "Title": "Blokdialoog",
+          "AddBlocks": "Blokken toevoegen",
+          "AddHeader": "Kop toevoegen",
+          "EditHeader": "Kop bewerken",
+          "ManageList": "Lijst beheren",
+          "Confirm": "Bevestigen",
+          "DeletedItemWarning": "Dit item is verwijderd",
+          "DeleteItemTitle": "Verwijderd item",
+          "Header": "Kop",
+          "EmptyMsg": "Geen item gevonden"
+        },
+        "BlockDialogLayout": {
+          "Title": "Blokdialooglay-out",
+          "Default": "Standaard",
+          "Authentication": "Authenticatie",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Beheer bloktemplates"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Bloktemplate-editor"
+      }
+    }
+  }
+}

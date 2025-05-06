@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Listaa asiakirjat moniin eri tarkoituksiin, eri näkymillä, suodattimilla ja tarkennuksilla."
+        },
+        "DocumentLibrary": {
+          "Summary": "Lisää tämä sivulle, jolla haluat työskennellä hallittujen asiakirjojen kanssa."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Näytä prosessin sisältö - lisätty Sisältö-välilehdelle prosessin luojan toimesta."
+        },
+        "Drawing": {
+          "Summary": "Näytä prosessin piirustus."
+        },
+        "Tasks": {
+          "Summary": "Näytä tehtävät, jotka prosessin luoja on lisännyt prosessin Tehtävät-välilehdelle."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Käytä tätä prosessikontekstissa asettaaksesi ja nähdäksesi askeleen/vaiheen tilan prosessissa."
+        },
+        "Links": {
+          "Summary": "Näytä linkit, jotka prosessin luoja on lisännyt prosessin Linkit-välilehdelle."
+        },
+        "ProcessNavigation": {
+          "Summary": "Tämä lisää nykyisen kaltaisen navigoinnin prosessivaiheille."
+        },
+        "ProcessContext": {
+          "Summary": "Käytetään näyttämään tietty prosessi sivulla, perustuen ominaisuuteen."
+        },
+        "ProcessRollup": {
+          "Summary": "Listaa saatavilla olevat prosessit, suodatusmahdollisuuksilla."
+        },
+        "Properties": {
+          "Summary": "Näyttää prosessin ominaisuudet, esimerkiksi prosessin omistajan, loppukäyttäjille."
+        },
+        "Title": {
+          "Summary": "Näytä prosessin otsikko, jonka prosessin luoja on lisännyt."
+        },
+        "Breadcrumb": {
+          "Summary": "Käytä tätä näyttämään leivänmurunavigointi prosessisivulla."
+        },
+        "Documents": {
+          "Summary": "Näytä asiakirjalista - lisätty Asiakirjat-välilehdelle prosessin luojan toimesta."
+        },
+        "Pages": {
+          "Summary": "Listaa sivut, jotka prosessin luoja on lisännyt Sivut-välilehdelle."
+        },
+        "ProcessLayout": {
+          "Summary": "Näytä koko prosessi sivulla. Yhdistettävä Prosessikonteksti-lohkon kanssa."
+        }
+      }
+    }
+  }
+}

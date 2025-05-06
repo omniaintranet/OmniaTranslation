@@ -1,0 +1,242 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "Summary": "Luo sisältöä, joka esitetään haitarityylisessä muodossa, usein kysytyille kysymyksille ja muille tarkoituksille."
+      }
+    },
+    "Admin": {
+      "PageBulkUpdate": {
+        "Title": "Sivujen massapäivitys",
+        "UpdateStatus": "Päivityksen tila",
+        "SearchProperty": "Hae ominaisuus",
+        "SearchValue": "Hae arvo",
+        "PropertyValue": "Ominaisuuden arvo",
+        "NewValue": "Uusi arvo",
+        "Replace": "Korvata",
+        "ReplaceAll": "Korvaa kaikki",
+        "Find": "Etsi",
+        "SelectItemRequiredMessage": "Valitse vähintään yksi sivu päivitettäväksi.",
+        "ReplaceAllMessage": "Korvaa kaikki haettavat sivut yllä olevalla ominaisuudella",
+        "Recalculate": "Laske uudelleen",
+        "RecalculateAll": "Laske kaikki uudelleen",
+        "RecalculatePageTypeMessage": "Laske sivutyypit valituille sivuille",
+        "Logs": "Lokit",
+        "SearchDeletedUsers": "Hae poistettuja käyttäjiä",
+        "Columns": {
+          "WorkflowStatus": "Työnkulun tila",
+          "PageType": "Sivutyyppi",
+          "CreatedBy": "Luonut"
+        },
+        "LogsTitle": "Sivujen massapäivitys - lokit",
+        "LogDetailsTitle": "Lokitiedot - ",
+        "LogsColumns": {
+          "Started": "Aloitettu",
+          "Ended": "Päättynyt",
+          "Status": "Tila",
+          "Title": "Otsikko",
+          "Message": "Viesti",
+          "Error": "Virhe"
+        },
+        "LogsStatus": {
+          "Queued": "Jonossa",
+          "Success": "Onnistui",
+          "Error": "Virhe",
+          "InProgress": "Käynnissä",
+          "Cancelled": "Peruutettu"
+        },
+        "Log": {
+          "RecalculateSummary": "Käytä uudelleenlaskentaa sivutyypille: {0}.",
+          "ReplaceSummary": "Aseta ominaisuus, jonka sisäinen nimi on: {0} uuteen arvoon: {1}.",
+          "Total": "Yhteensä päivitettävät sivut",
+          "TotalUpdatedPagesSuccess": "Yhteensä sivuja päivitetty onnistuneesti",
+          "TotalUpdatedPagesFail": "Yhteensä sivuja joiden päivitys epäonnistui",
+          "TotalUpdatedPagesProcessed": "Yhteensä käsiteltyjä sivuja",
+          "ViewErrors": "Näytä virheet",
+          "Cancel": "Peruuta",
+          "CancelMessage": "Peruuta massapäivitystehtävän poistaminen"
+        }
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Report": {
+          "BlockSummary": "Näytä sivun käyttö liiketoimintaprofiilille."
+        },
+        "LiveCounter": {
+          "BlockSummary": "Näytä yksinkertainen analytiikkalaskuri valitulle verkkosivustolle."
+        }
+      }
+    },
+    "Community": {
+      "Rollup": {
+        "Summary": "Listaa kaikki tai osa yhteisöistä, jotka ovat saatavilla yhdessä tai useammassa liiketoimintaprofiilissa."
+      }
+    },
+    "ContentBlock": {
+      "VersionComparisonType": "Versiovertailun tyyppi",
+      "CompareWithDefaultVariation": "Vertaile oletusvariaatioon",
+      "CompareWithCurrentVariation": "Vertaile nykyiseen variaatioon"
+    },
+    "TranslationComparer": {
+      "CompareVersions": "Vertaile versioita"
+    },
+    "Core": {
+      "Blocks": {
+        "Banner": {
+          "Summary": "Käytä tätä lisätäksesi bannerin sivulle."
+        },
+        "Text": {
+          "Summary": "Käytä tätä lisätäksesi tekstiä mihin tahansa sivun kohtaan, oletustekstillä tai ilman."
+        },
+        "HtmlScript": {
+          "Summary": "Mahdollistaa HTML:n, JavaScriptin ja CSS:n lisäämisen."
+        },
+        "Media": {
+          "Summary": "Lisää kuva tai video mihin tahansa sivun kohtaan."
+        },
+        "PageProperties": {
+          "Summary": "Näytä metatietoja sivusta."
+        },
+        "RelatedLinks": {
+          "Summary": "Käytä tätä lisätäksesi linkkejä liittyville sivuille tai asiakirjoille tenantissa, tai mukautetun linkin mihin tahansa verkkosivustoon."
+        },
+        "Breadcrumb": {
+          "Summary": "Mahdollistaa navigoinnin mille tahansa nykyisen sivun yläsivulle."
+        },
+        "ActionButton": {
+          "Summary": "Lisää yksi tai useampi toimintanappi."
+        },
+        "CommentLike": {
+          "Summary": "Ota käyttöön käyttäjävuorovaikutukset sivuilla."
+        },
+        "PageRollup": {
+          "Summary": "Listaa sivuja moniin eri tarkoituksiin, eri näkymillä, suodattimilla ja tarkennuksilla."
+        },
+        "CurrentNavigation": {
+          "Summary": "Mahdollistaa navigoinnin sisaruksiin, yläsivuille ja yläsivujen sisaruksiin."
+        },
+        "MegaMenu": {
+          "Summary": "Luo megavalikko työtilalle tai muuhun tarkoitukseen."
+        },
+        "RatePage": {
+          "Summary": "Mahdollistaa käyttäjien arvioida sisältöä, käyttäen tähtiä."
+        },
+        "CalendarRollup": {
+          "Summary": "Näytä tapahtumia yhdestä tai useammasta Outlook- tai Exchange-kalenterista."
+        },
+        "VariationSelector": {
+          "Summary": "Mahdollistaa loppukäyttäjien valita sivun variaatio."
+        },
+        "RSSReader": {
+          "Summary": "Tämän lohkon avulla voidaan näyttää RSS-syötteen sisältö sivulla."
+        },
+        "ActivityFeed": {
+          "Summary": "Näytä aktiviteetteja niille tilauksille, joilla kirjautunut käyttäjä on, tai aktiviteetteja sisältösivuilla."
+        },
+        "PageFeedback": {
+          "Summary": "Mahdollistaa käyttäjien lähettää palautetta sivusta."
+        },
+        "Iframe": {
+          "Summary": "Näytä sisältöä iFramessa."
+        },
+        "ChannelRollup": {
+          "Summary": "Listaa julkaisukanavat helppoa pääsyä varten ylläpitäjille ja/tai odottavat hyväksynnät kanaville."
+        },
+        "PageNavigation": {
+          "Summary": "Lisää navigointia ankkureiden kautta sivun sisällä."
+        }
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockSummary": "Listaa erilaisia mediaresursseja helppoa pääsyä varten, pääasiassa loppukäyttäjille. Voidaan myös konfiguroida muokkaajien käytettäväksi."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "Suspended": "Keskeytetty"
+          }
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "Title": "Sivun tarkistussääntö",
+            "RuleName": "Otsikko",
+            "DateProperty": "Päivämääräominaisuus",
+            "MessageBarEnabled": "Näytä viestipalkki",
+            "MessageBarTitle": "Viestin otsikko",
+            "MessageBarBody": "Viestin sisältö",
+            "MessageBarBackgroundColor": "Taustaväri",
+            "MessageBarTextColor": "Tekstiväri",
+            "EmailEnabled": "Lähetä sähköposti",
+            "EmailSubject": "Sähköpostin aihe",
+            "EmailBody": "Sähköpostin sisältö",
+            "EmailRecipients": "Vastaanottajat",
+            "SuspendEnabled": "Aseta tila Keskeytetty",
+            "ChangePageTypeEnabled": "Vaihda sivun tyyppi",
+            "PageType": "Sivun tyyppi",
+            "RemoveFromSearch": "Poista hausta",
+            "Save": "Tallenna",
+            "Add": "Lisää",
+            "Cancel": "Peruuta",
+            "SendEmailDialog": {
+              "Title": "Lähetä sähköposti",
+              "Message": "Valitse päivämäärä tarkistaaksesi tämän säännön perusteella lähetetyt sähköpostit.",
+              "Buttons": {
+                "SendEmail": "Lähetä"
+              }
+            }
+          },
+          "RemovePageReviewRuleSettings": {
+            "Title": "Poista sääntö",
+            "ConfirmationMessage": "Oletko varma, että haluat poistaa tämän säännön?"
+          },
+          "PageReviewValidationFailed": {
+            "Title": "Sivun tarkistussääntöjen täyttäminen epäonnistui sivutyypistä",
+            "Message": "Seuraavat ominaisuudet on päivitettävä tulevaisuudessa olevaan päivämäärään:",
+            "Close": "Sulje"
+          }
+        }
+      }
+    },
+    "PermissionInput": {
+      "EnableVariationSpecificPermissions": "Ota käyttöön variaatiokohtaiset oikeudet"
+    },
+    "SearchResultSource": {
+      "Suspended": "Keskeytetty"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockSummary": "Voidaan käyttää erilaisiin viesteihin kirjautuneelle käyttäjälle, tiettyinä päivinä tai ajankohtina."
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Summary": "Näytä tapahtumaan rekisteröityneiden osallistujien määrä ja maksimiosallistujamäärä."
+      },
+      "EventParticipantList": {
+        "BlockSummary": "Listaa tapahtumaan rekisteröityneet osallistujat."
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "Suspended": "Keskeytetty"
+      }
+    },
+    "PublishingApp": {
+      "Variation": {
+        "VariationAuthors": "Variaatioiden luojat",
+        "EnableEditNotifications": "Ilmoitukset sivujen muokkauksista"
+      },
+      "PublishingAppRollup": {
+        "Summary": "Tämä lohko listaa liiketoimintaprofiilissa saatavilla olevat julkaisusovellukset."
+      }
+    }
+  }
+}

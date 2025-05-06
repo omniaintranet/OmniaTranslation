@@ -1,0 +1,130 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "LibrarySettings": {
+          "LibraryProviders": "Bibliotheksanbieter",
+          "SharePointMediaLibrary": "SharePoint-Medienbibliothek"
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Analytics": {
+      "Block": {
+        "Widget": {
+          "BlockSummary": "Matomo-Analysedaten anzeigen."
+        },
+        "Filter": {
+          "BlockSummary": "Filter festlegen, die in mehreren Analyse-Widgets und/oder Analyseberichtsblöcken auf der Seite verwendet werden."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Announcements": {
+          "Summary": "Zentrale Ankündigungenanzeigen, die an den angemeldeten Benutzer gerichtet sind."
+        },
+        "QuickLinks": {
+          "Summary": "Verwenden Sie es, um freigegebene Links anzuzeigen, die im Omnia-Admin erstellt wurden, entweder für den Mandanten oder für ein Geschäftsprofil."
+        },
+        "TaskRollup": {
+          "Summary": "Listet Aufgaben von Teamsites auf, die dem angemeldeten Benutzer zugewiesen sind. Aufgaben aus Planner können ebenfalls angezeigt werden."
+        },
+        "NotificationPanel": {
+          "Summary": "Verwenden Sie es, um ein im Omnia-Admin eingerichtetes Benachrichtigungsfeld anzuzeigen."
+        },
+        "TrelloCards": {
+          "Summary": "Verwenden Sie es, um eine Trello-Liste zu konfigurieren, aus der Karten angezeigt werden."
+        },
+        "Search": {
+          "Summary": "DieserBlock kann für eine schnelle Suche oder eine erweiterte Suche verwendet werden."
+        },
+        "Form": {
+          "Summary": "Ein Formular für Benutzer verfügbar machen. Diese Formulare werden im Omnia-Admin erstellt und verwaltet."
+        },
+        "FormQuestion": {
+          "Summary": "Wird nur verwendet, wenn mit der grafischen Darstellung eines Formulars im Omnia-Admin gearbeitet wird."
+        },
+        "FormRollup": {
+          "Summary": "Formulare für verschiedene Zwecke auflisten oder eine Anzahl von Formularen anzeigen, die verwendet werden sollen."
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Summary": "Einen Teams-Kanal-Feed anzeigen. Der Feed ist nur lesbar."
+        },
+        "PostsFeed": {
+          "Summary": "Ermöglicht das Posten von Konversationsnachrichten in einer App. Kann auch Nachrichten aus mehreren Quellen aggregieren."
+        },
+        "Properties": {
+          "Title": "Eigenschaften",
+          "Summary": "Verwenden Sie diesen Block, um Informationen aus einer Eigenschaft anzuzeigen."
+        }
+      }
+    },
+    "PowerApp": {
+      "PowerAppBlock": {
+        "BlockSummary": "Ermöglicht das Hinzufügen einer App, die gemäß Microsofts Power App-Framework erstellt wurde."
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockSummary": "Ein Organigramm basierend auf Informationen in Entra ID anzeigen, wer wem berichtet."
+    },
+    "QrCode": {
+      "Summary": "Verwenden Sie es, um einen QR-Code auf einer beliebigen Omnia-Seite zu platzieren."
+    },
+    "SignOffRequest": {
+      "BlockSummary": "Kann für verschiedene Zwecke in Bezug auf Abzeichnungsanfragen für Seiten und/oder für kontrollierte Dokumente verwendet werden.",
+      "OpenInNewTab": "In neuem Tab öffnen"
+    },
+    "TaxonomyNavigation": {
+      "BlockSummary": "Erstellen Sie eine taxonomiebasierte Navigation. Ein häufiges Beispiel ist ein Organigramm."
+    },
+    "UserInformation": {
+      "BlockSummary": "Verwenden Sie es, um Benutzerinformationen anzuzeigen, beispielsweise auf einer benutzerdefinierten Benutzerprofilkarte."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Den Fortschritt des Benutzerprofils als Prozentsatz anzeigen. Soll mit den neuen Einstellungen für Benutzertypen verwendet werden."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Summary": "Ein Viva Engage-Feed kann in diesem Block angezeigt werden."
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "BlockSummary": "Statistiken über Teamarbeit, Suche, Seiten, Benutzeraktivität, defekte Links oder fehlgeschlagene Zugriffsversuche anzeigen."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Summary": "Teamnachrichten für den angemeldeten Benutzer auflisten."
+        },
+        "TeamCollaborationRollup": {
+          "Summary": "Teamseiten und andere Teamarbeiten auflisten, auf die der angemeldete Benutzer Zugriff hat."
+        },
+        "CreateApp": {
+          "Summary": "Ermöglicht das Erstellen einer Omnia-App; Veröffentlichung, Community oder Teamarbeit."
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockSummary": "Personen für viele verschiedene Zwecke auflisten, mit unterschiedlichen Ansichten, Filtern und Verfeinerungen."
+    },
+    "UserProfileCompletion": {
+      "ProfileCompletion": {
+        "WebPart": {
+          "WebPartSummary": "Anzeigen, wie weit der angemeldete Benutzer bei der Vervollständigung des Profils gekommen ist, wenn die ältere Funktionalität verwendet wird."
+        }
+      }
+    }
+  }
+}

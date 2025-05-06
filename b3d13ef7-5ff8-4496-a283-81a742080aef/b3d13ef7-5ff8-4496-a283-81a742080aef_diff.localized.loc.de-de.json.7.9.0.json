@@ -1,0 +1,62 @@
+{
+  "ODM": {
+    "Core": {
+      "Blocks": {
+        "DocumentRollup": {
+          "Summary": "Listen Sie Dokumente für viele verschiedene Zwecke auf, mit unterschiedlichen Ansichten, Filtern und Verfeinerungen."
+        },
+        "DocumentLibrary": {
+          "Summary": "Fügen Siedies zu einer Seite hinzu, auf der Sie mit kontrollierten Dokumenten arbeiten möchten."
+        }
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "BlockDefinitions": {
+        "Content": {
+          "Summary": "Zeigen Sie den Prozessinhalt an - hinzugefügt auf der Registerkarte Inhalt durch den Prozessautor."
+        },
+        "Drawing": {
+          "Summary": "Zeigen Sie die Prozesszeichnung für den Prozess an."
+        },
+        "Tasks": {
+          "Summary": "Zeigen Sie die Aufgaben an, die der Prozessautor auf der Registerkarte Aufgaben für den Prozess hinzugefügt hat."
+        },
+        "ProcessStepStatus": {
+          "Summary": "Verwenden Sie es im Kontext eines Prozesses, um den Status für einen Schritt im Prozess festzulegen und anzuzeigen."
+        },
+        "Links": {
+          "Summary": "Zeigen Sie die Links an, die der Prozessautor auf der Registerkarte Links für den Prozess hinzugefügt hat."
+        },
+        "ProcessNavigation": {
+          "Summary": "Es wird eine aktuelle navigationsähnlicheNavigation für die Prozessschritte hinzugefügt."
+        },
+        "ProcessContext": {
+          "Summary": "Verwenden Sie es, um einen bestimmten Prozess auf der Seite anzuzeigen, basierend auf einer Eigenschaft."
+        },
+        "ProcessRollup": {
+          "Summary": "Listen Sie verfügbare Prozesse mit Filtermöglichkeiten auf."
+        },
+        "Properties": {
+          "Summary": "Zeigen Sie Eigenschaften fürden Prozess für Endbenutzer an, zum Beispiel den Prozessverantwortlichen."
+        },
+        "Title": {
+          "Summary": "Zeigen Sie den Prozestitel an, der vom Prozessautor für den Prozess hinzugefügt wurde."
+        },
+        "Breadcrumb": {
+          "Summary": "Verwenden Sie es, um ein Breadcrumb auf einer Prozessseite anzuzeigen."
+        },
+        "Documents": {
+          "Summary": "Zeigen Sie eine Liste von Dokumenten an - hinzugefügt auf der Registerkarte Dokumente durch den Prozessautor."
+        },
+        "Pages": {
+          "Summary": "Listet die Seiten auf, die der Prozessautor auf der Registerkarte Seiten hinzugefügt hat."
+        },
+        "ProcessLayout": {
+          "Summary": "Zeigen Sie den gesamten Prozess auf einer Seite an. Muss mit dem Prozesskontextblock kombiniert werden."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "AccordionDescription": "En sektion förkonfigurerad som dragspel.",
+            "StepperDescription": "En sektion förkonfigurerad som steg-för-steg."
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "En sektion i full bredd.",
+          "TwoColumnsDescription": "En sektion i full bredd med två förkonfigurerade kolumner.",
+          "ThreeColumnsDescription": "En sektion i full bredd med tre förkonfigurerade kolumner.",
+          "TabDescription": "En sektion förkonfigurerad med flikar."
+        }
+      },
+      "AuthenticationBlock": {
+        "Summary": "Används endast för autentiseringsskärmar."
+      },
+      "BlockGallery": {
+        "Title": "Blockgalleri",
+        "Settings": "Inställningar",
+        "EnableModernDialogSwitch": "Modern dialog för att lägga till innehåll",
+        "BlockTemplates": {
+          "Title": "Blockmallar",
+          "Create": "Skapa mall",
+          "Fields": {
+            "Definition": "Definition"
+          },
+          "InvalidJsonField": "Innehållet är inte en giltig json-struktur",
+          "ErrorMsg": "Ett fel inträffade",
+          "EmptyMsg": "Ingen blockmall hittades",
+          "DeleteConfirmationMessage": "Är du säker på att du vill ta bort blockmallen? Den tas inte bort automatiskt från den blockmall-dialogen, du måste ta bort den manuellt.",
+          "DeleteConfirmationTitle": "Ta bort blockmall"
+        },
+        "BlockDialog": {
+          "Title": "Blockdialog",
+          "AddBlocks": "Lägg till block",
+          "AddHeader": "Lägg till rubrik",
+          "EditHeader": "Redigera rubrik",
+          "ManageList": "Hantera lista",
+          "Confirm": "Bekräfta",
+          "DeletedItemWarning": "Detta objekt har tagits bort",
+          "DeleteItemTitle": "Borttaget objekt",
+          "Header": "Rubrik",
+          "EmptyMsg": "Hittade inget objekt"
+        },
+        "BlockDialogLayout": {
+          "Title": "Layout för blockdialog",
+          "Default": "Standard",
+          "Authentication": "Autentisering",
+          "Spfx": "SPFx"
+        },
+        "Tooltips": {
+          "Management": "Hantera blockmallar"
+        }
+      },
+      "PermissionInput": {
+        "BlockTemplateEditor": "Blockmallredigerare"
+      }
+    }
+  }
+}
