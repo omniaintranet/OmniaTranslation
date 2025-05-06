@@ -26,22 +26,22 @@
           "Summary": "Näytä keskeiset ilmoitukset, jotka on kohdistettu kirjautuneelle käyttäjälle."
         },
         "QuickLinks": {
-          "Summary": "Käytä sitä näyttämään jaettuja linkkejä,jotka on luotu Omnia-hallinnassa, joko vuokralaiselle tai liiketoimintaprofiilille."
+          "Summary": "Käytä tätä näyttämään jaettuja linkkejä, jotka on luotu Omnia-hallinnassa, joko tenantille tai liiketoimintaprofiilille."
         },
         "TaskRollup": {
-          "Summary": "Listaa tiimisivustojen tehtävät, jotka on osoitettu kirjautuneelle käyttäjälle. Myös Plannerin tehtäviävoidaan näyttää."
+          "Summary": "Listaa tiimisivustojen tehtävät, jotka on osoitettu kirjautuneelle käyttäjälle. Myös Plannerin tehtäviä voidaan näyttää."
         },
         "NotificationPanel": {
-          "Summary": "Käytä sitä näyttämään ilmoituspaneeli, joka on asetettu Omnia-hallinnassa."
+          "Summary": "Käytä tätä näyttämään ilmoituspaneeli, joka on asetettu Omnia-hallinnassa."
         },
         "TrelloCards": {
-          "Summary": "Käytä sitä konfiguroidaksesi Trello-listan, josta näytetään kortteja."
+          "Summary": "Käytä tätä konfiguroidaksesi Trello-listan, josta näytetään kortteja."
         },
         "Search": {
-          "Summary": "Tätä blokkia voidaan käyttää nopeaan hakuun tai edistyneeseen hakuun."
+          "Summary": "Tätä blokkia voidaan käyttää nopeaan tai edistyneeseen hakuun."
         },
         "Form": {
-          "Summary": "Tee lomake käyttäjien saataville. Nämä lomakkeet luodaan ja ylläpidetään Omnia-hallinnassa."
+          "Summary": "Tuo lomake käyttäjien saataville. Nämä lomakkeet luodaan ja ylläpidetään Omnia-hallinnassa."
         },
         "FormQuestion": {
           "Summary": "Käytetään vain, kun työskennellään lomakkeen graafisen esityksen parissa, Omnia-hallinnassa."
@@ -53,7 +53,7 @@
           "Summary": "Näytä Teams-kanavan syöte. Syöte on vain lukuoikeudella."
         },
         "PostsFeed": {
-          "Summary": "Mahdollistaa keskustelunviestien julkaisemisen sovelluksessa. Voi myös kerätä viestejä useista lähteistä."
+          "Summary": "Mahdollistaa keskusteluviestien julkaisemisen sovelluksessa. Voi myös näyttää viestejä useista lähteistä."
         },
         "Properties": {
           "Title": "Ominaisuudet",
@@ -63,24 +63,24 @@
     },
     "PowerApp": {
       "PowerAppBlock": {
-        "BlockSummary": "Mahdollistaa sovelluksen lisäämisen, joka on rakennettu Microsoftin Power App -kehykseen."
+        "BlockSummary": "Mahdollistaa Microsoft Power Apps -sovelluksen näyttämisen."
       }
     },
     "OrgTreeBlock": {
       "BlockSummary": "Näytä organisaatiopuu, joka perustuu Entra ID:ssä olevaan tietoon siitä, kuka raportoi kenelle."
     },
     "QrCode": {
-      "Summary": "Käytä sitä QR-koodin sijoittamiseen mihin tahansa Omnia-sivulle."
+      "Summary": "Käytä tätä QR-koodin sijoittamiseen mihin tahansa Omnia-sivulle."
     },
     "SignOffRequest": {
-      "BlockSummary": "Voidaan käyttää eri tarkoituksiin, jotka liittyvät hyväksyntäpyyntöihin sivuille ja/tai hallittuihinasiakirjoihin.",
+      "BlockSummary": "Voidaan käyttää eri tarkoituksiin, jotka liittyvät hyväksyntäpyyntöihin sivuille ja/tai hallittuihin asiakirjoihin.",
       "OpenInNewTab": "Avaa uudessa välilehdessä"
     },
     "TaxonomyNavigation": {
       "BlockSummary": "Luo taksonomiaan perustuva navigointi. Yleinen esimerkki on organisaatiokaavio."
     },
     "UserInformation": {
-      "BlockSummary": "Käytä sitä näyttämään käyttäjätietoja, esimerkiksi mukautetulla käyttäjäprofiilikortilla."
+      "BlockSummary": "Käytä tätä näyttämään käyttäjätietoja, esimerkiksi mukautetulla käyttäjäprofiilikortilla."
     },
     "UserProfileCompletion": {
       "ProfileCompletion": {
@@ -91,20 +91,20 @@
     },
     "Blocks": {
       "Yammer": {
-        "Summary": "Viva Engage -syöte voidaan näyttää tässä blokkissa."
+        "Summary": "Viva Engage -syöte voidaan näyttää tässä blokissa."
       }
     }
   },
   "OmniaTenantAdministration": {
     "GovernanceDashboard": {
-      "BlockSummary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsyyrityksistä."
+      "BlockSummary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsy-yrityksistä."
     }
   },
   "OmniaTeamCollaboration": {
     "Core": {
       "Blocks": {
         "TeamNewsRollup": {
-          "Summary": "Listaa tiutiedotteet kirjautuneelle käyttäjälle."
+          "Summary": "Listaa tiimisivuston uutiset kirjautuneelle käyttäjälle."
         },
         "TeamCollaborationRollup": {
           "Summary": "Listaa tiimisivustot ja muut tiimityöt, joihin kirjautuneella käyttäjällä on pääsy."
@@ -122,7 +122,7 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Näytä, kuinka pitkälle kirjautunut käyttäjä on edennyt profiilin täydentämisessä, jos käytetään vanhempaa toimintoa."
+          "WebPartSummary": "Näytä, kuinka pitkälle kirjautunut käyttäjä on edennyt profiilin täydentämisessä, jos käytetään vanhempaa versiota toiminnallisuudesta."
         }
       }
     }
