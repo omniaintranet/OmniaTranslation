@@ -2,7 +2,7 @@
   "WCM": {
     "Accordion": {
       "AccordionBlock": {
-        "Summary": "Skapa innehåll som presenteras i ett akordeonformat, för FAQ och andra ändamål."
+        "Summary": "Skapa innehåll som presenteras i ett dragspelsformat, för FAQ och andra ändamål."
       }
     },
     "Admin": {
@@ -16,7 +16,7 @@
         "Replace": "Ersätt",
         "ReplaceAll": "Ersätt alla",
         "Find": "Hitta",
-        "SelectItemRequiredMessage": "Vänligen välj minst en sida att uppdatera.",
+        "SelectItemRequiredMessage": "Välj minst en sida att uppdatera.",
         "ReplaceAllMessage": "Ersätt alla sökbara sidor med egenskapen ovan",
         "Recalculate": "Beräkna om",
         "RecalculateAll": "Beräkna om alla",
@@ -24,7 +24,7 @@
         "Logs": "Loggar",
         "SearchDeletedUsers": "Sök borttagna användare",
         "Columns": {
-          "WorkflowStatus": "Arbetsflödesstatus",
+          "WorkflowStatus": "Status för arbetsflöde",
           "PageType": "Sidtyp",
           "CreatedBy": "Skapad av"
         },
@@ -47,14 +47,14 @@
         },
         "Log": {
           "RecalculateSummary": "Tillämpa omberäkningsegenskapen på sidtypen: {0}.",
-          "ReplaceSummary": "Ställ in egenskapen med det interna namnet: {0} till detnya värdet: {1}.",
+          "ReplaceSummary": "Ställ in egenskapen med det interna namnet: {0} till det nya värdet: {1}.",
           "Total": "Totalt antal sidor att uppdatera",
           "TotalUpdatedPagesSuccess": "Totalt antal sidor uppdaterade",
           "TotalUpdatedPagesFail": "Totalt antal sidor där uppdatering misslyckades",
           "TotalUpdatedPagesProcessed": "Totalt antal sidor bearbetade",
           "ViewErrors": "Visa fel",
           "Cancel": "Avbryt",
-          "CancelMessage": "Avbryt avregistrera massuppdateringsuppgift"
+          "CancelMessage": "Avbryt avregistrering av massuppdateringsuppgift"
         }
       }
     },
@@ -70,7 +70,7 @@
     },
     "Community": {
       "Rollup": {
-        "Summary": "Lista alla eller några av de gemenskaper som finns i en eller flera verksamhetsprofiler."
+        "Summary": "Lista alla eller några av de communities som finns i en eller flera verksamhetsprofiler."
       }
     },
     "ContentBlock": {
@@ -108,10 +108,10 @@
           "Summary": "Lägg till en eller flera åtgärder aktiverade av knappar på en sida."
         },
         "CommentLike": {
-          "Summary": "Aktivera användarinteraktioner på sidor."
+          "Summary": "Gör det möjligt för användare att använda sociala reaktioner på sidor, som kommentera och gilla."
         },
         "PageRollup": {
-          "Summary": "Lista sidor för många olika ändamål, med olika vyer, filter och refiners."
+          "Summary": "Lista sidor för många olika ändamål, med olika vyer och filter."
         },
         "CurrentNavigation": {
           "Summary": "Gör det möjligt att navigera till syskon, överordnade noder och syskon till överordnade noder."
@@ -126,13 +126,13 @@
           "Summary": "Visa evenemang från en eller flera Outlook- eller Exchange-kalendrar."
         },
         "VariationSelector": {
-          "Summary": "Gör det möjligt för slutanvändare att välja en variation av sidan."
+          "Summary": "Gör det möjligt för användare att välja en variation av sidan."
         },
         "RSSReader": {
           "Summary": "Med hjälp av detta block kan poster från en RSS-källa visas på en sida."
         },
         "ActivityFeed": {
-          "Summary": "Visa aktiviteter för prenumerationer som den inloggade användaren har, eller för aktiviteter på innehållssidor."
+          "Summary": "Visa aktiviteter för prenumerationer som den inloggade användaren har, eller för aktiviteter på sidor."
         },
         "PageFeedback": {
           "Summary": "Gör det möjligt för användare att skicka feedback om sidan."
@@ -216,10 +216,10 @@
   "OMX": {
     "EM": {
       "EventParticipantCounter": {
-        "Summary": "Visa antalet deltagare som har registrerat sig för evenemanget och max antal deltagare."
+        "Summary": "Visa antalet deltagare som har registrerat sig för händelsen och max antal deltagare."
       },
       "EventParticipantList": {
-        "BlockSummary": "Lista deltagare som har registrerat sig för ett evenemang."
+        "BlockSummary": "Lista deltagare som har registrerat sig för en händelse."
       }
     }
   },
@@ -232,7 +232,7 @@
     "PublishingApp": {
       "Variation": {
         "VariationAuthors": "Variationsförfattare",
-        "EnableEditNotifications": "Notifikationer för redigeringar av sidor"
+        "EnableEditNotifications": "Notifieringar för redigeringar av sidor"
       },
       "PublishingAppRollup": {
         "Summary": "Syftet med detta block är att lista publiceringsappar som finns tillgängliga i verksamhetsprofilen."
