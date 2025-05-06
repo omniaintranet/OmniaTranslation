@@ -4,19 +4,19 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "Osio, joka on esikonfiguroitu akordeoniksi",
-            "StepperDescription": "Osio, joka on esikonfiguroitu askelmittariksi"
+            "AccordionDescription": "Osio, joka on esikonfiguroitu haitarimoodiin",
+            "StepperDescription": "Osio, joka on esikonfiguroitu askelmoodiin"
           }
         },
         "PredefinedSections": {
-          "OneColumnDescription": "Koko leveydeltään oleva osio",
-          "TwoColumnsDescription": "Koko leveydeltään oleva osio, jossa on kaksi esikonfiguroitua saraketta",
-          "ThreeColumnsDescription": "Koko leveydeltään oleva osio, jossa on kolme esikonfiguroitua saraketta",
-          "TabDescription": "Osio, joka on esikonfiguroitu välilehdillä"
+          "OneColumnDescription": "Koko leveyden täyttävä osio",
+          "TwoColumnsDescription": "Koko leveyden täyttävä osio, jossa on kaksi esiasetettua saraketta",
+          "ThreeColumnsDescription": "Koko leveyden täyttävä osio, jossa on kolme esiasetettua saraketta",
+          "TabDescription": "Osio, joka on esiasetettu välilehdillä"
         }
       },
       "AuthenticationBlock": {
-        "Summary": "Käytetään vain todennussivustoilla."
+        "Summary": "Käytetään vain kirjautumis-/todennussivuilla."
       },
       "BlockGallery": {
         "Title": "Blokkigalleria",
@@ -28,10 +28,10 @@
           "Fields": {
             "Definition": "Määritelmä"
           },
-          "InvalidJsonField": "Sisältö ei ole voimassa oleva json-rakenne",
+          "InvalidJsonField": "Sisältö ei ole kelvollinen json-rakenne",
           "ErrorMsg": "Tapahtui virhe",
-          "EmptyMsg": "Ei löytynytblokkimallia",
-          "DeleteConfirmationMessage": "Oletko varma, että haluat poistaa blokkimallin? Se ei poisteta automaattisesti olemassa olevasta blokkimallidialogista, sinun on poistettava se manuaalisesti.",
+          "EmptyMsg": "Ei löytynyt blokkimallia",
+          "DeleteConfirmationMessage": "Oletko varma, että haluat poistaa blokkimallin? Sitä ei poisteta automaattisesti olemassa olevasta blokkimallidialogista, sinun on poistettava se manuaalisesti.",
           "DeleteConfirmationTitle": "Poista blokkimalli"
         },
         "BlockDialog": {
@@ -44,7 +44,7 @@
           "DeletedItemWarning": "Tämä kohde on poistettu",
           "DeleteItemTitle": "Poistettu kohde",
           "Header": "Otsikko",
-          "EmptyMsg": "Eilöytynyt kohdetta"
+          "EmptyMsg": "Ei löytynyt kohdetta"
         },
         "BlockDialogLayout": {
           "Title": "Blokki-dialogin asettelu",
