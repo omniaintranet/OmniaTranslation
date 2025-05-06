@@ -15,22 +15,22 @@
     "Core": {
       "BlockDefinitions": {
         "Content": {
-          "Summary": "Visa processinnehållet - tillagt på fliken Innehåll av processförfattaren."
+          "Summary": "Visa det som processförfattaren har lagt in på fliken Innehåll för processen."
         },
         "Drawing": {
-          "Summary": "Visa processritningen för processen."
+          "Summary": "Visa ritningen för processen."
         },
         "Tasks": {
-          "Summary": "Visa uppgifter som processförfattaren lagt till på fliken Uppgifter för processen."
+          "Summary": "Visa det som processförfattaren har lagt till på fliken Uppgifter för processen."
         },
         "ProcessStepStatus": {
           "Summary": "Använd blocket i en processkontext för att ställa in och visa status för ett steg i processen."
         },
         "Links": {
-          "Summary": "Visa länkarna som processförfattaren lagt till på fliken Länkar för processen."
+          "Summary": "Visa det som processförfattaren har lagt till på fliken Länkar för processen."
         },
         "ProcessNavigation": {
-          "Summary": "Lägg till en aktuell, navigationsliknande navigering för processstegen."
+          "Summary": "Lägg till en navigering för processstegen."
         },
         "ProcessContext": {
           "Summary": "Använd blocket för att visa en specifik process på sidan, baserat på en egenskap."
@@ -39,22 +39,22 @@
           "Summary": "Lista tillgängliga processer, med filtreringsmöjligheter."
         },
         "Properties": {
-          "Summary": "Visa egenskaper för processen, till exempel processägare. Visas för användare."
+          "Summary": "Visa egenskaper för processen, till exempel processägare."
         },
         "Title": {
           "Summary": "Visa processens titel, tillagd av processförfattaren."
         },
         "Breadcrumb": {
-          "Summary": "Använd blocket för att visa en brödsmulor på en processsida."
+          "Summary": "Använd blocket för att visa brödsmulor på en processsida."
         },
         "Documents": {
-          "Summary": "Visa en lista över dokument - tillagt på fliken Dokument av processförfattaren."
+          "Summary": "Visa en lista över dokument, inlagda på fliken Dokument av processförfattaren."
         },
         "Pages": {
           "Summary": "Lista sidorna, tillagda på fliken Sidor av processförfattaren."
         },
         "ProcessLayout": {
-          "Summary": "Visa hela processen på en sida. Måste kombineras med blocket Processkontext."
+          "Summary": "Visa hela processen på en sida. Måste kombineras med blocket Kontext för process."
         }
       }
     }
