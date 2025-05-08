@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "Una sección preconfigurada con pestañas."
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Bloquear el editor de galería."
+      }
+    }
+  }
+}
