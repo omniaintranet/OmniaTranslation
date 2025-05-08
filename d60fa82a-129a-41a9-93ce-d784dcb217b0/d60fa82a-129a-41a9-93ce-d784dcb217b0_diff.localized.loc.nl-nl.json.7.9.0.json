@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Maak inhoud die wordt gepresenteerd in een accordeonstijl, voor veelgestelde vragen en andere doeleinden."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Toon inhoudin een iFrame."
+        }
+      }
+    }
+  }
+}
