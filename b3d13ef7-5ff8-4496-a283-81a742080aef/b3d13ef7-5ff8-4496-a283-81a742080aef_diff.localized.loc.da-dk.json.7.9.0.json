@@ -3,10 +3,10 @@
     "Core": {
       "Blocks": {
         "DocumentRollup": {
-          "Summary": "Liste dokumenter til mange forskellige formål, med forskellige visninger, filtre og refinere."
+          "Summary": "Viser en liste med dokumenter til mange forskellige formål med mulighed for forskellige visninger, filtre og sortering."
         },
         "DocumentLibrary": {
-          "Summary": "Tilføj dette til en side, hvor du ønsker at arbejde med kontrollerede dokumenter."
+          "Summary": "Tilføj dette til en side, hvor du vil arbejde med kontrollerede dokumenter."
         }
       }
     }
@@ -15,46 +15,46 @@
     "Core": {
       "BlockDefinitions": {
         "Content": {
-          "Summary": "Vis procesindholdet - tilføjet på fanen Indhold af procesforfatteren."
+          "Summary": "Viser indholdet i en proces, som procesforfatteren har tilføjet i fanen 'Indhold'."
         },
         "Drawing": {
-          "Summary": "Vis procestegningen for processen."
+          "Summary": "Viser processens tegning."
         },
         "Tasks": {
-          "Summary": "Vis opgaver, som procesforfatteren har tilføjettil fanen Opgaver for processen."
+          "Summary": "Viser opgaver, som procesforfatteren har tilføjet til fanen 'Opgaver'."
         },
         "ProcessStepStatus": {
-          "Summary": "Brug det i enproceskontekst til at indstille og se status for et trin i processen."
+          "Summary": "Bruges i en proceskontekst til at indstille og se status for et trin i processen."
         },
         "Links": {
-          "Summary": "Vis de links, som procesforfatteren har tilføjet til fanen Links for processen."
+          "Summary": "Viser de links, som procesforfatteren har tilføjet til fanen 'Links'"
         },
         "ProcessNavigation": {
-          "Summary": "Det vil tilføje en aktuel navigationslignende navigation for procestrinene."
+          "Summary": "Viser en navigation for procestrinene."
         },
         "ProcessContext": {
-          "Summary": "Brug det til at vise en specifik proces på siden, baseret på en egenskab."
+          "Summary": "Bruges til at vise en specifik proces på siden, baseret på en egenskab."
         },
         "ProcessRollup": {
-          "Summary": "Liste tilgængelige processer, med filtreringsmuligheder."
+          "Summary": "Viser liste med tilgængelige processer, med filtreringsmuligheder."
         },
         "Properties": {
-          "Summary": "Vis egenskaber for processen for slutbrugere, for eksempel proces ejer."
+          "Summary": "Viser egenskaber for processen, for eksempel proces-ejer."
         },
         "Title": {
-          "Summary": "Vis procesens titel, tilføjet til processen af procesforfatteren."
+          "Summary": "Viser procesens titel, som angivet af procesforfatteren."
         },
         "Breadcrumb": {
-          "Summary": "Brug det til at vise et brødkrummespor på en proces side."
+          "Summary": "Bruges til at vise et brødkrummespor på en processide."
         },
         "Documents": {
-          "Summary": "Vis en liste over dokumenter - tilføjet på fanen Dokumenter af procesforfatteren."
+          "Summary": "Viser en liste over de dokumenter, som procesforfatteren har tilføjet under fanen 'Dokumenter'."
         },
         "Pages": {
-          "Summary": "Lister siderne, tilføjet på fanen Sideraf procesforfatteren."
+          "Summary": "Viser en liste over de sider, procesforfatteren har tilføjet under fanen 'Sider'."
         },
         "ProcessLayout": {
-          "Summary": "Vis hele processen på en side. Skal kombineres med Process kontekst blokken."
+          "Summary": "Viser hele processen på én side. Skal kombineres med proces-kontekst blokken."
         }
       }
     }
