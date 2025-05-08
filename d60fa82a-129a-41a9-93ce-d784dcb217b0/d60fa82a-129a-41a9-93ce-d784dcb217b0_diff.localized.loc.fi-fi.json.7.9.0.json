@@ -2,13 +2,13 @@
   "WCM": {
     "Accordion": {
       "AccordionBlock": {
-        "BlockSummary": "Luo sisältöä, joka esitetään akordeonityylisessä muodossa, usein kysytyille kysymyksille ja muille tarkoituksille."
+        "BlockSummary": "Luo sisältöä joka esitetään haitarityylisessä muodossa, kuten usein kysytyt kysymykset."
       }
     },
     "Core": {
       "Blocks": {
         "Iframe": {
-          "BlockSummary": "Näytä sisältö iFramessa."
+          "BlockSummary": "Näytä sisältö kehyksessä."
         }
       }
     }
