@@ -3,7 +3,7 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Bibliotheksanbieter",
+          "LibraryProviders": "Bibliotheken",
           "SharePointMediaLibrary": "SharePoint-Medienbibliothek"
         }
       }
@@ -26,7 +26,7 @@
           "Summary": "Zentrale Ankündigungenanzeigen, die an den angemeldeten Benutzer gerichtet sind."
         },
         "QuickLinks": {
-          "Summary": "Verwenden Sie es, um freigegebene Links anzuzeigen, die im Omnia-Admin erstellt wurden, entweder für den Mandanten oder für ein Geschäftsprofil."
+          "Summary": "Verwenden Sie es, um freigegebene Links anzuzeigen, die im Omnia-Admin erstellt wurden, entweder für den Mandant oder für ein Geschäftsprofil."
         },
         "TaskRollup": {
           "Summary": "Listet Aufgaben von Teamsites auf, die dem angemeldeten Benutzer zugewiesen sind. Aufgaben aus Planner können ebenfalls angezeigt werden."
@@ -38,7 +38,7 @@
           "Summary": "Verwenden Sie es, um eine Trello-Liste zu konfigurieren, aus der Karten angezeigt werden."
         },
         "Search": {
-          "Summary": "DieserBlock kann für eine schnelle Suche oder eine erweiterte Suche verwendet werden."
+          "Summary": "Dieser Block kann für eine schnelle Suche oder eine erweiterte Suche verwendet werden."
         },
         "Form": {
           "Summary": "Ein Formular für Benutzer verfügbar machen. Diese Formulare werden im Omnia-Admin erstellt und verwaltet."
@@ -85,7 +85,7 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Den Fortschritt des Benutzerprofils als Prozentsatz anzeigen. Soll mit den neuen Einstellungen für Benutzertypen verwendet werden."
+          "WebPartSummary": "Den Fortschritt des Benutzerprofils als Prozentsatz anzeigen. Soll mit den neuen Einstellungen für Benutzertypen unter Benutzerverwaltung im Omnia Administration verwendet werden."
         }
       }
     },
@@ -122,7 +122,7 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Anzeigen, wie weit der angemeldete Benutzer bei der Vervollständigung des Profils gekommen ist, wenn die ältere Funktionalität verwendet wird."
+          "WebPartSummary": "Anzeigen, wie weit der angemeldete Benutzer bei der Vervollständigung des Profils gekommen ist, wenn die klassische Funktionalität im Omnia Administration verwendet wird."
         }
       }
     }
