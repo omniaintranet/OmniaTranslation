@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "Một phần được cấu hình sẵn với các tab."
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Chặn biên tập viên thư viện."
+      }
+    }
+  }
+}
