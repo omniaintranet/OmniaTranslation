@@ -15,22 +15,22 @@
     "Core": {
       "BlockDefinitions": {
         "Content": {
-          "Summary": "Vis prosessinnholdet - lagt til på Innhold-fanen av prosessforfatteren."
+          "Summary": "Vis prosessinnholdet, som processforfatteren har lagt til under fanen 'Innhold'."
         },
         "Drawing": {
-          "Summary": "Vis prosesstegningen for prosessen."
+          "Summary": "Vis prosesstegningen."
         },
         "Tasks": {
-          "Summary": "Vis oppgaver som prosessforfatteren la til på Oppgaver-fanen for prosessen."
+          "Summary": "Vis oppgaver, som processforfatteren har lagt til under fanen'Oppgaver'."
         },
         "ProcessStepStatus": {
           "Summary": "Bruk det i en prosesskontekst for å sette og se status for et trinn i prosessen."
         },
         "Links": {
-          "Summary": "Vis lenkene som prosessforfatteren la til på Lenker-fanen for prosessen."
+          "Summary": "Vis lenkene som processforfatteren har lagt til under fanen 'Lenker'."
         },
         "ProcessNavigation": {
-          "Summary": "Det vil legge til en nåværende navigasjonslignende navigasjon for prosesstrinnene."
+          "Summary": "Det vil legge til en navigasjon for prosesstrinnene."
         },
         "ProcessContext": {
           "Summary": "Bruk det for å vise en spesifikkprosess på siden, basert på en egenskap."
@@ -39,19 +39,19 @@
           "Summary": "List tilgjengelige prosesser, med filtreringsmuligheter."
         },
         "Properties": {
-          "Summary": "Vis egenskaper for prosessen for sluttbrukere, for eksempel prosesseier."
+          "Summary": "Vis egenskaper for prosessen, for eksempel prosesseier."
         },
         "Title": {
-          "Summary": "Vis prosessenstittel, lagt til for prosessen av prosessforfatteren."
+          "Summary": "Vis prosessenstittel, lagt til av prosessforfatteren."
         },
         "Breadcrumb": {
           "Summary": "Bruk det for å vise en brødsmulesti på en prosessside."
         },
         "Documents": {
-          "Summary": "Vis en liste over dokumenter - lagt til på Dokumenter-fanen av prosessforfatteren."
+          "Summary": "Vis en liste over dokumenter, som processforfatteren har lagt til under fanen 'Dokumenter'."
         },
         "Pages": {
-          "Summary": "Lister sidene, lagt til på Sider-fanenav prosessforfatteren."
+          "Summary": "Lister sidene, som processforfatteren har lagt til under fanen 'Sider'."
         },
         "ProcessLayout": {
           "Summary": "Vis hele prosessen på en side. Må kombineres med prosesskontekstblokken."
