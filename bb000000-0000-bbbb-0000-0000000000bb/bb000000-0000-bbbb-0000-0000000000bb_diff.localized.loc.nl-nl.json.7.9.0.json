@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "Een sectie die vooraf is geconfigureerd met tabbladen."
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Blok galerijeditor."
+      }
+    }
+  }
+}
