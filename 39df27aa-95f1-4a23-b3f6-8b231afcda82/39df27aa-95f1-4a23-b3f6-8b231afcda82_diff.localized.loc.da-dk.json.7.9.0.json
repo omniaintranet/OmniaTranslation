@@ -4,7 +4,7 @@
       "MediaPicker": {
         "LibrarySettings": {
           "LibraryProviders": "Biblioteker",
-          "SharePointMediaLibrary": "SharePoint mediebibliotek"
+          "SharePointMediaLibrary": "Mediebibliotek i SharePoint"
         }
       }
     }
@@ -13,51 +13,51 @@
     "Analytics": {
       "Block": {
         "Widget": {
-          "BlockSummary": "Vis Matomo analyse data."
+          "BlockSummary": "Vis Matomo analysedata."
         },
         "Filter": {
-          "BlockSummary": "Indstil filtre, der skal bruges i flere Analytics widget og/eller Analytics rapportblokke på siden."
+          "BlockSummary": "Indstil filtre, der skal bruges i flere analytics widget og/eller analytics rapportblokke på siden."
         }
       }
     },
     "Core": {
       "Blocks": {
         "Announcements": {
-          "Summary": "Vis centrale meddelelser målrettet den indloggede bruger."
+          "Summary": "Viser meddelelser målrettet den aktuelle bruger."
         },
         "QuickLinks": {
-          "Summary": "Brug dettil at vise delte links oprettet i Omnia administration, enten for lejeren ellerfor en forretningsprofil."
+          "Summary": "Viser delte links oprettet i Omnia administration, enten på tenantniveau eller for virksomhedsprofilen."
         },
         "TaskRollup": {
-          "Summary": "Lister opgaver fra teamsites, tildelt den indloggede bruger. Opgaver fra Planner kan også vises."
+          "Summary": "Viser brugerens opgaver fra teamsites og Planner."
         },
         "NotificationPanel": {
-          "Summary": "Brug det til at vise et notifikationspanel oprettet i Omnia administration."
+          "Summary": "Viser notifikationspanel oprettet i Omnia administration."
         },
         "TrelloCards": {
-          "Summary": "Brug det til at konfigurere en Trello-liste til at vise kort fra."
+          "Summary": "Bruges til at vise en liste med kort fra Trello."
         },
         "Search": {
-          "Summary": "Denne blok kan bruges til hurtig søgning eller avanceret søgning."
+          "Summary": "Bruges til simpel søgning eller avanceret søgning."
         },
         "Form": {
-          "Summary": "Gør en formulartilgængelig for brugere. Disse formularer oprettes og vedligeholdes i Omnia administration."
+          "Summary": "Viser formularer, som er tilgængelige for brugeren. Disse formularer oprettes og vedligeholdes i Omnia administration."
         },
         "FormQuestion": {
-          "Summary": "Bruges kun når man arbejder med dengrafiske præsentation af en formular, i Omnia administration."
+          "Summary": "Bruges kun når man arbejder med den grafiske præsentation af en formular, i Omnia administration."
         },
         "FormRollup": {
           "Summary": "Lister formularer til forskellige formål, eller viser et antal formularer, der skal bruges."
         },
         "MicrosoftTeamChannelFeed": {
-          "Summary": "Vis en Teams kanal feed. Feedenvil være skrivebeskyttet."
+          "Summary": "Viser et skrivebeskyttet feed fra en Teams kanal."
         },
         "PostsFeed": {
-          "Summary": "Gør det muligt at poste samtalebeskeder i en app. Kan også aggregere beskeder fra flere kilder."
+          "Summary": "Bruges til at oprette beskeder. Kan også aggregere beskeder fra flere kilder."
         },
         "Properties": {
           "Title": "Egenskaber",
-          "Summary": "Brug denne blok til at vise information fra en egenskab."
+          "Summary": "Bruges til at vise information fra en egenskab."
         }
       }
     },
