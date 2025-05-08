@@ -21,16 +21,16 @@
           "Summary": "Zeigen Sie die Prozesszeichnung für den Prozess an."
         },
         "Tasks": {
-          "Summary": "Zeigen Sie die Aufgaben an, die der Prozessautor auf der Registerkarte Aufgaben für den Prozess hinzugefügt hat."
+          "Summary": "Zeigen Sie die Aufgaben an, die der Prozessautor auf der Registerkarte 'Aufgaben' für den Prozess hinzugefügt hat."
         },
         "ProcessStepStatus": {
           "Summary": "Verwenden Sie es im Kontext eines Prozesses, um den Status für einen Schritt im Prozess festzulegen und anzuzeigen."
         },
         "Links": {
-          "Summary": "Zeigen Sie die Links an, die der Prozessautor auf der Registerkarte Links für den Prozess hinzugefügt hat."
+          "Summary": "Zeigen Sie die Links an, die der Prozessautor auf der Registerkarte 'Links' für den Prozess hinzugefügt hat."
         },
         "ProcessNavigation": {
-          "Summary": "Es wird eine aktuelle navigationsähnlicheNavigation für die Prozessschritte hinzugefügt."
+          "Summary": "Es wird eine Navigation für die Prozessschritte hinzugefügt."
         },
         "ProcessContext": {
           "Summary": "Verwenden Sie es, um einen bestimmten Prozess auf der Seite anzuzeigen, basierend auf einer Eigenschaft."
@@ -48,10 +48,10 @@
           "Summary": "Verwenden Sie es, um ein Breadcrumb auf einer Prozessseite anzuzeigen."
         },
         "Documents": {
-          "Summary": "Zeigen Sie eine Liste von Dokumenten an - hinzugefügt auf der Registerkarte Dokumente durch den Prozessautor."
+          "Summary": "Zeigen Sie eine Liste von Dokumenten an, die der Prozessautor auf der Registerkarte 'Dokumente' hinzugefügt hat."
         },
         "Pages": {
-          "Summary": "Listet die Seiten auf, die der Prozessautor auf der Registerkarte Seiten hinzugefügt hat."
+          "Summary": "Listet die Seiten auf, die der Prozessautor auf der Registerkarte 'Seiten' hinzugefügt hat."
         },
         "ProcessLayout": {
           "Summary": "Zeigen Sie den gesamten Prozess auf einer Seite an. Muss mit dem Prozesskontextblock kombiniert werden."
