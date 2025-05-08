@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "Search": {
+          "BlockSummary": "Tätä lohkoa voidaan käyttää nopeaan hakuun tai edistyneeseen hakuun."
+        }
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "Summary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsyyrityksistä."
+    }
+  }
+}
