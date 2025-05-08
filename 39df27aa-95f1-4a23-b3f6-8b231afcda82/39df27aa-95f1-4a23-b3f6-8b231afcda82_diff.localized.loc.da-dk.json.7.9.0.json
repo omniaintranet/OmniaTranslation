@@ -16,7 +16,7 @@
           "BlockSummary": "Viser Matomo analysedata."
         },
         "Filter": {
-          "BlockSummary": "Bruges til at filtrere en eller flere analytics widgets og/eller analytics rapportblokke på siden."
+          "BlockSummary": "Bruges til at filtrere en eller flere analyse-widgets og/eller rapporter på siden."
         }
       }
     },
