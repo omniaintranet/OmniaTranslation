@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "A section pre-configured with tabs"
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Block gallery editor"
+      }
+    }
+  }
+}
