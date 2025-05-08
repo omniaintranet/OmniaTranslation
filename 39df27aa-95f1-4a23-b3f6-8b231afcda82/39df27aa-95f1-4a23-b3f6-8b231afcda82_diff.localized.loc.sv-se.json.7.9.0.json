@@ -3,7 +3,7 @@
     "Core": {
       "Blocks": {
         "Search": {
-          "BlockSummary": "Detta block kan användas för snabb sökning eller avancerad sökning."
+          "BlockSummary": "Detta block kan användas för snabbsökning eller avancerad sökning."
         }
       }
     }
