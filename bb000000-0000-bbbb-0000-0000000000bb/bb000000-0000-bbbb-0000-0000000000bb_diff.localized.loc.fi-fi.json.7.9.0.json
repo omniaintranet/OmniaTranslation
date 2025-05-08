@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "Osa, joka on esikonfiguroitu välilehdillä."
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Estä gallerian muokkaaja."
+      }
+    }
+  }
+}
