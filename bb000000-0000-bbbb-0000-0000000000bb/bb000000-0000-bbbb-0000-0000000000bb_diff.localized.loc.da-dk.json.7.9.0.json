@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabsDescription": "En sektion forudkonfigureret med faner."
+        }
+      },
+      "PermissionInput": {
+        "BlockGalleryEditor": "Bloker galleri-editor."
+      }
+    }
+  }
+}
