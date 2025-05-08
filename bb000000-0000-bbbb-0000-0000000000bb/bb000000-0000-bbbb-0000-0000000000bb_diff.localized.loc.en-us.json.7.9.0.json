@@ -3,11 +3,11 @@
     "Ux": {
       "LayoutEngine": {
         "PredefinedSections": {
-          "TabsDescription": "A section pre-configured with tabs"
+          "TabsDescription": "A section pre-configured with tabs."
         }
       },
       "PermissionInput": {
-        "BlockGalleryEditor": "Block gallery editor"
+        "BlockGalleryEditor": "Block gallery editor."
       }
     }
   }
