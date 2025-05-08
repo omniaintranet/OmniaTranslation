@@ -3,7 +3,7 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Biblioteksudbydere",
+          "LibraryProviders": "Biblioteker",
           "SharePointMediaLibrary": "SharePoint mediebibliotek"
         }
       }
