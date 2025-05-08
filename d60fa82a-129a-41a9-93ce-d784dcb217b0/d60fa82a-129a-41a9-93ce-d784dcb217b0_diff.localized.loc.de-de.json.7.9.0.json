@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Erstellen Sie Inhalte, die im Akkordeon-Stil präsentiert werden, für FAQs und andere Zwecke."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Inhalte in einem iFrame anzeigen."
+        }
+      }
+    }
+  }
+}
