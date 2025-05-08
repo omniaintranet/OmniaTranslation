@@ -10,7 +10,7 @@
   },
   "OmniaTenantAdministration": {
     "GovernanceDashboard": {
-      "Summary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsyyrityksistä."
+      "Summary": "Näytä tilastoja tiimityöstä, hausta, sivuista, käyttäjätoiminnasta, rikkinäisistä linkeistä tai epäonnistuneista pääsy-yrityksistä."
     }
   }
 }
