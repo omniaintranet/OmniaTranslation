@@ -13,10 +13,10 @@
     "Analytics": {
       "Block": {
         "Widget": {
-          "BlockSummary": "Vis Matomo analysedata."
+          "BlockSummary": "Viser Matomo analysedata."
         },
         "Filter": {
-          "BlockSummary": "Indstil filtre, der skal bruges i flere analytics widget og/eller analytics rapportblokke på siden."
+          "BlockSummary": "Bruges til at filtrere en eller flere analytics widgets og/eller analytics rapportblokke på siden."
         }
       }
     },
@@ -35,7 +35,7 @@
           "Summary": "Viser notifikationspanel oprettet i Omnia administration."
         },
         "TrelloCards": {
-          "Summary": "Bruges til at vise en liste med kort fra Trello."
+          "Summary": "Viser en liste af Trello-kort."
         },
         "Search": {
           "Summary": "Bruges til simpel søgning eller avanceret søgning."
@@ -63,41 +63,41 @@
     },
     "PowerApp": {
       "PowerAppBlock": {
-        "BlockSummary": "Gør det muligt at tilføje en app bygget i henhold til Microsofts Power App rammeværk."
+        "BlockSummary": "Gør det muligt at tilføje en app bygget i Microsofts Power App framework."
       }
     },
     "OrgTreeBlock": {
-      "BlockSummary": "Vis et organisationsdiagram baseret på information i Entra ID om, hvem der rapporterer til hvem."
+      "BlockSummary": "Viser et organisationsdiagram baseret på information i Entra ID om, hvem der rapporterer til hvem."
     },
     "QrCode": {
-      "Summary": "Brug det til at placere en QR-kode på enhver Omnia-side."
+      "Summary": "Bruges til at vise QR-koder."
     },
     "SignOffRequest": {
-      "BlockSummary": "Kan bruges til forskellige formål vedrørende godkendelsesanmodninger for sider og/eller for kontrollerede dokumenter.",
+      "BlockSummary": "Bruges til forskellige formål vedrørende anmodninger om læsekvittteringer for sider og/eller for kontrollerede dokumenter.",
       "OpenInNewTab": "Åbn i ny fane"
     },
     "TaxonomyNavigation": {
-      "BlockSummary": "Opret taksonomi-baseret navigation.Et almindeligt eksempel er et organisationsdiagram."
+      "BlockSummary": "Viser taksonomi-baseret navigation, fx. et organisationsdiagram."
     },
     "UserInformation": {
-      "BlockSummary": "Brug det til at vise brugerinformation, for eksempel på et tilpasset brugerprofilkort."
+      "BlockSummary": "Viser brugerinformation, fx. på et brugerprofilkort."
     },
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Vis brugerprofilens fremskridt som en procentdel. Beregnet til atblive brugt med de nye indstillinger for brugertyper."
+          "WebPartSummary": "Viser brugerprofilens fremskridt som en procentdel. Bruges med funktionen for brugertyper, under brugerstyring i Omnia administration."
         }
       }
     },
     "Blocks": {
       "Yammer": {
-        "Summary": "En Viva Engage feed kan vises i denne blok."
+        "Summary": "Viser feed fra Viva Engage."
       }
     }
   },
   "OmniaTenantAdministration": {
     "GovernanceDashboard": {
-      "BlockSummary": "Vis statistik om teamwork, søgning, sider, brugeraktivitet, brudte links eller mislykkede adgangsforsøg."
+      "BlockSummary": "Viser statistik om teamwork, søgning, sider, brugeraktivitet, brudte links eller mislykkede adgangsforsøg."
     }
   },
   "OmniaTeamCollaboration": {
@@ -110,19 +110,19 @@
           "Summary": "Lister teamsites og andre teamwork, som den indloggede bruger har adgang til."
         },
         "CreateApp": {
-          "Summary": "Gør det muligt at oprette en Omnia-app; Publicering, Fællesskab eller Teamwork."
+          "Summary": "Gør det muligt at oprette en Omnia-app; Publicerings-app, community eller teamsamarbejde."
         }
       }
     }
   },
   "PAN": {
     "People": {
-      "BlockSummary": "Lister personer til mange forskellige formål, med forskellige visninger, filtre og raffineringsmuligheder."
+      "BlockSummary": "Lister personer. Giver mulighed for forskellige visninger, søgning og filtering af listen"
     },
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Vis hvor langt den indloggede bruger er kommet mod at fuldføre profilen, hvis den ældre funktionalitet bruges."
+          "WebPartSummary": "Viser hvor langt den brugeren er kommet mod at fuldføre sin profil. Bruges med den klassiske 'Opdatering af brugerprofil' funktion i Omnia admin."
         }
       }
     }
