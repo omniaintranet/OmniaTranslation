@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Crea contenido que se presenta en un formato de acordeón, para preguntas frecuentes yotros propósitos."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Muestra contenido en un iFrame."
+        }
+      }
+    }
+  }
+}
