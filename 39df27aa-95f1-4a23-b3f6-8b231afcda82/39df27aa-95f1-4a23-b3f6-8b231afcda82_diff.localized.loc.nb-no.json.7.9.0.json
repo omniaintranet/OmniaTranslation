@@ -3,8 +3,8 @@
     "BusinessProfile": {
       "MediaPicker": {
         "LibrarySettings": {
-          "LibraryProviders": "Biblioteksleverandører",
-          "SharePointMediaLibrary": "SharePointmediebibliotek"
+          "LibraryProviders": "Biblioteker",
+          "SharePointMediaLibrary": "Mediebibliotek i SharePoint"
         }
       }
     }
@@ -13,10 +13,10 @@
     "Analytics": {
       "Block": {
         "Widget": {
-          "BlockSummary": "Vis Matomo analyse data."
+          "BlockSummary": "Vis Matomo analyse-data."
         },
         "Filter": {
-          "BlockSummary": "Sett filtre som skal brukes i flere Analytics-widgeter og/eller Analytics-rapporter på siden."
+          "BlockSummary": "Sett filtre som skal brukes i flere analyse-widgets og/eller analyse-rapporter på siden."
         }
       }
     },
@@ -26,16 +26,16 @@
           "Summary": "Vis sentrale kunngjøringer rettet mot den innloggede brukeren."
         },
         "QuickLinks": {
-          "Summary": "Bruk det til å vise delte lenker opprettet i Omnia admin, enten for leietaker eller for en forretningsprofil."
+          "Summary": "Bruk blokken til å vise delte lenker opprettet i Omnia admin, enten for tenant eller for en forretningsprofil."
         },
         "TaskRollup": {
           "Summary": "Lister oppgaver fra teamsider, tildelt den innloggede brukeren. Oppgaver fra Planner kan også vises."
         },
         "NotificationPanel": {
-          "Summary": "Bruk det til å vise et varslingspanel satt opp i Omnia admin."
+          "Summary": "Bruk blokken til å vise et varslingspanel satt opp i Omnia admin."
         },
         "TrelloCards": {
-          "Summary": "Bruk det til å konfigurere en Trello-liste for å vise kort fra."
+          "Summary": "Bruk blokken til å konfigurere en Trello-liste for å vise kort fra."
         },
         "Search": {
           "Summary": "Denne blokken kan brukes til rask søk eller avansert søk."
@@ -50,20 +50,20 @@
           "Summary": "Lister skjemaer for ulike formål, eller viser et antall skjemaer som skal brukes."
         },
         "MicrosoftTeamChannelFeed": {
-          "Summary": "Vis en Teams-kanal feed. Feedenvil være skrivebeskyttet."
+          "Summary": "Vis en Teams-kanal feed. Feeden vil være skrivebeskyttet."
         },
         "PostsFeed": {
           "Summary": "Gjør det mulig å poste samtalebeskjeder i en app. Kan også aggregere meldinger fra flere kilder."
         },
         "Properties": {
           "Title": "Egenskaper",
-          "Summary": "Bruk denne blokken til åvise informasjon fra en eiendom."
+          "Summary": "Bruk denne blokken til å vise informasjon fra en egenskap."
         }
       }
     },
     "PowerApp": {
       "PowerAppBlock": {
-        "BlockSummary": "Gjør det mulig å leggetil en app bygget i henhold til Microsofts Power App-rammeverk."
+        "BlockSummary": "Gjør det mulig å legge til en app bygget til Microsofts Power App-framwork."
       }
     },
     "OrgTreeBlock": {
@@ -77,7 +77,7 @@
       "OpenInNewTab": "Åpne i ny fane"
     },
     "TaxonomyNavigation": {
-      "BlockSummary": "Opprett taksonomi-basert navigasjon. Et vanlig eksempel er et organisasjonskart."
+      "BlockSummary": "Opprett taksonomi-basert navigasjon, for eksempel et organisasjonskart."
     },
     "UserInformation": {
       "BlockSummary": "Bruk det til å vise brukerinfo, for eksempel på et tilpasset brukerprofilkort."
@@ -85,13 +85,13 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Vis fremdriften til brukerprofilen som en prosentandel. Ment å brukes med de nye innstillingene for brukertyper."
+          "WebPartSummary": "Vis fremdriften til brukerprofilen som en prosentandel. Ment å brukes med innstillingene for brukertyper i brukeradministrasjon i Omnia administrasjon."
         }
       }
     },
     "Blocks": {
       "Yammer": {
-        "Summary": "En Viva Engage-feed kan vises i denne blokken."
+        "Summary": "Et Viva Engage-feed kan vises i denne blokken."
       }
     }
   },
@@ -110,7 +110,7 @@
           "Summary": "Lister teamsider og annet teamarbeid som den innloggede brukeren har tilgang til."
         },
         "CreateApp": {
-          "Summary": "Gjør det mulig å opprette en Omnia-app; Publisering, Fellesskap eller Teamarbeid."
+          "Summary": "Gjør det mulig å opprette en app; Publisering, community eller teamarbeid."
         }
       }
     }
@@ -122,7 +122,7 @@
     "UserProfileCompletion": {
       "ProfileCompletion": {
         "WebPart": {
-          "WebPartSummary": "Vis hvor langt den innloggede brukeren har kommet mot å fullføre profilen, hvis man bruker den eldre funksjonaliteten."
+          "WebPartSummary": "Vis hvor langt den innloggede brukeren har kommet mot å fullføre profilen. Bruges med den klassiske funktion for brukerprofil fullføring i Omnia administration."
         }
       }
     }
