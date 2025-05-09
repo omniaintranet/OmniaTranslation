@@ -4,24 +4,24 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "En seksjon forhåndskonfigurert som et akordeon",
-            "StepperDescription": "En seksjon forhåndskonfigurert som en trinnvis prosess"
+            "AccordionDescription": "En seksjon som akordeon",
+            "StepperDescription": "En seksjon som en trinnvis prosess"
           }
         },
         "PredefinedSections": {
           "OneColumnDescription": "En seksjon i full bredde",
-          "TwoColumnsDescription": "En seksjon i full bredde med to forhåndskonfigurerte kolonner",
-          "ThreeColumnsDescription": "En seksjon i full bredde med tre forhåndskonfigurerte kolonner",
-          "TabDescription": "En seksjon forhåndskonfigurert med faner"
+          "TwoColumnsDescription": "En seksjon i full bredde med to kolonner",
+          "ThreeColumnsDescription": "En seksjon i full bredde med tre kolonner",
+          "TabDescription": "En seksjon med faner"
         }
       },
       "AuthenticationBlock": {
         "Summary": "Brukes kun for autentiseringsskjermer."
       },
       "BlockGallery": {
-        "Title": "Blokkgalleri",
+        "Title": "Blokkvelger",
         "Settings": "Innstillinger",
-        "EnableModernDialogSwitch": "Moderne 'Legg til innhold' dialog",
+        "EnableModernDialogSwitch": "Moderne blokvelger",
         "BlockTemplates": {
           "Title": "Blokkmaler",
           "Create": "Opprett mal",
@@ -31,11 +31,11 @@
           "InvalidJsonField": "Innholdet er ikke en gyldig json-struktur",
           "ErrorMsg": "En feil oppstod",
           "EmptyMsg": "Ingen blokkmaler funnet",
-          "DeleteConfirmationMessage": "Er du sikker på at du vil sletteblokkmalen? Den vil ikke bli automatisk fjernet fra den eksisterende blokkmaldialogen, du må fjerne den manuelt.",
+          "DeleteConfirmationMessage": "Er du sikker på at du vil sletteblokkmalen? Den vil ikke bli automatisk fjernet fra den eksisterende blokkvelger. Du må fjerne den manuelt.",
           "DeleteConfirmationTitle": "Slett blokkmal"
         },
         "BlockDialog": {
-          "Title": "Blokkdialog",
+          "Title": "Blokkvelger",
           "AddBlocks": "Legg til blokker",
           "AddHeader": "Legg til overskrift",
           "EditHeader": "Rediger overskrift",
@@ -47,7 +47,7 @@
           "EmptyMsg": "Ingen elementer funnet"
         },
         "BlockDialogLayout": {
-          "Title": "Blokkdialoglayout",
+          "Title": "Blokkvelger layout",
           "Default": "Standard",
           "Authentication": "Autentisering",
           "Spfx": "SPFx"
@@ -57,7 +57,7 @@
         }
       },
       "PermissionInput": {
-        "BlockTemplateEditor": "Blokkmaleditor"
+        "BlockTemplateEditor": "Blokkmal-editor"
       }
     }
   }
