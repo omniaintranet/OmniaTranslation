@@ -4,24 +4,24 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "En sektion forudkonfigureret som et akordeon",
-            "StepperDescription": "En sektion forudkonfigureret som en stepper"
+            "AccordionDescription": "En sektion med harmonika",
+            "StepperDescription": "En sektion med trin"
           }
         },
         "PredefinedSections": {
           "OneColumnDescription": "En sektion i fuld bredde",
-          "TwoColumnsDescription": "En sektion i fuld bredde med to forudkonfigurerede kolonner",
-          "ThreeColumnsDescription": "En sektion i fuld breddemed tre forudkonfigurerede kolonner",
-          "TabDescription": "En sektion forudkonfigureret med faner"
+          "TwoColumnsDescription": "En sektion i fuld bredde med to kolonner",
+          "ThreeColumnsDescription": "En sektion i fuld bredde med tre kolonner",
+          "TabDescription": "En sektion med faner"
         }
       },
       "AuthenticationBlock": {
-        "Summary": "Bruges kun til autentifikationsskærme."
+        "Summary": "Bruges kun til autentifikation."
       },
       "BlockGallery": {
         "Title": "Blokgalleri",
         "Settings": "Indstillinger",
-        "EnableModernDialogSwitch": "Moderne 'Tilføj indhold' dialog",
+        "EnableModernDialogSwitch": "Moderne blokvælger",
         "BlockTemplates": {
           "Title": "Blokskabeloner",
           "Create": "Opret skabelon",
@@ -31,23 +31,23 @@
           "InvalidJsonField": "Indholdet er ikke en gyldig json-struktur",
           "ErrorMsg": "Der opstod en fejl",
           "EmptyMsg": "Ingen blokskabelon fundet",
-          "DeleteConfirmationMessage": "Er du sikker på, at du vil slette blokskabelonen? Den vil ikke blive fjernet automatisk fra den eksisterende blokskabelon-dialog, du skal fjerne den manuelt.",
+          "DeleteConfirmationMessage": "Er du sikker på, at du vil slette blokskabelonen? Den vil ikke blive fjernet automatisk fra den eksisterende blokvælger. Du skal fjerne den manuelt.",
           "DeleteConfirmationTitle": "Slet blokskabelon"
         },
         "BlockDialog": {
-          "Title": "Blokdialog",
+          "Title": "Blokvælger",
           "AddBlocks": "Tilføj blokke",
-          "AddHeader": "Tilføj header",
-          "EditHeader": "Rediger header",
+          "AddHeader": "Tilføj overskrift",
+          "EditHeader": "Rediger overskrift",
           "ManageList": "Administrer liste",
           "Confirm": "Bekræft",
-          "DeletedItemWarning": "Denne genstand er blevet slettet",
-          "DeleteItemTitle": "Slettet genstand",
-          "Header": "Header",
-          "EmptyMsg": "Ingen genstand fundet"
+          "DeletedItemWarning": "Dette element er blevet slettet",
+          "DeleteItemTitle": "Slettet element",
+          "Header": "Overskrift",
+          "EmptyMsg": "Ingen elementer fundet"
         },
         "BlockDialogLayout": {
-          "Title": "Blokdialoglayout",
+          "Title": "Blokvælger layout",
           "Default": "Standard",
           "Authentication": "Autentifikation",
           "Spfx": "SPFx"
@@ -57,7 +57,7 @@
         }
       },
       "PermissionInput": {
-        "BlockTemplateEditor": "Blokskabelonredigerer"
+        "BlockTemplateEditor": "Redigering af blokskabelon"
       }
     }
   }
