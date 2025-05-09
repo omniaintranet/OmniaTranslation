@@ -4,15 +4,15 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "AccordionDescription": "Ein Abschnitt, der als Akkordeon vorkonfiguriert ist",
-            "StepperDescription": "Ein Abschnitt, der als Schrittweiser vorkonfiguriert ist"
+            "AccordionDescription": "Ein Abschnitt, der als Akkordeon ist",
+            "StepperDescription": "Ein Abschnitt, der als Schrittweiser ist"
           }
         },
         "PredefinedSections": {
           "OneColumnDescription": "Ein Abschnitt in voller Breite",
-          "TwoColumnsDescription": "Ein Abschnitt in voller Breite mit zwei vorkonfigurierten Spalten",
-          "ThreeColumnsDescription": "Ein Abschnitt in voller Breite mit drei vorkonfigurierten Spalten",
-          "TabDescription": "Ein Abschnitt, der mit Tabs vorkonfiguriert ist"
+          "TwoColumnsDescription": "Ein Abschnitt in voller Breite mit zwei Spalten",
+          "ThreeColumnsDescription": "Ein Abschnitt in voller Breite mit drei Spalten",
+          "TabDescription": "Ein Abschnitt, der mit Tabs ist"
         }
       },
       "AuthenticationBlock": {
@@ -21,7 +21,7 @@
       "BlockGallery": {
         "Title": "Blockgalerie",
         "Settings": "Einstellungen",
-        "EnableModernDialogSwitch": "Modernes 'Inhalt hinzufügen'-Dialogfeld",
+        "EnableModernDialogSwitch": "Modernerner Blockwähler",
         "BlockTemplates": {
           "Title": "Blockvorlagen",
           "Create": "Vorlage erstellen",
@@ -31,29 +31,29 @@
           "InvalidJsonField": "Inhalt ist keine gültige JSON-Struktur",
           "ErrorMsg": "Ein Fehler ist aufgetreten",
           "EmptyMsg": "Keine Blockvorlage gefunden",
-          "DeleteConfirmationMessage": "Sind Sie sicher, dass Sie die Blockvorlage löschen möchten? Sie wird nicht automatisch aus dem vorhandenen Blockvorlagen-Dialog entfernt, Sie müssen sie manuell entfernen.",
+          "DeleteConfirmationMessage": "Sind Sie sicher, dass Sie die Blockvorlage löschen möchten? Sie wird nicht automatisch aus dem vorhandenen Blockwähler entfernt. Sie müssen sie manuell entfernen.",
           "DeleteConfirmationTitle": "Blockvorlage löschen"
         },
         "BlockDialog": {
-          "Title": "Blockdialog",
+          "Title": "Blockwähler",
           "AddBlocks": "Blöcke hinzufügen",
-          "AddHeader": "Header hinzufügen",
-          "EditHeader": "Header bearbeiten",
+          "AddHeader": "Überschrift hinzufügen",
+          "EditHeader": "Überschrift bearbeiten",
           "ManageList": "Liste verwalten",
           "Confirm": "Bestätigen",
           "DeletedItemWarning": "Dieser Artikel wurde gelöscht",
           "DeleteItemTitle": "Gelöschter Artikel",
-          "Header": "Header",
+          "Header": "Überschrift",
           "EmptyMsg": "Kein Artikel gefunden"
         },
         "BlockDialogLayout": {
-          "Title": "Blockdialog-Layout",
+          "Title": "Blockwähler-Layout",
           "Default": "Standard",
           "Authentication": "Authentifizierung",
           "Spfx": "SPFx"
         },
         "Tooltips": {
-          "Management": "Blockvorlagen verwalten"
+          "Management": "Blockwähler verwalten"
         }
       },
       "PermissionInput": {
