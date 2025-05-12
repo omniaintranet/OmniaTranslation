@@ -39,7 +39,7 @@
           "Error": "Fehler"
         },
         "LogsStatus": {
-          "Queued": "In derWarteschlange",
+          "Queued": "In der Warteschlange",
           "Success": "Erfolg",
           "Error": "Fehler",
           "InProgress": "In Bearbeitung",
