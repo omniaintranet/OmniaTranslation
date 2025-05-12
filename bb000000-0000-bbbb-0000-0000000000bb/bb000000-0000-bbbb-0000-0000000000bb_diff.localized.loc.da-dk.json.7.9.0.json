@@ -3,11 +3,11 @@
     "Ux": {
       "LayoutEngine": {
         "PredefinedSections": {
-          "TabsDescription": "En sektion forudkonfigureret med faner."
+          "TabsDescription": "En sektion med faner."
         }
       },
       "PermissionInput": {
-        "BlockGalleryEditor": "Bloker galleri-editor."
+        "BlockGalleryEditor": "Redigering af blokvælger."
       }
     }
   }
