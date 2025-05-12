@@ -9,15 +9,15 @@
       "PageBulkUpdate": {
         "Title": "Masseoppdatering av sider",
         "UpdateStatus": "Oppdater status",
-        "SearchProperty": "Søk eiendom",
+        "SearchProperty": "Søk egenskap",
         "SearchValue": "Søk verdi",
-        "PropertyValue": "Eiendomsverdi",
+        "PropertyValue": "Egenskapsverdi",
         "NewValue": "Ny verdi",
         "Replace": "Erstatt",
         "ReplaceAll": "Erstatt alle",
         "Find": "Finn",
         "SelectItemRequiredMessage": "Vennligst velg minst én side for oppdatering.",
-        "ReplaceAllMessage": "Erstatt alle søkbare sider med eiendommenovenfor",
+        "ReplaceAllMessage": "Erstatt alle søkbare sider med egenskapen ovenfor",
         "Recalculate": "Beregne på nytt",
         "RecalculateAll": "Beregne alle på nytt",
         "RecalculatePageTypeMessage": "Beregne sidetype for valgte sider",
@@ -47,7 +47,7 @@
         },
         "Log": {
           "RecalculateSummary": "Bruk beregningsegenskapen på sidetypen: {0}.",
-          "ReplaceSummary": "Sett eiendommen med det interne navnet: {0} til den nye verdien: {1}.",
+          "ReplaceSummary": "Sett egenskapen med det interne navnet: {0} til den nye verdien: {1}.",
           "Total": "Totalt antall sider som skal oppdateres",
           "TotalUpdatedPagesSuccess": "Totalt antall sider oppdatert med suksess",
           "TotalUpdatedPagesFail": "Totalt antall sider oppdatering mislyktes",
@@ -90,19 +90,19 @@
           "Summary": "Bruk det for å legge til tekst hvor som helst på en side, med eller uten standard tekst."
         },
         "HtmlScript": {
-          "Summary": "Gjørdet mulig å legge til HTML, Javascript og CSS."
+          "Summary": "Gjør det mulig å legge til HTML, Javascript og CSS."
         },
         "Media": {
-          "Summary": "Legg til etbilde eller en video hvor som helst på en side."
+          "Summary": "Legg til et bilde eller en video hvor som helst på en side."
         },
         "PageProperties": {
           "Summary": "Vis metadata om siden."
         },
         "RelatedLinks": {
-          "Summary": "Bruk det for å legge til lenker til relaterte sider eller dokumenter i leietaker, eller en tilpasset lenke til en hvilken som helst nettside."
+          "Summary": "Bruk det for å legge til lenker til relaterte sider eller dokumenter i tenanten, eller en tilpasset lenke til en hvilken som helst nettside."
         },
         "Breadcrumb": {
-          "Summary": "Gjør det mulig å navigeretil hvilken som helst overordnet node av den nåværende siden."
+          "Summary": "Gjør det mulig å navigere til hvilken som helst overordnet node av den nåværende siden."
         },
         "ActionButton": {
           "Summary": "Legg til en eller flere handlinger aktivert av knapper på en side."
@@ -114,10 +114,10 @@
           "Summary": "List sider for mange forskjellige formål, med forskjellige visninger, filtre og raffineringsverktøy."
         },
         "CurrentNavigation": {
-          "Summary": "Gjør det mulig å navigeretil søsken, overordnede noder og søsken til overordnede noder."
+          "Summary": "Gjør det mulig å navigere til søsken, overordnede noder og søsken til overordnede noder."
         },
         "MegaMenu": {
-          "Summary": "Lag en mega meny for et arbeidsområde, eller forandre formål."
+          "Summary": "Lag en mega meny for et arbeidsområde, eller for andre formål."
         },
         "RatePage": {
           "Summary": "Gjør det mulig for brukere å vurdere innhold, ved hjelp av stjerner."
@@ -129,7 +129,7 @@
           "Summary": "Gjør det mulig for sluttbrukere å velge en variasjon av siden."
         },
         "RSSReader": {
-          "Summary": "Ved å bruke denne blokkenkan notater fra en RSS-leser kilde vises på en side."
+          "Summary": "Ved å bruke denne blokken kan notater fra en RSS-leser kilde vises på en side."
         },
         "ActivityFeed": {
           "Summary": "Vis aktiviteter for abonnementer den innloggede brukeren har, eller for aktiviteter på innholdssider."
@@ -164,7 +164,7 @@
           "PageReviewRule": {
             "Title": "Regel for sidegjennomgang",
             "RuleName": "Tittel",
-            "DateProperty": "Dato eiendom",
+            "DateProperty": "Dato egenskap",
             "MessageBarEnabled": "Vis meldingslinje",
             "MessageBarTitle": "Meldings tittel",
             "MessageBarBody": "Meldings kropp",
@@ -174,7 +174,7 @@
             "EmailSubject": "E-post emne",
             "EmailBody": "E-post kropp",
             "EmailRecipients": "Mottakere",
-            "SuspendEnabled": "Sett tilstand til Suspendert",
+            "SuspendEnabled": "Sett tilstand til 'Suspendert'",
             "ChangePageTypeEnabled": "Endre sidetype",
             "PageType": "Sidetype",
             "RemoveFromSearch": "Fjern fra søk",
@@ -195,7 +195,7 @@
           },
           "PageReviewValidationFailed": {
             "Title": "Mislyktes i å oppfylle sidegjennomgangsregler fra sidetype",
-            "Message": "Følgende eiendommer må oppdateres til en dato i fremtiden:",
+            "Message": "Følgende egenskaper må oppdateres til en dato i fremtiden:",
             "Close": "Lukk"
           }
         }
