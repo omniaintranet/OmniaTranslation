@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "Search": {
+          "BlockSummary": "Khối này có thể được sử dụng để tìm kiếm nhanh hoặc tìm kiếm nâng cao."
+        }
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "Summary": "Hiển thị thống kê về làm việc nhóm, tìm kiếm, trang, hoạt động của người dùng, liên kết hỏng hoặc các lần truy cập không thành công."
+    }
+  }
+}

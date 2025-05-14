@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Luo sisältöä joka esitetään haitarityylisessä muodossa, kuten usein kysytyt kysymykset."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Näytä sisältö kehyksessä."
+        }
+      }
+    }
+  }
+}

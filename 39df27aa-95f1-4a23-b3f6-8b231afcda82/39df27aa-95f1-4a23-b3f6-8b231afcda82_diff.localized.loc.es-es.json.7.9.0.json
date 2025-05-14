@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Blocks": {
+        "Search": {
+          "BlockSummary": "Este bloque se puede utilizar para búsqueda rápida o búsqueda avanzada."
+        }
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "Summary": "Mostrar estadísticas sobre trabajo en equipo, búsqueda, páginas, actividad de usuarios, enlaces rotos o intentos de acceso fallidos."
+    }
+  }
+}

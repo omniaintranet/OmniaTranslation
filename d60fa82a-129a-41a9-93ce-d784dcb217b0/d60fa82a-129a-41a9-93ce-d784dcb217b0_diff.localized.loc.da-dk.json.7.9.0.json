@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Opret indhold, der præsenteres i et harmonikaformat, til FAQ'er og andre formål."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Vis indhold i en iFrame."
+        }
+      }
+    }
+  }
+}

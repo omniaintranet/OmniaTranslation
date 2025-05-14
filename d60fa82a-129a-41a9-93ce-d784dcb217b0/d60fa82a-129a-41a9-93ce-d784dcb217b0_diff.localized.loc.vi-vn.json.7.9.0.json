@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Tạo nộidung được trình bày theo định dạng kiểu accordion, cho các câu hỏi thường gặp vàcác mục đích khác."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Hiển thị nội dung trong một iFrame."
+        }
+      }
+    }
+  }
+}

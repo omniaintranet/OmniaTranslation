@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Skapa innehåll som presenteras i ett dragspelsformat, för FAQ och andra ändamål."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Visa innehåll i en iFrame."
+        }
+      }
+    }
+  }
+}

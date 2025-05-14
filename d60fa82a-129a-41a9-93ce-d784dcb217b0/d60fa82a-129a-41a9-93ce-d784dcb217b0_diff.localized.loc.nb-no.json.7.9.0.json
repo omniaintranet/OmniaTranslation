@@ -1,0 +1,16 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionBlock": {
+        "BlockSummary": "Lag innhold som presenteres i et akordeonformat, for vanlige spørsmål og andre formål."
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "Iframe": {
+          "BlockSummary": "Vis innhold i en iFrame."
+        }
+      }
+    }
+  }
+}
