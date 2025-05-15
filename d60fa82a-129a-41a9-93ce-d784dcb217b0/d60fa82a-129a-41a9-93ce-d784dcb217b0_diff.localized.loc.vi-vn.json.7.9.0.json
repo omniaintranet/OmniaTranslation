@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Bạn có chắc chắn muốn cập nhật tất cả các trang không?",
+        "ExcludeVariations": "Loại trừ các biến thể",
+        "Log": {
+          "Refresh": "Làm mới"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Tính năng sao chép hỗ trợ các trang dựa trên biến thể mặc định, vì vậy bất kỳ ngôn ngữ bổ sunghoặc biến thể khác phải được loại bỏ trước khi sử dụng tùy chọn này."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Email thử nghiệm",
+              "Instruction": "Để xác minh cài đặt Email cho quy tắc này, hãy chọn ngườidùng bên dưới để nhận Email thử nghiệm. Điều này sẽ xác nhận rằng các vị trí giữchỗ được thay thế đúng cách và định dạng Email xuất hiện như mong muốn.",
+              "InfoText": "Email sẽ được tạo ra bằng thông tin từ các trang sau:",
+              "Buttons": {
+                "SendEmail": "Gửi"
+              },
+              "NoPagesFoundMessage": "Không tìm thấy trang nào cho loại trang đã chọn. Vui lòng tạo các trang để cho phép kiểm tra đầy đủ Email đánh giá."
+            },
+            "EditRuleBtn": "Chỉnh sửa quy tắc",
+            "DeleteRuleBtn": "Xóa quy tắc",
+            "TestEmailBtn": "Email thử nghiệm",
+            "Placeholders": {
+              "Title": "Vị trí giữ chỗ",
+              "Description": "Tên của người nhận Email - {{Recipient}}<br/>Danh sách các trang cần đánh giá - {%ListOfPages | %}<br/>Từ danh sách các trang, sau | và trước & bạn có thể sử dụng:<br/>Một liên kết đến trang cá nhân - {{pageLink}}<br/>Và các thuộc tính của trang:<br/>Tiêu đề thuộc tính - {{InternalName}}<br/>Tiêu đề thuộc tính - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Kính gửi {{Recipient}}</p><p>Trang sau đây đang được đánh giá và phải được đánh giá trong vòng 30 ngày tới. Nếu nội dung không được đánh giá, trang sẽ bị xóa.</p><p><br>{%ListOfPages |<br>Tiêu đề trang: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Thông báo về các trang được tạo trong biến thể mặc định",
+          "NoteTitle": "Ghi chú",
+          "NoteContent": "Thông báo cho các trang mới sẽ luôn được gửi đến các tác giả biến thể.",
+          "VariationAuthor": "Tác giả biến thể",
+          "PagePropertyUsers": "Thuộc tính trang"
+        }
+      }
+    }
+  }
+}
