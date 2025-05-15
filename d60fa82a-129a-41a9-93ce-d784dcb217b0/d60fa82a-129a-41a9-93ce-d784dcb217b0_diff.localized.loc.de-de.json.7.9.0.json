@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Sind Sie sicher, dass Sie alle Seiten aktualisieren möchten?",
+        "ExcludeVariations": "Variationen ausschließen",
+        "Log": {
+          "Refresh": "Aktualisieren"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Die Kopierfunktion unterstützt Seiten, die auf der Standardvariation basieren. Daher müssen alle zusätzlichen Sprachen oder andere Variationen entfernt werden, bevor Sie diese Option verwenden."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Test-E-Mail",
+              "Instruction": "Um die E-Mail-Einstellungen für diese Regel zu überprüfen, wählen Sie unten Benutzer aus, die eine Test-E-Mail erhalten sollen. Dies validiert, dass die Platzhalter korrekt ersetzt werden und dass die E-Mail-Formatierung wie beabsichtigt erscheint.",
+              "InfoText": "Die E-Mail wird mitInformationen von den folgenden Seiten generiert:",
+              "Buttons": {
+                "SendEmail": "Senden"
+              },
+              "NoPagesFoundMessage": "Keine Seitenfür den ausgewählten Seitentyp gefunden. Bitte erstellen Sie Seiten, um vollständige Tests der Überprüfungs-E-Mail zu ermöglichen."
+            },
+            "EditRuleBtn": "Regel bearbeiten",
+            "DeleteRuleBtn": "Regel löschen",
+            "TestEmailBtn": "Test-E-Mail",
+            "Placeholders": {
+              "Title": "Platzhalter",
+              "Description": "Name der Person, an die die E-Mail gesendet wird - {{Recipient}}<br/>Liste der Seiten, die überprüft werden müssen - {%ListOfPages | %}<br/>Aus der Liste der Seiten können Sie nach | und vor & verwenden:<br/>Einen Link zur einzelnen Seite - {{pageLink}}<br/>Und die Eigenschaften der Seite:<br/>Eigenschaftsname - {{InternalName}}<br/>Eigenschaftsname - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Sehr geehrte/r {{Recipient}}</p><p>Die folgende Seite steht zur Überprüfung an und muss innerhalb der nächsten 30 Tage überprüft werden. Wenn der Inhalt nicht überprüft wird, wird die Seite entfernt.</p><p><br>{%ListOfPages |<br>Seitentitel: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Benachrichtigungen über Seiten, die in der Standardvariationerstellt wurden",
+          "NoteTitle": "Hinweis",
+          "NoteContent": "Benachrichtigungen für neue Seiten werden immer an die Variationsautoren gesendet.",
+          "VariationAuthor": "Variationsautoren",
+          "PagePropertyUsers": "Seitenproperty"
+        }
+      }
+    }
+  }
+}
