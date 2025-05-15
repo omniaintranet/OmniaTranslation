@@ -23,7 +23,7 @@
               "Buttons": {
                 "SendEmail": "Send"
               },
-              "NoPagesFoundMessage": "No pagesfound for the selected page type. Please create pages to enable full testing of the review Email."
+              "NoPagesFoundMessage": "No pages found for the selected page type. Please create pages to enable full testing of the review Email."
             },
             "EditRuleBtn": "Edit rule",
             "DeleteRuleBtn": "Delete rule",
