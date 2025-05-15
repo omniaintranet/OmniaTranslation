@@ -12,7 +12,7 @@
     "Editor": {
       "Editor": {
         "PageArchive": {
-          "CreateCopyTooltip": "Kopiointitoiminto tukee oletusvariaatioon perustuvia sivuja, joten kaikki lisäkieli tai muu variaatio on poistettava ennen tämän vaihtoehdon käyttöä."
+          "CreateCopyTooltip": "Kopiointitoiminto tukee oletusvariaatioon perustuvia sivuja, joten kaikki lisäkielet tai muut variaatiot on poistettava ennen tämän vaihtoehdon käyttöä."
         },
         "Dialogs": {
           "PageReviewRule": {
@@ -23,14 +23,14 @@
               "Buttons": {
                 "SendEmail": "Lähetä"
               },
-              "NoPagesFoundMessage": "Valitulle sivutyypille ei löytynyt sivuja. Luo sivuja, jotta voit testata tarkastussähköpostia täydellisesti."
+              "NoPagesFoundMessage": "Valitulle sivutyypille ei löytynyt sivuja. Luo sivuja, jotta voit testata tarkastussähköpostia kunnolla."
             },
             "EditRuleBtn": "Muokkaa sääntöä",
             "DeleteRuleBtn": "Poista sääntö",
             "TestEmailBtn": "Testisähköposti",
             "Placeholders": {
               "Title": "Paikkamerkit",
-              "Description": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkastusta - {%ListOfPages | %}<br/>Sivulistasta, | jälkeen ja & ennen voit käyttää:<br/>Linkki yksittäiselle sivulle - {{pageLink}}<br/>Ja sivun ominaisuuksia:<br/>Ominaisuuden otsikko - {{InternalName}}<br/>Ominaisuuden otsikko - {{InternalName}}"
+              "Description": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkastusta - {%ListOfPages | %}<br/>Sivulistasta, | ja & välissä voit käyttää seuraavia:<br/>Linkki yksittäiselle sivulle - {{pageLink}}<br/>Ja sivun ominaisuuksia:<br/>Ominaisuuden otsikko - {{InternalName}}<br/>Ominaisuuden otsikko - {{InternalName}}"
             },
             "EmailTemplate": "<p>Hyvä {{Recipient}}</p><p>Seuraava sivu on tarkastettavana ja se on tarkastettava seuraavan 30 päivän aikana. Jos sisältöä ei tarkasteta, sivu poistetaan.</p><p><br>{%ListOfPages |<br>Sivun otsikko: {{pageLink}}<br>%}</p>"
           }
@@ -44,8 +44,8 @@
         "NotifyForEdit": {
           "SectionTitle": "Ilmoitukset oletusvariaatiossa luoduista sivuista",
           "NoteTitle": "Huomautus",
-          "NoteContent": "Ilmoitus uusista sivuista lähetetään aina variaatioiden kirjoittajille.",
-          "VariationAuthor": "Variaatioiden kirjoittajat",
+          "NoteContent": "Ilmoitus uusista sivuista lähetetään aina variaatioiden luojilla.",
+          "VariationAuthor": "Variaatioiden luojat",
           "PagePropertyUsers": "Sivun ominaisuus"
         }
       }
