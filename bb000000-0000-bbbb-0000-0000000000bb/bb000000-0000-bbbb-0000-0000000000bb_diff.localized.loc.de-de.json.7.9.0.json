@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "Ein Abschnitt, der mit Tabs vorkonfiguriert ist."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Sind Sie sicher, dass Sie die Blockvorlage löschen möchten? Sie wird nicht automatisch aus dem Dialog für Blockvorlagen entfernt, Sie müssen sie manuell entfernen."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}
