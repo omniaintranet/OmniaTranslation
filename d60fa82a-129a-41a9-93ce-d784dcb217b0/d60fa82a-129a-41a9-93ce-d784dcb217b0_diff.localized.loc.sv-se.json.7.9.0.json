@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Är du säker på att du vill uppdatera alla sidor?",
+        "ExcludeVariations": "Exkludera variationer",
+        "Log": {
+          "Refresh": "Uppdatera"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Kopieringsfunktionen stöder sidor baserade på standardvariationen, så eventuella ytterligare språk eller andra variationer måste tas bort innan du använder detta alternativ."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Testa e-post",
+              "Instruction": "För att verifiera e-postinställningarna för denna regel, välj användare nedan för att ta emot en test-e-post. Detta kommer att validera att platshållarna ersätts korrekt och att e-postformatet visas som avsett.",
+              "InfoText": "E-posten kommer att genereras med information från följandesidor:",
+              "Buttons": {
+                "SendEmail": "Skicka"
+              },
+              "NoPagesFoundMessage": "Inga sidor hittades för den valda sidtypen. Vänligen skapa sidor för att möjliggöra fullständig testning av granskningse-posten."
+            },
+            "EditRuleBtn": "Redigera regel",
+            "DeleteRuleBtn": "Ta bort regel",
+            "TestEmailBtn": "Testa e-post",
+            "Placeholders": {
+              "Title": "Platshållare",
+              "Description": "Namn på personen som e-posten skickas till - {{Recipient}}<br/>Lista över sidor som kräver granskning - {%ListOfPages | %}<br/>Från listan över sidor, efter | och före & kan du använda:<br/>En länk till den individuella sidan - {{pageLink}}<br/>Och egenskaperna för sidan:<br/>Egenskapsnamn - {{InternalName}}<br/>Egenskapsnamn -{{InternalName}}"
+            },
+            "EmailTemplate": "<p>Kära {{Recipient}}</p><p>Följande sida äruppe för granskning och måste granskas inom de kommande 30 dagarna. Om innehållet inte granskas kommer sidan att tas bort.</p><p><br>{%ListOfPages |<br>Sidetitel: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Meddelanden om sidor skapade i standardvariationen",
+          "NoteTitle": "Notera",
+          "NoteContent": "Meddelande för nya sidor kommer alltid att skickas till variationsförfattarna.",
+          "VariationAuthor": "Variationsförfattare",
+          "PagePropertyUsers": "Sidans egenskap"
+        }
+      }
+    }
+  }
+}
