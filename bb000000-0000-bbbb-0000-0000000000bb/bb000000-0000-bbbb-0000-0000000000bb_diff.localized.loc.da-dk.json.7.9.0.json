@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "En sektion forudkonfigureret med faner."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Er du sikker på, at du vil slette blokskabelonen? Den vil ikke blive fjernet automatisk fra blokskabelon-dialogen, du skal fjerne den manuelt."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}
