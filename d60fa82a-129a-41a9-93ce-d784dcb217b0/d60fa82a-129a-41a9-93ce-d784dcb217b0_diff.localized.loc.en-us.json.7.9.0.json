@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Are you sure you want to update all pages?",
+        "ExcludeVariations": "Exclude variations",
+        "Log": {
+          "Refresh": "Refresh"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "The copy feature supports pages based on the default variation, so any additional language or other variation must be removed before using this option."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Test email",
+              "Instruction": "To verify the Email settings for this rule, select users below to receive a test Email. This will validate that the placeholders are correctly replaced and that the Email formatting appears as intended.",
+              "InfoText": "The Email will be generated using information from the following pages:",
+              "Buttons": {
+                "SendEmail": "Send"
+              },
+              "NoPagesFoundMessage": "No pages found for the selected page type. Please create pages to enable full testing of the review Email."
+            },
+            "EditRuleBtn": "Edit rule",
+            "DeleteRuleBtn": "Delete rule",
+            "TestEmailBtn": "Test Email",
+            "Placeholders": {
+              "Title": "Placeholders",
+              "Description": "Name of the person the Email is sent to - {{Recipient}}<br/>List of pages that requires review - {%ListOfPages | %}<br/>From the list of pages, after | and before & you can use:<br/>A link to the Indivdiual page page - {{pageLink}}<br/>And the properties of the page:<br/>Property title - {{InternalName}}<br/>Property title - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Dear {{Recipient}}</p><p>The following page is up for review and has to be reviewed within the next 30 days. If the content is not reviewed, the page will be removed.</p><p><br>{%ListOfPages |<br>Page Title: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Notifications of pages created in the default variation",
+          "NoteTitle": "Note",
+          "NoteContent": "Notification for new pages will always be sent to the variation authors.",
+          "VariationAuthor": "Variation authors",
+          "PagePropertyUsers": "Page property"
+        }
+      }
+    }
+  }
+}
