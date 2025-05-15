@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "Một phần được cấu hình sẵn với các tab."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Bạn có chắc chắn muốn xóa mẫu khối không? Nó sẽ không tự động bị xóa khỏi hộp thoại mẫu khối, bạn phải xóa nó thủ công."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}
