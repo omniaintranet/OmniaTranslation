@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "Une section préconfigurée avec des onglets."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Êtes-voussûr de vouloir supprimer le modèle de bloc ? Il ne sera pas automatiquement retiré de la boîte de dialogue des modèles de bloc, vous devez le retirer manuellement."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}

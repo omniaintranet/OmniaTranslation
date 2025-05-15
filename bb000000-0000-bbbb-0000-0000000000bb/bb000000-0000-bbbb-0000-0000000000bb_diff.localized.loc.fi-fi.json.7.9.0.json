@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "Osa, joka on esikonfiguroitu välilehdillä."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Oletko varma, että haluat poistaa lohkomallin? Se ei poisteta automaattisesti lohkomallin valintaikkunasta, sinun on poistettava se manuaalisesti."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}

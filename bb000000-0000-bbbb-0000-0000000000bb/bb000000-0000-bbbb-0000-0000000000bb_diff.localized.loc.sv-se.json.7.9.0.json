@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "En sektion förkonfigurerad med flikar."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Är du säker på att du vill ta bort blockmallen? Den kommer inte att tas bort automatiskt från blockmall-dialogen, du måste ta bort den manuellt."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}

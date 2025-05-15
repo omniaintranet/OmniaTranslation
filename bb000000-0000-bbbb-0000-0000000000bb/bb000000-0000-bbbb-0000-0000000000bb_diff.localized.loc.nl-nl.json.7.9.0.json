@@ -1,0 +1,19 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "PredefinedSections": {
+          "TabSummary": "Een sectie die vooraf is geconfigureerd met tabbladen."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Weet jezeker dat je de bloktemplate wilt verwijderen? Het wordt niet automatisch verwijderd uit de bloktemplate dialoog, je moet het handmatig verwijderen."
+        },
+        "BlockDialogLayout": {
+          "SPFx": "SPFx"
+        }
+      }
+    }
+  }
+}

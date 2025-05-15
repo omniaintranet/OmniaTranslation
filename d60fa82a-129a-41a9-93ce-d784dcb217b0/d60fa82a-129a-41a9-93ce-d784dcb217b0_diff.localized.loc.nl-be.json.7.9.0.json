@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Weet u zeker dat u alle pagina's wilt bijwerken?",
+        "ExcludeVariations": "Variaties uitsluiten",
+        "Log": {
+          "Refresh": "Vernieuwen"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "De kopieerfunctie ondersteunt pagina's op basis van de standaardvariatie, dus eventuele extra taal of andere variatie moet worden verwijderd voordat u deze optie gebruikt."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Test e-mail",
+              "Instruction": "Om de e-mailinstellingen voor deze regel te verifiëren, selecteert u hieronder gebruikers om een test-e-mail te ontvangen. Dit valideertdat de plaatsaanduidingen correct worden vervangen en dat de e-mailopmaak eruitziet zoals bedoeld.",
+              "InfoText": "De e-mail wordt gegenereerd met informatievan de volgende pagina's:",
+              "Buttons": {
+                "SendEmail": "Verzenden"
+              },
+              "NoPagesFoundMessage": "Geen pagina's gevonden voor het geselecteerde paginatype. Maak pagina's aan om volledige tests van de beoordelings-e-mail mogelijk te maken."
+            },
+            "EditRuleBtn": "Regel bewerken",
+            "DeleteRuleBtn": "Regel verwijderen",
+            "TestEmailBtn": "Test e-mail",
+            "Placeholders": {
+              "Title": "Plaatsaanduidingen",
+              "Description": "Naam van de persoon aan wie de e-mail wordt verzonden - {{Recipient}}<br/>Lijst van pagina'sdie beoordeeld moeten worden - {%ListOfPages | %}<br/>Van de lijst van pagina's,na | en voor & kunt u gebruiken:<br/>Een link naar de individuele pagina - {{pageLink}}<br/>En de eigenschappen van de pagina:<br/>Eigenschapstitel - {{InternalName}}<br/>Eigenschapstitel - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Beste {{Recipient}}</p><p>De volgende pagina is ter beoordeling en moet binnen de komende 30 dagen worden beoordeeld. Als de inhoud niet wordt beoordeeld, wordt de pagina verwijderd.</p><p><br>{%ListOfPages |<br>Paginatitel: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Meldingen van pagina's gemaakt in de standaardvariatie",
+          "NoteTitle": "Opmerking",
+          "NoteContent": "Meldingen voor nieuwe pagina's worden altijd verzonden naar de variatie-auteurs.",
+          "VariationAuthor": "Variatie-auteurs",
+          "PagePropertyUsers": "Pagina-eigenschap"
+        }
+      }
+    }
+  }
+}

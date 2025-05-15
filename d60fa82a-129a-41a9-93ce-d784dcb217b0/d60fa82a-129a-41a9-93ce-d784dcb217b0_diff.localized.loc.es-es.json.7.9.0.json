@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "¿Está seguro de que desea actualizar todas las páginas?",
+        "ExcludeVariations": "Excluir variaciones",
+        "Log": {
+          "Refresh": "Actualizar"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "La función de copia admite páginas basadas en la variaciónpredeterminada, por lo que cualquier idioma adicional u otra variación debe eliminarse antes de usar esta opción."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Correo electrónico de prueba",
+              "Instruction": "Para verificar la configuración de correo electrónico para esta regla, seleccione a los usuarios a continuación para recibir un correo electrónico de prueba. Esto validará que los marcadores de posición se reemplacen correctamente y que el formato del correo electrónico aparezca como se pretende.",
+              "InfoText": "El correo electrónico se generará utilizando información de las siguientes páginas:",
+              "Buttons": {
+                "SendEmail": "Enviar"
+              },
+              "NoPagesFoundMessage": "No se encontraron páginas para el tipo de página seleccionado. Por favor, cree páginaspara habilitar la prueba completa del correo electrónico de revisión."
+            },
+            "EditRuleBtn": "Editar regla",
+            "DeleteRuleBtn": "Eliminar regla",
+            "TestEmailBtn": "Probar correo electrónico",
+            "Placeholders": {
+              "Title": "Marcadores de posición",
+              "Description": "Nombre de la persona a la que se envía el correo electrónico - {{Recipient}}<br/>Lista de páginas que requieren revisión - {%ListOfPages | %}<br/>De la lista de páginas, después de | y antes de & puede usar:<br/>Un enlace a la página individual - {{pageLink}}<br/>Y las propiedades de la página:<br/>Título de la propiedad - {{InternalName}}<br/>Título de la propiedad - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Estimado/a {{Recipient}}</p><p>La siguiente página está en revisión y debe ser revisada dentro de los próximos 30 días. Si el contenido no se revisa, la página será eliminada.</p><p><br>{%ListOfPages |<br>Título de la página: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Notificaciones de páginas creadas en la variación predeterminada",
+          "NoteTitle": "Nota",
+          "NoteContent": "La notificación para nuevas páginas siempre se enviará a los autores de la variación.",
+          "VariationAuthor": "Autores de variación",
+          "PagePropertyUsers": "Propiedad de la página"
+        }
+      }
+    }
+  }
+}

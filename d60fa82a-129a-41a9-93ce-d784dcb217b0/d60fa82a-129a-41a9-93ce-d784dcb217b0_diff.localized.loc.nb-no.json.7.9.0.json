@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Er du sikker på at du vil oppdatere alle sider?",
+        "ExcludeVariations": "Ekskluder variasjoner",
+        "Log": {
+          "Refresh": "Oppdater"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Kopieringsfunksjonen støtter sider basert på standard variasjon, så eventuelle tilleggsspråk eller andre variasjoner må fjernes før dubruker dette alternativet."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Test e-post",
+              "Instruction": "For å verifisere e-postinnstillingene for denne regelen, velg brukere nedenfor for å motta en test-e-post. Dette vil validere at plassholderne er korrekt erstattet og at e-postformatet vises som tiltenkt.",
+              "InfoText": "E-posten vil bli generert ved hjelp av informasjon fra følgende sider:",
+              "Buttons": {
+                "SendEmail": "Send"
+              },
+              "NoPagesFoundMessage": "Ingen sider funnet for den valgte sidetypen. Vennligst opprett sider for å muliggjøre full testing av gjennomgangse-posten."
+            },
+            "EditRuleBtn": "Rediger regel",
+            "DeleteRuleBtn": "Slett regel",
+            "TestEmailBtn": "Test e-post",
+            "Placeholders": {
+              "Title": "Plassholdere",
+              "Description": "Navn på personen e-posten sendes til - {{Recipient}}<br/>Liste over sider som krever gjennomgang - {%ListOfPages | %}<br/>Fra listen over sider, etter | og før & kan du bruke:<br/>En lenke til den individuelle siden - {{pageLink}}<br/>Og egenskapenetil siden:<br/>Egenskapsnavn - {{InternalName}}<br/>Egenskapsnavn - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Kjære {{Recipient}}</p><p>Den følgende siden er til vurdering og må vurderes innen de neste 30 dagene. Hvis innholdet ikke vurderes, vil siden bli fjernet.</p><p><br>{%ListOfPages |<br>Sidetittel: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Varsler om sider opprettet i standard variasjon",
+          "NoteTitle": "Merk",
+          "NoteContent": "Varsel for nye sider vil alltid blisendt til variasjonsforfatterne.",
+          "VariationAuthor": "Variasjonsforfattere",
+          "PagePropertyUsers": "Sideegenskap"
+        }
+      }
+    }
+  }
+}

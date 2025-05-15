@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Oletko varma, että haluat päivittää kaikki sivut?",
+        "ExcludeVariations": "Poista variaatiot",
+        "Log": {
+          "Refresh": "Päivitä"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Kopiointitoiminto tukee oletusvariaatioon perustuvia sivuja, joten kaikki lisäkieli tai muu variaatio on poistettava ennen tämän vaihtoehdon käyttöä."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Testisähköposti",
+              "Instruction": "Varmistaaksesi tämän säännön sähköpostiasetukset, valitse alla olevista käyttäjistä ne, jotka saavat testisähköpostin. Tämä vahvistaa, että paikkamerkit on korvattu oikein ja että sähköpostin muotoilu näyttää tarkoitetulta.",
+              "InfoText": "Sähköposti luodaan seuraavien sivujen tiedoilla:",
+              "Buttons": {
+                "SendEmail": "Lähetä"
+              },
+              "NoPagesFoundMessage": "Valitulle sivutyypille ei löytynyt sivuja. Luo sivuja, jotta voit testata tarkastussähköpostia täydellisesti."
+            },
+            "EditRuleBtn": "Muokkaa sääntöä",
+            "DeleteRuleBtn": "Poista sääntö",
+            "TestEmailBtn": "Testisähköposti",
+            "Placeholders": {
+              "Title": "Paikkamerkit",
+              "Description": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkastusta - {%ListOfPages | %}<br/>Sivulistasta, | jälkeen ja & ennen voit käyttää:<br/>Linkki yksittäiselle sivulle - {{pageLink}}<br/>Ja sivun ominaisuuksia:<br/>Ominaisuuden otsikko - {{InternalName}}<br/>Ominaisuuden otsikko - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Hyvä {{Recipient}}</p><p>Seuraava sivu on tarkastettavana ja se on tarkastettava seuraavan 30 päivän aikana. Jos sisältöä ei tarkasteta, sivu poistetaan.</p><p><br>{%ListOfPages |<br>Sivun otsikko: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variaatio": {
+        "NotifyForEdit": {
+          "SectionTitle": "Ilmoitukset oletusvariaatiossa luoduista sivuista",
+          "NoteTitle": "Huomautus",
+          "NoteContent": "Ilmoitus uusista sivuista lähetetään aina variaatioiden kirjoittajille.",
+          "VariationAuthor": "Variaatioiden kirjoittajat",
+          "PagePropertyUsers": "Sivun ominaisuus"
+        }
+      }
+    }
+  }
+}

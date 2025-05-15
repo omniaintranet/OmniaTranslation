@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Er du sikker på, at du vil opdatere alle sider?",
+        "ExcludeVariations": "Udelad variationer",
+        "Log": {
+          "Refresh": "Opdater"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "Kopifunktionen understøtter sider baseret på den standardvariation, så enhver yderligere sprog- eller anden variation skal fjernes, før denne mulighed kan bruges."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Test email",
+              "Instruction": "For at verificere Email-indstillingerne for denne regel, vælg brugere nedenfor for at modtage en test Email. Dette vil validere, at pladsholderne er korrekt erstattet, og at Email-formatet vises som ønsket.",
+              "InfoText": "Emailen vil blive genereret ved hjælp af oplysninger fra følgende sider:",
+              "Buttons": {
+                "SendEmail": "Send"
+              },
+              "NoPagesFoundMessage": "Ingen sider fundet for den valgte sidetype. Opret venligst sider for at muliggøre fuldtest af anmeldelses Emailen."
+            },
+            "EditRuleBtn": "Rediger regel",
+            "DeleteRuleBtn": "Slet regel",
+            "TestEmailBtn": "Test Email",
+            "Placeholders": {
+              "Title": "Pladsholdere",
+              "Description": "Navn på personen, som Emailen sendes til - {{Recipient}}<br/>Liste over sider, der kræver anmeldelse - {%ListOfPages | %}<br/>Fra listen over sider, efter | og før & kan du bruge:<br/>Et link til den enkelte side - {{pageLink}}<br/>Og egenskaberne for siden:<br/>Egenskabstitel - {{InternalName}}<br/>Egenskabstitel - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Kære {{Recipient}}</p><p>Den følgende side er til anmeldelse og skal anmeldes inden for de næste 30 dage. Hvis indholdet ikke anmeldes, vil siden blive fjernet.</p><p><br>{%ListOfPages |<br>Side Titel: {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Underretninger om sider oprettet i standardvariationen",
+          "NoteTitle": "Bemærk",
+          "NoteContent": "Underretning for nye sider vil altid blive sendt til variationsforfatterne.",
+          "VariationAuthor": "Variationsforfattere",
+          "PagePropertyUsers": "Sideegenskab"
+        }
+      }
+    }
+  }
+}

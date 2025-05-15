@@ -1,0 +1,54 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "UpdateAllPagesConfirmation": "Êtes-vous sûr de vouloir mettre à jour toutes les pages ?",
+        "ExcludeVariations": "Exclure les variations",
+        "Log": {
+          "Refresh": "Rafraîchir"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "CreateCopyTooltip": "La fonction de copie prend en charge les pages basées sur la variation par défaut, donc toute langue supplémentaire ou autre variation doit être supprimée avant d'utiliser cette option."
+        },
+        "Dialogs": {
+          "PageReviewRule": {
+            "TestEmailDialog": {
+              "Title": "Email de test",
+              "Instruction": "Pour vérifier les paramètres de l'Email pour cette règle, sélectionnez les utilisateurs ci-dessous pour recevoir un Email de test. Cela validera que les espaces réservés sont correctement remplacés et que le formatage de l'Email apparaît comme prévu.",
+              "InfoText": "L'Email sera généré en utilisant les informations des pages suivantes :",
+              "Buttons": {
+                "SendEmail": "Envoyer"
+              },
+              "NoPagesFoundMessage": "Aucune page trouvée pour le type de page sélectionné. Veuillez créer des pages pour permettre un test complet de l'Email de révision."
+            },
+            "EditRuleBtn": "Modifier la règle",
+            "DeleteRuleBtn": "Supprimer la règle",
+            "TestEmailBtn": "Tester l'Email",
+            "Placeholders": {
+              "Title": "Espaces réservés",
+              "Description": "Nom de la personne à qui l'Email est envoyé - {{Recipient}}<br/>Liste des pages nécessitant une révision - {%ListOfPages | %}<br/>À partir de la liste des pages, après | et avant & vous pouvez utiliser :<br/>Un lien vers la page individuelle - {{pageLink}}<br/>Et les propriétés de la page :<br/>Titre de la propriété - {{InternalName}}<br/>Titre de la propriété - {{InternalName}}"
+            },
+            "EmailTemplate": "<p>Cher {{Recipient}}</p><p>La page suivanteest en cours de révision et doit être examinée dans les 30 jours. Si le contenu n'est pas révisé, la page sera supprimée.</p><p><br>{%ListOfPages |<br>Titre de la page : {{pageLink}}<br>%}</p>"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionTitle": "Notifications des pages créées dans la variation par défaut",
+          "NoteTitle": "Remarque",
+          "NoteContent": "Les notifications pour les nouvelles pages seront toujours envoyées aux auteurs de variation.",
+          "VariationAuthor": "Auteurs de variation",
+          "PagePropertyUsers": "Propriété de la page"
+        }
+      }
+    }
+  }
+}
