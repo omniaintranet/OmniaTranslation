@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "BlockGallery": {
+        "BlockTemplates": {
+          "ListEmptyMsg": "Hittade inga blockmallar"
+        },
+        "BlockDialog": {
+          "NoBlocksFoundMsg": "Hittade inga block"
+        }
+      }
+    }
+  }
+}

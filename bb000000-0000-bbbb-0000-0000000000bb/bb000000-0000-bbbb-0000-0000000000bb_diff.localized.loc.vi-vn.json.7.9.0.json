@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "BlockGallery": {
+        "BlockTemplates": {
+          "ListEmptyMsg": "Không tìm thấy mẫu khối nào"
+        },
+        "BlockDialog": {
+          "NoBlocksFoundMsg": "Không tìm thấy khối nào"
+        }
+      }
+    }
+  }
+}
