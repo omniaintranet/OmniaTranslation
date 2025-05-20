@@ -3,10 +3,10 @@
     "Ux": {
       "BlockGallery": {
         "BlockTemplates": {
-          "ListEmptyMsg": "Inga blockmallar hittades"
+          "ListEmptyMsg": "Hittade inga blockmallar"
         },
         "BlockDialog": {
-          "NoBlocksFoundMsg": "Inga block hittades"
+          "NoBlocksFoundMsg": "Hittade inga block"
         }
       }
     }
