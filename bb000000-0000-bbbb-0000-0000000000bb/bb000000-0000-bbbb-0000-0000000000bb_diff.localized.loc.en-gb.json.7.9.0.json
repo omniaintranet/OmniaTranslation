@@ -6,7 +6,7 @@
           "ListEmptyMsg": "No block templates were found"
         },
         "BlockDialog": {
-          "NoBlocksFoundMsg": "No blockswere found"
+          "NoBlocksFoundMsg": "No blocks were found"
         }
       }
     }
