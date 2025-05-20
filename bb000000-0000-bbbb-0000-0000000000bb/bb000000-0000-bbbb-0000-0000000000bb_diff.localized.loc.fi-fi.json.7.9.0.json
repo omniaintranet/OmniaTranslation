@@ -3,10 +3,10 @@
     "Ux": {
       "BlockGallery": {
         "BlockTemplates": {
-          "ListEmptyMsg": "Ei lohkomalleja löytynyt"
+          "ListEmptyMsg": "Lohkomalleja ei löytynyt"
         },
         "BlockDialog": {
-          "NoBlocksFoundMsg": "Ei lohkoja löytynyt"
+          "NoBlocksFoundMsg": "Lohkoja ei löytynyt"
         }
       }
     }
