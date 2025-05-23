@@ -8,7 +8,7 @@
       },
       "BlockGallery": {
         "BlockTemplates": {
-          "DeleteConfirmationMsg": "Sind Sie sicher, dass Sie die Blockvorlage löschen möchten? Sie wird nicht automatisch aus dem Dialog für Blockvorlagen entfernt, Sie müssen sie manuell entfernen."
+          "DeleteConfirmationMsg": "Sind Sie sicher, dass Sie die Blockvorlage löschen möchten? Sie wird nicht automatisch aus dem Dialog für Blockvorlagen entfernt. Sie müssen sie manuell entfernen."
         },
         "BlockDialogLayout": {
           "SPFx": "SPFx"
