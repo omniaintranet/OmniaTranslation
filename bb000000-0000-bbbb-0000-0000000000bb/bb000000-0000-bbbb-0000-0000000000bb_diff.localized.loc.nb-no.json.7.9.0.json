@@ -3,12 +3,12 @@
     "Ux": {
       "LayoutEngine": {
         "PredefinedSections": {
-          "TabSummary": "En seksjon forhåndskonfigurert med faner."
+          "TabSummary": "En seksjon med faner."
         }
       },
       "BlockGallery": {
         "BlockTemplates": {
-          "DeleteConfirmationMsg": "Er du sikker på at du vil slette blokkmalen? Den vil ikke bli fjernet automatisk fra blokkmal-dialogen, du må fjerne den manuelt."
+          "DeleteConfirmationMsg": "Er du sikker på at du vil slette blokkmalen? Den vil ikke bli fjernet automatisk fra blokkmal-dialogen. Du må fjerne den manuelt."
         },
         "BlockDialogLayout": {
           "SPFx": "SPFx"
