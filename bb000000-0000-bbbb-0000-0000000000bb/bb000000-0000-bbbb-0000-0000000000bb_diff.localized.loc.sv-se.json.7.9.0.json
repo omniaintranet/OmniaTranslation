@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "BlockGallery": {
+        "BlockDialog": {
+          "EmptyMessage": "Inga block har lagts till"
+        }
+      }
+    }
+  }
+}
