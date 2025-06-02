@@ -3,11 +3,11 @@
     "Feed": {
       "Settings": {
         "ServerDetectionModes": {
-          "AddOrUpdate": "Lisää tai päivitä",
+          "AddOrUpdate": "LisääTaiPäivitä",
           "Delete": "Poista",
           "AutomaticPageTranslationFinished": "VariaatioSivunKäännös"
         },
-        "SortByItemDate": "Kohteen päivämäärä (Syötteen sisäänrakennettu)",
+        "SortByItemDate": "Kohteen päivämäärä (Feedin sisäänrakennettu)",
         "SignOffRequest": {
           "Progress": {
             "NotStarted": "Ei aloitettu",
@@ -21,15 +21,15 @@
           }
         },
         "EventsFilter": {
-          "Title": "Valkoisen listan tapahtumien suodatin",
+          "Title": "Sallittujen listan tapahtumien suodatin",
           "EnableEventsFilter": "Ota tapahtumien suodatin käyttöön",
           "Radio": {
-            "Hint": "Vaihda valkoisen listan ja mustan listan tilan välillä",
-            "Blacklist": "Musta lista",
-            "Whitelist": "Valkoinen lista"
+            "Hint": "Vaihda sallittujen listan ja estettyjen listan tilan välillä",
+            "Blacklist": "Estettyjen lista",
+            "Whitelist": "Sallittujen lista"
           },
           "FilterMode": {
-            "Label": "Suodatin tila",
+            "Label": "Suodatustila",
             "BusinessProfile": "Liiketoimintaprofiili",
             "PublishingApp": "Julkaisusovellus",
             "PageCollection": "Sivukokoelma",
