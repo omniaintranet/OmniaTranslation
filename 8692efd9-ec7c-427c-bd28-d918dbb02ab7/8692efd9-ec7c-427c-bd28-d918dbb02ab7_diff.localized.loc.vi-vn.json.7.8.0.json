@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Thêm hoặc Cập nhật",
+          "Delete": "Xóa",
+          "AutomaticPageTranslationFinished": "Dịch trang biến thể"
+        },
+        "SortByItemDate": "Ngày mục (Tích hợp Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Chưa bắt đầu",
+            "InProgress": "Đang tiến hành",
+            "Completed": "Đã hoàn thành"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Bạn có chắc chắnmuốn thử lại việc đồng bộ hóa người dùng không?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Bộ lọc sự kiện trắng",
+          "EnableEventsFilter": "Bật bộ lọc sự kiện",
+          "Radio": {
+            "Hint": "Chuyển đổi giữa chế độ danh sách trắng và danh sách đen",
+            "Blacklist": "Danh sách đen",
+            "Whitelist": "Danh sách trắng"
+          },
+          "FilterMode": {
+            "Label": "Chế độ lọc",
+            "BusinessProfile": "Hồ sơ doanh nghiệp",
+            "PublishingApp": "Ứng dụng xuất bản",
+            "PageCollection": "Bộ sưu tập trang",
+            "BusinessProfileInputLabel": "Hồ sơ doanh nghiệp",
+            "PublishingAppInputLabel": "Ứng dụng xuất bản"
+          }
+        }
+      }
+    }
+  }
+}
