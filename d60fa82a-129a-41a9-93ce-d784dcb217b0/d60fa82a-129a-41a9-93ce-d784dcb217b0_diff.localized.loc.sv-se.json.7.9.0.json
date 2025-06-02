@@ -8,7 +8,7 @@
           },
           "PageReviewRule": {
             "Placeholders": {
-              "PlaceholdersDescription": "Namnpå personen som e-postmeddelandet skickas till - {{Recipient}}<br/>Lista över sidor som kräver granskning - {%ListOfPages | %}<br/>Inom listan över sidor, efter | och före & kan du använda:<br/>En länk till den individuella sidan - {{PageLink}}<br/>En titel på den individuella sidan - {{PageTitle}}<br/>Och egenskaperna för sidan:",
+              "PlaceholdersDescription": "Namn på personen som e-postmeddelandet skickas till - {{Recipient}}<br/>Lista över sidor som kräver granskning - {%ListOfPages | %}<br/>Inom listan över sidor, efter | och före & kan du använda:<br/>En länk till den individuella sidan - {{PageLink}}<br/>En titel på den individuella sidan - {{PageTitle}}<br/>Och egenskaperna för sidan:",
               "Property": "Egenskap"
             }
           }
@@ -21,8 +21,8 @@
       "Variation": {
         "NotifyForEdit": {
           "SectionLabel": "Meddelanden för sidor skapade i standardvariationen",
-          "Note": "Meddelanden för nya sidor kommer alltid att skickastill variationsförfattarna.",
-          "UserPropertyPickerLabel": "Mottagare av meddelandenom sidredigering"
+          "Note": "Meddelanden för nya sidor kommer alltid att skickas till variationsförfattarna.",
+          "UserPropertyPickerLabel": "Mottagare av meddelanden om sidredigering"
         }
       }
     }
