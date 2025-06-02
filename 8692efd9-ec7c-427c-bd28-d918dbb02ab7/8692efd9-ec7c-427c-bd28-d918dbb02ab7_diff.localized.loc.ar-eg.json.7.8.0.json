@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "إضافة أو تحديث",
+          "Delete": "حذف",
+          "AutomaticPageTranslationFinished": "ترجمة صفحة التباين"
+        },
+        "SortByItemDate": "تاريخ العنصر (مضمن في التغذية)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "لم يبدأ",
+            "InProgress": "قيدالتقدم",
+            "Completed": "مكتمل"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "هل أنت متأكد أنك تريد إعادة مزامنة المستخدمين مرة أخرى؟"
+          }
+        },
+        "EventsFilter": {
+          "Title": "فلتر الأحداث المسموح بها",
+          "EnableEventsFilter": "تفعيل فلتر الأحداث",
+          "Radio": {
+            "Hint": "التبديل بين وضع القائمة البيضاء ووضع القائمة السوداء",
+            "Blacklist": "القائمة السوداء",
+            "Whitelist": "القائمة البيضاء"
+          },
+          "FilterMode": {
+            "Label": "وضع الفلترة",
+            "BusinessProfile": "الملف التجاري",
+            "PublishingApp": "تطبيق النشر",
+            "PageCollection": "مجموعة الصفحات",
+            "BusinessProfileInputLabel": "الملفات التجارية",
+            "PublishingAppInputLabel": "تطبيقات النشر"
+          }
+        }
+      }
+    }
+  }
+}
