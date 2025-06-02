@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Một nút có cùng đường dẫn đã tồn tại dưới nútcha này."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Tên của người nhận Email - {{Recipient}}<br/>Danh sách các trang cần xem xét - {%ListOfPages | %}<br/>Trong danh sách các trang, sau | và trước & bạn có thể sửdụng:<br/>Một liên kết đến trang cá nhân - {{PageLink}}<br/>Tiêu đề của trang cánhân - {{PageTitle}}<br/>Và các thuộc tính của trang:",
+              "Property": "Thuộc tính"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Thông báo cho các trang được tạo trong biến thể mặc định",
+          "Note": "Thông báo cho các trang mới sẽ luôn được gửi đến các tác giả của biến thể.",
+          "UserPropertyPickerLabel": "Người nhận thông báo chỉnh sửa trang"
+        }
+      }
+    }
+  }
+}
