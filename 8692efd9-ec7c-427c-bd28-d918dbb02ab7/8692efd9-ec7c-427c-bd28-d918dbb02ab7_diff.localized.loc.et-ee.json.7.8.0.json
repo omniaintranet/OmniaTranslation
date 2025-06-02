@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisa või uuenda",
+          "Delete": "Kustuta",
+          "AutomaticPageTranslationFinished": "Variatsioonilehe tõlkimine"
+        },
+        "SortByItemDate": "Objekti kuupäev (Feed sisseehitatud)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Alustamata",
+            "InProgress": "Töös",
+            "Completed": "Lõpetatud"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Kas olete tõeliselt kindel, et soovite kasutajate sünkroonimist uuesti proovida?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Valge nimekirja sündmuste filter",
+          "EnableEventsFilter": "Luba sündmuste filter",
+          "Radio": {
+            "Hint": "Lülituge valge nimekirja režiimi ja musta nimekirja režiimi vahel",
+            "Blacklist": "Musta nimekiri",
+            "Whitelist": "Valge nimekiri"
+          },
+          "FilterMode": {
+            "Label": "Filtri režiim",
+            "BusinessProfile": "Äriprofiil",
+            "PublishingApp": "Avaldamise rakendus",
+            "PageCollection": "Lehekogum",
+            "BusinessProfileInputLabel": "Äriprofiiid",
+            "PublishingAppInputLabel": "Avaldamise rakendused"
+          }
+        }
+      }
+    }
+  }
+}
