@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Hinzufügen oder Aktualisieren",
+          "Delete": "Löschen",
+          "AutomaticPageTranslationFinished": "VariationSeitenÜbersetzung"
+        },
+        "SortByItemDate": "Elementdatum (Feed integriert)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nicht gestartet",
+            "InProgress": "In Bearbeitung",
+            "Completed": "Abgeschlossen"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Sind Sie sich wirklich sicher, dass Sie die Benutzer erneut synchronisieren möchten?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist-Events-Filter",
+          "EnableEventsFilter": "Events-Filter aktivieren",
+          "Radio": {
+            "Hint": "Zwischen Whitelist-Modus und Blacklist-Modus wechseln",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Unternehmensprofil",
+            "PublishingApp": "Veröffentlichungs-App",
+            "PageCollection": "Seitenkollektion",
+            "BusinessProfileInputLabel": "Unternehmensprofile",
+            "PublishingAppInputLabel": "Veröffentlichungs-Apps"
+          }
+        }
+      }
+    }
+  }
+}
