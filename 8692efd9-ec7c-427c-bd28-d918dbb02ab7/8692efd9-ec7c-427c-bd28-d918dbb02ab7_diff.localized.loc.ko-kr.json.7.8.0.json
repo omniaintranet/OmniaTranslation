@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "추가 또는 업데이트",
+          "Delete": "삭제",
+          "AutomaticPageTranslationFinished": "변형 페이지 번역"
+        },
+        "SortByItemDate": "항목 날짜 (피드 내장)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "시작되지 않음",
+            "InProgress": "진행 중",
+            "Completed": "완료됨"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "정말로 사용자를 다시 동기화하려고 하시나요?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "허용 목록 이벤트 필터",
+          "EnableEventsFilter": "이벤트 필터 활성화",
+          "Radio": {
+            "Hint": "허용 목록 모드와 차단 목록 모드 간 전환",
+            "Blacklist": "차단 목록",
+            "Whitelist": "허용 목록"
+          },
+          "FilterMode": {
+            "Label": "필터 모드",
+            "BusinessProfile": "비즈니스 프로필",
+            "PublishingApp": "게시 앱",
+            "PageCollection": "페이지 모음",
+            "BusinessProfileInputLabel": "비즈니스 프로필",
+            "PublishingAppInputLabel": "게시 앱"
+          }
+        }
+      }
+    }
+  }
+}
