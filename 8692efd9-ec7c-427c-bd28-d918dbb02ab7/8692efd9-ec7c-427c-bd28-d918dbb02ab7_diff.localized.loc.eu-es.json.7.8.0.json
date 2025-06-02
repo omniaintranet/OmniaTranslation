@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Gehitu edo eguneratu",
+          "Delete": "Ezabatu",
+          "AutomaticPageTranslationFinished": "Aldaketa orriaren itzulpena"
+        },
+        "SortByItemDate": "Elementu data (Feed integratua)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Hasieratu gabe",
+            "InProgress": "Prozesuan",
+            "Completed": "Osatua"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Benetan ziur al zaude erabiltzaileak berriro sinkronizatu nahi dituzula?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Zerrenda zuriko ekitaldien iragazkia",
+          "EnableEventsFilter": "Gaitu ekitaldien iragazkia",
+          "Radio": {
+            "Hint": "Aldatu zerrenda zuriko modua eta zerrenda beltzeko modua artean",
+            "Blacklist": "Zerrenda beltza",
+            "Whitelist": "Zerrenda zuria"
+          },
+          "FilterMode": {
+            "Label": "Iragazki modua",
+            "BusinessProfile": "Enpresa profila",
+            "PublishingApp": "Argitaratze aplikazioa",
+            "PageCollection": "Orri bilduma",
+            "BusinessProfileInputLabel": "Enpresa profilak",
+            "PublishingAppInputLabel": "Argitaratze aplikazioak"
+          }
+        }
+      }
+    }
+  }
+}
