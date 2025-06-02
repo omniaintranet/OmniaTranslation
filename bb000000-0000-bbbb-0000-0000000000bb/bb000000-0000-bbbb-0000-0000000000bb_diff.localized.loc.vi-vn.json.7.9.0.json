@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "BlockGallery": {
+        "BlockDialog": {
+          "EmptyMessage": "Chưa có khối nào được thêm"
+        }
+      }
+    }
+  }
+}
