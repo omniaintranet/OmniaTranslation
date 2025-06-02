@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "MoveNode": {
-            "DuplicateWarningMessageWhenMovingAsSibling": "En nod med samma sökväg finns redan under denna föräldranod."
+            "DuplicateWarningMessageWhenMovingAsSibling": "En nod med samma sökväg finns redan under denna överordnade nod."
           },
           "PageReviewRule": {
             "Placeholders": {
