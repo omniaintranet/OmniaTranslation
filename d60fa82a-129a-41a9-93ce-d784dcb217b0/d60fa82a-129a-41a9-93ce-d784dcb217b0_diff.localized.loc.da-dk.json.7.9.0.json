@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "En node med den samme sti findes allerede under denne overordnede node."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Navn på denperson, som Emailen sendes til - {{Recipient}}<br/>Liste over sider, der kræver gennemgang - {%ListOfPages | %}<br/>Fra listen over sider, efter | og før & kan du bruge:<br/>Et link til den enkelte side - {{PageLink}}<br/>En titel på den enkelte side - {{PageTitle}}<br/>Og egenskaberne for siden:",
+              "Property": "Egenskab"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Underretninger for sider oprettet i den standard variation",
+          "Note": "Underretninger for nye sider vil altid blive sendt til variationens forfattere.",
+          "UserPropertyPickerLabel": "Modtager af underretninger om sideændringer"
+        }
+      }
+    }
+  }
+}

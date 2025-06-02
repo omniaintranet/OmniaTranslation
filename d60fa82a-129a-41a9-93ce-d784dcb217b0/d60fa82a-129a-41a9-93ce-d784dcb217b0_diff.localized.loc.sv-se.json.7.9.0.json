@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "En nod med samma sökväg finns redan under denna överordnade nod."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Namn på personen som e-postmeddelandet skickas till - {{Recipient}}<br/>Lista över sidor som kräver granskning - {%ListOfPages | %}<br/>Inom listan över sidor, efter | och före & kan du använda:<br/>En länk till den individuella sidan - {{PageLink}}<br/>En titel på den individuella sidan - {{PageTitle}}<br/>Och egenskaperna för sidan:",
+              "Property": "Egenskap"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Meddelanden för sidor skapade i standardvariationen",
+          "Note": "Meddelanden för nya sidor kommer alltid att skickas till variationsförfattarna.",
+          "UserPropertyPickerLabel": "Mottagare av meddelanden om sidredigering"
+        }
+      }
+    }
+  }
+}

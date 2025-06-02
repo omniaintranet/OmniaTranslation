@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Er bestaat al een knooppunt met hetzelfde padonder dit bovenliggende knooppunt."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Naam van de persoon naar wie de e-mail wordt verzonden - {{Recipient}}<br/>Lijst van pagina's die beoordeeld moeten worden - {%ListOfPages | %}<br/>Binnen de lijst van pagina's, na | en voor & kun je gebruiken:<br/>Een link naar de individuele pagina - {{PageLink}}<br/>Een titel van de individuele pagina - {{PageTitle}}<br/>En de eigenschappen van de pagina:",
+              "Property": "Eigenschap"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Meldingen voor pagina's die zijn gemaakt in de standaardvariatie",
+          "Note": "Meldingen voor nieuwe pagina's worden altijd verzonden naar de variatie-auteurs.",
+          "UserPropertyPickerLabel": "Ontvanger van pagina-bewerkingsmeldingen"
+        }
+      }
+    }
+  }
+}

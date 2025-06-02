@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "A node with the same path already exists under this parent node."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Name of the person the Email is sent to - {{Recipient}}<br/>List of pages that requires review - {%ListOfPages | %}<br/>From within the list of pages, after | and before & you can use:<br/>A link to the individual page - {{PageLink}}<br/>A title of the individual page - {{PageTitle}}<br/>And the properties of the page:",
+              "Property": "Property"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Notifications for pages created in the default variation",
+          "Note": "Notifications for new pages will always be sent to the variation authors.",
+          "UserPropertyPickerLabel": "Recipient of page edit notifications"
+        }
+      }
+    }
+  }
+}

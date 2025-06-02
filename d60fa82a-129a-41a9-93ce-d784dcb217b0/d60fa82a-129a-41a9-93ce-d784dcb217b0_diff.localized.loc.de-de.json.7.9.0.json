@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Ein Knoten mit demselben Pfad existiert bereits unter diesem übergeordneten Knoten."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Name der Person, an die die E-Mail gesendet wird - {{Recipient}}<br/>Liste der Seiten, die überprüft werden müssen - {%ListOfPages | %}<br/>Innerhalb der Liste der Seiten können Sie nach | und vor & verwenden:<br/>Einen Link zur einzelnen Seite- {{PageLink}}<br/>Einen Titel der einzelnen Seite - {{PageTitle}}<br/>Und die Eigenschaften der Seite:",
+              "Property": "Eigenschaft"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Benachrichtigungen für Seiten, die in der Standardvariation erstellt wurden",
+          "Note": "Benachrichtigungen für neue Seiten werden immer an die Autoren der Variation gesendet.",
+          "UserPropertyPickerLabel": "Empfänger der Benachrichtigungen zur Seitenbearbeitung"
+        }
+      }
+    }
+  }
+}

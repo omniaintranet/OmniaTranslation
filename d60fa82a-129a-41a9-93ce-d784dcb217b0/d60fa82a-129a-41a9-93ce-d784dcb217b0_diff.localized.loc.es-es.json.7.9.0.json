@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Ya existe un nodo con la misma ruta bajo estenodo padre."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Nombre de la persona a la que se envía el correo electrónico - {{Recipient}}<br/>Lista de páginas que requieren revisión - {%ListOfPages | %}<br/>Dentro de la lista de páginas, después de | y antes de & puedes usar:<br/>Un enlace a la página individual - {{PageLink}}<br/>Un título de la página individual - {{PageTitle}}<br/>Y las propiedades de la página:",
+              "Property": "Propiedad"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Notificaciones para páginas creadas en la variaciónpredeterminada",
+          "Note": "Las notificaciones para nuevas páginas siempre se enviarán a los autores de la variación.",
+          "UserPropertyPickerLabel": "Destinatariode las notificaciones de edición de páginas"
+        }
+      }
+    }
+  }
+}

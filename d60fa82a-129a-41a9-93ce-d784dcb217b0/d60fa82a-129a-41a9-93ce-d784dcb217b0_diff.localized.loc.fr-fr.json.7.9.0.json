@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Un nœud avec le même chemin existe déjà sous ce nœud parent."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Nom de lapersonne à qui l'email est envoyé - {{Recipient}}<br/>Liste des pages nécessitant une révision - {%ListOfPages | %}<br/>Dans la liste des pages, après| et avant & vous pouvez utiliser :<br/>Un lien vers la page individuelle - {{PageLink}}<br/>Un titre de la page individuelle - {{PageTitle}}<br/>Et les propriétés de la page :",
+              "Property": "Propriété"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variation": {
+        "NotifyForEdit": {
+          "SectionLabel": "Notifications pour les pages créées dans la variation pardéfaut",
+          "Note": "Les notifications pour les nouvelles pages seront toujours envoyées aux auteurs de la variation.",
+          "UserPropertyPickerLabel": "Destinataire des notifications de modification de page"
+        }
+      }
+    }
+  }
+}

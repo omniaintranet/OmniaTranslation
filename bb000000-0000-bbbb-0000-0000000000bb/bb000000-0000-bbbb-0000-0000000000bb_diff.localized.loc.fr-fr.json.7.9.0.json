@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "BlockGallery": {
+        "BlockDialog": {
+          "EmptyMessage": "Aucun bloc ajouté"
+        }
+      }
+    }
+  }
+}
