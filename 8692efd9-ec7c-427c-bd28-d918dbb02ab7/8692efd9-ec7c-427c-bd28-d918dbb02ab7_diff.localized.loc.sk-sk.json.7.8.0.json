@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Pridať alebo aktualizovať",
+          "Delete": "Odstrániť",
+          "AutomaticPageTranslationFinished": "Preklad variácie stránky"
+        },
+        "SortByItemDate": "Dátum položky (vstavaný kanál)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nenačaté",
+            "InProgress": "Prebieha",
+            "Completed": "Dokončené"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Naozaj si istý, že chceš znova skúsiť synchronizovať používateľov?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filter udalostí na bielom zozname",
+          "EnableEventsFilter": "Povoliť filter udalostí",
+          "Radio": {
+            "Hint": "Prepnúťmedzi režimom bieleho zoznamu a čierneho zoznamu",
+            "Blacklist": "Čierny zoznam",
+            "Whitelist": "Biely zoznam"
+          },
+          "FilterMode": {
+            "Label": "Režim filtra",
+            "BusinessProfile": "Obchodný profil",
+            "PublishingApp": "Publikačná aplikácia",
+            "PageCollection": "Zbierka stránok",
+            "BusinessProfileInputLabel": "Obchodné profily",
+            "PublishingAppInputLabel": "Publikačné aplikácie"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Ekle veya Güncelle",
+          "Delete": "Sil",
+          "AutomaticPageTranslationFinished": "Varyasyon Sayfası Çevirisi"
+        },
+        "SortByItemDate": "Öğe tarihi (Feed yerleşik)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Başlamadı",
+            "InProgress": "Devam ediyor",
+            "Completed": "Tamamlandı"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Kullanıcıları yeniden senkronize etmek istediğinizden gerçekten emin misiniz?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Beyaz liste etkinlik filtresi",
+          "EnableEventsFilter": "Etkinlik filtresini etkinleştir",
+          "Radio": {
+            "Hint": "Beyaz liste modu ile kara liste modu arasında geçiş yapın",
+            "Blacklist": "Kara liste",
+            "Whitelist": "Beyaz liste"
+          },
+          "FilterMode": {
+            "Label": "Filtre modu",
+            "BusinessProfile": "İş profili",
+            "PublishingApp": "Yayınlama uygulaması",
+            "PageCollection": "Sayfa koleksiyonu",
+            "BusinessProfileInputLabel": "İş profilleri",
+            "PublishingAppInputLabel": "Yayınlama uygulamaları"
+          }
+        }
+      }
+    }
+  }
+}

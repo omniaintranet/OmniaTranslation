@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Adaugă sau actualizează",
+          "Delete": "Șterge",
+          "AutomaticPageTranslationFinished": "Traducerea paginii de variație"
+        },
+        "SortByItemDate": "Data elementului (integrat în Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nu a început",
+            "InProgress": "În desfășurare",
+            "Completed": "Finalizat"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ești sigur că vrei să încerci din nou să resincronizezi utilizatorii?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtru de evenimente pe lista albă",
+          "EnableEventsFilter": "Activează filtrul de evenimente",
+          "Radio": {
+            "Hint": "Comută între modul de listă albă și modul de listă neagră",
+            "Blacklist": "Listă neagră",
+            "Whitelist": "Listă albă"
+          },
+          "FilterMode": {
+            "Label": "Mod de filtrare",
+            "BusinessProfile": "Profil de afaceri",
+            "PublishingApp": "Aplicație de publicare",
+            "PageCollection": "Colecție de pagini",
+            "BusinessProfileInputLabel": "Profiluri de afaceri",
+            "PublishingAppInputLabel": "Aplicații de publicare"
+          }
+        }
+      }
+    }
+  }
+}

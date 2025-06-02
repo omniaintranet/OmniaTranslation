@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "เพิ่มหรือปรับปรุง",
+          "Delete": "ลบ",
+          "AutomaticPageTranslationFinished": "การแปลหน้าหมายเลข"
+        },
+        "SortByItemDate": "วันที่รายการ (ฟีดในตัว)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "ยังไม่เริ่ม",
+            "InProgress": "กำลังดำเนินการ",
+            "Completed": "เสร็จสิ้น"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "คุณแน่ใจจริงๆ หรือว่าต้องการลองซิงค์ผู้ใช้อีกครั้ง?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "ฟิลเตอร์เหตุการณ์ที่อนุญาต",
+          "EnableEventsFilter": "เปิดใช้งานฟิลเตอร์เหตุการณ์",
+          "Radio": {
+            "Hint": "สลับระหว่างโหมดอนุญาตและโหมดห้าม",
+            "Blacklist": "ห้าม",
+            "Whitelist": "อนุญาต"
+          },
+          "FilterMode": {
+            "Label": "โหมดฟิลเตอร์",
+            "BusinessProfile": "โปรไฟล์ธุรกิจ",
+            "PublishingApp": "แอปพลิเคชันที่เผยแพร่",
+            "PageCollection": "การรวบรวมหน้า",
+            "BusinessProfileInputLabel": "โปรไฟล์ธุรกิจ",
+            "PublishingAppInputLabel": "แอปพลิเคชันที่เผยแพร่"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Pridėti arba atnaujinti",
+          "Delete": "Ištrinti",
+          "AutomaticPageTranslationFinished": "Variacijos puslapio vertimas"
+        },
+        "SortByItemDate": "Elemento data (įmontuotas srautas)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nepradėta",
+            "InProgress": "Vyksta",
+            "Completed": "Baigta"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ar tikrai norite bandyti dar kartą sinchronizuoti vartotojus?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Leidžiamų įvykių filtras",
+          "EnableEventsFilter": "Įjungti įvykių filtrą",
+          "Radio": {
+            "Hint": "Perjungtitarp leidžiamų ir draudžiamų režimų",
+            "Blacklist": "Draudžiamas sąrašas",
+            "Whitelist": "Leidžiamas sąrašas"
+          },
+          "FilterMode": {
+            "Label": "Filtravimo režimas",
+            "BusinessProfile": "Verslo profilis",
+            "PublishingApp": "Leidimo programa",
+            "PageCollection": "Puslapių rinkinys",
+            "BusinessProfileInputLabel": "Verslo profiliai",
+            "PublishingAppInputLabel": "Leidimo programos"
+          }
+        }
+      }
+    }
+  }
+}

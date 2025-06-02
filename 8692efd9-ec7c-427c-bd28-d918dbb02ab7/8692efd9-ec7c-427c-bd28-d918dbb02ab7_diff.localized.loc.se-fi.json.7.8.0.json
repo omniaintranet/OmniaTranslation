@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisä ja päivitä",
+          "Delete": "Poista",
+          "AutomaticPageTranslationFinished": "Muunnossivun käännös valmis"
+        },
+        "SortByItemDate": "Kohteen päivämäärä (Syötteen sisäänrakennettu)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ei aloitettu",
+            "InProgress": "Käynnissä",
+            "Completed": "Valmis"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Oletko todella varma, että haluat yrittää synkronoida käyttäjät uudelleen?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Valkoisen listan tapahtumien suodatin",
+          "EnableEventsFilter": "Ota tapahtumien suodatin käyttöön",
+          "Radio": {
+            "Hint": "Vaihda valkoisen listan ja mustan listan tilan välillä",
+            "Blacklist": "Musta lista",
+            "Whitelist": "Valkoinen lista"
+          },
+          "FilterMode": {
+            "Label": "Suodatin tila",
+            "BusinessProfile": "Liiketoimintaprofiili",
+            "PublishingApp": "Julkaisusovellus",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Liiketoimintaprofiilit",
+            "PublishingAppInputLabel": "Julkaisusovellukset"
+          }
+        }
+      }
+    }
+  }
+}

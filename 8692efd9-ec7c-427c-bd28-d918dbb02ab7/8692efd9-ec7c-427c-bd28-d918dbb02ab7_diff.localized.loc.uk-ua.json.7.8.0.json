@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Додати або оновити",
+          "Delete": "Видалити",
+          "AutomaticPageTranslationFinished": "Переклад сторінки варіації"
+        },
+        "SortByItemDate": "Дата елемента (вбудований Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Не розпочато",
+            "InProgress": "Впроцесі",
+            "Completed": "Завершено"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ви дійсно впевнені, що хочете повторно синхронізувати користувачів?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Фільтр подій у білому списку",
+          "EnableEventsFilter": "Увімкнути фільтр подій",
+          "Radio": {
+            "Hint": "Перемикайте між режимом білого списку та чорного списку",
+            "Blacklist": "Чорний список",
+            "Whitelist": "Білий список"
+          },
+          "FilterMode": {
+            "Label": "Режим фільтрації",
+            "BusinessProfile": "Бізнес-профіль",
+            "PublishingApp": "Додаток для публікації",
+            "PageCollection": "Колекція сторінок",
+            "BusinessProfileInputLabel": "Бізнес-профілі",
+            "PublishingAppInputLabel": "Додатки для публікації"
+          }
+        }
+      }
+    }
+  }
+}

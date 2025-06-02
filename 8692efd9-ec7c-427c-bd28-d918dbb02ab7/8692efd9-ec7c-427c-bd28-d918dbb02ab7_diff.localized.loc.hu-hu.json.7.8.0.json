@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Hozzáadás vagy frissítés",
+          "Delete": "Törlés",
+          "AutomaticPageTranslationFinished": "Változat oldal fordítása"
+        },
+        "SortByItemDate": "Elem dátuma (Beépített Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nem indult el",
+            "InProgress": "Folyamatban",
+            "Completed": "Befejezett"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Valóban biztos benne, hogy újra meg szeretné próbálni a felhasználók újraszinkronizálását?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Fehérlistás események szűrő",
+          "EnableEventsFilter": "Események szűrő engedélyezése",
+          "Radio": {
+            "Hint": "Váltás a fehérlista és a feketelista mód között",
+            "Blacklist": "Feketelista",
+            "Whitelist": "Fehérlista"
+          },
+          "FilterMode": {
+            "Label": "Szűrő mód",
+            "BusinessProfile": "Üzleti profil",
+            "PublishingApp": "Kiadó alkalmazás",
+            "PageCollection": "Oldalgyűjtemény",
+            "BusinessProfileInputLabel": "Üzleti profilok",
+            "PublishingAppInputLabel": "Kiadó alkalmazások"
+          }
+        }
+      }
+    }
+  }
+}

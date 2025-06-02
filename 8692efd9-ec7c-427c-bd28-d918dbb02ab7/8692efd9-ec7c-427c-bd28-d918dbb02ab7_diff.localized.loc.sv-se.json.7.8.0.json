@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lägg till eller uppdatera",
+          "Delete": "Ta bort",
+          "AutomaticPageTranslationFinished": "Översättning av varitionssida"
+        },
+        "SortByItemDate": "Objektdatum (inbyggt i Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ej påbörjad",
+            "InProgress": "Pågår",
+            "Completed": "Avslutad"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Är du verkligen säker på att du vill försöka synkronisera användare igen?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist-händelsefilter",
+          "EnableEventsFilter": "Aktivera händelsefilter",
+          "Radio": {
+            "Hint": "Växla mellan whitelist-läge och blacklist-läge",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filterläge",
+            "BusinessProfile": "Verksamhetsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
+            "PublishingAppInputLabel": "Publiceringsappar"
+          }
+        }
+      }
+    }
+  }
+}
