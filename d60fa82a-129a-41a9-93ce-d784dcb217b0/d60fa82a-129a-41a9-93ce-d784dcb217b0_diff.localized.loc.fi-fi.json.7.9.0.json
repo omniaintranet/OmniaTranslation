@@ -4,11 +4,11 @@
       "Editor": {
         "Dialogs": {
           "MoveNode": {
-            "DuplicateWarningMessageWhenMovingAsSibling": "Saman polun omaava solmu on jo olemassa tämänvanhemman solmun alla."
+            "DuplicateWarningMessageWhenMovingAsSibling": "Samalla polulla on jo solmu tämän yläsolmun alla."
           },
           "PageReviewRule": {
             "Placeholders": {
-              "PlaceholdersDescription": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkistusta - {%ListOfPages | %}<br/>Luettelosta sivuista, | ja & merkkien välissä voit käyttää:<br/>Linkki yksittäiselle sivulle - {{PageLink}}<br/>Yksittäisen sivun otsikko - {{PageTitle}}<br/>Ja sivun ominaisuudet:",
+              "PlaceholdersDescription": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkistusta - {%ListOfPages | %}<br/>Sivulistauksessa | ja & -merkkien välissä voit käyttää seuraavia:<br/>Linkki yksittäiselle sivulle - {{PageLink}}<br/>Yksittäisen sivun otsikko - {{PageTitle}}<br/>Ja sivun ominaisuudet:",
               "Property": "Ominaisuus"
             }
           }
@@ -21,7 +21,7 @@
       "Variaatio": {
         "NotifyForEdit": {
           "SectionLabel": "Ilmoitukset oletusvariantissa luoduista sivuista",
-          "Note": "Ilmoitukset uusista sivuista lähetetään aina variantin kirjoittajille.",
+          "Note": "Ilmoitukset uusista sivuista lähetetään aina variantin luojille.",
           "UserPropertyPickerLabel": "Sivun muokkausilmoitusten vastaanottaja"
         }
       }
