@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Tambah atau Kemas Kini",
+          "Delete": "Padam",
+          "AutomaticPageTranslationFinished": "TerjemahanHalamanVariasi"
+        },
+        "SortByItemDate": "Tarikh item (terbina dalam Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Belum bermula",
+            "InProgress": "Sedang berlangsung",
+            "Completed": "Selesai"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Adakah anda benar-benar pasti ingin mencuba semula untuk menyelaraskan pengguna?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Penapis acara senarai putih",
+          "EnableEventsFilter": "Aktifkan penapis acara",
+          "Radio": {
+            "Hint": "Tukar antara mod senarai putih dan mod senarai hitam",
+            "Blacklist": "Senarai hitam",
+            "Whitelist": "Senarai putih"
+          },
+          "FilterMode": {
+            "Label": "Mod penapis",
+            "BusinessProfile": "Profil perniagaan",
+            "PublishingApp": "Aplikasi penerbitan",
+            "PageCollection": "Koleksi halaman",
+            "BusinessProfileInputLabel": "Profil perniagaan",
+            "PublishingAppInputLabel": "Aplikasi penerbitan"
+          }
+        }
+      }
+    }
+  }
+}
