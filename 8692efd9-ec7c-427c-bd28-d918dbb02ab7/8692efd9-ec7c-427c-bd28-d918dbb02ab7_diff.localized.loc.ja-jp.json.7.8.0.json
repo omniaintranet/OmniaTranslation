@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "追加または更新",
+          "Delete": "削除",
+          "AutomaticPageTranslationFinished": "バリエーションページ翻訳"
+        },
+        "SortByItemDate": "アイテム日付（フィード組み込み）",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "未開始",
+            "InProgress": "進行中",
+            "Completed": "完了"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "本当にユーザーの再同期を再試行してもよろしいですか？"
+          }
+        },
+        "EventsFilter": {
+          "Title": "ホワイトリストイベントフィルター",
+          "EnableEventsFilter": "イベントフィルターを有効にする",
+          "Radio": {
+            "Hint": "ホワイトリストモードとブラックリストモードを切り替えます",
+            "Blacklist": "ブラックリスト",
+            "Whitelist": "ホワイトリスト"
+          },
+          "FilterMode": {
+            "Label": "フィルターモード",
+            "BusinessProfile": "ビジネスプロファイル",
+            "PublishingApp": "公開アプリ",
+            "PageCollection": "ページコレクション",
+            "BusinessProfileInputLabel": "ビジネスプロファイル",
+            "PublishingAppInputLabel": "公開アプリ"
+          }
+        }
+      }
+    }
+  }
+}
