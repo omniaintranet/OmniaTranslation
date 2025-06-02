@@ -3,7 +3,7 @@
     "Ux": {
       "BlockGallery": {
         "BlockDialog": {
-          "EmptyMessage": "Ei lohkoja lisätty"
+          "EmptyMessage": "Ei lisättyjä lohkoja"
         }
       }
     }
