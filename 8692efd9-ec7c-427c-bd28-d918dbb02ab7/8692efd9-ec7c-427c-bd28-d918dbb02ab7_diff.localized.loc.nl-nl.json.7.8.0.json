@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Toevoegen of bijwerken",
+          "Delete": "Verwijderen",
+          "AutomaticPageTranslationFinished": "Variatiepagina vertaling"
+        },
+        "SortByItemDate": "Itemdatum (Ingebouwde feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Niet gestart",
+            "InProgress": "Bezig",
+            "Completed": "Voltooid"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Weet je zeker dat je de gebruikers opnieuw wilt synchroniseren?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist evenementenfilter",
+          "EnableEventsFilter": "Schakel evenementenfilter in",
+          "Radio": {
+            "Hint": "Schakel tussen whitelistmodus en blacklistmodus",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedrijfsprofiel",
+            "PublishingApp": "Publicatie-app",
+            "PageCollection": "Pagina collectie",
+            "BusinessProfileInputLabel": "Bedrijfsprofielen",
+            "PublishingAppInputLabel": "Publicatie-apps"
+          }
+        }
+      }
+    }
+  }
+}
