@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Saman polun omaava solmu on jo olemassa tämänvanhemman solmun alla."
+          },
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholdersDescription": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkistusta - {%ListOfPages | %}<br/>Luettelosta sivuista, | ja & merkkien välissä voit käyttää:<br/>Linkki yksittäiselle sivulle - {{PageLink}}<br/>Yksittäisen sivun otsikko - {{PageTitle}}<br/>Ja sivun ominaisuudet:",
+              "Property": "Ominaisuus"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "Variaatio": {
+        "NotifyForEdit": {
+          "SectionLabel": "Ilmoitukset oletusvariantissa luoduista sivuista",
+          "Note": "Ilmoitukset uusista sivuista lähetetään aina variantin kirjoittajille.",
+          "UserPropertyPickerLabel": "Sivun muokkausilmoitusten vastaanottaja"
+        }
+      }
+    }
+  }
+}
