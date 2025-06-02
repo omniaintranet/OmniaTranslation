@@ -5,9 +5,9 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Lägg till eller uppdatera",
           "Delete": "Ta bort",
-          "AutomaticPageTranslationFinished": "VariationPageTranslation"
+          "AutomaticPageTranslationFinished": "Översättning av varitionssida"
         },
-        "SortByItemDate": "Objektdatum (inbyggd i Feed)",
+        "SortByItemDate": "Objektdatum (inbyggt i Feed)",
         "SignOffRequest": {
           "Progress": {
             "NotStarted": "Ej påbörjad",
@@ -30,10 +30,10 @@
           },
           "FilterMode": {
             "Label": "Filterläge",
-            "BusinessProfile": "Affärsprofil",
+            "BusinessProfile": "Verksamhetsprofil",
             "PublishingApp": "Publiceringsapp",
-            "PageCollection": "Sidasamling",
-            "BusinessProfileInputLabel": "Affärsprofiler",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
             "PublishingAppInputLabel": "Publiceringsappar"
           }
         }
