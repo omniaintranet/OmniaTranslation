@@ -1,0 +1,43 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Legg til eller oppdater",
+          "Delete": "Slett",
+          "AutomaticPageTranslationFinished": "Variasjonssideoversettelse"
+        },
+        "SortByItemDate": "Elementdato (innebygd i Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ikke startet",
+            "InProgress": "Pågår",
+            "Completed": "Fullført"
+          }
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Er du virkelig sikker på at du vil prøve å synkronisere brukere på nytt?"
+          }
+        },
+        "EventsFilter": {
+          "Title": "Hvitliste hendelsesfilter",
+          "EnableEventsFilter": "Aktiver hendelsesfilter",
+          "Radio": {
+            "Hint": "Bytt mellom hvitliste-modus og svartliste-modus",
+            "Blacklist": "Svartliste",
+            "Whitelist": "Hvitliste"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedriftsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidekolleksjon",
+            "BusinessProfileInputLabel": "Bedriftsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapper"
+          }
+        }
+      }
+    }
+  }
+}
