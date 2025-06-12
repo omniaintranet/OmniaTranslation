@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "MoveNode": {
-            "DuplicateWarningMessageWhenMovingAsSibling": "A node with the same path already exist under this parent node."
+            "DuplicateWarningMessageWhenMovingAsSibling": "A node with the same path already exists under this parent node."
           }
         }
       }
@@ -23,7 +23,7 @@
           "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you'll receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
         },
         "DialogTitle": {
-          "LeaveEvent": "Leave Event"
+          "LeaveEvent": "Leave event"
         }
       }
     }
