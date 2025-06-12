@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Un nœud avec le même chemin existe déjà sous ce nœud parent."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Quitter"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "En quittant cet événement, vous perdrez votre place. Si vous avez bloqué votre calendrier pour l'événement, vous devrez le supprimer manuellement. Êtes-vous sûr de vouloir continuer ?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "En quittant cet événement, vous recevrez une invitation Outlook mise à jour confirmant votre annulation. Êtes-vous sûr de vouloir continuer ?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Quitter l'événement"
+        }
+      }
+    }
+  }
+}
