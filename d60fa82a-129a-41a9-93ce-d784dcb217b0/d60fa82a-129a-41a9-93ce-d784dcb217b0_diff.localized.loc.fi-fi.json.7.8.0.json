@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Saman polun omaava solmu on jo olemassa tämänvanhemman solmun alla."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Lähde"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Lähdettäessä tästä tapahtumasta menetät paikkasi. Jos olet estänyt kalenterisi tapahtumalle, sinun on poistettava se manuaalisesti. Oletko varma, että haluat jatkaa?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Lähdettäessä tästä tapahtumasta saat päivitetyn Outlook-kutsun, joka vahvistaa peruutuksesi. Oletko varma, että haluat jatkaa?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Lähde tapahtumasta"
+        }
+      }
+    }
+  }
+}
