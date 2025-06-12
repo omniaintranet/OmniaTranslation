@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "New7TeamsSingleSignOnForIOS": {
+          "Title": "Teams SSO iOS:lle",
+          "Description": "Vaaditaan Omnia Teams -sovellusta varten, jotta voidaan käyttää kertakirjautumista iOS-laitteilla.",
+          "Category": "Integraatio",
+          "ConsentInformation": "Sallii Entra ID:n ottaa kirjautuneen käyttäjän Teamsista ja käyttää sitä Omniaan kirjautumiseen iOS-laitteella."
+        }
+      }
+    }
+  }
+}
