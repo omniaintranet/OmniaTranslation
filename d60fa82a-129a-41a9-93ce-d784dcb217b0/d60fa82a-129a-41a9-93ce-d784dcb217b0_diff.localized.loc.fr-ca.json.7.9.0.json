@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Les données de version de la page ont été mises à jour avec un avertissement : ",
+          "PageIsReusingContentMessage": "Cette page réutilise ducontenu.",
+          "PageNotFoundMessage": "Impossible de trouver la page avec l'Id : {0}",
+          "PageInApprovalProcessMessage": "La page avec l'Id : {0} est en processus d'approbation",
+          "PageMovedToDifferentPublishingAppMessage": "La page avec l'Id : {0} a été déplacée vers une autre application de publication.",
+          "PageMovedToDifferentCollectionMessage": "La page avec l'Id : {0} aété déplacée vers une autre collection de pages.",
+          "PageLatestVersionDataNotFoundMessage": "Les données de la dernière version de la page avec l'Id : {0} ne peuvent pas être trouvées",
+          "PageHasDifferentDraftVersionMessage": "La page avec l'Id : {0} a une version brouillon différente.",
+          "PageHasDifferentCheckedOutVersionMessage": "La page avec l'Id : {0} a une version vérifiée différente.",
+          "PageHasDifferentPublishedVersionMessage": "La page avec l'Id : {0} a une version publiée différente."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Nom de la personne à qui le courriel est envoyé - {{Recipient}}<br/>Liste des pages nécessitant une révision - {%ListOfPages | %}<br/>Dans la liste des pages, après | et avant %} vous pouvez utiliser :<br/>Un lien vers la page individuelle - {{PageLink}}<br/>Un titre de la page individuelle - {{PageTitle}}<br/>Et les propriétés de la page :"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Quitter"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "En quittant cet événement, vous perdrez votre place. Si vous avez bloqué votre calendrier pour l'événement, vous devrez le supprimer manuellement. Êtes-vous sûr de vouloir continuer ?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "En quittantcet événement, vous recevrez une invitation Outlook mise à jour confirmant votreannulation. Êtes-vous sûr de vouloir continuer ?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Quitter l'événement"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "Une nouvelle page a été publiée. {{title}}",
+              "Content": "<p>Cher {{name}}</p><p>Une nouvelle page a été publiée : <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Vous êtes un auteur de variation de :</p><p>{{variations}}</p><p>Veuillez examiner <a href={{pageUrl}}>{{title}}</a>et, si nécessaire, publier une nouvelle variation de la page.</p>"
+            },
+            "NewVersion": {
+              "Subject": "Une nouvelle version de {{title}} a été publiée",
+              "Content": "<p>Cher {{name}}</p><p>Une nouvelle version de <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> a été publiée.<p><p>Vous êtes l'auteur de variation de :<p><p>{{variations}}</p><p>Veuillez apporter les modifications nécessaires à lavariation de la page et publier une nouvelle version.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "Une nouvelle version de {{title}} a été publiée",
+            "Content": "<p>Cher {{name}}</p><p>Une nouvelle version de <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> a été publiée.<p>{%VariationList | <p>Vous êtes le {{propertyName}} de cette page pour {{variationName}}<p> %}<p>Veuillez apporter les modifications nécessaires àla variation de la page et publier une nouvelle version.</p>"
+          }
+        }
+      }
+    }
+  }
+}
