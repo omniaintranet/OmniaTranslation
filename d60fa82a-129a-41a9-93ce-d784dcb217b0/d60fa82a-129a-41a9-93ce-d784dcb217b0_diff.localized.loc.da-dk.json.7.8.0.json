@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "En node med den samme sti findes allerede under denne overordnede node."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Forlad"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Ved at forlade denne begivenhed mister du din plads. Hvis du har blokeret din kalender for begivenheden, skal du fjerne den manuelt. Er du sikker på, at du vil fortsætte?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Ved at forlade denne begivenhed vil du modtage en opdateret Outlook-invitation, der bekræfter din aflysning. Er du sikker på, at du vil fortsætte?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Forlad begivenhed"
+        }
+      }
+    }
+  }
+}
