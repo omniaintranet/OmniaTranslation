@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "A node with the same path already exist under this parent node."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Leave"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "By leaving this event, you'll lose your seat. If you've blocked your calendar for the event, you'll need to remove it manually. Are you sure you want to continue?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you'll receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Leave Event"
+        }
+      }
+    }
+  }
+}
