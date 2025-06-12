@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "En node med samme sti eksisterer allerede under denne foreldrenoden."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Forlat"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Ved å forlate dette arrangementet, mister du plassen din. Hvis du har blokkert kalenderen din for arrangementet, må du fjerne det manuelt. Er du sikker på at du vil fortsette?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Ved åforlate dette arrangementet, vil du motta en oppdatert Outlook-invitasjon som bekrefter avbestillingen din. Er du sikker på at du vil fortsette?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Forlat arrangement"
+        }
+      }
+    }
+  }
+}
