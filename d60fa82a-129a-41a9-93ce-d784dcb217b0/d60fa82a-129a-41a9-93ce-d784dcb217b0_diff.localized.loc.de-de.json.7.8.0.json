@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Ein Knoten mit demselben Pfad existiert bereits unter diesem übergeordneten Knoten."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Verlassen"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Wenn Sie dieses Ereignis verlassen, verlieren Sie Ihren Platz. Wenn Sie Ihren Kalender für das Ereignis blockiert haben, müssen Sie es manuell entfernen. Sind Sie sicher, dass Sie fortfahren möchten?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Wenn Sie dieses Ereignis verlassen, erhalten Sie eine aktualisierte Outlook-Einladung, die Ihre Stornierung bestätigt. Sind Sie sicher, dass Sie fortfahren möchten?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Ereignis verlassen"
+        }
+      }
+    }
+  }
+}

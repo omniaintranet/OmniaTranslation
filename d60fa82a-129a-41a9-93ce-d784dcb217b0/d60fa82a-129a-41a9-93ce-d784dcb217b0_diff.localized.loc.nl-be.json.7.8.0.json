@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Er bestaat al een knooppunt met hetzelfde padonder deze bovenliggende knooppunt."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Verlaten"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Door ditevenement te verlaten, verlies je je plaats. Als je je agenda voor het evenementhebt geblokkeerd, moet je dit handmatig verwijderen. Weet je zeker dat je wilt doorgaan?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Door dit evenement te verlaten, ontvang je een bijgewerkte Outlook-uitnodiging ter bevestiging van je annulering. Weet je zeker dat je wilt doorgaan?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Evenement verlaten"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "En nod med samma sökväg finns redan under denna överordnade nod."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Lämna"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Genom att lämna denna händelse förlorar du din plats. Om du har blockerat din kalender för händelsen måste du ta bort den manuellt. Är du säker på att du vill fortsätta?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Genom att lämna denna händelse får du en uppdaterad Outlook-inbjudan som bekräftar din avbokning. Är du säker på att du vill fortsätta?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Lämna händelse"
+        }
+      }
+    }
+  }
+}
