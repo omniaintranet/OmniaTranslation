@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Ya existe un nodo con la misma ruta bajo estenodo padre."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Abandonar"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Al abandonar este evento, perderás tu asiento. Si has bloqueado tu calendario para el evento, deberás eliminarlo manualmente. ¿Estás seguro de que deseas continuar?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Al abandonareste evento, recibirás una invitación actualizada de Outlook confirmando tu cancelación. ¿Estás seguro de que deseas continuar?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Abandonar evento"
+        }
+      }
+    }
+  }
+}
