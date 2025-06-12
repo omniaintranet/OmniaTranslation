@@ -8,7 +8,7 @@
           },
           "PageReviewRule": {
             "Placeholders": {
-              "PlaceholdersDescription": "Navn på denperson, som Emailen sendes til - {{Recipient}}<br/>Liste over sider, der kræver gennemgang - {%ListOfPages | %}<br/>Fra listen over sider, efter | og før & kan du bruge:<br/>Et link til den enkelte side - {{PageLink}}<br/>En titel på den enkelte side - {{PageTitle}}<br/>Og egenskaberne for siden:",
+              "PlaceholdersDescription": "Navn på den person, som emailen sendes til - {{Recipient}}<br/>Liste over sider, der kræver gennemgang - {%ListOfPages | %}<br/>Fra listen over sider, efter | og før & kan du bruge:<br/>Et link til den enkelte side - {{PageLink}}<br/>En titel på den enkelte side - {{PageTitle}}<br/>Og egenskaberne for siden:",
               "Property": "Egenskab"
             }
           }
@@ -20,7 +20,7 @@
     "PublishingApp": {
       "Variation": {
         "NotifyForEdit": {
-          "SectionLabel": "Underretninger for sider oprettet i den standard variation",
+          "SectionLabel": "Underretninger for sider oprettet i standard variation",
           "Note": "Underretninger for nye sider vil altid blive sendt til variationens forfattere.",
           "UserPropertyPickerLabel": "Modtager af underretninger om sideændringer"
         }
