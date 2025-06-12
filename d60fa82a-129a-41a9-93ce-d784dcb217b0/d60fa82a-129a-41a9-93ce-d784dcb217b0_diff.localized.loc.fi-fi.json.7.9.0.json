@@ -7,11 +7,11 @@
           "PageIsReusingContentMessage": "Tämä sivu käyttää uudelleen sisältöä.",
           "PageNotFoundMessage": "Sivua, jonka tunnus on: {0}, ei löydy",
           "PageInApprovalProcessMessage": "Sivu, jonka tunnus on: {0}, on hyväksymisprosessissa",
-          "PageMovedToDifferentPublishingAppMessage": "Sivu, jonka tunnus on: {0}, on siirtynyt toiseen julkaisuohjelmaan.",
+          "PageMovedToDifferentPublishingAppMessage": "Sivu, jonka tunnus on: {0}, on siirtynyt toiseen julkaisusovellukseen.",
           "PageMovedToDifferentCollectionMessage": "Sivu, jonka tunnus on: {0}, on siirtynyt toiseen sivukokoelmaan.",
-          "PageLatestVersionDataNotFoundMessage": "Sivun, jonka tunnus on:{0}, viimeistä version tietoa ei löydy",
+          "PageLatestVersionDataNotFoundMessage": "Sivun, jonka tunnus on: {0}, viimeisimmän version tietoa ei löydy",
           "PageHasDifferentDraftVersionMessage": "Sivulla, jonka tunnus on: {0}, on eri luonnosversio.",
-          "PageHasDifferentCheckedOutVersionMessage": "Sivulla, jonka tunnus on: {0}, on eri tarkistettu versio.",
+          "PageHasDifferentCheckedOutVersionMessage": "Sivulla, jonka tunnus on: {0}, on eri uloskirjattu versio.",
           "PageHasDifferentPublishedVersionMessage": "Sivulla, jonka tunnus on: {0}, on eri julkaistu versio."
         }
       }
@@ -21,7 +21,7 @@
         "Dialogs": {
           "PageReviewRule": {
             "Placeholders": {
-              "PlaceholderContent": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkistusta - {%ListOfPages | %}<br/>Luettelosta sivuista, | ja ennen %} voit käyttää:<br/>Linkkiä yksittäiselle sivulle - {{PageLink}}<br/>Yksittäisen sivun otsikko - {{PageTitle}}<br/>Ja sivun ominaisuuksia:"
+              "PlaceholderContent": "Henkilön nimi, jolle sähköposti lähetetään - {{Recipient}}<br/>Luettelo sivuista, jotka vaativat tarkistusta - {%ListOfPages | %}<br/>Sivulistauksessa | ja & -merkkien välissä voit käyttää seuraavia:<br/>Linkki yksittäiselle sivulle - {{PageLink}}<br/>Yksittäisen sivun otsikko - {{PageTitle}}<br/>Ja sivun ominaisuudet:"
             }
           }
         }
@@ -37,7 +37,7 @@
       },
       "EventParticipantList": {
         "Messages": {
-          "LeaveEventConfirmMessage": "Lähdettäessä tästä tapahtumasta menetät paikkasi. Jos olet estänyt kalenterisi tapahtumalle, sinun on poistettava se manuaalisesti. Oletko varma, että haluat jatkaa?",
+          "LeaveEventConfirmMessage": "Lähdettäessä tästä tapahtumasta menetät paikkasi. Jos olet lisännyt tapahtuman kalenteriisi, sinun on poistettava se manuaalisesti. Oletko varma, että haluat jatkaa?",
           "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Lähdettäessä tästä tapahtumasta saat päivitetyn Outlook-kutsun, joka vahvistaa peruutuksesi. Oletko varma, että haluat jatkaa?"
         },
         "DialogTitle": {
@@ -53,16 +53,16 @@
           "VariationAuthor": {
             "NewPage": {
               "Subject": "Uusi sivu on julkaistu. {{title}}",
-              "Content": "<p>Hyvä {{name}}</p><p>Uusi sivu on julkaistu: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Olet variaatioautori:</p><p>{{variations}}</p><p>Ole hyvä ja tarkista <a href={{pageUrl}}>{{title}}</a> ja julkaise tarvittaessa uusi variaatio sivusta.</p>"
+              "Content": "<p>Hyvä {{name}}</p><p>Uusi sivu on julkaistu: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Olet variaation omistaja:</p><p>{{variations}}</p><p>Ole hyvä ja tarkista <a href={{pageUrl}}>{{title}}</a> ja julkaise tarvittaessa uusi variaatio sivusta.</p>"
             },
             "NewVersion": {
               "Subject": "Uusi versio {{title}}:stä on julkaistu",
-              "Content": "<p>Hyvä {{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a>:stä on julkaistu.<p><p>Olet variaatioautori:<p><p>{{variations}}</p><p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+              "Content": "<p>Hyvä {{name}}</p><p>Uusi versio sivusta <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> on julkaistu.<p><p>Olet variaation omistaja:<p><p>{{variations}}</p><p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
             }
           },
           "PageProperty": {
             "Subject": "Uusi versio {{title}}:stä on julkaistu",
-            "Content": "<p>Hyvä {{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a>:stä on julkaistu.<p>{%VariationList | <p>Olet tämän sivun {{propertyName}} variaatiolle {{variationName}}<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+            "Content": "<p>Hyvä {{name}}</p><p>Uusi versio sivusta <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> on julkaistu.<p>{%VariationList | <p>Olet tämän sivun {{propertyName}} variaatiolle {{variationName}}<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
           }
         }
       }
