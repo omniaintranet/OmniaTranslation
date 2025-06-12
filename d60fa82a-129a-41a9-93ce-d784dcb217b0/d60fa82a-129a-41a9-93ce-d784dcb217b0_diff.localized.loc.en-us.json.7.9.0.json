@@ -41,7 +41,7 @@
           "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you'll receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
         },
         "DialogTitle": {
-          "LeaveEvent": "Leave Event"
+          "LeaveEvent": "Leave event"
         }
       }
     }
