@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "New7TeamsSingleSignOnForIOS": {
+          "Title": "Đăng nhập một lần Teams cho iOS",
+          "Description": "Cần thiết cho ứng dụng Omnia Teams để đăng nhập một lần trên các thiết bị iOS.",
+          "Category": "Tích hợp",
+          "ConsentInformation": "Cho phép Entra ID lấy người dùng đã đăng nhập từ Teams và sử dụng để xác thực vào Omnia khi sử dụng thiết bịiOS."
+        }
+      }
+    }
+  }
+}
