@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Page version data updated with warning: ",
+          "PageIsReusingContentMessage": "This page is reusing content.",
+          "PageNotFoundMessage": "Cannot find page with Id: {0}",
+          "PageInApprovalProcessMessage": "Page with Id: {0} is in approval process",
+          "PageMovedToDifferentPublishingAppMessage": "Page with id: {0} has movedto a different publishing app.",
+          "PageMovedToDifferentCollectionMessage": "Page with id: {0} has moved to a different page collection.",
+          "PageLatestVersionDataNotFoundMessage": "Latest version data of pagewith Id: {0} cannot be found",
+          "PageHasDifferentDraftVersionMessage": "Page with id: {0} has a different draft version.",
+          "PageHasDifferentCheckedOutVersionMessage": "Page with id: {0} has a different checked out version.",
+          "PageHasDifferentPublishedVersionMessage": "Page with id: {0} has a different published version."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Name of the person the mail is sent to - {{Recipient}}<br/>List of pages that requires review - {%ListOfPages | %}<br/>From within the list of pages, after | and before %} you can use:<br/>A link to the individual page - {{PageLink}}<br/>A title of the individual page - {{PageTitle}}<br/>And the properties of the page:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Leave"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "By leaving thisevent, you'll lose your seat. If you've blocked your calendar for the event, you'll need to remove it manually. Are you sure you want to continue?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you'll receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Leave event"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "A new page has been published. {{title}}",
+              "Content": "<p>Dear {{name}}</p><p>A new page has been published: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>You are a variation author of:</p><p>{{variations}}</p><p>Please review <a href={{pageUrl}}>{{title}}</a> and if necessary publish a new variation of the page.</p>"
+            },
+            "NewVersion": {
+              "Subject": "A new version of {{title}} has been published",
+              "Content": "<p>Dear {{name}}</p><p>A new version of <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> has been published.<p><p>You are the variation author of:<p><p>{{variations}}</p><p>Please make necessary changes to the page variation and publish a new version.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "A new version of {{title}} has been published",
+            "Content": "<p>Dear {{name}}</p><p>A newversion of <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> has been published.<p>{%VariationList | <p>You are the {{propertyName}} of this page for {{variationName}}<p> %}<p>Please make necessary changes to the page variation and publish a new version.</p>"
+          }
+        }
+      }
+    }
+  }
+}
