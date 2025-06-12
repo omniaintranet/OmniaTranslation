@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Los datos de la versión de la página se han actualizado con advertencia: ",
+          "PageIsReusingContentMessage": "Esta página está reutilizando contenido.",
+          "PageNotFoundMessage": "No se puede encontrar la página con Id: {0}",
+          "PageInApprovalProcessMessage": "La página con Id: {0} está en proceso de aprobación",
+          "PageMovedToDifferentPublishingAppMessage": "La página con id: {0} seha movido a una aplicación de publicación diferente.",
+          "PageMovedToDifferentCollectionMessage": "La página con id: {0} se hamovido a una colección de páginas diferente.",
+          "PageLatestVersionDataNotFoundMessage": "No se pueden encontrar los datos de la última versión de la página con Id: {0}",
+          "PageHasDifferentDraftVersionMessage": "La página con id: {0} tiene una versión de borrador diferente.",
+          "PageHasDifferentCheckedOutVersionMessage": "La página con id: {0} tiene una versión diferente que está revisada.",
+          "PageHasDifferentPublishedVersionMessage": "La página con id: {0} tiene una versión publicada diferente."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Nombre de la persona a la que se envía el correo - {{Recipient}}<br/>Lista de páginas que requieren revisión - {%ListOfPages | %}<br/>Dentro de la lista de páginas, después de | y antes de %} puedes usar:<br/>Un enlace a la página individual - {{PageLink}}<br/>Un título de la página individual - {{PageTitle}}<br/>Y las propiedades de la página:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Salir"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Al salir de este evento, perderás tu asiento. Si has bloqueado tu calendario para el evento,deberás eliminarlo manualmente. ¿Estás seguro de que deseas continuar?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Al salir de este evento, recibirás una invitación actualizada de Outlook confirmando tu cancelación. ¿Estás seguro de que deseas continuar?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Salir del evento"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "Se ha publicado una nueva página. {{title}}",
+              "Content": "<p>Estimado/a {{name}}</p><p>Se ha publicado una nueva página: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Eres un autor de variación de:</p><p>{{variations}}</p><p>Por favor, revisa <a href={{pageUrl}}>{{title}}</a> y, si es necesario, publica una nueva variación de la página.</p>"
+            },
+            "NewVersion": {
+              "Subject": "Se ha publicado una nueva versión de {{title}}",
+              "Content": "<p>Estimado/a {{name}}</p><p>Se ha publicado una nueva versión de <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a>.<p><p>Eres el autor de variación de:<p><p>{{variations}}</p><p>Por favor, realiza los cambios necesarios en la variación de la página y publica una nueva versión.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "Se ha publicado una nueva versión de {{title}}",
+            "Content": "<p>Estimado/a {{name}}</p><p>Se ha publicado una nueva versión de <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a>.<p>{%VariationList | <p>Eres el {{propertyName}} de esta página para {{variationName}}<p> %}<p>Por favor, realiza los cambios necesarios en la variación de la página y publica una nueva versión.</p>"
+          }
+        }
+      }
+    }
+  }
+}
