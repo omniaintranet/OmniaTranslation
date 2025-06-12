@@ -19,8 +19,8 @@
       },
       "EventParticipantList": {
         "Messages": {
-          "LeaveEventConfirmMessage": "By leaving this event, you'll lose your seat. If you've blocked your calendar for the event, you'll need to remove it manually. Are you sure you want to continue?",
-          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you'll receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
+          "LeaveEventConfirmMessage": "By leaving this event, you will lose your seat. If you have blocked your calendar for the event, you need to remove it manually. Are you sure you want to continue?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "By leaving this event, you will receive an updated Outlook invitation confirming your cancellation. Are you sure you want to continue?"
         },
         "DialogTitle": {
           "LeaveEvent": "Leave event"
