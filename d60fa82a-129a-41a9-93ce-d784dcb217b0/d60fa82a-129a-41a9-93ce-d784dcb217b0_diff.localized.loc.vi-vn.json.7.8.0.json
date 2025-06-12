@@ -1,0 +1,31 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "DuplicateWarningMessageWhenMovingAsSibling": "Một nút có cùng đường dẫn đã tồn tại dưới nútcha này."
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Rời"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Bằng cách rời khỏi sự kiện này, bạn sẽ mất chỗ ngồi của mình. Nếu bạn đã chặn lịch của mình cho sự kiện, bạn sẽ cần phải xóa nó thủ công. Bạn có chắc chắn muốn tiếp tục không?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Bằng cách rời khỏi sự kiện này, bạn sẽ nhận được một lời mời Outlook cập nhật xác nhận việc hủy của bạn. Bạn có chắc chắn muốn tiếp tục không?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Rời sự kiện"
+        }
+      }
+    }
+  }
+}
