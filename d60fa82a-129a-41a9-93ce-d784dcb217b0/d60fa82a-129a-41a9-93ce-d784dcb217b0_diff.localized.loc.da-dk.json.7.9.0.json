@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Sideversionsdata opdateret med advarsel: ",
+          "PageIsReusingContentMessage": "Denne side genbruger indhold.",
+          "PageNotFoundMessage": "Kan ikke finde side med Id: {0}",
+          "PageInApprovalProcessMessage": "Side med Id: {0} er i godkendelsesproces",
+          "PageMovedToDifferentPublishingAppMessage": "Side med id: {0}er flyttet til en anden publiceringsapp.",
+          "PageMovedToDifferentCollectionMessage": "Side med id: {0} er flyttet til en anden sidekollektion.",
+          "PageLatestVersionDataNotFoundMessage": "Seneste versionsdata for side med Id: {0} kan ikke findes",
+          "PageHasDifferentDraftVersionMessage": "Side med id: {0} har en anden kladdeversion.",
+          "PageHasDifferentCheckedOutVersionMessage": "Side med id: {0} haren anden tjekket version.",
+          "PageHasDifferentPublishedVersionMessage": "Side med id: {0} har en anden offentliggjort version."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Navn på den person, mailen sendes til - {{Recipient}}<br/>Liste over sider, der kræver gennemgang - {%ListOfPages | %}<br/>Fra listen over sider, efter | og før %} kan du bruge:<br/>Et link til den enkelte side - {{PageLink}}<br/>En titel på den enkelte side - {{PageTitle}}<br/>Og egenskaberne for siden:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Forlad"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Ved at forlade dette arrangement mister du din plads. Hvis du har blokeret din kalenderfor arrangementet, skal du fjerne det manuelt. Er du sikker på, at du vil fortsætte?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Ved at forlade dette arrangement vil du modtage en opdateret Outlook-invitation, der bekræfter din aflysning. Er du sikker på, at du vil fortsætte?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Forlad arrangement"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "En ny side er blevet offentliggjort. {{title}}",
+              "Content": "<p>Kære {{name}}</p><p>En ny side er blevet offentliggjort: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Du er variationforfatter af:</p><p>{{variations}}</p><p>Venligst gennemgå <a href={{pageUrl}}>{{title}}</a> og offentliggør om nødvendigt en ny variation af siden.</p>"
+            },
+            "NewVersion": {
+              "Subject": "En ny version af {{title}} er blevet offentliggjort",
+              "Content": "<p>Kære {{name}}</p><p>En ny version af <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> er blevet offentliggjort.<p><p>Du er variationforfatter af:<p><p>{{variations}}</p><p>Venligst foretag nødvendige ændringer til sidevariationen og offentliggør en ny version.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "En ny version af {{title}} er blevet offentliggjort",
+            "Content": "<p>Kære {{name}}</p><p>En ny version af <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> er blevet offentliggjort.<p>{%VariationList | <p>Du er {{propertyName}} for denne side for {{variationName}}<p> %}<p>Venligst foretag nødvendige ændringer til sidevariationen og offentliggør en ny version.</p>"
+          }
+        }
+      }
+    }
+  }
+}

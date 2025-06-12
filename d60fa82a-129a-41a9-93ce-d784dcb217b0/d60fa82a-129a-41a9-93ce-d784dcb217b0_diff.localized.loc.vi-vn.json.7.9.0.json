@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Dữ liệu phiên bản trang đã được cập nhật với cảnh báo: ",
+          "PageIsReusingContentMessage": "Trang này đang tái sử dụng nội dung.",
+          "PageNotFoundMessage": "Không thể tìm thấy trang với Id: {0}",
+          "PageInApprovalProcessMessage": "Trang với Id: {0} đang trong quá trình phê duyệt",
+          "PageMovedToDifferentPublishingAppMessage": "Trang với id: {0} đã chuyển đến một ứng dụng xuất bản khác.",
+          "PageMovedToDifferentCollectionMessage": "Trang với id: {0} đã chuyển đến một bộ sưu tập trang khác.",
+          "PageLatestVersionDataNotFoundMessage": "Dữ liệu phiên bản mới nhất của trang với Id: {0} không thể tìm thấy",
+          "PageHasDifferentDraftVersionMessage": "Trang với id: {0} có một phiên bản nháp khác.",
+          "PageHasDifferentCheckedOutVersionMessage": "Trang với id: {0} có mộtphiên bản đã kiểm tra khác.",
+          "PageHasDifferentPublishedVersionMessage": "Trang với id: {0} có một phiên bản đã xuất bản khác."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Tên của người nhận mail - {{Recipient}}<br/>Danh sách các trangcần xem xét - {%ListOfPages | %}<br/>Trong danh sách các trang, sau | và trước %} bạn có thể sử dụng:<br/>Một liên kết đến trang cá nhân - {{PageLink}}<br/>Mộttiêu đề của trang cá nhân - {{PageTitle}}<br/>Và các thuộc tính của trang:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Rời khỏi"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Bằng cách rời khỏi sự kiện này, bạn sẽ mất chỗ ngồi của mình. Nếu bạn đã chặn lịch của mình cho sự kiện, bạn sẽ cần phải xóa nó thủ công. Bạn có chắc chắn muốn tiếp tục không?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Bằng cách rời khỏi sự kiện này, bạn sẽ nhận được một lời mời Outlook cập nhật xác nhận việc hủy của bạn. Bạn có chắc chắn muốn tiếp tục không?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Rời khỏi sự kiện"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "Một trang mới đã được xuất bản. {{title}}",
+              "Content": "<p>Kính gửi {{name}}</p><p>Một trang mới đã được xuất bản:<a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Bạn là tác giả biến thể của:</p><p>{{variations}}</p><p>Vui lòng xem xét <a href={{pageUrl}}>{{title}}</a> và nếu cần thiết hãy xuất bản một biến thể mới của trang.</p>"
+            },
+            "NewVersion": {
+              "Subject": "Một phiên bản mới của {{title}} đã được xuất bản",
+              "Content": "<p>Kính gửi {{name}}</p><p>Một phiên bản mới của <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> đã được xuất bản.<p><p>Bạn là tác giả biến thể của:<p><p>{{variations}}</p><p>Vui lòng thực hiện các thay đổi cần thiết cho biến thể trang và xuất bản một phiên bản mới.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "Một phiên bản mới của {{title}} đã được xuất bản",
+            "Content": "<p>Kính gửi {{name}}</p><p>Một phiên bản mới của <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> đã được xuất bản.<p>{%VariationList | <p>Bạn là {{propertyName}} của trang này cho {{variationName}}<p> %}<p>Vui lòng thực hiện các thay đổi cần thiết cho biến thểtrang và xuất bản một phiên bản mới.</p>"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "New7TeamsSingleSignOnForIOS": {
+          "Title": "SSO de Teams para iOS",
+          "Description": "Requerido para la aplicación de Teams de Omnia para el inicio de sesión único en dispositivos iOS.",
+          "Category": "Integración",
+          "ConsentInformation": "Permite que Entra ID tome al usuario autenticado de Teams y lo use para autenticarse en Omnia al utilizar un dispositivo iOS."
+        }
+      }
+    }
+  }
+}

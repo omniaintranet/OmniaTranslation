@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Pagina versiegegevens bijgewerkt met waarschuwing: ",
+          "PageIsReusingContentMessage": "Deze pagina hergebruikt inhoud.",
+          "PageNotFoundMessage": "Kan pagina met Id: {0} niet vinden",
+          "PageInApprovalProcessMessage": "Pagina met Id: {0} is in goedkeuringsproces",
+          "PageMovedToDifferentPublishingAppMessage": "Pagina met id: {0} is verplaatst naar een andere publicatie-app.",
+          "PageMovedToDifferentCollectionMessage": "Pagina met id: {0} is verplaatst naar een andere pagina-collectie.",
+          "PageLatestVersionDataNotFoundMessage": "Laatste versiegegevens van pagina met Id: {0} kunnen niet worden gevonden",
+          "PageHasDifferentDraftVersionMessage": "Pagina met id: {0} heeft een andere conceptversie.",
+          "PageHasDifferentCheckedOutVersionMessage": "Pagina met id: {0} heeft een andere uitgecheckte versie.",
+          "PageHasDifferentPublishedVersionMessage": "Pagina met id: {0} heeft eenandere gepubliceerde versie."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Naam van de persoon naar wie de mail wordt verzonden - {{Recipient}}<br/>Lijst van pagina's die beoordeling vereisen - {%ListOfPages | %}<br/>Binnen de lijst van pagina's, na | en voor %} kun je gebruiken:<br/>Een link naar de individuele pagina - {{PageLink}}<br/>Een titel van de individuele pagina - {{PageTitle}}<br/>En de eigenschappen van de pagina:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Verlaten"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Door dit evenement te verlaten, verlies je je plaats. Als je je agenda voor het evenementhebt geblokkeerd, moet je dit handmatig verwijderen. Weet je zeker dat je wilt doorgaan?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Door dit evenement te verlaten, ontvang je een bijgewerkte Outlook-uitnodiging ter bevestiging van je annulering. Weet je zeker dat je wilt doorgaan?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Verlaat evenement"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "Er is een nieuwe pagina gepubliceerd. {{title}}",
+              "Content": "<p>Beste {{name}}</p><p>Er is een nieuwe pagina gepubliceerd: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Je bent een variatie auteur van:</p><p>{{variations}}</p><p>Gelieve <a href={{pageUrl}}>{{title}}</a> te beoordelen en indien nodig een nieuwe variatie van de pagina te publiceren.</p>"
+            },
+            "NewVersion": {
+              "Subject": "Er is een nieuwe versie van {{title}}gepubliceerd",
+              "Content": "<p>Beste {{name}}</p><p>Er is een nieuwe versie van <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> gepubliceerd.<p><p>Je bent de variatie auteur van:<p><p>{{variations}}</p><p>Gelieve de nodige wijzigingen aan te brengen in de pagina variatie en een nieuwe versie te publiceren.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "Er is een nieuwe versie van {{title}} gepubliceerd",
+            "Content": "<p>Beste {{name}}</p><p>Er is een nieuwe versie van <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> gepubliceerd.<p>{%VariationList | <p>Je bent de {{propertyName}} van deze pagina voor {{variationName}}<p> %}<p>Gelieve de nodige wijzigingen aan te brengen in de pagina variatie en een nieuwe versie te publiceren.</p>"
+          }
+        }
+      }
+    }
+  }
+}

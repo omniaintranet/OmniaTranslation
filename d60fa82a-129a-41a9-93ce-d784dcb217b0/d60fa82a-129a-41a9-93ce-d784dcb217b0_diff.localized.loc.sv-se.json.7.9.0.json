@@ -1,0 +1,71 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "LogMessage": {
+          "PageVersionUpdateWarningMessage": "Sidans versionsdata uppdaterad med varning: ",
+          "PageIsReusingContentMessage": "Denna sida återanvänder innehåll.",
+          "PageNotFoundMessage": "Kan inte hitta sidan med Id: {0}",
+          "PageInApprovalProcessMessage": "Sidan med Id: {0} är i godkännandeprocess",
+          "PageMovedToDifferentPublishingAppMessage": "Sidan med id: {0} har flyttats till en annan publiceringsapp.",
+          "PageMovedToDifferentCollectionMessage": "Sidan med id: {0} harflyttats till en annan sidsamling.",
+          "PageLatestVersionDataNotFoundMessage": "Senaste versionsdata för sidan med Id: {0} kan inte hittas",
+          "PageHasDifferentDraftVersionMessage": "Sidan med id: {0} har en annan utkastversion.",
+          "PageHasDifferentCheckedOutVersionMessage": "Sidan med id: {0} har en annan utcheckad version.",
+          "PageHasDifferentPublishedVersionMessage": "Sidan med id: {0} har en annan publicerad version."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "PageReviewRule": {
+            "Placeholders": {
+              "PlaceholderContent": "Namn på personen som mailet skickas till - {{Recipient}}<br/>Lista över sidor som kräver granskning - {%ListOfPages | %}<br/>Från listan över sidor, efter | och före %} kan du använda:<br/>En länk till den individuella sidan - {{PageLink}}<br/>En titel på den individuella sidan - {{PageTitle}}<br/>Och egenskaperna för sidan:"
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "ActionButtonType": {
+          "Leave": "Lämna"
+        }
+      },
+      "EventParticipantList": {
+        "Messages": {
+          "LeaveEventConfirmMessage": "Genom att lämna denna händeöse förlorar din plats. Om du har blockerat din kalender för händelsen måste du ta bort den manuellt. Är du säker på att du vill fortsätta?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Genom att lämna denna händelse får du en uppdaterad Outlook-inbjudan som bekräftar din avbokning. Är du säker på att du vill fortsätta?"
+        },
+        "DialogTitle": {
+          "LeaveEvent": "Lämna händelse"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "VariationAuthor": {
+            "NewPage": {
+              "Subject": "En ny sida har publicerats. {{title}}",
+              "Content": "<p>{{name}}</p><p>En ny sida har publicerats: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Du är en variationsförfattare av:</p><p>{{variations}}</p><p>Vänligen granska <a href={{pageUrl}}>{{title}}</a> och publicer en ny variation av sidan om det behövs.</p>"
+            },
+            "NewVersion": {
+              "Subject": "En ny version av {{title}} har publicerats",
+              "Content": "<p>{{name}}</p><p>En ny version av <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> har publicerats.<p><p>Du är variationsförfattare av:<p><p>{{variations}}</p><p>Vänligen gör nödvändiga ändringar i sidvariationen och publicera en ny version.</p>"
+            }
+          },
+          "PageProperty": {
+            "Subject": "En ny version av {{title}} har publicerats",
+            "Content": "<p>{{name}}</p><p>En ny version av <astyle='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> har publicerats.<p>{%VariationList | <p>Du är {{propertyName}} för denna sida för {{variationName}}<p> %}<p>Vänligen gör nödvändiga ändringar i sidvariationen och publicera en ny version.</p>"
+          }
+        }
+      }
+    }
+  }
+}
