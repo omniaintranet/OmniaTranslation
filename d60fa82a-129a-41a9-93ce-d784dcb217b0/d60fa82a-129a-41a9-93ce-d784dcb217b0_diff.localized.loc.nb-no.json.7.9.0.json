@@ -3,15 +3,15 @@
     "Admin": {
       "PageBulkUpdate": {
         "LogMessage": {
-          "PageVersionUpdateWarningMessage": "Sideversjonsdata oppdatert med advarsel: ",
+          "PageVersionUpdateWarningMessage": "Sideversjonens data er oppdatert med advarsel: ",
           "PageIsReusingContentMessage": "Denne siden gjenbruker innhold.",
           "PageNotFoundMessage": "Kan ikke finne siden med Id: {0}",
           "PageInApprovalProcessMessage": "Siden med Id: {0} er i godkjenningsprosess",
           "PageMovedToDifferentPublishingAppMessage": "Siden med id: {0} har flyttet til en annen publiseringsapp.",
-          "PageMovedToDifferentCollectionMessage": "Siden med id: {0} harflyttet til en annen sidekolleksjon.",
+          "PageMovedToDifferentCollectionMessage": "Siden med id: {0} harflyttet til en annen sidesamling.",
           "PageLatestVersionDataNotFoundMessage": "Nyeste versjonsdata forsiden med Id: {0} kan ikke bli funnet",
           "PageHasDifferentDraftVersionMessage": "Siden med id: {0} har en annen utkastversjon.",
-          "PageHasDifferentCheckedOutVersionMessage": "Siden med id: {0} har en annen sjekket ut versjon.",
+          "PageHasDifferentCheckedOutVersionMessage": "Siden med id: {0} har en annen version, der er sjekket ut.",
           "PageHasDifferentPublishedVersionMessage": "Siden med id: {0} har en annen publisert versjon."
         }
       }
@@ -37,8 +37,8 @@
       },
       "EventParticipantList": {
         "Messages": {
-          "LeaveEventConfirmMessage": "Ved å forlatedette arrangementet, mister du plassen din. Hvis du har blokkert kalenderen din for arrangementet, må du fjerne det manuelt. Er du sikker på at du vil fortsette?",
-          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Ved å forlate dette arrangementet, vil du motta en oppdatert Outlook-invitasjon som bekrefter avbestillingen din. Er du sikker på at du vil fortsette?"
+          "LeaveEventConfirmMessage": "Ved å forlate dette arrangementet, mister du plassen din. Hvis du har blokkert kalenderen din for arrangementet, må du fjerne det manuelt. Er du sikker på, at du vil fortsette?",
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Ved å forlate dette arrangementet, vil du motta en oppdatert Outlook-invitasjon som bekrefter avbestillingen din. Er du sikker, på at du vil fortsette?"
         },
         "DialogTitle": {
           "LeaveEvent": "Forlat arrangement"
@@ -61,7 +61,7 @@
             }
           },
           "PageProperty": {
-            "Subject": "En nyversjon av {{title}} har blitt publisert",
+            "Subject": "En ny versjon av {{title}} har blitt publisert",
             "Content": "<p>Kjære {{name}}</p><p>En ny versjon av <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> har blitt publisert.<p>{%VariationList | <p>Du er{{propertyName}} av denne siden for {{variationName}}<p> %}<p>Vennligst gjør nødvendige endringer til sidevarianten og publiser en ny versjon.</p>"
           }
         }
