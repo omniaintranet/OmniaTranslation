@@ -38,7 +38,7 @@
       "EventParticipantList": {
         "Messages": {
           "LeaveEventConfirmMessage": "Wenn Sie diese Veranstaltung verlassen, verlieren Sie Ihren Platz. Wenn Sie Ihren Kalender für die Veranstaltung blockiert haben, müssen Sie dies manuell entfernen. Sind Sie sicher, dass Sie fortfahren möchten?",
-          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Wenn Sie dieseVeranstaltung verlassen, erhalten Sie eine aktualisierte Outlook-Einladung, die Ihre Stornierung bestätigt. Sind Sie sicher, dass Sie fortfahren möchten?"
+          "LeaveEventWithAutoOutlookConnectedModeConfirmMessage": "Wenn Sie diese Veranstaltung verlassen, erhalten Sie eine aktualisierte Outlook-Einladung, die Ihre Stornierung bestätigt. Sind Sie sicher, dass Sie fortfahren möchten?"
         },
         "DialogTitle": {
           "LeaveEvent": "Veranstaltung verlassen"
@@ -53,15 +53,15 @@
           "VariationAuthor": {
             "NewPage": {
               "Subject": "Eine neue Seite wurde veröffentlicht. {{title}}",
-              "Content": "<p>Sehr geehrte/r {{name}}</p><p>Eine neueSeite wurde veröffentlicht: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Sie sind Variation-Autor von:</p><p>{{variations}}</p><p>Bitte überprüfen Sie <a href={{pageUrl}}>{{title}}</a> und veröffentlichen Sie gegebenenfalls eine neue Variation der Seite.</p>"
+              "Content": "<p>Sehr geehrte/r {{name}}</p><p>Eine neue Seite wurde veröffentlicht: <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a></p><p>Sie sind Variation-Autor von:</p><p>{{variations}}</p><p>Bitte überprüfen Sie <a href={{pageUrl}}>{{title}}</a> und veröffentlichen Sie gegebenenfalls eine neue Variation der Seite.</p>"
             },
             "NewVersion": {
               "Subject": "Eine neue Version von {{title}} wurde veröffentlicht",
-              "Content": "<p>Sehr geehrte/r {{name}}</p><p>Eineneue Version von <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> wurde veröffentlicht.<p><p>Sie sind der Variation-Autor von:<p><p>{{variations}}</p><p>Bitte nehmen Sie die notwendigen Änderungen an der Seitenvariation vor und veröffentlichen Sie eine neue Version.</p>"
+              "Content": "<p>Sehr geehrte/r {{name}}</p><p>Eine neue Version von <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> wurde veröffentlicht.<p><p>Sie sind der Variation-Autor von:<p><p>{{variations}}</p><p>Bitte nehmen Sie die notwendigen Änderungen an der Seitenvariation vor und veröffentlichen Sie eine neue Version.</p>"
             }
           },
           "PageProperty": {
-            "Subject": "Eine neue Version von {{title}} wurdeveröffentlicht",
+            "Subject": "Eine neue Version von {{title}} wurde veröffentlicht",
             "Content": "<p>Sehr geehrte/r {{name}}</p><p>Eine neue Version von <a style='color:#17bce7; text-decoration:none;' href={{pageUrl}}>{{title}}</a> wurde veröffentlicht.<p>{%VariationList | <p>Sie sind der {{propertyName}} dieser Seite für {{variationName}}<p> %}<p>Bitte nehmen Sie die notwendigen Änderungen an der Seitenvariation vor und veröffentlichen Sie eine neue Version.</p>"
           }
         }
