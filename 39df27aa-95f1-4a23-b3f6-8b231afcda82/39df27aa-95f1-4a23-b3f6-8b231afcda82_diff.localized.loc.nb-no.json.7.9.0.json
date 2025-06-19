@@ -4,7 +4,7 @@
       "Features": {
         "New7TeamsSingleSignOnForIOS": {
           "Title": "Teams SSO for iOS",
-          "Description": "Kreves for Omnia Teams-appen for enkel pålogging på iOS-enheter.",
+          "Description": "Kreves for at aktivere single-sign on i Omnia Teams-appen på iOS-enheter.",
           "Category": "Integrasjon",
           "ConsentInformation": "Lar Entra ID ta deninnloggede brukeren fra Teams og bruke den til å autentisere i Omnia når du bruker en iOS-enhet."
         }
