@@ -3,7 +3,7 @@
     "Admin": {
       "PageBulkUpdate": {
         "LogMessage": {
-          "PageVersionUpdateWarningMessage": "Sideversionsdata opdateret med advarsel: ",
+          "PageVersionUpdateWarningMessage": "Sideversionens data er opdateret med en advarsel: ",
           "PageIsReusingContentMessage": "Denne side genbruger indhold.",
           "PageNotFoundMessage": "Kan ikke finde side med Id: {0}",
           "PageInApprovalProcessMessage": "Side med Id: {0} er i godkendelsesproces",
@@ -11,7 +11,7 @@
           "PageMovedToDifferentCollectionMessage": "Side med id: {0} er flyttet til en anden sidekollektion.",
           "PageLatestVersionDataNotFoundMessage": "Seneste versionsdata for side med Id: {0} kan ikke findes",
           "PageHasDifferentDraftVersionMessage": "Side med id: {0} har en anden kladdeversion.",
-          "PageHasDifferentCheckedOutVersionMessage": "Side med id: {0} haren anden tjekket version.",
+          "PageHasDifferentCheckedOutVersionMessage": "Side med id: {0} har en anden tjekket version.",
           "PageHasDifferentPublishedVersionMessage": "Side med id: {0} har en anden offentliggjort version."
         }
       }
