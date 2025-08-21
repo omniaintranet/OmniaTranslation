@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Statistics export",
+          "ButtonType": {
+            "Title": "Button type",
+            "SearchStatistics": {
+              "Title": "Search statistics",
+              "Scope": {
+                "Title": "Scope",
+                "BusinessProfile": "Business profile"
+              },
+              "DaysToLookBack": {
+                "Title": "Days to look back"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Download file",
+                "Exporting": "Generating export file...",
+                "Failed": "Failed"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "List rollup",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "Base query URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Default",
+      "DefaultProvider": {
+        "SenderName": "Sender name",
+        "EmailName": "Email name",
+        "DefaultValueIfEmpty": "Default value if empty"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Sender name",
+        "EmailAddress": "Email address",
+        "APIKey": "API key"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigation"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "List rollup",
+      "BlockDescription": "Possibility to roll up list items with different views, filters and refiners.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Display",
+          "Filter": "Filter",
+          "General": "General",
+          "Query": "Query",
+          "Export": "Export"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Fixed value",
+          "CurrentPage": "Current page",
+          "User": "User"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manual",
+          "QueryParameter": "Query parameter",
+          "UserLanguage": "User language",
+          "UserEmail": "User email",
+          "CurrentUserName": "Current user name",
+          "CurrentUserId": "Current user ID",
+          "CurrentUserEmail": "Current user email",
+          "Today": "Today",
+          "CustomDate": "Customdate"
+        },
+        "Operators": {
+          "Equals": "Equals",
+          "StartWith": "Starts with",
+          "Contains": "Contains",
+          "LessThan": "Less than",
+          "GreaterThan": "Greater than"
+        },
+        "IncludeChildTerms": "Include child terms",
+        "IncludeEmpty": "Include empty",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Use query builder",
+          "PickSingleList": "Pick single list"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint columns",
+            "Title": "SharePoint column",
+            "Sort": "Sort"
+          },
+          "Views": {
+            "QueryViews": "SharePoint views",
+            "Title": "SharePoint view"
+          }
+        },
+        "Done": "Done",
+        "View": "View",
+        "PageSize": "Page size",
+        "ItemLimit": "Item limit",
+        "NoResultText": "No result text",
+        "Paging": "Paging",
+        "PagingType": {
+          "NoPaging": "No paging",
+          "Classic": "Classic",
+          "Scroll": "Scroll"
+        },
+        "SortBy": "Sort by",
+        "FirstSortBy": "First sort by",
+        "ThenSortBy": "Then sort by",
+        "SortDirection": "Sort direction",
+        "SortBys": {
+          "Ascending": "Ascending",
+          "Descending": "Descending"
+        },
+        "SiteUrl": "Site URL",
+        "ShowExportToExcel": "Show Export to Excel"
+      },
+      "ListView": {
+        "FileName": "Name",
+        "EditIcon": "Info icon",
+        "IconTitleLink": "Icon, title and link",
+        "Title": "Title",
+        "DateTimeMode": {
+          "Normal": "Classic",
+          "Social": "Social"
+        },
+        "WidthPlaceholder": "Width",
+        "ShowHeading": "Show heading",
+        "AddColumn": "Add column",
+        "AddSharepointColumn": "Add SharePoint column",
+        "AdjustColumns": "Adjust columns",
+        "AddSort": "Add sort"
+      },
+      "Common": {
+        "QueryFailedMsg": "The query failed"
+      },
+      "Exporting": {
+        "ExportToExcel": "Export to Excel",
+        "FileExporting": "Generating Excel file...",
+        "ErrorWhenFileExporting": "Error when exporting file",
+        "NotSupportExportMessage": "Export not supported for Query mode: Pick single list"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "No results found for\"{0}\"",
+        "AdjustYourFilter": "Adjust your filter and try again"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint site search template"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint list itemsearch template",
+          "Created": "created",
+          "Modified": "modified"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Export last 30 days"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Activate accessibility features",
+      "DeactivateAccessibilityFeatures": "Deactivate accessibility features"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Team provision template"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Pick in Write mode"
+        }
+      },
+      "PickUser": "Pick user"
+    }
+  }
+}
