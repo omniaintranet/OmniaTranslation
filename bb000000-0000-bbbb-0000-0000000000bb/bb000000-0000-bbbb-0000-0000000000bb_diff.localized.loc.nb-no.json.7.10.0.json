@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Dato- og tidsvelger",
+          "TagsFieldPicker": "Tagger-velger",
+          "BooleanFieldPicker": "Boolean-velger",
+          "TextFieldPicker": "Tekstinnputt",
+          "RichTextFieldPicker": "Rik tekstinnputt",
+          "NumberFieldPicker": "Tallinnputt"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "For å legge til ekstra egenskaper, vennligst aktiver Entra ID ekstra bruker-egenskaper funksjonen."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Personer-velger",
+        "SelectedUser": "Valgt"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Valgt"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integrasjon",
+          "Description": "Denne funksjonen lar Omnia lese alle egenskaper på alle brukere fra Entra ID.",
+          "Title": "Entra ID ekstra bruker-egenskaper",
+          "ConsentInformation": "Lesing av alle brukeres fullstendige profiler krever tillatelse for å lese alle egenskaper for brukere fra Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Lenkeknapper"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Tillat flere valg"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Overskriftsnivå"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Å filtrering",
+        "AZText": "A - Å"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taksonomi-velger",
+      "EnterprisePickerDescription": "Bedriftsegenskaper-velger"
+    }
+  }
+}
