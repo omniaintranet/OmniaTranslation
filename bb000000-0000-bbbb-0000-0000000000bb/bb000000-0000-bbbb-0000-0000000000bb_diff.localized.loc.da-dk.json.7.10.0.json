@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Dato- og tidsvælger",
+          "TagsFieldPicker": "Tagsvælger",
+          "BooleanFieldPicker": "Booleanvælger",
+          "TextFieldPicker": "Tekstinput",
+          "RichTextFieldPicker": "Rich text input",
+          "NumberFieldPicker": "Nummerinput"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "For at tilføje ekstra egenskaber, aktiver venligst Entra ID-funktionen til ekstra brugeregenskaber."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Personvælger",
+        "SelectedUser": "Valgt"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Valgt"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integration",
+          "Description": "Denne funktion gør det muligt for Omnia at læse alle egenskaber på alle brugere fra Entra ID.",
+          "Title": "Entra ID ekstra brugeregenskaber",
+          "ConsentInformation": "Tilladelsetil at læse alle brugeres fulde profiler er påkrævet for at læse alle egenskaberfor brugere fra Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Linkknapper"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Tillad flere valg"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Overskriftsniveau"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z filtrering",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taksonomivælger",
+      "EnterprisePickerDescription": "Virksomhedsejendomsvælger"
+    }
+  }
+}
