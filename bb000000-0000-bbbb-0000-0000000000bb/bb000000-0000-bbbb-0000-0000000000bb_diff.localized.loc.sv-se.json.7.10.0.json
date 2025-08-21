@@ -3,11 +3,11 @@
     "Ux": {
       "EnterprisePropertiesPicker": {
         "Picker": {
-          "DateTimeFieldPicker": "Datum- och tidsväljare",
+          "DateTimeFieldPicker": "Datum- och tidväljare",
           "TagsFieldPicker": "Taggväljare",
           "BooleanFieldPicker": "Boolean-väljare",
           "TextFieldPicker": "Textinmatning",
-          "RichTextFieldPicker": "Rik textinmatning",
+          "RichTextFieldPicker": "RTF-textinmatning",
           "NumberFieldPicker": "Nummerinmatning"
         }
       },
@@ -26,7 +26,7 @@
       "Features": {
         "ExtraIDAdditionalUserProperties": {
           "Category": "Integration",
-          "Description": "Denna funktion gör det möjligt förOmnia att läsa alla egenskaper för alla användare från Entra ID.",
+          "Description": "Denna funktion gör det möjligt för Omnia att läsa alla egenskaper för alla användare från Entra ID.",
           "Title": "Ytterligare användaregenskaper i Entra ID",
           "ConsentInformation": "Behörighet att läsa alla användares fullständiga profiler krävs för att läsa alla egenskaper för användare från Entra ID."
         }
@@ -51,13 +51,13 @@
         }
       },
       "QueryableProperties": {
-        "AZFiltering": "A - Ö filtrering",
+        "AZFiltering": "Filtrering A - Ö",
         "AZText": "A - Ö"
       }
     },
     "TermPicker": {
       "TaxonomyPickerDescription": "Taxonomiväljare",
-      "EnterprisePickerDescription": "Väljare för företagsegenskaper"
+      "EnterprisePickerDescription": "Väljare för verksamhetsegenskaper"
     }
   }
 }
