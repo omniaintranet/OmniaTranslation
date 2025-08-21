@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Afficher le résultat pour la valeur"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Texte"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Lien durable pour document",
+          "Category": "Système",
+          "Description": "Active les liens durables pour lesdocuments Office.",
+          "ConsentInformation": "Utilisé pour lire des fichiers."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Type",
+            "Publish": "Publier",
+            "Deletion": "Suppression"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "La suppression de cette page nécessite une approbation. Veuillez choisir un approbateur ci-dessous pour envoyer votre demande."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Auteur en mode mise à jour uniquement"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Approbation de la suppression"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Activer le vérificateur de page"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "L'action ne peut pas être poursuivie car cette page a déjà fait partie d'un flux d'approbation."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Êtes-vous sûr de vouloir supprimer le texte?",
+            "Title": "Supprimer le texte"
+          },
+          "CreateNewText": {
+            "Title": "Créer un nouveau texte"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Cibler le canal à des éditeurs spécifiques"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Ajouter un lien"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Nom d'utilisateur"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Changer le type de lien",
+        "DeletionApproval": "Approuver la suppression",
+        "CancelDeletionApproval": "Annuler la suppression"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Statut d'approbation de la suppression mis à jour pour la page {{PageTitle}}",
+            "Content": "Cher {{Recipient}},<br/><br/>Vous avez été assigné à une tâche pour compléter l'étape {{CurrentStep}} pour la page <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Étape précédente : {{SentFromStep}}<br/>Envoyé par : {{SentFromUser}}<br/>Commentaire : {{SentFromComment}}<br/><br/>Historique du flux de travail<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Statut d'approbation mis à jour pour la page {{PageTitle}}",
+            "Content": "Cher {{Recipient}},<br/><br/>Le statut du flux de travail pour l'approbation de la suppression de la page <a href={{PageLink}}>{{PageTitle}}</a> a changé.<br/><br/>Étape actuelle : {{CurrentStep}}<br/><br/>Historique du flux detravail<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Approbation de la suppression terminée pour {{PageTitle}}",
+            "Content": "Cher {{Recipient}},<br/><br/>L'approbation de la suppression de la page <a href={{PageLink}}>{{PageTitle}}</a> est terminée et la page a été supprimée.<br/><br/>Historique du flux de travail<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Approbationde la suppression rejetée pour la page {{PageTitle}}",
+            "Content": "Cher {{Recipient}},<br/><br/>L'approbation de la suppression de la page <a href={{PageLink}}>{{PageTitle}}</a> a été rejetée par {{SentFromUser}} avec le commentaire suivant :<br/><br/>{{SentFromComment}}<br/><br/>Historique du flux de travail<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Approbationde la suppression annulée pour la page {{PageTitle}}",
+            "Content": "Cher {{Recipient}},<br/><br/>L'approbation de la suppression de la page <a href={{PageLink}}>{{PageTitle}}</a> a été annulée par {{SentFromUser}}"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Cher{{name}}</p><p>Une nouvelle version de <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> a été publiée.<p>{%VariationList | <p>Vous êtes le {{propertyName}} de cette page pour{{variationName}}<p> %}<p>Veuillez apporter les modifications nécessaires à la variation de la page et publier une nouvelle version.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "Segment d'URL"
+      },
+      "TextSettings": {
+        "UrlSegment": "Segment d'URL",
+        "Title": "Titre"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Activer le bouton de vue dans la boîte de dialogue"
+      }
+    }
+  }
+}
