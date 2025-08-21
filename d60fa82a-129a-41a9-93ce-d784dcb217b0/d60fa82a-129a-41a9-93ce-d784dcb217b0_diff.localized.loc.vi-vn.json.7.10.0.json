@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Hiển thị kết quả cho giá trị"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Văn bản"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Liên kết tài liệu bền vững",
+          "Category": "Hệ thống",
+          "Description": "Kích hoạt các liên kết bền vững cho tài liệu văn phòng.",
+          "ConsentInformation": "Được sử dụng để đọc tệp."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Loại",
+            "Publish": "Xuất bản",
+            "Deletion": "Xóa"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "Việcxóa trang này yêu cầu phê duyệt. Vui lòng chọn một người phê duyệt bên dưới để gửi yêu cầu của bạn."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Tác giả chỉ cập nhật"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Phê duyệt xóa"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Kích hoạt trình kiểm tra trang"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "Hành động không thể tiếp tục vì trang này đã là một phần của quy trình phê duyệt."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Bạn có chắc chắn muốn xóa văn bản này không?",
+            "Title": "Xóa văn bản"
+          },
+          "CreateNewText": {
+            "Title": "Tạo văn bản mới"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Nhắm mục tiêu kênh đến các biên tập viên cụ thể"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Thêm liên kết"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Tên đăng nhập"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Thay đổi loại liên kết",
+        "DeletionApproval": "Phê duyệt xóa",
+        "CancelDeletionApproval": "Hủy phê duyệt xóa"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Cập nhật trạng thái phê duyệt xóa cho trang {{PageTitle}}",
+            "Content": "Kính gửi {{Recipient}},<br/><br/>Bạn đã được giao nhiệm vụ hoàn thành bước {{CurrentStep}} cho trang <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Bước trước: {{SentFromStep}}<br/>Gửi từ: {{SentFromUser}}<br/>Nhận xét: {{SentFromComment}}<br/><br/>Lịch sử quy trình<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Cập nhật trạng thái phê duyệt cho trang {{PageTitle}}",
+            "Content": "Kính gửi {{Recipient}},<br/><br/>Trạng thái quy trình cho phê duyệt xóa của trang <a href={{PageLink}}>{{PageTitle}}</a> đã thay đổi.<br/><br/>Bước hiện tại: {{CurrentStep}}<br/><br/>Lịch sử quy trình<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Phê duyệt xóa hoàn tất cho {{PageTitle}}",
+            "Content": "Kính gửi {{Recipient}},<br/><br/>Phê duyệt xóa của trang <a href={{PageLink}}>{{PageTitle}}</a> đã hoàn tất và trang đã bị xóa.<br/><br/>Lịch sử quy trình<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Phê duyệt xóabị từ chối cho trang {{PageTitle}}",
+            "Content": "Kính gửi {{Recipient}},<br/><br/>Phê duyệt xóa của trang <a href={{PageLink}}>{{PageTitle}}</a> đã bị {{SentFromUser}} từ chối với nhận xét sau:<br/><br/>{{SentFromComment}}<br/><br/>Lịch sử quy trình<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Phê duyệt xóabị hủy cho trang {{PageTitle}}",
+            "Content": "Kính gửi {{Recipient}},<br/><br/>Phê duyệt xóa của trang <a href={{PageLink}}>{{PageTitle}}</a> đã bị {{SentFromUser}} hủy"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Kính gửi {{name}}</p><p>Một phiên bản mới của <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> đã được xuất bản.<p>{%VariationList | <p>Bạn là {{propertyName}} của trang này cho {{variationName}}<p> %}<p>Vui lòng thực hiện các thay đổi cần thiết cho biến thểtrang và xuất bản một phiên bản mới.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "Phân đoạn URL"
+      },
+      "TextSettings": {
+        "UrlSegment": "Phân đoạn URL",
+        "Title": "Tiêu đề"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Kích hoạt nút xem trên hộp thoại"
+      }
+    }
+  }
+}
