@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Deletion of this page requires approval. Please choose an approver below to send your request."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Update-onlyauthor"
+          "UpdateOnlyAuthorRole": "Update-only author"
         },
         "Panels": {
           "Approval": {
@@ -50,7 +50,7 @@
           },
           "DeleteText": {
             "ConfirmationMessage": "Are you sure you want to delete the text?",
-            "Title": "Delete Text"
+            "Title": "Delete text"
           },
           "CreateNewText": {
             "Title": "Create new text"
@@ -86,12 +86,12 @@
             "Content": "Dear{{Recipient}},<br/><br/>You have been assigned a task to complete the {{CurrentStep}} step for the page <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Previous step: {{SentFromStep}}<br/>Sent from: {{SentFromUser}}<br/>Comment: {{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
-            "Subject": "Approval statusupdated for page {{PageTitle}}",
+            "Subject": "Approval status updated for page {{PageTitle}}",
             "Content": "Dear {{Recipient}},<br/><br/>The workflow status for the deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> has changed.<br/><br/>Current step: {{CurrentStep}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCompleted": {
             "Subject": "Deletion approval complete for {{PageTitle}}",
-            "Content": "Dear {{Recipient}},<br/><br/>Thedeletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete andthe page has been deleted.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been deleted.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
             "Subject": "Deletion approval rejected for page {{PageTitle}}",
