@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Cho phép xuất bảntheo lịch",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Thuộc tính lịch",
+        "ApprovalReminderPeriod": "Thời gian nhắc nhở phê duyệt"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Xuất bản theo lịch"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Quy trình xuất bản theo lịch đã hoàn thành.",
+        "CancelledScheduleWorkflow": "Quy trình xuất bản theo lịch đã bị hủy bởi ",
+        "FailedScheduleWorkflow": "Quy trình xuất bản theo lịch đã thất bại."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Thuộc tính này được sử dụng cho xuất bản theo lịch"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Mở trong ứng dụng khách",
+          "OpenInWeb": "Mở trong trình duyệt",
+          "OpenInWebNewTab": "Mở trong trình duyệt (tab mới)",
+          "Download": "Tải xuống"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Thuộc tính này được sử dụng cho xuất bản theo lịch"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Nhắc nhởphê duyệt lịch: {{DocumentTitle}}",
+          "BodyTemplate": "Kính gửi {{Recipient}}, <br/><br/>Đây là Email nhắc nhở phê duyệt lịch được gửi từ hệ thống quản lý tài liệu.<br/><br/>Tài liệu: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Trang nhóm: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Nhiệm vụ: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Ngày xuất bản theo lịch: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Ngày xuất bản theo lịch"
+      },
+      "DocumentActions": {
+        "Schedule": "Lên lịch"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Đã lên lịch xuất bản",
+        "FailedScheduleForPublishing": "Lên lịch xuất bản thất bại"
+      },
+      "Schedule": {
+        "CancelSchedule": "Hủy quy trình lịch",
+        "MessageCancelSchedule": "Bạn có chắc chắn muốn hủy quy trình này không?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Chọn tài liệu",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Chọn trong chế độ viết"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Chọn quy trình"
+    }
+  }
+}
