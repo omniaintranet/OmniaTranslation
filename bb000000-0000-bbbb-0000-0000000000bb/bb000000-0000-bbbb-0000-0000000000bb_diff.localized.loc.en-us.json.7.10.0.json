@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "DateTime Picker",
+          "TagsFieldPicker": "Tags Picker",
+          "BooleanFieldPicker": "Boolean Selector",
+          "TextFieldPicker": "Text Input",
+          "RichTextFieldPicker": "Rich Text Input",
+          "NumberFieldPicker": "Number Input"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the EntraID additional user properties feature."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "People Picker",
+        "SelectedUser": "Selected"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Selected"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integration",
+          "Description": "This feature allows Omnia to read all properties on all users from Entra ID.",
+          "Title": "EntraID additional user properties",
+          "ConsentInformation": "Read all users full profiles is required to read all properties on users from Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Link buttons"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Allow multiple selections"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Header level"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z Filtering",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taxonomy Picker",
+      "EnterprisePickerDescription": "Enterprise Properties Picker"
+    }
+  }
+}
