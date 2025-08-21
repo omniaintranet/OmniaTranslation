@@ -91,7 +91,7 @@
           },
           "MailApprovalCompleted": {
             "Subject": "Deletion approval complete for {{PageTitle}}",
-            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been published.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been deleted.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
             "Subject": "Deletion approval rejected for page {{PageTitle}}",
