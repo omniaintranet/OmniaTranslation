@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Päivämäärä- ja aikavalitsin",
+          "TagsFieldPicker": "Tunnistevalitsin",
+          "BooleanFieldPicker": "Boolean-valitsin",
+          "TextFieldPicker": "Tekstikenttä",
+          "RichTextFieldPicker": "Rikkaan tekstin syöttö",
+          "NumberFieldPicker": "Numerosyöttö"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Lisäominaisuuksien lisäämiseksi aktivoi Entra ID:n lisäkäyttäjäominaisuudet."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Henkilövalitsin",
+        "SelectedUser": "Valittu"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Valittu"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integraatio",
+          "Description": "Tämäominaisuus mahdollistaa Omnian lukea kaikki ominaisuudet kaikilta käyttäjiltä Entra ID:stä.",
+          "Title": "Entra ID:n lisäkäyttäjäominaisuudet",
+          "ConsentInformation": "Kaikkien käyttäjien täydellistenprofiilien lukeminen vaatii luvan kaikkien ominaisuuksien lukemiseen Entra ID:stä."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Linkkivaihtoehdot"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Salli useat valinnat"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Otsikkotaso"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z suodatus",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taksonomian valitsin",
+      "EnterprisePickerDescription": "Liiketoimintaprofiilin valitsin"
+    }
+  }
+}
