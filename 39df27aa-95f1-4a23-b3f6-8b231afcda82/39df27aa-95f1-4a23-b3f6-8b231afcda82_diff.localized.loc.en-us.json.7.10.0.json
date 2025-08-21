@@ -81,7 +81,7 @@
           "CurrentUserId": "Current user id",
           "CurrentUserEmail": "Current user Email",
           "Today": "Today",
-          "CustomDate": "Customdate"
+          "CustomDate": "Custom date"
         },
         "Operators": {
           "Equals": "Equals",
