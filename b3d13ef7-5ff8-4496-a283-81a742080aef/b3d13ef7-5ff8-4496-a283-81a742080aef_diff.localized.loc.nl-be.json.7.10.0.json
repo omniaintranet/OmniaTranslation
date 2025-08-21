@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Sta geplande publicatie toe",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Schema-eigenschap",
+        "ApprovalReminderPeriod": "Herinneringsperiode voor goedkeuring"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Geplande publicatie"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "De workflow voor geplande publicatie is voltooid.",
+        "CancelledScheduleWorkflow": "De workflow voor geplande publicatie is geannuleerd door ",
+        "FailedScheduleWorkflow": "De workflow voor geplande publicatie is mislukt."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Deze eigenschap wordt gebruikt voor geplande publicatie"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Open in client-app",
+          "OpenInWeb": "Open in browser",
+          "OpenInWebNewTab": "Open in browser (nieuwe tab)",
+          "Download": "Download"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Deze eigenschap wordt gebruikt voor geplande publicatie"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Herinnering goedkeuring schema: {{DocumentTitle}}",
+          "BodyTemplate": "Beste {{Recipient}}, <br/><br/>Dit is een herinneringsmail voor goedkeuring van het schema, verzonden vanuit het documentbeheersysteem.<br/><br/>Document: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Taak: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Geplande publicatiedatum: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Geplande publicatiedatum"
+      },
+      "DocumentActions": {
+        "Schedule": "Schema"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Gepland voor publicatie",
+        "FailedScheduleForPublishing": "Schema voor publicatie mislukt"
+      },
+      "Schedule": {
+        "CancelSchedule": "Annuleer schemaworkflow",
+        "MessageCancelSchedule": "Weet je zeker dat je deze workflow wiltannuleren?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Kies document",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Kies in schrijfmodus"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Proceskiezer"
+    }
+  }
+}
