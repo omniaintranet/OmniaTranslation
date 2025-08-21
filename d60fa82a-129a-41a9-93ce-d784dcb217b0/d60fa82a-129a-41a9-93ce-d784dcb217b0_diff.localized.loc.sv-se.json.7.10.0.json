@@ -13,9 +13,9 @@
       },
       "Features": {
         "DocumentDurableLink": {
-          "Title": "Hållbar länk för dokument",
+          "Title": "Beständig länk för dokument",
           "Category": "System",
-          "Description": "Aktiverar hållbara länkar för kontorsdokument.",
+          "Description": "Aktiverar beständiga länkar för kontorsdokument.",
           "ConsentInformation": "Används för att läsa filer."
         }
       }
@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Borttagning av denna sida kräver godkännande. Vänligen välj en godkännare nedan för att skicka din begäran."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Endast uppdateringsförfattare"
+          "UpdateOnlyAuthorRole": "Författare - endast uppdatering"
         },
         "Panels": {
           "Approval": {
@@ -46,14 +46,14 @@
         },
         "Dialogs": {
           "ArchivePageType": {
-            "NotAllowedByHavingApproval": "Åtgärden kan inte fortsätta eftersom denna sida redan har varit en del av ett godkännande flöde."
+            "NotAllowedByHavingApproval": "Åtgärden kan inte fortsätta eftersom denna sida redan har varit en del av ett godkännandeflöde."
           },
           "DeleteText": {
             "ConfirmationMessage": "Är du säker på att du vill ta bort texten?",
             "Title": "Ta bort text"
           },
           "CreateNewText": {
-            "Title": "Skapa nytext"
+            "Title": "Skapa ny text"
           }
         }
       }
@@ -77,29 +77,29 @@
       "ActionButtons": {
         "ChangeLinkType": "Ändra länktyp",
         "DeletionApproval": "Godkänn borttagning",
-        "CancelDeletionApproval": "Avbryt borttagningsgodkännande"
+        "CancelDeletionApproval": "Avbryt godkännande av borttagning"
       },
       "EmailTemplates": {
         "DeletionApproval": {
           "MailApprovalStepAssigned": {
-            "Subject": "Status för borttagningsgodkännande uppdaterad för sidan {{PageTitle}}",
-            "Content": "Kära {{Recipient}},<br/><br/>Du har tilldelats en uppgift att slutföra {{CurrentStep}} steget för sidan <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Föregående steg: {{SentFromStep}}<br/>Skickat från: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+            "Subject": "Status för godkänande av borttagning uppdaterad för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Du har tilldelats en uppgift att slutföra {{CurrentStep}} steget för sidan <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Föregående steg: {{SentFromStep}}<br/>Skickat från: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
             "Subject": "Godkännandestatus uppdaterad för sidan {{PageTitle}}",
-            "Content": "Kära {{Recipient}},<br/><br/>Arbetsflödesstatusen för borttagningsgodkännandet av sidan <a href={{PageLink}}>{{PageTitle}}</a> har ändrats.<br/><br/>Aktuellt steg: {{CurrentStep}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+            "Content": "Hej {{Recipient}},<br/><br/>Status för arbetsflödet för godkännande av borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har ändrats.<br/><br/>Aktuellt steg: {{CurrentStep}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCompleted": {
-            "Subject": "Borttagningsgodkännande slutfört för {{PageTitle}}",
-            "Content": "Kära {{Recipient}},<br/><br/>Borttagningsgodkännandet av sidan <a href={{PageLink}}>{{PageTitle}}</a> är slutfört och sidan har tagitsbort.<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+            "Subject": "Godkännande av borttagning slutfört för {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande för borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> är slutfört och sidan har tagits bort.<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
-            "Subject": "Borttagningsgodkännande avvisat för sidan {{PageTitle}}",
-            "Content": "Kära {{Recipient}},<br/><br/>Borttagningsgodkännandet av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avvisats av {{SentFromUser}}med följande kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+            "Subject": "Godkännande för borttagning avvisat för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande dör borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avvisats av {{SentFromUser}}med följande kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCanceled": {
-            "Subject": "Borttagningsgodkännande avbrutet för sidan {{PageTitle}}",
-            "Content": "Kära {{Recipient}},<br/><br/>Borttagningsgodkännandet av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avbrutits av {{SentFromUser}}"
+            "Subject": "Godkännanden av borttagning avbrutet för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande av borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avbrutits av {{SentFromUser}}"
           }
         },
         "VariationNotification": {
