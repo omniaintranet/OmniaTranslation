@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Tillad planlagt offentliggørelse",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Planlægningsejendom",
+        "ApprovalReminderPeriod": "Godkendelsespåmindelsesperiode"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Planlagt offentliggørelse"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang blev afsluttet.",
+        "CancelledScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang blev annulleret af ",
+        "FailedScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang mislykkedes."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Denne ejendom bruges til planlagt offentliggørelse"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Åbn i klientapp",
+          "OpenInWeb": "Åbn i browser",
+          "OpenInWebNewTab": "Åbn i browser (ny fane)",
+          "Download": "Download"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Denne ejendom bruges til planlagt offentliggørelse"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Påmindelse om godkendelse af planlægning: {{DocumentTitle}}",
+          "BodyTemplate": "Kære {{Recipient}}, <br/><br/>Dette er en påmindelse om godkendelse af planlægning sendt fra dokumenthåndteringssystemet.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Opgave: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Planlagt offentliggørelsesdato: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Planlagt offentliggørelsesdato"
+      },
+      "DocumentActions": {
+        "Schedule": "Planlæg"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Planlagt til offentliggørelse",
+        "FailedScheduleForPublishing": "Planlægning til offentliggørelse mislykkedes"
+      },
+      "Schedule": {
+        "CancelSchedule": "Annuller planlægningsarbejdsgang",
+        "MessageCancelSchedule": "Er du sikker på, at du vil annullere denne arbejdsgang?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Vælg dokument",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Vælg i skrive-tilstand"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Procesvælger"
+    }
+  }
+}
