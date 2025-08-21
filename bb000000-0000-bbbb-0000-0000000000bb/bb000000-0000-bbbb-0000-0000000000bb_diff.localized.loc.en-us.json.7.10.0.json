@@ -28,7 +28,7 @@
           "Category": "Integration",
           "Description": "This feature allows Omnia to read all properties on all users from Entra ID.",
           "Title": "Entra ID additional user properties",
-          "ConsentInformation": "Read all users full profiles is required to read all properties on users from Entra ID."
+          "ConsentInformation": "Read all users full profiles permisson is required to read all properties for users from Entra ID."
         }
       },
       "FilterEngine": {
