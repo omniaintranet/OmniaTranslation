@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Statistikexport",
+          "ButtonType": {
+            "Title": "Knapptyp",
+            "SearchStatistics": {
+              "Title": "Sök statistik",
+              "Scope": {
+                "Title": "Omfattning",
+                "BusinessProfile": "Affärsprofil"
+              },
+              "DaysToLookBack": {
+                "Title": "Dagar att se tillbaka"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Ladda ner fil",
+                "Exporting": "Genererarexportfil...",
+                "Failed": "Misslyckades"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Listrollup",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "Basfråge-URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standard",
+      "DefaultProvider": {
+        "SenderName": "Avsändarnamn",
+        "EmailName": "E-postnamn",
+        "DefaultValueIfEmpty": "Standardvärde om tomt"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Avsändarnamn",
+        "EmailAddress": "E-postadress",
+        "APIKey": "API-nyckel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigering"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Listrollup",
+      "BlockDescription": "Möjlighet att rulla upp listobjekt med olika vyer, filter och förfinare.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Visning",
+          "Filter": "Filter",
+          "General": "Allmänt",
+          "Query": "Fråga",
+          "Export": "Exportera"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Fast värde",
+          "CurrentPage": "Aktuell sida",
+          "User": "Användare"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuell",
+          "QueryParameter": "Frågeparameter",
+          "UserLanguage": "Användarspråk",
+          "UserEmail": "Användarens e-post",
+          "CurrentUserName": "Aktuellt användarnamn",
+          "CurrentUserId": "Aktuellt användar-ID",
+          "CurrentUserEmail": "Aktuell användares e-post",
+          "Today": "Idag",
+          "CustomDate": "Anpassat datum"
+        },
+        "Operators": {
+          "Equals": "Lika med",
+          "StartWith": "Börjar med",
+          "Contains": "Innehåller",
+          "LessThan": "Mindre än",
+          "GreaterThan": "Större än"
+        },
+        "IncludeChildTerms": "Inkludera underordnade termer",
+        "IncludeEmpty": "Inkludera tomma",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Använd frågebyggare",
+          "PickSingleList": "Välj en lista"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint-kolumner",
+            "Title": "SharePoint-kolumn",
+            "Sort": "Sortera"
+          },
+          "Views": {
+            "QueryViews": "SharePoint-vyer",
+            "Title": "SharePoint-vy"
+          }
+        },
+        "Done": "Färdig",
+        "View": "Vy",
+        "PageSize": "Sidstorlek",
+        "ItemLimit": "Objektgräns",
+        "NoResultText": "Ingen resultattext",
+        "Paging": "Sidor",
+        "PagingType": {
+          "NoPaging": "Ingen paginering",
+          "Classic": "Klassisk",
+          "Scroll": "Rulla"
+        },
+        "SortBy": "Sortera efter",
+        "FirstSortBy": "Först sortera efter",
+        "ThenSortBy": "Sedan sortera efter",
+        "SortDirection": "Sorteringsriktning",
+        "SortBys": {
+          "Ascending": "Stigande",
+          "Descending": "Fallande"
+        },
+        "SiteUrl": "Webbplats-URL",
+        "ShowExportToExcel": "Visa Exportera till Excel"
+      },
+      "ListView": {
+        "FileName": "Namn",
+        "EditIcon": "Infoikon",
+        "IconTitleLink": "Ikon, titel och länk",
+        "Title": "Titel",
+        "DateTimeMode": {
+          "Normal": "Klassisk",
+          "Social": "Social"
+        },
+        "WidthPlaceholder": "Bredd",
+        "ShowHeading": "Visa rubrik",
+        "AddColumn": "Lägg till kolumn",
+        "AddSharepointColumn": "Lägg till SharePoint-kolumn",
+        "AdjustColumns": "Justera kolumner",
+        "AddSort": "Lägg till sortering"
+      },
+      "Common": {
+        "QueryFailedMsg": "Frågan misslyckades"
+      },
+      "Exporting": {
+        "ExportToExcel": "Exportera till Excel",
+        "FileExporting": "Generera Excel-fil...",
+        "ErrorWhenFileExporting": "Fel vidfilexport",
+        "NotSupportExportMessage": "Ej stöd för export i frågeläge: Välj en lista"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Inga resultat hittades för\"{0}\"",
+        "AdjustYourFilter": "Justera ditt filter och försök igen"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint-webbplats sökmall"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint-listobjekt sökmall",
+          "Created": "skapad",
+          "Modified": "ändrad"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Exportera senaste 30 dagar"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Aktivera tillgänglighetsfunktioner",
+      "DeactivateAccessibilityFeatures": "Avaktivera tillgänglighetsfunktioner"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Teamförsörjningsmall"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Välj i skrivläge"
+        }
+      },
+      "PickUser": "Välj användare"
+    }
+  }
+}
