@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "统计导出",
+          "ButtonType": {
+            "Title": "按钮类型",
+            "SearchStatistics": {
+              "Title": "搜索统计",
+              "Scope": {
+                "Title": "范围",
+                "BusinessProfile": "业务档案"
+              },
+              "DaysToLookBack": {
+                "Title": "回溯天数"
+              },
+              "ExportStatus": {
+                "DownloadFile": "下载文件",
+                "Exporting": "正在生成导出文件...",
+                "Failed": "失败"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "列表汇总",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "基础查询 URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "默认",
+      "DefaultProvider": {
+        "SenderName": "发件人名称",
+        "EmailName": "电子邮件名称",
+        "DefaultValueIfEmpty": "为空时的默认值"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "发件人名称",
+        "EmailAddress": "电子邮件地址",
+        "APIKey": "API 密钥"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "导航"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "列表汇总",
+      "BlockDescription": "可以使用不同的视图、过滤器和细化器汇总列表项。",
+      "Settings": {
+        "Tabs": {
+          "Display": "显示",
+          "Filter": "过滤",
+          "General": "常规",
+          "Query": "查询",
+          "Export": "导出"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "固定值",
+          "CurrentPage": "当前页面",
+          "User": "用户"
+        },
+        "QueryValueOptions": {
+          "Manual": "手动",
+          "QueryParameter": "查询参数",
+          "UserLanguage": "用户语言",
+          "UserEmail": "用户电子邮件",
+          "CurrentUserName": "当前用户名",
+          "CurrentUserId": "当前用户 ID",
+          "CurrentUserEmail": "当前用户电子邮件",
+          "Today": "今天",
+          "CustomDate": "自定义日期"
+        },
+        "Operators": {
+          "Equals": "等于",
+          "StartWith": "以...开始",
+          "Contains": "包含",
+          "LessThan": "小于",
+          "GreaterThan": "大于"
+        },
+        "IncludeChildTerms": "包括子项",
+        "IncludeEmpty": "包括空项",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "使用查询生成器",
+          "PickSingleList": "选择单个列表"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint 列",
+            "Title": "SharePoint 列",
+            "Sort": "排序"
+          },
+          "Views": {
+            "QueryViews": "SharePoint 视图",
+            "Title": "SharePoint 视图"
+          }
+        },
+        "Done": "完成",
+        "View": "查看",
+        "PageSize": "页面大小",
+        "ItemLimit": "项目限制",
+        "NoResultText": "没有结果文本",
+        "Paging": "分页",
+        "PagingType": {
+          "NoPaging": "无分页",
+          "Classic": "经典",
+          "Scroll": "滚动"
+        },
+        "SortBy": "排序依据",
+        "FirstSortBy": "首次排序依据",
+        "ThenSortBy": "然后排序依据",
+        "SortDirection": "排序方向",
+        "SortBys": {
+          "Ascending": "升序",
+          "Descending": "降序"
+        },
+        "SiteUrl": "站点 URL",
+        "ShowExportToExcel": "显示导出到 Excel"
+      },
+      "ListView": {
+        "FileName": "名称",
+        "EditIcon": "信息图标",
+        "IconTitleLink": "图标、标题和链接",
+        "Title": "标题",
+        "DateTimeMode": {
+          "Normal": "经典",
+          "Social": "社交"
+        },
+        "WidthPlaceholder": "宽度",
+        "ShowHeading": "显示标题",
+        "AddColumn": "添加列",
+        "AddSharepointColumn": "添加 SharePoint 列",
+        "AdjustColumns": "调整列",
+        "AddSort": "添加排序"
+      },
+      "Common": {
+        "QueryFailedMsg": "查询失败"
+      },
+      "Exporting": {
+        "ExportToExcel": "导出到 Excel",
+        "FileExporting": "正在生成Excel 文件...",
+        "ErrorWhenFileExporting": "导出文件时出错",
+        "NotSupportExportMessage": "不支持此查询模式的导出：选择单个列表"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "未找到 \"{0}\" 的结果",
+        "AdjustYourFilter": "调整您的过滤器并重试"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint 站点搜索模板"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint 列表项搜索模板",
+          "Created": "创建于",
+          "Modified": "修改于"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "导出最近 30 天"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "激活无障碍功能",
+      "DeactivateAccessibilityFeatures": "停用无障碍功能"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "团队配置模板"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "在写入模式中选择"
+        }
+      },
+      "PickUser": "选择用户"
+    }
+  }
+}
