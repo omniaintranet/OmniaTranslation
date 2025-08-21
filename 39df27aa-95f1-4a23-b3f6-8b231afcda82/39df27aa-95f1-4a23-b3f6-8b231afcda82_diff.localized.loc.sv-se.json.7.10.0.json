@@ -10,14 +10,14 @@
               "Title": "Sök statistik",
               "Scope": {
                 "Title": "Omfattning",
-                "BusinessProfile": "Affärsprofil"
+                "BusinessProfile": "verksamhetsprofil"
               },
               "DaysToLookBack": {
                 "Title": "Dagar att se tillbaka"
               },
               "ExportStatus": {
                 "DownloadFile": "Ladda ner fil",
-                "Exporting": "Genererarexportfil...",
+                "Exporting": "Skapar exportfil...",
                 "Failed": "Misslyckades"
               }
             }
@@ -29,7 +29,7 @@
   "OTAD": {
     "System": {
       "ListRollup": {
-        "Title": "Listrollup",
+        "Title": "Listupprullning",
         "ListRollupBaseQuerySettings": {
           "BaseQueryUrl": "Basfråge-URL"
         }
@@ -57,7 +57,7 @@
       }
     },
     "ListRollup": {
-      "BlockTitle": "Listrollup",
+      "BlockTitle": "Lisupprullning",
       "BlockDescription": "Möjlighet att rulla upp listobjekt med olika vyer, filter och förfinare.",
       "Settings": {
         "Tabs": {
@@ -114,9 +114,9 @@
         "NoResultText": "Ingen resultattext",
         "Paging": "Sidor",
         "PagingType": {
-          "NoPaging": "Ingen paginering",
+          "NoPaging": "Ingen sidindelning",
           "Classic": "Klassisk",
-          "Scroll": "Rulla"
+          "Scroll": "Skroll"
         },
         "SortBy": "Sortera efter",
         "FirstSortBy": "Först sortera efter",
@@ -146,13 +146,13 @@
         "AddSort": "Lägg till sortering"
       },
       "Common": {
-        "QueryFailedMsg": "Frågan misslyckades"
+        "QueryFailedMsg": Frågan misslyckades"
       },
       "Exporting": {
         "ExportToExcel": "Exportera till Excel",
-        "FileExporting": "Generera Excel-fil...",
-        "ErrorWhenFileExporting": "Fel vidfilexport",
-        "NotSupportExportMessage": "Ej stöd för export i frågeläge: Välj en lista"
+        "FileExporting": "Skapa Excel-fil...",
+        "ErrorWhenFileExporting": "Fel vid filexport",
+        "NotSupportExportMessage": "Inget stöd för export i frågeläge: Välj en lista"
       }
     },
     "Search": {
@@ -162,10 +162,10 @@
       },
       "TemplateRegistrations": {
         "SpSiteSearchTemplate": {
-          "Title": "SharePoint-webbplats sökmall"
+          "Title": "Sökmall för SharePoint-webbplats"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint-listobjekt sökmall",
+          "Title": "Sökmall för SharePoint-listobjekt",
           "Created": "skapad",
           "Modified": "ändrad"
         }
@@ -184,7 +184,7 @@
       "SetupWizard": {
         "Features": {
           "TeamProvisionTemplate": {
-            "Title": "Teamförsörjningsmall"
+            "Title": "Mall för att skapa team"
           }
         }
       }
