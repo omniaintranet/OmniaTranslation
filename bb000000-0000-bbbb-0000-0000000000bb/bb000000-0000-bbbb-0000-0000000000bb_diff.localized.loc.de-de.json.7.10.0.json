@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Datum/Uhrzeit-Auswahl",
+          "TagsFieldPicker": "Tag-Auswahl",
+          "BooleanFieldPicker": "Boolean-Auswahl",
+          "TextFieldPicker": "Text-Eingabe",
+          "RichTextFieldPicker": "Rich-Text-Eingabe",
+          "NumberFieldPicker": "Zahlen-Eingabe"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Um zusätzliche Eigenschaften hinzuzufügen, aktivieren Sie bitte die Funktion für zusätzliche Benutzerattribute in Entra ID."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Personenauswahl",
+        "SelectedUser": "Ausgewählt"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Ausgewählt"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integration",
+          "Description": "Diese Funktion ermöglicht es Omnia, alle Eigenschaften aller Benutzer aus Entra ID zu lesen.",
+          "Title": "Zusätzliche Benutzerattribute in Entra ID",
+          "ConsentInformation": "Die Erlaubnis, alle vollständigen Profile der Benutzerzu lesen, ist erforderlich, um alle Eigenschaften der Benutzer aus Entra ID zu lesen."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Link-Buttons"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Mehrfachauswahl erlauben"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Header-Ebene"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z Filterung",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taxonomie-Auswahl",
+      "EnterprisePickerDescription": "Auswahl der Unternehmensattribute"
+    }
+  }
+}
