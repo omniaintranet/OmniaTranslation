@@ -13,7 +13,7 @@
       },
       "Features": {
         "DocumentDurableLink": {
-          "Title": "Document durable Link",
+          "Title": "Document durable link",
           "Category": "System",
           "Description": "Enables durable links for office documents.",
           "ConsentInformation": "Used to read files."
@@ -30,14 +30,14 @@
           }
         },
         "PageArchive": {
-          "ArchiveWithApprovalRequireMessage": "Deletion of this page requires approval. Please choose an approver below to send your request"
+          "ArchiveWithApprovalRequireMessage": "Deletion of this page requires approval. Please choose an approver below to send your request."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Update-Only Author"
+          "UpdateOnlyAuthorRole": "Update-only author"
         },
         "Panels": {
           "Approval": {
-            "DeletionApproval": "Deletion Approval"
+            "DeletionApproval": "Deletion approval"
           },
           "WCAG": {
             "Title": "WCAG",
@@ -46,14 +46,14 @@
         },
         "Dialogs": {
           "ArchivePageType": {
-            "NotAllowedByHavingApproval": "The action cannot be continued because this page has been already in an approval flow"
+            "NotAllowedByHavingApproval": "The action can not be continued because this page has already been part of an approval flow."
           },
           "DeleteText": {
             "ConfirmationMessage": "Are you sure you want to delete the text?",
             "Title": "Delete Text"
           },
           "CreateNewText": {
-            "Title": "Create New Text"
+            "Title": "Create new text"
           }
         }
       }
@@ -70,36 +70,36 @@
     },
     "PageRollup": {
       "ExportResult": {
-        "LoginName": "Login Name"
+        "LoginName": "Login name"
       }
     },
     "PublishingApp": {
       "ActionButtons": {
-        "ChangeLinkType": "Change Link Type",
-        "DeletionApproval": "Deletion Approve",
-        "CancelDeletionApproval": "Cancel Deletion"
+        "ChangeLinkType": "Change link type",
+        "DeletionApproval": "Approve deletion",
+        "CancelDeletionApproval": "Cancel deletion"
       },
       "EmailTemplates": {
         "DeletionApproval": {
           "MailApprovalStepAssigned": {
             "Subject": "Deletion approval status updated for page {{PageTitle}}",
-            "Content": "Hi {{Recipient}},<br/><br/>You have been assigned a task to complete the {{CurrentStep}} step for the page <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Previous step: {{SentFromStep}}<br/>Sent from: {{SentFromUser}}<br/>Comment: {{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>You have been assigned a task to complete the {{CurrentStep}} step for the page <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Previous step: {{SentFromStep}}<br/>Sent from: {{SentFromUser}}<br/>Comment: {{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
             "Subject": "Approval status updated for page {{PageTitle}}",
-            "Content": "Hi {{Recipient}},<br/><br/>The workflow status for the deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> has changed.<br/><br/>Current step: {{CurrentStep}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The workflow status for the deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> has changed.<br/><br/>Current step: {{CurrentStep}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCompleted": {
             "Subject": "Deletion approval complete for {{PageTitle}}",
-            "Content": "Hi {{Recipient}},<br/><br/>The deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been published.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been published.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
             "Subject": "Deletion approval rejected for page {{PageTitle}}",
-            "Content": "Hi {{Recipient}},<br/><br/>The deletion approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been rejected by {{SentFromUser}} with the following comment:<br/><br/>{{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been rejected by {{SentFromUser}} with the following comment:<br/><br/>{{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCanceled": {
             "Subject": "Deletion approval canceled for page {{PageTitle}}",
-            "Content": "Hi {{Recipient}},<br/><br/>The deletion approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been canceled by {{SentFromUser}}"
+            "Content": "Dear {{Recipient}},<br/><br/>The deletion approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been canceled by {{SentFromUser}}"
           }
         },
         "VariationNotification": {
@@ -109,10 +109,10 @@
         }
       },
       "LinkSettings": {
-        "UrlSegment": "Url Segment"
+        "UrlSegment": "Url segment"
       },
       "TextSettings": {
-        "UrlSegment": "Url Segment",
+        "UrlSegment": "Url segment",
         "Title": "Title"
       }
     },
