@@ -109,10 +109,10 @@
         }
       },
       "LinkSettings": {
-        "UrlSegment": "Url segment"
+        "UrlSegment": "URL segment"
       },
       "TextSettings": {
-        "UrlSegment": "Url segment",
+        "UrlSegment": "URL segment",
         "Title": "Title"
       }
     },
