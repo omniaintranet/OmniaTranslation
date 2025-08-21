@@ -12,7 +12,7 @@
         }
       },
       "Identities": {
-        "ExtraUserPropertiesFeatureRequiredMessage": "To add extraproperties, please activate the Entra ID additional user properties feature."
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the Entra ID additional user properties feature."
       },
       "IdentityPicker": {
         "PeoplePicker": "People picker",
@@ -28,7 +28,7 @@
           "Category": "Integration",
           "Description": "This feature allows Omnia to read all properties on all users from Entra ID.",
           "Title": "Entra ID additional user properties",
-          "ConsentInformation": "Readingall users' full profiles permission is required to read all properties for usersfrom Entra ID."
+          "ConsentInformation": "Reading all users' full profiles permission is required to read all properties for users from Entra ID."
         }
       },
       "FilterEngine": {
