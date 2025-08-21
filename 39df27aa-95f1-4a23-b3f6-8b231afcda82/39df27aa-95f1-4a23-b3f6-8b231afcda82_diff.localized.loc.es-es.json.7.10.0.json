@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Exportación de estadísticas",
+          "ButtonType": {
+            "Title": "Tipo de botón",
+            "SearchStatistics": {
+              "Title": "Buscar estadísticas",
+              "Scope": {
+                "Title": "Ámbito",
+                "BusinessProfile": "Perfil empresarial"
+              },
+              "DaysToLookBack": {
+                "Title": "Días a retroceder"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Descargar archivo",
+                "Exporting": "Generando archivo de exportación...",
+                "Failed": "Fallido"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Consolidación de listas",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "URL de consulta base"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Predeterminado",
+      "DefaultProvider": {
+        "SenderName": "Nombre del remitente",
+        "EmailName": "Nombre del correo electrónico",
+        "DefaultValueIfEmpty": "Valor predeterminado si está vacío"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Nombre del remitente",
+        "EmailAddress": "Dirección de correo electrónico",
+        "APIKey": "Clave API"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navegación"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Consolidación de listas",
+      "BlockDescription": "Posibilidad de consolidar elementos de lista con diferentes vistas, filtros y refinadores.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Mostrar",
+          "Filter": "Filtrar",
+          "General": "General",
+          "Query": "Consulta",
+          "Export": "Exportar"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Valor fijo",
+          "CurrentPage": "Página actual",
+          "User": "Usuario"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manual",
+          "QueryParameter": "Parámetro de consulta",
+          "UserLanguage": "Idioma del usuario",
+          "UserEmail": "Correo electrónico del usuario",
+          "CurrentUserName": "Nombre del usuario actual",
+          "CurrentUserId": "ID del usuario actual",
+          "CurrentUserEmail": "Correo electrónico del usuario actual",
+          "Today": "Hoy",
+          "CustomDate": "Fecha personalizada"
+        },
+        "Operators": {
+          "Equals": "Igual a",
+          "StartWith": "Empieza con",
+          "Contains": "Contiene",
+          "LessThan": "Menos que",
+          "GreaterThan": "Mayor que"
+        },
+        "IncludeChildTerms": "Incluir términos secundarios",
+        "IncludeEmpty": "Incluirvacío",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Usar generador de consultas",
+          "PickSingleList": "Seleccionar lista única"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "Columnas de SharePoint",
+            "Title": "Columna de SharePoint",
+            "Sort": "Ordenar"
+          },
+          "Views": {
+            "QueryViews": "Vistas de SharePoint",
+            "Title": "Vista de SharePoint"
+          }
+        },
+        "Done": "Hecho",
+        "View": "Ver",
+        "PageSize": "Tamaño de página",
+        "ItemLimit": "Límite de elementos",
+        "NoResultText": "Texto sin resultados",
+        "Paging": "Paginación",
+        "PagingType": {
+          "NoPaging": "Sin paginación",
+          "Classic": "Clásico",
+          "Scroll": "Desplazamiento"
+        },
+        "SortBy": "Ordenar por",
+        "FirstSortBy": "Primero ordenar por",
+        "ThenSortBy": "Luego ordenar por",
+        "SortDirection": "Dirección de ordenación",
+        "SortBys": {
+          "Ascending": "Ascendente",
+          "Descending": "Descendente"
+        },
+        "SiteUrl": "URL del sitio",
+        "ShowExportToExcel": "Mostrar exportar a Excel"
+      },
+      "ListView": {
+        "FileName": "Nombre",
+        "EditIcon": "Icono de información",
+        "IconTitleLink": "Icono, título y enlace",
+        "Title": "Título",
+        "DateTimeMode": {
+          "Normal": "Clásico",
+          "Social": "Social"
+        },
+        "WidthPlaceholder": "Ancho",
+        "ShowHeading": "Mostrar encabezado",
+        "AddColumn": "Agregar columna",
+        "AddSharepointColumn": "Agregar columnade SharePoint",
+        "AdjustColumns": "Ajustar columnas",
+        "AddSort": "Agregar ordenación"
+      },
+      "Common": {
+        "QueryFailedMsg": "La consulta falló"
+      },
+      "Exporting": {
+        "ExportToExcel": "Exportar a Excel",
+        "FileExporting": "Generando archivo de Excel...",
+        "ErrorWhenFileExporting": "Error al exportar el archivo",
+        "NotSupportExportMessage": "Exportación no soportada para el modo de consulta: Seleccionar lista única"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "No se encontraron resultados para \"{0}\"",
+        "AdjustYourFilter": "Ajusta tu filtro y vuelve a intentarlo"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "Plantillade búsqueda de sitio de SharePoint"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Plantilla de búsqueda de elemento de lista de SharePoint",
+          "Created": "creado",
+          "Modified": "modificado"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Exportar últimos 30 días"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Activar funciones de accesibilidad",
+      "DeactivateAccessibilityFeatures": "Desactivar funciones de accesibilidad"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Plantilla de provisión de equipo"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Seleccionar en modo de escritura"
+        }
+      },
+      "PickUser": "Seleccionar usuario"
+    }
+  }
+}
