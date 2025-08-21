@@ -3,19 +3,19 @@
     "Ux": {
       "EnterprisePropertiesPicker": {
         "Picker": {
-          "DateTimeFieldPicker": "DateTime Picker",
-          "TagsFieldPicker": "Tags Picker",
-          "BooleanFieldPicker": "Boolean Selector",
-          "TextFieldPicker": "Text Input",
-          "RichTextFieldPicker": "Rich Text Input",
-          "NumberFieldPicker": "Number Input"
+          "DateTimeFieldPicker": "DateTime picker",
+          "TagsFieldPicker": "Tags picker",
+          "BooleanFieldPicker": "Boolean selector",
+          "TextFieldPicker": "Text input",
+          "RichTextFieldPicker": "Rich text input",
+          "NumberFieldPicker": "Number input"
         }
       },
       "Identities": {
-        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the EntraID additional user properties feature."
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the Entra ID additional user properties feature."
       },
       "IdentityPicker": {
-        "PeoplePicker": "People Picker",
+        "PeoplePicker": "People picker",
         "SelectedUser": "Selected"
       },
       "Common": {
@@ -27,7 +27,7 @@
         "ExtraIDAdditionalUserProperties": {
           "Category": "Integration",
           "Description": "This feature allows Omnia to read all properties on all users from Entra ID.",
-          "Title": "EntraID additional user properties",
+          "Title": "Entra ID additional user properties",
           "ConsentInformation": "Read all users full profiles is required to read all properties on users from Entra ID."
         }
       },
@@ -51,13 +51,13 @@
         }
       },
       "QueryableProperties": {
-        "AZFiltering": "A - Z Filtering",
+        "AZFiltering": "A - Z filtering",
         "AZText": "A - Z"
       }
     },
     "TermPicker": {
-      "TaxonomyPickerDescription": "Taxonomy Picker",
-      "EnterprisePickerDescription": "Enterprise Properties Picker"
+      "TaxonomyPickerDescription": "Taxonomy picker",
+      "EnterprisePickerDescription": "Enterprise properties picker"
     }
   }
 }
