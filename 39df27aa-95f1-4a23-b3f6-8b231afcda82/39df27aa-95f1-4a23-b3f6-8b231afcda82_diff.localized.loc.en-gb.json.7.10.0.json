@@ -76,12 +76,12 @@
           "Manual": "Manual",
           "QueryParameter": "Query parameter",
           "UserLanguage": "User language",
-          "UserEmail": "User email",
+          "UserEmail": "User Email",
           "CurrentUserName": "Current user name",
           "CurrentUserId": "Current user ID",
           "CurrentUserEmail": "Current user email",
           "Today": "Today",
-          "CustomDate": "Customdate"
+          "CustomDate": "Custom date"
         },
         "Operators": {
           "Equals": "Equals",
