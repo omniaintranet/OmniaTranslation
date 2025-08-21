@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "显示值的结果"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "文本"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "文档持久链接",
+          "Category": "系统",
+          "Description": "启用办公文档的持久链接。",
+          "ConsentInformation": "用于读取文件。"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "类型",
+            "Publish": "发布",
+            "Deletion": "删除"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "此页面的删除需要批准。请在下面选择一位审批人以发送请求。"
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "仅更新作者"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "删除批准"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "启用页面检查器"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "由于此页面已参与审批流程，无法继续该操作。"
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "您确定要删除该文本吗？",
+            "Title": "删除文本"
+          },
+          "CreateNewText": {
+            "Title": "创建新文本"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "将频道目标定向到特定编辑者"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "添加链接"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "登录名"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "更改链接类型",
+        "DeletionApproval": "批准删除",
+        "CancelDeletionApproval": "取消删除"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "页面 {{PageTitle}} 的删除批准状态已更新",
+            "Content": "亲爱的 {{Recipient}}，<br/><br/>您已被分配任务以完成页面 <a href={{PageLink}}>{{PageTitle}}</a> 的 {{CurrentStep}} 步骤。<br/>上一步骤：{{SentFromStep}}<br/>发送者：{{SentFromUser}}<br/>评论：{{SentFromComment}}<br/><br/>工作流历史<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "页面 {{PageTitle}} 的批准状态已更新",
+            "Content": "亲爱的 {{Recipient}}，<br/><br/>页面 <a href={{PageLink}}>{{PageTitle}}</a> 的删除批准工作流状态已更改。<br/><br/>当前步骤：{{CurrentStep}}<br/><br/>工作流历史<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "页面 {{PageTitle}} 的删除批准已完成",
+            "Content": "亲爱的 {{Recipient}}，<br/><br/>页面 <a href={{PageLink}}>{{PageTitle}}</a> 的删除批准已完成，页面已被删除。<br/><br/>工作流历史<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "页面 {{PageTitle}} 的删除批准已被拒绝",
+            "Content": "亲爱的 {{Recipient}}，<br/><br/>页面 <a href={{PageLink}}>{{PageTitle}}</a> 的删除批准已被 {{SentFromUser}} 拒绝，评论如下：<br/><br/>{{SentFromComment}}<br/><br/>工作流历史<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "页面 {{PageTitle}} 的删除批准已被取消",
+            "Content": "亲爱的 {{Recipient}}，<br/><br/>页面 <a href={{PageLink}}>{{PageTitle}}</a> 的删除批准已被 {{SentFromUser}} 取消"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>亲爱的 {{name}}</p><p>新版本的 <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> 已发布。<p>{%VariationList | <p>您是此页面在 {{variationName}} 的 {{propertyName}}<p> %}<p>请对页面变体进行必要的更改并发布新版本。</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "URL 段"
+      },
+      "TextSettings": {
+        "UrlSegment": "URL 段",
+        "Title": "标题"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "在对话框中启用查看按钮"
+      }
+    }
+  }
+}
