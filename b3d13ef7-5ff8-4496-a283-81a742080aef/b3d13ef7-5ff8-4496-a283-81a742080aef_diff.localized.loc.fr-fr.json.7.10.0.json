@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Autoriser la publication programmée",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Propriété de planification",
+        "ApprovalReminderPeriod": "Période de rappel d'approbation"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Publication programmée"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Le flux de travail de publication programmée a été complété.",
+        "CancelledScheduleWorkflow": "Le flux de travail de publication programmée a été annulé par ",
+        "FailedScheduleWorkflow": "Le flux de travail de publication programmée a échoué."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Cette propriété est utilisée pour la publication programmée"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Ouvrir dans l'application cliente",
+          "OpenInWeb": "Ouvrir dans le navigateur",
+          "OpenInWebNewTab": "Ouvrir dans le navigateur (nouvel onglet)",
+          "Download": "Télécharger"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Cette propriété est utilisée pour la publication programmée"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Rappel d'approbation de planification : {{DocumentTitle}}",
+          "BodyTemplate": "Cher {{Recipient}}, <br/><br/>Ceci est un e-mail de rappel d'approbation de planification envoyé depuis le système de gestion de documents.<br/><br/>Document : <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Site de l'équipe : <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Tâche : <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Date de publicationprogrammée : {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Date de publication programmée"
+      },
+      "DocumentActions": {
+        "Schedule": "Planifier"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Programmé pour publication",
+        "FailedScheduleForPublishing": "Échec de la planification pour publication"
+      },
+      "Schedule": {
+        "CancelSchedule": "Annuler le flux de travail de planification",
+        "MessageCancelSchedule": "Êtes-vous sûr de vouloir annuler ce fluxde travail ?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Choisir le document",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Choisir en mode écriture"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Sélecteur de processus"
+    }
+  }
+}
