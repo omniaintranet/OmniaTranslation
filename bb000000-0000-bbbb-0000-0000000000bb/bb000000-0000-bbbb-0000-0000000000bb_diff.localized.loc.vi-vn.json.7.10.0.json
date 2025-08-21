@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Chọn ngày giờ",
+          "TagsFieldPicker": "Chọn thẻ",
+          "BooleanFieldPicker": "Chọn đúng/sai",
+          "TextFieldPicker": "Nhập văn bản",
+          "RichTextFieldPicker": "Nhập văn bản phong phú",
+          "NumberFieldPicker": "Nhập số"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Để thêm thuộc tính bổ sung, vui lòng kích hoạt tính năng thuộc tính người dùng bổ sung của Entra ID."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Chọn người",
+        "SelectedUser": "Đã chọn"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Đã chọn"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Tích hợp",
+          "Description": "Tính năng này cho phép Omnia đọc tất cả các thuộc tính của tất cả người dùng từ Entra ID.",
+          "Title": "Thuộc tính người dùng bổ sung của EntraID",
+          "ConsentInformation": "Cần có quyền đọc toàn bộ hồ sơ người dùng để đọc tất cả các thuộc tính của người dùng từ Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Nút liên kết"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Cho phép chọn nhiều"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Cấp tiêu đề"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "Lọc A - Z",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Chọn phân loại",
+      "EnterprisePickerDescription": "Chọn thuộc tính doanh nghiệp"
+    }
+  }
+}
