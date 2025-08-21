@@ -3,17 +3,17 @@
     "Statistic": {
       "Export": {
         "Action": {
-          "Title": "Statistics Export",
+          "Title": "Statistics export",
           "ButtonType": {
-            "Title": "Button Type",
+            "Title": "Button type",
             "SearchStatistics": {
-              "Title": "Search Statistics",
+              "Title": "Search statistics",
               "Scope": {
                 "Title": "Scope",
-                "BusinessProfile": "Business Profile"
+                "BusinessProfile": "Business profile"
               },
               "DaysToLookBack": {
-                "Title": "Days to Look Back"
+                "Title": "Days to look back"
               },
               "ExportStatus": {
                 "DownloadFile": "Download file",
@@ -29,9 +29,9 @@
   "OTAD": {
     "System": {
       "ListRollup": {
-        "Title": "List Rollup",
+        "Title": "List rollup",
         "ListRollupBaseQuerySettings": {
-          "BaseQueryUrl": "Base Query Url"
+          "BaseQueryUrl": "Base query URL"
         }
       }
     },
@@ -46,7 +46,7 @@
       "SendGridProvider": {
         "SenderName": "Sender name",
         "EmailAddress": "Email address",
-        "APIKey": "API Key"
+        "APIKey": "API key"
       }
     }
   },
@@ -57,7 +57,7 @@
       }
     },
     "ListRollup": {
-      "BlockTitle": "List Rollup",
+      "BlockTitle": "List rollup",
       "BlockDescription": "Possibility to roll up list items with different views, filters and refiners.",
       "Settings": {
         "Tabs": {
@@ -76,10 +76,10 @@
           "Manual": "Manual",
           "QueryParameter": "Query parameter",
           "UserLanguage": "User language",
-          "UserEmail": "User email",
+          "UserEmail": "User Email",
           "CurrentUserName": "Current user name",
           "CurrentUserId": "Current user id",
-          "CurrentUserEmail": "Current user e-mail",
+          "CurrentUserEmail": "Current user Email",
           "Today": "Today",
           "CustomDate": "Custom date"
         },
@@ -90,27 +90,27 @@
           "LessThan": "Less than",
           "GreaterThan": "Greater than"
         },
-        "IncludeChildTerms": "IncludeChildTerms",
-        "IncludeEmpty": "Include Empty",
+        "IncludeChildTerms": "Include child terms",
+        "IncludeEmpty": "Include empty",
         "QueryConfigurationTypes": {
-          "UseQueryBuilder": "Use Query Builder",
-          "PickSingleList": "Pick Single List"
+          "UseQueryBuilder": "Use query builder",
+          "PickSingleList": "Pick single list"
         },
         "SharePointPickMode": {
           "Columns": {
-            "QueryColumns": "Sharepoint Columns",
-            "Title": "Sharepoint Column",
+            "QueryColumns": "SharePoint columns",
+            "Title": "SharePoint column",
             "Sort": "Sort"
           },
           "Views": {
-            "QueryViews": "Sharepoint Views",
-            "Title": "Sharepoint View"
+            "QueryViews": "Sharepoint views",
+            "Title": "Sharepoint view"
           }
         },
         "Done": "Done",
         "View": "View",
-        "PageSize": "Page Size",
-        "ItemLimit": "Item Limit",
+        "PageSize": "Page size",
+        "ItemLimit": "Item limit",
         "NoResultText": "No result text",
         "Paging": "Paging",
         "PagingType": {
@@ -126,33 +126,33 @@
           "Ascending": "Ascending",
           "Descending": "Descending"
         },
-        "SiteUrl": "Site Url",
-        "ShowExportToExcel": "Show Export To Excel"
+        "SiteUrl": "Site URL",
+        "ShowExportToExcel": "Show Export to Excel"
       },
       "ListView": {
         "FileName": "Name",
-        "EditIcon": "Info Icon",
-        "IconTitleLink": "Icon, Title and Link",
+        "EditIcon": "Info icon",
+        "IconTitleLink": "Icon, title and link",
         "Title": "Title",
         "DateTimeMode": {
           "Normal": "Classic",
           "Social": "Social"
         },
         "WidthPlaceholder": "Width",
-        "ShowHeading": "Show Heading",
-        "AddColumn": "Add Column",
-        "AddSharepointColumn": "Add Sharepoint Column",
-        "AdjustColumns": "Adjust Columns",
-        "AddSort": "Add Sort"
+        "ShowHeading": "Show heading",
+        "AddColumn": "Add column",
+        "AddSharepointColumn": "Add SharePoint column",
+        "AdjustColumns": "Adjust columns",
+        "AddSort": "Add sort"
       },
       "Common": {
         "QueryFailedMsg": "The configured query failed"
       },
       "Exporting": {
         "ExportToExcel": "Export to Excel",
-        "FileExporting": "Generate Excel File...",
+        "FileExporting": "Generate Excel file...",
         "ErrorWhenFileExporting": "Error when file exporting",
-        "NotSupportExportMessage": "Not supported export for Query Mode: Pick Single List"
+        "NotSupportExportMessage": "Not supported export for Query mode: Pick single list"
       }
     },
     "Search": {
@@ -162,10 +162,10 @@
       },
       "TemplateRegistrations": {
         "SpSiteSearchTemplate": {
-          "Title": "SharePoint Site search template"
+          "Title": "SharePoint site search template"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint List Item search template",
+          "Title": "SharePoint list item search template",
           "Created": "created",
           "Modified": "modified"
         }
@@ -197,7 +197,7 @@
           "PickInWriteMode": "Pick in Write mode"
         }
       },
-      "PickUser": "Pick User"
+      "PickUser": "Pick user"
     }
   }
 }
