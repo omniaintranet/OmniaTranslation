@@ -37,7 +37,7 @@
       "EmailTemplates": {
         "ScheduleApprovalReminder": {
           "SubjectTemplate": "Schedule approval reminder: {{DocumentTitle}}",
-          "BodyTemplate": "Dear {{Recipient}},<br/><br/>This is a schedule approval reminder email sent from the document management system.<br/><br/>Document: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Task: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Schedule publish date: {{SchedulePublishDate}}"
+          "BodyTemplate": "Dear {{Recipient}},<br/><br/>This is a schedule approval reminder Email sent from the document management system.<br/><br/>Document: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Task: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Schedule publish date: {{SchedulePublishDate}}"
         }
       }
     },
@@ -50,7 +50,7 @@
       },
       "DocumentStatuses": {
         "ScheduledForPublishing": "Scheduled for publishing",
-        "FailedScheduleForPublishing": "Schedulefor publishing failed"
+        "FailedScheduleForPublishing": "Schedule for publishing failed"
       },
       "Schedule": {
         "CancelSchedule": "Cancel schedule workflow",
