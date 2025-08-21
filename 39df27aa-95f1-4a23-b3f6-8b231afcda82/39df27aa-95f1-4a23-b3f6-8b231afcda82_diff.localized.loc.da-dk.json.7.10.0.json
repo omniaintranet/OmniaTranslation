@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Statistik eksport",
+          "ButtonType": {
+            "Title": "Knap type",
+            "SearchStatistics": {
+              "Title": "Søg statistik",
+              "Scope": {
+                "Title": "Omfang",
+                "BusinessProfile": "Virksomhedsprofil"
+              },
+              "DaysToLookBack": {
+                "Title": "Dage at se tilbage"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Download fil",
+                "Exporting": "Genererer eksportfil...",
+                "Failed": "Mislykkedes"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Liste rulleop",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "Basis forespørgsels-URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standard",
+      "DefaultProvider": {
+        "SenderName": "Afsender navn",
+        "EmailName": "E-mail navn",
+        "DefaultValueIfEmpty": "Standardværdi hvis tom"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Afsender navn",
+        "EmailAddress": "E-mail adresse",
+        "APIKey": "API nøgle"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigation"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Liste rulleop",
+      "BlockDescription": "Mulighed for at rullelisteelementer op med forskellige visninger, filtre og raffineringsmuligheder.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Vis",
+          "Filter": "Filter",
+          "General": "Generelt",
+          "Query": "Forespørgsel",
+          "Export": "Eksport"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Fast værdi",
+          "CurrentPage": "Nuværende side",
+          "User": "Bruger"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuel",
+          "QueryParameter": "Forespørgselsparameter",
+          "UserLanguage": "Bruger sprog",
+          "UserEmail": "Bruger E-mail",
+          "CurrentUserName": "Nuværende brugernavn",
+          "CurrentUserId": "Nuværende bruger-id",
+          "CurrentUserEmail": "Nuværende bruger E-mail",
+          "Today": "I dag",
+          "CustomDate": "Brugerdefineret dato"
+        },
+        "Operators": {
+          "Equals": "Lige med",
+          "StartWith": "Starter med",
+          "Contains": "Indeholder",
+          "LessThan": "Mindre end",
+          "GreaterThan": "Større end"
+        },
+        "IncludeChildTerms": "Inkluder underordnede termer",
+        "IncludeEmpty": "Inkluder tom",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Brug forespørgselsbygger",
+          "PickSingleList": "Vælg enkelt liste"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint kolonner",
+            "Title": "SharePoint kolonne",
+            "Sort": "Sortér"
+          },
+          "Views": {
+            "QueryViews": "Sharepoint visninger",
+            "Title": "Sharepoint visning"
+          }
+        },
+        "Done": "Færdig",
+        "View": "Vis",
+        "PageSize": "Side størrelse",
+        "ItemLimit": "Element grænse",
+        "NoResultText": "Ingen resultat tekst",
+        "Paging": "Paging",
+        "PagingType": {
+          "NoPaging": "Ingen paging",
+          "Classic": "Klassisk",
+          "Scroll": "Rul"
+        },
+        "SortBy": "Sorter efter",
+        "FirstSortBy": "Første sortering efter",
+        "ThenSortBy": "Derefter sortering efter",
+        "SortDirection": "Sorteringsretning",
+        "SortBys": {
+          "Ascending": "Stigende",
+          "Descending": "Faldende"
+        },
+        "SiteUrl": "Websted URL",
+        "ShowExportToExcel": "Vis eksport til Excel"
+      },
+      "ListView": {
+        "FileName": "Navn",
+        "EditIcon": "Info ikon",
+        "IconTitleLink": "Ikon, titel og link",
+        "Title": "Titel",
+        "DateTimeMode": {
+          "Normal": "Klassisk",
+          "Social": "Social"
+        },
+        "WidthPlaceholder": "Bredde",
+        "ShowHeading": "Vis overskrift",
+        "AddColumn": "Tilføj kolonne",
+        "AddSharepointColumn": "Tilføj SharePoint kolonne",
+        "AdjustColumns": "Juster kolonner",
+        "AddSort": "Tilføj sortering"
+      },
+      "Common": {
+        "QueryFailedMsg": "Forespørgslen mislykkedes"
+      },
+      "Exporting": {
+        "ExportToExcel": "Eksportér til Excel",
+        "FileExporting": "Genererer Excel fil...",
+        "ErrorWhenFileExporting": "Fejl ved eksport af fil",
+        "NotSupportExportMessage": "Ikke understøttet eksport for forespørgselsmetode: Vælg enkelt liste"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Ingen resultater fundet for \"{0}\"",
+        "AdjustYourFilter": "Juster dit filter og prøv igen"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint sitesøg skabelon"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint listeelement søg skabelon",
+          "Created": "oprettet",
+          "Modified": "ændret"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Eksportér de sidste 30 dage"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Aktiver tilgængelighedsfunktioner",
+      "DeactivateAccessibilityFeatures": "Deaktiver tilgængelighedsfunktioner"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Team provision skabelon"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Vælg i skrive tilstand"
+        }
+      },
+      "PickUser": "Vælg bruger"
+    }
+  }
+}
