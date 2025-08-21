@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Salli aikataulutettu julkaisu",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Aikataulun ominaisuus",
+        "ApprovalReminderPeriod": "Hyväksymisen muistutusjakso"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Aikataulutettu julkaisu"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Aikataulutettu julkaisu -työnkulku on suoritettu.",
+        "CancelledScheduleWorkflow": "Aikataulutettu julkaisu -työnkulku on peruutettu käyttäjän toimesta ",
+        "FailedScheduleWorkflow": "Aikataulutettu julkaisu -työnkulku epäonnistui."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Tätä ominaisuutta käytetään aikataulutettuun julkaisuun"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Avaa asiakasohjelmassa",
+          "OpenInWeb": "Avaa selaimessa",
+          "OpenInWebNewTab": "Avaa selaimessa (uusi välilehti)",
+          "Download": "Lataa"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Tätä ominaisuutta käytetään aikataulutettuun julkaisuun"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Aikataulun hyväksymisen muistutus: {{DocumentTitle}}",
+          "BodyTemplate": "Hyvä {{Recipient}}, <br/><br/>Tämä on aikataulun hyväksymisen muistutus sähköposti, joka on lähetetty asiakirjahallintajärjestelmästä.<br/><br/>Asiakirja: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Tiimisivusto: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Tehtävä: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Aikataulun julkaisu päivämäärä: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Aikataulun julkaisu päivämäärä"
+      },
+      "DocumentActions": {
+        "Schedule": "Aikatauluta"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Aikataulutettu julkaistavaksi",
+        "FailedScheduleForPublishing": "Aikataulutus julkaisemiseksi epäonnistui"
+      },
+      "Schedule": {
+        "CancelSchedule": "Peruuta aikataulu työnkulku",
+        "MessageCancelSchedule": "Oletko varma, että haluat peruuttaa tämän työnkulun?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Valitse asiakirja",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Valitse kirjoitustilassa"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Prosessivalitsin"
+    }
+  }
+}
