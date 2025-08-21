@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Toon het resultaat voor waarde"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Tekst"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Duurzame link voor document",
+          "Category": "Systeem",
+          "Description": "Maakt duurzame links voor kantoordocumenten mogelijk.",
+          "ConsentInformation": "Gebruikt om bestanden te lezen."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Type",
+            "Publish": "Publiceren",
+            "Deletion": "Verwijdering"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "Verwijdering van deze pagina vereist goedkeuring. Kies hieronder een goedkeurder om uw verzoek te verzenden."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Alleen bijwerken auteur"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Goedkeuring verwijdering"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Pagina controle inschakelen"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "De actie kan niet worden voortgezet omdat deze pagina al deel uitmaakt van een goedkeuringsstroom."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Weet u zeker dat u detekst wilt verwijderen?",
+            "Title": "Verwijder tekst"
+          },
+          "CreateNewText": {
+            "Title": "Maak nieuwe tekst"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Doel kanaal voor specifieke redacteuren"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Link toevoegen"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Inlognaam"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Wijzig linktype",
+        "DeletionApproval": "Goedkeuring verwijdering",
+        "CancelDeletionApproval": "Annuleer verwijdering"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Status goedkeuring verwijdering bijgewerkt voor pagina {{PageTitle}}",
+            "Content": "Beste {{Recipient}},<br/><br/>U bent toegewezen aan een taak om de stap {{CurrentStep}} voor de pagina <a href={{PageLink}}>{{PageTitle}}</a> te voltooien.<br/>Vorige stap: {{SentFromStep}}<br/>Verzonden door: {{SentFromUser}}<br/>Opmerking: {{SentFromComment}}<br/><br/>Workflowgeschiedenis<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Goedkeuringsstatus bijgewerkt voor pagina {{PageTitle}}",
+            "Content": "Beste {{Recipient}},<br/><br/>De workflowstatus voor de goedkeuring van de verwijdering van pagina <a href={{PageLink}}>{{PageTitle}}</a> is gewijzigd.<br/><br/>Huidige stap: {{CurrentStep}}<br/><br/>Workflowgeschiedenis<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Goedkeuring verwijdering voltooid voor {{PageTitle}}",
+            "Content": "Beste {{Recipient}},<br/><br/>De goedkeuring voor de verwijdering van pagina <a href={{PageLink}}>{{PageTitle}}</a> is voltooid en depagina is verwijderd.<br/><br/>Workflowgeschiedenis<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Goedkeuring verwijdering afgewezen voor pagina {{PageTitle}}",
+            "Content": "Beste {{Recipient}},<br/><br/>De goedkeuring voor de verwijdering van de pagina <a href={{PageLink}}>{{PageTitle}}</a> is afgewezen door {{SentFromUser}} met de volgende opmerking:<br/><br/>{{SentFromComment}}<br/><br/>Workflowgeschiedenis<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Goedkeuring verwijdering geannuleerd voor pagina {{PageTitle}}",
+            "Content": "Beste {{Recipient}},<br/><br/>De goedkeuring voor de verwijdering van de pagina <a href={{PageLink}}>{{PageTitle}}</a> is geannuleerd door {{SentFromUser}}"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Beste {{name}}</p><p>Een nieuwe versie van <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> is gepubliceerd.<p>{%VariationList | <p>U bent de {{propertyName}} van deze pagina voor {{variationName}}<p> %}<p>Maak de nodige wijzigingen aan de pagina-variant en publiceer een nieuwe versie.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "URL-segment"
+      },
+      "TextSettings": {
+        "UrlSegment": "URL-segment",
+        "Title": "Titel"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Bekijk knop inschakelen in dialoog"
+      }
+    }
+  }
+}
