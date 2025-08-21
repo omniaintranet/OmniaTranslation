@@ -146,7 +146,7 @@
         "AddSort": "Add sort"
       },
       "Common": {
-        "QueryFailedMsg": "The configured query failed"
+        "QueryFailedMsg": "The query failed"
       },
       "Exporting": {
         "ExportToExcel": "Export to Excel",
