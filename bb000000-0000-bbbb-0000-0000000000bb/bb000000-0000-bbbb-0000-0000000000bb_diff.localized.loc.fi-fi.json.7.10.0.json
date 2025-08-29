@@ -12,7 +12,7 @@
         }
       },
       "Identities": {
-        "ExtraUserPropertiesFeatureRequiredMessage": "Lisäominaisuuksien lisäämiseksi aktivoi Entra ID:n lisäkäyttäjäominaisuudet."
+        "ExtraUserPropertiesFeatureRequiredMessage": "Lisäominaisuuksien käyttöönottamiseksi aktivoi Entra ID:n lisäkäyttäjäominaisuudet."
       },
       "IdentityPicker": {
         "PeoplePicker": "Henkilövalitsin",
@@ -26,9 +26,9 @@
       "Features": {
         "ExtraIDAdditionalUserProperties": {
           "Category": "Integraatio",
-          "Description": "Tämäominaisuus mahdollistaa Omnian lukea kaikki ominaisuudet kaikilta käyttäjiltä Entra ID:stä.",
+          "Description": "Tämä ominaisuus mahdollistaa Omnialle kaikkien ominaisuuksien lukemisen kaikilta käyttäjiltä Entra ID:stä.",
           "Title": "Entra ID:n lisäkäyttäjäominaisuudet",
-          "ConsentInformation": "Kaikkien käyttäjien täydellistenprofiilien lukeminen vaatii luvan kaikkien ominaisuuksien lukemiseen Entra ID:stä."
+          "ConsentInformation": "Kaikkien käyttäjien täydellisten profiilien lukeminen vaatii luvan kaikkien ominaisuuksien lukemiseen Entra ID:stä."
         }
       },
       "FilterEngine": {
