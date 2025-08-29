@@ -2,7 +2,7 @@
   "WCM": {
     "Admin": {
       "PageBulkUpdate": {
-        "DisplayResultForValue": "Näytä tulos arvosta"
+        "DisplayResultForValue": "Näytä tulos arvolle"
       }
     },
     "Core": {
@@ -13,9 +13,9 @@
       },
       "Features": {
         "DocumentDurableLink": {
-          "Title": "Dokumentin kestävä linkki",
+          "Title": "Kestävät linkit dokumenteille",
           "Category": "Järjestelmä",
-          "Description": "Mahdollistaa kestävät linkit toimistodokumenteille.",
+          "Description": "Mahdollistaa kestävät linkit Office-dokumenteille.",
           "ConsentInformation": "Käytetään tiedostojen lukemiseen."
         }
       }
@@ -62,7 +62,7 @@
   "OWCM": {
     "ChannelManagement": {
       "Admin": {
-        "TargetingFilterUserVisibilitySwitch": "Kohdista kanava tiettyihin toimittajiin"
+        "TargetingFilterUserVisibilitySwitch": "Kohdista kanava tietyille toimittajille"
       }
     },
     "LinkPicker": {
@@ -70,7 +70,7 @@
     },
     "PageRollup": {
       "ExportResult": {
-        "LoginName": "Kirjautumisnimi"
+        "LoginName": "Käyttäjätunnus"
       }
     },
     "PublishingApp": {
@@ -83,7 +83,7 @@
         "DeletionApproval": {
           "MailApprovalStepAssigned": {
             "Subject": "Poiston hyväksynnän tila päivitetty sivulle {{PageTitle}}",
-            "Content": "Hyvä {{Recipient}},<br/><br/>Sinulle on annettu tehtävä suorittaa {{CurrentStep}} vaihe sivulle <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Edellinen vaihe: {{SentFromStep}}<br/>Lähettäjä: {{SentFromUser}}<br/>Kommentti: {{SentFromComment}}<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
+            "Content": "Hyvä {{Recipient}},<br/><br/>Sinulle on annettu tehtävä suorittaa vaihe {{CurrentStep}} sivulle <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Edellinen vaihe: {{SentFromStep}}<br/>Lähettäjä: {{SentFromUser}}<br/>Kommentti: {{SentFromComment}}<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
             "Subject": "Hyväksynnän tila päivitetty sivulle {{PageTitle}}",
@@ -104,7 +104,7 @@
         },
         "VariationNotification": {
           "PageProperty": {
-            "Template": "<p>Hyvä{{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> on julkaistu.<p>{%VariationList | <p>Olet tämänsivun {{propertyName}} {{variationName}}<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+            "Template": "<p>Hyvä{{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> on julkaistu.<p>{%VariationList | <p>Olet tämän sivun {{propertyName}} {{variationName}}</p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
           }
         }
       },
