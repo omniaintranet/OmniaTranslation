@@ -3,7 +3,7 @@
     "Admin": {
       "AllowScheduledPublishing": "Salli aikataulutettu julkaisu",
       "SchedulePublishing": {
-        "ScheduleProperty": "Aikataulun ominaisuus",
+        "ScheduleProperty": "Aikataulutuksen ominaisuus",
         "ApprovalReminderPeriod": "Hyväksymisen muistutusjakso"
       }
     },
@@ -36,24 +36,24 @@
       },
       "EmailTemplates": {
         "ScheduleApprovalReminder": {
-          "SubjectTemplate": "Aikataulun hyväksymisen muistutus: {{DocumentTitle}}",
-          "BodyTemplate": "Hyvä {{Recipient}}, <br/><br/>Tämä on aikataulun hyväksymisen muistutus sähköposti, joka on lähetetty asiakirjahallintajärjestelmästä.<br/><br/>Asiakirja: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Tiimisivusto: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Tehtävä: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Aikataulun julkaisu päivämäärä: {{SchedulePublishDate}}"
+          "SubjectTemplate": "Aikataulutetun hyväksymisen muistutus: {{DocumentTitle}}",
+          "BodyTemplate": "Hyvä {{Recipient}}, <br/><br/>Tämä on aikataulun hyväksymisen muistutus sähköposti, joka on lähetetty asiakirjahallintajärjestelmästä.<br/><br/>Asiakirja: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Tiimisivusto: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Tehtävä: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Aikataulutetun julkaisun päivämäärä: {{SchedulePublishDate}}"
         }
       }
     },
     "DocumentLibrary": {
       "FieldNames": {
-        "ScheduledPublishDate": "Aikataulun julkaisu päivämäärä"
+        "ScheduledPublishDate": "Aikataulutetun julkaisu päivämäärä"
       },
       "DocumentActions": {
         "Schedule": "Aikatauluta"
       },
       "DocumentStatuses": {
         "ScheduledForPublishing": "Aikataulutettu julkaistavaksi",
-        "FailedScheduleForPublishing": "Aikataulutus julkaisemiseksi epäonnistui"
+        "FailedScheduleForPublishing": "Aikataulutus julkaistavaksi epäonnistui"
       },
       "Schedule": {
-        "CancelSchedule": "Peruuta aikataulu työnkulku",
+        "CancelSchedule": "Peruuta aikataulutettu työnkulku",
         "MessageCancelSchedule": "Oletko varma, että haluat peruuttaa tämän työnkulun?"
       }
     },
