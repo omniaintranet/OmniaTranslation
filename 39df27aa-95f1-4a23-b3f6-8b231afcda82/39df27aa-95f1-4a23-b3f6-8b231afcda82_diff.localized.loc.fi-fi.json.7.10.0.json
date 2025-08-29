@@ -29,7 +29,7 @@
   "OTAD": {
     "System": {
       "ListRollup": {
-        "Title": "Luettelon yhteenveto",
+        "Title": "Luettelon listaus",
         "ListRollupBaseQuerySettings": {
           "BaseQueryUrl": "Peruskyselyn URL"
         }
@@ -40,7 +40,7 @@
       "DefaultProvider": {
         "SenderName": "Lähettäjän nimi",
         "EmailName": "Sähköpostin nimi",
-        "DefaultValueIfEmpty": "Oletusarvo, jos tyhjää"
+        "DefaultValueIfEmpty": "Oletusarvo, jos tyhjä"
       },
       "SendGrid": "SendGrid",
       "SendGridProvider": {
@@ -57,8 +57,8 @@
       }
     },
     "ListRollup": {
-      "BlockTitle": "Luettelon yhteenveto",
-      "BlockDescription": "Mahdollisuus koota luettelokohteita eri näkymillä, suodattimilla ja tarkennuksilla.",
+      "BlockTitle": "Luettelon listaus",
+      "BlockDescription": "Mahdollisuus näyttää luettelokohteita eri näkymillä, suodattimilla ja tarkennuksilla.",
       "Settings": {
         "Tabs": {
           "Display": "Näyttö",
@@ -79,7 +79,7 @@
           "UserEmail": "Käyttäjän sähköposti",
           "CurrentUserName": "Nykyinen käyttäjänimi",
           "CurrentUserId": "Nykyinen käyttäjä-ID",
-          "CurrentUserEmail": "Nykyinen käyttäjän sähköposti",
+          "CurrentUserEmail": "Nykyisen käyttäjän sähköposti",
           "Today": "Tänään",
           "CustomDate": "Mukautettu päivämäärä"
         },
@@ -100,7 +100,7 @@
           "Columns": {
             "QueryColumns": "SharePoint-sarakkeet",
             "Title": "SharePoint-sarake",
-            "Sort": "Lajittele"
+            "Sort": "Järjestys"
           },
           "Views": {
             "QueryViews": "SharePoint-näkymät",
@@ -119,15 +119,15 @@
           "Scroll": "Vieritys"
         },
         "SortBy": "Lajittele",
-        "FirstSortBy": "Ensimmäinen lajittelu",
-        "ThenSortBy": "Sitten lajittelu",
-        "SortDirection": "Lajittelusuunta",
+        "FirstSortBy": "Ensisijainen lajittelu",
+        "ThenSortBy": "Toissijainen lajittelu",
+        "SortDirection": "Lajittelujärjestys",
         "SortBys": {
           "Ascending": "Nouseva",
           "Descending": "Laskeva"
         },
         "SiteUrl": "Sivuston URL",
-        "ShowExportToExcel": "Näytä vientiExceliin"
+        "ShowExportToExcel": "Näytä vienti Exceliin"
       },
       "ListView": {
         "FileName": "Nimi",
@@ -157,7 +157,7 @@
     },
     "Search": {
       "AdvancedSearch": {
-        "NoResultFound": "Ei tuloksiahaulle \"{0}\"",
+        "NoResultFound": "Ei tuloksia haulle \"{0}\"",
         "AdjustYourFilter": "Säädä suodatinta ja yritä uudelleen"
       },
       "TemplateRegistrations": {
@@ -184,7 +184,7 @@
       "SetupWizard": {
         "Features": {
           "TeamProvisionTemplate": {
-            "Title": "Tiimin varustelumalli"
+            "Title": "Tiimin luontimalli"
           }
         }
       }
