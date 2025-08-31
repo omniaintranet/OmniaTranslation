@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Die Löschung dieser Seite erfordert eine Genehmigung. Bitte wählen Sie einen Genehmiger aus, um Ihre Anfrage zu senden."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Nur-Autor aktualisieren"
+          "UpdateOnlyAuthorRole": "Autor – nur aktualisieren"
         },
         "Panels": {
           "Approval": {
