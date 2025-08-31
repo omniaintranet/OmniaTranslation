@@ -1,25 +1,25 @@
 {
   "ODM": {
     "Admin": {
-      "AllowScheduledPublishing": "Tillad planlagt offentliggørelse",
+      "AllowScheduledPublishing": "Tillad planlagt udgivelse",
       "SchedulePublishing": {
-        "ScheduleProperty": "Planlægningsejendom",
-        "ApprovalReminderPeriod": "Godkendelsespåmindelsesperiode"
+        "ScheduleProperty": "Egenskab til planlagt udgivelse",
+        "ApprovalReminderPeriod": "Periode for påmindelse om godkendelse"
       }
     },
     "DocumentMetaDataDialog": {
       "WorkflowTypes": {
-        "ScheduledPublishing": "Planlagt offentliggørelse"
+        "ScheduledPublishing": "Planlagt udgivelse"
       },
       "Messages": {
-        "MeetDueDateScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang blev afsluttet.",
-        "CancelledScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang blev annulleret af ",
-        "FailedScheduleWorkflow": "Den planlagte offentliggørelsesarbejdsgang mislykkedes."
+        "MeetDueDateScheduleWorkflow": "Den planlagte udgivelsesproces blev afsluttet.",
+        "CancelledScheduleWorkflow": "Den planlagte udgivelseproces blev annulleret af ",
+        "FailedScheduleWorkflow": "Den planlagte udgivelsesproces mislykkedes."
       }
     },
     "NewDocumentDialog": {
       "ScheduledPublishing": {
-        "Tooltip": "Denne ejendom bruges til planlagt offentliggørelse"
+        "Tooltip": "Denne egenskab bruges til planlagt udgivelse"
       }
     },
     "Core": {
@@ -32,29 +32,29 @@
         }
       },
       "Messages": {
-        "ScheduledPublishingTooltip": "Denne ejendom bruges til planlagt offentliggørelse"
+        "ScheduledPublishingTooltip": "Denne egenskab bruges til planlagt udgivelse"
       },
       "EmailTemplates": {
         "ScheduleApprovalReminder": {
-          "SubjectTemplate": "Påmindelse om godkendelse af planlægning: {{DocumentTitle}}",
-          "BodyTemplate": "Kære {{Recipient}}, <br/><br/>Dette er en påmindelse om godkendelse af planlægning sendt fra dokumenthåndteringssystemet.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Opgave: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Planlagt offentliggørelsesdato: {{SchedulePublishDate}}"
+          "SubjectTemplate": "Husk godkendelse af planlagt udgivelse: {{DocumentTitle}}",
+          "BodyTemplate": "Kære {{Recipient}}, <br/><br/>Dette er en påmindelse om at godkende en planlagt udgivelse, sendt fra dokumenthåndteringssystemet.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Opgave: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Planlagt offentliggørelsesdato: {{SchedulePublishDate}}"
         }
       }
     },
     "DocumentLibrary": {
       "FieldNames": {
-        "ScheduledPublishDate": "Planlagt offentliggørelsesdato"
+        "ScheduledPublishDate": "Dato for planlagt udgivelse"
       },
       "DocumentActions": {
         "Schedule": "Planlæg"
       },
       "DocumentStatuses": {
-        "ScheduledForPublishing": "Planlagt til offentliggørelse",
-        "FailedScheduleForPublishing": "Planlægning til offentliggørelse mislykkedes"
+        "ScheduledForPublishing": "Planlagt til udgivelse",
+        "FailedScheduleForPublishing": "Planlagt udgivelse mislykkedes"
       },
       "Schedule": {
-        "CancelSchedule": "Annuller planlægningsarbejdsgang",
-        "MessageCancelSchedule": "Er du sikker på, at du vil annullere denne arbejdsgang?"
+        "CancelSchedule": "Annuller planlagt udgivelse",
+        "MessageCancelSchedule": "Er du sikker på, at du vil annullere?"
       }
     },
     "LinkPicker": {
