@@ -13,7 +13,7 @@
       },
       "Messages": {
         "MeetDueDateScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung wurde abgeschlossen.",
-        "CancelledScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung wurde von ",
+        "CancelledScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung wurde annulliert von ",
         "FailedScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung ist fehlgeschlagen."
       }
     },
@@ -27,7 +27,7 @@
         "OpenDocumentOption": {
           "OpenInClientApp": "In der Client-App öffnen",
           "OpenInWeb": "Im Browser öffnen",
-          "OpenInWebNewTab": "ImBrowser (neuer Tab) öffnen",
+          "OpenInWebNewTab": "Im Browser (neuer Tab) öffnen",
           "Download": "Herunterladen"
         }
       },
