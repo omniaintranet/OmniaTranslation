@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Sletting av denne siden krever godkjenning. Vennligst velg en godkjenner nedenfor for å sende forespørselen din."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Oppdaterin - bare forfattere"
+          "UpdateOnlyAuthorRole": "Forfattere - bare oppdatering"
         },
         "Panels": {
           "Approval": {
