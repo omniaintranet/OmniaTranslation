@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Sletning af denne side kræver godkendelse. Vælg venligst en godkender nedenfor for at sende din anmodning."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Opdatering - kun forfattere"
+          "UpdateOnlyAuthorRole": "Forfattere - kun opdatering"
         },
         "Panels": {
           "Approval": {
