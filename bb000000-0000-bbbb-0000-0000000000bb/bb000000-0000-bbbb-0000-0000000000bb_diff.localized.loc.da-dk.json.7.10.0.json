@@ -5,7 +5,7 @@
         "Picker": {
           "DateTimeFieldPicker": "Dato- og tidsvælger",
           "TagsFieldPicker": "Tagsvælger",
-          "BooleanFieldPicker": "Booleanvælger",
+          "BooleanFieldPicker": "Boolean-vælger",
           "TextFieldPicker": "Tekstinput",
           "RichTextFieldPicker": "Rich text input",
           "NumberFieldPicker": "Nummerinput"
@@ -28,7 +28,7 @@
           "Category": "Integration",
           "Description": "Denne funktion gør det muligt for Omnia at læse alle egenskaber på alle brugere fra Entra ID.",
           "Title": "Entra ID ekstra brugeregenskaber",
-          "ConsentInformation": "Tilladelsetil at læse alle brugeres fulde profiler er påkrævet for at læse alle egenskaberfor brugere fra Entra ID."
+          "ConsentInformation": "Tilladelse til at læse alle brugeres fulde profiler er påkrævet for at læse alle egenskaber for brugere fra Entra ID."
         }
       },
       "FilterEngine": {
@@ -57,7 +57,7 @@
     },
     "TermPicker": {
       "TaxonomyPickerDescription": "Taksonomivælger",
-      "EnterprisePickerDescription": "Virksomhedsejendomsvælger"
+      "EnterprisePickerDescription": "Egenskabsvælger"
     }
   }
 }
