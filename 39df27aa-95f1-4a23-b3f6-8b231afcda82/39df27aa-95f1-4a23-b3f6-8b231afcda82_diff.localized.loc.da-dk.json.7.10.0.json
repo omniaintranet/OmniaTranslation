@@ -3,9 +3,9 @@
     "Statistic": {
       "Export": {
         "Action": {
-          "Title": "Statistik eksport",
+          "Title": "Statistikeksport",
           "ButtonType": {
-            "Title": "Knap type",
+            "Title": "Knaptype",
             "SearchStatistics": {
               "Title": "Søg statistik",
               "Scope": {
@@ -13,7 +13,7 @@
                 "BusinessProfile": "Virksomhedsprofil"
               },
               "DaysToLookBack": {
-                "Title": "Dage at se tilbage"
+                "Title": "Antal dage at se tilbage"
               },
               "ExportStatus": {
                 "DownloadFile": "Download fil",
@@ -29,22 +29,22 @@
   "OTAD": {
     "System": {
       "ListRollup": {
-        "Title": "Liste rulleop",
+        "Title": "Oprulning af liste",
         "ListRollupBaseQuerySettings": {
-          "BaseQueryUrl": "Basis forespørgsels-URL"
+          "BaseQueryUrl": "Url til basisforespørgsel"
         }
       }
     },
     "CustomEmailSettings": {
       "Default": "Standard",
       "DefaultProvider": {
-        "SenderName": "Afsender navn",
+        "SenderName": "Afsendernavn",
         "EmailName": "E-mail navn",
         "DefaultValueIfEmpty": "Standardværdi hvis tom"
       },
       "SendGrid": "SendGrid",
       "SendGridProvider": {
-        "SenderName": "Afsender navn",
+        "SenderName": "Afsendernavn",
         "EmailAddress": "E-mail adresse",
         "APIKey": "API nøgle"
       }
@@ -57,8 +57,8 @@
       }
     },
     "ListRollup": {
-      "BlockTitle": "Liste rulleop",
-      "BlockDescription": "Mulighed for at rullelisteelementer op med forskellige visninger, filtre og raffineringsmuligheder.",
+      "BlockTitle": "Oprulning af liste",
+      "BlockDescription": "Mulighed for at oprulle listeelementer med forskellige visninger, filtre og afgræsningsmuligheder.",
       "Settings": {
         "Tabs": {
           "Display": "Vis",
@@ -75,11 +75,11 @@
         "QueryValueOptions": {
           "Manual": "Manuel",
           "QueryParameter": "Forespørgselsparameter",
-          "UserLanguage": "Bruger sprog",
+          "UserLanguage": "Brugersprog",
           "UserEmail": "Bruger E-mail",
           "CurrentUserName": "Nuværende brugernavn",
           "CurrentUserId": "Nuværende bruger-id",
-          "CurrentUserEmail": "Nuværende bruger E-mail",
+          "CurrentUserEmail": "Nuværende bruger-E-mail",
           "Today": "I dag",
           "CustomDate": "Brugerdefineret dato"
         },
@@ -93,35 +93,35 @@
         "IncludeChildTerms": "Inkluder underordnede termer",
         "IncludeEmpty": "Inkluder tom",
         "QueryConfigurationTypes": {
-          "UseQueryBuilder": "Brug forespørgselsbygger",
+          "UseQueryBuilder": "Brug forespørgsel",
           "PickSingleList": "Vælg enkelt liste"
         },
         "SharePointPickMode": {
           "Columns": {
-            "QueryColumns": "SharePoint kolonner",
-            "Title": "SharePoint kolonne",
+            "QueryColumns": "SharePoint-kolonner",
+            "Title": "SharePoint-kolonne",
             "Sort": "Sortér"
           },
           "Views": {
-            "QueryViews": "Sharepoint visninger",
-            "Title": "Sharepoint visning"
+            "QueryViews": "Sharepoint-visninger",
+            "Title": "Sharepoint-visning"
           }
         },
         "Done": "Færdig",
         "View": "Vis",
-        "PageSize": "Side størrelse",
-        "ItemLimit": "Element grænse",
-        "NoResultText": "Ingen resultat tekst",
-        "Paging": "Paging",
+        "PageSize": "Sidestørrelse",
+        "ItemLimit": "Maks. antal",
+        "NoResultText": "Ingen resultater",
+        "Paging": "Sideinddeling",
         "PagingType": {
-          "NoPaging": "Ingen paging",
+          "NoPaging": "Ingen sideinddeling",
           "Classic": "Klassisk",
-          "Scroll": "Rul"
+          "Scroll": "Scroll"
         },
         "SortBy": "Sorter efter",
-        "FirstSortBy": "Første sortering efter",
-        "ThenSortBy": "Derefter sortering efter",
-        "SortDirection": "Sorteringsretning",
+        "FirstSortBy": "Primær sortering",
+        "ThenSortBy": "Sekundær sortering",
+        "SortDirection": "Sortér efter",
         "SortBys": {
           "Ascending": "Stigende",
           "Descending": "Faldende"
@@ -131,7 +131,7 @@
       },
       "ListView": {
         "FileName": "Navn",
-        "EditIcon": "Info ikon",
+        "EditIcon": "Ikon for info",
         "IconTitleLink": "Ikon, titel og link",
         "Title": "Titel",
         "DateTimeMode": {
@@ -141,7 +141,7 @@
         "WidthPlaceholder": "Bredde",
         "ShowHeading": "Vis overskrift",
         "AddColumn": "Tilføj kolonne",
-        "AddSharepointColumn": "Tilføj SharePoint kolonne",
+        "AddSharepointColumn": "Tilføj SharePoint-kolonne",
         "AdjustColumns": "Juster kolonner",
         "AddSort": "Tilføj sortering"
       },
@@ -152,7 +152,7 @@
         "ExportToExcel": "Eksportér til Excel",
         "FileExporting": "Genererer Excel fil...",
         "ErrorWhenFileExporting": "Fejl ved eksport af fil",
-        "NotSupportExportMessage": "Ikke understøttet eksport for forespørgselsmetode: Vælg enkelt liste"
+        "NotSupportExportMessage": "Ikke understøttet eksport for forespørgsel: Vælg enkelt liste"
       }
     },
     "Search": {
@@ -162,10 +162,10 @@
       },
       "TemplateRegistrations": {
         "SpSiteSearchTemplate": {
-          "Title": "SharePoint sitesøg skabelon"
+          "Title": "SharePoint-søgeskabelon"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint listeelement søg skabelon",
+          "Title": "Skabelon til søgning i SharePoint-lister",
           "Created": "oprettet",
           "Modified": "ændret"
         }
@@ -184,7 +184,7 @@
       "SetupWizard": {
         "Features": {
           "TeamProvisionTemplate": {
-            "Title": "Team provision skabelon"
+            "Title": "Template til oprettelse af teams"
           }
         }
       }
@@ -194,7 +194,7 @@
     "People": {
       "Settings": {
         "QueryConfigurationTypes": {
-          "PickInWriteMode": "Vælg i skrive tilstand"
+          "PickInWriteMode": "Vælg i skrivetilstand"
         }
       },
       "PickUser": "Vælg bruger"
