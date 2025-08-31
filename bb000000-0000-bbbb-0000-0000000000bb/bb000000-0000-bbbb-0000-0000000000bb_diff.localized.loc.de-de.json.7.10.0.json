@@ -37,7 +37,7 @@
             "FilterRenderType": {
               "Option": {
                 "LinkButtons": {
-                  "Label": "Link-Buttons"
+                  "Label": "Link-Schaltflächen"
                 }
               }
             },
@@ -57,7 +57,7 @@
     },
     "TermPicker": {
       "TaxonomyPickerDescription": "Taxonomie-Auswahl",
-      "EnterprisePickerDescription": "Auswahl der Unternehmensattribute"
+      "EnterprisePickerDescription": "Auswahl der Unternehmenseigenschaften"
     }
   }
 }
