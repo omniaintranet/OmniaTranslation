@@ -162,10 +162,10 @@
       },
       "TemplateRegistrations": {
         "SpSiteSearchTemplate": {
-          "Title": "SharePoint-Site-Suchvorlage"
+          "Title": "Suchvorlage für SharePoint-Site"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint-Listenobjekt-Suchvorlage",
+          "Title": "Suchvorlage für SharePoint-Listenobjekte",
           "Created": "erstellt",
           "Modified": "bearbeitet"
         }
