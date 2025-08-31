@@ -3,8 +3,8 @@
     "Admin": {
       "AllowScheduledPublishing": "Tillat planlagt publisering",
       "SchedulePublishing": {
-        "ScheduleProperty": "Planlegg egenskap",
-        "ApprovalReminderPeriod": "Påminnelse om godkjenning periode"
+        "ScheduleProperty": "Egenskap for planlegging",
+        "ApprovalReminderPeriod": "Periode for påminnelse om godkjenning"
       }
     },
     "DocumentMetaDataDialog": {
@@ -12,9 +12,9 @@
         "ScheduledPublishing": "Planlagt publisering"
       },
       "Messages": {
-        "MeetDueDateScheduleWorkflow": "Den planlagte publiseringsarbeidsflyten ble fullført.",
-        "CancelledScheduleWorkflow": "Den planlagte publiseringsarbeidsflyten ble kansellert av ",
-        "FailedScheduleWorkflow": "Den planlagte publiseringsarbeidsflyten feilet."
+        "MeetDueDateScheduleWorkflow": "Planlagt publisering fullført.",
+        "CancelledScheduleWorkflow": "Den planlagte publiseringsflyt ble kansellert av ",
+        "FailedScheduleWorkflow": "Den planlagte publiseringsflyten feilet."
       }
     },
     "NewDocumentDialog": {
@@ -53,7 +53,7 @@
         "FailedScheduleForPublishing": "Planlegging for publisering feilet"
       },
       "Schedule": {
-        "CancelSchedule": "Kanseller planleggingsarbeidsflyt",
+        "CancelSchedule": "Kanseller planleggingsflyt",
         "MessageCancelSchedule": "Er du sikker på at du vil kansellere denne arbeidsflyten?"
       }
     },
