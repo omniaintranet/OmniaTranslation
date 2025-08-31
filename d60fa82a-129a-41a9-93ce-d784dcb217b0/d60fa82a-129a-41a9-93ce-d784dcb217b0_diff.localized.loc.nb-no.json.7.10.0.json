@@ -13,9 +13,9 @@
       },
       "Features": {
         "DocumentDurableLink": {
-          "Title": "Holdbar lenke til dokument",
+          "Title": "Holdbar lenker til dokument",
           "Category": "System",
-          "Description": "Aktiverer holdbare lenker for kontordokumenter.",
+          "Description": "Aktiverer holdbare lenker for Office-dokumenter.",
           "ConsentInformation": "Brukes til å lese filer."
         }
       }
@@ -33,7 +33,7 @@
           "ArchiveWithApprovalRequireMessage": "Sletting av denne siden krever godkjenning. Vennligst velg en godkjenner nedenfor for å sende forespørselen din."
         },
         "Permissions": {
-          "UpdateOnlyAuthorRole": "Oppdateringsbare forfattere"
+          "UpdateOnlyAuthorRole": "Bare oppdaterings-forfattere"
         },
         "Panels": {
           "Approval": {
@@ -53,7 +53,7 @@
             "Title": "Slett tekst"
           },
           "CreateNewText": {
-            "Title": "Opprett nytekst"
+            "Title": "Opprett ny tekst"
           }
         }
       }
@@ -62,7 +62,7 @@
   "OWCM": {
     "ChannelManagement": {
       "Admin": {
-        "TargetingFilterUserVisibilitySwitch": "Mål kanal til spesifikke redaktører"
+        "TargetingFilterUserVisibilitySwitch": "Kanal til spesifikke redaktører"
       }
     },
     "LinkPicker": {
@@ -77,29 +77,29 @@
       "ActionButtons": {
         "ChangeLinkType": "Endre lenketype",
         "DeletionApproval": "Godkjenn sletting",
-        "CancelDeletionApproval": "Avbryt slettingsgodkjenning"
+        "CancelDeletionApproval": "Avbryt godkjenning av sletting"
       },
       "EmailTemplates": {
         "DeletionApproval": {
           "MailApprovalStepAssigned": {
-            "Subject": "Status for slettingsgodkjenning oppdatert for siden {{PageTitle}}",
+            "Subject": "Status for godkjenning av sletting oppdatert for siden {{PageTitle}}",
             "Content": "Kjære {{Recipient}},<br/><br/>Du har blitt tildelt en oppgave for å fullføre {{CurrentStep}}-trinnet for siden <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Forrige trinn: {{SentFromStep}}<br/>Sendt fra: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
-            "Subject": "Godkjenningsstatus oppdatert for siden {{PageTitle}}",
-            "Content": "Kjære {{Recipient}},<br/><br/>Arbeidsflytstatusen for slettingsgodkjenningen av siden <a href={{PageLink}}>{{PageTitle}}</a> har endret seg.<br/><br/>Nåværende trinn: {{CurrentStep}}<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
+            "Subject": "Godkjenning av sletting oppdatert for siden {{PageTitle}}",
+            "Content": "Kjære {{Recipient}},<br/><br/>Arbeidsflytstatusen for godkjenning av sletting av siden <a href={{PageLink}}>{{PageTitle}}</a> har endret seg.<br/><br/>Nåværende trinn: {{CurrentStep}}<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCompleted": {
-            "Subject": "Slettingsgodkjenning fullført for {{PageTitle}}",
-            "Content": "Kjære {{Recipient}},<br/><br/>Slettingsgodkjenningen av siden <a href={{PageLink}}>{{PageTitle}}</a> er fullført og siden er slettet.<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
+            "Subject": "Godkjenning av sletting fullført for {{PageTitle}}",
+            "Content": "Kjære {{Recipient}},<br/><br/>Godkjenning av sletting av siden <a href={{PageLink}}>{{PageTitle}}</a> er fullført og siden er slettet.<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
-            "Subject": "Slettingsgodkjenning avvist for siden {{PageTitle}}",
-            "Content": "Kjære {{Recipient}},<br/><br/>Slettingsgodkjenningen av siden <a href={{PageLink}}>{{PageTitle}}</a> har blitt avvist av {{SentFromUser}} med følgende kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
+            "Subject": "Godkjenning av sletting avvist for siden {{PageTitle}}",
+            "Content": "Kjære {{Recipient}},<br/><br/>Godkjenning av sletting av siden <a href={{PageLink}}>{{PageTitle}}</a> har blitt avvist av {{SentFromUser}} med følgende kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Arbeidsflythistorikk<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCanceled": {
-            "Subject": "Slettingsgodkjenning avbrutt for siden {{PageTitle}}",
-            "Content": "Kjære {{Recipient}},<br/><br/>Slettingsgodkjenningen av siden <a href={{PageLink}}>{{PageTitle}}</a> har blitt avbrutt av {{SentFromUser}}"
+            "Subject": "Godkjenning av sletting avbrutt for siden {{PageTitle}}",
+            "Content": "Kjære {{Recipient}},<br/><br/>Godkjenning av sletting av siden <a href={{PageLink}}>{{PageTitle}}</a> har blitt avbrutt av {{SentFromUser}}"
           }
         },
         "VariationNotification": {
