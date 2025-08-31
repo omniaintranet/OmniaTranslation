@@ -31,7 +31,7 @@
       "ListRollup": {
         "Title": "Listeoppsummering",
         "ListRollupBaseQuerySettings": {
-          "BaseQueryUrl": "Grunnleggendespørrings-URL"
+          "BaseQueryUrl": "URL til basisspørrings"
         }
       }
     },
@@ -57,8 +57,8 @@
       }
     },
     "ListRollup": {
-      "BlockTitle": "Listeoppsummering",
-      "BlockDescription": "Mulighet til å oppsummere listeelementer med forskjellige visninger, filtre og raffineringsalternativer.",
+      "BlockTitle": "Opprulling af lister",
+      "BlockDescription": "Mulighet til å rulle opp listeelementer med forskjellige visninger, filtre og raffineringsalternativer.",
       "Settings": {
         "Tabs": {
           "Display": "Visning",
@@ -93,7 +93,7 @@
         "IncludeChildTerms": "Inkluder underordnede termer",
         "IncludeEmpty": "Inkluder tom",
         "QueryConfigurationTypes": {
-          "UseQueryBuilder": "Bruk spørringsbygger",
+          "UseQueryBuilder": "Bruk spørring",
           "PickSingleList": "Velg enkeltliste"
         },
         "SharePointPickMode": {
@@ -109,12 +109,12 @@
         },
         "Done": "Ferdig",
         "View": "Vis",
-        "PageSize": "Sidelengde",
+        "PageSize": "Sidestørrelse",
         "ItemLimit": "Elementgrense",
         "NoResultText": "Ingen resultattekst",
-        "Paging": "Paginerings",
+        "Paging": "Sideveksel",
         "PagingType": {
-          "NoPaging": "Ingen paginering",
+          "NoPaging": "Ingen sideveksel",
           "Classic": "Klassisk",
           "Scroll": "Rull"
         },
@@ -127,7 +127,7 @@
           "Descending": "Synkende"
         },
         "SiteUrl": "Nettsteds-URL",
-        "ShowExportToExcel": "Vis Eksporttil Excel"
+        "ShowExportToExcel": "Vis eksporter til Excel"
       },
       "ListView": {
         "FileName": "Navn",
@@ -162,10 +162,10 @@
       },
       "TemplateRegistrations": {
         "SpSiteSearchTemplate": {
-          "Title": "SharePoint nettstedsøkesmal"
+          "Title": "Sökmall för SharePoint-webbplats"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint listeelement søkesmal",
+          "Title": "Sökmall for SharePoint-lister",
           "Created": "opprettet",
           "Modified": "modifisert"
         }
@@ -184,7 +184,7 @@
       "SetupWizard": {
         "Features": {
           "TeamProvisionTemplate": {
-            "Title": "Teamoppsettmal"
+            "Title": "Mal for teamoppsett"
           }
         }
       }
