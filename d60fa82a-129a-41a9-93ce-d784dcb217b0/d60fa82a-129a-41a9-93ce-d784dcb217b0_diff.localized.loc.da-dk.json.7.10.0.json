@@ -13,9 +13,9 @@
       },
       "Features": {
         "DocumentDurableLink": {
-          "Title": "Holdbar link til dokument",
+          "Title": "Permanente links til dokumenter",
           "Category": "System",
-          "Description": "Aktiverer holdbare links til kontordokumenter.",
+          "Description": "Muliggør at oprette permanente links til Office-dokumenter.",
           "ConsentInformation": "Bruges til at læse filer."
         }
       }
@@ -30,7 +30,7 @@
           }
         },
         "PageArchive": {
-          "ArchiveWithApprovalRequireMessage": "Sletning af denne side kræver godkendelse. Vælg venligst en godkendernedenfor for at sende din anmodning."
+          "ArchiveWithApprovalRequireMessage": "Sletning af denne side kræver godkendelse. Vælg venligst en godkender nedenfor for at sende din anmodning."
         },
         "Permissions": {
           "UpdateOnlyAuthorRole": "Kun opdateringsforfatter"
@@ -41,12 +41,12 @@
           },
           "WCAG": {
             "Title": "WCAG",
-            "EnableWCAGPageChecker": "Aktiver sidekontrol"
+            "EnableWCAGPageChecker": "Aktiver kontrol af side"
           }
         },
         "Dialogs": {
           "ArchivePageType": {
-            "NotAllowedByHavingApproval": "Handlingen kan ikke fortsætte, fordi denne side allerede har været en del af en godkendelsesflow."
+            "NotAllowedByHavingApproval": "Handlingen kan ikke fortsætte, fordi siden allerede har været en del af en godkendelsesproces."
           },
           "DeleteText": {
             "ConfirmationMessage": "Er du sikker på, at du vil slette teksten?",
@@ -62,7 +62,7 @@
   "OWCM": {
     "ChannelManagement": {
       "Admin": {
-        "TargetingFilterUserVisibilitySwitch": "Mål kanal til specifikke redaktører"
+        "TargetingFilterUserVisibilitySwitch": "Kanal til specifikke redaktører"
       }
     },
     "LinkPicker": {
@@ -77,12 +77,12 @@
       "ActionButtons": {
         "ChangeLinkType": "Ændre linktype",
         "DeletionApproval": "Godkend sletning",
-        "CancelDeletionApproval": "Annuller sletningsgodkendelse"
+        "CancelDeletionApproval": "Annuller godkendelse af sletning"
       },
       "EmailTemplates": {
         "DeletionApproval": {
           "MailApprovalStepAssigned": {
-            "Subject": "Status for sletningsgodkendelse opdateret for side {{PageTitle}}",
+            "Subject": "Status for godkendelse af sletning opdateret for side {{PageTitle}}",
             "Content": "Kære {{Recipient}},<br/><br/>Du er blevet tildelt en opgave for at fuldføre {{CurrentStep}} trin for siden <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Tidligere trin: {{SentFromStep}}<br/>Sendt fra: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
           },
           "MailStatusUpdate": {
@@ -90,21 +90,21 @@
             "Content": "Kære {{Recipient}},<br/><br/>Workflow-status for sletningsgodkendelse af siden <a href={{PageLink}}>{{PageTitle}}</a> er ændret.<br/><br/>Nuværende trin: {{CurrentStep}}<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCompleted": {
-            "Subject": "Sletningsgodkendelse fuldført for {{PageTitle}}",
-            "Content": "Kære {{Recipient}},<br/><br/>Sletningsgodkendelsen af siden <a href={{PageLink}}>{{PageTitle}}</a> er fuldført, og siden er blevet slettet.<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
+            "Subject": "Godkendelse af sletning fuldført for {{PageTitle}}",
+            "Content": "Kære {{Recipient}},<br/><br/>Godkendelse af sletning af siden <a href={{PageLink}}>{{PageTitle}}</a> er fuldført, og siden er blevet slettet.<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalRejected": {
-            "Subject": "Sletningsgodkendelse afvist for side {{PageTitle}}",
-            "Content": "Kære {{Recipient}},<br/><br/>Sletningsgodkendelsen af siden <a href={{PageLink}}>{{PageTitle}}</a> er blevet afvist af {{SentFromUser}} med følgende kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
+            "Subject": "Godkendelse af sletning afvist for side {{PageTitle}}",
+            "Content": "Kære {{Recipient}},<br/><br/>Godkendelse af sletning af siden <a href={{PageLink}}>{{PageTitle}}</a> er blevet afvist af {{SentFromUser}} med følgende kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Workflow-historik<br/>{{WorkflowHistory}}"
           },
           "MailApprovalCanceled": {
-            "Subject": "Sletningsgodkendelse annulleret for side {{PageTitle}}",
+            "Subject": "Godkendelse af sletning annulleret for side {{PageTitle}}",
             "Content": "Kære {{Recipient}},<br/><br/>Sletningsgodkendelsen af siden <a href={{PageLink}}>{{PageTitle}}</a> er blevet annulleret af {{SentFromUser}}"
           }
         },
         "VariationNotification": {
           "PageProperty": {
-            "Template": "<p>Kære{{name}}</p><p>En ny version af <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> er blevet offentliggjort.<p>{%VariationList | <p>Du er {{propertyName}} for denne side for {{variationName}}<p> %}<p>Foretag venligst nødvendige ændringer til sidevariationen og offentliggør en ny version.</p>"
+            "Template": "<p>Kære{{name}}</p><p>En ny version af <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> er blevet udgivet.<p>{%VariationList | <p>Du er {{propertyName}} for denne side for {{variationName}}<p> %}<p>Foretag venligst nødvendige ændringer til sidevariationen og offentliggør en ny version.</p>"
           }
         }
       },
@@ -118,7 +118,7 @@
     },
     "PageSocial": {
       "Settings": {
-        "EnableViewButtonOnDialog": "Aktiver visningsknap i dialog"
+        "EnableViewButtonOnDialog": "Aktiver knap til visning i dialogvindue"
       }
     }
   }
