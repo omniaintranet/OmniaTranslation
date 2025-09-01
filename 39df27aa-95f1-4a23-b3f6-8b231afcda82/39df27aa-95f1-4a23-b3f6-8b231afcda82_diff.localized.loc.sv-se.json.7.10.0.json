@@ -2,7 +2,7 @@
   "OmniaWorkplace": {
     "ListRollup": {
       "Common": {
-        "NoLibrarySelected": "Ingen bibliotek vald",
+        "NoLibrarySelected": "Inget bibliotek valt",
         "Warning": "Varning!"
       }
     }
