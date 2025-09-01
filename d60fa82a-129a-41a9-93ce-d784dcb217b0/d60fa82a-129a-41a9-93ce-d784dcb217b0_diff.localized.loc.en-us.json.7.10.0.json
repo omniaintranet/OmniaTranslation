@@ -18,12 +18,12 @@
     },
     "PageRollup": {
       "WorkflowStatus": {
-        "WaitingForDeletion": "Waiting For Deletion"
+        "WaitingForDeletion": "Waiting For deletion"
       }
     },
     "PublishingApp": {
       "ActionButtons": {
-        "ApprovalDeletion": "Approve Deletion"
+        "ApprovalDeletion": "Approve deletion"
       }
     }
   }
