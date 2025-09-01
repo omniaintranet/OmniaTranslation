@@ -2,7 +2,7 @@
   "OmniaWorkplace": {
     "ListRollup": {
       "Common": {
-        "NoLibrarySelected": "Ei kirjastoa valittu",
+        "NoLibrarySelected": "Kirjastoa ei valittu",
         "Warning": "Varoitus!"
       }
     }
