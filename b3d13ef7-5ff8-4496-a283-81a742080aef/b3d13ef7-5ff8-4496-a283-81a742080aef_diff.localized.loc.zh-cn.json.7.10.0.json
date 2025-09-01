@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "允许定时发布",
+      "SchedulePublishing": {
+        "ScheduleProperty": "定时发布属性",
+        "ApprovalReminderPeriod": "审批提醒周期"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "定时发布"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "定时发布工作流已完成。",
+        "CancelledScheduleWorkflow": "定时发布工作流已被取消，取消人：",
+        "FailedScheduleWorkflow": "定时发布工作流失败。"
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "此属性用于定时发布"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "在客户端应用中打开",
+          "OpenInWeb": "在浏览器中打开",
+          "OpenInWebNewTab": "在浏览器中打开（新标签页）",
+          "Download": "下载"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "此属性用于定时发布"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "定时审批提醒：{{DocumentTitle}}",
+          "BodyTemplate": "亲爱的 {{Recipient}}，<br/><br/>这是从文档管理系统发送的定时审批提醒邮件。<br/><br/>文档：<a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>团队网站：<a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>任务：<a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>定时发布日期：{{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "定时发布日期"
+      },
+      "DocumentActions": {
+        "Schedule": "定时"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "已定时发布",
+        "FailedScheduleForPublishing": "定时发布失败"
+      },
+      "Schedule": {
+        "CancelSchedule": "取消定时工作流",
+        "MessageCancelSchedule": "您确定要取消此工作流吗？"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "网址"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "选择文档",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "在写入模式中选择"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "流程选择器"
+    }
+  }
+}

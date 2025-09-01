@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Visa resultatet för värde"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Text"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Beständig länk för dokument",
+          "Category": "System",
+          "Description": "Aktiverar beständiga länkar för kontorsdokument.",
+          "ConsentInformation": "Används för att läsa filer."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Typ",
+            "Publish": "Publicera",
+            "Deletion": "Borttagning"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "Borttagning av denna sida kräver godkännande. Vänligen välj en godkännare nedan för att skicka din begäran."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Författare - endast uppdatering"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Godkännande av borttagning"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Aktivera sidkontroll"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "Åtgärden kan inte fortsätta eftersom denna sida redan har varit en del av ett godkännandeflöde."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Är du säker på att du vill ta bort texten?",
+            "Title": "Ta bort text"
+          },
+          "CreateNewText": {
+            "Title": "Skapa ny text"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Rikta kanal till specifika redaktörer"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Lägg till länk"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Inloggningsnamn"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Ändra länktyp",
+        "DeletionApproval": "Godkänn borttagning",
+        "CancelDeletionApproval": "Avbryt godkännande av borttagning"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Status för godkänande av borttagning uppdaterad för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Du har tilldelats en uppgift att slutföra {{CurrentStep}} steget för sidan <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Föregående steg: {{SentFromStep}}<br/>Skickat från: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Godkännandestatus uppdaterad för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Status för arbetsflödet för godkännande av borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har ändrats.<br/><br/>Aktuellt steg: {{CurrentStep}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Godkännande av borttagning slutfört för {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande för borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> är slutfört och sidan har tagits bort.<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Godkännande för borttagning avvisat för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande dör borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avvisats av {{SentFromUser}}med följande kommentar:<br/><br/>{{SentFromComment}}<br/><br/>Arbetsflödeshistorik<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Godkännanden av borttagning avbrutet för sidan {{PageTitle}}",
+            "Content": "Hej {{Recipient}},<br/><br/>Godkännande av borttagning av sidan <a href={{PageLink}}>{{PageTitle}}</a> har avbrutits av {{SentFromUser}}"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Kära{{name}}</p><p>En ny version av <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> har publicerats.<p>{%VariationList | <p>Du är {{propertyName}} för denna sida för {{variationName}}<p> %}<p>Vänligen gör nödvändiga ändringar på sidvariationen och publicera en ny version.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "URL-segment"
+      },
+      "TextSettings": {
+        "UrlSegment": "URL-segment",
+        "Title": "Titel"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Aktivera vyknapp i dialogrutan"
+      }
+    }
+  }
+}

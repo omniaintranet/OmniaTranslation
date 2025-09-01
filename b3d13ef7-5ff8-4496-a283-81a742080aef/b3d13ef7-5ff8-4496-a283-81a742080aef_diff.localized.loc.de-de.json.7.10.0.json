@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Geplante Veröffentlichung erlauben",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Geplante Eigenschaft",
+        "ApprovalReminderPeriod": "Erinnerungszeitraum für Genehmigungen"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Geplante Veröffentlichung"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung wurde abgeschlossen.",
+        "CancelledScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung wurde annulliert von ",
+        "FailedScheduleWorkflow": "Der Workflow für die geplante Veröffentlichung ist fehlgeschlagen."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Diese Eigenschaft wird für die geplante Veröffentlichung verwendet"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "In der Client-App öffnen",
+          "OpenInWeb": "Im Browser öffnen",
+          "OpenInWebNewTab": "Im Browser (neuer Tab) öffnen",
+          "Download": "Herunterladen"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Diese Eigenschaft wird für die geplante Veröffentlichung verwendet"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Erinnerung zur Genehmigung der Planung: {{DocumentTitle}}",
+          "BodyTemplate": "Sehr geehrte/r {{Recipient}}, <br/><br/>Dies ist eine Erinnerungs-E-Mail zur Genehmigung der Planung, die vom Dokumentenmanagementsystem gesendet wurde.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Teamseite: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Aufgabe: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Geplantes Veröffentlichungsdatum: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Geplantes Veröffentlichungsdatum"
+      },
+      "DocumentActions": {
+        "Schedule": "Planen"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Für die Veröffentlichung geplant",
+        "FailedScheduleForPublishing": "Planung für die Veröffentlichung fehlgeschlagen"
+      },
+      "Schedule": {
+        "CancelSchedule": "Planungsworkflow abbrechen",
+        "MessageCancelSchedule": "Sind Sie sicher, dass Sie diesen Workflow abbrechen möchten?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Dokument auswählen",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Auswahl im Schreibmodus"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Prozessauswahl"
+    }
+  }
+}

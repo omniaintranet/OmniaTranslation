@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Sélecteur de date et heure",
+          "TagsFieldPicker": "Sélecteur de tags",
+          "BooleanFieldPicker": "Sélecteur booléen",
+          "TextFieldPicker": "Saisie de texte",
+          "RichTextFieldPicker": "Saisie de texte enrichi",
+          "NumberFieldPicker": "Saisie de nombre"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Pour ajouter des propriétés supplémentaires, veuillez activer la fonctionnalité de propriétés utilisateur supplémentaires d'Entra ID."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Sélecteur de personnes",
+        "SelectedUser": "Sélectionné"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Sélectionné"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Intégration",
+          "Description": "Cette fonctionnalité permet à Omnia de lire toutes les propriétés de tous les utilisateurs d'Entra ID.",
+          "Title": "Propriétés utilisateursupplémentaires d'Entra ID",
+          "ConsentInformation": "La permission de lire les profils complets de tous les utilisateurs est requise pour lire toutes les propriétés des utilisateurs d'Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Boutons de lien"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Autoriser les sélections multiples"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Niveau d'en-tête"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "Filtrage A - Z",
+        "AZText": "A -Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Sélecteur de taxonomie",
+      "EnterprisePickerDescription": "Sélecteur de propriétés d'entreprise"
+    }
+  }
+}

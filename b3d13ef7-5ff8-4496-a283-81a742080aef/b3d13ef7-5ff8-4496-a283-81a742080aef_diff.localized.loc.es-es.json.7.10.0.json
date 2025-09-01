@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Permitir publicación programada",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Propiedad de programación",
+        "ApprovalReminderPeriod": "Período de recordatorio de aprobación"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Publicación programada"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "El flujo de trabajo de publicación programada se completó.",
+        "CancelledScheduleWorkflow": "El flujo de trabajo de publicación programada fue cancelado por ",
+        "FailedScheduleWorkflow": "El flujo de trabajo de publicación programada falló."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Esta propiedad se utiliza para la publicación programada"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Abrir en la aplicación cliente",
+          "OpenInWeb": "Abrir en el navegador",
+          "OpenInWebNewTab": "Abrir en el navegador (nueva pestaña)",
+          "Download": "Descargar"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Esta propiedad se utiliza para la publicación programada"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Recordatorio de aprobación de programación: {{DocumentTitle}}",
+          "BodyTemplate": "Estimado/a {{Recipient}}, <br/><br/>Este es un correo electrónico de recordatorio de aprobación de programación enviado desde el sistema de gestión de documentos.<br/><br/>Documento: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Sitio del equipo: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Tarea: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Fecha de publicación programada: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Fecha de publicación programada"
+      },
+      "DocumentActions": {
+        "Schedule": "Programar"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Programado para publicación",
+        "FailedScheduleForPublishing": "La programación para publicación falló"
+      },
+      "Schedule": {
+        "CancelSchedule": "Cancelar flujo de trabajo de programación",
+        "MessageCancelSchedule": "¿Está seguro de que desea cancelar este flujo de trabajo?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Seleccionar documento",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Seleccionaren modo de escritura"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Selector de procesos"
+    }
+  }
+}

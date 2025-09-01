@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Datum- och tidväljare",
+          "TagsFieldPicker": "Taggväljare",
+          "BooleanFieldPicker": "Boolean-väljare",
+          "TextFieldPicker": "Textinmatning",
+          "RichTextFieldPicker": "RTF-textinmatning",
+          "NumberFieldPicker": "Nummerinmatning"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "För att lägga till extra egenskaper, vänligen aktivera funktionen för ytterligare användaregenskaper i Entra ID."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Personväljare",
+        "SelectedUser": "Vald"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Vald"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integration",
+          "Description": "Denna funktion gör det möjligt för Omnia att läsa alla egenskaper för alla användare från Entra ID.",
+          "Title": "Ytterligare användaregenskaper i Entra ID",
+          "ConsentInformation": "Behörighet att läsa alla användares fullständiga profiler krävs för att läsa alla egenskaper för användare från Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Länkknappar"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Tillåt flera val"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Rubriknivå"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "Filtrering A - Ö",
+        "AZText": "A - Ö"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taxonomiväljare",
+      "EnterprisePickerDescription": "Väljare för verksamhetsegenskaper"
+    }
+  }
+}

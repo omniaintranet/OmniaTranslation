@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Statistieken exporteren",
+          "ButtonType": {
+            "Title": "Knoptype",
+            "SearchStatistics": {
+              "Title": "Zoekstatistieken",
+              "Scope": {
+                "Title": "Bereik",
+                "BusinessProfile": "Bedrijfsprofiel"
+              },
+              "DaysToLookBack": {
+                "Title": "Dagen om terug te kijken"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Bestand downloaden",
+                "Exporting": "Exportbestand aanmaken...",
+                "Failed": "Mislukt"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Lijstrollup",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "Basisquery-URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standaard",
+      "DefaultProvider": {
+        "SenderName": "Afzendernaam",
+        "EmailName": "E-mailnaam",
+        "DefaultValueIfEmpty": "Standaardwaarde als leeg"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Afzendernaam",
+        "EmailAddress": "E-mailadres",
+        "APIKey": "API-sleutel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigatie"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Lijstrollup",
+      "BlockDescription": "Mogelijkheid om lijstitems samen te voegen met verschillende weergaven, filters en verfijningen.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Weergeven",
+          "Filter": "Filter",
+          "General": "Algemeen",
+          "Query": "Query",
+          "Export": "Exporteren"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Vaste waarde",
+          "CurrentPage": "Huidige pagina",
+          "User": "Gebruiker"
+        },
+        "QueryValueOptions": {
+          "Manual": "Handmatig",
+          "QueryParameter": "Queryparameter",
+          "UserLanguage": "Gebruikers taal",
+          "UserEmail": "Gebruikerse-mail",
+          "CurrentUserName": "Huidige gebruikersnaam",
+          "CurrentUserId": "Huidige gebruikers-ID",
+          "CurrentUserEmail": "Huidige gebruikers e-mail",
+          "Today": "Vandaag",
+          "CustomDate": "Aangepaste datum"
+        },
+        "Operators": {
+          "Equals": "Gelijk aan",
+          "StartWith": "Begint met",
+          "Contains": "Bevat",
+          "LessThan": "Minder dan",
+          "GreaterThan": "Groter dan"
+        },
+        "IncludeChildTerms": "Inclusief kindtermen",
+        "IncludeEmpty": "Inclusief leeg",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Gebruik querybouwer",
+          "PickSingleList": "Kies enkele lijst"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint-kolommen",
+            "Title": "SharePoint-kolom",
+            "Sort": "Sorteren"
+          },
+          "Views": {
+            "QueryViews": "SharePoint-weergaven",
+            "Title": "SharePoint-weergave"
+          }
+        },
+        "Done": "Klaar",
+        "View": "Weergave",
+        "PageSize": "Paginaformaat",
+        "ItemLimit": "Itemlimiet",
+        "NoResultText": "Geen resultaattekst",
+        "Paging": "Paginering",
+        "PagingType": {
+          "NoPaging": "Geen paginering",
+          "Classic": "Klassiek",
+          "Scroll": "Scrollen"
+        },
+        "SortBy": "Sorteren op",
+        "FirstSortBy": "Eerst sorteren op",
+        "ThenSortBy": "Dan sorteren op",
+        "SortDirection": "Sorteer richting",
+        "SortBys": {
+          "Ascending": "Oplopend",
+          "Descending": "Aflopend"
+        },
+        "SiteUrl": "Site-URL",
+        "ShowExportToExcel": "Toon export naar Excel"
+      },
+      "ListView": {
+        "FileName": "Naam",
+        "EditIcon": "Info-icoon",
+        "IconTitleLink": "Icoon, titel en link",
+        "Title": "Titel",
+        "DateTimeMode": {
+          "Normal": "Klassiek",
+          "Social": "Sociaal"
+        },
+        "WidthPlaceholder": "Breedte",
+        "ShowHeading": "Toon kop",
+        "AddColumn": "Kolom toevoegen",
+        "AddSharepointColumn": "SharePoint-kolom toevoegen",
+        "AdjustColumns": "Kolommen aanpassen",
+        "AddSort": "Sorteren toevoegen"
+      },
+      "Common": {
+        "QueryFailedMsg": "De query is mislukt"
+      },
+      "Exporting": {
+        "ExportToExcel": "Exporteren naar Excel",
+        "FileExporting": "Excel-bestand aanmaken...",
+        "ErrorWhenFileExporting": "Fout bij het exporteren van het bestand",
+        "NotSupportExportMessage": "Export niet ondersteund voor Query-modus: Kies enkele lijst"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Geen resultaten gevonden voor \"{0}\"",
+        "AdjustYourFilter": "Pas uw filter aan en probeer het opnieuw"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint-sitezoektemplate"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint-lijstitemzoektemplate",
+          "Created": "aangemaakt",
+          "Modified": "gewijzigd"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Exporteren laatste 30 dagen"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Activeer toegankelijkheidsfuncties",
+      "DeactivateAccessibilityFeatures": "Deactiveer toegankelijkheidsfuncties"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Teamvoorziening template"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Kies in schrijfmodus"
+        }
+      },
+      "PickUser": "Kies gebruiker"
+    }
+  }
+}

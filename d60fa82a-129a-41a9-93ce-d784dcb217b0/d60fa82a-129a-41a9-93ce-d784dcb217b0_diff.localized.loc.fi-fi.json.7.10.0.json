@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Näytä tulos arvolle"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Teksti"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Kestävät linkit dokumenteille",
+          "Category": "Järjestelmä",
+          "Description": "Mahdollistaa kestävät linkit Office-dokumenteille.",
+          "ConsentInformation": "Käytetään tiedostojen lukemiseen."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Tyyppi",
+            "Publish": "Julkaise",
+            "Deletion": "Poisto"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "Tämän sivun poistaminen vaatii hyväksynnän. Valitse alla hyväksyjä lähettääksesi pyyntösi."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Vain päivitysoikeus"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Poiston hyväksyntä"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Ota käyttöön sivun tarkistaja"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "Toimintoa ei voida jatkaa, koska tämä sivu on jo ollut osana hyväksyntäprosessia."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Oletko varma, että haluat poistaa tekstin?",
+            "Title": "Poista teksti"
+          },
+          "CreateNewText": {
+            "Title": "Luo uusi teksti"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Kohdista kanava tietyille toimittajille"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Lisää linkki"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Käyttäjätunnus"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Vaihda linkin tyyppi",
+        "DeletionApproval": "Hyväksy poisto",
+        "CancelDeletionApproval": "Peruuta poiston hyväksyntä"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Poiston hyväksynnän tila päivitetty sivulle {{PageTitle}}",
+            "Content": "Hyvä {{Recipient}},<br/><br/>Sinulle on annettu tehtävä suorittaa vaihe {{CurrentStep}} sivulle <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Edellinen vaihe: {{SentFromStep}}<br/>Lähettäjä: {{SentFromUser}}<br/>Kommentti: {{SentFromComment}}<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Hyväksynnän tila päivitetty sivulle {{PageTitle}}",
+            "Content": "Hyvä {{Recipient}},<br/><br/>Työnkulun tila poiston hyväksynnälle sivulle <a href={{PageLink}}>{{PageTitle}}</a> on muuttunut.<br/><br/>Nykyinen vaihe: {{CurrentStep}}<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Poiston hyväksyntä valmis sivulle {{PageTitle}}",
+            "Content": "Hyvä {{Recipient}},<br/><br/>Sivun <a href={{PageLink}}>{{PageTitle}}</a> poiston hyväksyntä on valmis ja sivu on poistettu.<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Poiston hyväksyntä hylätty sivulle {{PageTitle}}",
+            "Content": "Hyvä {{Recipient}},<br/><br/>Sivun <a href={{PageLink}}>{{PageTitle}}</a> poiston hyväksyntä on hylätty käyttäjältä {{SentFromUser}} seuraavalla kommentilla:<br/><br/>{{SentFromComment}}<br/><br/>Työnkulun historia<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Poiston hyväksyntä peruutettu sivulle {{PageTitle}}",
+            "Content": "Hyvä {{Recipient}},<br/><br/>Sivun <a href={{PageLink}}>{{PageTitle}}</a> poiston hyväksyntä on peruutettu käyttäjältä {{SentFromUser}}"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Hyvä{{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> on julkaistu.<p>{%VariationList | <p>Olet tämän sivun {{propertyName}} {{variationName}}</p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "URL-segmentti"
+      },
+      "TextSettings": {
+        "UrlSegment": "URL-segmentti",
+        "Title": "Otsikko"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Ota käyttöön näkymäpainike dialogissa"
+      }
+    }
+  }
+}

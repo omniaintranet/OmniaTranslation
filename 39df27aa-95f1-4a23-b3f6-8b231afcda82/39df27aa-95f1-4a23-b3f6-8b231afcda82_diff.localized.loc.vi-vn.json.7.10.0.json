@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Xuất thống kê",
+          "ButtonType": {
+            "Title": "Loại nút",
+            "SearchStatistics": {
+              "Title": "Tìm kiếmthống kê",
+              "Scope": {
+                "Title": "Phạm vi",
+                "BusinessProfile": "Hồ sơ doanh nghiệp"
+              },
+              "DaysToLookBack": {
+                "Title": "Số ngày để xem lại"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Tải xuống tệp",
+                "Exporting": "Đang tạo tệp xuất...",
+                "Failed": "Thất bại"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Tổng hợp danh sách",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "URL truy vấn cơ bản"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Mặc định",
+      "DefaultProvider": {
+        "SenderName": "Tên người gửi",
+        "EmailName": "Tên email",
+        "DefaultValueIfEmpty": "Giá trị mặc định nếu trống"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Tên người gửi",
+        "EmailAddress": "Địa chỉ email",
+        "APIKey": "Khóa API"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Điều hướng"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Tổng hợp danh sách",
+      "BlockDescription": "Khảnăng tổng hợp các mục danh sách với các chế độ xem, bộ lọc và bộ tinh chỉnh khácnhau.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Hiển thị",
+          "Filter": "Bộ lọc",
+          "General": "Chung",
+          "Query": "Truy vấn",
+          "Export": "Xuất"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Giá trị cố định",
+          "CurrentPage": "Trang hiện tại",
+          "User": "Người dùng"
+        },
+        "QueryValueOptions": {
+          "Manual": "Thủ công",
+          "QueryParameter": "Tham số truy vấn",
+          "UserLanguage": "Ngôn ngữ người dùng",
+          "UserEmail": "Email người dùng",
+          "CurrentUserName": "Tên người dùng hiện tại",
+          "CurrentUserId": "ID người dùnghiện tại",
+          "CurrentUserEmail": "Email người dùng hiện tại",
+          "Today": "Hôm nay",
+          "CustomDate": "Ngày tùy chỉnh"
+        },
+        "Operators": {
+          "Equals": "Bằng",
+          "StartWith": "Bắt đầu với",
+          "Contains": "Chứa",
+          "LessThan": "Nhỏ hơn",
+          "GreaterThan": "Lớn hơn"
+        },
+        "IncludeChildTerms": "Bao gồm các thuật ngữ con",
+        "IncludeEmpty": "Bao gồm trống",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Sử dụng trình tạo truy vấn",
+          "PickSingleList": "Chọn danh sách đơn"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "Cột SharePoint",
+            "Title": "Cột SharePoint",
+            "Sort": "Sắp xếp"
+          },
+          "Views": {
+            "QueryViews": "Chế độ xem SharePoint",
+            "Title": "Chế độ xem SharePoint"
+          }
+        },
+        "Done": "Hoàn thành",
+        "View": "Xem",
+        "PageSize": "Kích thước trang",
+        "ItemLimit": "Giới hạn mục",
+        "NoResultText": "Không có kết quả",
+        "Paging": "Phân trang",
+        "PagingType": {
+          "NoPaging": "Không phân trang",
+          "Classic": "Cổ điển",
+          "Scroll": "Cuộn"
+        },
+        "SortBy": "Sắp xếp theo",
+        "FirstSortBy": "Sắp xếp đầu tiên theo",
+        "ThenSortBy": "Sau đó sắp xếp theo",
+        "SortDirection": "Hướng sắp xếp",
+        "SortBys": {
+          "Ascending": "Tăng dần",
+          "Descending": "Giảm dần"
+        },
+        "SiteUrl": "URL trang",
+        "ShowExportToExcel": "Hiển thị Xuất sang Excel"
+      },
+      "ListView": {
+        "FileName": "Tên",
+        "EditIcon": "Biểu tượng thông tin",
+        "IconTitleLink": "Biểu tượng, tiêu đề và liên kết",
+        "Title": "Tiêu đề",
+        "DateTimeMode": {
+          "Normal": "Cổ điển",
+          "Social": "Xã hội"
+        },
+        "WidthPlaceholder": "Chiều rộng",
+        "ShowHeading": "Hiển thị tiêu đề",
+        "AddColumn": "Thêm cột",
+        "AddSharepointColumn": "Thêm cột SharePoint",
+        "AdjustColumns": "Điều chỉnh cột",
+        "AddSort": "Thêm sắp xếp"
+      },
+      "Common": {
+        "QueryFailedMsg": "Truy vấn thất bại"
+      },
+      "Exporting": {
+        "ExportToExcel": "Xuất sang Excel",
+        "FileExporting": "Đang tạo tệp Excel...",
+        "ErrorWhenFileExporting": "Lỗi khi xuất tệp",
+        "NotSupportExportMessage": "Không hỗ trợ xuất cho chế độ Truy vấn: Chọn danhsách đơn"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Không tìm thấy kết quả cho \"{0}\"",
+        "AdjustYourFilter": "Điều chỉnh bộ lọc của bạn và thử lại"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "Mẫu tìm kiếm trang SharePoint"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Mẫu tìm kiếm mục danh sách SharePoint",
+          "Created": "được tạo",
+          "Modified": "được sửa đổi"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Xuất 30 ngày qua"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Kích hoạt các tính năng truy cập",
+      "DeactivateAccessibilityFeatures": "Vô hiệu hóa các tính năng truycập"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Mẫu cung cấp nhóm"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Chọn trong chế độ viết"
+        }
+      },
+      "PickUser": "Chọn người dùng"
+    }
+  }
+}

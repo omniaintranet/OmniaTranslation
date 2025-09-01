@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Mostrar el resultado para el valor"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Texto"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Enlace duradero del documento",
+          "Category": "Sistema",
+          "Description": "Habilita enlaces duraderos para documentos de oficina.",
+          "ConsentInformation": "Utilizado para leer archivos."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Tipo",
+            "Publish": "Publicar",
+            "Deletion": "Eliminación"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "La eliminación de esta página requiere aprobación. Por favor, elige un aprobador a continuación para enviar tu solicitud."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Autor solo de actualización"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Aprobación de eliminación"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Habilitar verificador de página"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "La acción no se puede continuar porque esta página ya ha sido parte de un flujo de aprobación."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "¿Estás seguro de que deseas eliminar el texto?",
+            "Title": "Eliminar texto"
+          },
+          "CreateNewText": {
+            "Title": "Crear nuevo texto"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Dirigir el canal a editores específicos"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Agregar enlace"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Nombre de usuario"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Cambiar tipo de enlace",
+        "DeletionApproval": "Aprobar eliminación",
+        "CancelDeletionApproval": "Cancelar eliminación"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Estado de aprobación de eliminación actualizado para la página {{PageTitle}}",
+            "Content": "Estimado/a {{Recipient}},<br/><br/>Se te ha asignado una tarea para completar el paso {{CurrentStep}} para la página <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Paso anterior: {{SentFromStep}}<br/>Enviado por: {{SentFromUser}}<br/>Comentario: {{SentFromComment}}<br/><br/>Historial del flujo de trabajo<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Estado de aprobación actualizado para la página {{PageTitle}}",
+            "Content": "Estimado/a {{Recipient}},<br/><br/>El estado del flujo de trabajo para la aprobación de eliminación de la página <a href={{PageLink}}>{{PageTitle}}</a> ha cambiado.<br/><br/>Paso actual: {{CurrentStep}}<br/><br/>Historial del flujo de trabajo<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Aprobaciónde eliminación completada para {{PageTitle}}",
+            "Content": "Estimado/a {{Recipient}},<br/><br/>La aprobación de eliminación de la página <a href={{PageLink}}>{{PageTitle}}</a> está completa y la página ha sido eliminada.<br/><br/>Historial del flujo de trabajo<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Aprobación de eliminación rechazada para la página {{PageTitle}}",
+            "Content": "Estimado/a {{Recipient}},<br/><br/>La aprobación de eliminación de la página <a href={{PageLink}}>{{PageTitle}}</a> ha sido rechazada por {{SentFromUser}} con el siguiente comentario:<br/><br/>{{SentFromComment}}<br/><br/>Historial del flujo de trabajo<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Aprobación de eliminación cancelada para la página {{PageTitle}}",
+            "Content": "Estimado/a {{Recipient}},<br/><br/>La aprobación de eliminación de la página <a href={{PageLink}}>{{PageTitle}}</a> ha sido cancelada por {{SentFromUser}}"
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Estimado/a {{name}}</p><p>Se ha publicado una nueva versión de <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a>.<p>{%VariationList | <p>Eres el/la {{propertyName}} de esta página para {{variationName}}<p> %}<p>Por favor, realiza los cambios necesarios en la variación de la página y publica una nueva versión.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "Segmento de URL"
+      },
+      "TextSettings": {
+        "UrlSegment": "Segmento de URL",
+        "Title": "Título"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Habilitar botón de vista en el diálogo"
+      }
+    }
+  }
+}

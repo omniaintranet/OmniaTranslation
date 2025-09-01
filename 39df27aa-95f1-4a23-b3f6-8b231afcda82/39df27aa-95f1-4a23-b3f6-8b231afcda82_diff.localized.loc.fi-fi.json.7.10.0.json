@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Tilastojen vienti",
+          "ButtonType": {
+            "Title": "Painikkeen tyyppi",
+            "SearchStatistics": {
+              "Title": "Hae tilastoja",
+              "Scope": {
+                "Title": "Laajuus",
+                "BusinessProfile": "Liiketoimintaprofiili"
+              },
+              "DaysToLookBack": {
+                "Title": "Päiviä taaksepäin"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Lataa tiedosto",
+                "Exporting": "Vientitiedoston luonti...",
+                "Failed": "Epäonnistui"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Luettelon listaus",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "Peruskyselyn URL"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Oletus",
+      "DefaultProvider": {
+        "SenderName": "Lähettäjän nimi",
+        "EmailName": "Sähköpostin nimi",
+        "DefaultValueIfEmpty": "Oletusarvo, jos tyhjä"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Lähettäjän nimi",
+        "EmailAddress": "Sähköpostiosoite",
+        "APIKey": "API-avain"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigointi"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Luettelon listaus",
+      "BlockDescription": "Mahdollisuus näyttää luettelokohteita eri näkymillä, suodattimilla ja tarkennuksilla.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Näyttö",
+          "Filter": "Suodatin",
+          "General": "Yleinen",
+          "Query": "Kysely",
+          "Export": "Vienti"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Kiinteä arvo",
+          "CurrentPage": "Nykyinen sivu",
+          "User": "Käyttäjä"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuaalinen",
+          "QueryParameter": "Kyselyparametri",
+          "UserLanguage": "Käyttäjän kieli",
+          "UserEmail": "Käyttäjän sähköposti",
+          "CurrentUserName": "Nykyinen käyttäjänimi",
+          "CurrentUserId": "Nykyinen käyttäjä-ID",
+          "CurrentUserEmail": "Nykyisen käyttäjän sähköposti",
+          "Today": "Tänään",
+          "CustomDate": "Mukautettu päivämäärä"
+        },
+        "Operators": {
+          "Equals": "Yhtä suuri kuin",
+          "StartWith": "Aloita",
+          "Contains": "Sisältää",
+          "LessThan": "Vähemmän kuin",
+          "GreaterThan": "Enemmän kuin"
+        },
+        "IncludeChildTerms": "Sisällytä alatermit",
+        "IncludeEmpty": "Sisällytä tyhjät",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Käytä kyselyrakentajaa",
+          "PickSingleList": "Valitse yksittäinen luettelo"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint-sarakkeet",
+            "Title": "SharePoint-sarake",
+            "Sort": "Järjestys"
+          },
+          "Views": {
+            "QueryViews": "SharePoint-näkymät",
+            "Title": "SharePoint-näkymä"
+          }
+        },
+        "Done": "Valmis",
+        "View": "Näkymä",
+        "PageSize": "Sivun koko",
+        "ItemLimit": "Kohdelimiitti",
+        "NoResultText": "Ei tuloksia",
+        "Paging": "Sivutus",
+        "PagingType": {
+          "NoPaging": "Ei sivutusta",
+          "Classic": "Klassinen",
+          "Scroll": "Vieritys"
+        },
+        "SortBy": "Lajittele",
+        "FirstSortBy": "Ensisijainen lajittelu",
+        "ThenSortBy": "Toissijainen lajittelu",
+        "SortDirection": "Lajittelujärjestys",
+        "SortBys": {
+          "Ascending": "Nouseva",
+          "Descending": "Laskeva"
+        },
+        "SiteUrl": "Sivuston URL",
+        "ShowExportToExcel": "Näytä vienti Exceliin"
+      },
+      "ListView": {
+        "FileName": "Nimi",
+        "EditIcon": "Tietoikoni",
+        "IconTitleLink": "Ikoni, otsikko ja linkki",
+        "Title": "Otsikko",
+        "DateTimeMode": {
+          "Normal": "Klassinen",
+          "Social": "Sosiaalinen"
+        },
+        "WidthPlaceholder": "Leveys",
+        "ShowHeading": "Näytä otsikko",
+        "AddColumn": "Lisää sarake",
+        "AddSharepointColumn": "Lisää SharePoint-sarake",
+        "AdjustColumns": "Säädä sarakkeita",
+        "AddSort": "Lisää lajittelu"
+      },
+      "Common": {
+        "QueryFailedMsg": "Kysely epäonnistui"
+      },
+      "Exporting": {
+        "ExportToExcel": "Vie Exceliin",
+        "FileExporting": "Generoi Excel-tiedosto...",
+        "ErrorWhenFileExporting": "Virhe tiedoston viennissä",
+        "NotSupportExportMessage": "Ei tuettua vientiä kyselytilassa: Valitse yksittäinen luettelo"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Ei tuloksia haulle \"{0}\"",
+        "AdjustYourFilter": "Säädä suodatinta ja yritä uudelleen"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "SharePoint-sivuston hakumalli"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint-luettelokohteen hakumalli",
+          "Created": "luotu",
+          "Modified": "muokattu"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Vie viimeiset 30 päivää"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Aktivoi saavutettavuusominaisuudet",
+      "DeactivateAccessibilityFeatures": "Deaktivoi saavutettavuusominaisuudet"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Tiimin luontimalli"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Valitse kirjoitustilassa"
+        }
+      },
+      "PickUser": "Valitse käyttäjä"
+    }
+  }
+}

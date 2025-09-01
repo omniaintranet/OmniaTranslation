@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Tillåt schemalagd publicering",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Egenskap för schemaläggning",
+        "ApprovalReminderPeriod": "Påminnelseperiod för godkännande"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Schemalagd publicering"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Flödet för den schemalagda publiceringen har slutförts.",
+        "CancelledScheduleWorkflow": "Födet för den schemalagda publiceringen har avbrutits av ",
+        "FailedScheduleWorkflow": "Flödet för den schemalagda publiceringen misslyckades."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Denna egenskap används för schemalagd publicering"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Öppna i klientapp",
+          "OpenInWeb": "Öppna i webbläsare",
+          "OpenInWebNewTab": "Öppna i webbläsare (ny flik)",
+          "Download": "Ladda ner"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Denna egenskap används för schemalagd publicering"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Påminnelse om schemaläggning av godkännande: {{DocumentTitle}}",
+          "BodyTemplate": "Hej {{Recipient}}, <br/><br/>Detta är ett e-postmeddelande för påminnelse om schemaläggning av godkännande som skickas från dokumenthanteringssystemet.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Teamwebbplats: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Uppgift: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Datum för schemalagd publicering: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Datum för schemalagd publicering"
+      },
+      "DocumentActions": {
+        "Schedule": "Schemalägg"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Schemalagd för publicering",
+        "FailedScheduleForPublishing": "Schemaläggning för publicering misslyckades"
+      },
+      "Schedule": {
+        "CancelSchedule": "Avbryt flödet för schemaläggning",
+        "MessageCancelSchedule": "Är du säker på att du vill avbryta detta arbetsflöde?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Välj dokument",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Välj i skrivläge"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Processväljare"
+    }
+  }
+}

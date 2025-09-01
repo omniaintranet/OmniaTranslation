@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "日期时间选择器",
+          "TagsFieldPicker": "标签选择器",
+          "BooleanFieldPicker": "布尔选择器",
+          "TextFieldPicker": "文本输入",
+          "RichTextFieldPicker": "富文本输入",
+          "NumberFieldPicker": "数字输入"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "要添加额外属性，请激活 Entra ID 附加用户属性功能。"
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "人员选择器",
+        "SelectedUser": "已选择"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "已选择"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "集成",
+          "Description": "此功能允许 Omnia 从 EntraID 读取所有用户的所有属性。",
+          "Title": "Entra ID 附加用户属性",
+          "ConsentInformation": "读取所有用户完整档案的权限是读取 Entra ID 用户所有属性所必需的。"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "链接按钮"
+                }
+              }
+            },
+            "AllowMultipleSelections": "允许多选"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "标题级别"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z 过滤",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "分类选择器",
+      "EnterprisePickerDescription": "企业属性选择器"
+    }
+  }
+}

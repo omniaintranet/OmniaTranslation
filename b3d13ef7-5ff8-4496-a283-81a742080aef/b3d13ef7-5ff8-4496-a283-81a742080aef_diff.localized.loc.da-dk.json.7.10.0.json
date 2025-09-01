@@ -1,0 +1,79 @@
+{
+  "ODM": {
+    "Admin": {
+      "AllowScheduledPublishing": "Tillad planlagt udgivelse",
+      "SchedulePublishing": {
+        "ScheduleProperty": "Egenskab til planlagt udgivelse",
+        "ApprovalReminderPeriod": "Periode for påmindelse om godkendelse"
+      }
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ScheduledPublishing": "Planlagt udgivelse"
+      },
+      "Messages": {
+        "MeetDueDateScheduleWorkflow": "Den planlagte udgivelsesproces blev afsluttet.",
+        "CancelledScheduleWorkflow": "Den planlagte udgivelseproces blev annulleret af ",
+        "FailedScheduleWorkflow": "Den planlagte udgivelsesproces mislykkedes."
+      }
+    },
+    "NewDocumentDialog": {
+      "ScheduledPublishing": {
+        "Tooltip": "Denne egenskab bruges til planlagt udgivelse"
+      }
+    },
+    "Core": {
+      "GeneralSettings": {
+        "OpenDocumentOption": {
+          "OpenInClientApp": "Åbn i klientapp",
+          "OpenInWeb": "Åbn i browser",
+          "OpenInWebNewTab": "Åbn i browser (ny fane)",
+          "Download": "Download"
+        }
+      },
+      "Messages": {
+        "ScheduledPublishingTooltip": "Denne egenskab bruges til planlagt udgivelse"
+      },
+      "EmailTemplates": {
+        "ScheduleApprovalReminder": {
+          "SubjectTemplate": "Husk godkendelse af planlagt udgivelse: {{DocumentTitle}}",
+          "BodyTemplate": "Kære {{Recipient}}, <br/><br/>Dette er en påmindelse om at godkende en planlagt udgivelse, sendt fra dokumenthåndteringssystemet.<br/><br/>Dokument: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Opgave: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Planlagt offentliggørelsesdato: {{SchedulePublishDate}}"
+        }
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "ScheduledPublishDate": "Dato for planlagt udgivelse"
+      },
+      "DocumentActions": {
+        "Schedule": "Planlæg"
+      },
+      "DocumentStatuses": {
+        "ScheduledForPublishing": "Planlagt til udgivelse",
+        "FailedScheduleForPublishing": "Planlagt udgivelse mislykkedes"
+      },
+      "Schedule": {
+        "CancelSchedule": "Annuller planlagt udgivelse",
+        "MessageCancelSchedule": "Er du sikker på, at du vil annullere?"
+      }
+    },
+    "LinkPicker": {
+      "CustomLink": {
+        "Url": "URL"
+      }
+    },
+    "DocumentRollup": {
+      "EnablePickDocumentWriteMode": "Vælg dokument",
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Vælg i skrive-tilstand"
+        }
+      }
+    }
+  },
+  "OPM": {
+    "ProcessPicker": {
+      "PickerFieldLabel": "Procesvælger"
+    }
+  }
+}

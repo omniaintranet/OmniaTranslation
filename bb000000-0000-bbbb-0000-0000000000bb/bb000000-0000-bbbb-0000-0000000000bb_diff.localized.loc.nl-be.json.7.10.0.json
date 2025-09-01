@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Datum- en tijdkiezer",
+          "TagsFieldPicker": "Tags-kiezer",
+          "BooleanFieldPicker": "Boolean-selector",
+          "TextFieldPicker": "Tekstinvoer",
+          "RichTextFieldPicker": "Rich text invoer",
+          "NumberFieldPicker": "Nummerinvoer"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Om extra eigenschappen toe te voegen, activeer alstublieft de Entra ID-functie voor extra gebruikers eigenschappen."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Personen-kiezer",
+        "SelectedUser": "Geselecteerd"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Geselecteerd"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integratie",
+          "Description": "Deze functie stelt Omnia in staat om alle eigenschappen van alle gebruikers uit EntraID te lezen.",
+          "Title": "Entra ID extra gebruikers eigenschappen",
+          "ConsentInformation": "Toestemming om alle volledige profielen vangebruikers te lezen is vereist om alle eigenschappen van gebruikers uit Entra IDte lezen."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Linkknoppen"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Meerdere selecties toestaan"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Kopniveau"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "A - Z filtering",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Taxonomie-kiezer",
+      "EnterprisePickerDescription": "Kiezer voor bedrijfs eigenschappen"
+    }
+  }
+}

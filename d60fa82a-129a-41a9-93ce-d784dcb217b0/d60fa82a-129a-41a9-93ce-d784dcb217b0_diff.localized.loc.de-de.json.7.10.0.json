@@ -1,0 +1,125 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Ergebnis für Wert anzeigen"
+      }
+    },
+    "Core": {
+      "Pages": {
+        "Labels": {
+          "Text": "Text"
+        }
+      },
+      "Features": {
+        "DocumentDurableLink": {
+          "Title": "Dauerhaftes Dokumentenlink",
+          "Category": "System",
+          "Description": "Ermöglicht dauerhafte Links für Office-Dokumente.",
+          "ConsentInformation": "Wird verwendet, um Dateien zu lesen."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PendingApprovalPage": {
+          "Type": {
+            "Title": "Typ",
+            "Publish": "Veröffentlichen",
+            "Deletion": "Löschung"
+          }
+        },
+        "PageArchive": {
+          "ArchiveWithApprovalRequireMessage": "Die Löschung dieser Seite erfordert eine Genehmigung. Bitte wählen Sie einen Genehmiger aus, um Ihre Anfrage zu senden."
+        },
+        "Permissions": {
+          "UpdateOnlyAuthorRole": "Autor – nur aktualisieren"
+        },
+        "Panels": {
+          "Approval": {
+            "DeletionApproval": "Löschgenehmigung"
+          },
+          "WCAG": {
+            "Title": "WCAG",
+            "EnableWCAGPageChecker": "Seitenprüfer aktivieren"
+          }
+        },
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByHavingApproval": "Die Aktion kann nicht fortgesetzt werden, da diese Seite bereits Teil eines Genehmigungsprozesses war."
+          },
+          "DeleteText": {
+            "ConfirmationMessage": "Sind Sie sicher, dass Sie den Text löschen möchten?",
+            "Title": "Text löschen"
+          },
+          "CreateNewText": {
+            "Title": "Neuen Text erstellen"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterUserVisibilitySwitch": "Kanal auf bestimmte Redakteure ausrichten"
+      }
+    },
+    "LinkPicker": {
+      "AddLink": "Link hinzufügen"
+    },
+    "PageRollup": {
+      "ExportResult": {
+        "LoginName": "Anmeldename"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ChangeLinkType": "Linktyp ändern",
+        "DeletionApproval": "Löschung genehmigen",
+        "CancelDeletionApproval": "Löschgenehmigung abbrechen"
+      },
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailApprovalStepAssigned": {
+            "Subject": "Status der Löschgenehmigung für Seite {{PageTitle}} aktualisiert",
+            "Content": "Sehr geehrte/r {{Recipient}},<br/><br/>Ihnen wurde die Aufgabe zugewiesen, den Schritt {{CurrentStep}} für die Seite <a href={{PageLink}}>{{PageTitle}}</a> abzuschließen.<br/>Vorheriger Schritt: {{SentFromStep}}<br/>Gesendet von: {{SentFromUser}}<br/>Kommentar: {{SentFromComment}}<br/><br/>Workflow-Historie<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Subject": "Genehmigungsstatus für Seite {{PageTitle}} aktualisiert",
+            "Content": "Sehr geehrte/r {{Recipient}},<br/><br/>Der Workflow-Status für die Löschgenehmigung der Seite <a href={{PageLink}}>{{PageTitle}}</a> hat sich geändert.<br/><br/>Aktueller Schritt: {{CurrentStep}}<br/><br/>Workflow-Historie<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Subject": "Löschgenehmigung für {{PageTitle}} abgeschlossen",
+            "Content": "Sehr geehrte/r {{Recipient}},<br/><br/>Die Löschgenehmigung für die Seite <a href={{PageLink}}>{{PageTitle}}</a> ist abgeschlossen und die Seite wurde gelöscht.<br/><br/>Workflow-Historie<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Subject": "Löschgenehmigung für Seite {{PageTitle}} abgelehnt",
+            "Content": "Sehr geehrte/r {{Recipient}},<br/><br/>Die Löschgenehmigung für die Seite <a href={{PageLink}}>{{PageTitle}}</a> wurde von {{SentFromUser}} mit folgendem Kommentar abgelehnt:<br/><br/>{{SentFromComment}}<br/><br/>Workflow-Historie<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Subject": "Löschgenehmigung für Seite {{PageTitle}} abgebrochen",
+            "Content": "Sehr geehrte/r {{Recipient}},<br/><br/>DieLöschgenehmigung für die Seite <a href={{PageLink}}>{{PageTitle}}</a> wurde von {{SentFromUser}} abgebrochen."
+          }
+        },
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Sehr geehrte/r {{name}}</p><p>Eine neue Version von <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> wurde veröffentlicht.<p>{%VariationList | <p>Sie sind der {{propertyName}} dieser Seite für {{variationName}}<p> %}<p>Bitte nehmen Sie die erforderlichen Änderungen an der Seitenvariation vor und veröffentlichen Sie eine neue Version.</p>"
+          }
+        }
+      },
+      "LinkSettings": {
+        "UrlSegment": "URL-Segment"
+      },
+      "TextSettings": {
+        "UrlSegment": "URL-Segment",
+        "Title": "Titel"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "EnableViewButtonOnDialog": "Ansichtsschaltfläche im Dialog aktivieren"
+      }
+    }
+  }
+}

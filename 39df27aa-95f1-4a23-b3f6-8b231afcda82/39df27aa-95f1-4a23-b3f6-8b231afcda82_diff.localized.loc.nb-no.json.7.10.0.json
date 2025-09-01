@@ -1,0 +1,203 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "Title": "Statistikkeksport",
+          "ButtonType": {
+            "Title": "Knapptype",
+            "SearchStatistics": {
+              "Title": "Søkestatistikk",
+              "Scope": {
+                "Title": "Omfang",
+                "BusinessProfile": "Forretningsprofil"
+              },
+              "DaysToLookBack": {
+                "Title": "Dager å se tilbake"
+              },
+              "ExportStatus": {
+                "DownloadFile": "Last ned fil",
+                "Exporting": "Genererer eksportfil...",
+                "Failed": "Feilet"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OTAD": {
+    "System": {
+      "ListRollup": {
+        "Title": "Listeoppsummering",
+        "ListRollupBaseQuerySettings": {
+          "BaseQueryUrl": "URL til basisspørrings"
+        }
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standard",
+      "DefaultProvider": {
+        "SenderName": "Avsenders navn",
+        "EmailName": "E-postnavn",
+        "DefaultValueIfEmpty": "Standardverdi hvis tom"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Avsenders navn",
+        "EmailAddress": "E-postadresse",
+        "APIKey": "API-nøkkel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Header": {
+      "Labels": {
+        "Navigation": "Navigasjon"
+      }
+    },
+    "ListRollup": {
+      "BlockTitle": "Opprulling af lister",
+      "BlockDescription": "Mulighet til å rulle opp listeelementer med forskjellige visninger, filtre og raffineringsalternativer.",
+      "Settings": {
+        "Tabs": {
+          "Display": "Visning",
+          "Filter": "Filter",
+          "General": "Generelt",
+          "Query": "Spørring",
+          "Export": "Eksport"
+        },
+        "TaxonomyFilterTypes": {
+          "FixedValue": "Fast verdi",
+          "CurrentPage": "Nåværende side",
+          "User": "Bruker"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuell",
+          "QueryParameter": "Spørringsparameter",
+          "UserLanguage": "Brukerspråk",
+          "UserEmail": "Brukerens e-post",
+          "CurrentUserName": "Nåværende brukernavn",
+          "CurrentUserId": "Nåværende bruker-ID",
+          "CurrentUserEmail": "Nåværende brukerens e-post",
+          "Today": "I dag",
+          "CustomDate": "Egendefinert dato"
+        },
+        "Operators": {
+          "Equals": "Liker",
+          "StartWith": "Starter med",
+          "Contains": "Inneholder",
+          "LessThan": "Mindre enn",
+          "GreaterThan": "Større enn"
+        },
+        "IncludeChildTerms": "Inkluder underordnede termer",
+        "IncludeEmpty": "Inkluder tom",
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Bruk spørring",
+          "PickSingleList": "Velg enkeltliste"
+        },
+        "SharePointPickMode": {
+          "Columns": {
+            "QueryColumns": "SharePoint-kolonner",
+            "Title": "SharePoint-kolonne",
+            "Sort": "Sorter"
+          },
+          "Views": {
+            "QueryViews": "SharePoint-visninger",
+            "Title": "SharePoint-visning"
+          }
+        },
+        "Done": "Ferdig",
+        "View": "Vis",
+        "PageSize": "Sidestørrelse",
+        "ItemLimit": "Elementgrense",
+        "NoResultText": "Ingen resultattekst",
+        "Paging": "Sideveksel",
+        "PagingType": {
+          "NoPaging": "Ingen sideveksel",
+          "Classic": "Klassisk",
+          "Scroll": "Rull"
+        },
+        "SortBy": "Sorter etter",
+        "FirstSortBy": "Første sortering etter",
+        "ThenSortBy": "Deretter sortering etter",
+        "SortDirection": "Sorteringsretning",
+        "SortBys": {
+          "Ascending": "Stigende",
+          "Descending": "Synkende"
+        },
+        "SiteUrl": "Nettsteds-URL",
+        "ShowExportToExcel": "Vis eksporter til Excel"
+      },
+      "ListView": {
+        "FileName": "Navn",
+        "EditIcon": "Infoikon",
+        "IconTitleLink": "Ikon, tittel og lenke",
+        "Title": "Tittel",
+        "DateTimeMode": {
+          "Normal": "Klassisk",
+          "Social": "Sosial"
+        },
+        "WidthPlaceholder": "Bredde",
+        "ShowHeading": "Vis overskrift",
+        "AddColumn": "Legg til kolonne",
+        "AddSharepointColumn": "Legg til SharePoint-kolonne",
+        "AdjustColumns": "Juster kolonner",
+        "AddSort": "Legg til sortering"
+      },
+      "Common": {
+        "QueryFailedMsg": "Spørringen feilet"
+      },
+      "Exporting": {
+        "ExportToExcel": "Eksporter til Excel",
+        "FileExporting": "Genererer Excel-fil...",
+        "ErrorWhenFileExporting": "Feil ved eksport av fil",
+        "NotSupportExportMessage": "Ikke støttet eksport for spørringsmodus: Velg enkeltliste"
+      }
+    },
+    "Search": {
+      "AdvancedSearch": {
+        "NoResultFound": "Ingen resultater funnet for \"{0}\"",
+        "AdjustYourFilter": "Juster filteret ditt og prøv igjen"
+      },
+      "TemplateRegistrations": {
+        "SpSiteSearchTemplate": {
+          "Title": "Sökmall för SharePoint-webbplats"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Sökmall for SharePoint-lister",
+          "Created": "opprettet",
+          "Modified": "modifisert"
+        }
+      },
+      "SearchStatistics": {
+        "ExportButton": "Eksporter de siste 30 dagene"
+      }
+    },
+    "UserAccessibility": {
+      "ActivateAccessibilityFeatures": "Aktiver tilgjengelighetsfunksjoner",
+      "DeactivateAccessibilityFeatures": "Deaktiver tilgjengelighetsfunksjoner"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "TeamProvisionTemplate": {
+            "Title": "Mal for teamoppsett"
+          }
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryConfigurationTypes": {
+          "PickInWriteMode": "Velg i skrive-modus"
+        }
+      },
+      "PickUser": "Velg bruker"
+    }
+  }
+}

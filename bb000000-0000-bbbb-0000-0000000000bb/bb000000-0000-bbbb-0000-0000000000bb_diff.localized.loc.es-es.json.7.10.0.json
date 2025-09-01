@@ -1,0 +1,63 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterprisePropertiesPicker": {
+        "Picker": {
+          "DateTimeFieldPicker": "Selector de fecha y hora",
+          "TagsFieldPicker": "Selector de etiquetas",
+          "BooleanFieldPicker": "Selector booleano",
+          "TextFieldPicker": "Entrada de texto",
+          "RichTextFieldPicker": "Entrada de texto enriquecido",
+          "NumberFieldPicker": "Entrada de número"
+        }
+      },
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Para añadirpropiedades adicionales, activa la función de propiedades adicionales de usuariode Entra ID."
+      },
+      "IdentityPicker": {
+        "PeoplePicker": "Selector de personas",
+        "SelectedUser": "Seleccionado"
+      },
+      "Common": {
+        "Buttons": {
+          "Selected": "Seleccionado"
+        }
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integración",
+          "Description": "Esta función permite a Omnia leer todas las propiedades de todos los usuarios de Entra ID.",
+          "Title": "Propiedades adicionales de usuario de Entra ID",
+          "ConsentInformation": "Se requiere permiso para leer todos los perfilescompletos de los usuarios para leer todas las propiedades de los usuarios de Entra ID."
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "FilterRenderType": {
+              "Option": {
+                "LinkButtons": {
+                  "Label": "Botones de enlace"
+                }
+              }
+            },
+            "AllowMultipleSelections": "Permitir selecciones múltiples"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Nivel de encabezado"
+        }
+      },
+      "QueryableProperties": {
+        "AZFiltering": "Filtrado de A a Z",
+        "AZText": "A - Z"
+      }
+    },
+    "TermPicker": {
+      "TaxonomyPickerDescription": "Selector de taxonomía",
+      "EnterprisePickerDescription": "Selector de propiedades empresariales"
+    }
+  }
+}
