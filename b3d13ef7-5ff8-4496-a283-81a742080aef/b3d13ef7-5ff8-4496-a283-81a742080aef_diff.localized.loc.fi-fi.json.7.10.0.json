@@ -1,7 +1,7 @@
 {
   "ODM": {
     "DocumentPicker": {
-      "NoDocumentPickers": "Ei asiakirjan valitsimia ole määritetty"
+      "NoDocumentPickers": "Asiakirjan valitsimia ei ole määritetty"
     }
   }
 }
