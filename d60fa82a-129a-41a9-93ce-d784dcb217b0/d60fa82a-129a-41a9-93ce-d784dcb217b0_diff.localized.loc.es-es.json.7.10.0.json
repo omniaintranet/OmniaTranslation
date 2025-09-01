@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalHistory": {
+            "DeletionApproval": "Aprobación de eliminación"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterSwitchText": "Forzar la suscripción del canal al grupo objetivo"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDeletion": "Esperando la eliminación"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ApprovalDeletion": "Aprobar eliminación"
+      }
+    }
+  }
+}
