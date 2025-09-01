@@ -1,0 +1,10 @@
+{
+  "OmniaWorkplace": {
+    "ListRollup": {
+      "Common": {
+        "NoLibrarySelected": "No se ha seleccionado ninguna biblioteca",
+        "Warning": "¡Advertencia!"
+      }
+    }
+  }
+}
