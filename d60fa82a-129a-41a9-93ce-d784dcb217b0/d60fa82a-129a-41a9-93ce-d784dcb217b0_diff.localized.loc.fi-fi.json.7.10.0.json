@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalHistory": {
+            "DeletionApproval": "Poiston hyväksyntä"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterSwitchText": "Pakota kanavatilauksen kohderyhmälle"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDeletion": "Odottaa poistoa"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ApprovalDeletion": "Hyväksy poisto"
+      }
+    }
+  }
+}
