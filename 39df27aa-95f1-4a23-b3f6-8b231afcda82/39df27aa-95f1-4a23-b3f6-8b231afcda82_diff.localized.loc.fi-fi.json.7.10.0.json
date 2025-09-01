@@ -1,0 +1,10 @@
+{
+  "OmniaWorkplace": {
+    "ListRollup": {
+      "Common": {
+        "NoLibrarySelected": "Ei kirjastoa valittu",
+        "Warning": "Varoitus!"
+      }
+    }
+  }
+}

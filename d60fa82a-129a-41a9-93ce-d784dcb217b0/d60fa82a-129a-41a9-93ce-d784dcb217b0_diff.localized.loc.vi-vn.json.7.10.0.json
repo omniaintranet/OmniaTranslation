@@ -1,0 +1,30 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalHistory": {
+            "DeletionApproval": "Phê duyệt xóa"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterSwitchText": "Buộc đăng ký kênh cho nhóm mục tiêu"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDeletion": "Đang chờ xóa"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "ApprovalDeletion": "Phê duyệt xóa"
+      }
+    }
+  }
+}

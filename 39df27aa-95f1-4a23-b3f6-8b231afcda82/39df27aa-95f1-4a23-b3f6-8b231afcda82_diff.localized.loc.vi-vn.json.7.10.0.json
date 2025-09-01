@@ -1,0 +1,10 @@
+{
+  "OmniaWorkplace": {
+    "ListRollup": {
+      "Common": {
+        "NoLibrarySelected": "Chưa chọn thư viện nào",
+        "Warning": "Cảnh báo!"
+      }
+    }
+  }
+}

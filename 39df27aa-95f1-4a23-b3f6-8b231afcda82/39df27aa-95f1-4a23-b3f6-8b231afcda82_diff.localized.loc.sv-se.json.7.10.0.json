@@ -1,0 +1,10 @@
+{
+  "OmniaWorkplace": {
+    "ListRollup": {
+      "Common": {
+        "NoLibrarySelected": "Inget bibliotek valt",
+        "Warning": "Varning!"
+      }
+    }
+  }
+}
