@@ -13,7 +13,7 @@
   "OWCM": {
     "ChannelManagement": {
       "Admin": {
-        "TargetingFilterSwitchText": "Tvinga kanalprenumeration till målgrupp"
+        "TargetingFilterSwitchText": "Obligatorisk kanalprenumeration för målgrupp"
       }
     },
     "PageRollup": {
