@@ -2,7 +2,7 @@
   "OWCM": {
     "PageRollup": {
       "Settings": {
-        "ShowAZPaging": "Display A-Zpaging",
+        "ShowAZPaging": "Display A-Z paging",
         "AZFilteringProperty": "A-Z filtering property"
       }
     }
