@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Days to look back must be at least 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Viva engage application context provisioning",
+          "Category": "Integration",
+          "Description": "Allows the app to create Viva Engage communities, read all community properties, update community properties, and delete communities without a signed-in user.",
+          "ConsentInformation": "Read and write all Viva Engage communities. Requires application 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Info Icon]]",
+        "IconTitleLinkProperty": "[[Icon, Title and Link]]"
+      }
+    }
+  }
+}
