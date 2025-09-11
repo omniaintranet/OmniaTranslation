@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Dagar att se tillbaka måste varaminst 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Provisionering av Viva Engage-applikationskontext",
+          "Category": "Integration",
+          "Description": "Möjliggör för appen att skapa Viva Engage-gemenskaper, läsa alla gemenskapsattribut, uppdatera gemenskapsattribut och ta bort gemenskaper utan en inloggad användare.",
+          "ConsentInformation": "Läsa och skriva alla Viva Engage-gemenskaper. Kräver applikation 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Infoikon]]",
+        "IconTitleLinkProperty": "[[Ikon, Titel och Länk]]"
+      }
+    }
+  }
+}
