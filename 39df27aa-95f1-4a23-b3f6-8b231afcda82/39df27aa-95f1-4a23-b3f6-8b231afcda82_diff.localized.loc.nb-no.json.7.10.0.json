@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Dager å se tilbake må være minst1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Viva Engage applikasjonskontekst provisioning",
+          "Category": "Integrasjon",
+          "Description": "Lar appen opprette Viva Engage-fellesskap, lese alle fellesskapsattributter, oppdatere fellesskapsattributter og slette fellesskap uten en pålogget bruker.",
+          "ConsentInformation": "Lese og skrive alle Viva Engage-fellesskap. Krever applikasjon 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Info-ikon]]",
+        "IconTitleLinkProperty": "[[Ikon, Tittel og Lenke]]"
+      }
+    }
+  }
+}
