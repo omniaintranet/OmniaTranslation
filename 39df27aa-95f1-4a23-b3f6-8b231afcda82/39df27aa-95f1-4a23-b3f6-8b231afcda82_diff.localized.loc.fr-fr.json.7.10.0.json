@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Les jours à remonter doivent être d'au moins 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Provisionnement du contexte de l'application Viva Engage",
+          "Category": "Intégration",
+          "Description": "Permet à l'application de créer des communautés Viva Engage, de lire toutes les propriétés de la communauté, de mettre à jour les propriétés de la communauté et de supprimer des communautés sans utilisateur connecté.",
+          "ConsentInformation": "Lire et écrire toutes les communautés Viva Engage. Nécessite l'application 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Icône d'information]]",
+        "IconTitleLinkProperty": "[[Icône, Titre et Lien]]"
+      }
+    }
+  }
+}
