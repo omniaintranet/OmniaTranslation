@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "回溯天数必须至少为1天"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Viva Engage 应用上下文提供",
+          "Category": "集成",
+          "Description": "允许应用创建 Viva Engage 社区，读取所有社区属性，更新社区属性，并在未登录用户的情况下删除社区。",
+          "ConsentInformation": "读取和写入所有 Viva Engage 社区。需要应用权限 'Community.ReadWrite.All'。"
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[信息图标]]",
+        "IconTitleLinkProperty": "[[图标、标题和链接]]"
+      }
+    }
+  }
+}
