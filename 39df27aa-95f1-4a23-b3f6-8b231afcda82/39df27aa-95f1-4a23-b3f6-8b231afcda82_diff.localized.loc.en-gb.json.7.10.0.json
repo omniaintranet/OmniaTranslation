@@ -27,7 +27,7 @@
     },
     "ListRollup": {
       "ListView": {
-        "EditIconProperty": "[[Info Icon]]",
+        "EditIconProperty": "[[Info icon]]",
         "IconTitleLinkProperty": "[[Icon, Title and Link]]"
       }
     }
