@@ -1,0 +1,10 @@
+{
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ShowAZPaging": "Hiển thị phân trang A-Z",
+        "AZFilteringProperty": "Thuộc tính lọc A-Z"
+      }
+    }
+  }
+}
