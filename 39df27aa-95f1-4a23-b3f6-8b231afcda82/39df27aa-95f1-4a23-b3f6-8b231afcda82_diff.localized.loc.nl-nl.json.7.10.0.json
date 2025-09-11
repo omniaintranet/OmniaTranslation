@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Dagen om terug te kijken moeten minimaal 1 zijn"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Viva Engage applicatie contextvoorziening",
+          "Category": "Integratie",
+          "Description": "Stelt de app in staatom Viva Engage gemeenschappen te creëren, alle gemeenschapsgegevens te lezen, gemeenschapsgegevens bij te werken en gemeenschappen te verwijderen zonder een ingelogde gebruiker.",
+          "ConsentInformation": "Lees en schrijf alle Viva Engage gemeenschappen. Vereist applicatie 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Info-icoon]]",
+        "IconTitleLinkProperty": "[[Icoon, Titel en Link]]"
+      }
+    }
+  }
+}
