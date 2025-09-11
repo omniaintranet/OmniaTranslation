@@ -1,0 +1,10 @@
+{
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ShowAZPaging": "Visa A-Ö paginering",
+        "AZFilteringProperty": "A-Ö filtreringsegenskap"
+      }
+    }
+  }
+}
