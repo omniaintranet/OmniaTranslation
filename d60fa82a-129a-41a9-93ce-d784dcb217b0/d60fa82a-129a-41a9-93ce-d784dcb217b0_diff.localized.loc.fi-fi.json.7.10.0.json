@@ -1,0 +1,10 @@
+{
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ShowAZPaging": "Näytä A-Z sivutus",
+        "AZFilteringProperty": "A-Z suodatusominaisuus"
+      }
+    }
+  }
+}

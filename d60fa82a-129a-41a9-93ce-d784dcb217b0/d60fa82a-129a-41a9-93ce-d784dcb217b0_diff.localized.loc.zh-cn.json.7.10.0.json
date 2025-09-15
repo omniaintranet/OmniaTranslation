@@ -1,0 +1,10 @@
+{
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ShowAZPaging": "显示 A-Z 分页",
+        "AZFilteringProperty": "A-Z 过滤属性"
+      }
+    }
+  }
+}

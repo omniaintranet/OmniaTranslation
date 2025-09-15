@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Số ngày để xem lại phải ít nhất là 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Cung cấp ngữ cảnh ứng dụng Viva Engage",
+          "Category": "Tích hợp",
+          "Description": "Cho phép ứng dụng tạo các cộng đồng Viva Engage, đọc tất cả các thuộc tính cộng đồng, cập nhật các thuộc tính cộng đồng và xóa các cộng đồngmà không cần người dùng đăng nhập.",
+          "ConsentInformation": "Đọc và ghi tất cả các cộng đồng Viva Engage. Cần ứng dụng 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Biểu tượng thông tin]]",
+        "IconTitleLinkProperty": "[[Biểu tượng, Tiêu đề và Liên kết]]"
+      }
+    }
+  }
+}

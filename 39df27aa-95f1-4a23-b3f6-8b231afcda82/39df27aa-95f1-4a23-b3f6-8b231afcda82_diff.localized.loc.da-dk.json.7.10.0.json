@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Dage at se tilbage skal være mindst 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Viva Engage applikations kontekst provisioning",
+          "Category": "Integration",
+          "Description": "Giver appen mulighed for at oprette Viva Engage fællesskaber, læse alle fællesskabs egenskaber, opdatere fællesskabs egenskaber og slette fællesskaber uden en logget ind bruger.",
+          "ConsentInformation": "Læs og skriv alle Viva Engage fællesskaber. Kræver applikation 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Info Ikon]]",
+        "IconTitleLinkProperty": "[[Ikon, Titel og Link]]"
+      }
+    }
+  }
+}

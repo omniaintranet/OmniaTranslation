@@ -1,0 +1,35 @@
+{
+  "WorkPlace": {
+    "Statistic": {
+      "Export": {
+        "Action": {
+          "ButtonType": {
+            "SearchStatistics": {
+              "DaysToLookBack": {
+                "Warning": "Dagar att se tillbaka måste vara minst 1"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "VivaEngageApplicationIntegration": {
+          "Title": "Konfigurering av Viva Engage applikationskontext",
+          "Category": "Integration",
+          "Description": "Möjliggör för appen att skapa Viva Engage communities, läsa alla egenskaper och uppdatera egenskaper.",
+          "ConsentInformation": "Läsa och skriva alla Viva Engage communities. Kräver applikation 'Community.ReadWrite.All'."
+        }
+      }
+    },
+    "ListRollup": {
+      "ListView": {
+        "EditIconProperty": "[[Infoikon]]",
+        "IconTitleLinkProperty": "[[Ikon, Titel och Länk]]"
+      }
+    }
+  }
+}

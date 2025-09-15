@@ -1,0 +1,10 @@
+{
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ShowAZPaging": "A-Z-Seitenumbruch anzeigen",
+        "AZFilteringProperty": "A-Z-Filtereigenschaft"
+      }
+    }
+  }
+}
