@@ -20,7 +20,7 @@
         "VivaEngageApplicationIntegration": {
           "Title": "Viva Engage application context provisioning",
           "Category": "Integration",
-          "Description": "Allows the app to create Viva Engage communities, read all community properties, update community properties, and delete communities without a signed-in user.",
+          "Description": "Allows the app to create Viva Engage communities, read all community properties and update community properties.",
           "ConsentInformation": "Read and write all Viva Engage communities. Requires application 'Community.ReadWrite.All'."
         }
       }
