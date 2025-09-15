@@ -20,7 +20,7 @@
         "VivaEngageApplicationIntegration": {
           "Title": "Provisionnement du contexte de l'application Viva Engage",
           "Category": "Intégration",
-          "Description": "Permet à l'application de créer des communautés Viva Engage, de lire toutes les propriétés des communautés, de mettre à jour les propriétés des communautés et de supprimer des communautés sans utilisateur connecté.",
+          "Description": "Permet à l'application de créer des communautés Viva Engage, de lire toutes les propriétés des communautés et de mettre à jour les propriétés des communautés.",
           "ConsentInformation": "Lire et écrire toutes les communautés Viva Engage. Nécessite l'application 'Community.ReadWrite.All'."
         }
       }
