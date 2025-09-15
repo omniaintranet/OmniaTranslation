@@ -18,10 +18,10 @@
     "Core": {
       "Features": {
         "VivaEngageApplicationIntegration": {
-          "Title": "Provisionering av Viva Engage-applikationskontext",
+          "Title": "Konfigurering av Viva Engage applikationskontext",
           "Category": "Integration",
-          "Description": "Möjliggör för appen att skapa Viva Engage-gemenskaper, läsa alla gemenskapsattribut, uppdatera gemenskapsattribut och ta bort gemenskaper utan en inloggad användare.",
-          "ConsentInformation": "Läsa och skriva alla Viva Engage-gemenskaper. Kräver applikation 'Community.ReadWrite.All'."
+          "Description": "Möjliggör för appen att skapa Viva Engage communities, läsa alla egenskaper och uppdatera egenskaper.",
+          "ConsentInformation": "Läsa och skriva alla Viva Engage communities. Kräver applikation 'Community.ReadWrite.All'."
         }
       }
     },
