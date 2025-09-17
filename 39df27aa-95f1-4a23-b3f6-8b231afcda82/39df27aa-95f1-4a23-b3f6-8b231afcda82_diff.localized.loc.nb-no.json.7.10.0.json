@@ -6,7 +6,7 @@
           "ButtonType": {
             "SearchStatistics": {
               "DaysToLookBack": {
-                "Warning": "Dager å se tilbake må være minst1"
+                "Warning": "Du må velge minst én dag å se tilbake"
               }
             }
           }
@@ -18,10 +18,10 @@
     "Core": {
       "Features": {
         "VivaEngageApplicationIntegration": {
-          "Title": "Viva Engage applikasjonskontekst provisioning",
+          "Title": "Viva Engage provisioning",
           "Category": "Integrasjon",
-          "Description": "Lar appen opprette Viva Engage-fellesskap, lese alle fellesskapsattributter, oppdatere fellesskapsattributter og slette fellesskap uten en pålogget bruker.",
-          "ConsentInformation": "Lese og skrive alle Viva Engage-fellesskap. Krever applikasjon 'Community.ReadWrite.All'."
+          "Description": "Lar appen opprette Viva Engage Communities, lese og oppdatere alle community attributter, oppdatere attributter og opdatere communities.",
+          "ConsentInformation": "Lese og skrive alle Viva Engage -communities. Krever applikasjon 'Community.ReadWrite.All'."
         }
       }
     },
