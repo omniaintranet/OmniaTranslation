@@ -18,9 +18,9 @@
     "Core": {
       "Features": {
         "VivaEngageApplicationIntegration": {
-          "Title": "Viva Engage applikations kontekst provisioning",
+          "Title": "Viva Engage provisioning",
           "Category": "Integration",
-          "Description": "Giver appen mulighed for at oprette Viva Engage fællesskaber, læse alle fællesskabs egenskaber, opdatere fællesskabs egenskaber og slette fællesskaber uden en logget ind bruger.",
+          "Description": "Giver appen mulighed for at oprette Viva Engage Communities, læse alle community egenskaber og opdatere dem.",
           "ConsentInformation": "Læs og skriv alle Viva Engage fællesskaber. Kræver applikation 'Community.ReadWrite.All'."
         }
       }
