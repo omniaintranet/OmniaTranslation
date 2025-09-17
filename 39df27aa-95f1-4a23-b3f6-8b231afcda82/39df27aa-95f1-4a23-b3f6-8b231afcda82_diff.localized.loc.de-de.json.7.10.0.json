@@ -18,9 +18,9 @@
     "Core": {
       "Features": {
         "VivaEngageApplicationIntegration": {
-          "Title": "Bereitstellung des Anwendungs-Kontexts für Viva Engage",
+          "Title": "Bereitstellung für Viva Engage",
           "Category": "Integration",
-          "Description": "Ermöglicht der App, Viva Engage-Communities zu erstellen, alle Community-Eigenschaften zu lesen, Community-Eigenschaften zu aktualisieren und Communities ohne angemeldeten Benutzer zu löschen.",
+          "Description": "Ermöglicht der App, Viva Engage-Communities zu erstellen und alle Community-Eigenschaften zu lesen und aktualisieren.",
           "ConsentInformation": "Lesen und Schreiben aller Viva Engage-Communities. Erfordert die Anwendung 'Community.ReadWrite.All'."
         }
       }
