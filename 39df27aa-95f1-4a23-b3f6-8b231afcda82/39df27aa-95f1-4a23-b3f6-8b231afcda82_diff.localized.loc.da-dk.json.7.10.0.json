@@ -6,7 +6,7 @@
           "ButtonType": {
             "SearchStatistics": {
               "DaysToLookBack": {
-                "Warning": "Dage at se tilbage skal være mindst 1"
+                "Warning": "Vælg minimum én dag tilbage i tiden"
               }
             }
           }
