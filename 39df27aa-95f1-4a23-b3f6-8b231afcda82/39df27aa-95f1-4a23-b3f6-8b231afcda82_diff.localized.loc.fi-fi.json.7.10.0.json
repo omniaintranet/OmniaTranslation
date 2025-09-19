@@ -6,7 +6,7 @@
           "ButtonType": {
             "SearchStatistics": {
               "DaysToLookBack": {
-                "Warning": "Takaisin katsottavien päivien onoltava vähintään 1"
+                "Warning": "Taaksepäin katsottavien päivien lukumäärän on oltava vähintään 1"
               }
             }
           }
@@ -18,10 +18,10 @@
     "Core": {
       "Features": {
         "VivaEngageApplicationIntegration": {
-          "Title": "Viva Engage -sovelluksen kontekstin tarjoaminen",
+          "Title": "Viva Engage -sovelluskonteksti",
           "Category": "Integraatio",
-          "Description": "Sovellus voi luoda Viva Engage -yhteisöjä, lukea kaikkien yhteisöjen ominaisuuksia, päivittää yhteisöjenominaisuuksia ja poistaa yhteisöjä ilman kirjautunutta käyttäjää.",
-          "ConsentInformation": "Lue ja kirjoita kaikki Viva Engage -yhteisöt. Vaatii sovelluksen 'Community.ReadWrite.All'."
+          "Description": "Sovellus voi luoda Viva Engage -yhteisöjä, lukea kaikkien yhteisöjen ominaisuuksia, päivittää yhteisöjen ominaisuuksia ja poistaa yhteisöjä ilman kirjautunutta käyttäjää.",
+          "ConsentInformation": "Lue ja kirjoita Viva Engage -yhteisöihin. Vaatii sovellusoikeuden 'Community.ReadWrite.All'."
         }
       }
     },
