@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Pagina {{id}} is verwijderd."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Label aanmaken"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mijn agenda"
+        }
+      },
+      "Feature": {
+        "Title": "Integratie van Exchange-agenda",
+        "Category": "SharePoint-server",
+        "Description": "Mogelijkheid inschakelen voor integratie met Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook-agenda serviceaccount",
+        "ExchangeServerUrl": "URL van de Exchange-webserver",
+        "Password": "Wachtwoord",
+        "UserName": "Gebruikersnaam"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "Wachten op verwijdering"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Nieuwe link kiezen"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Alleen letters, cijfers, koppeltekens en onderstrepingen zijn toegestaan"
+      }
+    }
+  }
+}
