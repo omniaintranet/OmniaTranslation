@@ -21,17 +21,17 @@
     "SPCalendarRollup": {
       "Settings": {
         "Type": {
-          "MyCalendar": "My Calendar"
+          "MyCalendar": "My calendar"
         }
       },
       "Feature": {
         "Title": "Exchange calendar integration",
         "Category": "SharePoint server",
-        "Description": "Enable possibility to integrating with Exchange Server"
+        "Description": "Enable possibility for integrating with Exchange Server"
       },
       "Admin": {
         "Title": "Outlook calendar service account",
-        "ExchangeServerUrl": "Exchange web server url",
+        "ExchangeServerUrl": "Exchange web server URL",
         "Password": "Password",
         "UserName": "Username"
       }
@@ -43,10 +43,10 @@
     },
     "PublishingApp": {
       "ActionButtons": {
-        "PickNewLink": "Pick New Link"
+        "PickNewLink": "Pick new link"
       },
       "ValidationRules": {
-        "RequireUrlSegmentIsFriendly": "Only letters, number, hyphen, underscored are accepted"
+        "RequireUrlSegmentIsFriendly": "Only letters, numbers, hyphens and underscores are accepted"
       }
     }
   }
