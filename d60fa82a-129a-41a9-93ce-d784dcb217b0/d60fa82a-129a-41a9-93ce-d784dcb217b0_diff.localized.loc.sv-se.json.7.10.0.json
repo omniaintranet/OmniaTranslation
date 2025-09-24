@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Sidan {{id}} har tagits bort."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Skapa etikett"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Min kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Integration av Exchange-kalender",
+        "Category": "SharePoint-server",
+        "Description": "Aktivera möjlighet till integration med Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook-kalendertjänstkonto",
+        "ExchangeServerUrl": "Exchange webbserver-URL",
+        "Password": "Lösenord",
+        "UserName": "Användarnamn"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "Väntar på borttagning"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Välj ny länk"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Endast bokstäver, siffror, bindestreck och understreck accepteras"
+      }
+    }
+  }
+}
