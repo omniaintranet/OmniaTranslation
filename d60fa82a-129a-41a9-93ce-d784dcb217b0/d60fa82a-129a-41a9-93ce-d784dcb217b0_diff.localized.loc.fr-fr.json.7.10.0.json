@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "La page {{id}} a été supprimée."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Créer une étiquette"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mon calendrier"
+        }
+      },
+      "Feature": {
+        "Title": "Intégration du calendrier Exchange",
+        "Category": "Serveur SharePoint",
+        "Description": "Activer la possibilité d'intégration avec Exchange Server"
+      },
+      "Admin": {
+        "Title": "Compte de service du calendrier Outlook",
+        "ExchangeServerUrl": "URL du serveur web Exchange",
+        "Password": "Mot de passe",
+        "UserName": "Nom d'utilisateur"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "En attente de suppression"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Choisir un nouveau lien"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Seules les lettres, les chiffres, les tirets et les traits de soulignement sont acceptés"
+      }
+    }
+  }
+}
