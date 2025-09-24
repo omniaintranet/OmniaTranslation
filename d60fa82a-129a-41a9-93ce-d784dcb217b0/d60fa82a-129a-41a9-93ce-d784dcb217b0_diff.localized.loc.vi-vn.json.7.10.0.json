@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Trang {{id}} đã bị xóa."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Tạo nhãn"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Lịch của tôi"
+        }
+      },
+      "Feature": {
+        "Title": "Tích hợp lịch Exchange",
+        "Category": "Máy chủ SharePoint",
+        "Description": "Kích hoạt khả năng tích hợp với Exchange Server"
+      },
+      "Admin": {
+        "Title": "Tài khoản dịch vụ lịch Outlook",
+        "ExchangeServerUrl": "URL máy chủ web Exchange",
+        "Password": "Mật khẩu",
+        "UserName": "Tên người dùng"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "Đang chờ xóa"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Chọn liên kết mới"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Chỉ chấp nhận chữ cái, số, dấu gạch ngang và dấu gạch dưới"
+      }
+    }
+  }
+}
