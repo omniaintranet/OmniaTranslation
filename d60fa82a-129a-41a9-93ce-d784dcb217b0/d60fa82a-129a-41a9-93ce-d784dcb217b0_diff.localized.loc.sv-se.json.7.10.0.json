@@ -26,8 +26,8 @@
       },
       "Feature": {
         "Title": "Integration av Exchange-kalender",
-        "Category": "SharePoint-server",
-        "Description": "Aktivera möjlighet till integration med Exchange Server"
+        "Category": "SharePoint Server",
+        "Description": "Aktivera möjlighet till integration med Exchange Server."
       },
       "Admin": {
         "Title": "Outlook-kalendertjänstkonto",
@@ -46,7 +46,7 @@
         "PickNewLink": "Välj ny länk"
       },
       "ValidationRules": {
-        "RequireUrlSegmentIsFriendly": "Endast bokstäver, siffror, bindestreck och understreck accepteras"
+        "RequireUrlSegmentIsFriendly": "Endast bokstäver, siffror, bindestreck och understreck accepteras."
       }
     }
   }
