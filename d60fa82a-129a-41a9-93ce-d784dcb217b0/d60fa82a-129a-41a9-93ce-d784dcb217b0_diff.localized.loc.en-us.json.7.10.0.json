@@ -27,7 +27,7 @@
       "Feature": {
         "Title": "Exchange calendar integration",
         "Category": "SharePoint server",
-        "Description": "Enable possibility for integrating with Exchange Server"
+        "Description": "Enable possibility to integrate with Exchange Server."
       },
       "Admin": {
         "Title": "Outlook calendar service account",
@@ -46,7 +46,7 @@
         "PickNewLink": "Pick new link"
       },
       "ValidationRules": {
-        "RequireUrlSegmentIsFriendly": "Only letters, numbers, hyphens and underscores are accepted"
+        "RequireUrlSegmentIsFriendly": "Only letters, numbers, hyphens and underscores are accepted."
       }
     }
   }
