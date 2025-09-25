@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "页面 {{id}} 已被删除。"
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "创建标签"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "我的日历"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange 日历集成",
+        "Category": "SharePoint 服务器",
+        "Description": "启用与 Exchange 服务器集成的可能性"
+      },
+      "Admin": {
+        "Title": "Outlook 日历服务帐户",
+        "ExchangeServerUrl": "Exchange 网络服务器 URL",
+        "Password": "密码",
+        "UserName": "用户名"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "等待删除"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "选择新链接"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "仅接受字母、数字、连字符和下划线"
+      }
+    }
+  }
+}

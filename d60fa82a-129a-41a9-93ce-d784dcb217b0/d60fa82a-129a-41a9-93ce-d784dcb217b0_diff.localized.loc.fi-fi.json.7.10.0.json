@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Sivu {{id}} on poistettu."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Luo etiketti"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Oma kalenteri"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange-kalenterin integraatio",
+        "Category": "SharePoint-palvelin",
+        "Description": "Mahdollistaa integraation Exchange Serverin kanssa"
+      },
+      "Admin": {
+        "Title": "Outlook-kalenteripalvelun tili",
+        "ExchangeServerUrl": "Exchange-verkkopalvelimen URL-osoite",
+        "Password": "Salasana",
+        "UserName": "Käyttäjänimi"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "Odottaa poistamista"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Valitse uusi linkki"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Vain kirjaimet, numerot, viivat ja alaviivat hyväksytään"
+      }
+    }
+  }
+}

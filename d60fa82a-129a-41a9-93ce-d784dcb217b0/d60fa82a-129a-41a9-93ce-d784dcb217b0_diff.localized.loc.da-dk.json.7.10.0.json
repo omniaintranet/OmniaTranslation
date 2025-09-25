@@ -1,0 +1,53 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Siden {{id}} er blevet slettet."
+            }
+          }
+        },
+        "Dialogs": {
+          "CreateLabel": {
+            "Title": "Opret etiket"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Min kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Integration af Exchange-kalender",
+        "Category": "SharePoint-server",
+        "Description": "Aktiver mulighed for integration med Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook kalender servicekonto",
+        "ExchangeServerUrl": "Exchange webserver URL",
+        "Password": "Adgangskode",
+        "UserName": "Brugernavn"
+      }
+    },
+    "PageRollup": {
+      "WorkflowStatus": {
+        "WaitingForDelete": "Venter på sletning"
+      }
+    },
+    "PublishingApp": {
+      "ActionButtons": {
+        "PickNewLink": "Vælg nyt link"
+      },
+      "ValidationRules": {
+        "RequireUrlSegmentIsFriendly": "Kun bogstaver, tal, bindestreger og understregninger accepteres"
+      }
+    }
+  }
+}
