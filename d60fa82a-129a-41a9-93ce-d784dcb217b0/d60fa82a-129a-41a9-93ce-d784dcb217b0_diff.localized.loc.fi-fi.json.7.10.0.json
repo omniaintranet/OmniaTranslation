@@ -11,7 +11,7 @@
         },
         "Dialogs": {
           "CreateLabel": {
-            "Title": "Luo etiketti"
+            "Title": "Luo seliteteksti"
           }
         }
       }
@@ -46,7 +46,7 @@
         "PickNewLink": "Valitse uusi linkki"
       },
       "ValidationRules": {
-        "RequireUrlSegmentIsFriendly": "Vain kirjaimet, numerot, viivat ja alaviivat hyväksytään"
+        "RequireUrlSegmentIsFriendly": "Vain kirjaimet, numerot, viivat ja alaviivat hyväksytään."
       }
     }
   }
