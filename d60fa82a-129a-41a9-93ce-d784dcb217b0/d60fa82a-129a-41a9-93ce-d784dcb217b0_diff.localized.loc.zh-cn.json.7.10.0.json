@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "您确定要删除该标签吗？",
+            "Title": "删除标签"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "此页面有子元素。如果您继续，所有子页面也将被归档。"
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "移动节点警告",
+            "GenericNodeContainsChildren": "无法移动节点 {{title}} (ID: {{nodeId}})，因为它是一个链接/文本节点并且有子节点。",
+            "PageNodeHasGenericNodeWithChildren": "无法移动节点 {{title}} (ID: {{nodeId}})，因为它是一个页面节点，至少有一个后代链接/文本节点，而该节点本身包含子节点。",
+            "NodeUnderGenericAncestor": "如果新父节点有链接/文本祖先，则无法将节点 {{title}} (ID: {{nodeId}}) 移动到新父节点下。"
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "删除节点警告",
+            "GenericNodeContainsChildren": "无法删除节点 {{title}} (ID: {{nodeId}})，因为它是一个链接/文本节点并且有子节点。",
+            "PageNodeHasGenericNodeWithChildren": "无法删除节点 {{title}} (ID: {{nodeId}})，因为它是一个页面节点，至少有一个后代链接/文本节点，而该节点本身包含子节点。"
+          }
+        }
+      }
+    }
+  }
+}

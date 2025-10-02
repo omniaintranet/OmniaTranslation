@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Êtes-vous sûr de vouloir supprimer l'étiquette ?",
+            "Title": "Supprimer l'étiquette"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Cette page a des éléments enfants. Si vous continuez, toutes les pages enfants seront également archivées."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Avertissement de déplacement de nœud",
+            "GenericNodeContainsChildren": "Impossible de déplacer le nœud {{title}} (ID : {{nodeId}}) car c'est un nœud de lien/texte et il a des enfants.",
+            "PageNodeHasGenericNodeWithChildren": "Impossible de déplacer le nœud {{title}} (ID : {{nodeId}}) car c'est un nœud de page qui a au moins un nœud de lien/texte descendant qui contient lui-même des enfants.",
+            "NodeUnderGenericAncestor": "Impossible de déplacer le nœud {{title}} (ID : {{nodeId}}) sous un nouveau parent si ce parent a un ancêtre de lien/texte."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Avertissement de suppression de nœud",
+            "GenericNodeContainsChildren": "Impossible de supprimer le nœud {{title}} (ID : {{nodeId}}) car c'est un nœud de lien/texte et il a des enfants.",
+            "PageNodeHasGenericNodeWithChildren": "Impossible de supprimer le nœud {{title}} (ID : {{nodeId}}) car c'est un nœud de page qui a au moins un nœud de lien/texte descendant qui contient lui-même des enfants."
+          }
+        }
+      }
+    }
+  }
+}

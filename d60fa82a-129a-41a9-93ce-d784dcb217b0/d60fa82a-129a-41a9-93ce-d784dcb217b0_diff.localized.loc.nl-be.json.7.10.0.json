@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Weet je zeker dat je het label wilt verwijderen?",
+            "Title": "Label verwijderen"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Deze pagina heeft kindelementen. Als je doorgaat, worden alle kindpagina's ook gearchiveerd."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Waarschuwing verplaatsen knooppunt",
+            "GenericNodeContainsChildren": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet verplaatsen omdat het een link/tekst knooppunt is en kinderen heeft.",
+            "PageNodeHasGenericNodeWithChildren": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet verplaatsen omdat het een pagina knooppunt is dat ten minste één afgeleid link/tekst knooppunt heeft dat zelf kinderen bevat.",
+            "NodeUnderGenericAncestor": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet onder een nieuwe ouder verplaatsen als die ouder een link/tekst voorouder heeft."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Waarschuwing verwijderen knooppunt",
+            "GenericNodeContainsChildren": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet verwijderen omdat het een link/tekst knooppunt is en kinderen heeft.",
+            "PageNodeHasGenericNodeWithChildren": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet verwijderen omdat het een pagina knooppunt is dat ten minste één afgeleid link/tekst knooppunt heeft dat zelf kinderen bevat."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Sind Sie sicher, dass Sie das Label löschen möchten?",
+            "Title": "Label löschen"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Diese Seite hat untergeordnete Elemente. Wenn Sie fortfahren, werden alle untergeordneten Seiten ebenfalls archiviert."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Verschieben-Knoten-Warnung",
+            "GenericNodeContainsChildren": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht verschieben, da es sich um einen Link/Text-Knoten handelt und er untergeordnete Elemente hat.",
+            "PageNodeHasGenericNodeWithChildren": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht verschieben, da es sich um einen Seitenknoten handelt, der mindestens einen nachfolgenden Link/Text-Knoten hat, der selbst untergeordnete Elemente enthält.",
+            "NodeUnderGenericAncestor": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht unter einem neuen Elternteil verschieben, wenn dieser Elternteil einen Link/Text-Vorfahren hat."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Löschen-Knoten-Warnung",
+            "GenericNodeContainsChildren": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht löschen, da es sich um einen Link/Text-Knoten handelt und er untergeordnete Elemente hat.",
+            "PageNodeHasGenericNodeWithChildren": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht löschen, da es sich um einen Seitenknoten handelt, der mindestens einen nachfolgenden Link/Text-Knoten hat, der selbst untergeordnete Elemente enthält."
+          }
+        }
+      }
+    }
+  }
+}
