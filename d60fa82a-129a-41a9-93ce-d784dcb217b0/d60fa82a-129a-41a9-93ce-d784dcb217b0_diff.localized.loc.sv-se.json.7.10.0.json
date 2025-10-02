@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Är du säker på att du vill ta bort etiketten?",
+            "Title": "Ta bort etikett"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Denna sida har underordnade element. Om du fortsätter kommer alla underordnade sidor att arkiveras också."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Varning för att flytta nod",
+            "GenericNodeContainsChildren": "Kan inte flytta nod {{title}} (ID: {{nodeId}}) eftersom det är en länk/textnod och har barn.",
+            "PageNodeHasGenericNodeWithChildren": "Kan inte flytta nod {{title}} (ID: {{nodeId}}) eftersom det är en sidnod som har minst en efterkommande länk/textnod som själv innehåller barn.",
+            "NodeUnderGenericAncestor": "Kan inte flytta nod {{title}} (ID: {{nodeId}}) under en ny förälder om den föräldern har en länk/textförfader."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Varning för att ta bort nod",
+            "GenericNodeContainsChildren": "Kan inte ta bort nod {{title}} (ID: {{nodeId}}) eftersom det är en länk/textnod och har barn.",
+            "PageNodeHasGenericNodeWithChildren": "Kan inte ta bort nod {{title}} (ID: {{nodeId}}) eftersom det är en sidnod som har minst en efterkommande länk/textnod som själv innehåller barn."
+          }
+        }
+      }
+    }
+  }
+}
