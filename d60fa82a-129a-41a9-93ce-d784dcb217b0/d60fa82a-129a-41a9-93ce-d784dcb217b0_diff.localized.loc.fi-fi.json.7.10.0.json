@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Oletko varma, että haluat poistaa tunnisteen?",
+            "Title": "Poista tunniste"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Tällä sivulla on alielementtejä. Jos jatkat, kaikki alisivut arkistoidaan myös."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Siirto solmun varoitus",
+            "GenericNodeContainsChildren": "Ei voida siirtää solmua {{title}} (ID: {{nodeId}}), koska se on linkki/teksti solmu ja sillä on alielementtejä.",
+            "PageNodeHasGenericNodeWithChildren": "Ei voida siirtää solmua {{title}} (ID: {{nodeId}}), koska se on sivusolmu, jolla on vähintään yksi jälkeläinen linkki/teksti solmu, joka itsessään sisältää alielementtejä.",
+            "NodeUnderGenericAncestor": "Ei voida siirtää solmua {{title}} (ID: {{nodeId}}) uuden vanhemman alle, jos sillä vanhemmalla on linkki/teksti esi-isä."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Poista solmun varoitus",
+            "GenericNodeContainsChildren": "Ei voida poistaa solmua {{title}} (ID: {{nodeId}}), koska se on linkki/teksti solmu ja sillä on alielementtejä.",
+            "PageNodeHasGenericNodeWithChildren": "Ei voida poistaa solmua {{title}} (ID: {{nodeId}}), koska se on sivusolmu, jolla on vähintään yksi jälkeläinen linkki/teksti solmu, joka itsessään sisältää alielementtejä."
+          }
+        }
+      }
+    }
+  }
+}
