@@ -8,18 +8,18 @@
             "Title": "Slet etikette"
           },
           "ApprovalForm": {
-            "ArchiveWarning": "Denne side har underordnede elementer. Hvis du fortsætter, vil alle underordnede sider også blive arkiveret."
+            "ArchiveWarning": "Denne side har underordnede sider eller links. Hvis du fortsætter, vil alle underordnede noder blive arkiveret."
           },
           "WarningMoveNodeDialog": {
             "Title": "Advarsel om flytning af node",
-            "GenericNodeContainsChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en link/tekstnode og har børn.",
-            "PageNodeHasGenericNodeWithChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en sidenode, der har mindst én efterkommer link/tekstnode, som selv indeholder børn.",
-            "NodeUnderGenericAncestor": "Kan ikke flytte node {{title}} (ID: {{nodeId}}) under en ny forælder, hvis den forælder har en link/tekst forfader."
+            "GenericNodeContainsChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en link- eller tekstnode, som har underordnede noder.",
+            "PageNodeHasGenericNodeWithChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en side, der har mindst én underordnet link- eller tekstnode, som også har underordnede noder.",
+            "NodeUnderGenericAncestor": "Kan ikke flytte node {{title}} (ID: {{nodeId}}) under en anden node, hvis den node har en link/tekst som overordnet."
           },
           "WarningDeleteNodeDialog": {
             "Title": "Advarsel om sletning af node",
-            "GenericNodeContainsChildren": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi det er en link/tekstnode og har børn.",
-            "PageNodeHasGenericNodeWithChildren": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi det er en sidenode, der har mindst én efterkommer link/tekstnode, som selv indeholder børn."
+            "GenericNodeContainsChildren": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi det er en link/tekstnode og har underordnede noder.",
+            "PageNodeHasGenericNodeWithChildren": "Kan ikke slette siden {{title}} (ID: {{nodeId}}), fordi den har mindst én underordnet link/tekstnode, som også har underordnede noder."
           }
         }
       }
