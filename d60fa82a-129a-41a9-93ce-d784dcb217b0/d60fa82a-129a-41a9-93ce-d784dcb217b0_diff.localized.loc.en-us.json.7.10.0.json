@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Are you sure you want to delete the label?",
+            "Title": "Delete Label"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "This page has child elements. If you continue, all child pages will be archived as well."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Move Node Warning",
+            "GenericNodeContainsChildren": "Cannot move node {{title}} (ID: {{nodeId}}) because it is a Link/Text node has children.",
+            "PageNodeHasGenericNodeWithChildren": "Cannot move node {{title}} (ID: {{nodeId}}) because it is a Page node that has at least one descendent Link/Text node which itself contains children.",
+            "NodeUnderGenericAncestor": "Cannot move node {{title}} (ID: {{nodeId}}) under a new parent if that parent has a Link/Text ancestor."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Delete Node Warning",
+            "GenericNodeContainsChildren": "Cannot delete node {{title}} (ID: {{nodeId}}) because it is a Link/Text node has children.",
+            "PageNodeHasGenericNodeWithChildren": "Cannot delete node {{title}} (ID: {{nodeId}}) because it is a Page node that has at least one descendent Link/Text node which itself contains children."
+          }
+        }
+      }
+    }
+  }
+}
