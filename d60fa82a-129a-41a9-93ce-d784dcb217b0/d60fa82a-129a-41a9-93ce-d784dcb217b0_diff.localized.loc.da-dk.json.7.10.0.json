@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Er du sikker på, at du vil slette etiketten?",
+            "Title": "Slet etikette"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Denne side har underordnede elementer. Hvis du fortsætter, vil alle underordnede sider også blive arkiveret."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Advarsel om flytning af node",
+            "GenericNodeContainsChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en link/tekstnode og har børn.",
+            "PageNodeHasGenericNodeWithChildren": "Kan ikke flytte node {{title}} (ID: {{nodeId}}), fordi det er en sidenode, der har mindst én efterkommer link/tekstnode, som selv indeholder børn.",
+            "NodeUnderGenericAncestor": "Kan ikke flytte node {{title}} (ID: {{nodeId}}) under en ny forælder, hvis den forælder har en link/tekst forfader."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Advarsel om sletning af node",
+            "GenericNodeContainsChildren": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi det er en link/tekstnode og har børn.",
+            "PageNodeHasGenericNodeWithChildren": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi det er en sidenode, der har mindst én efterkommer link/tekstnode, som selv indeholder børn."
+          }
+        }
+      }
+    }
+  }
+}
