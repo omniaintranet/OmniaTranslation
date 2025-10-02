@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "Bạn có chắc chắn muốn xóa nhãn này không?",
+            "Title": "Xóa nhãn"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Trang này có các phần tử con. Nếu bạn tiếp tục, tất cả các trang con sẽ được lưu trữ."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Cảnh báo di chuyển nút",
+            "GenericNodeContainsChildren": "Không thể di chuyển nút {{title}} (ID: {{nodeId}}) vì nó là một nút liên kết/văn bản và có các phần tử con.",
+            "PageNodeHasGenericNodeWithChildren": "Không thể di chuyển nút {{title}} (ID: {{nodeId}}) vì nó là một nút trang có ít nhất một nút liên kết/văn bản con mà chính nó có các phần tử con.",
+            "NodeUnderGenericAncestor": "Không thể di chuyển nút {{title}} (ID: {{nodeId}}) dưới một cha mới nếu cha đó có một tổ tiên liên kết/văn bản."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Cảnh báo xóa nút",
+            "GenericNodeContainsChildren": "Không thể xóa nút {{title}} (ID: {{nodeId}}) vì nó là một nút liên kết/văn bản và có các phần tử con.",
+            "PageNodeHasGenericNodeWithChildren": "Không thể xóa nút {{title}} (ID: {{nodeId}}) vì nó là một nút trang có ít nhất một nút liên kết/văn bản con mà chính nó có các phần tử con."
+          }
+        }
+      }
+    }
+  }
+}
