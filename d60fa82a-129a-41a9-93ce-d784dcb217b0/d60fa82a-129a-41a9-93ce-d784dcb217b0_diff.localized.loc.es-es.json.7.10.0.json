@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DeleteLabel": {
+            "ConfirmationMessage": "¿Está seguro de que desea eliminar la etiqueta?",
+            "Title": "Eliminar etiqueta"
+          },
+          "ApprovalForm": {
+            "ArchiveWarning": "Esta página tiene elementos secundarios. Si continúa, todas las páginas secundarias también se archivarán."
+          },
+          "WarningMoveNodeDialog": {
+            "Title": "Advertencia al mover nodo",
+            "GenericNodeContainsChildren": "No se puede mover el nodo {{title}} (ID: {{nodeId}}) porque es un nodo de enlace/texto y tiene hijos.",
+            "PageNodeHasGenericNodeWithChildren": "No se puede mover el nodo {{title}} (ID: {{nodeId}}) porque es un nodo de página que tiene al menos un nodo de enlace/texto descendiente que a su vez contiene hijos.",
+            "NodeUnderGenericAncestor": "No se puede mover el nodo {{title}} (ID: {{nodeId}}) bajo un nuevo padre si ese padre tiene un ancestro de enlace/texto."
+          },
+          "WarningDeleteNodeDialog": {
+            "Title": "Advertencia al eliminar nodo",
+            "GenericNodeContainsChildren": "No se puede eliminar el nodo {{title}} (ID: {{nodeId}}) porque es un nodo de enlace/texto y tiene hijos.",
+            "PageNodeHasGenericNodeWithChildren": "No se puede eliminar el nodo {{title}} (ID: {{nodeId}}) porque es un nodo de página que tiene al menos un nodo de enlace/texto descendiente que a su vez contiene hijos."
+          }
+        }
+      }
+    }
+  }
+}
