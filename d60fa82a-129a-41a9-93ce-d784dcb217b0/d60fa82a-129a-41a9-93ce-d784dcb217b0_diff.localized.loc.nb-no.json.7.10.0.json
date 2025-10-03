@@ -46,7 +46,7 @@
         "PickNewLink": "Velg ny lenke"
       },
       "ValidationRules": {
-        "RequireUrlSegmentIsFriendly": "Kun bokstaver, tall, bindestreker og understreker er akseptert"
+        "RequireUrlSegmentIsFriendly": "Kun bokstaver, tall, bindestreker og underscores er akseptert"
       }
     }
   }
