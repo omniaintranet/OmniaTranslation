@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Kan ikke slette node {{title}} (ID: {{nodeId}}) fordi det er en sidenode som inneholder minst én lenke/tekstnode."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Manuell sortering"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Status for godkjenning av sletting oppdatert for siden {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
