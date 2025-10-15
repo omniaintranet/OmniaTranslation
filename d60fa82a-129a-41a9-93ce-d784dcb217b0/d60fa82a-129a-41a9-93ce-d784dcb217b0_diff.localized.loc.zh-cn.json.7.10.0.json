@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "无法删除节点 {{title}} (ID: {{nodeId}})，因为它是一个页面节点，包含至少一个链接/文本节点。"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "手动排序"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "页面 {{PageTitle}} 的删除审批状态已更新"
+          }
+        }
+      }
+    }
+  }
+}
