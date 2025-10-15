@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Kan inte ta bort nod {{title}} (ID: {{nodeId}}) eftersom det är en sidnod som innehåller minst en länk/textnod."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Manuell sortering"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Status för godkännande av borttagning uppdaterad för sidan {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
