@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "WarningDeleteNodeDialog": {
-            "PageNodeContainGenericNode": "Kan inte ta bort nod {{title}} (ID: {{nodeId}}) eftersom det är en sidnod som innehåller minst en länk/textnod."
+            "PageNodeContainGenericNode": "Kan inte ta bort nod {{title}} (ID: {{nodeId}}) eftersom det är en sidnod som innehåller minst en länk-/textnod."
           }
         }
       }
