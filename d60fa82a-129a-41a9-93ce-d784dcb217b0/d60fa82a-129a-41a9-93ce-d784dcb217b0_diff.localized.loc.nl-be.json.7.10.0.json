@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Kan knooppunt {{title}} (ID: {{nodeId}}) niet verwijderen omdat het een pagina-knooppunt is dat ten minste één link/tekst-knooppunt bevat."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Handmatige sortering"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Status van goedkeuring voor verwijdering bijgewerkt voor pagina {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
