@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Cannot delete node {{title}} (ID: {{nodeId}}) because it is a Page node that contain at least one Link/Text node."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Manual Sort"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Deletion Approval status updated for page {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
