@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "No se puede eliminar el nodo {{title}} (ID: {{nodeId}}) porque es un nodo de página que contiene al menos un nodo de enlace/texto."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Orden manual"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Estado de aprobación de eliminación actualizado para la página {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
