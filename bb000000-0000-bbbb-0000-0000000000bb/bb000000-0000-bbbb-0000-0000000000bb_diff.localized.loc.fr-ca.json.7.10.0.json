@@ -1,0 +1,8 @@
+{
+  "Omnia": {
+    "AuthSetup": {
+      "ConfirmMessage": "Veuillez cliquer sur le bouton ci-dessous pour procéder à votre confirmation.",
+      "ConfirmButton": "Confirmer"
+    }
+  }
+}
