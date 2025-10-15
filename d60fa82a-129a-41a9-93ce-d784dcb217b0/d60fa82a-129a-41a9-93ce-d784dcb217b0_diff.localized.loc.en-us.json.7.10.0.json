@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "WarningDeleteNodeDialog": {
-            "PageNodeContainGenericNode": "Cannot delete node {{title}} (ID: {{nodeId}}) because it is a Page node that contain at least one Link/Text node."
+            "PageNodeContainGenericNode": "Cannot delete node {{title}} (ID: {{nodeId}}) because it is a page node that contains at least one link/text node."
           }
         }
       }
@@ -13,14 +13,14 @@
   "OWCM": {
     "PageRollup": {
       "Settings": {
-        "ManualSort": "Manual Sort"
+        "ManualSort": "Manual sort"
       }
     },
     "PublishingApp": {
       "EmailTemplates": {
         "DeletionApproval": {
           "MailStatusUpdate": {
-            "SubjectText": "Deletion Approval status updated for page {{PageTitle}}"
+            "SubjectText": "Deletion approval status updated for page {{PageTitle}}"
           }
         }
       }
