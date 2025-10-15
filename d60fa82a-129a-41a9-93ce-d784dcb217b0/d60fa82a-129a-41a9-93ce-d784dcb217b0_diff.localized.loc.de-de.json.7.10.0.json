@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Kann den Knoten {{title}} (ID: {{nodeId}}) nicht löschen, da es sich um einen Seitenknoten handelt, der mindestens einen Link/Textknoten enthält."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Manuelle Sortierung"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Status der Löschgenehmigung für die Seite {{PageTitle}} aktualisiert"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Ei voida poistaa solmua {{title}} (ID: {{nodeId}}), koska se on sivusolmu, joka sisältää vähintään yhden linkki/tekstisolmun."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Manuaalinen lajittelu"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Poistamisen hyväksynnän tila päivitetty sivulle {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}

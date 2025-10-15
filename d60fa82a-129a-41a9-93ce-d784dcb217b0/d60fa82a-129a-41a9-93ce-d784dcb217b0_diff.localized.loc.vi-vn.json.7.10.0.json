@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Không thể xóa nút {{title}} (ID: {{nodeId}}) vì nó là một nút trang chứa ít nhất một nút liên kết/văn bản."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Sắp xếp thủ công"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Cập nhật trạng thái phê duyệt xóa cho trang {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}

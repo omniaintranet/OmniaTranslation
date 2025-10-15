@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "WarningDeleteNodeDialog": {
+            "PageNodeContainGenericNode": "Impossible de supprimer le nœud {{title}} (ID : {{nodeId}}) car c'est un nœud de page qui contient au moins un nœud de lien/texte."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "ManualSort": "Tri manuel"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "DeletionApproval": {
+          "MailStatusUpdate": {
+            "SubjectText": "Statut d'approbation de suppression mis à jour pour la page {{PageTitle}}"
+          }
+        }
+      }
+    }
+  }
+}
