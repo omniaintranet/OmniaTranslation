@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "WarningDeleteNodeDialog": {
-            "PageNodeContainGenericNode": "Kan ikke slette node {{title}} (ID: {{nodeId}}), da det er en sidenode, der indeholder mindst én link/tekstnode."
+            "PageNodeContainGenericNode": "Kan ikke slette node {{title}} (ID: {{nodeId}}), fordi den har én eller flere underordnede link- eller tekstnoder."
           }
         }
       }
@@ -20,7 +20,7 @@
       "EmailTemplates": {
         "DeletionApproval": {
           "MailStatusUpdate": {
-            "SubjectText": "Status for godkendelse af sletning opdateret for siden {{PageTitle}}"
+            "SubjectText": "Status for godkendelse af sletning er opdateret for siden {{PageTitle}}"
           }
         }
       }
