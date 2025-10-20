@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "WarningDeleteNodeDialog": {
-            "PageNodeContainGenericNode": "Kan ikke slette node {{title}} (ID: {{nodeId}}) fordi det er en sidenode som inneholder minst én lenke/tekstnode."
+            "PageNodeContainGenericNode": "Kan ikke slette node {{title}} (ID: {{nodeId}}) fordi den har én eller flere underordnede lenke- eller tekstnoder."
           }
         }
       }
