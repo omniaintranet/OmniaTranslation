@@ -1,7 +1,7 @@
 {
   "Omnia": {
     "AuthSetup": {
-      "ConfirmMessage": "Ole hyvä ja napsauta alla olevaa painiketta jatkaaksesi vahvistustasi.",
+      "ConfirmMessage": "Ole hyvä ja napsauta alla olevaa painiketta jatkaaksesi.",
       "ConfirmButton": "Vahvista"
     }
   }
