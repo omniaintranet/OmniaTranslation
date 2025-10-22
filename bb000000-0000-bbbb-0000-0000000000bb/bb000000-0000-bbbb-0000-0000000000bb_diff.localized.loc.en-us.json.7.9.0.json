@@ -1,0 +1,29 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the EntraID additional user properties feature."
+      },
+      "Apps": {
+        "InvalidMagicLinkMessage": "The link you have used is not valid."
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integration",
+          "Description": "This feature allows Omnia to read all properties on all users from Entra ID.",
+          "Title": "EntraID additional user properties",
+          "ConsentInformation": "Read all users full profiles is required to read all properties on users from Entra ID."
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Header level"
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Please click the button below to proceed your confirmation",
+      "ConfirmButton": "Confirm"
+    }
+  }
+}
