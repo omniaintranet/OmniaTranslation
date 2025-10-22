@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "CustomEmailSettings": {
+      "Default": "Default",
+      "DefaultProvider": {
+        "SenderName": "Sender name",
+        "EmailName": "Email name",
+        "DefaultValueIfEmpty": "Default value if empty"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Sender name",
+        "EmailAddress": "Email address",
+        "APIKey": "API Key"
+      }
+    }
+  }
+}
