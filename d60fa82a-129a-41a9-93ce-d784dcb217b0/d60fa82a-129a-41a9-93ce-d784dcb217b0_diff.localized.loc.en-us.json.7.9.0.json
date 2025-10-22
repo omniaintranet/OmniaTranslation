@@ -1,0 +1,49 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Display the result for value"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Page {{id}} has been deleted."
+            }
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "My Calendar"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange calendar integration",
+        "Category": "SharePoint server",
+        "Description": "Enable possibility to integrating with Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook calendar service account",
+        "ExchangeServerUrl": "Exchange web server url",
+        "Password": "Password",
+        "UserName": "Username"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Dear {{name}}</p><p>A new version of <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> has been published.<p>{%VariationList | <p>You are the {{propertyName}} of this page for {{variationName}}<p> %}<p>Please make necessary changes to the page variation and publish a new version.</p>"
+          }
+        }
+      }
+    }
+  }
+}
