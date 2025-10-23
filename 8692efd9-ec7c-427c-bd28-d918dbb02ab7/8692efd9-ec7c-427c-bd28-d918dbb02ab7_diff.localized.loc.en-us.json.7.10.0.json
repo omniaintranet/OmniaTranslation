@@ -4,11 +4,11 @@
       "Notification": {
         "NotificationConfig": {
           "ReminderNotification": "Send reminder notification",
-          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send a notification to users who have not completed the request when it is being closed"
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send a notification to users who have not completed the request when it is being closed."
         }
       },
       "Submenu": {
-        "Layout": "Layout Settings"
+        "Layout": "Layout settings"
       },
       "TabSections": {
         "DataMapping": "Data mapping",
@@ -19,24 +19,24 @@
         "RemoveLayout": "Remove layout",
         "AddPageType": "Add page type",
         "Cancel": "Cancel",
-        "CreateDraft": "Create Draft",
+        "CreateDraft": "Create draft",
         "Import": "Import",
         "Export": "Export",
         "View": "View"
       },
       "Settings": {
-        "HeaderTextColor": "Header Text Color",
-        "DefaultChannel": "Default Channel",
-        "TenantScopeQuery": "Tenant Scope Query",
-        "EnableLayoutEngine": "Enable Layout engine",
-        "AddScopeQuery": "Add Scope Query",
+        "HeaderTextColor": "Header text color",
+        "DefaultChannel": "Default channel",
+        "TenantScopeQuery": "Tenant scope query",
+        "EnableLayoutEngine": "Enable layout engine",
+        "AddScopeQuery": "Add scope query",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
             "Title": "When user is forced to sign out in OFMC",
             "Description": "Reset data on mobile app but keep sign in state"
           }
         },
-        "SortByItemDate": "Item Date (Feed Built-in)",
+        "SortByItemDate": "Item Date (Feed built-in)",
         "PageType": "Page type",
         "ServerDetectionModes": {
           "AddOrUpdate": "AddOrUpdate",
@@ -50,16 +50,16 @@
             "Completed": "Completed"
           }
         },
-        "InvalidUrlInContentSectionValidateMessage": "Invalid or missing Url in the Content section.",
+        "InvalidUrlInContentSectionValidateMessage": "Invalid or missing URL in the Content section.",
         "ResyncUsers": {
           "Dialog": {
-            "MessageRetryResyncAllUsers": "Are you really sure you want to retry resync users again?"
+            "MessageRetryResyncAllUsers": "Are you really sure you want to retry resync users?"
           }
         },
         "MigrateQueryTabToMultipleQueryTab": {
           "Dialog": {
             "Title": "Migrate tab settings",
-            "Message": "Do you want to migrate query tab to multiple query tab ?"
+            "Message": "Do you want to migrate query tab to multiple query tab?"
           }
         },
         "MigrateNewsItem": {
@@ -89,7 +89,7 @@
             "TitleRemovePageType": "Remove page type",
             "MessageRemovePageType": "Do you want to remove this page type in layout?",
             "TitleActivateLayoutEngineMigration": "Activate layout engine migration",
-            "MessgeActivateLayoutEngineMigration": "Do you want to activate layout engine migration ?"
+            "MessgeActivateLayoutEngineMigration": "Do you want to activate layout engine migration?"
           },
           "DescriptionOfActivateLayoutEngineMigration": "When you click the button below, news articles associated with this business profile will be migrated using the layout engine. This process may take some time to complete and cannot be reversed.",
           "ThisBusinessProfileHasActivatedTheLayoutEngine": "*This business profile has activated the layout engine.",
@@ -97,7 +97,7 @@
           "ActivateLayoutEngineMigration": "Activate layout engine migration"
         },
         "EventsFilter": {
-          "Title": "Whitelist Events filter",
+          "Title": "Whitelist events filter",
           "EnableEventsFilter": "Enable events filter",
           "Radio": {
             "Hint": "Switch between whitelist mode and blacklist mode",
@@ -120,8 +120,8 @@
       },
       "MultipleQuery": {
         "Validation": {
-          "RequireAtLeastOneLayoutAdded": "You need to add at least 1 layout.",
-          "NoLayoutSelectedValidateMessage": "You need to add at least 1 layout in the Display section."
+          "RequireAtLeastOneLayoutAdded": "You need to add at least one layout.",
+          "NoLayoutSelectedValidateMessage": "You need to add at least one layout in the Display section."
         }
       },
       "Blocks": {
@@ -146,7 +146,7 @@
             "Chip": "Chip"
           },
           "NewTag": "New",
-          "FixedValue": "Fixed Value",
+          "FixedValue": "Fixed value",
           "SignOffRequestTag": "Sign-off request",
           "TagContainerStyle": "Tag container style"
         },
@@ -182,10 +182,10 @@
           "DateTextStyle": "Date text style",
           "TextStyle": "Text style",
           "InheritFromTenant": "Inherit from tenant",
-          "TheDateFormatIsIncorrect": "The date format is incorrect"
+          "TheDateFormatIsIncorrect": "The date format is not correct."
         },
         "RelatedLinksBlock": {
-          "Title": "Related Links",
+          "Title": "Related links",
           "IconAndTextColor": "Icon and text color",
           "BlockTitle": "Title",
           "TitleStyle": "Title style"
@@ -205,7 +205,7 @@
           "Title": "Action buttons"
         },
         "DateRangeBlock": {
-          "Title": "Date Range",
+          "Title": "Date range",
           "To": "To",
           "Form": "Form",
           "MonthTextStyle": "Month text style",
@@ -235,15 +235,15 @@
           "IconAndTextColor": "Icon and text color"
         },
         "ShareButtonBlock": {
-          "Title": "Share Button",
-          "IconSize": "IconSize"
+          "Title": "Share button",
+          "IconSize": "Icon size"
         },
         "AddFavoriteButtonBlock": {
           "RenderMode": {
-            "CompactReadonly": "Compact Readonly",
+            "CompactReadonly": "Compact read only",
             "Full": "Full"
           },
-          "Title": "Add as Favorite Button",
+          "Title": "Add as Favorite button",
           "AddLabel": "Add label",
           "RemoveLabel": "Remove label",
           "LinkCategory": "Link category"
@@ -303,8 +303,8 @@
           "Title": "Sign-off request action",
           "IconPositionOption": {
             "Title": "Icon position",
-            "LeftOfText": "Left of the text",
-            "RightOfText": "Right of the text"
+            "LeftOfText": "Left of text",
+            "RightOfText": "Right of text"
           },
           "ConfirmLabel": "Confirm label",
           "TextStyleInput": "Text stylesheet"
@@ -313,9 +313,9 @@
       "Layout": {
         "NoLayoutDefined": "No layout defined",
         "Dialog": {
-          "ConfirmCancellation": "Confirm Cancellation",
+          "ConfirmCancellation": "Confirm cancellation",
           "DiscardAllChanges": "Do you want to discard all changes?",
-          "ConfirmSave": "Confirm Save",
+          "ConfirmSave": "Confirm save",
           "SaveWithoutChanges": "You haven't made any new changes. Do you still want to save?",
           "ConfirmPublishing": "Confirm publishing",
           "PublishLayout": "Do you want to publish layout version {version}?"
@@ -324,11 +324,11 @@
         "SelectUserToPreviewTheLayout": "Select user to preview the layout",
         "LayoutTemplatesTooltip": "Layout templates",
         "ImportLayoutTooltip": "Import layout",
-        "NoDefinitionToExport": "There's no definition data to export",
+        "NoDefinitionToExport": "There's no definition data to export.",
         "ExportLayoutTooltip": "Export layout",
         "ExportErrorMessage": "An error occurred while exporting layout definition.",
         "Validation": {
-          "RequireAtLeastOnePageTypeAdded": "You need to add at least 1 page type."
+          "RequireAtLeastOnePageTypeAdded": "You need to add at least one page type."
         },
         "LayoutImportTitle": "Layout import",
         "InvalidLayoutFile": "Invalid layout file.",
@@ -351,7 +351,7 @@
           "textDocumentIsNotAvailableMessage": "This document is not available. If it is a new document, please wait a few minutes and try again. Otherwise, the document may have been deleted."
         },
         "Notification": {
-          "ClosingSignOffRequest": "This request sent to you from {requestedBy} on {requestTime} has been closed"
+          "ClosingSignOffRequest": "This request sent to you from {requestedBy} on {requestTime} has been closed."
         }
       },
       "PageRollup": {
@@ -360,7 +360,7 @@
           "View": {
             "Header": "Feed info",
             "Dialog": {
-              "Title": "Omnia Feed Publish Info",
+              "Title": "Omnia Feed publish info",
               "Content": {
                 "FeedInfoForPage": "Info for page",
                 "PublishStatus": {
