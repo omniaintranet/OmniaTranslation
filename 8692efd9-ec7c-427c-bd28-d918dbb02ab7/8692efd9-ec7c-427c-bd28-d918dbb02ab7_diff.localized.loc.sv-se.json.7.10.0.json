@@ -11,7 +11,7 @@
         "Layout": "Layoutinställningar"
       },
       "TabSections": {
-        "DataMapping": "Datakartläggning",
+        "DataMapping": "Datamappning",
         "AddLayouts": "Lägg till layouter"
       },
       "Buttons": {
@@ -27,12 +27,12 @@
       "Settings": {
         "HeaderTextColor": "Rubriktextfärg",
         "DefaultChannel": "Standardkanal",
-        "TenantScopeQuery": "Hyresgästomfångsfråga",
+        "TenantScopeQuery": "Sökfråga på tenant-nivå",
         "EnableLayoutEngine": "Aktivera layoutmotor",
-        "AddScopeQuery": "Lägg till omfångsfråga",
+        "AddScopeQuery": "Lägg till sökfråga",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
-            "Title": "När användaren tvingas logga ut i OFMC",
+            "Title": "När användaren tvingas logga ut från OFMC",
             "Description": "Återställ data i mobilappen men behåll inloggningsstatus"
           }
         },
@@ -41,7 +41,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Lägg till eller uppdatera",
           "Delete": "Ta bort",
-          "AutomaticPageTranslationFinished": "VariationSidöversättning"
+          "AutomaticPageTranslationFinished": "Översättning av variationssida"
         },
         "SignOffRequest": {
           "Progress": {
@@ -50,7 +50,7 @@
             "Completed": "Avslutad"
           }
         },
-        "InvalidUrlInContentSectionValidateMessage": "Ogiltig eller saknad URL i innehållssektionen.",
+        "InvalidUrlInContentSectionValidateMessage": "Ogiltig eller saknad URL i innehåll.",
         "ResyncUsers": {
           "Dialog": {
             "MessageRetryResyncAllUsers": "Är du verkligen säker på att du vill försöka synkronisera om användarna?"
@@ -59,26 +59,26 @@
         "MigrateQueryTabToMultipleQueryTab": {
           "Dialog": {
             "Title": "Migrera flikinställningar",
-            "Message": "Vill du migrera frågefliken till flera frågeflikar?"
+            "Message": "Vill du migrera fliken Fråga till fliken Flera frågor?"
           }
         },
         "MigrateNewsItem": {
-          "Title": "Migrera nyhetsartikel"
+          "Title": "Migrera nyhetsobjekt"
         },
         "RicherContent": {
           "PageTypePicker": "Välj sidtyp",
           "BlocksPicker": "Välj block",
           "SelectPageType": "Välj sidtyp",
           "Block": "Block",
-          "SelectChildBlock": "Välj ett barnblock",
-          "SelectEnterpriseProperties": "Välj företagsattribut",
+          "SelectChildBlock": "Välj ett underordnat block",
+          "SelectEnterpriseProperties": "Välj verksamhetsegenskap",
           "DragAndDrop": "Dra och släpp",
           "PageTypes": "Sidtyper",
           "LayoutName": "Layoutnamn",
           "BlockTitle": "Blocktitel",
-          "ChildBlocks": "Barnblock",
+          "ChildBlocks": "Underordnade block",
           "LayoutNameIsRequired": "Layoutnamn krävs",
-          "CustomStyleSheet": "Anpassad stilark",
+          "CustomStyleSheet": "Anpassad stil",
           "ThisBlockIsRequired": "Detta block är obligatoriskt",
           "Default": "Standard",
           "Dialog": {
@@ -91,25 +91,25 @@
             "TitleActivateLayoutEngineMigration": "Aktivera layoutmotor-migrering",
             "MessgeActivateLayoutEngineMigration": "Vill du aktivera layoutmotor-migrering?"
           },
-          "DescriptionOfActivateLayoutEngineMigration": "När du klickar på knappen nedan kommer nyhetsartiklar kopplade till denna affärsprofil att migreras med hjälp av layoutmotorn. Denna process kan ta lite tid att slutföra och kan inte ångras.",
-          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denna affärsprofil har aktiverat layoutmotorn.",
-          "MigrationProcess": "Migrering av nyhetsartiklar för denna affärsprofil pågår",
+          "DescriptionOfActivateLayoutEngineMigration": "När du klickar på knappen nedan kommer nyhetsartiklar kopplade till denna verksamhetsprofil att migreras med hjälp av layoutmotorn. Denna process kan ta lite tid att slutföra och kan inte ångras.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denna verksamhetsprofil har aktiverat layoutmotorn.",
+          "MigrationProcess": "Migrering av nyhetsartiklar för denna verksamhetsprofil pågår",
           "ActivateLayoutEngineMigration": "Aktivera layoutmotor-migrering"
         },
         "EventsFilter": {
           "Title": "Vitlista för händelsefilter",
           "EnableEventsFilter": "Aktivera händelsefilter",
           "Radio": {
-            "Hint": "Väx mellan vitlisteläge och svartlisteläge",
+            "Hint": "Växla mellan vitlisteläge och svartlisteläge",
             "Blacklist": "Svartlista",
             "Whitelist": "Vitlista"
           },
           "FilterMode": {
             "Label": "Filterläge",
-            "BusinessProfile": "Affärsprofil",
+            "BusinessProfile": "Verksamhetsprofil",
             "PublishingApp": "Publiceringsapp",
             "PageCollection": "Sidsamling",
-            "BusinessProfileInputLabel": "Affärsprofiler",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
             "PublishingAppInputLabel": "Publiceringsappar"
           }
         },
@@ -121,7 +121,7 @@
       "MultipleQuery": {
         "Validation": {
           "RequireAtLeastOneLayoutAdded": "Du måste lägga till minst en layout.",
-          "NoLayoutSelectedValidateMessage": "Du måste lägga till minst en layout i visningssektionen."
+          "NoLayoutSelectedValidateMessage": "Du måste lägga till minst en layout för visning."
         }
       },
       "Blocks": {
@@ -147,7 +147,7 @@
           },
           "NewTag": "Ny",
           "FixedValue": "Fast värde",
-          "SignOffRequestTag": "Godkännande begäran",
+          "SignOffRequestTag": "Godkännandebegäran",
           "TagContainerStyle": "Taggbehållarstil"
         },
         "TextBlock": {
@@ -178,10 +178,10 @@
             "TextMode": "Text",
             "CalendarIconMode": "Kalendersymbol"
           },
-          "MonthTextStyle": "Månadstextstil",
-          "DateTextStyle": "Datumtextstil",
+          "MonthTextStyle": "Textstil månad",
+          "DateTextStyle": "Textstil dokument",
           "TextStyle": "Textstil",
-          "InheritFromTenant": "Ärv från hyresgäst",
+          "InheritFromTenant": "Ärv från tenant",
           "TheDateFormatIsIncorrect": "Datumformatet är inte korrekt."
         },
         "RelatedLinksBlock": {
@@ -196,20 +196,20 @@
           "ReadOnlyMode": "Visa i skrivskyddat läge",
           "SortComment": "Sortera kommentar",
           "RenderMode": {
-            "FullView": "Full vy",
+            "FullView": "Helvy",
             "NewComments": "Nya kommentarer"
           },
-          "HideNewCommentsAfterReading": "Dölj nya kommentarer efter läsning"
+          "HideNewCommentsAfterReading": "Dölj nya kommentarer när de är lästa"
         },
         "ActionButtonsBlock": {
-          "Title": "Handlingsknappar"
+          "Title": "Åtgärdsknappar"
         },
         "DateRangeBlock": {
           "Title": "Datumintervall",
           "To": "Till",
           "Form": "Form",
-          "MonthTextStyle": "Månadstextstil",
-          "DateTextStyle": "Datumtextstil"
+          "MonthTextStyle": "Textstil månad",
+          "DateTextStyle": Textstil datum"
         },
         "RowBlock": {
           "Title": "Rad",
@@ -228,7 +228,7 @@
           "IconAndTextColor": "Ikon- och textfärg"
         },
         "CommentCountBlock": {
-          "Title": "Kommentarantal",
+          "Title": "Antal kommentarer",
           "RenderMode": {
             "CompactView": "Kompakt vy"
           },
@@ -275,15 +275,15 @@
           "Title": "Galleriindikator"
         },
         "PlayVideoButtonBlock": {
-          "Title": "Spela video-knapp",
+          "Title": "Spela upp video-knapp",
           "BackgroundColor": "Bakgrundsfärg",
           "IconColor": "Ikonfärg",
           "IconSize": "Ikonstorlek"
         },
         "VariationPickerBlock": {
-          "Title": "Variation väljare",
-          "TextStyleInput": "Textstilark",
-          "ListStyleInput": "Listbehållarstilark"
+          "Title": "Väljare av variationssida",
+          "TextStyleInput": "Stilmall text",
+          "ListStyleInput": "Stilmall för listbehållare"
         },
         "BannerBlock": {
           "Title": "Banner",
@@ -295,28 +295,28 @@
           }
         },
         "AccordionBlock": {
-          "Title": "FAQ/Accordion",
+          "Title": "FAQ/Dragspel",
           "HeaderStyle": "Rubrikstil",
           "ContentStyle": "Innehållsstil"
         },
         "SignOffRequestActionBlock": {
-          "Title": "Godkännande begäran åtgärd",
+          "Title": Åtgärd godkännandebegäran",
           "IconPositionOption": {
             "Title": "Ikonposition",
             "LeftOfText": "Till vänster om text",
             "RightOfText": "Till höger om text"
           },
           "ConfirmLabel": "Bekräfta etikett",
-          "TextStyleInput": "Textstilark"
+          "TextStyleInput": "Stilmall text"
         }
       },
       "Layout": {
         "NoLayoutDefined": "Ingen layout definierad",
         "Dialog": {
           "ConfirmCancellation": "Bekräfta avbokning",
-          "DiscardAllChanges": "Vill du kassera alla ändringar?",
-          "ConfirmSave": "Bekräfta sparande",
-          "SaveWithoutChanges": "Du har inte gjort några nya ändringar. Vill du fortfarande spara?",
+          "DiscardAllChanges": "Vill du ta bort alla ändringar?",
+          "ConfirmSave": "Bekräfta spara",
+          "SaveWithoutChanges": "Du har inte gjort några nya ändringar. Vill du ändå spara?",
           "ConfirmPublishing": "Bekräfta publicering",
           "PublishLayout": "Vill du publicera layoutversion {version}?"
         },
@@ -342,7 +342,7 @@
             "textLayoutName": "Layoutnamn:",
             "textUseLayoutEngine": "Använd layoutmotor",
             "textNoLayoutData": "Ingen layoutdata!",
-            "textBusinessProfileUsesLayoutEngine": "Affärsprofil använder layoutmotor.",
+            "textBusinessProfileUsesLayoutEngine": "Verksamhetsprofil använder layoutmotor.",
             "textOverrideDefaultLayout": "Överskriv layouten för alla nyhetsartiklar"
           }
         },
@@ -373,9 +373,9 @@
                     "Scheduled": "Schemalagd"
                   }
                 },
-                "NumberOfUsersReached": "Antal användare nått",
-                "TimeDeliveredToAllUsers": "Tid levererad till alla användare",
-                "TimeDeliveredToActiveUsers": "Tid levererad till aktiva användare",
+                "NumberOfUsersReached": "Användarantal nått",
+                "TimeDeliveredToAllUsers": "Tid skickad till alla användare",
+                "TimeDeliveredToActiveUsers": "Tid skickad till aktiva användare",
                 "TimeProcessingPage": "Började bearbeta vid",
                 "TimeScheduled": "Schemalagd vid",
                 "Message": {
@@ -385,7 +385,7 @@
               }
             },
             "Settings": {
-              "ProfileToGetInfo": "Affärsprofil för att hämta information"
+              "ProfileToGetInfo": "Verksamhetsprofil för att hämta information"
             }
           }
         }
