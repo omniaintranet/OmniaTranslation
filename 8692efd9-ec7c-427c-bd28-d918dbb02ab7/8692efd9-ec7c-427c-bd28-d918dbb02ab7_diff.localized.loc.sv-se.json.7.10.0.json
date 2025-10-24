@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Skicka påminnelseavisering",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Skicka en avisering till användare som inte har slutfört begäran när den stängs."
+        }
+      },
+      "Submenu": {
+        "Layout": "Layoutinställningar"
+      },
+      "TabSections": {
+        "DataMapping": "Datakartläggning",
+        "AddLayouts": "Lägg till layouter"
+      },
+      "Buttons": {
+        "AddLayout": "Lägg till layout",
+        "RemoveLayout": "Ta bort layout",
+        "AddPageType": "Lägg till sidtyp",
+        "Cancel": "Avbryt",
+        "CreateDraft": "Skapa utkast",
+        "Import": "Importera",
+        "Export": "Exportera",
+        "View": "Visa"
+      },
+      "Settings": {
+        "HeaderTextColor": "Rubriktextfärg",
+        "DefaultChannel": "Standardkanal",
+        "TenantScopeQuery": "Hyresgästomfångsfråga",
+        "EnableLayoutEngine": "Aktivera layoutmotor",
+        "AddScopeQuery": "Lägg till omfångsfråga",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "När användaren tvingas logga ut i OFMC",
+            "Description": "Återställ data i mobilappen men behåll inloggningsstatus"
+          }
+        },
+        "SortByItemDate": "Objektdatum (inbyggd feed)",
+        "PageType": "Sidtyp",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lägg till eller uppdatera",
+          "Delete": "Ta bort",
+          "AutomaticPageTranslationFinished": "VariationSidöversättning"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Inte påbörjad",
+            "InProgress": "Pågår",
+            "Completed": "Avslutad"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Ogiltig eller saknad URL i innehållssektionen.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Är du verkligen säker på att du vill försöka synkronisera om användarna?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrera flikinställningar",
+            "Message": "Vill du migrera frågefliken till flera frågeflikar?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrera nyhetsartikel"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Välj sidtyp",
+          "BlocksPicker": "Välj block",
+          "SelectPageType": "Välj sidtyp",
+          "Block": "Block",
+          "SelectChildBlock": "Välj ett barnblock",
+          "SelectEnterpriseProperties": "Välj företagsattribut",
+          "DragAndDrop": "Dra och släpp",
+          "PageTypes": "Sidtyper",
+          "LayoutName": "Layoutnamn",
+          "BlockTitle": "Blocktitel",
+          "ChildBlocks": "Barnblock",
+          "LayoutNameIsRequired": "Layoutnamn krävs",
+          "CustomStyleSheet": "Anpassad stilark",
+          "ThisBlockIsRequired": "Detta block är obligatoriskt",
+          "Default": "Standard",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Ta bort layoutdefinition",
+            "MessageDeleteLayoutDefinition": "Vill du ta bort denna layoutdefinition?",
+            "TitleDeleteBlock": "Ta bort block",
+            "MessageDeleteBlock": "Vill du ta bort detta block?",
+            "TitleRemovePageType": "Ta bort sidtyp",
+            "MessageRemovePageType": "Vill du ta bort denna sidtyp i layouten?",
+            "TitleActivateLayoutEngineMigration": "Aktivera layoutmotor-migrering",
+            "MessgeActivateLayoutEngineMigration": "Vill du aktivera layoutmotor-migrering?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "När du klickar på knappen nedan kommer nyhetsartiklar kopplade till denna affärsprofil att migreras med hjälp av layoutmotorn. Denna process kan ta lite tid att slutföra och kan inte ångras.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denna affärsprofil har aktiverat layoutmotorn.",
+          "MigrationProcess": "Migrering av nyhetsartiklar för denna affärsprofil pågår",
+          "ActivateLayoutEngineMigration": "Aktivera layoutmotor-migrering"
+        },
+        "EventsFilter": {
+          "Title": "Vitlista för händelsefilter",
+          "EnableEventsFilter": "Aktivera händelsefilter",
+          "Radio": {
+            "Hint": "Väx mellan vitlisteläge och svartlisteläge",
+            "Blacklist": "Svartlista",
+            "Whitelist": "Vitlista"
+          },
+          "FilterMode": {
+            "Label": "Filterläge",
+            "BusinessProfile": "Affärsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Affärsprofiler",
+            "PublishingAppInputLabel": "Publiceringsappar"
+          }
+        },
+        "PreviewTab": "Förhandsgranska flik"
+      },
+      "Common": {
+        "VersionHistory": "Versionshistorik"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Du måste lägga till minst en layout.",
+          "NoLayoutSelectedValidateMessage": "Du måste lägga till minst en layout i visningssektionen."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Renderingsläge"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Bildrenderingsläge",
+            "ThumbnailMode": "Miniatyrläge",
+            "DetailMode": "Detaljläge"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Taggar",
+          "DisplayMode": {
+            "Title": "Visningsläge",
+            "Text": "Text",
+            "Chip": "Chip"
+          },
+          "NewTag": "Ny",
+          "FixedValue": "Fast värde",
+          "SignOffRequestTag": "Godkännande begäran",
+          "TagContainerStyle": "Taggbehållarstil"
+        },
+        "TextBlock": {
+          "Title": "Text",
+          "DefaultContent": "Standardinnehåll",
+          "LineLimit": "Radgräns"
+        },
+        "HeadingBlock": {
+          "Title": "Rubrik",
+          "LineLimit": "Radgräns"
+        },
+        "RichTextBlock": {
+          "Title": "Rik text"
+        },
+        "IdentityBlock": {
+          "Title": "Identitet",
+          "RenderMode": {
+            "DisplayName": "Visningsnamn",
+            "DisplayNameWithAvatar": "Visningsnamn med avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Datum",
+          "DateFormat": "Datumformat",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Text",
+            "CalendarIconMode": "Kalendersymbol"
+          },
+          "MonthTextStyle": "Månadstextstil",
+          "DateTextStyle": "Datumtextstil",
+          "TextStyle": "Textstil",
+          "InheritFromTenant": "Ärv från hyresgäst",
+          "TheDateFormatIsIncorrect": "Datumformatet är inte korrekt."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Relaterade länkar",
+          "IconAndTextColor": "Ikon- och textfärg",
+          "BlockTitle": "Titel",
+          "TitleStyle": "Titelstil"
+        },
+        "SocialBlock": {
+          "Title": "Social",
+          "EnableComment": "Tillåt kommentarer",
+          "ReadOnlyMode": "Visa i skrivskyddat läge",
+          "SortComment": "Sortera kommentar",
+          "RenderMode": {
+            "FullView": "Full vy",
+            "NewComments": "Nya kommentarer"
+          },
+          "HideNewCommentsAfterReading": "Dölj nya kommentarer efter läsning"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Handlingsknappar"
+        },
+        "DateRangeBlock": {
+          "Title": "Datumintervall",
+          "To": "Till",
+          "Form": "Form",
+          "MonthTextStyle": "Månadstextstil",
+          "DateTextStyle": "Datumtextstil"
+        },
+        "RowBlock": {
+          "Title": "Rad",
+          "NewItemIndicator": "Visa indikator för nytt objekt till vänster"
+        },
+        "ColumnBlock": {
+          "Title": "Kolumn"
+        },
+        "LikeButtonBlock": {
+          "Title": "Gilla-knapp",
+          "RenderMode": {
+            "CompactView": "Kompakt vy",
+            "DetailView": "Detaljvy"
+          },
+          "TextStyle": "Textstil",
+          "IconAndTextColor": "Ikon- och textfärg"
+        },
+        "CommentCountBlock": {
+          "Title": "Kommentarantal",
+          "RenderMode": {
+            "CompactView": "Kompakt vy"
+          },
+          "IconAndTextColor": "Ikon- och textfärg"
+        },
+        "ShareButtonBlock": {
+          "Title": "Dela-knapp",
+          "IconSize": "Ikonstorlek"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakt skrivskyddat",
+            "Full": "Full"
+          },
+          "Title": "Lägg till som favorit-knapp",
+          "AddLabel": "Lägg till etikett",
+          "RemoveLabel": "Ta bort etikett",
+          "LinkCategory": "Länkkategori"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Dag i veckan"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Veckan börjar",
+              "Options": {
+                "Mon": "Måndag",
+                "Sun": "Söndag",
+                "Sat": "Lördag"
+              }
+            },
+            "Monday": "Måndag",
+            "Tuesday": "Tisdag",
+            "Wednesday": "Onsdag",
+            "Thursday": "Torsdag",
+            "Friday": "Fredag",
+            "Saturday": "Lördag",
+            "Sunday": "Söndag"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galleriindikator"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Spela video-knapp",
+          "BackgroundColor": "Bakgrundsfärg",
+          "IconColor": "Ikonfärg",
+          "IconSize": "Ikonstorlek"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variation väljare",
+          "TextStyleInput": "Textstilark",
+          "ListStyleInput": "Listbehållarstilark"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Layout",
+            "ImageOnTop": "Bild överst",
+            "TitleAndContentOnImage": "Titel och innehåll på bild",
+            "TitleOnImage": "Titel på bild"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Rubrikstil",
+          "ContentStyle": "Innehållsstil"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Godkännande begäran åtgärd",
+          "IconPositionOption": {
+            "Title": "Ikonposition",
+            "LeftOfText": "Till vänster om text",
+            "RightOfText": "Till höger om text"
+          },
+          "ConfirmLabel": "Bekräfta etikett",
+          "TextStyleInput": "Textstilark"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Ingen layout definierad",
+        "Dialog": {
+          "ConfirmCancellation": "Bekräfta avbokning",
+          "DiscardAllChanges": "Vill du kassera alla ändringar?",
+          "ConfirmSave": "Bekräfta sparande",
+          "SaveWithoutChanges": "Du har inte gjort några nya ändringar. Vill du fortfarande spara?",
+          "ConfirmPublishing": "Bekräfta publicering",
+          "PublishLayout": "Vill du publicera layoutversion {version}?"
+        },
+        "Previewers": "Förhandsgranskare",
+        "SelectUserToPreviewTheLayout": "Välj användare för att förhandsgranska layouten",
+        "LayoutTemplatesTooltip": "Layoutmallar",
+        "ImportLayoutTooltip": "Importera layout",
+        "NoDefinitionToExport": "Det finns ingen definitionsdata att exportera.",
+        "ExportLayoutTooltip": "Exportera layout",
+        "ExportErrorMessage": "Ett fel inträffade vid export av layoutdefinition.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Du måste lägga till minst en sidtyp."
+        },
+        "LayoutImportTitle": "Layoutimport",
+        "InvalidLayoutFile": "Ogiltig layoutfil.",
+        "NoFileSelected": "Ingen fil vald.",
+        "DeletedLayout": "Borttagen layout"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Återställ",
+          "LayoutEngine": {
+            "textLayoutName": "Layoutnamn:",
+            "textUseLayoutEngine": "Använd layoutmotor",
+            "textNoLayoutData": "Ingen layoutdata!",
+            "textBusinessProfileUsesLayoutEngine": "Affärsprofil använder layoutmotor.",
+            "textOverrideDefaultLayout": "Överskriv layouten för alla nyhetsartiklar"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Denna sida har tagits bort.",
+          "textDocumentIsNotAvailableMessage": "Detta dokument är inte tillgängligt. Om det är ett nytt dokument, vänligen vänta några minuter och försök igen. Annars kan dokumentet ha tagits bort."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Denna begäran som skickades till dig från {requestedBy} den {requestTime} har stängts."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Listvy med feedinformation",
+          "View": {
+            "Header": "Feedinformation",
+            "Dialog": {
+              "Title": "Omnia Feed publiceringsinformation",
+              "Content": {
+                "FeedInfoForPage": "Information för sidan",
+                "PublishStatus": {
+                  "Title": "Publiceringsstatus",
+                  "Value": {
+                    "Delivered": "Levererad",
+                    "Failed": "Misslyckades",
+                    "NoInfo": "Ingen information",
+                    "Processing": "Behandlar",
+                    "Scheduled": "Schemalagd"
+                  }
+                },
+                "NumberOfUsersReached": "Antal användare nått",
+                "TimeDeliveredToAllUsers": "Tid levererad till alla användare",
+                "TimeDeliveredToActiveUsers": "Tid levererad till aktiva användare",
+                "TimeProcessingPage": "Började bearbeta vid",
+                "TimeScheduled": "Schemalagd vid",
+                "Message": {
+                  "NoInfo": "Denna sida är inte synkroniserad i Omnia Feed under nuvarande konfiguration.",
+                  "Error": "Det finns ett problem med synkroniseringsprocessen. Vänligen kontrollera loggen nedan."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Affärsprofil för att hämta information"
+            }
+          }
+        }
+      }
+    }
+  }
+}
