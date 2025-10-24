@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Send reminder notification",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send a notification to users who have not completed the request when it is being closed."
+        }
+      },
+      "Submenu": {
+        "Layout": "Layout settings"
+      },
+      "TabSections": {
+        "DataMapping": "Data mapping",
+        "AddLayouts": "Add layouts"
+      },
+      "Buttons": {
+        "AddLayout": "Add layout",
+        "RemoveLayout": "Remove layout",
+        "AddPageType": "Add page type",
+        "Cancel": "Cancel",
+        "CreateDraft": "Create draft",
+        "Import": "Import",
+        "Export": "Export",
+        "View": "View"
+      },
+      "Settings": {
+        "HeaderTextColor": "Header text colour",
+        "DefaultChannel": "Default channel",
+        "TenantScopeQuery": "Tenant scope query",
+        "EnableLayoutEngine": "Enable layout engine",
+        "AddScopeQuery": "Add scope query",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "When user is forced to sign out in OFMC",
+            "Description": "Reset data on mobile app but keep sign in state"
+          }
+        },
+        "SortByItemDate": "Item Date (Feed built-in)",
+        "PageType": "Page type",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "AddOrUpdate",
+          "Delete": "Delete",
+          "AutomaticPageTranslationFinished": "VariationPageTranslation"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Not started",
+            "InProgress": "In progress",
+            "Completed": "Completed"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Invalid or missing URL in the Content section.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Are you really sure you want to retry resync users?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrate tab settings",
+            "Message": "Do you want to migrate query tab to multiple query tab?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrate news item"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Page type picker",
+          "BlocksPicker": "Blocks picker",
+          "SelectPageType": "Select page type",
+          "Block": "Block",
+          "SelectChildBlock": "Select a child block",
+          "SelectEnterpriseProperties": "Select enterprise properties",
+          "DragAndDrop": "Drag and drop",
+          "PageTypes": "Page types",
+          "LayoutName": "Layout name",
+          "BlockTitle": "Block title",
+          "ChildBlocks": "Child blocks",
+          "LayoutNameIsRequired": "Layout name is required",
+          "CustomStyleSheet": "Custom StyleSheet style",
+          "ThisBlockIsRequired": "This block is required",
+          "Default": "Default",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Delete layout definition",
+            "MessageDeleteLayoutDefinition": "Do you want to delete this layout definition?",
+            "TitleDeleteBlock": "Delete block",
+            "MessageDeleteBlock": "Do you want to delete this block?",
+            "TitleRemovePageType": "Remove page type",
+            "MessageRemovePageType": "Do you want to remove this page type in layout?",
+            "TitleActivateLayoutEngineMigration": "Activate layout engine migration",
+            "MessgeActivateLayoutEngineMigration": "Do you want to activate layout engine migration?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "When you click the button below, news articles associated with this business profile will be migrated using the layout engine. This process may take some time to complete and cannot be reversed.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*This business profile has activated the layout engine.",
+          "MigrationProcess": "Migrate news articles for this business profile is running",
+          "ActivateLayoutEngineMigration": "Activate layout engine migration"
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Enable events filter",
+          "Radio": {
+            "Hint": "Switch between whitelist mode and blacklist mode",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filter mode",
+            "BusinessProfile": "Business profile",
+            "PublishingApp": "Publishing app",
+            "PageCollection": "Page collection",
+            "BusinessProfileInputLabel": "Business profiles",
+            "PublishingAppInputLabel": "Publishing apps"
+          }
+        },
+        "PreviewTab": "Preview tab"
+      },
+      "Common": {
+        "VersionHistory": "Version History"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "You need to add at least one layout.",
+          "NoLayoutSelectedValidateMessage": "You need to add at least one layout in the Display section."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Render mode"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Image render mode",
+            "ThumbnailMode": "Thumbnail mode",
+            "DetailMode": "Detail mode"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Tags",
+          "DisplayMode": {
+            "Title": "Display mode",
+            "Text": "Text",
+            "Chip": "Chip"
+          },
+          "NewTag": "New",
+          "FixedValue": "Fixed value",
+          "SignOffRequestTag": "Sign-off request",
+          "TagContainerStyle": "Tag container style"
+        },
+        "TextBlock": {
+          "Title": "Text",
+          "DefaultContent": "Default content",
+          "LineLimit": "Line limit"
+        },
+        "HeadingBlock": {
+          "Title": "Heading",
+          "LineLimit": "Line limit"
+        },
+        "RichTextBlock": {
+          "Title": "Rich text"
+        },
+        "IdentityBlock": {
+          "Title": "Identity",
+          "RenderMode": {
+            "DisplayName": "Display name",
+            "DisplayNameWithAvatar": "Display name with avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Date",
+          "DateFormat": "Date format",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Text",
+            "CalendarIconMode": "Calendar icon"
+          },
+          "MonthTextStyle": "Month text style",
+          "DateTextStyle": "Date text style",
+          "TextStyle": "Text style",
+          "InheritFromTenant": "Inherit from tenant",
+          "TheDateFormatIsIncorrect": "The date format is not correct."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Related links",
+          "IconAndTextColor": "Icon and text colour",
+          "BlockTitle": "Title",
+          "TitleStyle": "Title style"
+        },
+        "SocialBlock": {
+          "Title": "Social",
+          "EnableComment": "Allow comments",
+          "ReadOnlyMode": "View in read only mode",
+          "SortComment": "Sort comment",
+          "RenderMode": {
+            "FullView": "Full view",
+            "NewComments": "New comments"
+          },
+          "HideNewCommentsAfterReading": "Hide new comments after reading"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Action buttons"
+        },
+        "DateRangeBlock": {
+          "Title": "Date range",
+          "To": "To",
+          "Form": "Form",
+          "MonthTextStyle": "Month text style",
+          "DateTextStyle": "Date text style"
+        },
+        "RowBlock": {
+          "Title": "Row",
+          "NewItemIndicator": "Show new item indicator on the left"
+        },
+        "ColumnBlock": {
+          "Title": "Column"
+        },
+        "LikeButtonBlock": {
+          "Title": "Like button",
+          "RenderMode": {
+            "CompactView": "Compact view",
+            "DetailView": "Detail view"
+          },
+          "TextStyle": "Text style",
+          "IconAndTextColor": "Icon and text colour"
+        },
+        "CommentCountBlock": {
+          "Title": "Comment count",
+          "RenderMode": {
+            "CompactView": "Compact view"
+          },
+          "IconAndTextColor": "Icon and text colour"
+        },
+        "ShareButtonBlock": {
+          "Title": "Share button",
+          "IconSize": "Icon size"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compact read only",
+            "Full": "Full"
+          },
+          "Title": "Add as Favourite button",
+          "AddLabel": "Add label",
+          "RemoveLabel": "Remove label",
+          "LinkCategory": "Link category"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Day In Week"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Week starts",
+              "Options": {
+                "Mon": "Monday",
+                "Sun": "Sunday",
+                "Sat": "Saturday"
+              }
+            },
+            "Monday": "Monday",
+            "Tuesday": "Tuesday",
+            "Wednesday": "Wednesday",
+            "Thursday": "Thursday",
+            "Friday": "Friday",
+            "Saturday": "Saturday",
+            "Sunday": "Sunday"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Gallery indicator"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Play video button",
+          "BackgroundColor": "Background colour",
+          "IconColor": "Icon colour",
+          "IconSize": "Icon size"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variation picker",
+          "TextStyleInput": "Text stylesheet",
+          "ListStyleInput": "List container stylesheet"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Layout",
+            "ImageOnTop": "Image on top",
+            "TitleAndContentOnImage": "Title and content on image",
+            "TitleOnImage": "Title on image"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Header style",
+          "ContentStyle": "Content style"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Sign-off request action",
+          "IconPositionOption": {
+            "Title": "Icon position",
+            "LeftOfText": "Left of text",
+            "RightOfText": "Right of text"
+          },
+          "ConfirmLabel": "Confirm label",
+          "TextStyleInput": "Text stylesheet"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "No layout defined",
+        "Dialog": {
+          "ConfirmCancellation": "Confirm cancellation",
+          "DiscardAllChanges": "Do you want to discard all changes?",
+          "ConfirmSave": "Confirm save",
+          "SaveWithoutChanges": "You haven't made any new changes. Do you still want to save?",
+          "ConfirmPublishing": "Confirm publishing",
+          "PublishLayout": "Do you want to publish layout version {version}?"
+        },
+        "Previewers": "Previewers",
+        "SelectUserToPreviewTheLayout": "Select user to preview the layout",
+        "LayoutTemplatesTooltip": "Layout templates",
+        "ImportLayoutTooltip": "Import layout",
+        "NoDefinitionToExport": "There's no definition data to export.",
+        "ExportLayoutTooltip": "Export layout",
+        "ExportErrorMessage": "An error occurred while exporting layout definition.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "You need to add at least one page type."
+        },
+        "LayoutImportTitle": "Layout import",
+        "InvalidLayoutFile": "Invalid layout file.",
+        "NoFileSelected": "No file selected.",
+        "DeletedLayout": "Deleted layout"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Reset",
+          "LayoutEngine": {
+            "textLayoutName": "Layout name:",
+            "textUseLayoutEngine": "Use layout engine",
+            "textNoLayoutData": "No layout data!",
+            "textBusinessProfileUsesLayoutEngine": "Business profile uses layout engine.",
+            "textOverrideDefaultLayout": "Override the layout for all news items"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "This page has been deleted.",
+          "textDocumentIsNotAvailableMessage": "This document is not available. If it is a new document, please wait a few minutes and try again. Otherwise, the document may have been deleted."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "This request sent to you from {requestedBy} on {requestTime} has been closed."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "List view with Feed info",
+          "View": {
+            "Header": "Feed info",
+            "Dialog": {
+              "Title": "Omnia Feed publish info",
+              "Content": {
+                "FeedInfoForPage": "Info for page",
+                "PublishStatus": {
+                  "Title": "Publish status",
+                  "Value": {
+                    "Delivered": "Delivered",
+                    "Failed": "Failed",
+                    "NoInfo": "No info",
+                    "Processing": "Processing",
+                    "Scheduled": "Scheduled"
+                  }
+                },
+                "NumberOfUsersReached": "Number of users reached",
+                "TimeDeliveredToAllUsers": "Time delivered to all users",
+                "TimeDeliveredToActiveUsers": "Time delivered to active users",
+                "TimeProcessingPage": "Started processing at",
+                "TimeScheduled": "Scheduled at",
+                "Message": {
+                  "NoInfo": "This page isn't synced into Omnia Feed under current configuration.",
+                  "Error": "There's an issue with the sync process. Please check the log below."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Business profile to get info"
+            }
+          }
+        }
+      }
+    }
+  }
+}
