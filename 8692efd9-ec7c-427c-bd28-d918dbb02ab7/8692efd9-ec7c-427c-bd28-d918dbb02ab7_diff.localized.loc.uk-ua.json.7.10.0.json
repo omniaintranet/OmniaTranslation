@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Надіслати сповіщення-нагадування",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Надіслати сповіщення користувачам, які не завершили запит, коли він закривається."
+        }
+      },
+      "Submenu": {
+        "Layout": "Налаштування макета"
+      },
+      "TabSections": {
+        "DataMapping": "Відображення даних",
+        "AddLayouts": "Додати макети"
+      },
+      "Buttons": {
+        "AddLayout": "Додати макет",
+        "RemoveLayout": "Видалити макет",
+        "AddPageType": "Додати тип сторінки",
+        "Cancel": "Скасувати",
+        "CreateDraft": "Створити чернетку",
+        "Import": "Імпортувати",
+        "Export": "Експортувати",
+        "View": "Переглянути"
+      },
+      "Settings": {
+        "HeaderTextColor": "Колір тексту заголовка",
+        "DefaultChannel": "Типовий канал",
+        "TenantScopeQuery": "Запит обсягу орендаря",
+        "EnableLayoutEngine": "Увімкнути механізм макета",
+        "AddScopeQuery": "Додати запит обсягу",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Коли користувача примусово виводять з системи в OFMC",
+            "Description": "Скинути дані в мобільному додатку, але зберегти стан входу"
+          }
+        },
+        "SortByItemDate": "Дата елемента (вбудований у Feed)",
+        "PageType": "Тип сторінки",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Додати або оновити",
+          "Delete": "Видалити",
+          "AutomaticPageTranslationFinished": "Переклад варіацій сторінки"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Не розпочато",
+            "InProgress": "В процесі",
+            "Completed": "Завершено"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Недійсне або відсутнє URL у розділі Контент.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ви дійсно впевнені, що хочете повторно синхронізувати користувачів?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Міграція налаштувань вкладки",
+            "Message": "Ви хочете мігрувати запит вкладки в кілька запитів?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Міграція новин"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Вибір типу сторінки",
+          "BlocksPicker": "Вибір блоків",
+          "SelectPageType": "Виберіть тип сторінки",
+          "Block": "Блок",
+          "SelectChildBlock": "Виберіть дочірній блок",
+          "SelectEnterpriseProperties": "Виберіть корпоративні властивості",
+          "DragAndDrop": "Перетягніть і скиньте",
+          "PageTypes": "Типи сторінок",
+          "LayoutName": "Назва макета",
+          "BlockTitle": "Назва блоку",
+          "ChildBlocks": "Дочірні блоки",
+          "LayoutNameIsRequired": "Назва макета є обов'язковою",
+          "CustomStyleSheet": "Стиль користувацького стилю",
+          "ThisBlockIsRequired": "Цей блок є обов'язковим",
+          "Default": "За замовчуванням",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Видалити визначення макета",
+            "MessageDeleteLayoutDefinition": "Ви хочете видалити це визначення макета?",
+            "TitleDeleteBlock": "Видалити блок",
+            "MessageDeleteBlock": "Ви хочете видалити цей блок?",
+            "TitleRemovePageType": "Видалити тип сторінки",
+            "MessageRemovePageType": "Ви хочете видалити цей тип сторінки в макеті?",
+            "TitleActivateLayoutEngineMigration": "Активувати міграцію механізму макета",
+            "MessgeActivateLayoutEngineMigration": "Ви хочете активувати міграцію механізму макета?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Коли ви натискаєте кнопку нижче, новинні статті, пов'язані з цим бізнес-профілем, будуть мігруватися за допомогою механізму макета. Цей процес може зайняти деякий час і не може бути скасований.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Цей бізнес-профіль активував механізм макета.",
+          "MigrationProcess": "Міграція новинних статей для цього бізнес-профілю триває",
+          "ActivateLayoutEngineMigration": "Активувати міграцію механізму макета"
+        },
+        "EventsFilter": {
+          "Title": "Фільтр подій білого списку",
+          "EnableEventsFilter": "Увімкнути фільтр подій",
+          "Radio": {
+            "Hint": "Перемикання між режимом білого списку та чорного списку",
+            "Blacklist": "Чорний список",
+            "Whitelist": "Білий список"
+          },
+          "FilterMode": {
+            "Label": "Режим фільтрації",
+            "BusinessProfile": "Бізнес-профіль",
+            "PublishingApp": "Додаток для публікації",
+            "PageCollection": "Збірка сторінок",
+            "BusinessProfileInputLabel": "Бізнес-профілі",
+            "PublishingAppInputLabel": "Додатки для публікації"
+          }
+        },
+        "PreviewTab": "Вкладка попереднього перегляду"
+      },
+      "Common": {
+        "VersionHistory": "Історія версій"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Вам потрібно додати принаймні один макет.",
+          "NoLayoutSelectedValidateMessage": "Вам потрібно додати принаймні один макет у розділі Відображення."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Режим рендерингу"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Медіа",
+          "RenderMode": {
+            "Title": "Режим рендерингу зображення",
+            "ThumbnailMode": "Режим ескізу",
+            "DetailMode": "Детальний режим"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Теги",
+          "DisplayMode": {
+            "Title": "Режим відображення",
+            "Text": "Текст",
+            "Chip": "Чіп"
+          },
+          "NewTag": "Новий",
+          "FixedValue": "Фіксоване значення",
+          "SignOffRequestTag": "Запит на підпис",
+          "TagContainerStyle": "Стиль контейнера тегів"
+        },
+        "TextBlock": {
+          "Title": "Текст",
+          "DefaultContent": "Текст за замовчуванням",
+          "LineLimit": "Обмеження рядків"
+        },
+        "HeadingBlock": {
+          "Title": "Заголовок",
+          "LineLimit": "Обмеження рядків"
+        },
+        "RichTextBlock": {
+          "Title": "Багатий текст"
+        },
+        "IdentityBlock": {
+          "Title": "Ідентичність",
+          "RenderMode": {
+            "DisplayName": "Відображуване ім'я",
+            "DisplayNameWithAvatar": "Відображуване ім'я з аватаром",
+            "Avatar": "Аватар"
+          }
+        },
+        "DateBlock": {
+          "Title": "Дата",
+          "DateFormat": "Формат дати",
+          "Format": "Формат",
+          "RenderMode": {
+            "TextMode": "Текстовий режим",
+            "CalendarIconMode": "Іконка календаря"
+          },
+          "MonthTextStyle": "Стиль тексту місяця",
+          "DateTextStyle": "Стиль тексту дати",
+          "TextStyle": "Стиль тексту",
+          "InheritFromTenant": "Спадкувати від орендаря",
+          "TheDateFormatIsIncorrect": "Формат дати неправильний."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Супутні посилання",
+          "IconAndTextColor": "Колір іконки та тексту",
+          "BlockTitle": "Назва",
+          "TitleStyle": "Стиль назви"
+        },
+        "SocialBlock": {
+          "Title": "Соціальний",
+          "EnableComment": "Дозволити коментарі",
+          "ReadOnlyMode": "Перегляд у режимі тільки для читання",
+          "SortComment": "Сортувати коментар",
+          "RenderMode": {
+            "FullView": "Повний перегляд",
+            "NewComments": "Нові коментарі"
+          },
+          "HideNewCommentsAfterReading": "Сховати нові коментарі після прочитання"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Кнопки дій"
+        },
+        "DateRangeBlock": {
+          "Title": "Діапазон дат",
+          "To": "До",
+          "Form": "Форма",
+          "MonthTextStyle": "Стиль тексту місяця",
+          "DateTextStyle": "Стиль тексту дати"
+        },
+        "RowBlock": {
+          "Title": "Рядок",
+          "NewItemIndicator": "Показати індикатор нового елемента зліва"
+        },
+        "ColumnBlock": {
+          "Title": "Стовпець"
+        },
+        "LikeButtonBlock": {
+          "Title": "Кнопка подобається",
+          "RenderMode": {
+            "CompactView": "Компактний перегляд",
+            "DetailView": "Детальний перегляд"
+          },
+          "TextStyle": "Стиль тексту",
+          "IconAndTextColor": "Колір іконки та тексту"
+        },
+        "CommentCountBlock": {
+          "Title": "Кількість коментарів",
+          "RenderMode": {
+            "CompactView": "Компактний перегляд"
+          },
+          "IconAndTextColor": "Колір іконки та тексту"
+        },
+        "ShareButtonBlock": {
+          "Title": "Кнопка поділитися",
+          "IconSize": "Розмір іконки"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Компактний режим тільки для читання",
+            "Full": "Повний"
+          },
+          "Title": "Додати як кнопку у вибране",
+          "AddLabel": "Додати мітку",
+          "RemoveLabel": "Видалити мітку",
+          "LinkCategory": "Категорія посилання"
+        },
+        "AgendaBlock": {
+          "Title": "Агенда",
+          "RenderMode": {
+            "DayInWeek": "День тижня"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Тиждень починається",
+              "Options": {
+                "Mon": "Понеділок",
+                "Sun": "Неділя",
+                "Sat": "Субота"
+              }
+            },
+            "Monday": "Понеділок",
+            "Tuesday": "Вівторок",
+            "Wednesday": "Середа",
+            "Thursday": "Четвер",
+            "Friday": "П'ятниця",
+            "Saturday": "Субота",
+            "Sunday": "Неділя"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Індикатор галереї"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Кнопка відтворення відео",
+          "BackgroundColor": "Колір фону",
+          "IconColor": "Колір іконки",
+          "IconSize": "Розмір іконки"
+        },
+        "VariationPickerBlock": {
+          "Title": "Вибір варіації",
+          "TextStyleInput": "Стиль тексту",
+          "ListStyleInput": "Стиль контейнера списку"
+        },
+        "BannerBlock": {
+          "Title": "Банер",
+          "LayoutRenderMode": {
+            "Title": "Макет",
+            "ImageOnTop": "Зображення зверху",
+            "TitleAndContentOnImage": "Назва та вміст на зображенні",
+            "TitleOnImage": "Назва на зображенні"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "Часті запитання/Аккордеон",
+          "HeaderStyle": "Стиль заголовка",
+          "ContentStyle": "Стиль вмісту"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Дія запиту на підпис",
+          "IconPositionOption": {
+            "Title": "Позиція іконки",
+            "LeftOfText": "Зліва від тексту",
+            "RightOfText": "Справа від тексту"
+          },
+          "ConfirmLabel": "Підтвердити мітку",
+          "TextStyleInput": "Стиль тексту"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Макет не визначено",
+        "Dialog": {
+          "ConfirmCancellation": "Підтвердити скасування",
+          "DiscardAllChanges": "Ви хочете скасувати всі зміни?",
+          "ConfirmSave": "Підтвердити збереження",
+          "SaveWithoutChanges": "Ви не внесли жодних нових змін. Ви все ще хочете зберегти?",
+          "ConfirmPublishing": "Підтвердити публікацію",
+          "PublishLayout": "Ви хочете опублікувати версію макета {version}?"
+        },
+        "Previewers": "Попередні перегляди",
+        "SelectUserToPreviewTheLayout": "Виберіть користувача для попереднього перегляду макета",
+        "LayoutTemplatesTooltip": "Шаблони макета",
+        "ImportLayoutTooltip": "Імпортувати макет",
+        "NoDefinitionToExport": "Немає даних визначення для експорту.",
+        "ExportLayoutTooltip": "Експортувати макет",
+        "ExportErrorMessage": "Сталася помилка під час експорту визначення макета.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Вам потрібно додати принаймні один тип сторінки."
+        },
+        "LayoutImportTitle": "Імпорт макета",
+        "InvalidLayoutFile": "Недійсний файл макета.",
+        "NoFileSelected": "Файл не вибрано.",
+        "DeletedLayout": "Видалений макет"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Скинути",
+          "LayoutEngine": {
+            "textLayoutName": "Назва макета:",
+            "textUseLayoutEngine": "Використовувати механізм макета",
+            "textNoLayoutData": "Немає даних макета!",
+            "textBusinessProfileUsesLayoutEngine": "Бізнес-профіль використовує механізм макета.",
+            "textOverrideDefaultLayout": "Перезаписати макет для всіх новин"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Цю сторінку було видалено.",
+          "textDocumentIsNotAvailableMessage": "Цей документ недоступний. Якщо це новий документ, будь ласка, почекайте кілька хвилин і спробуйте ще раз. В іншому випадку документ міг бути видалений."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Цей запит, надісланий вам {requestedBy} о {requestTime}, було закрито."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Список з інформацією про Feed",
+          "View": {
+            "Header": "Інформація про Feed",
+            "Dialog": {
+              "Title": "Інформація про публікацію Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Інформація для сторінки",
+                "PublishStatus": {
+                  "Title": "Статус публікації",
+                  "Value": {
+                    "Delivered": "Доставлено",
+                    "Failed": "Не вдалося",
+                    "NoInfo": "Немає інформації",
+                    "Processing": "Обробка",
+                    "Scheduled": "Заплановано"
+                  }
+                },
+                "NumberOfUsersReached": "Кількість досягнутих користувачів",
+                "TimeDeliveredToAllUsers": "Час доставки всім користувачам",
+                "TimeDeliveredToActiveUsers": "Час доставки активним користувачам",
+                "TimeProcessingPage": "Розпочато обробку о",
+                "TimeScheduled": "Заплановано о",
+                "Message": {
+                  "NoInfo": "Ця сторінка не синхронізована в Omnia Feed за поточною конфігурацією.",
+                  "Error": "Є проблема з процесом синхронізації. Будь ласка, перевірте журнал нижче."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Бізнес-профіль для отримання інформації"
+            }
+          }
+        }
+      }
+    }
+  }
+}
