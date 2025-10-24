@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Enviar notificação de lembrete",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Enviar uma notificação aos utilizadores que não completaram o pedido quando este estiver a ser encerrado."
+        }
+      },
+      "Submenu": {
+        "Layout": "Configurações de layout"
+      },
+      "TabSections": {
+        "DataMapping": "Mapeamento de dados",
+        "AddLayouts": "Adicionar layouts"
+      },
+      "Buttons": {
+        "AddLayout": "Adicionar layout",
+        "RemoveLayout": "Remover layout",
+        "AddPageType": "Adicionar tipo de página",
+        "Cancel": "Cancelar",
+        "CreateDraft": "Criar rascunho",
+        "Import": "Importar",
+        "Export": "Exportar",
+        "View": "Ver"
+      },
+      "Settings": {
+        "HeaderTextColor": "Cor do texto do cabeçalho",
+        "DefaultChannel": "Canal padrão",
+        "TenantScopeQuery": "Consulta de escopo do inquilino",
+        "EnableLayoutEngine": "Ativar motor de layout",
+        "AddScopeQuery": "Adicionar consulta de escopo",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Quando o utilizador é forçado a sair no OFMC",
+            "Description": "Redefinir dados no aplicativo móvel, mas manter o estado de login"
+          }
+        },
+        "SortByItemDate": "Data do item (Feed integrado)",
+        "PageType": "Tipo de página",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Adicionar ou atualizar",
+          "Delete": "Eliminar",
+          "AutomaticPageTranslationFinished": "Tradução de página de variação"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Não iniciado",
+            "InProgress": "Em progresso",
+            "Completed": "Concluído"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL inválido ou em falta na seção de Conteúdo.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Tem a certeza de que deseja tentar re-sincronizar os utilizadores?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrar configurações de aba",
+            "Message": "Deseja migrar a aba de consulta para múltiplas abas de consulta?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrar item de notícias"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Selecionador de tipo de página",
+          "BlocksPicker": "Selecionador de blocos",
+          "SelectPageType": "Selecionar tipo de página",
+          "Block": "Bloco",
+          "SelectChildBlock": "Selecionar um bloco filho",
+          "SelectEnterpriseProperties": "Selecionar propriedades empresariais",
+          "DragAndDrop": "Arrastar e soltar",
+          "PageTypes": "Tipos de página",
+          "LayoutName": "Nome do layout",
+          "BlockTitle": "Título do bloco",
+          "ChildBlocks": "Blocos filhos",
+          "LayoutNameIsRequired": "O nome do layout é obrigatório",
+          "CustomStyleSheet": "Estilo de Folha de Estilo Personalizada",
+          "ThisBlockIsRequired": "Este bloco é obrigatório",
+          "Default": "Padrão",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Eliminar definição de layout",
+            "MessageDeleteLayoutDefinition": "Deseja eliminar esta definição de layout?",
+            "TitleDeleteBlock": "Eliminar bloco",
+            "MessageDeleteBlock": "Deseja eliminar este bloco?",
+            "TitleRemovePageType": "Remover tipo de página",
+            "MessageRemovePageType": "Deseja remover este tipo de página no layout?",
+            "TitleActivateLayoutEngineMigration": "Ativar migração do motor de layout",
+            "MessgeActivateLayoutEngineMigration": "Deseja ativar a migração do motor de layout?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Quando clicar no botão abaixo, os artigos de notícias associados a este perfil empresarial serão migrados utilizando o motor de layout. Este processo pode demorar algum tempo a concluir e não pode ser revertido.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Este perfil empresarial ativou o motor de layout.",
+          "MigrationProcess": "Migrar artigos de notícias para este perfil empresarial está a decorrer",
+          "ActivateLayoutEngineMigration": "Ativar migração do motor de layout"
+        },
+        "EventsFilter": {
+          "Title": "Filtro de eventos em lista branca",
+          "EnableEventsFilter": "Ativar filtro de eventos",
+          "Radio": {
+            "Hint": "Alternar entre modo de lista branca e modo de lista negra",
+            "Blacklist": "Lista negra",
+            "Whitelist": "Lista branca"
+          },
+          "FilterMode": {
+            "Label": "Modo de filtro",
+            "BusinessProfile": "Perfil empresarial",
+            "PublishingApp": "Aplicativo de publicação",
+            "PageCollection": "Coleção de páginas",
+            "BusinessProfileInputLabel": "Perfis empresariais",
+            "PublishingAppInputLabel": "Aplicativos de publicação"
+          }
+        },
+        "PreviewTab": "Aba de pré-visualização"
+      },
+      "Common": {
+        "VersionHistory": "Histórico de versões"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "É necessário adicionar pelo menos um layout.",
+          "NoLayoutSelectedValidateMessage": "É necessário adicionar pelo menos um layout na seção de Exibição."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Modo de renderização"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Mídia",
+          "RenderMode": {
+            "Title": "Modo de renderização de imagem",
+            "ThumbnailMode": "Modo de miniatura",
+            "DetailMode": "Modo de detalhe"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Etiquetas",
+          "DisplayMode": {
+            "Title": "Modo de exibição",
+            "Text": "Texto",
+            "Chip": "Chip"
+          },
+          "NewTag": "Novo",
+          "FixedValue": "Valor fixo",
+          "SignOffRequestTag": "Pedido de aprovação",
+          "TagContainerStyle": "Estilo do contêiner de etiquetas"
+        },
+        "TextBlock": {
+          "Title": "Texto",
+          "DefaultContent": "Conteúdo padrão",
+          "LineLimit": "Limite de linhas"
+        },
+        "HeadingBlock": {
+          "Title": "Cabeçalho",
+          "LineLimit": "Limite de linhas"
+        },
+        "RichTextBlock": {
+          "Title": "Texto rico"
+        },
+        "IdentityBlock": {
+          "Title": "Identidade",
+          "RenderMode": {
+            "DisplayName": "Nome de exibição",
+            "DisplayNameWithAvatar": "Nome de exibição com avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Data",
+          "DateFormat": "Formato de data",
+          "Format": "Formato",
+          "RenderMode": {
+            "TextMode": "Texto",
+            "CalendarIconMode": "Ícone de calendário"
+          },
+          "MonthTextStyle": "Estilo do texto do mês",
+          "DateTextStyle": "Estilo do texto da data",
+          "TextStyle": "Estilo do texto",
+          "InheritFromTenant": "Herdar do inquilino",
+          "TheDateFormatIsIncorrect": "O formato da data não está correto."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Links relacionados",
+          "IconAndTextColor": "Cor do ícone e do texto",
+          "BlockTitle": "Título",
+          "TitleStyle": "Estilo do título"
+        },
+        "SocialBlock": {
+          "Title": "Social",
+          "EnableComment": "Permitir comentários",
+          "ReadOnlyMode": "Ver em modo somente leitura",
+          "SortComment": "Ordenar comentário",
+          "RenderMode": {
+            "FullView": "Vista completa",
+            "NewComments": "Novos comentários"
+          },
+          "HideNewCommentsAfterReading": "Ocultar novos comentários após leitura"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Botões de ação"
+        },
+        "DateRangeBlock": {
+          "Title": "Intervalo de datas",
+          "To": "Até",
+          "Form": "Forma",
+          "MonthTextStyle": "Estilo do texto do mês",
+          "DateTextStyle": "Estilo do texto da data"
+        },
+        "RowBlock": {
+          "Title": "Linha",
+          "NewItemIndicator": "Mostrar indicador de novo item à esquerda"
+        },
+        "ColumnBlock": {
+          "Title": "Coluna"
+        },
+        "LikeButtonBlock": {
+          "Title": "Botão de gosto",
+          "RenderMode": {
+            "CompactView": "Vista compacta",
+            "DetailView": "Vista detalhada"
+          },
+          "TextStyle": "Estilo do texto",
+          "IconAndTextColor": "Cor do ícone e do texto"
+        },
+        "CommentCountBlock": {
+          "Title": "Contagem de comentários",
+          "RenderMode": {
+            "CompactView": "Vista compacta"
+          },
+          "IconAndTextColor": "Cor do ícone e do texto"
+        },
+        "ShareButtonBlock": {
+          "Title": "Botão de partilha",
+          "IconSize": "Tamanho do ícone"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compacto somente leitura",
+            "Full": "Completo"
+          },
+          "Title": "Adicionar como botão Favorito",
+          "AddLabel": "Adicionar rótulo",
+          "RemoveLabel": "Remover rótulo",
+          "LinkCategory": "Categoria de link"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Dia na semana"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Semana começa",
+              "Options": {
+                "Mon": "Segunda-feira",
+                "Sun": "Domingo",
+                "Sat": "Sábado"
+              }
+            },
+            "Monday": "Segunda-feira",
+            "Tuesday": "Terça-feira",
+            "Wednesday": "Quarta-feira",
+            "Thursday": "Quinta-feira",
+            "Friday": "Sexta-feira",
+            "Saturday": "Sábado",
+            "Sunday": "Domingo"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Indicador de galeria"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Botão de reproduzir vídeo",
+          "BackgroundColor": "Cor de fundo",
+          "IconColor": "Cor do ícone",
+          "IconSize": "Tamanho do ícone"
+        },
+        "VariationPickerBlock": {
+          "Title": "Selecionador de variação",
+          "TextStyleInput": "Folha de estilo de texto",
+          "ListStyleInput": "Folha de estilo do contêiner de lista"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Layout",
+            "ImageOnTop": "Imagem em cima",
+            "TitleAndContentOnImage": "Título e conteúdo na imagem",
+            "TitleOnImage": "Título na imagem"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Acordeão",
+          "HeaderStyle": "Estilo do cabeçalho",
+          "ContentStyle": "Estilo do conteúdo"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Ação de pedido de aprovação",
+          "IconPositionOption": {
+            "Title": "Posição do ícone",
+            "LeftOfText": "À esquerda do texto",
+            "RightOfText": "À direita do texto"
+          },
+          "ConfirmLabel": "Confirmar rótulo",
+          "TextStyleInput": "Folha de estilo de texto"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Nenhum layout definido",
+        "Dialog": {
+          "ConfirmCancellation": "Confirmar cancelamento",
+          "DiscardAllChanges": "Deseja descartar todas as alterações?",
+          "ConfirmSave": "Confirmar salvamento",
+          "SaveWithoutChanges": "Não fez novas alterações. Deseja ainda assim salvar?",
+          "ConfirmPublishing": "Confirmar publicação",
+          "PublishLayout": "Deseja publicar a versão do layout {version}?"
+        },
+        "Previewers": "Pré-visualizadores",
+        "SelectUserToPreviewTheLayout": "Selecionar utilizador para pré-visualizar o layout",
+        "LayoutTemplatesTooltip": "Modelos de layout",
+        "ImportLayoutTooltip": "Importar layout",
+        "NoDefinitionToExport": "Não há dados de definição para exportar.",
+        "ExportLayoutTooltip": "Exportar layout",
+        "ExportErrorMessage": "Ocorreu um erro ao exportar a definição do layout.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "É necessário adicionar pelo menos um tipo de página."
+        },
+        "LayoutImportTitle": "Importação de layout",
+        "InvalidLayoutFile": "Arquivo de layout inválido.",
+        "NoFileSelected": "Nenhum arquivo selecionado.",
+        "DeletedLayout": "Layout eliminado"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Reiniciar",
+          "LayoutEngine": {
+            "textLayoutName": "Nome do layout:",
+            "textUseLayoutEngine": "Usar motor de layout",
+            "textNoLayoutData": "Sem dados de layout!",
+            "textBusinessProfileUsesLayoutEngine": "O perfil empresarial usa o motor de layout.",
+            "textOverrideDefaultLayout": "Substituir o layout para todos os itens de notícias"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Esta página foi eliminada.",
+          "textDocumentIsNotAvailableMessage": "Este documento não está disponível. Se for um novo documento, aguarde alguns minutos e tente novamente. Caso contrário, o documento pode ter sido eliminado."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Este pedido enviado a você por {requestedBy} em {requestTime} foi encerrado."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Vista de lista com informações do Feed",
+          "View": {
+            "Header": "Informações do Feed",
+            "Dialog": {
+              "Title": "Informações de publicação do Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Informações para a página",
+                "PublishStatus": {
+                  "Title": "Estado da publicação",
+                  "Value": {
+                    "Delivered": "Entregue",
+                    "Failed": "Falhou",
+                    "NoInfo": "Sem informações",
+                    "Processing": "Processando",
+                    "Scheduled": "Agendado"
+                  }
+                },
+                "NumberOfUsersReached": "Número de utilizadores alcançados",
+                "TimeDeliveredToAllUsers": "Hora entregue a todos os utilizadores",
+                "TimeDeliveredToActiveUsers": "Hora entregue a utilizadores ativos",
+                "TimeProcessingPage": "Iniciou o processamento em",
+                "TimeScheduled": "Agendado em",
+                "Message": {
+                  "NoInfo": "Esta página não está sincronizada no Omnia Feed sob a configuração atual.",
+                  "Error": "Há um problema com o processo de sincronização. Por favor, verifique o log abaixo."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Perfil empresarial para obter informações"
+            }
+          }
+        }
+      }
+    }
+  }
+}
