@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "알림 전송",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "요청이 종료될 때 완료하지 않은 사용자에게 알림을 전송합니다."
+        }
+      },
+      "Submenu": {
+        "Layout": "레이아웃 설정"
+      },
+      "TabSections": {
+        "DataMapping": "데이터 매핑",
+        "AddLayouts": "레이아웃 추가"
+      },
+      "Buttons": {
+        "AddLayout": "레이아웃 추가",
+        "RemoveLayout": "레이아웃 제거",
+        "AddPageType": "페이지 유형 추가",
+        "Cancel": "취소",
+        "CreateDraft": "초안 만들기",
+        "Import": "가져오기",
+        "Export": "내보내기",
+        "View": "보기"
+      },
+      "Settings": {
+        "HeaderTextColor": "헤더 텍스트 색상",
+        "DefaultChannel": "기본 채널",
+        "TenantScopeQuery": "테넌트 범위 쿼리",
+        "EnableLayoutEngine": "레이아웃 엔진 활성화",
+        "AddScopeQuery": "범위 쿼리 추가",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "사용자가 OFMC에서 강제로 로그아웃될 때",
+            "Description": "모바일 앱의 데이터를 재설정하지만 로그인 상태를 유지합니다."
+          }
+        },
+        "SortByItemDate": "항목 날짜 (피드 내장)",
+        "PageType": "페이지 유형",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "추가 또는 업데이트",
+          "Delete": "삭제",
+          "AutomaticPageTranslationFinished": "변형 페이지 번역"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "시작되지 않음",
+            "InProgress": "진행 중",
+            "Completed": "완료됨"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "콘텐츠 섹션에 유효하지 않거나 누락된 URL이 있습니다.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "정말로 사용자 재동기화를 다시 시도하시겠습니까?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "탭 설정 마이그레이션",
+            "Message": "쿼리 탭을 여러 쿼리 탭으로 마이그레이션하시겠습니까?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "뉴스 항목 마이그레이션"
+        },
+        "RicherContent": {
+          "PageTypePicker": "페이지 유형 선택기",
+          "BlocksPicker": "블록 선택기",
+          "SelectPageType": "페이지 유형 선택",
+          "Block": "블록",
+          "SelectChildBlock": "하위 블록 선택",
+          "SelectEnterpriseProperties": "엔터프라이즈 속성 선택",
+          "DragAndDrop": "드래그 앤 드롭",
+          "PageTypes": "페이지 유형",
+          "LayoutName": "레이아웃 이름",
+          "BlockTitle": "블록 제목",
+          "ChildBlocks": "하위 블록",
+          "LayoutNameIsRequired": "레이아웃 이름은 필수입니다.",
+          "CustomStyleSheet": "사용자 정의 스타일시트",
+          "ThisBlockIsRequired": "이 블록은 필수입니다.",
+          "Default": "기본",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "레이아웃 정의 삭제",
+            "MessageDeleteLayoutDefinition": "이 레이아웃 정의를 삭제하시겠습니까?",
+            "TitleDeleteBlock": "블록 삭제",
+            "MessageDeleteBlock": "이 블록을 삭제하시겠습니까?",
+            "TitleRemovePageType": "페이지 유형 제거",
+            "MessageRemovePageType": "레이아웃에서 이 페이지 유형을 제거하시겠습니까?",
+            "TitleActivateLayoutEngineMigration": "레이아웃 엔진 마이그레이션 활성화",
+            "MessgeActivateLayoutEngineMigration": "레이아웃 엔진 마이그레이션을 활성화하시겠습니까?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "아래 버튼을 클릭하면 이 비즈니스 프로필과 연결된 뉴스 기사가 레이아웃 엔진을 사용하여 마이그레이션됩니다. 이 과정은 완료하는 데 시간이 걸릴 수 있으며 되돌릴 수 없습니다.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*이 비즈니스 프로필은 레이아웃 엔진을 활성화했습니다.",
+          "MigrationProcess": "이 비즈니스 프로필의 뉴스 기사를 마이그레이션하는 중입니다.",
+          "ActivateLayoutEngineMigration": "레이아웃 엔진 마이그레이션 활성화"
+        },
+        "EventsFilter": {
+          "Title": "화이트리스트 이벤트 필터",
+          "EnableEventsFilter": "이벤트 필터 활성화",
+          "Radio": {
+            "Hint": "화이트리스트 모드와 블랙리스트 모드 간 전환",
+            "Blacklist": "블랙리스트",
+            "Whitelist": "화이트리스트"
+          },
+          "FilterMode": {
+            "Label": "필터 모드",
+            "BusinessProfile": "비즈니스 프로필",
+            "PublishingApp": "게시 앱",
+            "PageCollection": "페이지 컬렉션",
+            "BusinessProfileInputLabel": "비즈니스 프로필",
+            "PublishingAppInputLabel": "게시 앱"
+          }
+        },
+        "PreviewTab": "미리보기 탭"
+      },
+      "Common": {
+        "VersionHistory": "버전 기록"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "최소 하나의 레이아웃을 추가해야 합니다.",
+          "NoLayoutSelectedValidateMessage": "디스플레이 섹션에 최소 하나의 레이아웃을 추가해야 합니다."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "렌더 모드"
+          }
+        },
+        "MediaBlock": {
+          "Title": "미디어",
+          "RenderMode": {
+            "Title": "이미지 렌더 모드",
+            "ThumbnailMode": "썸네일 모드",
+            "DetailMode": "상세 모드"
+          }
+        },
+        "TagsBlock": {
+          "Title": "태그",
+          "DisplayMode": {
+            "Title": "디스플레이 모드",
+            "Text": "텍스트",
+            "Chip": "칩"
+          },
+          "NewTag": "새로운",
+          "FixedValue": "고정 값",
+          "SignOffRequestTag": "승인 요청",
+          "TagContainerStyle": "태그 컨테이너 스타일"
+        },
+        "TextBlock": {
+          "Title": "텍스트",
+          "DefaultContent": "기본 콘텐츠",
+          "LineLimit": "라인 제한"
+        },
+        "HeadingBlock": {
+          "Title": "헤딩",
+          "LineLimit": "라인 제한"
+        },
+        "RichTextBlock": {
+          "Title": "리치 텍스트"
+        },
+        "IdentityBlock": {
+          "Title": "아이덴티티",
+          "RenderMode": {
+            "DisplayName": "표시 이름",
+            "DisplayNameWithAvatar": "아바타와 함께 표시 이름",
+            "Avatar": "아바타"
+          }
+        },
+        "DateBlock": {
+          "Title": "날짜",
+          "DateFormat": "날짜 형식",
+          "Format": "형식",
+          "RenderMode": {
+            "TextMode": "텍스트",
+            "CalendarIconMode": "캘린더 아이콘"
+          },
+          "MonthTextStyle": "월 텍스트 스타일",
+          "DateTextStyle": "날짜 텍스트 스타일",
+          "TextStyle": "텍스트 스타일",
+          "InheritFromTenant": "테넌트에서 상속",
+          "TheDateFormatIsIncorrect": "날짜 형식이 올바르지 않습니다."
+        },
+        "RelatedLinksBlock": {
+          "Title": "관련 링크",
+          "IconAndTextColor": "아이콘 및 텍스트 색상",
+          "BlockTitle": "제목",
+          "TitleStyle": "제목 스타일"
+        },
+        "SocialBlock": {
+          "Title": "소셜",
+          "EnableComment": "댓글 허용",
+          "ReadOnlyMode": "읽기 전용 모드로 보기",
+          "SortComment": "댓글 정렬",
+          "RenderMode": {
+            "FullView": "전체 보기",
+            "NewComments": "새 댓글"
+          },
+          "HideNewCommentsAfterReading": "읽은 후 새 댓글 숨기기"
+        },
+        "ActionButtonsBlock": {
+          "Title": "작업 버튼"
+        },
+        "DateRangeBlock": {
+          "Title": "날짜 범위",
+          "To": "까지",
+          "Form": "형식",
+          "MonthTextStyle": "월 텍스트 스타일",
+          "DateTextStyle": "날짜 텍스트 스타일"
+        },
+        "RowBlock": {
+          "Title": "행",
+          "NewItemIndicator": "왼쪽에 새 항목 표시기 표시"
+        },
+        "ColumnBlock": {
+          "Title": "열"
+        },
+        "LikeButtonBlock": {
+          "Title": "좋아요 버튼",
+          "RenderMode": {
+            "CompactView": "간편 보기",
+            "DetailView": "상세 보기"
+          },
+          "TextStyle": "텍스트 스타일",
+          "IconAndTextColor": "아이콘 및 텍스트 색상"
+        },
+        "CommentCountBlock": {
+          "Title": "댓글 수",
+          "RenderMode": {
+            "CompactView": "간편 보기"
+          },
+          "IconAndTextColor": "아이콘 및 텍스트 색상"
+        },
+        "ShareButtonBlock": {
+          "Title": "공유 버튼",
+          "IconSize": "아이콘 크기"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "간편 읽기 전용",
+            "Full": "전체"
+          },
+          "Title": "즐겨찾기 추가 버튼",
+          "AddLabel": "라벨 추가",
+          "RemoveLabel": "라벨 제거",
+          "LinkCategory": "링크 카테고리"
+        },
+        "AgendaBlock": {
+          "Title": "의제",
+          "RenderMode": {
+            "DayInWeek": "주 중 하루"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "주 시작",
+              "Options": {
+                "Mon": "월요일",
+                "Sun": "일요일",
+                "Sat": "토요일"
+              }
+            },
+            "Monday": "월요일",
+            "Tuesday": "화요일",
+            "Wednesday": "수요일",
+            "Thursday": "목요일",
+            "Friday": "금요일",
+            "Saturday": "토요일",
+            "Sunday": "일요일"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "갤러리 표시기"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "비디오 재생 버튼",
+          "BackgroundColor": "배경 색상",
+          "IconColor": "아이콘 색상",
+          "IconSize": "아이콘 크기"
+        },
+        "VariationPickerBlock": {
+          "Title": "변형 선택기",
+          "TextStyleInput": "텍스트 스타일시트",
+          "ListStyleInput": "목록 컨테이너 스타일시트"
+        },
+        "BannerBlock": {
+          "Title": "배너",
+          "LayoutRenderMode": {
+            "Title": "레이아웃",
+            "ImageOnTop": "이미지 위",
+            "TitleAndContentOnImage": "이미지 위 제목 및 내용",
+            "TitleOnImage": "이미지 위 제목"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/아코디언",
+          "HeaderStyle": "헤더 스타일",
+          "ContentStyle": "내용 스타일"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "승인 요청 작업",
+          "IconPositionOption": {
+            "Title": "아이콘 위치",
+            "LeftOfText": "텍스트 왼쪽",
+            "RightOfText": "텍스트 오른쪽"
+          },
+          "ConfirmLabel": "확인 라벨",
+          "TextStyleInput": "텍스트 스타일시트"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "정의된 레이아웃이 없습니다.",
+        "Dialog": {
+          "ConfirmCancellation": "취소 확인",
+          "DiscardAllChanges": "모든 변경 사항을 버리시겠습니까?",
+          "ConfirmSave": "저장 확인",
+          "SaveWithoutChanges": "새로운 변경 사항이 없습니다. 그래도 저장하시겠습니까?",
+          "ConfirmPublishing": "게시 확인",
+          "PublishLayout": "레이아웃 버전 {version}을 게시하시겠습니까?"
+        },
+        "Previewers": "미리보기 사용자",
+        "SelectUserToPreviewTheLayout": "레이아웃 미리보기를 위한 사용자 선택",
+        "LayoutTemplatesTooltip": "레이아웃 템플릿",
+        "ImportLayoutTooltip": "레이아웃 가져오기",
+        "NoDefinitionToExport": "내보낼 정의 데이터가 없습니다.",
+        "ExportLayoutTooltip": "레이아웃 내보내기",
+        "ExportErrorMessage": "레이아웃 정의 내보내기 중 오류가 발생했습니다.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "최소 하나의 페이지 유형을 추가해야 합니다."
+        },
+        "LayoutImportTitle": "레이아웃 가져오기",
+        "InvalidLayoutFile": "유효하지 않은 레이아웃 파일입니다.",
+        "NoFileSelected": "선택된 파일이 없습니다.",
+        "DeletedLayout": "삭제된 레이아웃"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "재설정",
+          "LayoutEngine": {
+            "textLayoutName": "레이아웃 이름:",
+            "textUseLayoutEngine": "레이아웃 엔진 사용",
+            "textNoLayoutData": "레이아웃 데이터가 없습니다!",
+            "textBusinessProfileUsesLayoutEngine": "비즈니스 프로필이 레이아웃 엔진을 사용합니다.",
+            "textOverrideDefaultLayout": "모든 뉴스 항목에 대한 레이아웃 재정의"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "이 페이지는 삭제되었습니다.",
+          "textDocumentIsNotAvailableMessage": "이 문서는 사용할 수 없습니다. 새 문서인 경우 몇 분 후에 다시 시도하십시오. 그렇지 않으면 문서가 삭제되었을 수 있습니다."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "{requestedBy}가 {requestTime}에 보낸 이 요청이 종료되었습니다."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "피드 정보가 포함된 목록 보기",
+          "View": {
+            "Header": "피드 정보",
+            "Dialog": {
+              "Title": "Omnia Feed 게시 정보",
+              "Content": {
+                "FeedInfoForPage": "페이지 정보",
+                "PublishStatus": {
+                  "Title": "게시 상태",
+                  "Value": {
+                    "Delivered": "전달됨",
+                    "Failed": "실패",
+                    "NoInfo": "정보 없음",
+                    "Processing": "처리 중",
+                    "Scheduled": "예약됨"
+                  }
+                },
+                "NumberOfUsersReached": "도달한 사용자 수",
+                "TimeDeliveredToAllUsers": "모든 사용자에게 전달된 시간",
+                "TimeDeliveredToActiveUsers": "활성 사용자에게 전달된 시간",
+                "TimeProcessingPage": "처리 시작 시간",
+                "TimeScheduled": "예약 시간",
+                "Message": {
+                  "NoInfo": "현재 구성에서 이 페이지는 Omnia Feed에 동기화되지 않았습니다.",
+                  "Error": "동기화 프로세스에 문제가 발생했습니다. 아래 로그를 확인하십시오."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "정보를 가져올 비즈니스 프로필"
+            }
+          }
+        }
+      }
+    }
+  }
+}
