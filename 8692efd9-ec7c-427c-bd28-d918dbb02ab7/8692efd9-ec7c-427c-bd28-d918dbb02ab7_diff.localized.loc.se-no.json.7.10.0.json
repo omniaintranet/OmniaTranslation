@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Lägg muohta notification",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Lägg muohta notification til brukere som ikke har fullført forespørselen når den stenges."
+        }
+      },
+      "Submenu": {
+        "Layout": "Layout-innstillinger"
+      },
+      "TabSections": {
+        "DataMapping": "Data mapping",
+        "AddLayouts": "Legg til layout"
+      },
+      "Buttons": {
+        "AddLayout": "Legg til layout",
+        "RemoveLayout": "Fjern layout",
+        "AddPageType": "Legg til sidetype",
+        "Cancel": "Avbryt",
+        "CreateDraft": "Opprett utkast",
+        "Import": "Importer",
+        "Export": "Eksporter",
+        "View": "Vis"
+      },
+      "Settings": {
+        "HeaderTextColor": "Farge på overskriftstekst",
+        "DefaultChannel": "Standard kanal",
+        "TenantScopeQuery": "Leietakerspørsmål",
+        "EnableLayoutEngine": "Aktiver layoutmotor",
+        "AddScopeQuery": "Legg til omfangsspørsmål",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Når bruker blir tvunget til å logge ut i OFMC",
+            "Description": "Tilbakestill data på mobilapp, men behold innloggingsstatus"
+          }
+        },
+        "SortByItemDate": "Elementdato (Feed innebygd)",
+        "PageType": "Sidetype",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Legg til eller oppdater",
+          "Delete": "Slett",
+          "AutomaticPageTranslationFinished": "Variasjonssideoversettelse"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ikke startet",
+            "InProgress": "Pågår",
+            "Completed": "Fullført"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Ugyldig eller manglende URL i innholdsseksjonen.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Er du virkelig sikker på at du vil prøve å synkronisere brukere på nytt?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrer faneinnstillinger",
+            "Message": "Vil du migrere spørringsfanen til flere spørringsfaner?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrer nyhetsartikkel"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Velg sidetype",
+          "BlocksPicker": "Velg blokker",
+          "SelectPageType": "Velg sidetype",
+          "Block": "Blokk",
+          "SelectChildBlock": "Velg en underblokk",
+          "SelectEnterpriseProperties": "Velg bedriftsinnstillinger",
+          "DragAndDrop": "Dra og slipp",
+          "PageTypes": "Sidetyper",
+          "LayoutName": "Layoutnavn",
+          "BlockTitle": "Blokktittel",
+          "ChildBlocks": "Underblokker",
+          "LayoutNameIsRequired": "Layoutnavn er påkrevd",
+          "CustomStyleSheet": "Egendefinert stilark",
+          "ThisBlockIsRequired": "Denne blokken er påkrevd",
+          "Default": "Standard",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Slett layoutdefinisjon",
+            "MessageDeleteLayoutDefinition": "Vil du slette denne layoutdefinisjonen?",
+            "TitleDeleteBlock": "Slett blokk",
+            "MessageDeleteBlock": "Vil du slette denne blokken?",
+            "TitleRemovePageType": "Fjern sidetype",
+            "MessageRemovePageType": "Vil du fjerne denne sidetypen i layout?",
+            "TitleActivateLayoutEngineMigration": "Aktiver migrering av layoutmotor",
+            "MessgeActivateLayoutEngineMigration": "Vil du aktivere migrering av layoutmotor?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Når du klikker på knappen nedenfor, vil nyhetsartikler knyttet til denne forretningsprofilen bli migrert ved hjelp av layoutmotoren. Denne prosessen kan ta litt tid å fullføre og kan ikke reverseres.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denne forretningsprofilen har aktivert layoutmotoren.",
+          "MigrationProcess": "Migrering av nyhetsartikler for denne forretningsprofilen pågår",
+          "ActivateLayoutEngineMigration": "Aktiver migrering av layoutmotor"
+        },
+        "EventsFilter": {
+          "Title": "Hvitliste hendelsesfilter",
+          "EnableEventsFilter": "Aktiver hendelsesfilter",
+          "Radio": {
+            "Hint": "Bytt mellom hvitliste-modus og svartliste-modus",
+            "Blacklist": "Svartliste",
+            "Whitelist": "Hvitliste"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Forretningsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidekolleksjon",
+            "BusinessProfileInputLabel": "Forretningsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapper"
+          }
+        },
+        "PreviewTab": "Forhåndsvisningsfane"
+      },
+      "Common": {
+        "VersionHistory": "Versjonshistorikk"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Du må legge til minst én layout.",
+          "NoLayoutSelectedValidateMessage": "Du må legge til minst én layout i visningsseksjonen."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Visningsmodus"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Bildevisningsmodus",
+            "ThumbnailMode": "Miniatyrmodus",
+            "DetailMode": "Detaljmodus"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Tags",
+          "DisplayMode": {
+            "Title": "Visningsmodus",
+            "Text": "Tekst",
+            "Chip": "Chip"
+          },
+          "NewTag": "Ny",
+          "FixedValue": "Fast verdi",
+          "SignOffRequestTag": "Sign-off forespørsel",
+          "TagContainerStyle": "Tag-containerstil"
+        },
+        "TextBlock": {
+          "Title": "Tekst",
+          "DefaultContent": "Standardinnhold",
+          "LineLimit": "Linjelimit"
+        },
+        "HeadingBlock": {
+          "Title": "Overskrift",
+          "LineLimit": "Linjelimit"
+        },
+        "RichTextBlock": {
+          "Title": "Rik tekst"
+        },
+        "IdentityBlock": {
+          "Title": "Identitet",
+          "RenderMode": {
+            "DisplayName": "Visningsnavn",
+            "DisplayNameWithAvatar": "Visningsnavn med avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Dato",
+          "DateFormat": "Datoformat",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Tekst",
+            "CalendarIconMode": "Kalenderikon"
+          },
+          "MonthTextStyle": "Månedstekststil",
+          "DateTextStyle": "Datotekststil",
+          "TextStyle": "Tekststil",
+          "InheritFromTenant": "Arv fra leietaker",
+          "TheDateFormatIsIncorrect": "Datoformatet er ikke korrekt."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Relaterte lenker",
+          "IconAndTextColor": "Ikon- og tekstfarge",
+          "BlockTitle": "Tittel",
+          "TitleStyle": "Tittelstil"
+        },
+        "SocialBlock": {
+          "Title": "Sosial",
+          "EnableComment": "Tillat kommentarer",
+          "ReadOnlyMode": "Vis i skrivebeskyttet modus",
+          "SortComment": "Sorter kommentar",
+          "RenderMode": {
+            "FullView": "Full visning",
+            "NewComments": "Nye kommentarer"
+          },
+          "HideNewCommentsAfterReading": "Skjul nye kommentarer etter lesing"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Handlingsknapper"
+        },
+        "DateRangeBlock": {
+          "Title": "Datointervall",
+          "To": "Til",
+          "Form": "Skjema",
+          "MonthTextStyle": "Månedstekststil",
+          "DateTextStyle": "Datotekststil"
+        },
+        "RowBlock": {
+          "Title": "Rad",
+          "NewItemIndicator": "Vis ny elementindikator til venstre"
+        },
+        "ColumnBlock": {
+          "Title": "Kolonne"
+        },
+        "LikeButtonBlock": {
+          "Title": "Like-knapp",
+          "RenderMode": {
+            "CompactView": "Kompakt visning",
+            "DetailView": "Detaljvisning"
+          },
+          "TextStyle": "Tekststil",
+          "IconAndTextColor": "Ikon- og tekstfarge"
+        },
+        "CommentCountBlock": {
+          "Title": "Kommentarantall",
+          "RenderMode": {
+            "CompactView": "Kompakt visning"
+          },
+          "IconAndTextColor": "Ikon- og tekstfarge"
+        },
+        "ShareButtonBlock": {
+          "Title": "Del-knapp",
+          "IconSize": "Ikonstørrelse"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakt skrivebeskyttet",
+            "Full": "Full"
+          },
+          "Title": "Legg til som favoritt-knapp",
+          "AddLabel": "Legg til etikett",
+          "RemoveLabel": "Fjern etikett",
+          "LinkCategory": "Lenkekategori"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Dag i uken"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Uken starter",
+              "Options": {
+                "Mon": "Mandag",
+                "Sun": "Søndag",
+                "Sat": "Lørdag"
+              }
+            },
+            "Monday": "Mandag",
+            "Tuesday": "Tirsdag",
+            "Wednesday": "Onsdag",
+            "Thursday": "Torsdag",
+            "Friday": "Fredag",
+            "Saturday": "Lørdag",
+            "Sunday": "Søndag"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galleriindikator"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Spill video-knapp",
+          "BackgroundColor": "Bakgrunnsfarge",
+          "IconColor": "Ikonfarge",
+          "IconSize": "Ikonstørrelse"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variasjonsvelger",
+          "TextStyleInput": "Tekst stilark",
+          "ListStyleInput": "Listebeholder stilark"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Layout",
+            "ImageOnTop": "Bilde på toppen",
+            "TitleAndContentOnImage": "Tittel og innhold på bilde",
+            "TitleOnImage": "Tittel på bilde"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Overskriftsstil",
+          "ContentStyle": "Innholds stil"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Sign-off forespørsel handling",
+          "IconPositionOption": {
+            "Title": "Ikonposisjon",
+            "LeftOfText": "Til venstre for tekst",
+            "RightOfText": "Til høyre for tekst"
+          },
+          "ConfirmLabel": "Bekreft etikett",
+          "TextStyleInput": "Tekst stilark"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Ingen layout definert",
+        "Dialog": {
+          "ConfirmCancellation": "Bekreft avbestilling",
+          "DiscardAllChanges": "Vil du kaste alle endringer?",
+          "ConfirmSave": "Bekreft lagring",
+          "SaveWithoutChanges": "Du har ikke gjort noen nye endringer. Vil du fortsatt lagre?",
+          "ConfirmPublishing": "Bekreft publisering",
+          "PublishLayout": "Vil du publisere layoutversjon {version}?"
+        },
+        "Previewers": "Forhåndsvisere",
+        "SelectUserToPreviewTheLayout": "Velg bruker for å forhåndsvise layouten",
+        "LayoutTemplatesTooltip": "Layoutmaler",
+        "ImportLayoutTooltip": "Importer layout",
+        "NoDefinitionToExport": "Det er ingen definisjonsdata å eksportere.",
+        "ExportLayoutTooltip": "Eksporter layout",
+        "ExportErrorMessage": "Det oppstod en feil under eksport av layoutdefinisjon.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Du må legge til minst én sidetype."
+        },
+        "LayoutImportTitle": "Layoutimport",
+        "InvalidLayoutFile": "Ugyldig layoutfil.",
+        "NoFileSelected": "Ingen fil valgt.",
+        "DeletedLayout": "Slettet layout"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Tilbakestill",
+          "LayoutEngine": {
+            "textLayoutName": "Layoutnavn:",
+            "textUseLayoutEngine": "Bruk layoutmotor",
+            "textNoLayoutData": "Ingen layoutdata!",
+            "textBusinessProfileUsesLayoutEngine": "Forretningsprofil bruker layoutmotor.",
+            "textOverrideDefaultLayout": "Overstyr layouten for alle nyhetsartikler"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Denne siden har blitt slettet.",
+          "textDocumentIsNotAvailableMessage": "Dette dokumentet er ikke tilgjengelig. Hvis det er et nytt dokument, vennligst vent noen minutter og prøv igjen. Ellers kan dokumentet ha blitt slettet."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Denne forespørselen sendt til deg fra {requestedBy} den {requestTime} har blitt stengt."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Listevisning med Feed-info",
+          "View": {
+            "Header": "Feed-info",
+            "Dialog": {
+              "Title": "Omnia Feed publiseringsinfo",
+              "Content": {
+                "FeedInfoForPage": "Info for siden",
+                "PublishStatus": {
+                  "Title": "Publiseringsstatus",
+                  "Value": {
+                    "Delivered": "Levert",
+                    "Failed": "Feilet",
+                    "NoInfo": "Ingen info",
+                    "Processing": "Behandles",
+                    "Scheduled": "Planlagt"
+                  }
+                },
+                "NumberOfUsersReached": "Antall brukere nådd",
+                "TimeDeliveredToAllUsers": "Tid levert til alle brukere",
+                "TimeDeliveredToActiveUsers": "Tid levert til aktive brukere",
+                "TimeProcessingPage": "Startet behandling kl",
+                "TimeScheduled": "Planlagt kl",
+                "Message": {
+                  "NoInfo": "Denne siden er ikke synkronisert i Omnia Feed under gjeldende konfigurasjon.",
+                  "Error": "Det er et problem med synkroniseringsprosessen. Vennligst sjekk loggen nedenfor."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Forretningsprofil for å hente info"
+            }
+          }
+        }
+      }
+    }
+  }
+}
