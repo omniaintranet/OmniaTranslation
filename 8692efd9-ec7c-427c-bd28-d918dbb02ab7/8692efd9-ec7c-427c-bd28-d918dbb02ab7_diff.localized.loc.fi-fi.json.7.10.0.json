@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Lähetä muistutusilmoitus",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Lähetä ilmoitus käyttäjille, jotka eivät ole suorittaneet pyyntöä, kun se suljetaan."
+        }
+      },
+      "Submenu": {
+        "Layout": "Asetteluasetukset"
+      },
+      "TabSections": {
+        "DataMapping": "Tietojen kartoitus",
+        "AddLayouts": "Lisää asetteluja"
+      },
+      "Buttons": {
+        "AddLayout": "Lisää asettelu",
+        "RemoveLayout": "Poista asettelu",
+        "AddPageType": "Lisää sivutyyppi",
+        "Cancel": "Peruuta",
+        "CreateDraft": "Luo luonnos",
+        "Import": "Tuoda",
+        "Export": "Viedä",
+        "View": "Näytä"
+      },
+      "Settings": {
+        "HeaderTextColor": "Otsikon tekstin väri",
+        "DefaultChannel": "Oletuskanava",
+        "TenantScopeQuery": "Vuokralaislaajuuskysely",
+        "EnableLayoutEngine": "Ota käyttöön asettelumoottori",
+        "AddScopeQuery": "Lisää laajuuskysely",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Kun käyttäjä pakotetaan kirjautumaan ulos OFMC:ssä",
+            "Description": "Nollaa tiedot mobiilisovelluksessa, mutta säilytä kirjautumistila"
+          }
+        },
+        "SortByItemDate": "Kohteen päivämäärä (Syötteen sisäänrakennettu)",
+        "PageType": "Sivutyyppi",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisää tai päivitä",
+          "Delete": "Poista",
+          "AutomaticPageTranslationFinished": "VariaatioSivunKäännös"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ei aloitettu",
+            "InProgress": "Käynnissä",
+            "Completed": "Valmis"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Virheellinen tai puuttuva URL-osoite sisällön osiossa.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Oletko todella varma, että haluat yrittää synkronoida käyttäjät uudelleen?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Siirrä välilehtiasetukset",
+            "Message": "Haluatko siirtää kyselyvälilehden useisiin kyselyvälilehtiin?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Siirrä uutiskohde"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Sivutyypin valitsin",
+          "BlocksPicker": "Blokkien valitsin",
+          "SelectPageType": "Valitse sivutyyppi",
+          "Block": "Blokki",
+          "SelectChildBlock": "Valitse aliblokki",
+          "SelectEnterpriseProperties": "Valitse yritysominaisuudet",
+          "DragAndDrop": "Vedä ja pudota",
+          "PageTypes": "Sivutyypit",
+          "LayoutName": "Asettelu nimi",
+          "BlockTitle": "Blokin otsikko",
+          "ChildBlocks": "Aliblokit",
+          "LayoutNameIsRequired": "Asettelu nimi on pakollinen",
+          "CustomStyleSheet": "Mukautettu tyylitiedosto",
+          "ThisBlockIsRequired": "Tämä blokki on pakollinen",
+          "Default": "Oletus",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Poista asettelun määritelmä",
+            "MessageDeleteLayoutDefinition": "Haluatko poistaa tämän asettelun määritelmän?",
+            "TitleDeleteBlock": "Poista blokki",
+            "MessageDeleteBlock": "Haluatko poistaa tämän blokin?",
+            "TitleRemovePageType": "Poista sivutyyppi",
+            "MessageRemovePageType": "Haluatko poistaa tämän sivutyypin asettelusta?",
+            "TitleActivateLayoutEngineMigration": "Ota käyttöön asettelumoottorin siirto",
+            "MessgeActivateLayoutEngineMigration": "Haluatko aktivoida asettelumoottorin siirron?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Kun napsautat alla olevaa painiketta, tähän liiketoimintaprofiiliin liittyvät uutisartikkelit siirretään asettelumoottorin avulla. Tämä prosessi voi kestää jonkin aikaa ja sitä ei voida peruuttaa.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Tämä liiketoimintaprofiili on aktivoinut asettelumoottorin.",
+          "MigrationProcess": "Uutisartikkelien siirto tälle liiketoimintaprofiilille on käynnissä",
+          "ActivateLayoutEngineMigration": "Ota käyttöön asettelumoottorin siirto"
+        },
+        "EventsFilter": {
+          "Title": "Valkoisen listan tapahtumien suodatin",
+          "EnableEventsFilter": "Ota käyttöön tapahtumien suodatin",
+          "Radio": {
+            "Hint": "Vaihda valkoisen listan ja mustan listan tilan välillä",
+            "Blacklist": "Musta lista",
+            "Whitelist": "Valkoinen lista"
+          },
+          "FilterMode": {
+            "Label": "Suodatin tila",
+            "BusinessProfile": "Liiketoimintaprofiili",
+            "PublishingApp": "Julkaisusovellus",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Liiketoimintaprofiilit",
+            "PublishingAppInputLabel": "Julkaisusovellukset"
+          }
+        },
+        "PreviewTab": "Esikatseluvälilehti"
+      },
+      "Common": {
+        "VersionHistory": "Versiohistoria"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Sinun on lisättävä vähintään yksi asettelu.",
+          "NoLayoutSelectedValidateMessage": "Sinun on lisättävä vähintään yksi asettelu Näyttö-osioon."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Renderointitila"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Kuvan renderointitila",
+            "ThumbnailMode": "Pikkukuva tila",
+            "DetailMode": "Yksityiskohtainen tila"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Tunnisteet",
+          "DisplayMode": {
+            "Title": "Näyttötila",
+            "Text": "Teksti",
+            "Chip": "Siru"
+          },
+          "NewTag": "Uusi",
+          "FixedValue": "Kiinteä arvo",
+          "SignOffRequestTag": "Hyväksyntäpyyntö",
+          "TagContainerStyle": "Tunnisteen säiliön tyyli"
+        },
+        "TextBlock": {
+          "Title": "Teksti",
+          "DefaultContent": "Oletussisältö",
+          "LineLimit": "Riviraja"
+        },
+        "HeadingBlock": {
+          "Title": "Otsikko",
+          "LineLimit": "Riviraja"
+        },
+        "RichTextBlock": {
+          "Title": "Rikas teksti"
+        },
+        "IdentityBlock": {
+          "Title": "Identiteetti",
+          "RenderMode": {
+            "DisplayName": "Näyttönimi",
+            "DisplayNameWithAvatar": "Näyttönimi avatarin kanssa",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Päivämäärä",
+          "DateFormat": "Päivämäärämuoto",
+          "Format": "Muoto",
+          "RenderMode": {
+            "TextMode": "Teksti",
+            "CalendarIconMode": "Kalenterikuvake"
+          },
+          "MonthTextStyle": "Kuukauden tekstityyli",
+          "DateTextStyle": "Päivämäärän tekstityyli",
+          "TextStyle": "Tekstityyli",
+          "InheritFromTenant": "Peri vuokralaiselta",
+          "TheDateFormatIsIncorrect": "Päivämäärämuoto ei ole oikea."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Liittyvät linkit",
+          "IconAndTextColor": "Kuvake- ja tekstiväri",
+          "BlockTitle": "Otsikko",
+          "TitleStyle": "Otsikkotyyli"
+        },
+        "SocialBlock": {
+          "Title": "Sosiaalinen",
+          "EnableComment": "Salli kommentit",
+          "ReadOnlyMode": "Näytä vain luku -tilassa",
+          "SortComment": "Lajittele kommentti",
+          "RenderMode": {
+            "FullView": "Koko näkymä",
+            "NewComments": "Uudet kommentit"
+          },
+          "HideNewCommentsAfterReading": "Piilota uudet kommentit lukemisen jälkeen"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Toimintapainikkeet"
+        },
+        "DateRangeBlock": {
+          "Title": "Päivämääräväli",
+          "To": "Kohteeseen",
+          "Form": "Muoto",
+          "MonthTextStyle": "Kuukauden tekstityyli",
+          "DateTextStyle": "Päivämäärän tekstityyli"
+        },
+        "RowBlock": {
+          "Title": "Rivi",
+          "NewItemIndicator": "Näytä uuden kohteen indikaattori vasemmalla"
+        },
+        "ColumnBlock": {
+          "Title": "Sarake"
+        },
+        "LikeButtonBlock": {
+          "Title": "Tykkää-painike",
+          "RenderMode": {
+            "CompactView": "Kompakti näkymä",
+            "DetailView": "Yksityiskohtainen näkymä"
+          },
+          "TextStyle": "Tekstityyli",
+          "IconAndTextColor": "Kuvake- ja tekstiväri"
+        },
+        "CommentCountBlock": {
+          "Title": "Kommenttien määrä",
+          "RenderMode": {
+            "CompactView": "Kompakti näkymä"
+          },
+          "IconAndTextColor": "Kuvake- ja tekstiväri"
+        },
+        "ShareButtonBlock": {
+          "Title": "Jaa-painike",
+          "IconSize": "Kuvakoko"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakti vain luku",
+            "Full": "Koko"
+          },
+          "Title": "Lisää suosikiksi -painike",
+          "AddLabel": "Lisää etiketti",
+          "RemoveLabel": "Poista etiketti",
+          "LinkCategory": "Linkkikategoria"
+        },
+        "AgendaBlock": {
+          "Title": "Agendat",
+          "RenderMode": {
+            "DayInWeek": "Päivä viikossa"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Viikko alkaa",
+              "Options": {
+                "Mon": "Maanantai",
+                "Sun": "Sunnuntai",
+                "Sat": "Lauantai"
+              }
+            },
+            "Monday": "Maanantai",
+            "Tuesday": "Tiistai",
+            "Wednesday": "Keskiviikko",
+            "Thursday": "Torstai",
+            "Friday": "Perjantai",
+            "Saturday": "Lauantai",
+            "Sunday": "Sunnuntai"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galleriaindikaattori"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Toista video -painike",
+          "BackgroundColor": "Taustaväri",
+          "IconColor": "Kuvakeväri",
+          "IconSize": "Kuvakoko"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variaation valitsin",
+          "TextStyleInput": "Tekstityylitiedosto",
+          "ListStyleInput": "Luettelon säiliön tyylitiedosto"
+        },
+        "BannerBlock": {
+          "Title": "Banneri",
+          "LayoutRenderMode": {
+            "Title": "Asettelu",
+            "ImageOnTop": "Kuva päällä",
+            "TitleAndContentOnImage": "Otsikko ja sisältö kuvassa",
+            "TitleOnImage": "Otsikko kuvassa"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "UKK/Accordion",
+          "HeaderStyle": "Otsikkotyyli",
+          "ContentStyle": "Sisältötyyli"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Hyväksyntäpyynnön toiminto",
+          "IconPositionOption": {
+            "Title": "Kuvakkeen sijainti",
+            "LeftOfText": "Tekstin vasemmalla puolella",
+            "RightOfText": "Tekstin oikealla puolella"
+          },
+          "ConfirmLabel": "Vahvista etiketti",
+          "TextStyleInput": "Tekstityylitiedosto"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Ei määriteltyä asettelua",
+        "Dialog": {
+          "ConfirmCancellation": "Vahvista peruutus",
+          "DiscardAllChanges": "Haluatko hylätä kaikki muutokset?",
+          "ConfirmSave": "Vahvista tallennus",
+          "SaveWithoutChanges": "Et ole tehnyt uusia muutoksia. Haluatko silti tallentaa?",
+          "ConfirmPublishing": "Vahvista julkaisu",
+          "PublishLayout": "Haluatko julkaista asettelun version {version}?"
+        },
+        "Previewers": "Esikatselijat",
+        "SelectUserToPreviewTheLayout": "Valitse käyttäjä esikatsellaksesi asettelua",
+        "LayoutTemplatesTooltip": "Asettelu mallit",
+        "ImportLayoutTooltip": "Tuo asettelu",
+        "NoDefinitionToExport": "Ei vientimääritelmädataa.",
+        "ExportLayoutTooltip": "Vie asettelu",
+        "ExportErrorMessage": "Virhe tapahtui asettelun määritelmän viemisessä.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Sinun on lisättävä vähintään yksi sivutyyppi."
+        },
+        "LayoutImportTitle": "Asettelu tuonti",
+        "InvalidLayoutFile": "Virheellinen asettelutiedosto.",
+        "NoFileSelected": "Ei tiedostoa valittu.",
+        "DeletedLayout": "Poistettu asettelu"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Nollaa",
+          "LayoutEngine": {
+            "textLayoutName": "Asettelu nimi:",
+            "textUseLayoutEngine": "Käytä asettelumoottoria",
+            "textNoLayoutData": "Ei asettelutietoja!",
+            "textBusinessProfileUsesLayoutEngine": "Liiketoimintaprofiili käyttää asettelumoottoria.",
+            "textOverrideDefaultLayout": "Ohita oletusasettelu kaikille uutiskohteille"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Tämä sivu on poistettu.",
+          "textDocumentIsNotAvailableMessage": "Tämä asiakirja ei ole saatavilla. Jos se on uusi asiakirja, odota muutama minuutti ja yritä uudelleen. Muussa tapauksessa asiakirja on voitu poistaa."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Tämä pyyntö, joka lähetettiin sinulle käyttäjältä {requestedBy} aikaan {requestTime}, on suljettu."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Luettelonäkymä Syöte-tiedoin",
+          "View": {
+            "Header": "Syöte tiedot",
+            "Dialog": {
+              "Title": "Omnia Syöte julkaisu tiedot",
+              "Content": {
+                "FeedInfoForPage": "Tietoa sivusta",
+                "PublishStatus": {
+                  "Title": "Julkaisun tila",
+                  "Value": {
+                    "Delivered": "Toimitettu",
+                    "Failed": "Epäonnistui",
+                    "NoInfo": "Ei tietoa",
+                    "Processing": "Käsittelyssä",
+                    "Scheduled": "Aikataulutettu"
+                  }
+                },
+                "NumberOfUsersReached": "Saavutettujen käyttäjien määrä",
+                "TimeDeliveredToAllUsers": "Aika toimitettu kaikille käyttäjille",
+                "TimeDeliveredToActiveUsers": "Aika toimitettu aktiivisille käyttäjille",
+                "TimeProcessingPage": "Käsittely alkoi",
+                "TimeScheduled": "Aikataulutettu",
+                "Message": {
+                  "NoInfo": "Tätä sivua ei ole synkronoitu Omnia Syötteeseen nykyisellä kokoonpanolla.",
+                  "Error": "Synkronointiprosessissa on ongelma. Tarkista alla oleva loki."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Liiketoimintaprofiili, josta saada tietoa"
+            }
+          }
+        }
+      }
+    }
+  }
+}
