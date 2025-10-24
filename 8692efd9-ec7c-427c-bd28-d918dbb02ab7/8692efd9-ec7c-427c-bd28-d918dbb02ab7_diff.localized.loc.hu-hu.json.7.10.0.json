@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Emlékeztető értesítés küldése",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Értesítés küldése azoknak a felhasználóknak, akik nem fejezték be a kérést, amikor az lezárul."
+        }
+      },
+      "Submenu": {
+        "Layout": "Elrendezési beállítások"
+      },
+      "TabSections": {
+        "DataMapping": "Adatleképezés",
+        "AddLayouts": "Elrendezések hozzáadása"
+      },
+      "Buttons": {
+        "AddLayout": "Elrendezés hozzáadása",
+        "RemoveLayout": "Elrendezés eltávolítása",
+        "AddPageType": "Oldaltípus hozzáadása",
+        "Cancel": "Mégse",
+        "CreateDraft": "Vázlat létrehozása",
+        "Import": "Importálás",
+        "Export": "Exportálás",
+        "View": "Megtekintés"
+      },
+      "Settings": {
+        "HeaderTextColor": "Fejléc szöveg színe",
+        "DefaultChannel": "Alapértelmezett csatorna",
+        "TenantScopeQuery": "Bérlői hatókör lekérdezés",
+        "EnableLayoutEngine": "Elrendezési motor engedélyezése",
+        "AddScopeQuery": "Hatókör lekérdezés hozzáadása",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Amikor a felhasználót ki kell jelentkezni az OFMC-ben",
+            "Description": "Az adatok visszaállítása a mobilalkalmazásban, de a bejelentkezési állapot megőrzése"
+          }
+        },
+        "SortByItemDate": "Elem dátuma (Beépített hírfolyam)",
+        "PageType": "Oldaltípus",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Hozzáadás vagy frissítés",
+          "Delete": "Törlés",
+          "AutomaticPageTranslationFinished": "Változatoldal fordítása"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nem indult el",
+            "InProgress": "Folyamatban",
+            "Completed": "Befejezve"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Érvénytelen vagy hiányzó URL a Tartalom szakaszban.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Biztosan újra szeretné szinkronizálni a felhasználókat?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Fülek beállításainak migrálása",
+            "Message": "Szeretné migrálni a lekérdezés fület több lekérdezés fülre?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Hírek elem migrálása"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Oldaltípus választó",
+          "BlocksPicker": "Blokk választó",
+          "SelectPageType": "Oldaltípus kiválasztása",
+          "Block": "Blokk",
+          "SelectChildBlock": "Gyermek blokk kiválasztása",
+          "SelectEnterpriseProperties": "Vállalati tulajdonságok kiválasztása",
+          "DragAndDrop": "Húzd és ejtsd",
+          "PageTypes": "Oldaltípusok",
+          "LayoutName": "Elrendezés neve",
+          "BlockTitle": "Blokk címe",
+          "ChildBlocks": "Gyermek blokkok",
+          "LayoutNameIsRequired": "Az elrendezés neve kötelező",
+          "CustomStyleSheet": "Egyedi stíluslap",
+          "ThisBlockIsRequired": "Ez a blokk kötelező",
+          "Default": "Alapértelmezett",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Elrendezés definíció törlése",
+            "MessageDeleteLayoutDefinition": "Biztosan törölni szeretné ezt az elrendezés definíciót?",
+            "TitleDeleteBlock": "Blokk törlése",
+            "MessageDeleteBlock": "Biztosan törölni szeretné ezt a blokkot?",
+            "TitleRemovePageType": "Oldaltípus eltávolítása",
+            "MessageRemovePageType": "Biztosan el szeretné távolítani ezt az oldaltípust az elrendezésből?",
+            "TitleActivateLayoutEngineMigration": "Elrendezési motor migráció aktiválása",
+            "MessgeActivateLayoutEngineMigration": "Biztosan aktiválni szeretné az elrendezési motor migrációt?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Amikor rákattint a lenti gombra, a vállalati profilhoz kapcsolódó hírek cikkek migrálva lesznek az elrendezési motor segítségével. Ez a folyamat eltarthat egy ideig, és nem vonható vissza.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Ez a vállalati profil aktiválta az elrendezési motort.",
+          "MigrationProcess": "A hírek cikkek migrálása ennek a vállalati profilnak fut",
+          "ActivateLayoutEngineMigration": "Elrendezési motor migráció aktiválása"
+        },
+        "EventsFilter": {
+          "Title": "Fehérlistás események szűrő",
+          "EnableEventsFilter": "Események szűrő engedélyezése",
+          "Radio": {
+            "Hint": "Váltás a fehérlistás és feketelistás mód között",
+            "Blacklist": "Feketelista",
+            "Whitelist": "Fehérlista"
+          },
+          "FilterMode": {
+            "Label": "Szűrő mód",
+            "BusinessProfile": "Vállalati profil",
+            "PublishingApp": "Kiadó alkalmazás",
+            "PageCollection": "Oldalgyűjtemény",
+            "BusinessProfileInputLabel": "Vállalati profilok",
+            "PublishingAppInputLabel": "Kiadó alkalmazások"
+          }
+        },
+        "PreviewTab": "Előnézeti fül"
+      },
+      "Common": {
+        "VersionHistory": "Verziótörténet"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Legalább egy elrendezést hozzá kell adni.",
+          "NoLayoutSelectedValidateMessage": "Legalább egy elrendezést hozzá kell adni a Megjelenítés szakaszban."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Megjelenítési mód"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Média",
+          "RenderMode": {
+            "Title": "Kép megjelenítési mód",
+            "ThumbnailMode": "Miniatűra mód",
+            "DetailMode": "Részletes mód"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Címkék",
+          "DisplayMode": {
+            "Title": "Megjelenítési mód",
+            "Text": "Szöveg",
+            "Chip": "Csempe"
+          },
+          "NewTag": "Új",
+          "FixedValue": "Rögzített érték",
+          "SignOffRequestTag": "Jóváhagyási kérelem",
+          "TagContainerStyle": "Címke tároló stílus"
+        },
+        "TextBlock": {
+          "Title": "Szöveg",
+          "DefaultContent": "Alapértelmezett tartalom",
+          "LineLimit": "Sorlimit"
+        },
+        "HeadingBlock": {
+          "Title": "Cím",
+          "LineLimit": "Sorlimit"
+        },
+        "RichTextBlock": {
+          "Title": "Gazdag szöveg"
+        },
+        "IdentityBlock": {
+          "Title": "Identitás",
+          "RenderMode": {
+            "DisplayName": "Megjelenített név",
+            "DisplayNameWithAvatar": "Megjelenített név avatarral",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Dátum",
+          "DateFormat": "Dátum formátum",
+          "Format": "Formátum",
+          "RenderMode": {
+            "TextMode": "Szöveg",
+            "CalendarIconMode": "Naptár ikon"
+          },
+          "MonthTextStyle": "Hónap szöveg stílus",
+          "DateTextStyle": "Dátum szöveg stílus",
+          "TextStyle": "Szöveg stílus",
+          "InheritFromTenant": "Öröklés a bérlőtől",
+          "TheDateFormatIsIncorrect": "A dátum formátuma nem helyes."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Kapcsolódó linkek",
+          "IconAndTextColor": "Ikon és szöveg színe",
+          "BlockTitle": "Cím",
+          "TitleStyle": "Cím stílus"
+        },
+        "SocialBlock": {
+          "Title": "Közösségi",
+          "EnableComment": "Hozzászólások engedélyezése",
+          "ReadOnlyMode": "Csak olvasható módban való megtekintés",
+          "SortComment": "Hozzászólás rendezése",
+          "RenderMode": {
+            "FullView": "Teljes nézet",
+            "NewComments": "Új hozzászólások"
+          },
+          "HideNewCommentsAfterReading": "Új hozzászólások elrejtése olvasás után"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Műveleti gombok"
+        },
+        "DateRangeBlock": {
+          "Title": "Dátumtartomány",
+          "To": "Ig",
+          "Form": "Formátum",
+          "MonthTextStyle": "Hónap szöveg stílus",
+          "DateTextStyle": "Dátum szöveg stílus"
+        },
+        "RowBlock": {
+          "Title": "Sor",
+          "NewItemIndicator": "Új elem jelző megjelenítése bal oldalon"
+        },
+        "ColumnBlock": {
+          "Title": "Oszlop"
+        },
+        "LikeButtonBlock": {
+          "Title": "Tetszik gomb",
+          "RenderMode": {
+            "CompactView": "Kompakt nézet",
+            "DetailView": "Részletes nézet"
+          },
+          "TextStyle": "Szöveg stílus",
+          "IconAndTextColor": "Ikon és szöveg színe"
+        },
+        "CommentCountBlock": {
+          "Title": "Hozzászólások száma",
+          "RenderMode": {
+            "CompactView": "Kompakt nézet"
+          },
+          "IconAndTextColor": "Ikon és szöveg színe"
+        },
+        "ShareButtonBlock": {
+          "Title": "Megosztás gomb",
+          "IconSize": "Ikon méret"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakt csak olvasható",
+            "Full": "Teljes"
+          },
+          "Title": "Hozzáadás kedvencként gomb",
+          "AddLabel": "Hozzáadás címke",
+          "RemoveLabel": "Eltávolítás címke",
+          "LinkCategory": "Link kategória"
+        },
+        "AgendaBlock": {
+          "Title": "Napirend",
+          "RenderMode": {
+            "DayInWeek": "Hét napja"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Hét kezdete",
+              "Options": {
+                "Mon": "Hétfő",
+                "Sun": "Vasárnap",
+                "Sat": "Szombat"
+              }
+            },
+            "Monday": "Hétfő",
+            "Tuesday": "Kedd",
+            "Wednesday": "Szerda",
+            "Thursday": "Csütörtök",
+            "Friday": "Péntek",
+            "Saturday": "Szombat",
+            "Sunday": "Vasárnap"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galéria jelző"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Videó lejátszó gomb",
+          "BackgroundColor": "Háttérszín",
+          "IconColor": "Ikon szín",
+          "IconSize": "Ikon méret"
+        },
+        "VariationPickerBlock": {
+          "Title": "Változat választó",
+          "TextStyleInput": "Szöveg stíluslap",
+          "ListStyleInput": "Lista tároló stíluslap"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Elrendezés",
+            "ImageOnTop": "Kép a tetején",
+            "TitleAndContentOnImage": "Cím és tartalom a képen",
+            "TitleOnImage": "Cím a képen"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "GYIK/Accordion",
+          "HeaderStyle": "Fejléc stílus",
+          "ContentStyle": "Tartalom stílus"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Jóváhagyási kérelem művelet",
+          "IconPositionOption": {
+            "Title": "Ikon pozíció",
+            "LeftOfText": "Szöveg bal oldalán",
+            "RightOfText": "Szöveg jobb oldalán"
+          },
+          "ConfirmLabel": "Megerősítő címke",
+          "TextStyleInput": "Szöveg stíluslap"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Nincs definiált elrendezés",
+        "Dialog": {
+          "ConfirmCancellation": "Mégse megerősítése",
+          "DiscardAllChanges": "Biztosan el szeretné dobni az összes változtatást?",
+          "ConfirmSave": "Mentés megerősítése",
+          "SaveWithoutChanges": "Nem végzett új változtatásokat. Mégis szeretné menteni?",
+          "ConfirmPublishing": "Közzététel megerősítése",
+          "PublishLayout": "Biztosan közzé szeretné tenni a {version} verziójú elrendezést?"
+        },
+        "Previewers": "Előnézeti felhasználók",
+        "SelectUserToPreviewTheLayout": "Felhasználó kiválasztása az elrendezés előnézetéhez",
+        "LayoutTemplatesTooltip": "Elrendezési sablonok",
+        "ImportLayoutTooltip": "Elrendezés importálása",
+        "NoDefinitionToExport": "Nincs exportálható definíciós adat.",
+        "ExportLayoutTooltip": "Elrendezés exportálása",
+        "ExportErrorMessage": "Hiba történt az elrendezés definíciójának exportálása során.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Legalább egy oldaltípust hozzá kell adni."
+        },
+        "LayoutImportTitle": "Elrendezés importálása",
+        "InvalidLayoutFile": "Érvénytelen elrendezés fájl.",
+        "NoFileSelected": "Nincs fájl kiválasztva.",
+        "DeletedLayout": "Törölt elrendezés"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Visszaállítás",
+          "LayoutEngine": {
+            "textLayoutName": "Elrendezés neve:",
+            "textUseLayoutEngine": "Elrendezési motor használata",
+            "textNoLayoutData": "Nincs elrendezési adat!",
+            "textBusinessProfileUsesLayoutEngine": "A vállalati profil elrendezési motort használ.",
+            "textOverrideDefaultLayout": "Felülírja az összes hír elem elrendezését"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Ez az oldal törölve lett.",
+          "textDocumentIsNotAvailableMessage": "Ez a dokumentum nem elérhető. Ha ez egy új dokumentum, kérjük, várjon néhány percet, és próbálja újra. Ellenkező esetben a dokumentum törölve lehet."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Ez a kérelem, amelyet {requestedBy} küldött Önnek {requestTime} időpontban, lezárult."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Lista nézet hírfolyam információval",
+          "View": {
+            "Header": "Hírfolyam információ",
+            "Dialog": {
+              "Title": "Omnia Feed közzétételi információ",
+              "Content": {
+                "FeedInfoForPage": "Információ az oldalhoz",
+                "PublishStatus": {
+                  "Title": "Közzétételi állapot",
+                  "Value": {
+                    "Delivered": "Kézbesítve",
+                    "Failed": "Sikertelen",
+                    "NoInfo": "Nincs információ",
+                    "Processing": "Feldolgozás alatt",
+                    "Scheduled": "Ütemezve"
+                  }
+                },
+                "NumberOfUsersReached": "Elért felhasználók száma",
+                "TimeDeliveredToAllUsers": "Kézbesítési idő minden felhasználónak",
+                "TimeDeliveredToActiveUsers": "Kézbesítési idő aktív felhasználóknak",
+                "TimeProcessingPage": "Feldolgozás elkezdve",
+                "TimeScheduled": "Ütemezve",
+                "Message": {
+                  "NoInfo": "Ez az oldal nincs szinkronizálva az Omnia Feedbe a jelenlegi konfiguráció alatt.",
+                  "Error": "Probléma merült fel a szinkronizálási folyamat során. Kérjük, ellenőrizze az alábbi naplót."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Vállalati profil az információk megszerzéséhez"
+            }
+          }
+        }
+      }
+    }
+  }
+}
