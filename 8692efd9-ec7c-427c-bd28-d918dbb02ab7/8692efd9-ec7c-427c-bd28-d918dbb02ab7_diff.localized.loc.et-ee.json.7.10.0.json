@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Saada meeldetuletuse teade",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Saada teade kasutajatele, kes ei ole taotlust lõpetanud, kui see suletakse."
+        }
+      },
+      "Submenu": {
+        "Layout": "Paigutuse seaded"
+      },
+      "TabSections": {
+        "DataMapping": "Andmete kaardistamine",
+        "AddLayouts": "Lisa paigutused"
+      },
+      "Buttons": {
+        "AddLayout": "Lisa paigutus",
+        "RemoveLayout": "Eemalda paigutus",
+        "AddPageType": "Lisa lehe tüüp",
+        "Cancel": "Tühista",
+        "CreateDraft": "Loo mustand",
+        "Import": "Impordi",
+        "Export": "Ekspordi",
+        "View": "Vaata"
+      },
+      "Settings": {
+        "HeaderTextColor": "Pealkirja teksti värv",
+        "DefaultChannel": "Vaikimisi kanal",
+        "TenantScopeQuery": "Tenant'i ulatuse päring",
+        "EnableLayoutEngine": "Luba paigutuse mootor",
+        "AddScopeQuery": "Lisa ulatuse päring",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Kui kasutaja sunnitakse välja logima OFMC-s",
+            "Description": "Nulli andmed mobiilirakenduses, kuid säilita sisselogimise olek"
+          }
+        },
+        "SortByItemDate": "Objekti kuupäev (Feed sisseehitatud)",
+        "PageType": "Lehe tüüp",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisa või uuenda",
+          "Delete": "Kustuta",
+          "AutomaticPageTranslationFinished": "Variatsioonilehe tõlkimine"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Alustamata",
+            "InProgress": "Töös",
+            "Completed": "Lõpetatud"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Sisu sektsioonis on vale või puuduv URL.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Kas olete tõeliselt kindel, et soovite kasutajate sünkroonimist uuesti proovida?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migreeri vahekaartede seaded",
+            "Message": "Kas soovite migreerida päringu vahekaardi mitme päringu vahekaardi?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migreeri uudise element"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Lehe tüübi valija",
+          "BlocksPicker": "Plokkide valija",
+          "SelectPageType": "Vali lehe tüüp",
+          "Block": "Plokk",
+          "SelectChildBlock": "Vali alamplokk",
+          "SelectEnterpriseProperties": "Vali ettevõtte omadused",
+          "DragAndDrop": "Loha ja viska",
+          "PageTypes": "Lehe tüübid",
+          "LayoutName": "Paigutuse nimi",
+          "BlockTitle": "Ploki pealkiri",
+          "ChildBlocks": "Alamplokid",
+          "LayoutNameIsRequired": "Paigutuse nimi on kohustuslik",
+          "CustomStyleSheet": "Kohandatud stiilileht",
+          "ThisBlockIsRequired": "See plokk on kohustuslik",
+          "Default": "Vaikimisi",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Kustuta paigutuse määratlus",
+            "MessageDeleteLayoutDefinition": "Kas soovite selle paigutuse määratluse kustutada?",
+            "TitleDeleteBlock": "Kustuta plokk",
+            "MessageDeleteBlock": "Kas soovite selle ploki kustutada?",
+            "TitleRemovePageType": "Eemalda lehe tüüp",
+            "MessageRemovePageType": "Kas soovite selle lehe tüübi paigutusest eemaldada?",
+            "TitleActivateLayoutEngineMigration": "Aktiveeri paigutuse mootori migratsioon",
+            "MessgeActivateLayoutEngineMigration": "Kas soovite aktiveerida paigutuse mootori migratsiooni?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Kui klõpsate alloleval nupul, migreeritakse selle äriprofiiliga seotud uudiste artiklid paigutuse mootori abil. See protsess võib võtta aega ja seda ei saa tagasi pöörata.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*See äriprofiil on aktiveerinud paigutuse mootori.",
+          "MigrationProcess": "Uudiste artiklite migreerimine selle äriprofiili jaoks on käimas",
+          "ActivateLayoutEngineMigration": "Aktiveeri paigutuse mootori migratsioon"
+        },
+        "EventsFilter": {
+          "Title": "Valge nimekirja sündmuste filter",
+          "EnableEventsFilter": "Luba sündmuste filter",
+          "Radio": {
+            "Hint": "Lülita valge nimekirja režiimi ja musta nimekirja režiimi vahel",
+            "Blacklist": "Must nimekiri",
+            "Whitelist": "Valge nimekiri"
+          },
+          "FilterMode": {
+            "Label": "Filtri režiim",
+            "BusinessProfile": "Äriprofiil",
+            "PublishingApp": "Avaldamise rakendus",
+            "PageCollection": "Lehe kogum",
+            "BusinessProfileInputLabel": "Äriprofiilid",
+            "PublishingAppInputLabel": "Avaldamise rakendused"
+          }
+        },
+        "PreviewTab": "Eelvaate vahekaart"
+      },
+      "Common": {
+        "VersionHistory": "Versiooni ajalugu"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Peate lisama vähemalt ühe paigutuse.",
+          "NoLayoutSelectedValidateMessage": "Peate lisama vähemalt ühe paigutuse Kuvamise sektsiooni."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Renderdamise režiim"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Meedia",
+          "RenderMode": {
+            "Title": "Pildi renderdamise režiim",
+            "ThumbnailMode": "Miniatuurrežiim",
+            "DetailMode": "Detailrežiim"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Märgid",
+          "DisplayMode": {
+            "Title": "Kuvamise režiim",
+            "Text": "Tekst",
+            "Chip": "Kiip"
+          },
+          "NewTag": "Uus",
+          "FixedValue": "Fikseeritud väärtus",
+          "SignOffRequestTag": "Väljalogimise taotlus",
+          "TagContainerStyle": "Märgi konteineri stiil"
+        },
+        "TextBlock": {
+          "Title": "Tekst",
+          "DefaultContent": "Vaikimisi sisu",
+          "LineLimit": "Rea piir"
+        },
+        "HeadingBlock": {
+          "Title": "Pealkiri",
+          "LineLimit": "Rea piir"
+        },
+        "RichTextBlock": {
+          "Title": "Rikas tekst"
+        },
+        "IdentityBlock": {
+          "Title": "Identiteet",
+          "RenderMode": {
+            "DisplayName": "Kuvamisnimi",
+            "DisplayNameWithAvatar": "Kuvamisnimi koos avatariga",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Kuupäev",
+          "DateFormat": "Kuupäeva formaat",
+          "Format": "Formaat",
+          "RenderMode": {
+            "TextMode": "Tekst",
+            "CalendarIconMode": "Kalendriikoon"
+          },
+          "MonthTextStyle": "Kuu teksti stiil",
+          "DateTextStyle": "Kuupäeva teksti stiil",
+          "TextStyle": "Teksti stiil",
+          "InheritFromTenant": "Pärida tenant'ilt",
+          "TheDateFormatIsIncorrect": "Kuupäeva formaat ei ole õige."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Seotud lingid",
+          "IconAndTextColor": "Ikoni ja teksti värv",
+          "BlockTitle": "Pealkiri",
+          "TitleStyle": "Pealkirja stiil"
+        },
+        "SocialBlock": {
+          "Title": "Sotsiaalne",
+          "EnableComment": "Luba kommentaarid",
+          "ReadOnlyMode": "Vaata ainult lugemisrežiimis",
+          "SortComment": "Sorteeri kommentaar",
+          "RenderMode": {
+            "FullView": "Täisvaade",
+            "NewComments": "Uued kommentaarid"
+          },
+          "HideNewCommentsAfterReading": "Peida uued kommentaarid pärast lugemist"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Tegevusnupud"
+        },
+        "DateRangeBlock": {
+          "Title": "Kuupäevavahemik",
+          "To": "Kuni",
+          "Form": "Vorm",
+          "MonthTextStyle": "Kuu teksti stiil",
+          "DateTextStyle": "Kuupäeva teksti stiil"
+        },
+        "RowBlock": {
+          "Title": "Rida",
+          "NewItemIndicator": "Näita uue elemendi indikaatorit vasakul"
+        },
+        "ColumnBlock": {
+          "Title": "Veerg"
+        },
+        "LikeButtonBlock": {
+          "Title": "Meeldimise nupp",
+          "RenderMode": {
+            "CompactView": "Kompaktne vaade",
+            "DetailView": "Detailvaade"
+          },
+          "TextStyle": "Teksti stiil",
+          "IconAndTextColor": "Ikoni ja teksti värv"
+        },
+        "CommentCountBlock": {
+          "Title": "Kommentaaride arv",
+          "RenderMode": {
+            "CompactView": "Kompaktne vaade"
+          },
+          "IconAndTextColor": "Ikoni ja teksti värv"
+        },
+        "ShareButtonBlock": {
+          "Title": "Jaga nupp",
+          "IconSize": "Ikoni suurus"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompaktne ainult lugemiseks",
+            "Full": "Täis"
+          },
+          "Title": "Lisa lemmiknupp",
+          "AddLabel": "Lisa silt",
+          "RemoveLabel": "Eemalda silt",
+          "LinkCategory": "Lingikategooria"
+        },
+        "AgendaBlock": {
+          "Title": "Päevakord",
+          "RenderMode": {
+            "DayInWeek": "Päev nädalas"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Nädala algus",
+              "Options": {
+                "Mon": "Esmaspäev",
+                "Sun": "Pühapäev",
+                "Sat": "Laupäev"
+              }
+            },
+            "Monday": "Esmaspäev",
+            "Tuesday": "Teisipäev",
+            "Wednesday": "Kolmapäev",
+            "Thursday": "Neljapäev",
+            "Friday": "Reede",
+            "Saturday": "Laupäev",
+            "Sunday": "Pühapäev"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galerii indikaator"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Mängi videot nupp",
+          "BackgroundColor": "Taustavärv",
+          "IconColor": "Ikoni värv",
+          "IconSize": "Ikoni suurus"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variatsiooni valija",
+          "TextStyleInput": "Teksti stiilileht",
+          "ListStyleInput": "Loendi konteineri stiilileht"
+        },
+        "BannerBlock": {
+          "Title": "Bänner",
+          "LayoutRenderMode": {
+            "Title": "Paigutus",
+            "ImageOnTop": "Pilt peal",
+            "TitleAndContentOnImage": "Pealkiri ja sisu pildil",
+            "TitleOnImage": "Pealkiri pildil"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "KKK/Akordion",
+          "HeaderStyle": "Pealkirja stiil",
+          "ContentStyle": "Sisu stiil"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Väljalogimise taotluse tegevus",
+          "IconPositionOption": {
+            "Title": "Ikoni asend",
+            "LeftOfText": "Teksti vasakul",
+            "RightOfText": "Teksti paremal"
+          },
+          "ConfirmLabel": "Kinnita silt",
+          "TextStyleInput": "Teksti stiilileht"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Paigutust ei ole määratletud",
+        "Dialog": {
+          "ConfirmCancellation": "Kinnita tühistamine",
+          "DiscardAllChanges": "Kas soovite kõik muudatused tagasi lükata?",
+          "ConfirmSave": "Kinnita salvestamine",
+          "SaveWithoutChanges": "Te ei ole teinud uusi muudatusi. Kas soovite ikkagi salvestada?",
+          "ConfirmPublishing": "Kinnita avaldamine",
+          "PublishLayout": "Kas soovite avaldada paigutuse versiooni {version}?"
+        },
+        "Previewers": "Eelvaatajad",
+        "SelectUserToPreviewTheLayout": "Valige kasutaja paigutuse eelvaateks",
+        "LayoutTemplatesTooltip": "Paigutuse mallid",
+        "ImportLayoutTooltip": "Impordi paigutus",
+        "NoDefinitionToExport": "Eksporditavaid määratlusandmeid ei ole.",
+        "ExportLayoutTooltip": "Ekspordi paigutus",
+        "ExportErrorMessage": "Paigutuse määratluse eksportimisel tekkis viga.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Peate lisama vähemalt ühe lehe tüübi."
+        },
+        "LayoutImportTitle": "Paigutuse import",
+        "InvalidLayoutFile": "Vale paigutuse fail.",
+        "NoFileSelected": "Faili ei ole valitud.",
+        "DeletedLayout": "Kustutatud paigutus"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Nulli",
+          "LayoutEngine": {
+            "textLayoutName": "Paigutuse nimi:",
+            "textUseLayoutEngine": "Kasutage paigutuse mootorit",
+            "textNoLayoutData": "Paigutuse andmeid ei ole!",
+            "textBusinessProfileUsesLayoutEngine": "Äriprofiil kasutab paigutuse mootorit.",
+            "textOverrideDefaultLayout": "Ülekirjuta paigutus kõigi uudiste elementide jaoks"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "See leht on kustutatud.",
+          "textDocumentIsNotAvailableMessage": "See dokument ei ole saadaval. Kui see on uus dokument, oodake paar minutit ja proovige uuesti. Vastasel juhul võib dokument olla kustutatud."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "See taotlus, mis saadeti teile {requestedBy} poolt {requestTime}, on suletud."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Loendi vaade koos Feed info",
+          "View": {
+            "Header": "Feed info",
+            "Dialog": {
+              "Title": "Omnia Feed avaldamise info",
+              "Content": {
+                "FeedInfoForPage": "Info lehe kohta",
+                "PublishStatus": {
+                  "Title": "Avaldamise olek",
+                  "Value": {
+                    "Delivered": "Kohaletoimetatud",
+                    "Failed": "Ebaõnnestunud",
+                    "NoInfo": "Ei ole infot",
+                    "Processing": "Töötlemisel",
+                    "Scheduled": "Ajastatud"
+                  }
+                },
+                "NumberOfUsersReached": "Kasutajate arv, kellele on jõudnud",
+                "TimeDeliveredToAllUsers": "Aeg, mil kõikidele kasutajatele toimetati",
+                "TimeDeliveredToActiveUsers": "Aeg, mil aktiivsetele kasutajatele toimetati",
+                "TimeProcessingPage": "Töötlemine algas",
+                "TimeScheduled": "Ajastatud",
+                "Message": {
+                  "NoInfo": "See leht ei ole praeguse konfiguratsiooni all Omnia Feed'i sünkroniseeritud.",
+                  "Error": "Sünkroonimisprotsessis on probleem. Palun kontrollige allolevat logi."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Äriprofiil, et saada infot"
+            }
+          }
+        }
+      }
+    }
+  }
+}
