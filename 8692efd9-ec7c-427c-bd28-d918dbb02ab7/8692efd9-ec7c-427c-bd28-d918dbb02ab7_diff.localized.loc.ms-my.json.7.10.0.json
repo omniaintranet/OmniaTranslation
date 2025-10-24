@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Hantar pemberitahuan peringatan",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Hantar pemberitahuan kepada pengguna yang belum menyelesaikan permintaan apabila ia ditutup."
+        }
+      },
+      "Submenu": {
+        "Layout": "Tetapan susun atur"
+      },
+      "TabSections": {
+        "DataMapping": "Pemetaan data",
+        "AddLayouts": "Tambah susun atur"
+      },
+      "Buttons": {
+        "AddLayout": "Tambah susun atur",
+        "RemoveLayout": "Buang susun atur",
+        "AddPageType": "Tambah jenis halaman",
+        "Cancel": "Batal",
+        "CreateDraft": "Buat draf",
+        "Import": "Import",
+        "Export": "Eksport",
+        "View": "Lihat"
+      },
+      "Settings": {
+        "HeaderTextColor": "Warna teks tajuk",
+        "DefaultChannel": "Saluran lalai",
+        "TenantScopeQuery": "Pertanyaan skop penyewa",
+        "EnableLayoutEngine": "Aktifkan enjin susun atur",
+        "AddScopeQuery": "Tambah pertanyaan skop",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Apabila pengguna dipaksa keluar dari OFMC",
+            "Description": "Tetapkan semula data pada aplikasi mudah alih tetapi kekalkan keadaan log masuk"
+          }
+        },
+        "SortByItemDate": "Tarikh Item (terbina dalam Feed)",
+        "PageType": "Jenis halaman",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Tambah atau Kemas kini",
+          "Delete": "Padam",
+          "AutomaticPageTranslationFinished": "PenterjemahanHalamanVariasi"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Belum bermula",
+            "InProgress": "Sedang berlangsung",
+            "Completed": "Selesai"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL tidak sah atau hilang dalam bahagian Kandungan.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Adakah anda benar-benar pasti ingin mencuba semula penyelarasan pengguna?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Pindahkan tetapan tab",
+            "Message": "Adakah anda ingin memindahkan tab pertanyaan kepada tab pertanyaan berganda?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Pindahkan item berita"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Pemilih jenis halaman",
+          "BlocksPicker": "Pemilih blok",
+          "SelectPageType": "Pilih jenis halaman",
+          "Block": "Blok",
+          "SelectChildBlock": "Pilih blok anak",
+          "SelectEnterpriseProperties": "Pilih sifat perusahaan",
+          "DragAndDrop": "Seret dan lepas",
+          "PageTypes": "Jenis halaman",
+          "LayoutName": "Nama susun atur",
+          "BlockTitle": "Tajuk blok",
+          "ChildBlocks": "Blok anak",
+          "LayoutNameIsRequired": "Nama susun atur diperlukan",
+          "CustomStyleSheet": "Gaya Lembaran Gaya Kustom",
+          "ThisBlockIsRequired": "Blok ini diperlukan",
+          "Default": "Lalai",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Padam definisi susun atur",
+            "MessageDeleteLayoutDefinition": "Adakah anda ingin memadam definisi susun atur ini?",
+            "TitleDeleteBlock": "Padam blok",
+            "MessageDeleteBlock": "Adakah anda ingin memadam blok ini?",
+            "TitleRemovePageType": "Buang jenis halaman",
+            "MessageRemovePageType": "Adakah anda ingin membuang jenis halaman ini dalam susun atur?",
+            "TitleActivateLayoutEngineMigration": "Aktifkan migrasi enjin susun atur",
+            "MessgeActivateLayoutEngineMigration": "Adakah anda ingin mengaktifkan migrasi enjin susun atur?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Apabila anda mengklik butang di bawah, artikel berita yang berkaitan dengan profil perniagaan ini akan dipindahkan menggunakan enjin susun atur. Proses ini mungkin mengambil masa untuk diselesaikan dan tidak boleh dibalikkan.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Profil perniagaan ini telah mengaktifkan enjin susun atur.",
+          "MigrationProcess": "Pindahkan artikel berita untuk profil perniagaan ini sedang berjalan",
+          "ActivateLayoutEngineMigration": "Aktifkan migrasi enjin susun atur"
+        },
+        "EventsFilter": {
+          "Title": "Penapis acara whitelist",
+          "EnableEventsFilter": "Aktifkan penapis acara",
+          "Radio": {
+            "Hint": "Tukar antara mod whitelist dan mod blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Mod penapis",
+            "BusinessProfile": "Profil perniagaan",
+            "PublishingApp": "Aplikasi penerbitan",
+            "PageCollection": "Koleksi halaman",
+            "BusinessProfileInputLabel": "Profil perniagaan",
+            "PublishingAppInputLabel": "Aplikasi penerbitan"
+          }
+        },
+        "PreviewTab": "Tab pratonton"
+      },
+      "Common": {
+        "VersionHistory": "Sejarah Versi"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Anda perlu menambah sekurang-kurangnya satu susun atur.",
+          "NoLayoutSelectedValidateMessage": "Anda perlu menambah sekurang-kurangnya satu susun atur dalam bahagian Paparan."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Mod render"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Mod render imej",
+            "ThumbnailMode": "Mod thumbnail",
+            "DetailMode": "Mod butiran"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Tag",
+          "DisplayMode": {
+            "Title": "Mod paparan",
+            "Text": "Teks",
+            "Chip": "Chip"
+          },
+          "NewTag": "Baru",
+          "FixedValue": "Nilai tetap",
+          "SignOffRequestTag": "Permintaan pengesahan",
+          "TagContainerStyle": "Gaya bekas tag"
+        },
+        "TextBlock": {
+          "Title": "Teks",
+          "DefaultContent": "Kandungan lalai",
+          "LineLimit": "Had baris"
+        },
+        "HeadingBlock": {
+          "Title": "Tajuk",
+          "LineLimit": "Had baris"
+        },
+        "RichTextBlock": {
+          "Title": "Teks kaya"
+        },
+        "IdentityBlock": {
+          "Title": "Identiti",
+          "RenderMode": {
+            "DisplayName": "Nama paparan",
+            "DisplayNameWithAvatar": "Nama paparan dengan avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Tarikh",
+          "DateFormat": "Format tarikh",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Teks",
+            "CalendarIconMode": "Ikon kalendar"
+          },
+          "MonthTextStyle": "Gaya teks bulan",
+          "DateTextStyle": "Gaya teks tarikh",
+          "TextStyle": "Gaya teks",
+          "InheritFromTenant": "Warisi dari penyewa",
+          "TheDateFormatIsIncorrect": "Format tarikh tidak betul."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Pautan berkaitan",
+          "IconAndTextColor": "Warna ikon dan teks",
+          "BlockTitle": "Tajuk",
+          "TitleStyle": "Gaya tajuk"
+        },
+        "SocialBlock": {
+          "Title": "Sosial",
+          "EnableComment": "Benarkan komen",
+          "ReadOnlyMode": "Lihat dalam mod baca sahaja",
+          "SortComment": "Susun komen",
+          "RenderMode": {
+            "FullView": "Paparan penuh",
+            "NewComments": "Komen baru"
+          },
+          "HideNewCommentsAfterReading": "Sembunyikan komen baru selepas dibaca"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Butang tindakan"
+        },
+        "DateRangeBlock": {
+          "Title": "Julat tarikh",
+          "To": "Ke",
+          "Form": "Borang",
+          "MonthTextStyle": "Gaya teks bulan",
+          "DateTextStyle": "Gaya teks tarikh"
+        },
+        "RowBlock": {
+          "Title": "Baris",
+          "NewItemIndicator": "Tunjukkan penunjuk item baru di sebelah kiri"
+        },
+        "ColumnBlock": {
+          "Title": "Kolum"
+        },
+        "LikeButtonBlock": {
+          "Title": "Butang suka",
+          "RenderMode": {
+            "CompactView": "Paparan padat",
+            "DetailView": "Paparan butiran"
+          },
+          "TextStyle": "Gaya teks",
+          "IconAndTextColor": "Warna ikon dan teks"
+        },
+        "CommentCountBlock": {
+          "Title": "Kiraan komen",
+          "RenderMode": {
+            "CompactView": "Paparan padat"
+          },
+          "IconAndTextColor": "Warna ikon dan teks"
+        },
+        "ShareButtonBlock": {
+          "Title": "Butang kongsi",
+          "IconSize": "Saiz ikon"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Baca sahaja padat",
+            "Full": "Penuh"
+          },
+          "Title": "Tambah sebagai butang Kegemaran",
+          "AddLabel": "Tambah label",
+          "RemoveLabel": "Buang label",
+          "LinkCategory": "Kategori pautan"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Hari Dalam Minggu"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Minggu bermula",
+              "Options": {
+                "Mon": "Isnin",
+                "Sun": "Ahad",
+                "Sat": "Sabtu"
+              }
+            },
+            "Monday": "Isnin",
+            "Tuesday": "Selasa",
+            "Wednesday": "Rabu",
+            "Thursday": "Khamis",
+            "Friday": "Jumaat",
+            "Saturday": "Sabtu",
+            "Sunday": "Ahad"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Penunjuk galeri"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Butang main video",
+          "BackgroundColor": "Warna latar belakang",
+          "IconColor": "Warna ikon",
+          "IconSize": "Saiz ikon"
+        },
+        "VariationPickerBlock": {
+          "Title": "Pemilih variasi",
+          "TextStyleInput": "Lembaran gaya teks",
+          "ListStyleInput": "Lembaran gaya bekas senarai"
+        },
+        "BannerBlock": {
+          "Title": "Sepanduk",
+          "LayoutRenderMode": {
+            "Title": "Susun atur",
+            "ImageOnTop": "Imej di atas",
+            "TitleAndContentOnImage": "Tajuk dan kandungan pada imej",
+            "TitleOnImage": "Tajuk pada imej"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "Soalan Lazim/Accordion",
+          "HeaderStyle": "Gaya tajuk",
+          "ContentStyle": "Gaya kandungan"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Tindakan permintaan pengesahan",
+          "IconPositionOption": {
+            "Title": "Kedudukan ikon",
+            "LeftOfText": "Kiri teks",
+            "RightOfText": "Kanan teks"
+          },
+          "ConfirmLabel": "Label pengesahan",
+          "TextStyleInput": "Lembaran gaya teks"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Tiada susun atur ditakrifkan",
+        "Dialog": {
+          "ConfirmCancellation": "Sahkan pembatalan",
+          "DiscardAllChanges": "Adakah anda ingin membuang semua perubahan?",
+          "ConfirmSave": "Sahkan simpan",
+          "SaveWithoutChanges": "Anda belum membuat sebarang perubahan baru. Adakah anda masih ingin menyimpan?",
+          "ConfirmPublishing": "Sahkan penerbitan",
+          "PublishLayout": "Adakah anda ingin menerbitkan versi susun atur {version}?"
+        },
+        "Previewers": "Pratonton",
+        "SelectUserToPreviewTheLayout": "Pilih pengguna untuk pratonton susun atur",
+        "LayoutTemplatesTooltip": "Templat susun atur",
+        "ImportLayoutTooltip": "Import susun atur",
+        "NoDefinitionToExport": "Tiada data definisi untuk dieksport.",
+        "ExportLayoutTooltip": "Eksport susun atur",
+        "ExportErrorMessage": "Ralat berlaku semasa mengeksport definisi susun atur.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Anda perlu menambah sekurang-kurangnya satu jenis halaman."
+        },
+        "LayoutImportTitle": "Import susun atur",
+        "InvalidLayoutFile": "Fail susun atur tidak sah.",
+        "NoFileSelected": "Tiada fail dipilih.",
+        "DeletedLayout": "Susun atur yang dipadam"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Tetapkan semula",
+          "LayoutEngine": {
+            "textLayoutName": "Nama susun atur:",
+            "textUseLayoutEngine": "Gunakan enjin susun atur",
+            "textNoLayoutData": "Tiada data susun atur!",
+            "textBusinessProfileUsesLayoutEngine": "Profil perniagaan menggunakan enjin susun atur.",
+            "textOverrideDefaultLayout": "Gantikan susun atur untuk semua item berita"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Halaman ini telah dipadam.",
+          "textDocumentIsNotAvailableMessage": "Dokumen ini tidak tersedia. Jika ia adalah dokumen baru, sila tunggu beberapa minit dan cuba lagi. Jika tidak, dokumen mungkin telah dipadam."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Permintaan ini yang dihantar kepada anda dari {requestedBy} pada {requestTime} telah ditutup."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Paparan senarai dengan maklumat Feed",
+          "View": {
+            "Header": "Maklumat Feed",
+            "Dialog": {
+              "Title": "Maklumat penerbitan Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Maklumat untuk halaman",
+                "PublishStatus": {
+                  "Title": "Status penerbitan",
+                  "Value": {
+                    "Delivered": "Dihantar",
+                    "Failed": "Gagal",
+                    "NoInfo": "Tiada maklumat",
+                    "Processing": "Sedang diproses",
+                    "Scheduled": "Dijadualkan"
+                  }
+                },
+                "NumberOfUsersReached": "Bilangan pengguna yang dicapai",
+                "TimeDeliveredToAllUsers": "Masa dihantar kepada semua pengguna",
+                "TimeDeliveredToActiveUsers": "Masa dihantar kepada pengguna aktif",
+                "TimeProcessingPage": "Mula memproses pada",
+                "TimeScheduled": "Dijadualkan pada",
+                "Message": {
+                  "NoInfo": "Halaman ini tidak diselaraskan ke dalam Omnia Feed di bawah konfigurasi semasa.",
+                  "Error": "Terdapat masalah dengan proses penyelarasan. Sila semak log di bawah."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Profil perniagaan untuk mendapatkan maklumat"
+            }
+          }
+        }
+      }
+    }
+  }
+}
