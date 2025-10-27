@@ -3,12 +3,12 @@
     "Feed": {
       "Notification": {
         "NotificationConfig": {
-          "ReminderNotification": "Send påmindelsesnotifikation",
+          "ReminderNotification": "Send notifikation med påmindelse",
           "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send en notifikation til brugere, der ikke har fuldført anmodningen, når den lukkes."
         }
       },
       "Submenu": {
-        "Layout": "Layoutindstillinger"
+        "Layout": "Layout"
       },
       "TabSections": {
         "DataMapping": "Datatilknytning",
@@ -17,7 +17,7 @@
       "Buttons": {
         "AddLayout": "Tilføj layout",
         "RemoveLayout": "Fjern layout",
-        "AddPageType": "Tilføj side type",
+        "AddPageType": "Tilføj sidetype",
         "Cancel": "Annuller",
         "CreateDraft": "Opret udkast",
         "Import": "Importér",
@@ -27,21 +27,21 @@
       "Settings": {
         "HeaderTextColor": "Header tekstfarve",
         "DefaultChannel": "Standardkanal",
-        "TenantScopeQuery": "Lejer omfang forespørgsel",
+        "TenantScopeQuery": "Tenant-forespørgsel",
         "EnableLayoutEngine": "Aktivér layoutmotor",
-        "AddScopeQuery": "Tilføj omfang forespørgsel",
+        "AddScopeQuery": "Tilføj forespørgsel",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
-            "Title": "Når brugeren tvinges til at logge ud i OFMC",
+            "Title": "Når brugeren tvinges til at logge ud (OFMC)",
             "Description": "Nulstil data på mobilappen, men behold loginstatus"
           }
         },
-        "SortByItemDate": "Elementdato (Feed indbygget)",
-        "PageType": "Side type",
+        "SortByItemDate": "Dato (Indbygget datofelt i Omnia Feed)",
+        "PageType": "Sidetype",
         "ServerDetectionModes": {
-          "AddOrUpdate": "TilføjEllerOpdater",
+          "AddOrUpdate": "AddOrUpdate",
           "Delete": "Slet",
-          "AutomaticPageTranslationFinished": "VariationSideOversættelse"
+          "AutomaticPageTranslationFinished": "VariationPageTranslation"
         },
         "SignOffRequest": {
           "Progress": {
@@ -58,38 +58,38 @@
         },
         "MigrateQueryTabToMultipleQueryTab": {
           "Dialog": {
-            "Title": "Migrer fanebladindstillinger",
-            "Message": "Vil du migrere forespørgselsfaneblad til flere forespørgselsfaneblade?"
+            "Title": "Migrer indstillingerne for fane",
+            "Message": "Vil du migrere indstillingerne til en fane med multiple forespørgsler?"
           }
         },
         "MigrateNewsItem": {
           "Title": "Migrer nyhedsartikel"
         },
         "RicherContent": {
-          "PageTypePicker": "Side type vælger",
-          "BlocksPicker": "Blokke vælger",
-          "SelectPageType": "Vælg side type",
+          "PageTypePicker": "Sidetypevælger",
+          "BlocksPicker": "Blokvælger",
+          "SelectPageType": "Vælg sidetype",
           "Block": "Blok",
           "SelectChildBlock": "Vælg en underblok",
-          "SelectEnterpriseProperties": "Vælg virksomhedsegenskaber",
-          "DragAndDrop": "Træk og slip",
-          "PageTypes": "Side typer",
-          "LayoutName": "Layout navn",
-          "BlockTitle": "Blok titel",
+          "SelectEnterpriseProperties": "Vælg egenskaber",
+          "DragAndDrop": "Drag and drop",
+          "PageTypes": "Sidetyper",
+          "LayoutName": "Layoutnavn",
+          "BlockTitle": "Bloktitel",
           "ChildBlocks": "Underblokke",
-          "LayoutNameIsRequired": "Layout navn er påkrævet",
+          "LayoutNameIsRequired": "Layoutnavn er påkrævet",
           "CustomStyleSheet": "Brugerdefineret stylesheet",
           "ThisBlockIsRequired": "Denne blok er påkrævet",
           "Default": "Standard",
           "Dialog": {
-            "TitleDeleteLayoutDefinition": "Slet layoutdefinition",
-            "MessageDeleteLayoutDefinition": "Vil du slette denne layoutdefinition?",
+            "TitleDeleteLayoutDefinition": "Slet layout",
+            "MessageDeleteLayoutDefinition": "Vil du slette denne layout?",
             "TitleDeleteBlock": "Slet blok",
             "MessageDeleteBlock": "Vil du slette denne blok?",
-            "TitleRemovePageType": "Fjern side type",
-            "MessageRemovePageType": "Vil du fjerne denne side type i layout?",
-            "TitleActivateLayoutEngineMigration": "Aktivér layoutmotor migration",
-            "MessgeActivateLayoutEngineMigration": "Vil du aktivere layoutmotor migration?"
+            "TitleRemovePageType": "Fjern sidetype",
+            "MessageRemovePageType": "Vil du fjerne denne sidetype?",
+            "TitleActivateLayoutEngineMigration": "Aktivér layoutmigrering",
+            "MessgeActivateLayoutEngineMigration": "Vil du aktivere layoutmigrering?"
           },
           "DescriptionOfActivateLayoutEngineMigration": "Når du klikker på knappen nedenfor, vil nyhedsartikler tilknyttet denne forretningsprofil blive migreret ved hjælp af layoutmotoren. Denne proces kan tage noget tid at fuldføre og kan ikke fortrydes.",
           "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denne forretningsprofil har aktiveret layoutmotoren.",
@@ -106,14 +106,14 @@
           },
           "FilterMode": {
             "Label": "Filtertilstand",
-            "BusinessProfile": "Forretningsprofil",
-            "PublishingApp": "Udgivelsesapp",
-            "PageCollection": "Side samling",
-            "BusinessProfileInputLabel": "Forretningsprofiler",
-            "PublishingAppInputLabel": "Udgivelsesapps"
+            "BusinessProfile": "Virksomhedsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidebibliotek",
+            "BusinessProfileInputLabel": "Virksomhedsprofiler",
+            "PublishingAppInputLabel": "Publiceringsapps"
           }
         },
-        "PreviewTab": "Forhåndsvisningsfaneblad"
+        "PreviewTab": "Fane med preview"
       },
       "Common": {
         "VersionHistory": "Versionshistorik"
@@ -133,40 +133,40 @@
         "MediaBlock": {
           "Title": "Media",
           "RenderMode": {
-            "Title": "Billede renderingsmode",
-            "ThumbnailMode": "Miniaturemode",
-            "DetailMode": "Detaljemode"
+            "Title": "Rendering af billede",
+            "ThumbnailMode": "Miniature",
+            "DetailMode": "Detaljeret"
           }
         },
         "TagsBlock": {
           "Title": "Tags",
           "DisplayMode": {
-            "Title": "Visningsmode",
+            "Title": "Visning",
             "Text": "Tekst",
             "Chip": "Chip"
           },
           "NewTag": "Ny",
           "FixedValue": "Fast værdi",
-          "SignOffRequestTag": "Godkendelsesanmodning",
+          "SignOffRequestTag": "Anmodning om godkendelse",
           "TagContainerStyle": "Tag container stil"
         },
         "TextBlock": {
           "Title": "Tekst",
           "DefaultContent": "Standardindhold",
-          "LineLimit": "Linjegrænse"
+          "LineLimit": "Maks. antal linjer"
         },
         "HeadingBlock": {
           "Title": "Overskrift",
-          "LineLimit": "Linjegrænse"
+          "LineLimit": "Maks. antal linjer"
         },
         "RichTextBlock": {
-          "Title": "Rigt tekst"
+          "Title": "Rich Text"
         },
         "IdentityBlock": {
           "Title": "Identitet",
           "RenderMode": {
-            "DisplayName": "Visningsnavn",
-            "DisplayNameWithAvatar": "Visningsnavn med avatar",
+            "DisplayName": "Navn",
+            "DisplayNameWithAvatar": "Navn med avatar",
             "Avatar": "Avatar"
           }
         },
@@ -178,10 +178,10 @@
             "TextMode": "Tekst",
             "CalendarIconMode": "Kalenderikon"
           },
-          "MonthTextStyle": "Måned tekst stil",
-          "DateTextStyle": "Dato tekst stil",
-          "TextStyle": "Tekst stil",
-          "InheritFromTenant": "Arv fra lejer",
+          "MonthTextStyle": "Måned tekstformat",
+          "DateTextStyle": "Dato tekstformat",
+          "TextStyle": "Tekstformat",
+          "InheritFromTenant": "Arv fra tenant",
           "TheDateFormatIsIncorrect": "Datoformatet er ikke korrekt."
         },
         "RelatedLinksBlock": {
@@ -194,9 +194,9 @@
           "Title": "Social",
           "EnableComment": "Tillad kommentarer",
           "ReadOnlyMode": "Vis i skrivebeskyttet tilstand",
-          "SortComment": "Sorter kommentar",
+          "SortComment": "Sortér kommentar",
           "RenderMode": {
-            "FullView": "Fuldt view",
+            "FullView": "Fuld visning",
             "NewComments": "Nye kommentarer"
           },
           "HideNewCommentsAfterReading": "Skjul nye kommentarer efter læsning"
@@ -208,18 +208,18 @@
           "Title": "Datointerval",
           "To": "Til",
           "Form": "Form",
-          "MonthTextStyle": "Måned tekst stil",
-          "DateTextStyle": "Dato tekst stil"
+          "MonthTextStyle": "Måned tekstformat",
+          "DateTextStyle": "Dato tekstformat"
         },
         "RowBlock": {
           "Title": "Række",
-          "NewItemIndicator": "Vis ny elementindikator til venstre"
+          "NewItemIndicator": "Vis indikator for nyt elementer til venstre"
         },
         "ColumnBlock": {
           "Title": "Kolonne"
         },
         "LikeButtonBlock": {
-          "Title": "Synes godt om knap",
+          "Title": "Synes-godt-om knap",
           "RenderMode": {
             "CompactView": "Kompakt visning",
             "DetailView": "Detaljeret visning"
