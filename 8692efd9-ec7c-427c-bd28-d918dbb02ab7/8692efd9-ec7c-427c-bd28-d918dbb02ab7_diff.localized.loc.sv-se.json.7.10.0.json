@@ -32,7 +32,7 @@
         "AddScopeQuery": "Lägg till sökfråga",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
-            "Title": "När användaren tvingas logga ut från OFMC",
+            "Title": "När OFMC-protokollet tvingar användaren att logga ut från ",
             "Description": "Återställ data i mobilappen men behåll inloggningsstatus"
           }
         },
