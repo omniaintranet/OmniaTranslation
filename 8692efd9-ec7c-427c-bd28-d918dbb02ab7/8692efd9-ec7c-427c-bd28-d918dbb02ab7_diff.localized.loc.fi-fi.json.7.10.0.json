@@ -11,7 +11,7 @@
         "Layout": "Asetteluasetukset"
       },
       "TabSections": {
-        "DataMapping": "Tietojen kartoitus",
+        "DataMapping": "Tietojen liittäminen",
         "AddLayouts": "Lisää asetteluja"
       },
       "Buttons": {
@@ -20,19 +20,19 @@
         "AddPageType": "Lisää sivutyyppi",
         "Cancel": "Peruuta",
         "CreateDraft": "Luo luonnos",
-        "Import": "Tuoda",
-        "Export": "Viedä",
+        "Import": "Tuo",
+        "Export": "Vie",
         "View": "Näytä"
       },
       "Settings": {
         "HeaderTextColor": "Otsikon tekstin väri",
         "DefaultChannel": "Oletuskanava",
-        "TenantScopeQuery": "Vuokralaislaajuuskysely",
+        "TenantScopeQuery": "Tenantin laajuinen kysely",
         "EnableLayoutEngine": "Ota käyttöön asettelumoottori",
         "AddScopeQuery": "Lisää laajuuskysely",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
-            "Title": "Kun käyttäjä pakotetaan kirjautumaan ulos OFMC:ssä",
+            "Title": "Milloin käyttäjä pakotetaan kirjautumaan ulos OFMC:ssä",
             "Description": "Nollaa tiedot mobiilisovelluksessa, mutta säilytä kirjautumistila"
           }
         },
@@ -50,7 +50,7 @@
             "Completed": "Valmis"
           }
         },
-        "InvalidUrlInContentSectionValidateMessage": "Virheellinen tai puuttuva URL-osoite sisällön osiossa.",
+        "InvalidUrlInContentSectionValidateMessage": "Virheellinen tai puuttuva URL-osoite sisältöosiossa.",
         "ResyncUsers": {
           "Dialog": {
             "MessageRetryResyncAllUsers": "Oletko todella varma, että haluat yrittää synkronoida käyttäjät uudelleen?"
@@ -74,16 +74,16 @@
           "SelectEnterpriseProperties": "Valitse yritysominaisuudet",
           "DragAndDrop": "Vedä ja pudota",
           "PageTypes": "Sivutyypit",
-          "LayoutName": "Asettelu nimi",
+          "LayoutName": "Asettelun nimi",
           "BlockTitle": "Blokin otsikko",
           "ChildBlocks": "Aliblokit",
-          "LayoutNameIsRequired": "Asettelu nimi on pakollinen",
+          "LayoutNameIsRequired": "Asettelun nimi on pakollinen",
           "CustomStyleSheet": "Mukautettu tyylitiedosto",
           "ThisBlockIsRequired": "Tämä blokki on pakollinen",
           "Default": "Oletus",
           "Dialog": {
-            "TitleDeleteLayoutDefinition": "Poista asettelun määritelmä",
-            "MessageDeleteLayoutDefinition": "Haluatko poistaa tämän asettelun määritelmän?",
+            "TitleDeleteLayoutDefinition": "Poista asettelumäärittely",
+            "MessageDeleteLayoutDefinition": "Haluatko poistaa tämän asettelumäärittelyn?",
             "TitleDeleteBlock": "Poista blokki",
             "MessageDeleteBlock": "Haluatko poistaa tämän blokin?",
             "TitleRemovePageType": "Poista sivutyyppi",
@@ -97,7 +97,7 @@
           "ActivateLayoutEngineMigration": "Ota käyttöön asettelumoottorin siirto"
         },
         "EventsFilter": {
-          "Title": "Valkoisen listan tapahtumien suodatin",
+          "Title": "Sallitun listan tapahtumien suodatin",
           "EnableEventsFilter": "Ota käyttöön tapahtumien suodatin",
           "Radio": {
             "Hint": "Vaihda valkoisen listan ja mustan listan tilan välillä",
@@ -105,7 +105,7 @@
             "Whitelist": "Valkoinen lista"
           },
           "FilterMode": {
-            "Label": "Suodatin tila",
+            "Label": "Suodatustila",
             "BusinessProfile": "Liiketoimintaprofiili",
             "PublishingApp": "Julkaisusovellus",
             "PageCollection": "Sivukokoelma",
@@ -127,14 +127,14 @@
       "Blocks": {
         "Common": {
           "RenderMode": {
-            "Title": "Renderointitila"
+            "Title": "Renderöintitila"
           }
         },
         "MediaBlock": {
           "Title": "Media",
           "RenderMode": {
-            "Title": "Kuvan renderointitila",
-            "ThumbnailMode": "Pikkukuva tila",
+            "Title": "Kuvan renderöintitila",
+            "ThumbnailMode": "Esikatselukuvatila",
             "DetailMode": "Yksityiskohtainen tila"
           }
         },
@@ -148,7 +148,7 @@
           "NewTag": "Uusi",
           "FixedValue": "Kiinteä arvo",
           "SignOffRequestTag": "Hyväksyntäpyyntö",
-          "TagContainerStyle": "Tunnisteen säiliön tyyli"
+          "TagContainerStyle": "Tunnisteen elementin tyyli"
         },
         "TextBlock": {
           "Title": "Teksti",
@@ -181,7 +181,7 @@
           "MonthTextStyle": "Kuukauden tekstityyli",
           "DateTextStyle": "Päivämäärän tekstityyli",
           "TextStyle": "Tekstityyli",
-          "InheritFromTenant": "Peri vuokralaiselta",
+          "InheritFromTenant": "Peri tenant-tasolta",
           "TheDateFormatIsIncorrect": "Päivämäärämuoto ei ole oikea."
         },
         "RelatedLinksBlock": {
@@ -191,10 +191,10 @@
           "TitleStyle": "Otsikkotyyli"
         },
         "SocialBlock": {
-          "Title": "Sosiaalinen",
+          "Title": "Sosiaaliset ominaisuudet",
           "EnableComment": "Salli kommentit",
           "ReadOnlyMode": "Näytä vain luku -tilassa",
-          "SortComment": "Lajittele kommentti",
+          "SortComment": "Lajittele kommentit",
           "RenderMode": {
             "FullView": "Koko näkymä",
             "NewComments": "Uudet kommentit"
@@ -236,20 +236,20 @@
         },
         "ShareButtonBlock": {
           "Title": "Jaa-painike",
-          "IconSize": "Kuvakoko"
+          "IconSize": "Kuvakekoko"
         },
         "AddFavoriteButtonBlock": {
           "RenderMode": {
-            "CompactReadonly": "Kompakti vain luku",
+            "CompactReadonly": "Kompakti, vain luku",
             "Full": "Koko"
           },
           "Title": "Lisää suosikiksi -painike",
-          "AddLabel": "Lisää etiketti",
-          "RemoveLabel": "Poista etiketti",
+          "AddLabel": "Lisää tunniste",
+          "RemoveLabel": "Poista tunniste",
           "LinkCategory": "Linkkikategoria"
         },
         "AgendaBlock": {
-          "Title": "Agendat",
+          "Title": "Agenda",
           "RenderMode": {
             "DayInWeek": "Päivä viikossa"
           },
@@ -278,24 +278,24 @@
           "Title": "Toista video -painike",
           "BackgroundColor": "Taustaväri",
           "IconColor": "Kuvakeväri",
-          "IconSize": "Kuvakoko"
+          "IconSize": "Kuvakekoko"
         },
         "VariationPickerBlock": {
           "Title": "Variaation valitsin",
           "TextStyleInput": "Tekstityylitiedosto",
-          "ListStyleInput": "Luettelon säiliön tyylitiedosto"
+          "ListStyleInput": "Luettelon elementin tyylitiedosto"
         },
         "BannerBlock": {
           "Title": "Banneri",
           "LayoutRenderMode": {
             "Title": "Asettelu",
-            "ImageOnTop": "Kuva päällä",
+            "ImageOnTop": "Kuva yllä",
             "TitleAndContentOnImage": "Otsikko ja sisältö kuvassa",
             "TitleOnImage": "Otsikko kuvassa"
           }
         },
         "AccordionBlock": {
-          "Title": "UKK/Accordion",
+          "Title": "UKK/Haitari",
           "HeaderStyle": "Otsikkotyyli",
           "ContentStyle": "Sisältötyyli"
         },
@@ -306,7 +306,7 @@
             "LeftOfText": "Tekstin vasemmalla puolella",
             "RightOfText": "Tekstin oikealla puolella"
           },
-          "ConfirmLabel": "Vahvista etiketti",
+          "ConfirmLabel": "Vahvistuksen selite",
           "TextStyleInput": "Tekstityylitiedosto"
         }
       },
@@ -322,15 +322,15 @@
         },
         "Previewers": "Esikatselijat",
         "SelectUserToPreviewTheLayout": "Valitse käyttäjä esikatsellaksesi asettelua",
-        "LayoutTemplatesTooltip": "Asettelu mallit",
+        "LayoutTemplatesTooltip": "Asettelumallit",
         "ImportLayoutTooltip": "Tuo asettelu",
-        "NoDefinitionToExport": "Ei vientimääritelmädataa.",
+        "NoDefinitionToExport": "Ei määrittelydataa vietäväksi.",
         "ExportLayoutTooltip": "Vie asettelu",
-        "ExportErrorMessage": "Virhe tapahtui asettelun määritelmän viemisessä.",
+        "ExportErrorMessage": "Virhe tapahtui asettelun määrittelyn viennissä.",
         "Validation": {
           "RequireAtLeastOnePageTypeAdded": "Sinun on lisättävä vähintään yksi sivutyyppi."
         },
-        "LayoutImportTitle": "Asettelu tuonti",
+        "LayoutImportTitle": "Asettelun tuonti",
         "InvalidLayoutFile": "Virheellinen asettelutiedosto.",
         "NoFileSelected": "Ei tiedostoa valittu.",
         "DeletedLayout": "Poistettu asettelu"
@@ -339,7 +339,7 @@
         "Commons": {
           "btnReset": "Nollaa",
           "LayoutEngine": {
-            "textLayoutName": "Asettelu nimi:",
+            "textLayoutName": "Asettelun nimi:",
             "textUseLayoutEngine": "Käytä asettelumoottoria",
             "textNoLayoutData": "Ei asettelutietoja!",
             "textBusinessProfileUsesLayoutEngine": "Liiketoimintaprofiili käyttää asettelumoottoria.",
