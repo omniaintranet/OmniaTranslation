@@ -29,7 +29,7 @@
         "DefaultChannel": "Oletuskanava",
         "TenantScopeQuery": "Tenantin laajuinen kysely",
         "EnableLayoutEngine": "Ota käyttöön asettelumoottori",
-        "AddScopeQuery": "Lisää laajuuskysely",
+        "AddScopeQuery": "Lisää kysely",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
             "Title": "Milloin käyttäjä pakotetaan kirjautumaan ulos OFMC:ssä",
@@ -39,9 +39,9 @@
         "SortByItemDate": "Kohteen päivämäärä (Syötteen sisäänrakennettu)",
         "PageType": "Sivutyyppi",
         "ServerDetectionModes": {
-          "AddOrUpdate": "Lisää tai päivitä",
-          "Delete": "Poista",
-          "AutomaticPageTranslationFinished": "VariaatioSivunKäännös"
+          "AddOrUpdate": "AddOrUpdate",
+          "Delete": "Delete",
+          "AutomaticPageTranslationFinished": "AutomaticPageTranslationFinished"
         },
         "SignOffRequest": {
           "Progress": {
@@ -356,11 +356,11 @@
       },
       "PageRollup": {
         "ListView": {
-          "Title": "Luettelonäkymä Syöte-tiedoin",
+          "Title": "Luettelonäkymä Feed-tiedoin",
           "View": {
-            "Header": "Syöte tiedot",
+            "Header": "Feed-tiedot",
             "Dialog": {
-              "Title": "Omnia Syöte julkaisu tiedot",
+              "Title": "Omnia Feed -julkaisutiedot",
               "Content": {
                 "FeedInfoForPage": "Tietoa sivusta",
                 "PublishStatus": {
@@ -374,12 +374,12 @@
                   }
                 },
                 "NumberOfUsersReached": "Saavutettujen käyttäjien määrä",
-                "TimeDeliveredToAllUsers": "Aika toimitettu kaikille käyttäjille",
-                "TimeDeliveredToActiveUsers": "Aika toimitettu aktiivisille käyttäjille",
+                "TimeDeliveredToAllUsers": "Toimitettu kaikille käyttäjille",
+                "TimeDeliveredToActiveUsers": "Toimitettu aktiivisille käyttäjille",
                 "TimeProcessingPage": "Käsittely alkoi",
                 "TimeScheduled": "Aikataulutettu",
                 "Message": {
-                  "NoInfo": "Tätä sivua ei ole synkronoitu Omnia Syötteeseen nykyisellä kokoonpanolla.",
+                  "NoInfo": "Tätä sivua ei ole synkronoitu Omnia Feed -sovellukseen nykyisellä kokoonpanolla.",
                   "Error": "Synkronointiprosessissa on ongelma. Tarkista alla oleva loki."
                 }
               }
