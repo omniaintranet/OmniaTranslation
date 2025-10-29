@@ -342,7 +342,7 @@
             "textLayoutName": "Layout navn:",
             "textUseLayoutEngine": "Brug layoutmotor",
             "textNoLayoutData": "Ingen layoutdata!",
-            "textBusinessProfileUsesLayoutEngine": "Forretningsprofil bruger layoutmotor.",
+            "textBusinessProfileUsesLayoutEngine": "Virksomhedsprofilen bruger layoutmotor.",
             "textOverrideDefaultLayout": "Overskriv layoutet for alle nyhedsartikler"
           }
         },
@@ -351,7 +351,7 @@
           "textDocumentIsNotAvailableMessage": "Dette dokument er ikke tilgængeligt. Hvis det er et nyt dokument, skal du vente et par minutter og prøve igen. Ellers kan dokumentet være blevet slettet."
         },
         "Notification": {
-          "ClosingSignOffRequest": "Denne anmodning sendt til dig fra {requestedBy} den {requestTime} er blevet lukket."
+          "ClosingSignOffRequest": "Anmodningen sendt til dig fra {requestedBy} den {requestTime} er blevet lukket."
         }
       },
       "PageRollup": {
@@ -360,11 +360,11 @@
           "View": {
             "Header": "Feed info",
             "Dialog": {
-              "Title": "Omnia Feed offentliggøre info",
+              "Title": "Info om Omnia Feed udgivelse",
               "Content": {
                 "FeedInfoForPage": "Info for side",
                 "PublishStatus": {
-                  "Title": "Offentliggøre status",
+                  "Title": "Status for udgivelse",
                   "Value": {
                     "Delivered": "Leveret",
                     "Failed": "Fejlet",
@@ -373,7 +373,7 @@
                     "Scheduled": "Planlagt"
                   }
                 },
-                "NumberOfUsersReached": "Antal brugere nået",
+                "NumberOfUsersReached": "Leveret til antal brugere",
                 "TimeDeliveredToAllUsers": "Tid leveret til alle brugere",
                 "TimeDeliveredToActiveUsers": "Tid leveret til aktive brugere",
                 "TimeProcessingPage": "Startede behandling kl.",
@@ -385,7 +385,7 @@
               }
             },
             "Settings": {
-              "ProfileToGetInfo": "Forretningsprofil for at få info"
+              "ProfileToGetInfo": "Virksomhedsprofil for at få info"
             }
           }
         }
