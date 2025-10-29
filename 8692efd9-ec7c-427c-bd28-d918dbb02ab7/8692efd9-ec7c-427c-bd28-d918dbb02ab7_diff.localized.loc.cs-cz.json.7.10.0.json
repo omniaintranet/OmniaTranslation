@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Odeslat připomínkovou notifikaci",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Odeslat notifikaci uživatelům, kteří nevyplnili žádost, když se uzavírá."
+        }
+      },
+      "Submenu": {
+        "Layout": "Nastavení rozložení"
+      },
+      "TabSections": {
+        "DataMapping": "Mapování dat",
+        "AddLayouts": "Přidat rozložení"
+      },
+      "Buttons": {
+        "AddLayout": "Přidat rozložení",
+        "RemoveLayout": "Odstranit rozložení",
+        "AddPageType": "Přidat typ stránky",
+        "Cancel": "Zrušit",
+        "CreateDraft": "Vytvořit koncept",
+        "Import": "Importovat",
+        "Export": "Exportovat",
+        "View": "Zobrazit"
+      },
+      "Settings": {
+        "HeaderTextColor": "Barva textu záhlaví",
+        "DefaultChannel": "Výchozí kanál",
+        "TenantScopeQuery": "Dotaz na rozsah nájemce",
+        "EnableLayoutEngine": "Povolit motor rozložení",
+        "AddScopeQuery": "Přidat dotaz na rozsah",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Když je uživatel nucen se odhlásit v OFMC",
+            "Description": "Resetovat data v mobilní aplikaci, ale zachovat stav přihlášení"
+          }
+        },
+        "SortByItemDate": "Datum položky (vestavěné krmivo)",
+        "PageType": "Typ stránky",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Přidat nebo aktualizovat",
+          "Delete": "Smazat",
+          "AutomaticPageTranslationFinished": "PřekladVariaceStránky"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nebylo zahájeno",
+            "InProgress": "Probíhá",
+            "Completed": "Dokončeno"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Neplatná nebo chybějící URL v sekci Obsah.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Opravdu si přejete znovu synchronizovat uživatele?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrace nastavení karty",
+            "Message": "Chcete migrovat dotazovou kartu na více dotazových karet?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrovat položku novinek"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Výběr typu stránky",
+          "BlocksPicker": "Výběr bloků",
+          "SelectPageType": "Vybrat typ stránky",
+          "Block": "Blok",
+          "SelectChildBlock": "Vybrat podblok",
+          "SelectEnterpriseProperties": "Vybrat podnikové vlastnosti",
+          "DragAndDrop": "Přetáhnout a pustit",
+          "PageTypes": "Typy stránek",
+          "LayoutName": "Název rozložení",
+          "BlockTitle": "Název bloku",
+          "ChildBlocks": "Podbloky",
+          "LayoutNameIsRequired": "Název rozložení je povinný",
+          "CustomStyleSheet": "Vlastní stylový list",
+          "ThisBlockIsRequired": "Tento blok je povinný",
+          "Default": "Výchozí",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Smazat definici rozložení",
+            "MessageDeleteLayoutDefinition": "Chcete smazat tuto definici rozložení?",
+            "TitleDeleteBlock": "Smazat blok",
+            "MessageDeleteBlock": "Chcete smazat tento blok?",
+            "TitleRemovePageType": "Odstranit typ stránky",
+            "MessageRemovePageType": "Chcete odstranit tento typ stránky v rozložení?",
+            "TitleActivateLayoutEngineMigration": "Aktivovat migraci motoru rozložení",
+            "MessgeActivateLayoutEngineMigration": "Chcete aktivovat migraci motoru rozložení?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Když kliknete na tlačítko níže, články novinek spojené s tímto obchodním profilem budou migrovány pomocí motoru rozložení. Tento proces může trvat nějakou dobu a nelze jej vrátit zpět.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Tento obchodní profil aktivoval motor rozložení.",
+          "MigrationProcess": "Migrace článků novinek pro tento obchodní profil probíhá",
+          "ActivateLayoutEngineMigration": "Aktivovat migraci motoru rozložení"
+        },
+        "EventsFilter": {
+          "Title": "Filtr událostí na bílé listině",
+          "EnableEventsFilter": "Povolit filtr událostí",
+          "Radio": {
+            "Hint": "Přepínání mezi režimem bílé listiny a černé listiny",
+            "Blacklist": "Černá listina",
+            "Whitelist": "Bílá listina"
+          },
+          "FilterMode": {
+            "Label": "Režim filtru",
+            "BusinessProfile": "Obchodní profil",
+            "PublishingApp": "Publikační aplikace",
+            "PageCollection": "Kolekce stránek",
+            "BusinessProfileInputLabel": "Obchodní profily",
+            "PublishingAppInputLabel": "Publikační aplikace"
+          }
+        },
+        "PreviewTab": "Náhledová karta"
+      },
+      "Common": {
+        "VersionHistory": "Historie verzí"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Musíte přidat alespoň jedno rozložení.",
+          "NoLayoutSelectedValidateMessage": "Musíte přidat alespoň jedno rozložení v sekci Zobrazení."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Režim vykreslování"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Média",
+          "RenderMode": {
+            "Title": "Režim vykreslování obrázků",
+            "ThumbnailMode": "Režim miniatur",
+            "DetailMode": "Režim detailu"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Štítky",
+          "DisplayMode": {
+            "Title": "Režim zobrazení",
+            "Text": "Text",
+            "Chip": "Čip"
+          },
+          "NewTag": "Nový",
+          "FixedValue": "Pevná hodnota",
+          "SignOffRequestTag": "Žádost o odhlášení",
+          "TagContainerStyle": "Styl kontejneru štítků"
+        },
+        "TextBlock": {
+          "Title": "Text",
+          "DefaultContent": "Výchozí obsah",
+          "LineLimit": "Limit řádků"
+        },
+        "HeadingBlock": {
+          "Title": "Nadpis",
+          "LineLimit": "Limit řádků"
+        },
+        "RichTextBlock": {
+          "Title": "Bohatý text"
+        },
+        "IdentityBlock": {
+          "Title": "Identita",
+          "RenderMode": {
+            "DisplayName": "Zobrazované jméno",
+            "DisplayNameWithAvatar": "Zobrazované jméno s avatarem",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Datum",
+          "DateFormat": "Formát data",
+          "Format": "Formát",
+          "RenderMode": {
+            "TextMode": "Text",
+            "CalendarIconMode": "Ikona kalendáře"
+          },
+          "MonthTextStyle": "Styl textu měsíce",
+          "DateTextStyle": "Styl textu data",
+          "TextStyle": "Styl textu",
+          "InheritFromTenant": "Dědit od nájemce",
+          "TheDateFormatIsIncorrect": "Formát data není správný."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Související odkazy",
+          "IconAndTextColor": "Barva ikony a textu",
+          "BlockTitle": "Název",
+          "TitleStyle": "Styl názvu"
+        },
+        "SocialBlock": {
+          "Title": "Sociální",
+          "EnableComment": "Povolit komentáře",
+          "ReadOnlyMode": "Zobrazit v režimu pouze pro čtení",
+          "SortComment": "Třídit komentář",
+          "RenderMode": {
+            "FullView": "Úplný pohled",
+            "NewComments": "Nové komentáře"
+          },
+          "HideNewCommentsAfterReading": "Skrýt nové komentáře po přečtení"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Akční tlačítka"
+        },
+        "DateRangeBlock": {
+          "Title": "Rozsah dat",
+          "To": "Do",
+          "Form": "Formulář",
+          "MonthTextStyle": "Styl textu měsíce",
+          "DateTextStyle": "Styl textu data"
+        },
+        "RowBlock": {
+          "Title": "Řádek",
+          "NewItemIndicator": "Zobrazit indikátor nového prvku vlevo"
+        },
+        "ColumnBlock": {
+          "Title": "Sloupec"
+        },
+        "LikeButtonBlock": {
+          "Title": "Tlačítko To se mi líbí",
+          "RenderMode": {
+            "CompactView": "Kompaktní zobrazení",
+            "DetailView": "Detailní zobrazení"
+          },
+          "TextStyle": "Styl textu",
+          "IconAndTextColor": "Barva ikony a textu"
+        },
+        "CommentCountBlock": {
+          "Title": "Počet komentářů",
+          "RenderMode": {
+            "CompactView": "Kompaktní zobrazení"
+          },
+          "IconAndTextColor": "Barva ikony a textu"
+        },
+        "ShareButtonBlock": {
+          "Title": "Tlačítko Sdílet",
+          "IconSize": "Velikost ikony"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompaktní pouze pro čtení",
+            "Full": "Úplný"
+          },
+          "Title": "Přidat jako oblíbené tlačítko",
+          "AddLabel": "Přidat štítek",
+          "RemoveLabel": "Odstranit štítek",
+          "LinkCategory": "Kategorie odkazu"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Den v týdnu"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Týden začíná",
+              "Options": {
+                "Mon": "Pondělí",
+                "Sun": "Neděle",
+                "Sat": "Sobota"
+              }
+            },
+            "Monday": "Pondělí",
+            "Tuesday": "Úterý",
+            "Wednesday": "Středa",
+            "Thursday": "Čtvrtek",
+            "Friday": "Pátek",
+            "Saturday": "Sobota",
+            "Sunday": "Neděle"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Indikátor galerie"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Tlačítko Přehrát video",
+          "BackgroundColor": "Barva pozadí",
+          "IconColor": "Barva ikony",
+          "IconSize": "Velikost ikony"
+        },
+        "VariationPickerBlock": {
+          "Title": "Výběr varianty",
+          "TextStyleInput": "Stylový list textu",
+          "ListStyleInput": "Stylový list kontejneru seznamu"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Rozložení",
+            "ImageOnTop": "Obrázek nahoře",
+            "TitleAndContentOnImage": "Název a obsah na obrázku",
+            "TitleOnImage": "Název na obrázku"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Styl záhlaví",
+          "ContentStyle": "Styl obsahu"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Akce žádosti o odhlášení",
+          "IconPositionOption": {
+            "Title": "Pozice ikony",
+            "LeftOfText": "Vlevo od textu",
+            "RightOfText": "Vpravo od textu"
+          },
+          "ConfirmLabel": "Potvrdit štítek",
+          "TextStyleInput": "Stylový list textu"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Žádné rozložení není definováno",
+        "Dialog": {
+          "ConfirmCancellation": "Potvrdit zrušení",
+          "DiscardAllChanges": "Chcete zrušit všechny změny?",
+          "ConfirmSave": "Potvrdit uložení",
+          "SaveWithoutChanges": "Nevytvořili jste žádné nové změny. Chcete stále uložit?",
+          "ConfirmPublishing": "Potvrdit publikaci",
+          "PublishLayout": "Chcete publikovat verzi rozložení {version}?"
+        },
+        "Previewers": "Náhledy",
+        "SelectUserToPreviewTheLayout": "Vyberte uživatele pro náhled rozložení",
+        "LayoutTemplatesTooltip": "Šablony rozložení",
+        "ImportLayoutTooltip": "Importovat rozložení",
+        "NoDefinitionToExport": "Není žádná definice k exportu.",
+        "ExportLayoutTooltip": "Exportovat rozložení",
+        "ExportErrorMessage": "Při exportu definice rozložení došlo k chybě.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Musíte přidat alespoň jeden typ stránky."
+        },
+        "LayoutImportTitle": "Import rozložení",
+        "InvalidLayoutFile": "Neplatný soubor rozložení.",
+        "NoFileSelected": "Žádný soubor není vybrán.",
+        "DeletedLayout": "Smazané rozložení"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Resetovat",
+          "LayoutEngine": {
+            "textLayoutName": "Název rozložení:",
+            "textUseLayoutEngine": "Použít motor rozložení",
+            "textNoLayoutData": "Žádná data rozložení!",
+            "textBusinessProfileUsesLayoutEngine": "Obchodní profil používá motor rozložení.",
+            "textOverrideDefaultLayout": "Přepsat rozložení pro všechny položky novinek"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Tato stránka byla smazána.",
+          "textDocumentIsNotAvailableMessage": "Tento dokument není k dispozici. Pokud je to nový dokument, počkejte několik minut a zkuste to znovu. Jinak mohl být dokument smazán."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Tato žádost, kterou vám poslal {requestedBy} dne {requestTime}, byla uzavřena."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Seznamový pohled s informacemi o krmivu",
+          "View": {
+            "Header": "Informace o krmivu",
+            "Dialog": {
+              "Title": "Informace o publikaci Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Informace pro stránku",
+                "PublishStatus": {
+                  "Title": "Stav publikace",
+                  "Value": {
+                    "Delivered": "Doručeno",
+                    "Failed": "Neúspěšné",
+                    "NoInfo": "Žádné informace",
+                    "Processing": "Zpracovává se",
+                    "Scheduled": "Naplánováno"
+                  }
+                },
+                "NumberOfUsersReached": "Počet dosažených uživatelů",
+                "TimeDeliveredToAllUsers": "Čas doručení všem uživatelům",
+                "TimeDeliveredToActiveUsers": "Čas doručení aktivním uživatelům",
+                "TimeProcessingPage": "Zpracování začalo v",
+                "TimeScheduled": "Naplánováno na",
+                "Message": {
+                  "NoInfo": "Tato stránka není synchronizována do Omnia Feed podle aktuální konfigurace.",
+                  "Error": "Došlo k problému se synchronizačním procesem. Zkontrolujte protokol níže."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Obchodní profil pro získání informací"
+            }
+          }
+        }
+      }
+    }
+  }
+}

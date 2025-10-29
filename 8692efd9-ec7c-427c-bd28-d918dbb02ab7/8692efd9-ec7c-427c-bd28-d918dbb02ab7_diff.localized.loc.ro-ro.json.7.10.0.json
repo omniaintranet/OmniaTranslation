@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Trimite notificare de reamintire",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Trimite o notificare utilizatorilor care nu au finalizat cererea atunci când aceasta este închisă."
+        }
+      },
+      "Submenu": {
+        "Layout": "Setări de layout"
+      },
+      "TabSections": {
+        "DataMapping": "Mapare date",
+        "AddLayouts": "Adaugă layout-uri"
+      },
+      "Buttons": {
+        "AddLayout": "Adaugă layout",
+        "RemoveLayout": "Șterge layout",
+        "AddPageType": "Adaugă tip de pagină",
+        "Cancel": "Anulează",
+        "CreateDraft": "Creează schiță",
+        "Import": "Importă",
+        "Export": "Exportă",
+        "View": "Vizualizează"
+      },
+      "Settings": {
+        "HeaderTextColor": "Culoarea textului din antet",
+        "DefaultChannel": "Canal implicit",
+        "TenantScopeQuery": "Interogare domeniu",
+        "EnableLayoutEngine": "Activează motorul de layout",
+        "AddScopeQuery": "Adaugă interogare domeniu",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Când utilizatorul este forțat să se deconecteze în OFMC",
+            "Description": "Resetează datele pe aplicația mobilă, dar păstrează starea de conectare"
+          }
+        },
+        "SortByItemDate": "Data elementului (Feed încorporat)",
+        "PageType": "Tip de pagină",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Adaugă sau actualizează",
+          "Delete": "Șterge",
+          "AutomaticPageTranslationFinished": "Traducerea paginii variate"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nu a început",
+            "InProgress": "În curs de desfășurare",
+            "Completed": "Finalizat"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL invalid sau lipsă în secțiunea de conținut.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ești sigur că vrei să încerci din nou resincronizarea utilizatorilor?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migrează setările tab-ului",
+            "Message": "Vrei să migrezi tab-ul de interogare la tab-uri multiple de interogare?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migrează articolul de știri"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Selector tip pagină",
+          "BlocksPicker": "Selector blocuri",
+          "SelectPageType": "Selectează tipul de pagină",
+          "Block": "Bloc",
+          "SelectChildBlock": "Selectează un bloc copil",
+          "SelectEnterpriseProperties": "Selectează proprietăți de întreprindere",
+          "DragAndDrop": "Trage și lasă",
+          "PageTypes": "Tipuri de pagină",
+          "LayoutName": "Numele layout-ului",
+          "BlockTitle": "Titlul blocului",
+          "ChildBlocks": "Blocuri copil",
+          "LayoutNameIsRequired": "Numele layout-ului este obligatoriu",
+          "CustomStyleSheet": "Stil personalizat CSS",
+          "ThisBlockIsRequired": "Acest bloc este obligatoriu",
+          "Default": "Implicit",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Șterge definiția layout-ului",
+            "MessageDeleteLayoutDefinition": "Vrei să ștergi această definiție a layout-ului?",
+            "TitleDeleteBlock": "Șterge bloc",
+            "MessageDeleteBlock": "Vrei să ștergi acest bloc?",
+            "TitleRemovePageType": "Șterge tipul de pagină",
+            "MessageRemovePageType": "Vrei să ștergi acest tip de pagină din layout?",
+            "TitleActivateLayoutEngineMigration": "Activează migrarea motorului de layout",
+            "MessgeActivateLayoutEngineMigration": "Vrei să activezi migrarea motorului de layout?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Când faci clic pe butonul de mai jos, articolele de știri asociate cu acest profil de afaceri vor fi migrate folosind motorul de layout. Acest proces poate dura ceva timp pentru a se finaliza și nu poate fi inversat.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Acest profil de afaceri a activat motorul de layout.",
+          "MigrationProcess": "Migrarea articolelor de știri pentru acest profil de afaceri este în desfășurare",
+          "ActivateLayoutEngineMigration": "Activează migrarea motorului de layout"
+        },
+        "EventsFilter": {
+          "Title": "Filtru evenimente whitelist",
+          "EnableEventsFilter": "Activează filtrul de evenimente",
+          "Radio": {
+            "Hint": "Comută între modul whitelist și modul blacklist",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Mod de filtrare",
+            "BusinessProfile": "Profil de afaceri",
+            "PublishingApp": "Aplicație de publicare",
+            "PageCollection": "Colecție de pagini",
+            "BusinessProfileInputLabel": "Profiluri de afaceri",
+            "PublishingAppInputLabel": "Aplicații de publicare"
+          }
+        },
+        "PreviewTab": "Tab de previzualizare"
+      },
+      "Common": {
+        "VersionHistory": "Istoricul versiunilor"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Trebuie să adaugi cel puțin un layout.",
+          "NoLayoutSelectedValidateMessage": "Trebuie să adaugi cel puțin un layout în secțiunea de afișare."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Mod de redare"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Mod de redare a imaginii",
+            "ThumbnailMode": "Mod miniatură",
+            "DetailMode": "Mod detaliat"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Etichete",
+          "DisplayMode": {
+            "Title": "Mod de afișare",
+            "Text": "Text",
+            "Chip": "Chip"
+          },
+          "NewTag": "Nou",
+          "FixedValue": "Valoare fixă",
+          "SignOffRequestTag": "Cerere de aprobat",
+          "TagContainerStyle": "Stil container etichete"
+        },
+        "TextBlock": {
+          "Title": "Text",
+          "DefaultContent": "Conținut implicit",
+          "LineLimit": "Limită de linii"
+        },
+        "HeadingBlock": {
+          "Title": "Titlu",
+          "LineLimit": "Limită de linii"
+        },
+        "RichTextBlock": {
+          "Title": "Text bogat"
+        },
+        "IdentityBlock": {
+          "Title": "Identitate",
+          "RenderMode": {
+            "DisplayName": "Nume de afișare",
+            "DisplayNameWithAvatar": "Nume de afișare cu avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Dată",
+          "DateFormat": "Format dată",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Mod text",
+            "CalendarIconMode": "Iconiță calendar"
+          },
+          "MonthTextStyle": "Stil text lună",
+          "DateTextStyle": "Stil text dată",
+          "TextStyle": "Stil text",
+          "InheritFromTenant": "Moștenește de la domeniu",
+          "TheDateFormatIsIncorrect": "Formatul datei nu este corect."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Linkuri conexe",
+          "IconAndTextColor": "Culoarea iconiței și a textului",
+          "BlockTitle": "Titlu",
+          "TitleStyle": "Stil titlu"
+        },
+        "SocialBlock": {
+          "Title": "Social",
+          "EnableComment": "Permite comentarii",
+          "ReadOnlyMode": "Vizualizare în modul doar citire",
+          "SortComment": "Sortează comentariul",
+          "RenderMode": {
+            "FullView": "Vizualizare completă",
+            "NewComments": "Comentarii noi"
+          },
+          "HideNewCommentsAfterReading": "Ascunde comentariile noi după citire"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Buton de acțiune"
+        },
+        "DateRangeBlock": {
+          "Title": "Interval de date",
+          "To": "Către",
+          "Form": "Formular",
+          "MonthTextStyle": "Stil text lună",
+          "DateTextStyle": "Stil text dată"
+        },
+        "RowBlock": {
+          "Title": "Rând",
+          "NewItemIndicator": "Afișează indicator de element nou în stânga"
+        },
+        "ColumnBlock": {
+          "Title": "Coloană"
+        },
+        "LikeButtonBlock": {
+          "Title": "Buton de like",
+          "RenderMode": {
+            "CompactView": "Vizualizare compactă",
+            "DetailView": "Vizualizare detaliată"
+          },
+          "TextStyle": "Stil text",
+          "IconAndTextColor": "Culoarea iconiței și a textului"
+        },
+        "CommentCountBlock": {
+          "Title": "Număr comentarii",
+          "RenderMode": {
+            "CompactView": "Vizualizare compactă"
+          },
+          "IconAndTextColor": "Culoarea iconiței și a textului"
+        },
+        "ShareButtonBlock": {
+          "Title": "Buton de partajare",
+          "IconSize": "Dimensiune iconiță"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compact doar citire",
+            "Full": "Complet"
+          },
+          "Title": "Adaugă ca buton favorit",
+          "AddLabel": "Adaugă etichetă",
+          "RemoveLabel": "Șterge etichetă",
+          "LinkCategory": "Categorie link"
+        },
+        "AgendaBlock": {
+          "Title": "Agendă",
+          "RenderMode": {
+            "DayInWeek": "Zi în săptămână"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Săptămâna începe",
+              "Options": {
+                "Mon": "Luni",
+                "Sun": "Duminică",
+                "Sat": "Sâmbătă"
+              }
+            },
+            "Monday": "Luni",
+            "Tuesday": "Marți",
+            "Wednesday": "Miercuri",
+            "Thursday": "Joi",
+            "Friday": "Vineri",
+            "Saturday": "Sâmbătă",
+            "Sunday": "Duminică"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Indicator galerie"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Buton de redare video",
+          "BackgroundColor": "Culoare fundal",
+          "IconColor": "Culoare iconiță",
+          "IconSize": "Dimensiune iconiță"
+        },
+        "VariationPickerBlock": {
+          "Title": "Selector variație",
+          "TextStyleInput": "Stil text",
+          "ListStyleInput": "Stil container listă"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Layout",
+            "ImageOnTop": "Imagine deasupra",
+            "TitleAndContentOnImage": "Titlu și conținut pe imagine",
+            "TitleOnImage": "Titlu pe imagine"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Stil antet",
+          "ContentStyle": "Stil conținut"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Acțiune cerere de aprobat",
+          "IconPositionOption": {
+            "Title": "Poziția iconiței",
+            "LeftOfText": "La stânga textului",
+            "RightOfText": "La dreapta textului"
+          },
+          "ConfirmLabel": "Etichetă de confirmare",
+          "TextStyleInput": "Stil text"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Niciun layout definit",
+        "Dialog": {
+          "ConfirmCancellation": "Confirmă anularea",
+          "DiscardAllChanges": "Vrei să anulezi toate modificările?",
+          "ConfirmSave": "Confirmă salvarea",
+          "SaveWithoutChanges": "Nu ai făcut nicio modificare nouă. Vrei totuși să salvezi?",
+          "ConfirmPublishing": "Confirmă publicarea",
+          "PublishLayout": "Vrei să publici versiunea layout-ului {version}?"
+        },
+        "Previewers": "Previzualizatori",
+        "SelectUserToPreviewTheLayout": "Selectează utilizator pentru a previzualiza layout-ul",
+        "LayoutTemplatesTooltip": "Șabloane de layout",
+        "ImportLayoutTooltip": "Importă layout",
+        "NoDefinitionToExport": "Nu există date de definiție de exportat.",
+        "ExportLayoutTooltip": "Exportă layout",
+        "ExportErrorMessage": "A apărut o eroare în timpul exportării definiției layout-ului.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Trebuie să adaugi cel puțin un tip de pagină."
+        },
+        "LayoutImportTitle": "Import layout",
+        "InvalidLayoutFile": "Fișier layout invalid.",
+        "NoFileSelected": "Niciun fișier selectat.",
+        "DeletedLayout": "Layout șters"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Resetare",
+          "LayoutEngine": {
+            "textLayoutName": "Numele layout-ului:",
+            "textUseLayoutEngine": "Folosește motorul de layout",
+            "textNoLayoutData": "Fără date de layout!",
+            "textBusinessProfileUsesLayoutEngine": "Profilul de afaceri folosește motorul de layout.",
+            "textOverrideDefaultLayout": "Suprascrie layout-ul pentru toate articolele de știri"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Această pagină a fost ștearsă.",
+          "textDocumentIsNotAvailableMessage": "Acest document nu este disponibil. Dacă este un document nou, te rugăm să aștepți câteva minute și să încerci din nou. Altfel, documentul ar fi putut fi șters."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Această cerere trimisă de {requestedBy} la {requestTime} a fost închisă."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Vizualizare listă cu informații Feed",
+          "View": {
+            "Header": "Informații Feed",
+            "Dialog": {
+              "Title": "Informații publicare Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Informații pentru pagină",
+                "PublishStatus": {
+                  "Title": "Starea publicării",
+                  "Value": {
+                    "Delivered": "Livrat",
+                    "Failed": "Eșuat",
+                    "NoInfo": "Fără informații",
+                    "Processing": "În procesare",
+                    "Scheduled": "Programat"
+                  }
+                },
+                "NumberOfUsersReached": "Numărul de utilizatori atins",
+                "TimeDeliveredToAllUsers": "Timp livrat tuturor utilizatorilor",
+                "TimeDeliveredToActiveUsers": "Timp livrat utilizatorilor activi",
+                "TimeProcessingPage": "Procesare începută la",
+                "TimeScheduled": "Programat la",
+                "Message": {
+                  "NoInfo": "Această pagină nu este sincronizată în Omnia Feed sub configurația curentă.",
+                  "Error": "Există o problemă cu procesul de sincronizare. Te rugăm să verifici jurnalul de mai jos."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Profil de afaceri pentru a obține informații"
+            }
+          }
+        }
+      }
+    }
+  }
+}

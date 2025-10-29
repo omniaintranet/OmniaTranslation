@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Gửi thông báo nhắc nhở",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Gửi thông báo cho người dùng chưa hoàn thành yêu cầu khi nó đang được đóng."
+        }
+      },
+      "Submenu": {
+        "Layout": "Cài đặt bố cục"
+      },
+      "TabSections": {
+        "DataMapping": "Ánh xạ dữ liệu",
+        "AddLayouts": "Thêm bố cục"
+      },
+      "Buttons": {
+        "AddLayout": "Thêm bố cục",
+        "RemoveLayout": "Xóa bố cục",
+        "AddPageType": "Thêm loại trang",
+        "Cancel": "Hủy",
+        "CreateDraft": "Tạo bản nháp",
+        "Import": "Nhập",
+        "Export": "Xuất",
+        "View": "Xem"
+      },
+      "Settings": {
+        "HeaderTextColor": "Màu chữ tiêu đề",
+        "DefaultChannel": "Kênh mặc định",
+        "TenantScopeQuery": "Truy vấn phạm vi thuê bao",
+        "EnableLayoutEngine": "Kích hoạt công cụ bố cục",
+        "AddScopeQuery": "Thêm truy vấn phạm vi",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Khi người dùng bị buộc đăng xuất trong OFMC",
+            "Description": "Đặt lại dữ liệu trên ứng dụng di động nhưng giữ trạng thái đăng nhập"
+          }
+        },
+        "SortByItemDate": "Ngày mục (tích hợp trong Feed)",
+        "PageType": "Loại trang",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Thêm hoặc Cập nhật",
+          "Delete": "Xóa",
+          "AutomaticPageTranslationFinished": "Biến thể dịch trang hoàn tất"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Chưa bắt đầu",
+            "InProgress": "Đang tiến hành",
+            "Completed": "Đã hoàn thành"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL không hợp lệ hoặc bị thiếu trong phần Nội dung.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Bạn có chắc chắn muốn thử đồng bộ lại người dùng không?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Di chuyển cài đặt tab",
+            "Message": "Bạn có muốn di chuyển tab truy vấn sang nhiều tab truy vấn không?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Di chuyển mục tin tức"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Chọn loại trang",
+          "BlocksPicker": "Chọn khối",
+          "SelectPageType": "Chọn loại trang",
+          "Block": "Khối",
+          "SelectChildBlock": "Chọn khối con",
+          "SelectEnterpriseProperties": "Chọn thuộc tính doanh nghiệp",
+          "DragAndDrop": "Kéo và thả",
+          "PageTypes": "Các loại trang",
+          "LayoutName": "Tên bố cục",
+          "BlockTitle": "Tiêu đề khối",
+          "ChildBlocks": "Khối con",
+          "LayoutNameIsRequired": "Tên bố cục là bắt buộc",
+          "CustomStyleSheet": "Phong cách Custom StyleSheet",
+          "ThisBlockIsRequired": "Khối này là bắt buộc",
+          "Default": "Mặc định",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Xóa định nghĩa bố cục",
+            "MessageDeleteLayoutDefinition": "Bạn có muốn xóa định nghĩa bố cục này không?",
+            "TitleDeleteBlock": "Xóa khối",
+            "MessageDeleteBlock": "Bạn có muốn xóa khối này không?",
+            "TitleRemovePageType": "Xóa loại trang",
+            "MessageRemovePageType": "Bạn có muốn xóa loại trang này trong bố cục không?",
+            "TitleActivateLayoutEngineMigration": "Kích hoạt di chuyển công cụ bố cục",
+            "MessgeActivateLayoutEngineMigration": "Bạn có muốn kích hoạt di chuyển công cụ bố cục không?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Khi bạn nhấp vào nút bên dưới, các bài viết tin tức liên quan đến hồ sơ doanh nghiệp này sẽ được di chuyển bằng cách sử dụng công cụ bố cục. Quá trình này có thể mất một thời gian để hoàn tất và không thể đảo ngược.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Hồ sơ doanh nghiệp này đã kích hoạt công cụ bố cục.",
+          "MigrationProcess": "Di chuyển các bài viết tin tức cho hồ sơ doanh nghiệp này đang diễn ra",
+          "ActivateLayoutEngineMigration": "Kích hoạt di chuyển công cụ bố cục"
+        },
+        "EventsFilter": {
+          "Title": "Bộ lọc sự kiện trắng",
+          "EnableEventsFilter": "Kích hoạt bộ lọc sự kiện",
+          "Radio": {
+            "Hint": "Chuyển đổi giữa chế độ trắng và chế độ đen",
+            "Blacklist": "Danh sách đen",
+            "Whitelist": "Danh sách trắng"
+          },
+          "FilterMode": {
+            "Label": "Chế độ lọc",
+            "BusinessProfile": "Hồ sơ doanh nghiệp",
+            "PublishingApp": "Ứng dụng xuất bản",
+            "PageCollection": "Bộ sưu tập trang",
+            "BusinessProfileInputLabel": "Hồ sơ doanh nghiệp",
+            "PublishingAppInputLabel": "Ứng dụng xuất bản"
+          }
+        },
+        "PreviewTab": "Tab xem trước"
+      },
+      "Common": {
+        "VersionHistory": "Lịch sử phiên bản"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Bạn cần thêm ít nhất một bố cục.",
+          "NoLayoutSelectedValidateMessage": "Bạn cần thêm ít nhất một bố cục trong phần Hiển thị."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Chế độ hiển thị"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Phương tiện",
+          "RenderMode": {
+            "Title": "Chế độ hiển thị hình ảnh",
+            "ThumbnailMode": "Chế độ hình thu nhỏ",
+            "DetailMode": "Chế độ chi tiết"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Thẻ",
+          "DisplayMode": {
+            "Title": "Chế độ hiển thị",
+            "Text": "Văn bản",
+            "Chip": "Chip"
+          },
+          "NewTag": "Mới",
+          "FixedValue": "Giá trị cố định",
+          "SignOffRequestTag": "Yêu cầu ký",
+          "TagContainerStyle": "Phong cách chứa thẻ"
+        },
+        "TextBlock": {
+          "Title": "Văn bản",
+          "DefaultContent": "Nội dung mặc định",
+          "LineLimit": "Giới hạn dòng"
+        },
+        "HeadingBlock": {
+          "Title": "Tiêu đề",
+          "LineLimit": "Giới hạn dòng"
+        },
+        "RichTextBlock": {
+          "Title": "Văn bản phong phú"
+        },
+        "IdentityBlock": {
+          "Title": "Danh tính",
+          "RenderMode": {
+            "DisplayName": "Tên hiển thị",
+            "DisplayNameWithAvatar": "Tên hiển thị với ảnh đại diện",
+            "Avatar": "Ảnh đại diện"
+          }
+        },
+        "DateBlock": {
+          "Title": "Ngày",
+          "DateFormat": "Định dạng ngày",
+          "Format": "Định dạng",
+          "RenderMode": {
+            "TextMode": "Văn bản",
+            "CalendarIconMode": "Biểu tượng lịch"
+          },
+          "MonthTextStyle": "Phong cách văn bản tháng",
+          "DateTextStyle": "Phong cách văn bản ngày",
+          "TextStyle": "Phong cách văn bản",
+          "InheritFromTenant": "Kế thừa từ thuê bao",
+          "TheDateFormatIsIncorrect": "Định dạng ngày không chính xác."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Liên kết liên quan",
+          "IconAndTextColor": "Màu biểu tượng và văn bản",
+          "BlockTitle": "Tiêu đề",
+          "TitleStyle": "Phong cách tiêu đề"
+        },
+        "SocialBlock": {
+          "Title": "Mạng xã hội",
+          "EnableComment": "Cho phép bình luận",
+          "ReadOnlyMode": "Xem ở chế độ chỉ đọc",
+          "SortComment": "Sắp xếp bình luận",
+          "RenderMode": {
+            "FullView": "Xem đầy đủ",
+            "NewComments": "Bình luận mới"
+          },
+          "HideNewCommentsAfterReading": "Ẩn bình luận mới sau khi đọc"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Nút hành động"
+        },
+        "DateRangeBlock": {
+          "Title": "Khoảng thời gian",
+          "To": "Đến",
+          "Form": "Hình thức",
+          "MonthTextStyle": "Phong cách văn bản tháng",
+          "DateTextStyle": "Phong cách văn bản ngày"
+        },
+        "RowBlock": {
+          "Title": "Hàng",
+          "NewItemIndicator": "Hiển thị chỉ báo mục mới bên trái"
+        },
+        "ColumnBlock": {
+          "Title": "Cột"
+        },
+        "LikeButtonBlock": {
+          "Title": "Nút thích",
+          "RenderMode": {
+            "CompactView": "Chế độ xem gọn",
+            "DetailView": "Chế độ xem chi tiết"
+          },
+          "TextStyle": "Phong cách văn bản",
+          "IconAndTextColor": "Màu biểu tượng và văn bản"
+        },
+        "CommentCountBlock": {
+          "Title": "Số lượng bình luận",
+          "RenderMode": {
+            "CompactView": "Chế độ xem gọn"
+          },
+          "IconAndTextColor": "Màu biểu tượng và văn bản"
+        },
+        "ShareButtonBlock": {
+          "Title": "Nút chia sẻ",
+          "IconSize": "Kích thước biểu tượng"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Chỉ đọc gọn",
+            "Full": "Đầy đủ"
+          },
+          "Title": "Nút thêm vào yêu thích",
+          "AddLabel": "Thêm nhãn",
+          "RemoveLabel": "Xóa nhãn",
+          "LinkCategory": "Danh mục liên kết"
+        },
+        "AgendaBlock": {
+          "Title": "Chương trình",
+          "RenderMode": {
+            "DayInWeek": "Ngày trong tuần"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Tuần bắt đầu",
+              "Options": {
+                "Mon": "Thứ Hai",
+                "Sun": "Chủ Nhật",
+                "Sat": "Thứ Bảy"
+              }
+            },
+            "Monday": "Thứ Hai",
+            "Tuesday": "Thứ Ba",
+            "Wednesday": "Thứ Tư",
+            "Thursday": "Thứ Năm",
+            "Friday": "Thứ Sáu",
+            "Saturday": "Thứ Bảy",
+            "Sunday": "Chủ Nhật"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Chỉ báo thư viện"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Nút phát video",
+          "BackgroundColor": "Màu nền",
+          "IconColor": "Màu biểu tượng",
+          "IconSize": "Kích thước biểu tượng"
+        },
+        "VariationPickerBlock": {
+          "Title": "Chọn biến thể",
+          "TextStyleInput": "Phong cách văn bản",
+          "ListStyleInput": "Phong cách chứa danh sách"
+        },
+        "BannerBlock": {
+          "Title": "Biểu ngữ",
+          "LayoutRenderMode": {
+            "Title": "Bố cục",
+            "ImageOnTop": "Hình ảnh ở trên cùng",
+            "TitleAndContentOnImage": "Tiêu đề và nội dung trên hình ảnh",
+            "TitleOnImage": "Tiêu đề trên hình ảnh"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "Câu hỏi thường gặp/Accordion",
+          "HeaderStyle": "Phong cách tiêu đề",
+          "ContentStyle": "Phong cách nội dung"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Hành động yêu cầu ký",
+          "IconPositionOption": {
+            "Title": "Vị trí biểu tượng",
+            "LeftOfText": "Bên trái văn bản",
+            "RightOfText": "Bên phải văn bản"
+          },
+          "ConfirmLabel": "Nhãn xác nhận",
+          "TextStyleInput": "Phong cách văn bản"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Chưa định nghĩa bố cục",
+        "Dialog": {
+          "ConfirmCancellation": "Xác nhận hủy bỏ",
+          "DiscardAllChanges": "Bạn có muốn bỏ tất cả thay đổi không?",
+          "ConfirmSave": "Xác nhận lưu",
+          "SaveWithoutChanges": "Bạn chưa thực hiện bất kỳ thay đổi mới nào. Bạn có muốn lưu không?",
+          "ConfirmPublishing": "Xác nhận xuất bản",
+          "PublishLayout": "Bạn có muốn xuất bản phiên bản bố cục {version} không?"
+        },
+        "Previewers": "Người xem trước",
+        "SelectUserToPreviewTheLayout": "Chọn người dùng để xem trước bố cục",
+        "LayoutTemplatesTooltip": "Mẫu bố cục",
+        "ImportLayoutTooltip": "Nhập bố cục",
+        "NoDefinitionToExport": "Không có dữ liệu định nghĩa để xuất.",
+        "ExportLayoutTooltip": "Xuất bố cục",
+        "ExportErrorMessage": "Đã xảy ra lỗi trong quá trình xuất định nghĩa bố cục.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Bạn cần thêm ít nhất một loại trang."
+        },
+        "LayoutImportTitle": "Nhập bố cục",
+        "InvalidLayoutFile": "Tệp bố cục không hợp lệ.",
+        "NoFileSelected": "Chưa chọn tệp nào.",
+        "DeletedLayout": "Bố cục đã bị xóa"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Đặt lại",
+          "LayoutEngine": {
+            "textLayoutName": "Tên bố cục:",
+            "textUseLayoutEngine": "Sử dụng công cụ bố cục",
+            "textNoLayoutData": "Không có dữ liệu bố cục!",
+            "textBusinessProfileUsesLayoutEngine": "Hồ sơ doanh nghiệp sử dụng công cụ bố cục.",
+            "textOverrideDefaultLayout": "Ghi đè bố cục cho tất cả các mục tin tức"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Trang này đã bị xóa.",
+          "textDocumentIsNotAvailableMessage": "Tài liệu này không khả dụng. Nếu đây là tài liệu mới, vui lòng chờ vài phút và thử lại. Nếu không, tài liệu có thể đã bị xóa."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Yêu cầu này được gửi cho bạn từ {requestedBy} vào {requestTime} đã được đóng."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Chế độ xem danh sách với thông tin Feed",
+          "View": {
+            "Header": "Thông tin Feed",
+            "Dialog": {
+              "Title": "Thông tin xuất bản Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Thông tin cho trang",
+                "PublishStatus": {
+                  "Title": "Trạng thái xuất bản",
+                  "Value": {
+                    "Delivered": "Đã giao",
+                    "Failed": "Thất bại",
+                    "NoInfo": "Không có thông tin",
+                    "Processing": "Đang xử lý",
+                    "Scheduled": "Đã lên lịch"
+                  }
+                },
+                "NumberOfUsersReached": "Số lượng người dùng đã tiếp cận",
+                "TimeDeliveredToAllUsers": "Thời gian giao đến tất cả người dùng",
+                "TimeDeliveredToActiveUsers": "Thời gian giao đến người dùng hoạt động",
+                "TimeProcessingPage": "Bắt đầu xử lý vào",
+                "TimeScheduled": "Đã lên lịch vào",
+                "Message": {
+                  "NoInfo": "Trang này không được đồng bộ vào Omnia Feed theo cấu hình hiện tại.",
+                  "Error": "Có vấn đề với quá trình đồng bộ. Vui lòng kiểm tra nhật ký bên dưới."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Hồ sơ doanh nghiệp để lấy thông tin"
+            }
+          }
+        }
+      }
+    }
+  }
+}

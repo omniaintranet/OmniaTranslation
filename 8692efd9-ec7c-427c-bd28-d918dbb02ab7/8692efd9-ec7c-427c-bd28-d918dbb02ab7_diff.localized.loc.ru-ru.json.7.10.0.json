@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Отправить уведомление-напоминание",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Отправить уведомление пользователям, которые не завершили запрос, когда он закрывается."
+        }
+      },
+      "Submenu": {
+        "Layout": "Настройки макета"
+      },
+      "TabSections": {
+        "DataMapping": "Сопоставление данных",
+        "AddLayouts": "Добавить макеты"
+      },
+      "Buttons": {
+        "AddLayout": "Добавить макет",
+        "RemoveLayout": "Удалить макет",
+        "AddPageType": "Добавить тип страницы",
+        "Cancel": "Отмена",
+        "CreateDraft": "Создать черновик",
+        "Import": "Импорт",
+        "Export": "Экспорт",
+        "View": "Просмотр"
+      },
+      "Settings": {
+        "HeaderTextColor": "Цвет текста заголовка",
+        "DefaultChannel": "Стандартный канал",
+        "TenantScopeQuery": "Запрос области арендатора",
+        "EnableLayoutEngine": "Включить движок макета",
+        "AddScopeQuery": "Добавить запрос области",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Когда пользователя принудительно выгоняют из OFMC",
+            "Description": "Сбросить данные в мобильном приложении, но сохранить состояние входа"
+          }
+        },
+        "SortByItemDate": "Дата элемента (встроенный в ленту)",
+        "PageType": "Тип страницы",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Добавить или обновить",
+          "Delete": "Удалить",
+          "AutomaticPageTranslationFinished": "Перевод страницы вариации"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Не начато",
+            "InProgress": "В процессе",
+            "Completed": "Завершено"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Недопустимый или отсутствующий URL в разделе Контент.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Вы действительно уверены, что хотите повторно синхронизировать пользователей?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Миграция настроек вкладки",
+            "Message": "Вы хотите мигрировать вкладку запроса в несколько вкладок запроса?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Миграция новостного элемента"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Выбор типа страницы",
+          "BlocksPicker": "Выбор блоков",
+          "SelectPageType": "Выберите тип страницы",
+          "Block": "Блок",
+          "SelectChildBlock": "Выберите дочерний блок",
+          "SelectEnterpriseProperties": "Выберите корпоративные свойства",
+          "DragAndDrop": "Перетащите и отпустите",
+          "PageTypes": "Типы страниц",
+          "LayoutName": "Имя макета",
+          "BlockTitle": "Название блока",
+          "ChildBlocks": "Дочерние блоки",
+          "LayoutNameIsRequired": "Имя макета обязательно",
+          "CustomStyleSheet": "Пользовательский стиль таблицы",
+          "ThisBlockIsRequired": "Этот блок обязателен",
+          "Default": "По умолчанию",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Удалить определение макета",
+            "MessageDeleteLayoutDefinition": "Вы хотите удалить это определение макета?",
+            "TitleDeleteBlock": "Удалить блок",
+            "MessageDeleteBlock": "Вы хотите удалить этот блок?",
+            "TitleRemovePageType": "Удалить тип страницы",
+            "MessageRemovePageType": "Вы хотите удалить этот тип страницы в макете?",
+            "TitleActivateLayoutEngineMigration": "Активировать миграцию движка макета",
+            "MessgeActivateLayoutEngineMigration": "Вы хотите активировать миграцию движка макета?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Когда вы нажмете кнопку ниже, новостные статьи, связанные с этим бизнес-профилем, будут мигрированы с использованием движка макета. Этот процесс может занять некоторое время и не может быть отменен.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Этот бизнес-профиль активировал движок макета.",
+          "MigrationProcess": "Миграция новостных статей для этого бизнес-профиля выполняется",
+          "ActivateLayoutEngineMigration": "Активировать миграцию движка макета"
+        },
+        "EventsFilter": {
+          "Title": "Фильтр событий в белом списке",
+          "EnableEventsFilter": "Включить фильтр событий",
+          "Radio": {
+            "Hint": "Переключение между режимом белого списка и черного списка",
+            "Blacklist": "Черный список",
+            "Whitelist": "Белый список"
+          },
+          "FilterMode": {
+            "Label": "Режим фильтрации",
+            "BusinessProfile": "Бизнес-профиль",
+            "PublishingApp": "Публикуемое приложение",
+            "PageCollection": "Коллекция страниц",
+            "BusinessProfileInputLabel": "Бизнес-профили",
+            "PublishingAppInputLabel": "Публикуемые приложения"
+          }
+        },
+        "PreviewTab": "Вкладка предварительного просмотра"
+      },
+      "Common": {
+        "VersionHistory": "История версий"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Необходимо добавить хотя бы один макет.",
+          "NoLayoutSelectedValidateMessage": "Необходимо добавить хотя бы один макет в разделе Отображение."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Режим рендеринга"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Медиа",
+          "RenderMode": {
+            "Title": "Режим рендеринга изображения",
+            "ThumbnailMode": "Режим миниатюры",
+            "DetailMode": "Детальный режим"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Теги",
+          "DisplayMode": {
+            "Title": "Режим отображения",
+            "Text": "Текст",
+            "Chip": "Чип"
+          },
+          "NewTag": "Новый",
+          "FixedValue": "Фиксированное значение",
+          "SignOffRequestTag": "Запрос на подпись",
+          "TagContainerStyle": "Стиль контейнера тегов"
+        },
+        "TextBlock": {
+          "Title": "Текст",
+          "DefaultContent": "Контент по умолчанию",
+          "LineLimit": "Лимит строк"
+        },
+        "HeadingBlock": {
+          "Title": "Заголовок",
+          "LineLimit": "Лимит строк"
+        },
+        "RichTextBlock": {
+          "Title": "Богатый текст"
+        },
+        "IdentityBlock": {
+          "Title": "Идентичность",
+          "RenderMode": {
+            "DisplayName": "Отображаемое имя",
+            "DisplayNameWithAvatar": "Отображаемое имя с аватаром",
+            "Avatar": "Аватар"
+          }
+        },
+        "DateBlock": {
+          "Title": "Дата",
+          "DateFormat": "Формат даты",
+          "Format": "Формат",
+          "RenderMode": {
+            "TextMode": "Текст",
+            "CalendarIconMode": "Иконка календаря"
+          },
+          "MonthTextStyle": "Стиль текста месяца",
+          "DateTextStyle": "Стиль текста даты",
+          "TextStyle": "Стиль текста",
+          "InheritFromTenant": "Унаследовать от арендатора",
+          "TheDateFormatIsIncorrect": "Формат даты неверен."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Связанные ссылки",
+          "IconAndTextColor": "Цвет иконки и текста",
+          "BlockTitle": "Название",
+          "TitleStyle": "Стиль названия"
+        },
+        "SocialBlock": {
+          "Title": "Социальный",
+          "EnableComment": "Разрешить комментарии",
+          "ReadOnlyMode": "Просмотр в режиме только для чтения",
+          "SortComment": "Сортировать комментарий",
+          "RenderMode": {
+            "FullView": "Полный вид",
+            "NewComments": "Новые комментарии"
+          },
+          "HideNewCommentsAfterReading": "Скрыть новые комментарии после прочтения"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Кнопки действий"
+        },
+        "DateRangeBlock": {
+          "Title": "Диапазон дат",
+          "To": "До",
+          "Form": "Форма",
+          "MonthTextStyle": "Стиль текста месяца",
+          "DateTextStyle": "Стиль текста даты"
+        },
+        "RowBlock": {
+          "Title": "Строка",
+          "NewItemIndicator": "Показать индикатор нового элемента слева"
+        },
+        "ColumnBlock": {
+          "Title": "Столбец"
+        },
+        "LikeButtonBlock": {
+          "Title": "Кнопка «Нравится»",
+          "RenderMode": {
+            "CompactView": "Компактный вид",
+            "DetailView": "Детальный вид"
+          },
+          "TextStyle": "Стиль текста",
+          "IconAndTextColor": "Цвет иконки и текста"
+        },
+        "CommentCountBlock": {
+          "Title": "Количество комментариев",
+          "RenderMode": {
+            "CompactView": "Компактный вид"
+          },
+          "IconAndTextColor": "Цвет иконки и текста"
+        },
+        "ShareButtonBlock": {
+          "Title": "Кнопка «Поделиться»",
+          "IconSize": "Размер иконки"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Компактный только для чтения",
+            "Full": "Полный"
+          },
+          "Title": "Добавить в избранное",
+          "AddLabel": "Добавить метку",
+          "RemoveLabel": "Удалить метку",
+          "LinkCategory": "Категория ссылки"
+        },
+        "AgendaBlock": {
+          "Title": "Повестка дня",
+          "RenderMode": {
+            "DayInWeek": "День в неделе"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Неделя начинается",
+              "Options": {
+                "Mon": "Понедельник",
+                "Sun": "Воскресенье",
+                "Sat": "Суббота"
+              }
+            },
+            "Monday": "Понедельник",
+            "Tuesday": "Вторник",
+            "Wednesday": "Среда",
+            "Thursday": "Четверг",
+            "Friday": "Пятница",
+            "Saturday": "Суббота",
+            "Sunday": "Воскресенье"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Индикатор галереи"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Кнопка «Воспроизвести видео»",
+          "BackgroundColor": "Цвет фона",
+          "IconColor": "Цвет иконки",
+          "IconSize": "Размер иконки"
+        },
+        "VariationPickerBlock": {
+          "Title": "Выбор вариации",
+          "TextStyleInput": "Стиль текста",
+          "ListStyleInput": "Стиль контейнера списка"
+        },
+        "BannerBlock": {
+          "Title": "Баннер",
+          "LayoutRenderMode": {
+            "Title": "Макет",
+            "ImageOnTop": "Изображение сверху",
+            "TitleAndContentOnImage": "Название и контент на изображении",
+            "TitleOnImage": "Название на изображении"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "Часто задаваемые вопросы/Аккордеон",
+          "HeaderStyle": "Стиль заголовка",
+          "ContentStyle": "Стиль контента"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Действие запроса на подпись",
+          "IconPositionOption": {
+            "Title": "Позиция иконки",
+            "LeftOfText": "Слева от текста",
+            "RightOfText": "Справа от текста"
+          },
+          "ConfirmLabel": "Подтвердить метку",
+          "TextStyleInput": "Стиль текста"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Макет не определен",
+        "Dialog": {
+          "ConfirmCancellation": "Подтвердить отмену",
+          "DiscardAllChanges": "Вы хотите отменить все изменения?",
+          "ConfirmSave": "Подтвердить сохранение",
+          "SaveWithoutChanges": "Вы не внесли никаких новых изменений. Вы все равно хотите сохранить?",
+          "ConfirmPublishing": "Подтвердить публикацию",
+          "PublishLayout": "Вы хотите опубликовать версию макета {version}?"
+        },
+        "Previewers": "Предварительные просмотры",
+        "SelectUserToPreviewTheLayout": "Выберите пользователя для предварительного просмотра макета",
+        "LayoutTemplatesTooltip": "Шаблоны макета",
+        "ImportLayoutTooltip": "Импортировать макет",
+        "NoDefinitionToExport": "Нет данных определения для экспорта.",
+        "ExportLayoutTooltip": "Экспортировать макет",
+        "ExportErrorMessage": "Произошла ошибка при экспорте определения макета.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Необходимо добавить хотя бы один тип страницы."
+        },
+        "LayoutImportTitle": "Импорт макета",
+        "InvalidLayoutFile": "Недопустимый файл макета.",
+        "NoFileSelected": "Файл не выбран.",
+        "DeletedLayout": "Удаленный макет"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Сбросить",
+          "LayoutEngine": {
+            "textLayoutName": "Имя макета:",
+            "textUseLayoutEngine": "Использовать движок макета",
+            "textNoLayoutData": "Нет данных макета!",
+            "textBusinessProfileUsesLayoutEngine": "Бизнес-профиль использует движок макета.",
+            "textOverrideDefaultLayout": "Переопределить макет для всех новостных элементов"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Эта страница была удалена.",
+          "textDocumentIsNotAvailableMessage": "Этот документ недоступен. Если это новый документ, подождите несколько минут и попробуйте снова. В противном случае документ мог быть удален."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Этот запрос, отправленный вам от {requestedBy} в {requestTime}, был закрыт."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Список с информацией о ленте",
+          "View": {
+            "Header": "Информация о ленте",
+            "Dialog": {
+              "Title": "Информация о публикации Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "Информация для страницы",
+                "PublishStatus": {
+                  "Title": "Статус публикации",
+                  "Value": {
+                    "Delivered": "Доставлено",
+                    "Failed": "Не удалось",
+                    "NoInfo": "Нет информации",
+                    "Processing": "Обработка",
+                    "Scheduled": "Запланировано"
+                  }
+                },
+                "NumberOfUsersReached": "Количество достигнутых пользователей",
+                "TimeDeliveredToAllUsers": "Время доставки всем пользователям",
+                "TimeDeliveredToActiveUsers": "Время доставки активным пользователям",
+                "TimeProcessingPage": "Начало обработки в",
+                "TimeScheduled": "Запланировано в",
+                "Message": {
+                  "NoInfo": "Эта страница не синхронизирована в Omnia Feed в текущей конфигурации.",
+                  "Error": "Произошла проблема с процессом синхронизации. Пожалуйста, проверьте журнал ниже."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Бизнес-профиль для получения информации"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Stuur herinneringsmelding",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Stuur een melding naar gebruikers die de aanvraag niet hebben voltooid wanneer deze wordt gesloten."
+        }
+      },
+      "Submenu": {
+        "Layout": "Lay-outinstellingen"
+      },
+      "TabSections": {
+        "DataMapping": "Gegevensmapping",
+        "AddLayouts": "Voeg lay-outs toe"
+      },
+      "Buttons": {
+        "AddLayout": "Voeg lay-out toe",
+        "RemoveLayout": "Verwijder lay-out",
+        "AddPageType": "Voeg paginatype toe",
+        "Cancel": "Annuleren",
+        "CreateDraft": "Concept maken",
+        "Import": "Importeren",
+        "Export": "Exporteren",
+        "View": "Bekijk"
+      },
+      "Settings": {
+        "HeaderTextColor": "Kleur koptekst",
+        "DefaultChannel": "Standaardkanaal",
+        "TenantScopeQuery": "Tenant scope query",
+        "EnableLayoutEngine": "Schakel lay-outengine in",
+        "AddScopeQuery": "Voeg scope query toe",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Wanneer gebruiker gedwongen wordt uit te loggen in OFMC",
+            "Description": "Reset gegevens op mobiele app maar behoud inlogstatus"
+          }
+        },
+        "SortByItemDate": "Itemdatum (Feed ingebouwd)",
+        "PageType": "Paginatype",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Toevoegen of bijwerken",
+          "Delete": "Verwijderen",
+          "AutomaticPageTranslationFinished": "Variatiepagina vertaling"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Niet gestart",
+            "InProgress": "Bezig",
+            "Completed": "Voltooid"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Ongeldige of ontbrekende URL in de inhoudssectie.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Weet je zeker dat je de gebruikers opnieuw wilt synchroniseren?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migreer tabinstellingen",
+            "Message": "Wil je de querytab naar meerdere querytabs migreren?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migreer nieuwsitem"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Paginatypekiezer",
+          "BlocksPicker": "Blokkenkiezer",
+          "SelectPageType": "Selecteer paginatype",
+          "Block": "Blok",
+          "SelectChildBlock": "Selecteer een kindblok",
+          "SelectEnterpriseProperties": "Selecteer bedrijfskenmerken",
+          "DragAndDrop": "Sleep en zet neer",
+          "PageTypes": "Paginatypen",
+          "LayoutName": "Lay-outnaam",
+          "BlockTitle": "Bloktitel",
+          "ChildBlocks": "Kindblokken",
+          "LayoutNameIsRequired": "Lay-outnaam is vereist",
+          "CustomStyleSheet": "Aangepaste stylesheetstijl",
+          "ThisBlockIsRequired": "Dit blok is vereist",
+          "Default": "Standaard",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Verwijder lay-outdefinitie",
+            "MessageDeleteLayoutDefinition": "Wil je deze lay-outdefinitie verwijderen?",
+            "TitleDeleteBlock": "Verwijder blok",
+            "MessageDeleteBlock": "Wil je dit blok verwijderen?",
+            "TitleRemovePageType": "Verwijder paginatype",
+            "MessageRemovePageType": "Wil je dit paginatype in de lay-out verwijderen?",
+            "TitleActivateLayoutEngineMigration": "Activeer migratie van lay-outengine",
+            "MessgeActivateLayoutEngineMigration": "Wil je de migratie van de lay-outengine activeren?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Wanneer je op de onderstaande knop klikt, worden nieuwsartikelen die aan dit bedrijfsprofiel zijn gekoppeld, gemigreerd met behulp van de lay-outengine. Dit proces kan enige tijd duren en kan niet worden teruggedraaid.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Dit bedrijfsprofiel heeft de lay-outengine geactiveerd.",
+          "MigrationProcess": "Migreren van nieuwsartikelen voor dit bedrijfsprofiel is bezig",
+          "ActivateLayoutEngineMigration": "Activeer migratie van lay-outengine"
+        },
+        "EventsFilter": {
+          "Title": "Whitelist evenementenfilter",
+          "EnableEventsFilter": "Schakel evenementenfilter in",
+          "Radio": {
+            "Hint": "Schakel tussen whitelist-modus en blacklist-modus",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedrijfsprofiel",
+            "PublishingApp": "Publicatie-app",
+            "PageCollection": "Pagina-collectie",
+            "BusinessProfileInputLabel": "Bedrijfsprofielen",
+            "PublishingAppInputLabel": "Publicatie-apps"
+          }
+        },
+        "PreviewTab": "Voorbeeldtab"
+      },
+      "Common": {
+        "VersionHistory": "Versiegeschiedenis"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Je moet minstens één lay-out toevoegen.",
+          "NoLayoutSelectedValidateMessage": "Je moet minstens één lay-out toevoegen in de weergave-sectie."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Weergavemodus"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Afbeelding weergavemodus",
+            "ThumbnailMode": "Miniatuurmodus",
+            "DetailMode": "Detailmodus"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Tags",
+          "DisplayMode": {
+            "Title": "Weergavemodus",
+            "Text": "Tekst",
+            "Chip": "Chip"
+          },
+          "NewTag": "Nieuw",
+          "FixedValue": "Vaste waarde",
+          "SignOffRequestTag": "Afmeldverzoek",
+          "TagContainerStyle": "Tagcontainerstijl"
+        },
+        "TextBlock": {
+          "Title": "Tekst",
+          "DefaultContent": "Standaardinhoud",
+          "LineLimit": "Lijnlimiet"
+        },
+        "HeadingBlock": {
+          "Title": "Kop",
+          "LineLimit": "Lijnlimiet"
+        },
+        "RichTextBlock": {
+          "Title": "Rijke tekst"
+        },
+        "IdentityBlock": {
+          "Title": "Identiteit",
+          "RenderMode": {
+            "DisplayName": "Weergavenaam",
+            "DisplayNameWithAvatar": "Weergavenaam met avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Datum",
+          "DateFormat": "Datumformaat",
+          "Format": "Formaat",
+          "RenderMode": {
+            "TextMode": "Tekst",
+            "CalendarIconMode": "Kalendericoon"
+          },
+          "MonthTextStyle": "Maandtekststijl",
+          "DateTextStyle": "Datumtekststijl",
+          "TextStyle": "Tekststijl",
+          "InheritFromTenant": "Overnemen van tenant",
+          "TheDateFormatIsIncorrect": "Het datumformaat is niet correct."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Gerelateerde links",
+          "IconAndTextColor": "Icoon- en tekstkleur",
+          "BlockTitle": "Titel",
+          "TitleStyle": "Titelstijl"
+        },
+        "SocialBlock": {
+          "Title": "Sociaal",
+          "EnableComment": "Sta opmerkingen toe",
+          "ReadOnlyMode": "Bekijk in alleen-lezen modus",
+          "SortComment": "Sorteer opmerking",
+          "RenderMode": {
+            "FullView": "Volledige weergave",
+            "NewComments": "Nieuwe opmerkingen"
+          },
+          "HideNewCommentsAfterReading": "Verberg nieuwe opmerkingen na het lezen"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Actieknoppen"
+        },
+        "DateRangeBlock": {
+          "Title": "Datumbereik",
+          "To": "Tot",
+          "Form": "Formulier",
+          "MonthTextStyle": "Maandtekststijl",
+          "DateTextStyle": "Datumtekststijl"
+        },
+        "RowBlock": {
+          "Title": "Rij",
+          "NewItemIndicator": "Toon nieuwe itemindicator aan de linkerkant"
+        },
+        "ColumnBlock": {
+          "Title": "Kolom"
+        },
+        "LikeButtonBlock": {
+          "Title": "Vind-ik-leuk-knop",
+          "RenderMode": {
+            "CompactView": "Compacte weergave",
+            "DetailView": "Detailweergave"
+          },
+          "TextStyle": "Tekststijl",
+          "IconAndTextColor": "Icoon- en tekstkleur"
+        },
+        "CommentCountBlock": {
+          "Title": "Aantal opmerkingen",
+          "RenderMode": {
+            "CompactView": "Compacte weergave"
+          },
+          "IconAndTextColor": "Icoon- en tekstkleur"
+        },
+        "ShareButtonBlock": {
+          "Title": "Deelknop",
+          "IconSize": "Icoonformaat"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compact alleen-lezen",
+            "Full": "Volledig"
+          },
+          "Title": "Voeg toe als Favoriet-knop",
+          "AddLabel": "Voeg label toe",
+          "RemoveLabel": "Verwijder label",
+          "LinkCategory": "Linkcategorie"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Dag In Week"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Week begint",
+              "Options": {
+                "Mon": "Maandag",
+                "Sun": "Zondag",
+                "Sat": "Zaterdag"
+              }
+            },
+            "Monday": "Maandag",
+            "Tuesday": "Dinsdag",
+            "Wednesday": "Woensdag",
+            "Thursday": "Donderdag",
+            "Friday": "Vrijdag",
+            "Saturday": "Zaterdag",
+            "Sunday": "Zondag"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galerijindicator"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Afspelen video-knop",
+          "BackgroundColor": "Achtergrondkleur",
+          "IconColor": "Icoon kleur",
+          "IconSize": "Icoonformaat"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variatiekiezer",
+          "TextStyleInput": "Tekststylesheet",
+          "ListStyleInput": "Lijstcontainerstylesheet"
+        },
+        "BannerBlock": {
+          "Title": "Banner",
+          "LayoutRenderMode": {
+            "Title": "Lay-out",
+            "ImageOnTop": "Afbeelding bovenop",
+            "TitleAndContentOnImage": "Titel en inhoud op afbeelding",
+            "TitleOnImage": "Titel op afbeelding"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Accordion",
+          "HeaderStyle": "Kopstijl",
+          "ContentStyle": "Inhoudstijl"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Afmeldverzoek actie",
+          "IconPositionOption": {
+            "Title": "Icoonpositie",
+            "LeftOfText": "Links van tekst",
+            "RightOfText": "Rechts van tekst"
+          },
+          "ConfirmLabel": "Bevestig label",
+          "TextStyleInput": "Tekststylesheet"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Geen lay-out gedefinieerd",
+        "Dialog": {
+          "ConfirmCancellation": "Bevestig annulering",
+          "DiscardAllChanges": "Wil je alle wijzigingen verwerpen?",
+          "ConfirmSave": "Bevestig opslaan",
+          "SaveWithoutChanges": "Je hebt geen nieuwe wijzigingen aangebracht. Wil je nog steeds opslaan?",
+          "ConfirmPublishing": "Bevestig publiceren",
+          "PublishLayout": "Wil je lay-outversie {version} publiceren?"
+        },
+        "Previewers": "Voorbeeldweergaven",
+        "SelectUserToPreviewTheLayout": "Selecteer gebruiker om de lay-out te bekijken",
+        "LayoutTemplatesTooltip": "Lay-outtemplates",
+        "ImportLayoutTooltip": "Importeer lay-out",
+        "NoDefinitionToExport": "Er zijn geen definitiegegevens om te exporteren.",
+        "ExportLayoutTooltip": "Exporteer lay-out",
+        "ExportErrorMessage": "Er is een fout opgetreden bij het exporteren van de lay-outdefinitie.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Je moet minstens één paginatype toevoegen."
+        },
+        "LayoutImportTitle": "Lay-outimport",
+        "InvalidLayoutFile": "Ongeldig lay-outbestand.",
+        "NoFileSelected": "Geen bestand geselecteerd.",
+        "DeletedLayout": "Verwijderde lay-out"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Reset",
+          "LayoutEngine": {
+            "textLayoutName": "Lay-outnaam:",
+            "textUseLayoutEngine": "Gebruik lay-outengine",
+            "textNoLayoutData": "Geen lay-outgegevens!",
+            "textBusinessProfileUsesLayoutEngine": "Bedrijfsprofiel gebruikt lay-outengine.",
+            "textOverrideDefaultLayout": "Overschrijf de lay-out voor alle nieuwsitems"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Deze pagina is verwijderd.",
+          "textDocumentIsNotAvailableMessage": "Dit document is niet beschikbaar. Als het een nieuw document is, wacht dan een paar minuten en probeer het opnieuw. Anders kan het document zijn verwijderd."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Dit verzoek dat naar je is verzonden door {requestedBy} op {requestTime} is gesloten."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Lijstweergave met Feed-informatie",
+          "View": {
+            "Header": "Feed-informatie",
+            "Dialog": {
+              "Title": "Omnia Feed publicatie-informatie",
+              "Content": {
+                "FeedInfoForPage": "Informatie voor pagina",
+                "PublishStatus": {
+                  "Title": "Publicatiestatus",
+                  "Value": {
+                    "Delivered": "Afgeleverd",
+                    "Failed": "Mislukt",
+                    "NoInfo": "Geen informatie",
+                    "Processing": "Verwerken",
+                    "Scheduled": "Gepland"
+                  }
+                },
+                "NumberOfUsersReached": "Aantal bereikte gebruikers",
+                "TimeDeliveredToAllUsers": "Tijd afgeleverd aan alle gebruikers",
+                "TimeDeliveredToActiveUsers": "Tijd afgeleverd aan actieve gebruikers",
+                "TimeProcessingPage": "Verwerking gestart om",
+                "TimeScheduled": "Gepland om",
+                "Message": {
+                  "NoInfo": "Deze pagina is niet gesynchroniseerd in Omnia Feed onder de huidige configuratie.",
+                  "Error": "Er is een probleem met het synchronisatieproces. Controleer de log hieronder."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Bedrijfsprofiel om informatie te verkrijgen"
+            }
+          }
+        }
+      }
+    }
+  }
+}

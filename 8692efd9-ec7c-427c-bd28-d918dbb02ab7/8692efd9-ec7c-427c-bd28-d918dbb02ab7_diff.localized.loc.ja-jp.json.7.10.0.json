@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "リマインダー通知を送信",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "リクエストが閉じられるときに、完了していないユーザーに通知を送信します。"
+        }
+      },
+      "Submenu": {
+        "Layout": "レイアウト設定"
+      },
+      "TabSections": {
+        "DataMapping": "データマッピング",
+        "AddLayouts": "レイアウトを追加"
+      },
+      "Buttons": {
+        "AddLayout": "レイアウトを追加",
+        "RemoveLayout": "レイアウトを削除",
+        "AddPageType": "ページタイプを追加",
+        "Cancel": "キャンセル",
+        "CreateDraft": "ドラフトを作成",
+        "Import": "インポート",
+        "Export": "エクスポート",
+        "View": "表示"
+      },
+      "Settings": {
+        "HeaderTextColor": "ヘッダーのテキストカラー",
+        "DefaultChannel": "デフォルトチャネル",
+        "TenantScopeQuery": "テナントスコープクエリ",
+        "EnableLayoutEngine": "レイアウトエンジンを有効にする",
+        "AddScopeQuery": "スコープクエリを追加",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "ユーザーがOFMCで強制的にサインアウトされたとき",
+            "Description": "モバイルアプリのデータをリセットしますが、サインイン状態を保持します"
+          }
+        },
+        "SortByItemDate": "アイテム日付（フィード組み込み）",
+        "PageType": "ページタイプ",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "追加または更新",
+          "Delete": "削除",
+          "AutomaticPageTranslationFinished": "バリエーションページ翻訳"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "未開始",
+            "InProgress": "進行中",
+            "Completed": "完了"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "コンテンツセクションに無効または欠落しているURLがあります。",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "本当にユーザーの再同期を再試行しますか？"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "タブ設定の移行",
+            "Message": "クエリタブを複数のクエリタブに移行しますか？"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "ニュースアイテムの移行"
+        },
+        "RicherContent": {
+          "PageTypePicker": "ページタイプピッカー",
+          "BlocksPicker": "ブロックピッカー",
+          "SelectPageType": "ページタイプを選択",
+          "Block": "ブロック",
+          "SelectChildBlock": "子ブロックを選択",
+          "SelectEnterpriseProperties": "エンタープライズプロパティを選択",
+          "DragAndDrop": "ドラッグアンドドロップ",
+          "PageTypes": "ページタイプ",
+          "LayoutName": "レイアウト名",
+          "BlockTitle": "ブロックタイトル",
+          "ChildBlocks": "子ブロック",
+          "LayoutNameIsRequired": "レイアウト名は必須です",
+          "CustomStyleSheet": "カスタムスタイルシートスタイル",
+          "ThisBlockIsRequired": "このブロックは必須です",
+          "Default": "デフォルト",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "レイアウト定義の削除",
+            "MessageDeleteLayoutDefinition": "このレイアウト定義を削除しますか？",
+            "TitleDeleteBlock": "ブロックの削除",
+            "MessageDeleteBlock": "このブロックを削除しますか？",
+            "TitleRemovePageType": "ページタイプの削除",
+            "MessageRemovePageType": "このレイアウトからページタイプを削除しますか？",
+            "TitleActivateLayoutEngineMigration": "レイアウトエンジン移行の有効化",
+            "MessgeActivateLayoutEngineMigration": "レイアウトエンジン移行を有効にしますか？"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "以下のボタンをクリックすると、このビジネスプロファイルに関連付けられたニュース記事がレイアウトエンジンを使用して移行されます。このプロセスは完了するまでに時間がかかる場合があり、元に戻すことはできません。",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*このビジネスプロファイルはレイアウトエンジンを有効にしています。",
+          "MigrationProcess": "このビジネスプロファイルのニュース記事の移行が実行中です",
+          "ActivateLayoutEngineMigration": "レイアウトエンジン移行を有効にする"
+        },
+        "EventsFilter": {
+          "Title": "ホワイトリストイベントフィルター",
+          "EnableEventsFilter": "イベントフィルターを有効にする",
+          "Radio": {
+            "Hint": "ホワイトリストモードとブラックリストモードを切り替えます",
+            "Blacklist": "ブラックリスト",
+            "Whitelist": "ホワイトリスト"
+          },
+          "FilterMode": {
+            "Label": "フィルターモード",
+            "BusinessProfile": "ビジネスプロファイル",
+            "PublishingApp": "パブリッシングアプリ",
+            "PageCollection": "ページコレクション",
+            "BusinessProfileInputLabel": "ビジネスプロファイル",
+            "PublishingAppInputLabel": "パブリッシングアプリ"
+          }
+        },
+        "PreviewTab": "プレビュータブ"
+      },
+      "Common": {
+        "VersionHistory": "バージョン履歴"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "少なくとも1つのレイアウトを追加する必要があります。",
+          "NoLayoutSelectedValidateMessage": "表示セクションに少なくとも1つのレイアウトを追加する必要があります。"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "レンダーモード"
+          }
+        },
+        "MediaBlock": {
+          "Title": "メディア",
+          "RenderMode": {
+            "Title": "画像レンダーモード",
+            "ThumbnailMode": "サムネイルモード",
+            "DetailMode": "詳細モード"
+          }
+        },
+        "TagsBlock": {
+          "Title": "タグ",
+          "DisplayMode": {
+            "Title": "表示モード",
+            "Text": "テキスト",
+            "Chip": "チップ"
+          },
+          "NewTag": "新規",
+          "FixedValue": "固定値",
+          "SignOffRequestTag": "サインオフリクエスト",
+          "TagContainerStyle": "タグコンテナスタイル"
+        },
+        "TextBlock": {
+          "Title": "テキスト",
+          "DefaultContent": "デフォルトコンテンツ",
+          "LineLimit": "行制限"
+        },
+        "HeadingBlock": {
+          "Title": "見出し",
+          "LineLimit": "行制限"
+        },
+        "RichTextBlock": {
+          "Title": "リッチテキスト"
+        },
+        "IdentityBlock": {
+          "Title": "アイデンティティ",
+          "RenderMode": {
+            "DisplayName": "表示名",
+            "DisplayNameWithAvatar": "アバター付き表示名",
+            "Avatar": "アバター"
+          }
+        },
+        "DateBlock": {
+          "Title": "日付",
+          "DateFormat": "日付形式",
+          "Format": "形式",
+          "RenderMode": {
+            "TextMode": "テキスト",
+            "CalendarIconMode": "カレンダーアイコン"
+          },
+          "MonthTextStyle": "月のテキストスタイル",
+          "DateTextStyle": "日付のテキストスタイル",
+          "TextStyle": "テキストスタイル",
+          "InheritFromTenant": "テナントから継承",
+          "TheDateFormatIsIncorrect": "日付形式が正しくありません。"
+        },
+        "RelatedLinksBlock": {
+          "Title": "関連リンク",
+          "IconAndTextColor": "アイコンとテキストの色",
+          "BlockTitle": "タイトル",
+          "TitleStyle": "タイトルスタイル"
+        },
+        "SocialBlock": {
+          "Title": "ソーシャル",
+          "EnableComment": "コメントを許可",
+          "ReadOnlyMode": "読み取り専用モードで表示",
+          "SortComment": "コメントを並べ替え",
+          "RenderMode": {
+            "FullView": "フルビュー",
+            "NewComments": "新しいコメント"
+          },
+          "HideNewCommentsAfterReading": "読んだ後に新しいコメントを非表示にする"
+        },
+        "ActionButtonsBlock": {
+          "Title": "アクションボタン"
+        },
+        "DateRangeBlock": {
+          "Title": "日付範囲",
+          "To": "まで",
+          "Form": "から",
+          "MonthTextStyle": "月のテキストスタイル",
+          "DateTextStyle": "日付のテキストスタイル"
+        },
+        "RowBlock": {
+          "Title": "行",
+          "NewItemIndicator": "左側に新しいアイテムインジケーターを表示"
+        },
+        "ColumnBlock": {
+          "Title": "列"
+        },
+        "LikeButtonBlock": {
+          "Title": "いいねボタン",
+          "RenderMode": {
+            "CompactView": "コンパクトビュー",
+            "DetailView": "詳細ビュー"
+          },
+          "TextStyle": "テキストスタイル",
+          "IconAndTextColor": "アイコンとテキストの色"
+        },
+        "CommentCountBlock": {
+          "Title": "コメント数",
+          "RenderMode": {
+            "CompactView": "コンパクトビュー"
+          },
+          "IconAndTextColor": "アイコンとテキストの色"
+        },
+        "ShareButtonBlock": {
+          "Title": "共有ボタン",
+          "IconSize": "アイコンサイズ"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "コンパクト読み取り専用",
+            "Full": "フル"
+          },
+          "Title": "お気に入りボタンとして追加",
+          "AddLabel": "ラベルを追加",
+          "RemoveLabel": "ラベルを削除",
+          "LinkCategory": "リンクカテゴリ"
+        },
+        "AgendaBlock": {
+          "Title": "アジェンダ",
+          "RenderMode": {
+            "DayInWeek": "週の日"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "週の開始",
+              "Options": {
+                "Mon": "月曜日",
+                "Sun": "日曜日",
+                "Sat": "土曜日"
+              }
+            },
+            "Monday": "月曜日",
+            "Tuesday": "火曜日",
+            "Wednesday": "水曜日",
+            "Thursday": "木曜日",
+            "Friday": "金曜日",
+            "Saturday": "土曜日",
+            "Sunday": "日曜日"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "ギャラリーインジケーター"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "ビデオ再生ボタン",
+          "BackgroundColor": "背景色",
+          "IconColor": "アイコンの色",
+          "IconSize": "アイコンサイズ"
+        },
+        "VariationPickerBlock": {
+          "Title": "バリエーションピッカー",
+          "TextStyleInput": "テキストスタイルシート",
+          "ListStyleInput": "リストコンテナスタイルシート"
+        },
+        "BannerBlock": {
+          "Title": "バナー",
+          "LayoutRenderMode": {
+            "Title": "レイアウト",
+            "ImageOnTop": "画像の上",
+            "TitleAndContentOnImage": "画像上のタイトルとコンテンツ",
+            "TitleOnImage": "画像上のタイトル"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/アコーディオン",
+          "HeaderStyle": "ヘッダーのスタイル",
+          "ContentStyle": "コンテンツのスタイル"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "サインオフリクエストアクション",
+          "IconPositionOption": {
+            "Title": "アイコンの位置",
+            "LeftOfText": "テキストの左",
+            "RightOfText": "テキストの右"
+          },
+          "ConfirmLabel": "確認ラベル",
+          "TextStyleInput": "テキストスタイルシート"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "レイアウトが定義されていません",
+        "Dialog": {
+          "ConfirmCancellation": "キャンセルの確認",
+          "DiscardAllChanges": "すべての変更を破棄しますか？",
+          "ConfirmSave": "保存の確認",
+          "SaveWithoutChanges": "新しい変更はありません。保存してもよろしいですか？",
+          "ConfirmPublishing": "公開の確認",
+          "PublishLayout": "レイアウトバージョン{version}を公開しますか？"
+        },
+        "Previewers": "プレビュア",
+        "SelectUserToPreviewTheLayout": "レイアウトをプレビューするユーザーを選択",
+        "LayoutTemplatesTooltip": "レイアウトテンプレート",
+        "ImportLayoutTooltip": "レイアウトをインポート",
+        "NoDefinitionToExport": "エクスポートする定義データがありません。",
+        "ExportLayoutTooltip": "レイアウトをエクスポート",
+        "ExportErrorMessage": "レイアウト定義のエクスポート中にエラーが発生しました。",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "少なくとも1つのページタイプを追加する必要があります。"
+        },
+        "LayoutImportTitle": "レイアウトインポート",
+        "InvalidLayoutFile": "無効なレイアウトファイルです。",
+        "NoFileSelected": "ファイルが選択されていません。",
+        "DeletedLayout": "削除されたレイアウト"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "リセット",
+          "LayoutEngine": {
+            "textLayoutName": "レイアウト名：",
+            "textUseLayoutEngine": "レイアウトエンジンを使用",
+            "textNoLayoutData": "レイアウトデータがありません！",
+            "textBusinessProfileUsesLayoutEngine": "ビジネスプロファイルはレイアウトエンジンを使用しています。",
+            "textOverrideDefaultLayout": "すべてのニュースアイテムのレイアウトを上書き"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "このページは削除されました。",
+          "textDocumentIsNotAvailableMessage": "このドキュメントは利用できません。新しいドキュメントの場合は、数分待ってから再試行してください。そうでない場合は、ドキュメントが削除された可能性があります。"
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "{requestedBy}から{requestTime}に送信されたこのリクエストは閉じられました。"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "フィード情報付きリストビュー",
+          "View": {
+            "Header": "フィード情報",
+            "Dialog": {
+              "Title": "Omnia Feed公開情報",
+              "Content": {
+                "FeedInfoForPage": "ページの情報",
+                "PublishStatus": {
+                  "Title": "公開状況",
+                  "Value": {
+                    "Delivered": "配信済み",
+                    "Failed": "失敗",
+                    "NoInfo": "情報なし",
+                    "Processing": "処理中",
+                    "Scheduled": "スケジュール済み"
+                  }
+                },
+                "NumberOfUsersReached": "到達したユーザー数",
+                "TimeDeliveredToAllUsers": "すべてのユーザーに配信された時間",
+                "TimeDeliveredToActiveUsers": "アクティブユーザーに配信された時間",
+                "TimeProcessingPage": "処理開始時間",
+                "TimeScheduled": "スケジュール時間",
+                "Message": {
+                  "NoInfo": "このページは現在の設定の下でOmnia Feedに同期されていません。",
+                  "Error": "同期プロセスに問題があります。以下のログを確認してください。"
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "情報を取得するビジネスプロファイル"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "发送提醒通知",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "在请求关闭时，向未完成请求的用户发送通知。"
+        }
+      },
+      "Submenu": {
+        "Layout": "布局设置"
+      },
+      "TabSections": {
+        "DataMapping": "数据映射",
+        "AddLayouts": "添加布局"
+      },
+      "Buttons": {
+        "AddLayout": "添加布局",
+        "RemoveLayout": "移除布局",
+        "AddPageType": "添加页面类型",
+        "Cancel": "取消",
+        "CreateDraft": "创建草稿",
+        "Import": "导入",
+        "Export": "导出",
+        "View": "查看"
+      },
+      "Settings": {
+        "HeaderTextColor": "标题文本颜色",
+        "DefaultChannel": "默认频道",
+        "TenantScopeQuery": "租户范围查询",
+        "EnableLayoutEngine": "启用布局引擎",
+        "AddScopeQuery": "添加范围查询",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "当用户在 OFMC 中被强制注销时",
+            "Description": "重置移动应用上的数据，但保持登录状态"
+          }
+        },
+        "SortByItemDate": "项目日期（内置 Feed）",
+        "PageType": "页面类型",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "添加或更新",
+          "Delete": "删除",
+          "AutomaticPageTranslationFinished": "变体页面翻译"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "未开始",
+            "InProgress": "进行中",
+            "Completed": "已完成"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "内容部分的 URL 无效或缺失。",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "您确定要重试重新同步用户吗？"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "迁移选项卡设置",
+            "Message": "您想将查询选项卡迁移到多个查询选项卡吗？"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "迁移新闻项目"
+        },
+        "RicherContent": {
+          "PageTypePicker": "页面类型选择器",
+          "BlocksPicker": "区块选择器",
+          "SelectPageType": "选择页面类型",
+          "Block": "区块",
+          "SelectChildBlock": "选择子区块",
+          "SelectEnterpriseProperties": "选择企业属性",
+          "DragAndDrop": "拖放",
+          "PageTypes": "页面类型",
+          "LayoutName": "布局名称",
+          "BlockTitle": "区块标题",
+          "ChildBlocks": "子区块",
+          "LayoutNameIsRequired": "布局名称是必需的",
+          "CustomStyleSheet": "自定义样式表",
+          "ThisBlockIsRequired": "此区块是必需的",
+          "Default": "默认",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "删除布局定义",
+            "MessageDeleteLayoutDefinition": "您想删除此布局定义吗？",
+            "TitleDeleteBlock": "删除区块",
+            "MessageDeleteBlock": "您想删除此区块吗？",
+            "TitleRemovePageType": "移除页面类型",
+            "MessageRemovePageType": "您想在布局中移除此页面类型吗？",
+            "TitleActivateLayoutEngineMigration": "激活布局引擎迁移",
+            "MessgeActivateLayoutEngineMigration": "您想激活布局引擎迁移吗？"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "当您点击下面的按钮时，与此业务配置文件相关的新闻文章将使用布局引擎进行迁移。此过程可能需要一些时间完成，并且无法逆转。",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*此业务配置文件已激活布局引擎。",
+          "MigrationProcess": "正在为此业务配置文件迁移新闻文章",
+          "ActivateLayoutEngineMigration": "激活布局引擎迁移"
+        },
+        "EventsFilter": {
+          "Title": "白名单事件过滤器",
+          "EnableEventsFilter": "启用事件过滤器",
+          "Radio": {
+            "Hint": "在白名单模式和黑名单模式之间切换",
+            "Blacklist": "黑名单",
+            "Whitelist": "白名单"
+          },
+          "FilterMode": {
+            "Label": "过滤模式",
+            "BusinessProfile": "业务配置文件",
+            "PublishingApp": "发布应用",
+            "PageCollection": "页面集合",
+            "BusinessProfileInputLabel": "业务配置文件",
+            "PublishingAppInputLabel": "发布应用"
+          }
+        },
+        "PreviewTab": "预览选项卡"
+      },
+      "Common": {
+        "VersionHistory": "版本历史"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "您需要添加至少一个布局。",
+          "NoLayoutSelectedValidateMessage": "您需要在显示部分添加至少一个布局。"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "渲染模式"
+          }
+        },
+        "MediaBlock": {
+          "Title": "媒体",
+          "RenderMode": {
+            "Title": "图像渲染模式",
+            "ThumbnailMode": "缩略图模式",
+            "DetailMode": "详细模式"
+          }
+        },
+        "TagsBlock": {
+          "Title": "标签",
+          "DisplayMode": {
+            "Title": "显示模式",
+            "Text": "文本",
+            "Chip": "标签"
+          },
+          "NewTag": "新建",
+          "FixedValue": "固定值",
+          "SignOffRequestTag": "签署请求",
+          "TagContainerStyle": "标签容器样式"
+        },
+        "TextBlock": {
+          "Title": "文本",
+          "DefaultContent": "默认内容",
+          "LineLimit": "行限制"
+        },
+        "HeadingBlock": {
+          "Title": "标题",
+          "LineLimit": "行限制"
+        },
+        "RichTextBlock": {
+          "Title": "富文本"
+        },
+        "IdentityBlock": {
+          "Title": "身份",
+          "RenderMode": {
+            "DisplayName": "显示名称",
+            "DisplayNameWithAvatar": "带头像的显示名称",
+            "Avatar": "头像"
+          }
+        },
+        "DateBlock": {
+          "Title": "日期",
+          "DateFormat": "日期格式",
+          "Format": "格式",
+          "RenderMode": {
+            "TextMode": "文本",
+            "CalendarIconMode": "日历图标"
+          },
+          "MonthTextStyle": "月份文本样式",
+          "DateTextStyle": "日期文本样式",
+          "TextStyle": "文本样式",
+          "InheritFromTenant": "从租户继承",
+          "TheDateFormatIsIncorrect": "日期格式不正确。"
+        },
+        "RelatedLinksBlock": {
+          "Title": "相关链接",
+          "IconAndTextColor": "图标和文本颜色",
+          "BlockTitle": "标题",
+          "TitleStyle": "标题样式"
+        },
+        "SocialBlock": {
+          "Title": "社交",
+          "EnableComment": "允许评论",
+          "ReadOnlyMode": "以只读模式查看",
+          "SortComment": "排序评论",
+          "RenderMode": {
+            "FullView": "完整视图",
+            "NewComments": "新评论"
+          },
+          "HideNewCommentsAfterReading": "阅读后隐藏新评论"
+        },
+        "ActionButtonsBlock": {
+          "Title": "操作按钮"
+        },
+        "DateRangeBlock": {
+          "Title": "日期范围",
+          "To": "至",
+          "Form": "从",
+          "MonthTextStyle": "月份文本样式",
+          "DateTextStyle": "日期文本样式"
+        },
+        "RowBlock": {
+          "Title": "行",
+          "NewItemIndicator": "在左侧显示新项目指示器"
+        },
+        "ColumnBlock": {
+          "Title": "列"
+        },
+        "LikeButtonBlock": {
+          "Title": "点赞按钮",
+          "RenderMode": {
+            "CompactView": "紧凑视图",
+            "DetailView": "详细视图"
+          },
+          "TextStyle": "文本样式",
+          "IconAndTextColor": "图标和文本颜色"
+        },
+        "CommentCountBlock": {
+          "Title": "评论计数",
+          "RenderMode": {
+            "CompactView": "紧凑视图"
+          },
+          "IconAndTextColor": "图标和文本颜色"
+        },
+        "ShareButtonBlock": {
+          "Title": "分享按钮",
+          "IconSize": "图标大小"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "紧凑只读",
+            "Full": "完整"
+          },
+          "Title": "添加为收藏按钮",
+          "AddLabel": "添加标签",
+          "RemoveLabel": "移除标签",
+          "LinkCategory": "链接类别"
+        },
+        "AgendaBlock": {
+          "Title": "议程",
+          "RenderMode": {
+            "DayInWeek": "周中的天"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "周开始于",
+              "Options": {
+                "Mon": "星期一",
+                "Sun": "星期天",
+                "Sat": "星期六"
+              }
+            },
+            "Monday": "星期一",
+            "Tuesday": "星期二",
+            "Wednesday": "星期三",
+            "Thursday": "星期四",
+            "Friday": "星期五",
+            "Saturday": "星期六",
+            "Sunday": "星期天"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "画廊指示器"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "播放视频按钮",
+          "BackgroundColor": "背景颜色",
+          "IconColor": "图标颜色",
+          "IconSize": "图标大小"
+        },
+        "VariationPickerBlock": {
+          "Title": "变体选择器",
+          "TextStyleInput": "文本样式表",
+          "ListStyleInput": "列表容器样式表"
+        },
+        "BannerBlock": {
+          "Title": "横幅",
+          "LayoutRenderMode": {
+            "Title": "布局",
+            "ImageOnTop": "图像在上",
+            "TitleAndContentOnImage": "标题和内容在图像上",
+            "TitleOnImage": "图像上的标题"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "常见问题/手风琴",
+          "HeaderStyle": "标题样式",
+          "ContentStyle": "内容样式"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "签署请求操作",
+          "IconPositionOption": {
+            "Title": "图标位置",
+            "LeftOfText": "文本左侧",
+            "RightOfText": "文本右侧"
+          },
+          "ConfirmLabel": "确认标签",
+          "TextStyleInput": "文本样式表"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "未定义布局",
+        "Dialog": {
+          "ConfirmCancellation": "确认取消",
+          "DiscardAllChanges": "您想放弃所有更改吗？",
+          "ConfirmSave": "确认保存",
+          "SaveWithoutChanges": "您没有做任何新更改。您仍然想保存吗？",
+          "ConfirmPublishing": "确认发布",
+          "PublishLayout": "您想发布布局版本 {version} 吗？"
+        },
+        "Previewers": "预览者",
+        "SelectUserToPreviewTheLayout": "选择用户以预览布局",
+        "LayoutTemplatesTooltip": "布局模板",
+        "ImportLayoutTooltip": "导入布局",
+        "NoDefinitionToExport": "没有定义数据可供导出。",
+        "ExportLayoutTooltip": "导出布局",
+        "ExportErrorMessage": "导出布局定义时发生错误。",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "您需要添加至少一个页面类型。"
+        },
+        "LayoutImportTitle": "布局导入",
+        "InvalidLayoutFile": "无效的布局文件。",
+        "NoFileSelected": "未选择文件。",
+        "DeletedLayout": "已删除布局"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "重置",
+          "LayoutEngine": {
+            "textLayoutName": "布局名称：",
+            "textUseLayoutEngine": "使用布局引擎",
+            "textNoLayoutData": "没有布局数据！",
+            "textBusinessProfileUsesLayoutEngine": "业务配置文件使用布局引擎。",
+            "textOverrideDefaultLayout": "覆盖所有新闻项目的布局"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "此页面已被删除。",
+          "textDocumentIsNotAvailableMessage": "此文档不可用。如果这是一个新文档，请等待几分钟后再试。否则，文档可能已被删除。"
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "此请求由 {requestedBy} 于 {requestTime} 发送给您，现已关闭。"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "带有 Feed 信息的列表视图",
+          "View": {
+            "Header": "Feed 信息",
+            "Dialog": {
+              "Title": "Omnia Feed 发布信息",
+              "Content": {
+                "FeedInfoForPage": "页面信息",
+                "PublishStatus": {
+                  "Title": "发布状态",
+                  "Value": {
+                    "Delivered": "已送达",
+                    "Failed": "失败",
+                    "NoInfo": "无信息",
+                    "Processing": "处理中",
+                    "Scheduled": "已调度"
+                  }
+                },
+                "NumberOfUsersReached": "已达到用户数量",
+                "TimeDeliveredToAllUsers": "已送达所有用户的时间",
+                "TimeDeliveredToActiveUsers": "已送达活跃用户的时间",
+                "TimeProcessingPage": "开始处理时间",
+                "TimeScheduled": "调度时间",
+                "Message": {
+                  "NoInfo": "在当前配置下，此页面未同步到 Omnia Feed。",
+                  "Error": "同步过程中出现问题。请检查下面的日志。"
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "获取信息的业务配置文件"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Hatırlatma bildirimi gönder",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Talep kapatıldığında tamamlamayan kullanıcılara bildirim gönder."
+        }
+      },
+      "Submenu": {
+        "Layout": "Düzen ayarları"
+      },
+      "TabSections": {
+        "DataMapping": "Veri eşleştirme",
+        "AddLayouts": "Düzen ekle"
+      },
+      "Buttons": {
+        "AddLayout": "Düzen ekle",
+        "RemoveLayout": "Düzen kaldır",
+        "AddPageType": "Sayfa türü ekle",
+        "Cancel": "İptal",
+        "CreateDraft": "Taslak oluştur",
+        "Import": "İçe aktar",
+        "Export": "Dışa aktar",
+        "View": "Görüntüle"
+      },
+      "Settings": {
+        "HeaderTextColor": "Başlık metin rengi",
+        "DefaultChannel": "Varsayılan kanal",
+        "TenantScopeQuery": "Kiracı kapsam sorgusu",
+        "EnableLayoutEngine": "Düzen motorunu etkinleştir",
+        "AddScopeQuery": "Kapsam sorgusu ekle",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Kullanıcı OFMC'de çıkış yapmaya zorlandığında",
+            "Description": "Mobil uygulamadaki verileri sıfırla ancak oturum açma durumunu koru"
+          }
+        },
+        "SortByItemDate": "Öğe Tarihi (Besleme yerleşik)",
+        "PageType": "Sayfa türü",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Ekle veya Güncelle",
+          "Delete": "Sil",
+          "AutomaticPageTranslationFinished": "VaryasyonSayfaÇevirisi"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Başlamadı",
+            "InProgress": "Devam ediyor",
+            "Completed": "Tamamlandı"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "İçerik bölümünde geçersiz veya eksik URL.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Kullanıcıları yeniden senkronize etmek istediğinizden emin misiniz?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Sekme ayarlarını taşı",
+            "Message": "Sorgu sekmesini çoklu sorgu sekmesine taşımak istiyor musunuz?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Haber öğesini taşı"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Sayfa türü seçici",
+          "BlocksPicker": "Bloklar seçici",
+          "SelectPageType": "Sayfa türünü seç",
+          "Block": "Blok",
+          "SelectChildBlock": "Bir alt blok seç",
+          "SelectEnterpriseProperties": "Kurumsal özellikleri seç",
+          "DragAndDrop": "Sürükle ve bırak",
+          "PageTypes": "Sayfa türleri",
+          "LayoutName": "Düzen adı",
+          "BlockTitle": "Blok başlığı",
+          "ChildBlocks": "Alt bloklar",
+          "LayoutNameIsRequired": "Düzen adı gereklidir",
+          "CustomStyleSheet": "Özel Stil Sayfası stili",
+          "ThisBlockIsRequired": "Bu blok gereklidir",
+          "Default": "Varsayılan",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Düzen tanımını sil",
+            "MessageDeleteLayoutDefinition": "Bu düzen tanımını silmek istiyor musunuz?",
+            "TitleDeleteBlock": "Bloğu sil",
+            "MessageDeleteBlock": "Bu bloğu silmek istiyor musunuz?",
+            "TitleRemovePageType": "Sayfa türünü kaldır",
+            "MessageRemovePageType": "Bu sayfa türünü düzen içinde kaldırmak istiyor musunuz?",
+            "TitleActivateLayoutEngineMigration": "Düzen motoru göçünü etkinleştir",
+            "MessgeActivateLayoutEngineMigration": "Düzen motoru göçünü etkinleştirmek istiyor musunuz?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Aşağıdaki düğmeye tıkladığınızda, bu iş profili ile ilişkili haber makaleleri düzen motoru kullanılarak taşınacaktır. Bu işlem tamamlanması biraz zaman alabilir ve geri alınamaz.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Bu iş profili düzen motorunu etkinleştirmiştir.",
+          "MigrationProcess": "Bu iş profili için haber makalelerini taşımak için işlem devam ediyor",
+          "ActivateLayoutEngineMigration": "Düzen motoru göçünü etkinleştir"
+        },
+        "EventsFilter": {
+          "Title": "Beyaz liste olayları filtresi",
+          "EnableEventsFilter": "Olaylar filtresini etkinleştir",
+          "Radio": {
+            "Hint": "Beyaz liste modu ile kara liste modu arasında geçiş yap",
+            "Blacklist": "Kara liste",
+            "Whitelist": "Beyaz liste"
+          },
+          "FilterMode": {
+            "Label": "Filtre modu",
+            "BusinessProfile": "İş profili",
+            "PublishingApp": "Yayınlama uygulaması",
+            "PageCollection": "Sayfa koleksiyonu",
+            "BusinessProfileInputLabel": "İş profilleri",
+            "PublishingAppInputLabel": "Yayınlama uygulamaları"
+          }
+        },
+        "PreviewTab": "Önizleme sekmesi"
+      },
+      "Common": {
+        "VersionHistory": "Sürüm Geçmişi"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "En az bir düzen eklemeniz gerekiyor.",
+          "NoLayoutSelectedValidateMessage": "Görüntüleme bölümünde en az bir düzen eklemeniz gerekiyor."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Görüntüleme modu"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Medya",
+          "RenderMode": {
+            "Title": "Görüntüleme modu",
+            "ThumbnailMode": "Küçük resim modu",
+            "DetailMode": "Detay modu"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Etiketler",
+          "DisplayMode": {
+            "Title": "Görüntüleme modu",
+            "Text": "Metin",
+            "Chip": "Çip"
+          },
+          "NewTag": "Yeni",
+          "FixedValue": "Sabit değer",
+          "SignOffRequestTag": "Onay talebi",
+          "TagContainerStyle": "Etiket konteyner stili"
+        },
+        "TextBlock": {
+          "Title": "Metin",
+          "DefaultContent": "Varsayılan içerik",
+          "LineLimit": "Satır sınırı"
+        },
+        "HeadingBlock": {
+          "Title": "Başlık",
+          "LineLimit": "Satır sınırı"
+        },
+        "RichTextBlock": {
+          "Title": "Zengin metin"
+        },
+        "IdentityBlock": {
+          "Title": "Kimlik",
+          "RenderMode": {
+            "DisplayName": "Görüntüleme adı",
+            "DisplayNameWithAvatar": "Görüntüleme adı ile avatar",
+            "Avatar": "Avatar"
+          }
+        },
+        "DateBlock": {
+          "Title": "Tarih",
+          "DateFormat": "Tarih formatı",
+          "Format": "Format",
+          "RenderMode": {
+            "TextMode": "Metin",
+            "CalendarIconMode": "Takvim simgesi"
+          },
+          "MonthTextStyle": "Ay metin stili",
+          "DateTextStyle": "Tarih metin stili",
+          "TextStyle": "Metin stili",
+          "InheritFromTenant": "Kiracıdan miras al",
+          "TheDateFormatIsIncorrect": "Tarih formatı doğru değil."
+        },
+        "RelatedLinksBlock": {
+          "Title": "İlgili bağlantılar",
+          "IconAndTextColor": "Simge ve metin rengi",
+          "BlockTitle": "Başlık",
+          "TitleStyle": "Başlık stili"
+        },
+        "SocialBlock": {
+          "Title": "Sosyal",
+          "EnableComment": "Yorumlara izin ver",
+          "ReadOnlyMode": "Sadece görüntüleme modunda görüntüle",
+          "SortComment": "Yorumu sırala",
+          "RenderMode": {
+            "FullView": "Tam görünüm",
+            "NewComments": "Yeni yorumlar"
+          },
+          "HideNewCommentsAfterReading": "Okuduktan sonra yeni yorumları gizle"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Eylem düğmeleri"
+        },
+        "DateRangeBlock": {
+          "Title": "Tarih aralığı",
+          "To": "E",
+          "Form": "Form",
+          "MonthTextStyle": "Ay metin stili",
+          "DateTextStyle": "Tarih metin stili"
+        },
+        "RowBlock": {
+          "Title": "Satır",
+          "NewItemIndicator": "Solda yeni öğe göstergesi göster"
+        },
+        "ColumnBlock": {
+          "Title": "Sütun"
+        },
+        "LikeButtonBlock": {
+          "Title": "Beğen düğmesi",
+          "RenderMode": {
+            "CompactView": "Kompakt görünüm",
+            "DetailView": "Detay görünümü"
+          },
+          "TextStyle": "Metin stili",
+          "IconAndTextColor": "Simge ve metin rengi"
+        },
+        "CommentCountBlock": {
+          "Title": "Yorum sayısı",
+          "RenderMode": {
+            "CompactView": "Kompakt görünüm"
+          },
+          "IconAndTextColor": "Simge ve metin rengi"
+        },
+        "ShareButtonBlock": {
+          "Title": "Paylaş düğmesi",
+          "IconSize": "Simge boyutu"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakt sadece okunur",
+            "Full": "Tam"
+          },
+          "Title": "Favori olarak ekle düğmesi",
+          "AddLabel": "Etiket ekle",
+          "RemoveLabel": "Etiketi kaldır",
+          "LinkCategory": "Bağlantı kategorisi"
+        },
+        "AgendaBlock": {
+          "Title": "Gündem",
+          "RenderMode": {
+            "DayInWeek": "Haftada Gün"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Hafta başlar",
+              "Options": {
+                "Mon": "Pazartesi",
+                "Sun": "Pazar",
+                "Sat": "Cumartesi"
+              }
+            },
+            "Monday": "Pazartesi",
+            "Tuesday": "Salı",
+            "Wednesday": "Çarşamba",
+            "Thursday": "Perşembe",
+            "Friday": "Cuma",
+            "Saturday": "Cumartesi",
+            "Sunday": "Pazar"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galeri göstergesi"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Video oynat düğmesi",
+          "BackgroundColor": "Arka plan rengi",
+          "IconColor": "Simge rengi",
+          "IconSize": "Simge boyutu"
+        },
+        "VariationPickerBlock": {
+          "Title": "Varyasyon seçici",
+          "TextStyleInput": "Metin stil sayfası",
+          "ListStyleInput": "Liste konteyner stil sayfası"
+        },
+        "BannerBlock": {
+          "Title": "Afiş",
+          "LayoutRenderMode": {
+            "Title": "Düzen",
+            "ImageOnTop": "Resim üstte",
+            "TitleAndContentOnImage": "Başlık ve içerik resmin üzerinde",
+            "TitleOnImage": "Resmin üzerinde başlık"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "SSS/Akordeon",
+          "HeaderStyle": "Başlık stili",
+          "ContentStyle": "İçerik stili"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Onay talebi eylemi",
+          "IconPositionOption": {
+            "Title": "Simge konumu",
+            "LeftOfText": "Metnin solunda",
+            "RightOfText": "Metnin sağında"
+          },
+          "ConfirmLabel": "Onay etiket",
+          "TextStyleInput": "Metin stil sayfası"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Tanımlı düzen yok",
+        "Dialog": {
+          "ConfirmCancellation": "İptali onayla",
+          "DiscardAllChanges": "Tüm değişiklikleri iptal etmek istiyor musunuz?",
+          "ConfirmSave": "Kaydetmeyi onayla",
+          "SaveWithoutChanges": "Yeni bir değişiklik yapmadınız. Yine de kaydetmek istiyor musunuz?",
+          "ConfirmPublishing": "Yayınlamayı onayla",
+          "PublishLayout": "Düzen sürümünü {version} yayınlamak istiyor musunuz?"
+        },
+        "Previewers": "Önizleyiciler",
+        "SelectUserToPreviewTheLayout": "Düzeni önizlemek için kullanıcı seç",
+        "LayoutTemplatesTooltip": "Düzen şablonları",
+        "ImportLayoutTooltip": "Düzeni içe aktar",
+        "NoDefinitionToExport": "Dışa aktarılacak tanım verisi yok.",
+        "ExportLayoutTooltip": "Düzeni dışa aktar",
+        "ExportErrorMessage": "Düzen tanımını dışa aktarırken bir hata oluştu.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "En az bir sayfa türü eklemeniz gerekiyor."
+        },
+        "LayoutImportTitle": "Düzen içe aktarma",
+        "InvalidLayoutFile": "Geçersiz düzen dosyası.",
+        "NoFileSelected": "Seçili dosya yok.",
+        "DeletedLayout": "Silinmiş düzen"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Sıfırla",
+          "LayoutEngine": {
+            "textLayoutName": "Düzen adı:",
+            "textUseLayoutEngine": "Düzen motorunu kullan",
+            "textNoLayoutData": "Düzen verisi yok!",
+            "textBusinessProfileUsesLayoutEngine": "İş profili düzen motorunu kullanıyor.",
+            "textOverrideDefaultLayout": "Tüm haber öğeleri için düzeni geçersiz kıl"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Bu sayfa silinmiştir.",
+          "textDocumentIsNotAvailableMessage": "Bu belge mevcut değil. Eğer yeni bir belgeyse, lütfen birkaç dakika bekleyin ve tekrar deneyin. Aksi takdirde, belge silinmiş olabilir."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "{requestedBy} tarafından {requestTime} tarihinde size gönderilen bu talep kapatılmıştır."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Besleme bilgileri ile liste görünümü",
+          "View": {
+            "Header": "Besleme bilgileri",
+            "Dialog": {
+              "Title": "Omnia Feed yayın bilgisi",
+              "Content": {
+                "FeedInfoForPage": "Sayfa için bilgi",
+                "PublishStatus": {
+                  "Title": "Yayın durumu",
+                  "Value": {
+                    "Delivered": "Teslim edildi",
+                    "Failed": "Başarısız",
+                    "NoInfo": "Bilgi yok",
+                    "Processing": "İşleniyor",
+                    "Scheduled": "Planlandı"
+                  }
+                },
+                "NumberOfUsersReached": "Ulaşan kullanıcı sayısı",
+                "TimeDeliveredToAllUsers": "Tüm kullanıcılara teslim zamanı",
+                "TimeDeliveredToActiveUsers": "Aktif kullanıcılara teslim zamanı",
+                "TimeProcessingPage": "İşlem başlama zamanı",
+                "TimeScheduled": "Planlama zamanı",
+                "Message": {
+                  "NoInfo": "Bu sayfa mevcut yapılandırma altında Omnia Feed'e senkronize edilmemiştir.",
+                  "Error": "Senkronizasyon sürecinde bir sorun var. Lütfen aşağıdaki günlüğü kontrol edin."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Bilgi almak için iş profili"
+            }
+          }
+        }
+      }
+    }
+  }
+}

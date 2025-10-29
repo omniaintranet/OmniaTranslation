@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Siųsti priminimo pranešimą",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Siųsti pranešimą vartotojams, kurie nebaigė užklausos, kai ji bus uždaryta."
+        }
+      },
+      "Submenu": {
+        "Layout": "Išdėstymo nustatymai"
+      },
+      "TabSections": {
+        "DataMapping": "Duomenų žemėlapis",
+        "AddLayouts": "Pridėti išdėstymus"
+      },
+      "Buttons": {
+        "AddLayout": "Pridėti išdėstymą",
+        "RemoveLayout": "Pašalinti išdėstymą",
+        "AddPageType": "Pridėti puslapio tipą",
+        "Cancel": "Atšaukti",
+        "CreateDraft": "Sukurti juodraštį",
+        "Import": "Importuoti",
+        "Export": "Eksportuoti",
+        "View": "Peržiūrėti"
+      },
+      "Settings": {
+        "HeaderTextColor": "Antraštės teksto spalva",
+        "DefaultChannel": "Numatytasis kanalas",
+        "TenantScopeQuery": "Nuomininko srities užklausa",
+        "EnableLayoutEngine": "Įjungti išdėstymo variklį",
+        "AddScopeQuery": "Pridėti srities užklausą",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Kai vartotojas priverstinai atsijungia OFMC",
+            "Description": "Atstatyti duomenis mobiliojoje programėlėje, bet išlaikyti prisijungimo būseną"
+          }
+        },
+        "SortByItemDate": "Elemento data (įmontuota sraute)",
+        "PageType": "Puslapio tipas",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Pridėti arba atnaujinti",
+          "Delete": "Ištrinti",
+          "AutomaticPageTranslationFinished": "Variacijos puslapio vertimas"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nepradėta",
+            "InProgress": "Vykdoma",
+            "Completed": "Baigta"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "Neteisingas arba trūkstamas URL turinio skyriuje.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Ar tikrai norite bandyti iš naujo sinchronizuoti vartotojus?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Migracijos skirtukų nustatymai",
+            "Message": "Ar norite migruoti užklausų skirtuką į kelis užklausų skirtukus?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Migruoti naujienų elementą"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Puslapio tipo pasirinkiklis",
+          "BlocksPicker": "Blokų pasirinkiklis",
+          "SelectPageType": "Pasirinkti puslapio tipą",
+          "Block": "Blokas",
+          "SelectChildBlock": "Pasirinkti vaiko bloką",
+          "SelectEnterpriseProperties": "Pasirinkti įmonės savybes",
+          "DragAndDrop": "Temti ir mesti",
+          "PageTypes": "Puslapio tipai",
+          "LayoutName": "Išdėstymo pavadinimas",
+          "BlockTitle": "Bloko pavadinimas",
+          "ChildBlocks": "Vaiko blokai",
+          "LayoutNameIsRequired": "Išdėstymo pavadinimas yra privalomas",
+          "CustomStyleSheet": "Pritaikyta stiliaus lapo stilius",
+          "ThisBlockIsRequired": "Šis blokas yra privalomas",
+          "Default": "Numatytasis",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Ištrinti išdėstymo apibrėžimą",
+            "MessageDeleteLayoutDefinition": "Ar norite ištrinti šį išdėstymo apibrėžimą?",
+            "TitleDeleteBlock": "Ištrinti bloką",
+            "MessageDeleteBlock": "Ar norite ištrinti šį bloką?",
+            "TitleRemovePageType": "Pašalinti puslapio tipą",
+            "MessageRemovePageType": "Ar norite pašalinti šį puslapio tipą iš išdėstymo?",
+            "TitleActivateLayoutEngineMigration": "Aktyvuoti išdėstymo variklio migraciją",
+            "MessgeActivateLayoutEngineMigration": "Ar norite aktyvuoti išdėstymo variklio migraciją?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Paspaudę žemiau esantį mygtuką, naujienų straipsniai, susiję su šiuo verslo profiliu, bus migruoti naudojant išdėstymo variklį. Šis procesas gali užtrukti šiek tiek laiko ir jo negalima atšaukti.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Šis verslo profilis aktyvavo išdėstymo variklį.",
+          "MigrationProcess": "Naujienų straipsnių migracija šiam verslo profiliui vykdoma",
+          "ActivateLayoutEngineMigration": "Aktyvuoti išdėstymo variklio migraciją"
+        },
+        "EventsFilter": {
+          "Title": "Baltųjų sąrašų renginių filtras",
+          "EnableEventsFilter": "Įjungti renginių filtrą",
+          "Radio": {
+            "Hint": "Perjungti tarp baltųjų sąrašų režimo ir juodųjų sąrašų režimo",
+            "Blacklist": "Juodasis sąrašas",
+            "Whitelist": "Baltasis sąrašas"
+          },
+          "FilterMode": {
+            "Label": "Filtravimo režimas",
+            "BusinessProfile": "Verslo profilis",
+            "PublishingApp": "Leidimo programa",
+            "PageCollection": "Puslapio kolekcija",
+            "BusinessProfileInputLabel": "Verslo profiliai",
+            "PublishingAppInputLabel": "Leidimo programos"
+          }
+        },
+        "PreviewTab": "Peržiūros skirtukas"
+      },
+      "Common": {
+        "VersionHistory": "Versijų istorija"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Turite pridėti bent vieną išdėstymą.",
+          "NoLayoutSelectedValidateMessage": "Turite pridėti bent vieną išdėstymą rodymo skyriuje."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Rendavimo režimas"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Vaizdo rendavimo režimas",
+            "ThumbnailMode": "Miniatiūrų režimas",
+            "DetailMode": "Išsamus režimas"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Žymės",
+          "DisplayMode": {
+            "Title": "Rodymo režimas",
+            "Text": "Tekstas",
+            "Chip": "Žetonas"
+          },
+          "NewTag": "Naujas",
+          "FixedValue": "Fiksuota vertė",
+          "SignOffRequestTag": "Atsijungimo užklausa",
+          "TagContainerStyle": "Žymės konteinerio stilius"
+        },
+        "TextBlock": {
+          "Title": "Tekstas",
+          "DefaultContent": "Numatytasis turinys",
+          "LineLimit": "Eilučių limitas"
+        },
+        "HeadingBlock": {
+          "Title": "Antraštė",
+          "LineLimit": "Eilučių limitas"
+        },
+        "RichTextBlock": {
+          "Title": "Turtingas tekstas"
+        },
+        "IdentityBlock": {
+          "Title": "Tapatybė",
+          "RenderMode": {
+            "DisplayName": "Rodomas pavadinimas",
+            "DisplayNameWithAvatar": "Rodomas pavadinimas su avataru",
+            "Avatar": "Avataras"
+          }
+        },
+        "DateBlock": {
+          "Title": "Data",
+          "DateFormat": "Datos formatas",
+          "Format": "Formatas",
+          "RenderMode": {
+            "TextMode": "Teksto režimas",
+            "CalendarIconMode": "Kalendoriaus ikonos režimas"
+          },
+          "MonthTextStyle": "Mėnesio teksto stilius",
+          "DateTextStyle": "Datos teksto stilius",
+          "TextStyle": "Teksto stilius",
+          "InheritFromTenant": "Paveldėti iš nuomininko",
+          "TheDateFormatIsIncorrect": "Datos formatas yra neteisingas."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Susiję nuorodos",
+          "IconAndTextColor": "Ikonos ir teksto spalva",
+          "BlockTitle": "Pavadinimas",
+          "TitleStyle": "Pavadinimo stilius"
+        },
+        "SocialBlock": {
+          "Title": "Socialinis",
+          "EnableComment": "Leisti komentarus",
+          "ReadOnlyMode": "Peržiūrėti tik skaitymo režimu",
+          "SortComment": "Rūšiuoti komentarą",
+          "RenderMode": {
+            "FullView": "Pilna peržiūra",
+            "NewComments": "Nauji komentarai"
+          },
+          "HideNewCommentsAfterReading": "Slėpti naujus komentarus po skaitymo"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Veiksmų mygtukai"
+        },
+        "DateRangeBlock": {
+          "Title": "Datos intervalas",
+          "To": "Iki",
+          "Form": "Forma",
+          "MonthTextStyle": "Mėnesio teksto stilius",
+          "DateTextStyle": "Datos teksto stilius"
+        },
+        "RowBlock": {
+          "Title": "Eilutė",
+          "NewItemIndicator": "Rodyti naujo elemento indikatorių kairėje"
+        },
+        "ColumnBlock": {
+          "Title": "Stulpelis"
+        },
+        "LikeButtonBlock": {
+          "Title": "Patinka mygtukas",
+          "RenderMode": {
+            "CompactView": "Kompaktiška peržiūra",
+            "DetailView": "Išsami peržiūra"
+          },
+          "TextStyle": "Teksto stilius",
+          "IconAndTextColor": "Ikonos ir teksto spalva"
+        },
+        "CommentCountBlock": {
+          "Title": "Komentarų skaičius",
+          "RenderMode": {
+            "CompactView": "Kompaktiška peržiūra"
+          },
+          "IconAndTextColor": "Ikonos ir teksto spalva"
+        },
+        "ShareButtonBlock": {
+          "Title": "Bendrinti mygtukas",
+          "IconSize": "Ikonos dydis"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompaktiška tik skaitymui",
+            "Full": "Pilna"
+          },
+          "Title": "Pridėti prie mėgstamiausių mygtukas",
+          "AddLabel": "Pridėti etiketę",
+          "RemoveLabel": "Pašalinti etiketę",
+          "LinkCategory": "Nuorodos kategorija"
+        },
+        "AgendaBlock": {
+          "Title": "Dienotvarkė",
+          "RenderMode": {
+            "DayInWeek": "Diena savaitėje"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Savaitė prasideda",
+              "Options": {
+                "Mon": "Pirmadienis",
+                "Sun": "Sekmadienis",
+                "Sat": "Šeštadienis"
+              }
+            },
+            "Monday": "Pirmadienis",
+            "Tuesday": "Antradienis",
+            "Wednesday": "Trečiadienis",
+            "Thursday": "Ketvirtadienis",
+            "Friday": "Penktadienis",
+            "Saturday": "Šeštadienis",
+            "Sunday": "Sekmadienis"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galerijos indikatorius"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Groti vaizdo mygtukas",
+          "BackgroundColor": "Fono spalva",
+          "IconColor": "Ikonos spalva",
+          "IconSize": "Ikonos dydis"
+        },
+        "VariationPickerBlock": {
+          "Title": "Variacijos pasirinkiklis",
+          "TextStyleInput": "Teksto stiliaus lapas",
+          "ListStyleInput": "Sąrašo konteinerio stiliaus lapas"
+        },
+        "BannerBlock": {
+          "Title": "Reklaminis skydelis",
+          "LayoutRenderMode": {
+            "Title": "Išdėstymas",
+            "ImageOnTop": "Vaizdas viršuje",
+            "TitleAndContentOnImage": "Pavadinimas ir turinys ant vaizdo",
+            "TitleOnImage": "Pavadinimas ant vaizdo"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "DUK/Accordion",
+          "HeaderStyle": "Antraštės stilius",
+          "ContentStyle": "Turinio stilius"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Atsijungimo užklausos veiksmas",
+          "IconPositionOption": {
+            "Title": "Ikonos pozicija",
+            "LeftOfText": "Kairėje nuo teksto",
+            "RightOfText": "Dešinėje nuo teksto"
+          },
+          "ConfirmLabel": "Patvirtinti etiketę",
+          "TextStyleInput": "Teksto stiliaus lapas"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Nėra apibrėžto išdėstymo",
+        "Dialog": {
+          "ConfirmCancellation": "Patvirtinti atšaukimą",
+          "DiscardAllChanges": "Ar norite atmesti visus pakeitimus?",
+          "ConfirmSave": "Patvirtinti išsaugojimą",
+          "SaveWithoutChanges": "Jūs nepadarėte jokių naujų pakeitimų. Ar vis tiek norite išsaugoti?",
+          "ConfirmPublishing": "Patvirtinti publikavimą",
+          "PublishLayout": "Ar norite paskelbti išdėstymo versiją {version}?"
+        },
+        "Previewers": "Peržiūros",
+        "SelectUserToPreviewTheLayout": "Pasirinkite vartotoją, kad peržiūrėtumėte išdėstymą",
+        "LayoutTemplatesTooltip": "Išdėstymo šablonai",
+        "ImportLayoutTooltip": "Importuoti išdėstymą",
+        "NoDefinitionToExport": "Nėra apibrėžimo duomenų eksportuoti.",
+        "ExportLayoutTooltip": "Eksportuoti išdėstymą",
+        "ExportErrorMessage": "Įvyko klaida eksportuojant išdėstymo apibrėžimą.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Turite pridėti bent vieną puslapio tipą."
+        },
+        "LayoutImportTitle": "Išdėstymo importas",
+        "InvalidLayoutFile": "Neteisingas išdėstymo failas.",
+        "NoFileSelected": "Nėra pasirinkto failo.",
+        "DeletedLayout": "Ištrintas išdėstymas"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Atstatyti",
+          "LayoutEngine": {
+            "textLayoutName": "Išdėstymo pavadinimas:",
+            "textUseLayoutEngine": "Naudoti išdėstymo variklį",
+            "textNoLayoutData": "Nėra išdėstymo duomenų!",
+            "textBusinessProfileUsesLayoutEngine": "Verslo profilis naudoja išdėstymo variklį.",
+            "textOverrideDefaultLayout": "Perrašyti išdėstymą visiems naujienų elementams"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Ši puslapis buvo ištrintas.",
+          "textDocumentIsNotAvailableMessage": "Šis dokumentas nėra prieinamas. Jei tai naujas dokumentas, palaukite kelias minutes ir bandykite dar kartą. Priešingu atveju, dokumentas galėjo būti ištrintas."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Ši užklausa, kurią jums siuntė {requestedBy} {requestTime}, buvo uždaryta."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Sąrašas su srauto informacija",
+          "View": {
+            "Header": "Srauto informacija",
+            "Dialog": {
+              "Title": "Omnia Feed publikavimo informacija",
+              "Content": {
+                "FeedInfoForPage": "Informacija puslapiui",
+                "PublishStatus": {
+                  "Title": "Publikavimo būsena",
+                  "Value": {
+                    "Delivered": "Pristatyta",
+                    "Failed": "Nepavyko",
+                    "NoInfo": "Nėra informacijos",
+                    "Processing": "Apdorojama",
+                    "Scheduled": "Naplanota"
+                  }
+                },
+                "NumberOfUsersReached": "Pasiekta vartotojų skaičius",
+                "TimeDeliveredToAllUsers": "Laikas pristatyti visiems vartotojams",
+                "TimeDeliveredToActiveUsers": "Laikas pristatyti aktyviems vartotojams",
+                "TimeProcessingPage": "Pradėta apdoroti",
+                "TimeScheduled": "Naplanota",
+                "Message": {
+                  "NoInfo": "Šis puslapis nėra sinchronizuotas į Omnia Feed pagal dabartinę konfigūraciją.",
+                  "Error": "Yra problema su sinchronizavimo procesu. Prašome patikrinti žemiau esančią žurnalą."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Verslo profilis, kad gautumėte informaciją"
+            }
+          }
+        }
+      }
+    }
+  }
+}

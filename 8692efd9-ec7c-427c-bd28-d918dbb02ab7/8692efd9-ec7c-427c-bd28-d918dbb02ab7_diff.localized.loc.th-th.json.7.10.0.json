@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "ส่งการแจ้งเตือนเตือนความจำ",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "ส่งการแจ้งเตือนให้ผู้ใช้ที่ยังไม่เสร็จสิ้นคำขอเมื่อกำลังจะปิด"
+        }
+      },
+      "Submenu": {
+        "Layout": "การตั้งค่ารูปแบบ"
+      },
+      "TabSections": {
+        "DataMapping": "การแมพข้อมูล",
+        "AddLayouts": "เพิ่มรูปแบบ"
+      },
+      "Buttons": {
+        "AddLayout": "เพิ่มรูปแบบ",
+        "RemoveLayout": "ลบรูปแบบ",
+        "AddPageType": "เพิ่มประเภทหน้า",
+        "Cancel": "ยกเลิก",
+        "CreateDraft": "สร้างร่าง",
+        "Import": "นำเข้า",
+        "Export": "ส่งออก",
+        "View": "ดู"
+      },
+      "Settings": {
+        "HeaderTextColor": "สีข้อความหัวเรื่อง",
+        "DefaultChannel": "ช่องทางเริ่มต้น",
+        "TenantScopeQuery": "การค้นหาขอบเขตของผู้เช่า",
+        "EnableLayoutEngine": "เปิดใช้งานเครื่องมือจัดรูปแบบ",
+        "AddScopeQuery": "เพิ่มการค้นหาขอบเขต",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "เมื่อผู้ใช้ถูกบังคับให้ลงชื่อออกใน OFMC",
+            "Description": "รีเซ็ตข้อมูลในแอปมือถือแต่เก็บสถานะการลงชื่อเข้าใช้"
+          }
+        },
+        "SortByItemDate": "วันที่รายการ (ฟีดในตัว)",
+        "PageType": "ประเภทหน้า",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "เพิ่มหรืออัปเดต",
+          "Delete": "ลบ",
+          "AutomaticPageTranslationFinished": "การแปลหน้าหมายเลข"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "ยังไม่เริ่ม",
+            "InProgress": "กำลังดำเนินการ",
+            "Completed": "เสร็จสิ้น"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL ไม่ถูกต้องหรือขาดหายไปในส่วนเนื้อหา",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "คุณแน่ใจจริงๆ หรือว่าต้องการลองซิงค์ผู้ใช้อีกครั้ง?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "ย้ายการตั้งค่าแท็บ",
+            "Message": "คุณต้องการย้ายแท็บการค้นหาไปยังแท็บการค้นหาหลายแท็บหรือไม่?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "ย้ายรายการข่าว"
+        },
+        "RicherContent": {
+          "PageTypePicker": "ตัวเลือกประเภทหน้า",
+          "BlocksPicker": "ตัวเลือกบล็อก",
+          "SelectPageType": "เลือกประเภทหน้า",
+          "Block": "บล็อก",
+          "SelectChildBlock": "เลือกบล็อกย่อย",
+          "SelectEnterpriseProperties": "เลือกคุณสมบัติขององค์กร",
+          "DragAndDrop": "ลากและวาง",
+          "PageTypes": "ประเภทหน้า",
+          "LayoutName": "ชื่อรูปแบบ",
+          "BlockTitle": "ชื่อบล็อก",
+          "ChildBlocks": "บล็อกย่อย",
+          "LayoutNameIsRequired": "ต้องระบุชื่อรูปแบบ",
+          "CustomStyleSheet": "สไตล์ชีตที่กำหนดเอง",
+          "ThisBlockIsRequired": "บล็อกนี้จำเป็นต้องใช้",
+          "Default": "ค่าเริ่มต้น",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "ลบการกำหนดรูปแบบ",
+            "MessageDeleteLayoutDefinition": "คุณต้องการลบการกำหนดรูปแบบนี้หรือไม่?",
+            "TitleDeleteBlock": "ลบบล็อก",
+            "MessageDeleteBlock": "คุณต้องการลบบล็อกนี้หรือไม่?",
+            "TitleRemovePageType": "ลบประเภทหน้า",
+            "MessageRemovePageType": "คุณต้องการลบประเภทหน้านี้ในรูปแบบหรือไม่?",
+            "TitleActivateLayoutEngineMigration": "เปิดใช้งานการย้ายเครื่องมือจัดรูปแบบ",
+            "MessgeActivateLayoutEngineMigration": "คุณต้องการเปิดใช้งานการย้ายเครื่องมือจัดรูปแบบหรือไม่?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "เมื่อคุณคลิกปุ่มด้านล่าง บทความข่าวที่เกี่ยวข้องกับโปรไฟล์ธุรกิจนี้จะถูกย้ายโดยใช้เครื่องมือจัดรูปแบบ กระบวนการนี้อาจใช้เวลาสักครู่ในการเสร็จสิ้นและไม่สามารถย้อนกลับได้",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*โปรไฟล์ธุรกิจนี้ได้เปิดใช้งานเครื่องมือจัดรูปแบบแล้ว",
+          "MigrationProcess": "กำลังย้ายบทความข่าวสำหรับโปรไฟล์ธุรกิจนี้",
+          "ActivateLayoutEngineMigration": "เปิดใช้งานการย้ายเครื่องมือจัดรูปแบบ"
+        },
+        "EventsFilter": {
+          "Title": "ฟิลเตอร์เหตุการณ์ที่อนุญาต",
+          "EnableEventsFilter": "เปิดใช้งานฟิลเตอร์เหตุการณ์",
+          "Radio": {
+            "Hint": "สลับระหว่างโหมดอนุญาตและโหมดห้าม",
+            "Blacklist": "รายการห้าม",
+            "Whitelist": "รายการอนุญาต"
+          },
+          "FilterMode": {
+            "Label": "โหมดฟิลเตอร์",
+            "BusinessProfile": "โปรไฟล์ธุรกิจ",
+            "PublishingApp": "แอปพลิเคชันการเผยแพร่",
+            "PageCollection": "การรวบรวมหน้า",
+            "BusinessProfileInputLabel": "โปรไฟล์ธุรกิจ",
+            "PublishingAppInputLabel": "แอปพลิเคชันการเผยแพร่"
+          }
+        },
+        "PreviewTab": "แท็บตัวอย่าง"
+      },
+      "Common": {
+        "VersionHistory": "ประวัติรุ่น"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "คุณต้องเพิ่มรูปแบบอย่างน้อยหนึ่งรูปแบบ",
+          "NoLayoutSelectedValidateMessage": "คุณต้องเพิ่มรูปแบบอย่างน้อยหนึ่งรูปแบบในส่วนการแสดงผล"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "โหมดการเรนเดอร์"
+          }
+        },
+        "MediaBlock": {
+          "Title": "สื่อ",
+          "RenderMode": {
+            "Title": "โหมดการเรนเดอร์ภาพ",
+            "ThumbnailMode": "โหมดภาพขนาดย่อ",
+            "DetailMode": "โหมดรายละเอียด"
+          }
+        },
+        "TagsBlock": {
+          "Title": "แท็ก",
+          "DisplayMode": {
+            "Title": "โหมดการแสดงผล",
+            "Text": "ข้อความ",
+            "Chip": "ชิป"
+          },
+          "NewTag": "ใหม่",
+          "FixedValue": "ค่าคงที่",
+          "SignOffRequestTag": "คำขออนุมัติ",
+          "TagContainerStyle": "สไตล์ของแท็ก"
+        },
+        "TextBlock": {
+          "Title": "ข้อความ",
+          "DefaultContent": "เนื้อหาพื้นฐาน",
+          "LineLimit": "ขีดจำกัดบรรทัด"
+        },
+        "HeadingBlock": {
+          "Title": "หัวเรื่อง",
+          "LineLimit": "ขีดจำกัดบรรทัด"
+        },
+        "RichTextBlock": {
+          "Title": "ข้อความที่มีรูปแบบ"
+        },
+        "IdentityBlock": {
+          "Title": "เอกลักษณ์",
+          "RenderMode": {
+            "DisplayName": "ชื่อที่แสดง",
+            "DisplayNameWithAvatar": "ชื่อที่แสดงพร้อมอวาตาร์",
+            "Avatar": "อวาตาร์"
+          }
+        },
+        "DateBlock": {
+          "Title": "วันที่",
+          "DateFormat": "รูปแบบวันที่",
+          "Format": "รูปแบบ",
+          "RenderMode": {
+            "TextMode": "โหมดข้อความ",
+            "CalendarIconMode": "ไอคอนปฏิทิน"
+          },
+          "MonthTextStyle": "สไตล์ข้อความเดือน",
+          "DateTextStyle": "สไตล์ข้อความวันที่",
+          "TextStyle": "สไตล์ข้อความ",
+          "InheritFromTenant": "สืบทอดจากผู้เช่า",
+          "TheDateFormatIsIncorrect": "รูปแบบวันที่ไม่ถูกต้อง"
+        },
+        "RelatedLinksBlock": {
+          "Title": "ลิงก์ที่เกี่ยวข้อง",
+          "IconAndTextColor": "สีไอคอนและข้อความ",
+          "BlockTitle": "ชื่อ",
+          "TitleStyle": "สไตล์ชื่อ"
+        },
+        "SocialBlock": {
+          "Title": "โซเชียล",
+          "EnableComment": "อนุญาตให้แสดงความคิดเห็น",
+          "ReadOnlyMode": "ดูในโหมดอ่านอย่างเดียว",
+          "SortComment": "เรียงความคิดเห็น",
+          "RenderMode": {
+            "FullView": "มุมมองเต็ม",
+            "NewComments": "ความคิดเห็นใหม่"
+          },
+          "HideNewCommentsAfterReading": "ซ่อนความคิดเห็นใหม่หลังจากอ่าน"
+        },
+        "ActionButtonsBlock": {
+          "Title": "ปุ่มการกระทำ"
+        },
+        "DateRangeBlock": {
+          "Title": "ช่วงวันที่",
+          "To": "ถึง",
+          "Form": "จาก",
+          "MonthTextStyle": "สไตล์ข้อความเดือน",
+          "DateTextStyle": "สไตล์ข้อความวันที่"
+        },
+        "RowBlock": {
+          "Title": "แถว",
+          "NewItemIndicator": "แสดงสัญลักษณ์รายการใหม่ทางซ้าย"
+        },
+        "ColumnBlock": {
+          "Title": "คอลัมน์"
+        },
+        "LikeButtonBlock": {
+          "Title": "ปุ่มถูกใจ",
+          "RenderMode": {
+            "CompactView": "มุมมองกะทัดรัด",
+            "DetailView": "มุมมองรายละเอียด"
+          },
+          "TextStyle": "สไตล์ข้อความ",
+          "IconAndTextColor": "สีไอคอนและข้อความ"
+        },
+        "CommentCountBlock": {
+          "Title": "จำนวนความคิดเห็น",
+          "RenderMode": {
+            "CompactView": "มุมมองกะทัดรัด"
+          },
+          "IconAndTextColor": "สีไอคอนและข้อความ"
+        },
+        "ShareButtonBlock": {
+          "Title": "ปุ่มแชร์",
+          "IconSize": "ขนาดไอคอน"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "อ่านอย่างเดียวกะทัดรัด",
+            "Full": "เต็ม"
+          },
+          "Title": "เพิ่มเป็นปุ่มโปรด",
+          "AddLabel": "เพิ่มป้าย",
+          "RemoveLabel": "ลบป้าย",
+          "LinkCategory": "หมวดหมู่ลิงก์"
+        },
+        "AgendaBlock": {
+          "Title": "วาระ",
+          "RenderMode": {
+            "DayInWeek": "วันในสัปดาห์"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "เริ่มต้นสัปดาห์",
+              "Options": {
+                "Mon": "วันจันทร์",
+                "Sun": "วันอาทิตย์",
+                "Sat": "วันเสาร์"
+              }
+            },
+            "Monday": "วันจันทร์",
+            "Tuesday": "วันอังคาร",
+            "Wednesday": "วันพุธ",
+            "Thursday": "วันพฤหัสบดี",
+            "Friday": "วันศุกร์",
+            "Saturday": "วันเสาร์",
+            "Sunday": "วันอาทิตย์"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "ตัวบ่งชี้แกลเลอรี"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "ปุ่มเล่นวิดีโอ",
+          "BackgroundColor": "สีพื้นหลัง",
+          "IconColor": "สีไอคอน",
+          "IconSize": "ขนาดไอคอน"
+        },
+        "VariationPickerBlock": {
+          "Title": "ตัวเลือกความหลากหลาย",
+          "TextStyleInput": "สไตล์ชีตข้อความ",
+          "ListStyleInput": "สไตล์ชีตของคอนเทนเนอร์รายการ"
+        },
+        "BannerBlock": {
+          "Title": "แบนเนอร์",
+          "LayoutRenderMode": {
+            "Title": "รูปแบบ",
+            "ImageOnTop": "ภาพด้านบน",
+            "TitleAndContentOnImage": "ชื่อและเนื้อหาบนภาพ",
+            "TitleOnImage": "ชื่อบนภาพ"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "คำถามที่พบบ่อย/Accordion",
+          "HeaderStyle": "สไตล์หัวเรื่อง",
+          "ContentStyle": "สไตล์เนื้อหา"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "การกระทำคำขออนุมัติ",
+          "IconPositionOption": {
+            "Title": "ตำแหน่งไอคอน",
+            "LeftOfText": "ทางซ้ายของข้อความ",
+            "RightOfText": "ทางขวาของข้อความ"
+          },
+          "ConfirmLabel": "ยืนยันป้าย",
+          "TextStyleInput": "สไตล์ชีตข้อความ"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "ไม่มีการกำหนดรูปแบบ",
+        "Dialog": {
+          "ConfirmCancellation": "ยืนยันการยกเลิก",
+          "DiscardAllChanges": "คุณต้องการทิ้งการเปลี่ยนแปลงทั้งหมดหรือไม่?",
+          "ConfirmSave": "ยืนยันการบันทึก",
+          "SaveWithoutChanges": "คุณยังไม่ได้ทำการเปลี่ยนแปลงใหม่ คุณยังต้องการบันทึกหรือไม่?",
+          "ConfirmPublishing": "ยืนยันการเผยแพร่",
+          "PublishLayout": "คุณต้องการเผยแพร่เวอร์ชันรูปแบบ {version} หรือไม่?"
+        },
+        "Previewers": "ผู้ดูตัวอย่าง",
+        "SelectUserToPreviewTheLayout": "เลือกผู้ใช้เพื่อดูตัวอย่างรูปแบบ",
+        "LayoutTemplatesTooltip": "แม่แบบรูปแบบ",
+        "ImportLayoutTooltip": "นำเข้ารูปแบบ",
+        "NoDefinitionToExport": "ไม่มีข้อมูลการกำหนดที่จะส่งออก",
+        "ExportLayoutTooltip": "ส่งออกรูปแบบ",
+        "ExportErrorMessage": "เกิดข้อผิดพลาดขณะส่งออกรูปแบบการกำหนด",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "คุณต้องเพิ่มประเภทหน้าอย่างน้อยหนึ่งประเภท"
+        },
+        "LayoutImportTitle": "นำเข้ารูปแบบ",
+        "InvalidLayoutFile": "ไฟล์รูปแบบไม่ถูกต้อง",
+        "NoFileSelected": "ไม่มีไฟล์ที่เลือก",
+        "DeletedLayout": "ลบรูปแบบ"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "รีเซ็ต",
+          "LayoutEngine": {
+            "textLayoutName": "ชื่อรูปแบบ:",
+            "textUseLayoutEngine": "ใช้เครื่องมือจัดรูปแบบ",
+            "textNoLayoutData": "ไม่มีข้อมูลรูปแบบ!",
+            "textBusinessProfileUsesLayoutEngine": "โปรไฟล์ธุรกิจใช้เครื่องมือจัดรูปแบบ",
+            "textOverrideDefaultLayout": "เขียนทับรูปแบบสำหรับรายการข่าวทั้งหมด"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "หน้านี้ถูกลบแล้ว",
+          "textDocumentIsNotAvailableMessage": "เอกสารนี้ไม่สามารถใช้งานได้ หากเป็นเอกสารใหม่ กรุณารอไม่กี่นาทีแล้วลองอีกครั้ง มิฉะนั้นเอกสารอาจถูกลบ"
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "คำขอนี้ส่งถึงคุณจาก {requestedBy} เมื่อ {requestTime} ได้ถูกปิดแล้ว"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "มุมมองรายการพร้อมข้อมูลฟีด",
+          "View": {
+            "Header": "ข้อมูลฟีด",
+            "Dialog": {
+              "Title": "ข้อมูลการเผยแพร่ฟีด Omnia",
+              "Content": {
+                "FeedInfoForPage": "ข้อมูลสำหรับหน้า",
+                "PublishStatus": {
+                  "Title": "สถานะการเผยแพร่",
+                  "Value": {
+                    "Delivered": "ส่งแล้ว",
+                    "Failed": "ล้มเหลว",
+                    "NoInfo": "ไม่มีข้อมูล",
+                    "Processing": "กำลังประมวลผล",
+                    "Scheduled": "กำหนดการ"
+                  }
+                },
+                "NumberOfUsersReached": "จำนวนผู้ใช้ที่เข้าถึง",
+                "TimeDeliveredToAllUsers": "เวลาที่ส่งถึงผู้ใช้ทั้งหมด",
+                "TimeDeliveredToActiveUsers": "เวลาที่ส่งถึงผู้ใช้ที่ใช้งาน",
+                "TimeProcessingPage": "เริ่มการประมวลผลที่",
+                "TimeScheduled": "กำหนดการที่",
+                "Message": {
+                  "NoInfo": "หน้านี้ไม่ได้ซิงค์ไปยังฟีด Omnia ภายใต้การกำหนดค่าปัจจุบัน",
+                  "Error": "มีปัญหาเกี่ยวกับกระบวนการซิงค์ กรุณาตรวจสอบบันทึกด้านล่าง"
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "โปรไฟล์ธุรกิจเพื่อรับข้อมูล"
+            }
+          }
+        }
+      }
+    }
+  }
+}

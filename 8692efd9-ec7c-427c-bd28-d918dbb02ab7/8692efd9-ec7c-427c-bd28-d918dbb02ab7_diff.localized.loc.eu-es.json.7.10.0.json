@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "Gogorarazpen jakinaraztea bidali",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Eskaera itxi denean, eskaera osatu ez duten erabiltzaileei jakinarazpena bidali."
+        }
+      },
+      "Submenu": {
+        "Layout": "Antolamendu ezarpenak"
+      },
+      "TabSections": {
+        "DataMapping": "Datuen mapaketa",
+        "AddLayouts": "Antolamenduak gehitu"
+      },
+      "Buttons": {
+        "AddLayout": "Antolamendu gehitu",
+        "RemoveLayout": "Antolamendu ezabatu",
+        "AddPageType": "Orri mota gehitu",
+        "Cancel": "Ezeztatu",
+        "CreateDraft": "Zirriborroa sortu",
+        "Import": "Inportatu",
+        "Export": "Esportatu",
+        "View": "Ikusi"
+      },
+      "Settings": {
+        "HeaderTextColor": "Goiburuko testu kolorea",
+        "DefaultChannel": "Lehenetsitako kanala",
+        "TenantScopeQuery": "Alokairu esparru galdera",
+        "EnableLayoutEngine": "Aktibatu antolamendu motorra",
+        "AddScopeQuery": "Gehitu esparru galdera",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "Erabiltzailea OFMC-n saioa itzaltzera behartzen denean",
+            "Description": "Datuak berreskuratu mugikorretarako aplikazioan, baina saioa hasi egoera mantendu"
+          }
+        },
+        "SortByItemDate": "Elementu Data (Feed integratua)",
+        "PageType": "Orri mota",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Gehitu edo eguneratu",
+          "Delete": "Ezabatu",
+          "AutomaticPageTranslationFinished": "AldaketaOrriItzulpena"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Hasieratu gabe",
+            "InProgress": "Prozesuan",
+            "Completed": "Osatua"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "URL baliogabea edo falta da Eduki atalean.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Benetan seguru al zara erabiltzaileak berriro sinkronizatu nahi dituzula?"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "Fitxategi ezarpenak migratu",
+            "Message": "Galdera fitxategia hainbat galdera fitxategira migratu nahi al duzu?"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "Albiste elementua migratu"
+        },
+        "RicherContent": {
+          "PageTypePicker": "Orri mota hautatzailea",
+          "BlocksPicker": "Blokeen hautatzailea",
+          "SelectPageType": "Hautatu orri mota",
+          "Block": "Blokea",
+          "SelectChildBlock": "Hautatu haurren blokea",
+          "SelectEnterpriseProperties": "Hautatu enpresako propietateak",
+          "DragAndDrop": "Arrastatu eta utzi",
+          "PageTypes": "Orri motak",
+          "LayoutName": "Antolamendu izena",
+          "BlockTitle": "Bloke izena",
+          "ChildBlocks": "Haurren blokeak",
+          "LayoutNameIsRequired": "Antolamendu izena beharrezkoa da",
+          "CustomStyleSheet": "Pertsonalizatutako StyleSheet estiloa",
+          "ThisBlockIsRequired": "Bloke hau beharrezkoa da",
+          "Default": "Lehenetsia",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "Ezabatu antolamendu definizioa",
+            "MessageDeleteLayoutDefinition": "Antolamendu definizio hau ezabatu nahi al duzu?",
+            "TitleDeleteBlock": "Ezabatu blokea",
+            "MessageDeleteBlock": "Bloke hau ezabatu nahi al duzu?",
+            "TitleRemovePageType": "Kendu orri mota",
+            "MessageRemovePageType": "Antolamenduan orri mota hau kendu nahi al duzu?",
+            "TitleActivateLayoutEngineMigration": "Aktibatu antolamendu motorra migratzea",
+            "MessgeActivateLayoutEngineMigration": "Antolamendu motorra migratzea aktibatu nahi al duzu?"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "Hemen azpiko botoia sakatzean, negozio profila honekin lotutako albiste artikuluak antolamendu motorra erabiliz migratuko dira. Prozesu honek denbora bat har dezake amaitzeko eta ez da atzera bidera daiteke.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Negozio profila honek antolamendu motorra aktibatu du.",
+          "MigrationProcess": "Albiste artikuluak negozio profila honentzat migratzen ari da",
+          "ActivateLayoutEngineMigration": "Aktibatu antolamendu motorra migratzea"
+        },
+        "EventsFilter": {
+          "Title": "Zerrendako gertaeren iragazkia",
+          "EnableEventsFilter": "Aktibatu gertaeren iragazkia",
+          "Radio": {
+            "Hint": "Zerrendako modua eta beltzako modua artean aldatzea",
+            "Blacklist": "Beltz zerrenda",
+            "Whitelist": "Zerrenda onartua"
+          },
+          "FilterMode": {
+            "Label": "Iragazki modua",
+            "BusinessProfile": "Negozio profila",
+            "PublishingApp": "Argitalpen aplikazioa",
+            "PageCollection": "Orri bilduma",
+            "BusinessProfileInputLabel": "Negozio profilen",
+            "PublishingAppInputLabel": "Argitalpen aplikazioen"
+          }
+        },
+        "PreviewTab": "Aurrebista fitxategia"
+      },
+      "Common": {
+        "VersionHistory": "Bertsio Historia"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Gutxienez antolamendu bat gehitu behar duzu.",
+          "NoLayoutSelectedValidateMessage": "Display atalean gutxienez antolamendu bat gehitu behar duzu."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "Irudikapen modua"
+          }
+        },
+        "MediaBlock": {
+          "Title": "Media",
+          "RenderMode": {
+            "Title": "Irudi irudikapen modua",
+            "ThumbnailMode": "Miniatura modua",
+            "DetailMode": "Xehetasun modua"
+          }
+        },
+        "TagsBlock": {
+          "Title": "Etiketak",
+          "DisplayMode": {
+            "Title": "Irudi modua",
+            "Text": "Testua",
+            "Chip": "Txipa"
+          },
+          "NewTag": "Berria",
+          "FixedValue": "Balio finkoa",
+          "SignOffRequestTag": "Saioa itzaltzeko eskaera",
+          "TagContainerStyle": "Etiketaren edukiontzi estiloa"
+        },
+        "TextBlock": {
+          "Title": "Testua",
+          "DefaultContent": "Lehenetsitako edukia",
+          "LineLimit": "Linen muga"
+        },
+        "HeadingBlock": {
+          "Title": "Izenburua",
+          "LineLimit": "Linen muga"
+        },
+        "RichTextBlock": {
+          "Title": "Testu aberatsa"
+        },
+        "IdentityBlock": {
+          "Title": "Identitatea",
+          "RenderMode": {
+            "DisplayName": "Izena",
+            "DisplayNameWithAvatar": "Izena irudiarekin",
+            "Avatar": "Irudia"
+          }
+        },
+        "DateBlock": {
+          "Title": "Data",
+          "DateFormat": "Data formatua",
+          "Format": "Formatua",
+          "RenderMode": {
+            "TextMode": "Testu modua",
+            "CalendarIconMode": "Egutegi ikonoa"
+          },
+          "MonthTextStyle": "Hilabete testu estiloa",
+          "DateTextStyle": "Data testu estiloa",
+          "TextStyle": "Testu estiloa",
+          "InheritFromTenant": "Alokairutik heredatu",
+          "TheDateFormatIsIncorrect": "Data formatua ez da zuzena."
+        },
+        "RelatedLinksBlock": {
+          "Title": "Lotutako estekak",
+          "IconAndTextColor": "Ikono eta testu kolorea",
+          "BlockTitle": "Izenburua",
+          "TitleStyle": "Izenburu estiloa"
+        },
+        "SocialBlock": {
+          "Title": "Soziala",
+          "EnableComment": "Iruzkinak onartu",
+          "ReadOnlyMode": "Irakurri irakurri bakarrik moduan",
+          "SortComment": "Iruzkinak ordenatu",
+          "RenderMode": {
+            "FullView": "Ikuspegi osoa",
+            "NewComments": "Iruzkin berriak"
+          },
+          "HideNewCommentsAfterReading": "Iruzkin berriak irakurri ondoren ezkutatu"
+        },
+        "ActionButtonsBlock": {
+          "Title": "Ekintza botoiak"
+        },
+        "DateRangeBlock": {
+          "Title": "Data tartea",
+          "To": "Hana",
+          "Form": "Forma",
+          "MonthTextStyle": "Hilabete testu estiloa",
+          "DateTextStyle": "Data testu estiloa"
+        },
+        "RowBlock": {
+          "Title": "Errenkada",
+          "NewItemIndicator": "Ezkerrean elementu berriaren adierazlea erakutsi"
+        },
+        "ColumnBlock": {
+          "Title": "Hirukia"
+        },
+        "LikeButtonBlock": {
+          "Title": "Gustatu botoia",
+          "RenderMode": {
+            "CompactView": "Ikuspegi konpaktua",
+            "DetailView": "Ikuspegi xehetatua"
+          },
+          "TextStyle": "Testu estiloa",
+          "IconAndTextColor": "Ikono eta testu kolorea"
+        },
+        "CommentCountBlock": {
+          "Title": "Iruzkin kopurua",
+          "RenderMode": {
+            "CompactView": "Ikuspegi konpaktua"
+          },
+          "IconAndTextColor": "Ikono eta testu kolorea"
+        },
+        "ShareButtonBlock": {
+          "Title": "Partekatze botoia",
+          "IconSize": "Ikono tamaina"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Irakurri bakarrik konpaktua",
+            "Full": "Osoa"
+          },
+          "Title": "Gustoko botoia gehitu",
+          "AddLabel": "Gehitu etiketa",
+          "RemoveLabel": "Kendu etiketa",
+          "LinkCategory": "Esteka kategoria"
+        },
+        "AgendaBlock": {
+          "Title": "Agenda",
+          "RenderMode": {
+            "DayInWeek": "Asteko eguna"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "Astea hasten da",
+              "Options": {
+                "Mon": "Astelehena",
+                "Sun": "Igandea",
+                "Sat": "Larunbata"
+              }
+            },
+            "Monday": "Astelehena",
+            "Tuesday": "Asteartea",
+            "Wednesday": "Asteazkena",
+            "Thursday": "Osteguna",
+            "Friday": "Ostirala",
+            "Saturday": "Larunbata",
+            "Sunday": "Igandea"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "Galeria adierazlea"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "Bideoa jolastu botoia",
+          "BackgroundColor": "Atzeko kolorea",
+          "IconColor": "Ikono kolorea",
+          "IconSize": "Ikono tamaina"
+        },
+        "VariationPickerBlock": {
+          "Title": "Aldaketen hautatzailea",
+          "TextStyleInput": "Testu estilo orria",
+          "ListStyleInput": "Zerrenda edukiontzi estiloa"
+        },
+        "BannerBlock": {
+          "Title": "Bannerra",
+          "LayoutRenderMode": {
+            "Title": "Antolamendua",
+            "ImageOnTop": "Irudia goian",
+            "TitleAndContentOnImage": "Izenburua eta edukia irudian",
+            "TitleOnImage": "Izenburua irudian"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "FAQ/Akordeoia",
+          "HeaderStyle": "Goiburuko estiloa",
+          "ContentStyle": "Edukiko estiloa"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "Saioa itzaltzeko eskaera ekintza",
+          "IconPositionOption": {
+            "Title": "Ikono posizioa",
+            "LeftOfText": "Testuaren ezkerrean",
+            "RightOfText": "Testuaren eskuinean"
+          },
+          "ConfirmLabel": "Berretsi etiketa",
+          "TextStyleInput": "Testu estilo orria"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "Ez dago antolamendurik definituta",
+        "Dialog": {
+          "ConfirmCancellation": "Ezeztapenaren berrespena",
+          "DiscardAllChanges": "Aldaketa guztiak baztertu nahi al dituzu?",
+          "ConfirmSave": "Gorde berrespena",
+          "SaveWithoutChanges": "Ez duzu aldaketa berririk egin. Gorde nahi al duzu hala ere?",
+          "ConfirmPublishing": "Argitalpenaren berrespena",
+          "PublishLayout": "Antolamendu bertsioa {version} argitaratu nahi al duzu?"
+        },
+        "Previewers": "Aurrebista",
+        "SelectUserToPreviewTheLayout": "Hautatu erabiltzailea antolamendua aurrebistatzeko",
+        "LayoutTemplatesTooltip": "Antolamendu txantiloiak",
+        "ImportLayoutTooltip": "Antolamendua inportatu",
+        "NoDefinitionToExport": "Ez dago esportatzeko definizio daturik.",
+        "ExportLayoutTooltip": "Antolamendua esportatu",
+        "ExportErrorMessage": "Errore bat gertatu da antolamendu definizioa esportatzean.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Gutxienez orri mota bat gehitu behar duzu."
+        },
+        "LayoutImportTitle": "Antolamendu inportazioa",
+        "InvalidLayoutFile": "Antolamendu fitxategi baliogabea.",
+        "NoFileSelected": "Ez da fitxategirik hautatu.",
+        "DeletedLayout": "Ezabatutako antolamendua"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "Berrezarri",
+          "LayoutEngine": {
+            "textLayoutName": "Antolamendu izena:",
+            "textUseLayoutEngine": "Erabili antolamendu motorra",
+            "textNoLayoutData": "Ez dago antolamendu daturik!",
+            "textBusinessProfileUsesLayoutEngine": "Negozio profila antolamendu motorra erabiltzen du.",
+            "textOverrideDefaultLayout": "Gainditu albiste elementu guztientzako antolamendua"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "Orri hau ezabatu da.",
+          "textDocumentIsNotAvailableMessage": "Dokumentu hau ez dago eskuragarri. Dokumentu berri bat bada, itxaron minutu batzuk eta saiatu berriro. Bestela, dokumentua ezabatu egin daiteke."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Eskaera hau {requestedBy}k {requestTime}an bidali dizu itxi da."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "Zerrenda ikuskera Feed informazioarekin",
+          "View": {
+            "Header": "Feed informazioa",
+            "Dialog": {
+              "Title": "Omnia Feed argitalpen informazioa",
+              "Content": {
+                "FeedInfoForPage": "Orriaren informazioa",
+                "PublishStatus": {
+                  "Title": "Argitalpen egoera",
+                  "Value": {
+                    "Delivered": "Bidali",
+                    "Failed": "Ezin izan da",
+                    "NoInfo": "Ez dago informaziorik",
+                    "Processing": "Prozesuan",
+                    "Scheduled": "Programatua"
+                  }
+                },
+                "NumberOfUsersReached": "Iraupen iritsi diren erabiltzaileen kopurua",
+                "TimeDeliveredToAllUsers": "Denbora guztiei bidali zaiena",
+                "TimeDeliveredToActiveUsers": "Denbora aktibo diren erabiltzaileei bidali zaiena",
+                "TimeProcessingPage": "Prozesatzen hasi zen",
+                "TimeScheduled": "Programatua",
+                "Message": {
+                  "NoInfo": "Orri hau ez da sinkronizatuta Omnia Feed-en egungo konfigurazioan.",
+                  "Error": "Sinkronizazio prozesuan arazo bat dago. Mesedez, azpiko loga egiaztatu."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "Informazioa lortzeko negozio profila"
+            }
+          }
+        }
+      }
+    }
+  }
+}

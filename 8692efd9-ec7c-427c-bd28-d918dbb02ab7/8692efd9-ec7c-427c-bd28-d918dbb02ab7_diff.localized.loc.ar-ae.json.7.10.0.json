@@ -1,0 +1,395 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "ReminderNotification": "إرسال إشعار تذكير",
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "إرسال إشعار للمستخدمين الذين لم يكملوا الطلب عند إغلاقه."
+        }
+      },
+      "Submenu": {
+        "Layout": "إعدادات التخطيط"
+      },
+      "TabSections": {
+        "DataMapping": "تعيين البيانات",
+        "AddLayouts": "إضافة تخطيطات"
+      },
+      "Buttons": {
+        "AddLayout": "إضافة تخطيط",
+        "RemoveLayout": "إزالة التخطيط",
+        "AddPageType": "إضافة نوع صفحة",
+        "Cancel": "إلغاء",
+        "CreateDraft": "إنشاء مسودة",
+        "Import": "استيراد",
+        "Export": "تصدير",
+        "View": "عرض"
+      },
+      "Settings": {
+        "HeaderTextColor": "لون نص الرأس",
+        "DefaultChannel": "القناة الافتراضية",
+        "TenantScopeQuery": "استعلام نطاق المستأجر",
+        "EnableLayoutEngine": "تفعيل محرك التخطيط",
+        "AddScopeQuery": "إضافة استعلام نطاق",
+        "AdditionalFeatures": {
+          "WhenUserIsForcedSignOut": {
+            "Title": "عندما يتم إجبار المستخدم على تسجيل الخروج في OFMC",
+            "Description": "إعادة تعيين البيانات على التطبيق المحمول ولكن الاحتفاظ بحالة تسجيل الدخول"
+          }
+        },
+        "SortByItemDate": "تاريخ العنصر (مضمن في التغذية)",
+        "PageType": "نوع الصفحة",
+        "ServerDetectionModes": {
+          "AddOrUpdate": "إضافة أو تحديث",
+          "Delete": "حذف",
+          "AutomaticPageTranslationFinished": "ترجمة الصفحة المتغيرة"
+        },
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "لم يبدأ",
+            "InProgress": "قيد التقدم",
+            "Completed": "مكتمل"
+          }
+        },
+        "InvalidUrlInContentSectionValidateMessage": "رابط غير صالح أو مفقود في قسم المحتوى.",
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "هل أنت متأكد أنك تريد إعادة مزامنة المستخدمين؟"
+          }
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Title": "ترحيل إعدادات التبويب",
+            "Message": "هل تريد ترحيل تبويب الاستعلام إلى تبويبات استعلام متعددة؟"
+          }
+        },
+        "MigrateNewsItem": {
+          "Title": "ترحيل عنصر الأخبار"
+        },
+        "RicherContent": {
+          "PageTypePicker": "اختيار نوع الصفحة",
+          "BlocksPicker": "اختيار الكتل",
+          "SelectPageType": "اختر نوع الصفحة",
+          "Block": "كتلة",
+          "SelectChildBlock": "اختر كتلة فرعية",
+          "SelectEnterpriseProperties": "اختر خصائص المؤسسة",
+          "DragAndDrop": "سحب وإفلات",
+          "PageTypes": "أنواع الصفحات",
+          "LayoutName": "اسم التخطيط",
+          "BlockTitle": "عنوان الكتلة",
+          "ChildBlocks": "الكتل الفرعية",
+          "LayoutNameIsRequired": "اسم التخطيط مطلوب",
+          "CustomStyleSheet": "نمط ورقة الأنماط المخصصة",
+          "ThisBlockIsRequired": "هذه الكتلة مطلوبة",
+          "Default": "افتراضي",
+          "Dialog": {
+            "TitleDeleteLayoutDefinition": "حذف تعريف التخطيط",
+            "MessageDeleteLayoutDefinition": "هل تريد حذف تعريف التخطيط هذا؟",
+            "TitleDeleteBlock": "حذف الكتلة",
+            "MessageDeleteBlock": "هل تريد حذف هذه الكتلة؟",
+            "TitleRemovePageType": "إزالة نوع الصفحة",
+            "MessageRemovePageType": "هل تريد إزالة نوع الصفحة هذا في التخطيط؟",
+            "TitleActivateLayoutEngineMigration": "تفعيل ترحيل محرك التخطيط",
+            "MessgeActivateLayoutEngineMigration": "هل تريد تفعيل ترحيل محرك التخطيط؟"
+          },
+          "DescriptionOfActivateLayoutEngineMigration": "عند النقر على الزر أدناه، سيتم ترحيل المقالات الإخبارية المرتبطة بهذا الملف التجاري باستخدام محرك التخطيط. قد تستغرق هذه العملية بعض الوقت لإكمالها ولا يمكن عكسها.",
+          "ThisBusinessProfileHasActivatedTheLayoutEngine": "*هذا الملف التجاري قد قام بتفعيل محرك التخطيط.",
+          "MigrationProcess": "عملية ترحيل المقالات الإخبارية لهذا الملف التجاري جارية",
+          "ActivateLayoutEngineMigration": "تفعيل ترحيل محرك التخطيط"
+        },
+        "EventsFilter": {
+          "Title": "تصفية الأحداث المسموح بها",
+          "EnableEventsFilter": "تفعيل تصفية الأحداث",
+          "Radio": {
+            "Hint": "التبديل بين وضع القائمة البيضاء ووضع القائمة السوداء",
+            "Blacklist": "القائمة السوداء",
+            "Whitelist": "القائمة البيضاء"
+          },
+          "FilterMode": {
+            "Label": "وضع التصفية",
+            "BusinessProfile": "الملف التجاري",
+            "PublishingApp": "تطبيق النشر",
+            "PageCollection": "مجموعة الصفحات",
+            "BusinessProfileInputLabel": "الملفات التجارية",
+            "PublishingAppInputLabel": "تطبيقات النشر"
+          }
+        },
+        "PreviewTab": "علامة التبويب المعاينة"
+      },
+      "Common": {
+        "VersionHistory": "سجل الإصدارات"
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "يجب عليك إضافة تخطيط واحد على الأقل.",
+          "NoLayoutSelectedValidateMessage": "يجب عليك إضافة تخطيط واحد على الأقل في قسم العرض."
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "RenderMode": {
+            "Title": "وضع العرض"
+          }
+        },
+        "MediaBlock": {
+          "Title": "وسائط",
+          "RenderMode": {
+            "Title": "وضع عرض الصورة",
+            "ThumbnailMode": "وضع الصورة المصغرة",
+            "DetailMode": "وضع التفاصيل"
+          }
+        },
+        "TagsBlock": {
+          "Title": "العلامات",
+          "DisplayMode": {
+            "Title": "وضع العرض",
+            "Text": "نص",
+            "Chip": "شريحة"
+          },
+          "NewTag": "جديد",
+          "FixedValue": "قيمة ثابتة",
+          "SignOffRequestTag": "طلب تسجيل الخروج",
+          "TagContainerStyle": "نمط حاوية العلامات"
+        },
+        "TextBlock": {
+          "Title": "نص",
+          "DefaultContent": "محتوى افتراضي",
+          "LineLimit": "حد السطر"
+        },
+        "HeadingBlock": {
+          "Title": "عنوان",
+          "LineLimit": "حد السطر"
+        },
+        "RichTextBlock": {
+          "Title": "نص غني"
+        },
+        "IdentityBlock": {
+          "Title": "هوية",
+          "RenderMode": {
+            "DisplayName": "اسم العرض",
+            "DisplayNameWithAvatar": "اسم العرض مع الصورة الرمزية",
+            "Avatar": "صورة رمزية"
+          }
+        },
+        "DateBlock": {
+          "Title": "تاريخ",
+          "DateFormat": "تنسيق التاريخ",
+          "Format": "تنسيق",
+          "RenderMode": {
+            "TextMode": "نص",
+            "CalendarIconMode": "رمز التقويم"
+          },
+          "MonthTextStyle": "نمط نص الشهر",
+          "DateTextStyle": "نمط نص التاريخ",
+          "TextStyle": "نمط النص",
+          "InheritFromTenant": "وراثة من المستأجر",
+          "TheDateFormatIsIncorrect": "تنسيق التاريخ غير صحيح."
+        },
+        "RelatedLinksBlock": {
+          "Title": "روابط ذات صلة",
+          "IconAndTextColor": "لون الرمز والنص",
+          "BlockTitle": "عنوان",
+          "TitleStyle": "نمط العنوان"
+        },
+        "SocialBlock": {
+          "Title": "اجتماعي",
+          "EnableComment": "السماح بالتعليقات",
+          "ReadOnlyMode": "عرض في وضع القراءة فقط",
+          "SortComment": "ترتيب التعليق",
+          "RenderMode": {
+            "FullView": "عرض كامل",
+            "NewComments": "تعليقات جديدة"
+          },
+          "HideNewCommentsAfterReading": "إخفاء التعليقات الجديدة بعد القراءة"
+        },
+        "ActionButtonsBlock": {
+          "Title": "أزرار الإجراءات"
+        },
+        "DateRangeBlock": {
+          "Title": "نطاق التاريخ",
+          "To": "إلى",
+          "Form": "من",
+          "MonthTextStyle": "نمط نص الشهر",
+          "DateTextStyle": "نمط نص التاريخ"
+        },
+        "RowBlock": {
+          "Title": "صف",
+          "NewItemIndicator": "عرض مؤشر العنصر الجديد على اليسار"
+        },
+        "ColumnBlock": {
+          "Title": "عمود"
+        },
+        "LikeButtonBlock": {
+          "Title": "زر الإعجاب",
+          "RenderMode": {
+            "CompactView": "عرض مضغوط",
+            "DetailView": "عرض تفصيلي"
+          },
+          "TextStyle": "نمط النص",
+          "IconAndTextColor": "لون الرمز والنص"
+        },
+        "CommentCountBlock": {
+          "Title": "عدد التعليقات",
+          "RenderMode": {
+            "CompactView": "عرض مضغوط"
+          },
+          "IconAndTextColor": "لون الرمز والنص"
+        },
+        "ShareButtonBlock": {
+          "Title": "زر المشاركة",
+          "IconSize": "حجم الرمز"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "مضغوط للقراءة فقط",
+            "Full": "كامل"
+          },
+          "Title": "زر إضافة إلى المفضلة",
+          "AddLabel": "إضافة تسمية",
+          "RemoveLabel": "إزالة التسمية",
+          "LinkCategory": "فئة الرابط"
+        },
+        "AgendaBlock": {
+          "Title": "جدول الأعمال",
+          "RenderMode": {
+            "DayInWeek": "يوم في الأسبوع"
+          },
+          "DayInWeek": {
+            "WeekStarts": {
+              "Title": "بداية الأسبوع",
+              "Options": {
+                "Mon": "الاثنين",
+                "Sun": "الأحد",
+                "Sat": "السبت"
+              }
+            },
+            "Monday": "الاثنين",
+            "Tuesday": "الثلاثاء",
+            "Wednesday": "الأربعاء",
+            "Thursday": "الخميس",
+            "Friday": "الجمعة",
+            "Saturday": "السبت",
+            "Sunday": "الأحد"
+          }
+        },
+        "GalleryIndicatorBlock": {
+          "Title": "مؤشر المعرض"
+        },
+        "PlayVideoButtonBlock": {
+          "Title": "زر تشغيل الفيديو",
+          "BackgroundColor": "لون الخلفية",
+          "IconColor": "لون الرمز",
+          "IconSize": "حجم الرمز"
+        },
+        "VariationPickerBlock": {
+          "Title": "اختيار التغيير",
+          "TextStyleInput": "ورقة أنماط النص",
+          "ListStyleInput": "ورقة أنماط حاوية القائمة"
+        },
+        "BannerBlock": {
+          "Title": "لافتة",
+          "LayoutRenderMode": {
+            "Title": "تخطيط",
+            "ImageOnTop": "صورة في الأعلى",
+            "TitleAndContentOnImage": "عنوان ومحتوى على الصورة",
+            "TitleOnImage": "عنوان على الصورة"
+          }
+        },
+        "AccordionBlock": {
+          "Title": "أسئلة شائعة/Accordion",
+          "HeaderStyle": "نمط الرأس",
+          "ContentStyle": "نمط المحتوى"
+        },
+        "SignOffRequestActionBlock": {
+          "Title": "إجراء طلب تسجيل الخروج",
+          "IconPositionOption": {
+            "Title": "موضع الرمز",
+            "LeftOfText": "يسار النص",
+            "RightOfText": "يمين النص"
+          },
+          "ConfirmLabel": "تأكيد التسمية",
+          "TextStyleInput": "ورقة أنماط النص"
+        }
+      },
+      "Layout": {
+        "NoLayoutDefined": "لا يوجد تخطيط محدد",
+        "Dialog": {
+          "ConfirmCancellation": "تأكيد الإلغاء",
+          "DiscardAllChanges": "هل تريد تجاهل جميع التغييرات؟",
+          "ConfirmSave": "تأكيد الحفظ",
+          "SaveWithoutChanges": "لم تقم بإجراء أي تغييرات جديدة. هل لا تزال تريد الحفظ؟",
+          "ConfirmPublishing": "تأكيد النشر",
+          "PublishLayout": "هل تريد نشر إصدار التخطيط {version}؟"
+        },
+        "Previewers": "المعاينون",
+        "SelectUserToPreviewTheLayout": "اختر مستخدمًا لمعاينة التخطيط",
+        "LayoutTemplatesTooltip": "قوالب التخطيط",
+        "ImportLayoutTooltip": "استيراد التخطيط",
+        "NoDefinitionToExport": "لا توجد بيانات تعريف للتصدير.",
+        "ExportLayoutTooltip": "تصدير التخطيط",
+        "ExportErrorMessage": "حدث خطأ أثناء تصدير تعريف التخطيط.",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "يجب عليك إضافة نوع صفحة واحد على الأقل."
+        },
+        "LayoutImportTitle": "استيراد التخطيط",
+        "InvalidLayoutFile": "ملف التخطيط غير صالح.",
+        "NoFileSelected": "لا يوجد ملف محدد.",
+        "DeletedLayout": "تم حذف التخطيط"
+      },
+      "App": {
+        "Commons": {
+          "btnReset": "إعادة تعيين",
+          "LayoutEngine": {
+            "textLayoutName": "اسم التخطيط:",
+            "textUseLayoutEngine": "استخدام محرك التخطيط",
+            "textNoLayoutData": "لا توجد بيانات تخطيط!",
+            "textBusinessProfileUsesLayoutEngine": "الملف التجاري يستخدم محرك التخطيط.",
+            "textOverrideDefaultLayout": "تجاوز التخطيط لجميع عناصر الأخبار"
+          }
+        },
+        "SignOffRequest": {
+          "textThisPageHasBeenDeleted": "تم حذف هذه الصفحة.",
+          "textDocumentIsNotAvailableMessage": "هذا المستند غير متاح. إذا كان مستندًا جديدًا، يرجى الانتظار بضع دقائق ثم حاول مرة أخرى. خلاف ذلك، قد يكون المستند قد تم حذفه."
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "تم إغلاق هذا الطلب المرسل إليك من {requestedBy} في {requestTime}."
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "Title": "عرض القائمة مع معلومات التغذية",
+          "View": {
+            "Header": "معلومات التغذية",
+            "Dialog": {
+              "Title": "معلومات نشر Omnia Feed",
+              "Content": {
+                "FeedInfoForPage": "معلومات للصفحة",
+                "PublishStatus": {
+                  "Title": "حالة النشر",
+                  "Value": {
+                    "Delivered": "تم التسليم",
+                    "Failed": "فشل",
+                    "NoInfo": "لا توجد معلومات",
+                    "Processing": "قيد المعالجة",
+                    "Scheduled": "مجدول"
+                  }
+                },
+                "NumberOfUsersReached": "عدد المستخدمين الذين تم الوصول إليهم",
+                "TimeDeliveredToAllUsers": "وقت التسليم لجميع المستخدمين",
+                "TimeDeliveredToActiveUsers": "وقت التسليم للمستخدمين النشطين",
+                "TimeProcessingPage": "بدأت المعالجة في",
+                "TimeScheduled": "تم الجدولة في",
+                "Message": {
+                  "NoInfo": "هذه الصفحة غير متزامنة مع Omnia Feed تحت التكوين الحالي.",
+                  "Error": "هناك مشكلة في عملية المزامنة. يرجى التحقق من السجل أدناه."
+                }
+              }
+            },
+            "Settings": {
+              "ProfileToGetInfo": "الملف التجاري للحصول على المعلومات"
+            }
+          }
+        }
+      }
+    }
+  }
+}
