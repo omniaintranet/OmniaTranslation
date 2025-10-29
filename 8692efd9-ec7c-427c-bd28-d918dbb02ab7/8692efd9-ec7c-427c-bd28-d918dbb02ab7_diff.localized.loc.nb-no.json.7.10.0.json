@@ -27,9 +27,9 @@
       "Settings": {
         "HeaderTextColor": "Farge på overskriftstekst",
         "DefaultChannel": "Standardkanal",
-        "TenantScopeQuery": "Leietakerspørsmål",
+        "TenantScopeQuery": "Tenant spørring",
         "EnableLayoutEngine": "Aktiver oppsettmotor",
-        "AddScopeQuery": "Legg til omfangsspørsmål",
+        "AddScopeQuery": "Legg til spørring",
         "AdditionalFeatures": {
           "WhenUserIsForcedSignOut": {
             "Title": "Når brukeren blir tvunget til å logge ut i OFMC",
@@ -41,7 +41,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Legg til eller oppdater",
           "Delete": "Slett",
-          "AutomaticPageTranslationFinished": "Variasjonssidetilordning"
+          "AutomaticPageTranslationFinished": "VariationPageTranslation"
         },
         "SignOffRequest": {
           "Progress": {
@@ -59,7 +59,7 @@
         "MigrateQueryTabToMultipleQueryTab": {
           "Dialog": {
             "Title": "Migrer faneinnstillinger",
-            "Message": "Vil du migrere spørringsfanen til flere spørringsfaner?"
+            "Message": "Vil du migrere spørringsfanen til multiple spørringsfaner?"
           }
         },
         "MigrateNewsItem": {
@@ -71,7 +71,7 @@
           "SelectPageType": "Velg sidetype",
           "Block": "Blokk",
           "SelectChildBlock": "Velg en underblokk",
-          "SelectEnterpriseProperties": "Velg bedriftsinnstillinger",
+          "SelectEnterpriseProperties": "Velg bedriftsegenskaper",
           "DragAndDrop": "Dra og slipp",
           "PageTypes": "Sidetyper",
           "LayoutName": "Oppsettnavn",
@@ -91,9 +91,9 @@
             "TitleActivateLayoutEngineMigration": "Aktiver migrering av oppsettmotor",
             "MessgeActivateLayoutEngineMigration": "Vil du aktivere migrering av oppsettmotor?"
           },
-          "DescriptionOfActivateLayoutEngineMigration": "Når du klikker på knappen nedenfor, vil nyhetsartikler knyttet til denne forretningsprofilen bli migrert ved hjelp av oppsettmotoren. Denne prosessen kan ta litt tid å fullføre og kan ikke reverseres.",
+          "DescriptionOfActivateLayoutEngineMigration": "Når du klikker på knappen nedenfor, vil artikler knyttet til denne forretningsprofilen bli migrert ved hjelp av oppsettmotoren. Denne prosessen kan ta litt tid å fullføre og kan ikke reverseres.",
           "ThisBusinessProfileHasActivatedTheLayoutEngine": "*Denne forretningsprofilen har aktivert oppsettmotoren.",
-          "MigrationProcess": "Migrering av nyhetsartikler for denne forretningsprofilen pågår",
+          "MigrationProcess": "Migrering av artikler for denne forretningsprofilen pågår",
           "ActivateLayoutEngineMigration": "Aktiver migrering av oppsettmotor"
         },
         "EventsFilter": {
@@ -148,7 +148,7 @@
           "NewTag": "Ny",
           "FixedValue": "Fast verdi",
           "SignOffRequestTag": "Signeringsforespørsel",
-          "TagContainerStyle": "Taggbeholderstil"
+          "TagContainerStyle": "Tag-stil"
         },
         "TextBlock": {
           "Title": "Tekst",
@@ -157,7 +157,7 @@
         },
         "HeadingBlock": {
           "Title": "Overskrift",
-          "LineLimit": "Linjelimit"
+          "LineLimit": "Maks linjer"
         },
         "RichTextBlock": {
           "Title": "Rik tekst"
@@ -178,17 +178,17 @@
             "TextMode": "Tekst",
             "CalendarIconMode": "Kalenderikon"
           },
-          "MonthTextStyle": "Månedstekststil",
-          "DateTextStyle": "Datotekststil",
+          "MonthTextStyle": "Tekststil for måned",
+          "DateTextStyle": "Tekststil for dato",
           "TextStyle": "Tekststil",
-          "InheritFromTenant": "Arv fra leietaker",
+          "InheritFromTenant": "Arv fra tenant",
           "TheDateFormatIsIncorrect": "Datoformatet er ikke korrekt."
         },
         "RelatedLinksBlock": {
           "Title": "Relaterte lenker",
           "IconAndTextColor": "Ikon- og tekstfarge",
           "BlockTitle": "Tittel",
-          "TitleStyle": "Tittelstil"
+          "TitleStyle": "Stil for tittel"
         },
         "SocialBlock": {
           "Title": "Sosial",
@@ -208,8 +208,8 @@
           "Title": "Datointervall",
           "To": "Til",
           "Form": "Form",
-          "MonthTextStyle": "Månedstekststil",
-          "DateTextStyle": "Datotekststil"
+          "MonthTextStyle": "Tekststil for måned",
+          "DateTextStyle": "Tekststil for dato"
         },
         "RowBlock": {
           "Title": "Rad",
@@ -275,7 +275,7 @@
           "Title": "Galleriindikator"
         },
         "PlayVideoButtonBlock": {
-          "Title": "Spill video-knapp",
+          "Title": "Knap til spill video",
           "BackgroundColor": "Bakgrunnsfarge",
           "IconColor": "Ikonfarge",
           "IconSize": "Ikonstørrelse"
