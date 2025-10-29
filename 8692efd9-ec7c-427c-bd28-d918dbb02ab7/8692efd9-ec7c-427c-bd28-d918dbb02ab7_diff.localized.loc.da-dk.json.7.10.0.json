@@ -148,7 +148,7 @@
           "NewTag": "Ny",
           "FixedValue": "Fast værdi",
           "SignOffRequestTag": "Anmodning om godkendelse",
-          "TagContainerStyle": "Tag container stil"
+          "TagContainerStyle": "Tag-stil"
         },
         "TextBlock": {
           "Title": "Tekst",
