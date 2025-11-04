@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "The link you have used is not valid."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "System",
+          "Description": "Allows for 'contains' queries in the Omnia search of the people rollup",
+          "Title": "Experimental Omnia Search"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "User read all (delegated)",
+          "Description": "Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user.",
+          "ConsentInformation": "User.Read.All (Delegated)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Print"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Auto-clean pasted content"
+      }
+    }
+  }
+}
