@@ -8,12 +8,12 @@
         "New7WebContentManagementCoreFullControl": {
           "Category": "System",
           "Description": "Manage creation and governance of pages using publishing apps.",
-          "Title": "Web Content Management core (full control)",
+          "Title": "Web Content Management core (Full control)",
           "ConsentInformation": "Allows Omnia to read and write data in selected site collections."
         },
         "WebContentManagementSitesSelected": {
           "Category": "System",
-          "Description": "Manage creation and governance of pages using publishing apps delegated.",
+          "Description": "Manage creation and governance of pages using publishing apps (Delegated).",
           "Title": "Web Content Management core (Sites.Selected)",
           "ConsentInformation": "Allows Omnia to read and write data in selected site collections."
         }
@@ -25,8 +25,8 @@
           "NotificationReset": {
             "EnableSilentPublish": "Enable silent publish",
             "NewNotificationWhenPageModified": "New notification when page is modified",
-            "NotCombinedWithApproval": "This functionality can not be combined with publishing approval",
-            "NotificationPanel": "Notification Panel"
+            "NotCombinedWithApproval": "This functionality can not be combined with publishing approval.",
+            "NotificationPanel": "Notification panel"
           }
         }
       }
