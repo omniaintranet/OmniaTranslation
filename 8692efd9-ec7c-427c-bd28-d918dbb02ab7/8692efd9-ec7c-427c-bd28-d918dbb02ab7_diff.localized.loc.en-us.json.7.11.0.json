@@ -15,7 +15,7 @@
         }
       },
       "MultipleQuery": {
-        "PreviewersOnly": "Previewers Only",
+        "PreviewersOnly": "Previewers only",
         "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "This section will only affect layout engine previewers",
         "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "This section will affect both legacy and layout engine previewers"
       },
