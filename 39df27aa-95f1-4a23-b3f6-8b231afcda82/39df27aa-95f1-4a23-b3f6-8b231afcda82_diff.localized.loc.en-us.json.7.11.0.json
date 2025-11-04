@@ -8,10 +8,10 @@
       "Input": {
         "SiteUrl": "Input SharePoint you want to grant permission for app"
       },
-      "ErrorMessage": "Something wrong!",
+      "ErrorMessage": "Something went wrong!",
       "ConnectionScriptInfo": "Script to login in console app",
       "InstallationScriptInfo": "Install package from Powershell gallery",
-      "ImportScriptInfo": "Import Module before running the script",
+      "ImportScriptInfo": "Import module before running the script",
       "PermissionScriptInfo": "Run to grant permission"
     }
   },
@@ -19,7 +19,7 @@
     "Search": {
       "Admin": {
         "SemanticSearch": {
-          "ExportCopilotPlugin": "Export as Copilot Plugin"
+          "ExportCopilotPlugin": "Export as Copilot plugin"
         },
         "SearchResultSourceSettings": {
           "UseContainsQuery": "Use 'Contains' in query"
