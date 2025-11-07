@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Sélectionnés"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Autorisations spécifiques",
+      "Input": {
+        "SiteUrl": "Ajoutez l'URL du site de communication SharePoint pour lequel vous souhaitez accorder des autorisations"
+      },
+      "ErrorMessage": "Une erreur s'est produite !",
+      "ConnectionScriptInfo": "Script de connexion",
+      "InstallationScriptInfo": "Installer le package",
+      "ImportScriptInfo": "Importer le module avant d'exécuter le script",
+      "PermissionScriptInfo": "Exécutez pour accorder des autorisations"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Exporter en tant que plugin Copilot"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Utiliser 'Contient' dans la requête"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Contrôle total)</strong> n'est pas activé — <strong>autorisations insuffisantes</strong> pour provisionner le site !"
+          }
+        }
+      }
+    }
+  }
+}
