@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Tulosta"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "Järjestelmä",
+          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla.",
+          "Title": "Verkkosisällönhallinnan ydin (Täysi hallinta)",
+          "ConsentInformation": "Sallii Omnian lukea ja kirjoittaa tietoja valituissa sivustokokoelmissa."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "Järjestelmä",
+          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla (Valtuutettu).",
+          "Title": "Verkkosisällönhallinnan ydin (Sivustot.Valitut)",
+          "ConsentInformation": "Sallii Omnian lukea ja kirjoittaa tietoja valituissa sivustokokoelmissa."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Ota käyttöön hiljainen julkaisu",
+            "NewNotificationWhenPageModified": "Uusi ilmoitus, kun sivua muokataan",
+            "NotCombinedWithApproval": "Tätä toimintoa ei voida yhdistää julkaisu hyväksyntään.",
+            "NotificationPanel": "Ilmoituspaneeli"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Mahdollista rekisteröityä useammalle paikalle"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Hiljainen julkaisu"
+      }
+    }
+  }
+}
