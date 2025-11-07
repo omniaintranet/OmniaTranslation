@@ -14,7 +14,7 @@
         "WebContentManagementSitesSelected": {
           "Category": "Systeem",
           "Description": "Beheer de creatie en governance van pagina's met behulp van publicatie-apps (Gedelegeerd).",
-          "Title": "Web Content Management core (Sites.Geselecteerd)",
+          "Title": "Web Content Management core (Sites.Selected)",
           "ConsentInformation": "Staat Omnia toe om gegevens te lezen en te schrijven in geselecteerde siteverzamelingen."
         }
       }
