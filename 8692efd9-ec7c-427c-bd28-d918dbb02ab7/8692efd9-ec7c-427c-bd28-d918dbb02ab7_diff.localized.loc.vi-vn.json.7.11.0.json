@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Bạn không thể xuất bản một hồ sơ doanh nghiệp trống, hoặc một tab không có bất kỳ truy vấn nào.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Quá trình đồng bộ lại đang diễn ra, có thể mất một thời gian để hoàn thành."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Bạn có thực sự muốn đồng bộ lại tất cả người dùng trong tenant này không? Điều này sẽ đồng bộ lại {noUsers} người dùng và mất một thời gian để hoàn thành.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Bạn có thực sự muốn đồng bộ lại người dùng với các loại đã chọn không? Điều này sẽ đồng bộ lại {noUsers} người dùng và mất một thời gian để hoàn thành.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Bạn có thực sự chắc chắn muốn thử lại việc đồng bộ lại {noUsers} người dùng không? Điều này sẽ mất một thời gian để hoàn thành."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Chỉ người xem trước",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Phần này chỉ ảnh hưởng đến người xem trước của engine bố cục",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Phần này sẽ ảnh hưởng đến cả người xem trước cũ và người xem trước của engine bố cục"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Phản hồi",
+          "textReply": "Phản hồi",
+          "textShowOneReply": "Hiện 1 phản hồi",
+          "textShowMoreReplies": "Hiện {replyCount} phản hồi nữa",
+          "textYou": "Bạn"
+        }
+      }
+    }
+  }
+}
