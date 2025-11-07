@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Boş bir iş profili veya herhangi bir sorgu içermeyen bir sekme yayınlayamazsınız.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Yeniden senkronizasyon işlemi devam ediyor, tamamlanması biraz zaman alabilir."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Bu kiracıda tüm kullanıcıları yeniden senkronize etmek istiyor musunuz? Bu {noUsers} kullanıcıyı yeniden senkronize edecek ve tamamlanması biraz zaman alacak.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Seçilen türlerdeki kullanıcıları yeniden senkronize etmek istiyor musunuz? Bu {noUsers} kullanıcıyı yeniden senkronize edecek ve tamamlanması biraz zaman alacak.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Gerçekten {noUsers} kullanıcıyı yeniden senkronize etmeyi denemek istiyor musunuz? Bu biraz zaman alacak."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Sadece önizleyiciler",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Bu bölüm yalnızca düzen motoru önizleyicilerini etkileyecektir.",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Bu bölüm hem eski hem de düzen motoru önizleyicilerini etkileyecektir."
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Yanıtlar",
+          "textReply": "Yanıtla",
+          "textShowOneReply": "1 yanıtı göster",
+          "textShowMoreReplies": "{replyCount} daha yanıtı göster",
+          "textYou": "Sen"
+        }
+      }
+    }
+  }
+}
