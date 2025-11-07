@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Don leat dušše geavahit vuolggahallat, dahje tabbii mii ii leat geavahit.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Re-synkki lea prosessain, dat sáhttá geavahit muhtin áigge."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Don leat áigge geavahit buot userit dán tenanttas? Dát geavahit {noUsers} usera ja sáhttá geavahit muhtin áigge.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Don leat áigge geavahit userit mii leat valggan? Dát geavahit {noUsers} usera ja sáhttá geavahit muhtin áigge.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Don leat áigge geavahit buot userit {noUsers} geavahit? Dát sáhttá geavahit muhtin áigge."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Báhkkoláhkkat doarjja",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Dát searvi geavahit báhkkoláhkkat doarjja",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Dát searvi geavahit báhkkoláhkkat doarjja ja legacy báhkkoláhkkat"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Válddolaš",
+          "textReply": "Válddolaš",
+          "textShowOneReply": "Vis mii 1 válddolaš",
+          "textShowMoreReplies": "Vis {replyCount} muhtin válddolaš",
+          "textYou": "Don"
+        }
+      }
+    }
+  }
+}
