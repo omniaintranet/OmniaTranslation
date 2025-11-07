@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Nie możesz opublikować pustego profilu biznesowego ani zakładki bez zapytania.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Ponowne synchronizowanie jest w toku, może to zająć trochę czasu."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Czy naprawdę chcesz ponownie zsynchronizować wszystkich użytkowników w tym dzierżawcy? To spowoduje ponowną synchronizację {noUsers} użytkowników i zajmie trochę czasu.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Czy naprawdę chcesz ponownie zsynchronizować użytkowników wybranych typów? To spowoduje ponowną synchronizację {noUsers} użytkowników i zajmie trochę czasu.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Czy jesteś pewien, że chcesz spróbować ponownie zsynchronizować {noUsers} użytkowników? To zajmie trochę czasu."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Tylko podglądający",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Ta sekcja wpłynie tylko na podglądających silnika układu",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Ta sekcja wpłynie zarówno na podglądających starszej wersji, jak i silnika układu"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Odpowiedzi",
+          "textReply": "Odpowiedź",
+          "textShowOneReply": "Pokaż 1 odpowiedź",
+          "textShowMoreReplies": "Pokaż {replyCount} więcej odpowiedzi",
+          "textYou": "Ty"
+        }
+      }
+    }
+  }
+}
