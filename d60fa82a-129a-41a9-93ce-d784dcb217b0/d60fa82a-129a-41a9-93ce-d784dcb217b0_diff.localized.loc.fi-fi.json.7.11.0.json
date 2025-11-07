@@ -14,7 +14,7 @@
         "WebContentManagementSitesSelected": {
           "Category": "Järjestelmä",
           "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla (Valtuutettu).",
-          "Title": "Verkkosisällönhallinnan ydin (Sivustot.Valitut)",
+          "Title": "Verkkosisällönhallinnan ydin (Sites.Selected)",
           "ConsentInformation": "Sallii Omnian lukea ja kirjoittaa tietoja valituissa sivustokokoelmissa."
         }
       }
