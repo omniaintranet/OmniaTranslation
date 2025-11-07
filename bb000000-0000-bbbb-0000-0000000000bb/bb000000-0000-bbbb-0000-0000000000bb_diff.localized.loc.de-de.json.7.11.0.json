@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Der von Ihnen verwendete Link ist nicht gültig."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "System",
+          "Description": "Ermöglicht 'enthält'-Abfragen in der Omnia-Suche im Personen-Rollup.",
+          "Title": "Experimentelle Omnia-Suche"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "Benutzer lesen alle (Delegiert)",
+          "Description": "Ermöglicht der App, das vollständige Set von Profil-Eigenschaften, Berichten und Vorgesetzten anderer Benutzer in Ihrer Organisation im Namen des angemeldeten Benutzers zu lesen.",
+          "ConsentInformation": "User.Read.All (Delegiert)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Drucken"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Inhalt nach dem Einfügen automatisch bereinigen"
+      }
+    }
+  }
+}
