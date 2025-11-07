@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Platser.Utvalda"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Specifika behörigheter",
+      "Input": {
+        "SiteUrl": "Lägg till URL:en för SharePoint kommunikationssidan som du vill ge behörighet för"
+      },
+      "ErrorMessage": "Något gick fel!",
+      "ConnectionScriptInfo": "Script för inloggning",
+      "InstallationScriptInfo": "Installera paket",
+      "ImportScriptInfo": "Importera modul innan du kör scriptet",
+      "PermissionScriptInfo": "Kör för att ge behörighet"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Exportera som Copilot-plugin"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Använd 'Innehåller' i frågan"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Full kontroll)</strong> är inte aktiverat — <strong>otillräckliga behörigheter</strong> för att skapa sidan!"
+          }
+        }
+      }
+    }
+  }
+}
