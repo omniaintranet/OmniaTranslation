@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Anda tidak boleh menerbitkan profil perniagaan yang kosong, atau tab tanpa sebarang pertanyaan.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Proses penyegerakan semula sedang dijalankan, ia mungkin mengambil sedikit masa untuk diselesaikan."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Adakah anda benar-benar ingin menyegerakkan semula semua pengguna dalam tenant ini? Ini akan menyegerakkan semula {noUsers} pengguna dan mengambil sedikit masa untuk diselesaikan.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Adakah anda benar-benar ingin menyegerakkan semula pengguna dengan jenis yang dipilih? Ini akan menyegerakkan semula {noUsers} pengguna dan mengambil sedikit masa untuk diselesaikan.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Adakah anda benar-benar pasti ingin mencuba semula penyegerakan semula {noUsers} pengguna? Ini akan mengambil sedikit masa untuk diselesaikan."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Hanya untuk pemapar",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Bahagian ini hanya akan memberi kesan kepada pemapar enjin susun atur",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Bahagian ini akan memberi kesan kepada pemapar warisan dan pemapar enjin susun atur"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Balasan",
+          "textReply": "Balas",
+          "textShowOneReply": "Tunjukkan 1 balasan",
+          "textShowMoreReplies": "Tunjukkan {replyCount} balasan lagi",
+          "textYou": "Anda"
+        }
+      }
+    }
+  }
+}
