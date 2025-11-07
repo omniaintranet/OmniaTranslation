@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Imprimir"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "Sistema",
+          "Description": "Gestionar la creación y gobernanza de páginas utilizando aplicaciones de publicación.",
+          "Title": "Gestión de Contenidos Web (Control total)",
+          "ConsentInformation": "Permite a Omnia leer y escribir datos en colecciones de sitios seleccionadas."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "Sistema",
+          "Description": "Gestionar la creación y gobernanza de páginas utilizando aplicaciones de publicación (Delegado).",
+          "Title": "Gestión de Contenidos Web (Sitios.Seleccionados)",
+          "ConsentInformation": "Permite a Omnia leer y escribir datos en colecciones de sitios seleccionadas."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Habilitar publicación silenciosa",
+            "NewNotificationWhenPageModified": "Nueva notificación cuando la página es modificada",
+            "NotCombinedWithApproval": "Esta funcionalidad no se puede combinar con la aprobación de publicación.",
+            "NotificationPanel": "Panel de notificaciones"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Posible inscribirse en múltiples asientos"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Publicación silenciosa"
+      }
+    }
+  }
+}
