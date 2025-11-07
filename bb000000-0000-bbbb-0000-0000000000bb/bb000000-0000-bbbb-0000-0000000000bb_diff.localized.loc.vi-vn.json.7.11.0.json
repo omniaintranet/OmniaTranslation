@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Liên kết bạn đã sử dụng không hợp lệ."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "Hệ thống",
+          "Description": "Cho phép truy vấn 'chứa' trong tìm kiếm Omnia trong tổng hợp người dùng.",
+          "Title": "Tìm kiếm Omnia thử nghiệm"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Tích hợp",
+          "Title": "Người dùng đọc tất cả (Ủy quyền)",
+          "Description": "Cho phép ứng dụng đọc toàn bộ tập hợp các thuộc tính hồ sơ, báo cáo và quản lý của các người dùng khác trong tổ chức của bạn, thay mặt cho người dùng đã đăng nhập.",
+          "ConsentInformation": "User.Read.All (Ủy quyền)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "In"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Tự động dọn dẹp nội dung đã dán"
+      }
+    }
+  }
+}
