@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "System": {
-      "SitesSelected": "Steder.Valgt"
+      "SitesSelected": "Sites.Selected"
     },
     "SitesSelectedSettings": {
       "Header": "Spesifikke tillatelser",
