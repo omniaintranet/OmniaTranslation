@@ -1,12 +1,12 @@
 {
   "OTAD": {
     "System": {
-      "SitesSelected": "Platser.Utvalda"
+      "SitesSelected": "Sites.Selected"
     },
     "SitesSelectedSettings": {
       "Header": "Specifika behörigheter",
       "Input": {
-        "SiteUrl": "Lägg till URL:en för SharePoint kommunikationssidan som du vill ge behörighet för"
+        "SiteUrl": "Lägg till URL för den SharePoint Communication site som du vill ge behörighet för"
       },
       "ErrorMessage": "Något gick fel!",
       "ConnectionScriptInfo": "Script för inloggning",
@@ -22,7 +22,7 @@
           "ExportCopilotPlugin": "Exportera som Copilot-plugin"
         },
         "SearchResultSourceSettings": {
-          "UseContainsQuery": "Använd 'Innehåller' i frågan"
+          "UseContainsQuery": "Använd 'Contains' i frågan"
         }
       }
     }
