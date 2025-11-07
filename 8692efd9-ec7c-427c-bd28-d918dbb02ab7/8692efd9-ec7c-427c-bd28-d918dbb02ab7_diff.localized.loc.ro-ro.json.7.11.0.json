@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Nu poți publica un profil de afaceri gol sau un tab fără nicio interogare.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Re-sincronizarea este în curs de desfășurare, poate dura ceva timp pentru a se finaliza."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Chiar vrei să re-sincronizezi toți utilizatorii din acest tenant? Aceasta va re-sincroniza {noUsers} utilizatori și va dura ceva timp pentru a se finaliza.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Chiar vrei să re-sincronizezi utilizatorii cu tipurile selectate? Aceasta va re-sincroniza {noUsers} utilizatori și va dura ceva timp pentru a se finaliza.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Ești sigur că vrei să încerci din nou re-sincronizarea a {noUsers} utilizatori? Aceasta va dura ceva timp pentru a se finaliza."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Numai previzualizatori",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Această secțiune va afecta doar previzualizatorii motorului de layout",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Această secțiune va afecta atât previzualizatorii vechi, cât și pe cei ai motorului de layout"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Răspunsuri",
+          "textReply": "Răspunde",
+          "textShowOneReply": "Arată 1 răspuns",
+          "textShowMoreReplies": "Arată {replyCount} răspunsuri în plus",
+          "textYou": "Tu"
+        }
+      }
+    }
+  }
+}
