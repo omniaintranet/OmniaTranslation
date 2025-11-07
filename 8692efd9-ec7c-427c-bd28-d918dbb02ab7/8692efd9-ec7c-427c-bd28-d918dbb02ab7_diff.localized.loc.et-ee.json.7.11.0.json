@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Sa ei saa avaldada tühja äriprofiili ega vahekaarti, millel pole ühtegi päringut.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Uuesti sünkroonimine on käimas, selle lõpetamine võib võtta aega."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Kas tõesti soovid uuesti sünkroonida kõiki kasutajaid selles tenantis? See sünkroonib uuesti {noUsers} kasutajat ja selle lõpetamine võib võtta aega.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Kas tõesti soovid uuesti sünkroonida valitud tüüpide kasutajaid? See sünkroonib uuesti {noUsers} kasutajat ja selle lõpetamine võib võtta aega.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Kas oled tõeliselt kindel, et soovid proovida uuesti sünkroonida {noUsers} kasutajat? Selle lõpetamine võib võtta aega."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Ainult eelvaatajad",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "See jaotis mõjutab ainult paigutusmootori eelvaatajaid",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "See jaotis mõjutab nii pärand- kui ka paigutusmootori eelvaatajaid"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Vastused",
+          "textReply": "Vasta",
+          "textShowOneReply": "Kuva 1 vastus",
+          "textShowMoreReplies": "Kuva {replyCount} rohkem vastust",
+          "textYou": "Sa"
+        }
+      }
+    }
+  }
+}
