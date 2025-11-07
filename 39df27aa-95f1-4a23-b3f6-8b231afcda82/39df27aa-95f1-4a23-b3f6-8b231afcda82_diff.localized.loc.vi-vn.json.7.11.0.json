@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Quyền truy cập cụ thể",
+      "Input": {
+        "SiteUrl": "Thêm URL của trang SharePoint mà bạn muốn cấp quyền"
+      },
+      "ErrorMessage": "Đã xảy ra sự cố!",
+      "ConnectionScriptInfo": "Kịch bản để đăng nhập",
+      "InstallationScriptInfo": "Cài đặt gói",
+      "ImportScriptInfo": "Nhập mô-đun trước khi chạy kịch bản",
+      "PermissionScriptInfo": "Chạy để cấp quyền"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Xuất dưới dạng plugin Copilot"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Sử dụng 'Chứa' trong truy vấn"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Quyền kiểm soát đầy đủ)</strong> chưa được kích hoạt — <strong>quyền truy cập không đủ</strong> để cung cấp trang!"
+          }
+        }
+      }
+    }
+  }
+}
