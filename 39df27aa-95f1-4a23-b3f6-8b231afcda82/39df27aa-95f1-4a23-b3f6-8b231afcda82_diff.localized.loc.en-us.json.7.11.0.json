@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Specific permissions",
+      "Input": {
+        "SiteUrl": "Add the SharePoint communication site URL you want to grant permission for"
+      },
+      "ErrorMessage": "Something went wrong!",
+      "ConnectionScriptInfo": "Script to login",
+      "InstallationScriptInfo": "Install package",
+      "ImportScriptInfo": "Import module before running the script",
+      "PermissionScriptInfo": "Run to grant permission"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Export as Copilot plugin"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Use 'Contains' in query"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Full control)</strong> is not activated — <strong>insufficient permissions</strong> to provision site!"
+          }
+        }
+      }
+    }
+  }
+}
