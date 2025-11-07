@@ -4,13 +4,13 @@
       "SitesSelected": "Sites.Selected"
     },
     "SitesSelectedSettings": {
-      "Header": "Sites.Selected",
+      "Header": "Specific permissions",
       "Input": {
-        "SiteUrl": "Input SharePoint you want to grant permission for app"
+        "SiteUrl": "Add the SharePoint communication site URL you want to grant permission for"
       },
       "ErrorMessage": "Something went wrong!",
-      "ConnectionScriptInfo": "Script to login in console app",
-      "InstallationScriptInfo": "Install package from Powershell gallery",
+      "ConnectionScriptInfo": "Script to login",
+      "InstallationScriptInfo": "Install package",
       "ImportScriptInfo": "Import module before running the script",
       "PermissionScriptInfo": "Run to grant permission"
     }
