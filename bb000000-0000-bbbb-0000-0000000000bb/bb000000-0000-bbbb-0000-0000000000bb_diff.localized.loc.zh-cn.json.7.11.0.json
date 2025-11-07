@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "您使用的链接无效。"
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "系统",
+          "Description": "允许在Omnia搜索中进行'包含'查询，适用于人员汇总。",
+          "Title": "实验性Omnia搜索"
+        },
+        "UserReadAllDelegated": {
+          "Category": "集成",
+          "Title": "用户读取所有（委托）",
+          "Description": "允许应用代表已登录用户读取您组织中其他用户的完整个人资料属性、报告和经理信息。",
+          "ConsentInformation": "User.Read.All（委托）"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "打印"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "自动清理粘贴内容"
+      }
+    }
+  }
+}
