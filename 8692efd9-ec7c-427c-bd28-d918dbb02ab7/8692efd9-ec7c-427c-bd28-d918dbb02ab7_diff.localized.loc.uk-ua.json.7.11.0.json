@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Ви не можете опублікувати порожній бізнес-профіль або вкладку без запиту.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Повторна синхронізація триває, це може зайняти деякий час."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Ви дійсно хочете повторно синхронізувати всіх користувачів у цьому орендарі? Це призведе до повторної синхронізації {noUsers} користувачів і займе деякий час.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Ви дійсно хочете повторно синхронізувати користувачів з вибраними типами? Це призведе до повторної синхронізації {noUsers} користувачів і займе деякий час.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Ви дійсно впевнені, що хочете повторити спробу повторної синхронізації {noUsers} користувачів? Це займе деякий час."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Тільки для перегляду",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Цей розділ вплине лише на переглядачів движка макета",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Цей розділ вплине як на старі, так і на переглядачів движка макета"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Відповіді",
+          "textReply": "Відповідь",
+          "textShowOneReply": "Показати 1 відповідь",
+          "textShowMoreReplies": "Показати ще {replyCount} відповідей",
+          "textYou": "Ви"
+        }
+      }
+    }
+  }
+}
