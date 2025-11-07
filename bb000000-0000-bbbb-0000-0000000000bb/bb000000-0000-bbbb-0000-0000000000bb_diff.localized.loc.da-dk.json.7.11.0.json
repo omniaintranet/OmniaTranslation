@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Det link, du har brugt, er ikke gyldigt."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "System",
+          "Description": "Muliggør 'indeholder' forespørgsler i Omnia-søgning i personers opsamling.",
+          "Title": "Eksperimentel Omnia-søgning"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "Bruger læs alle (Delegated)",
+          "Description": "Giver appen mulighed for at læse det fulde sæt af profiloplysninger, rapporter og ledere for andre brugere i din organisation på vegne af den indloggede bruger.",
+          "ConsentInformation": "User.Read.All (Delegated)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Print"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Auto-rens indsat indhold"
+      }
+    }
+  }
+}
