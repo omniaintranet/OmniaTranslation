@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "لا يمكنك نشر ملف تعريف عمل فارغ، أو علامة تبويب بدون أي استعلام.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "إعادة المزامنة قيد المعالجة، قد يستغرق الأمر بعض الوقت لإنهائها."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "هل تريد حقًا إعادة مزامنة جميع المستخدمين في هذا المستأجر؟ ستعيد مزامنة {noUsers} مستخدمين وستستغرق بعض الوقت لإكمالها.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "هل تريد حقًا إعادة مزامنة المستخدمين من الأنواع المحددة؟ ستعيد مزامنة {noUsers} مستخدمين وستستغرق بعض الوقت لإكمالها.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "هل أنت متأكد حقًا أنك تريد إعادة محاولة مزامنة {noUsers} مستخدمين؟ ستستغرق بعض الوقت لإكمالها."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "للمعاينين فقط",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "ستؤثر هذه القسم فقط على معايني محرك التخطيط",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "ستؤثر هذه القسم على كل من معايني النسخة القديمة ومعايني محرك التخطيط"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "ردود",
+          "textReply": "رد",
+          "textShowOneReply": "عرض رد واحد",
+          "textShowMoreReplies": "عرض {replyCount} ردود أخرى",
+          "textYou": "أنت"
+        }
+      }
+    }
+  }
+}
