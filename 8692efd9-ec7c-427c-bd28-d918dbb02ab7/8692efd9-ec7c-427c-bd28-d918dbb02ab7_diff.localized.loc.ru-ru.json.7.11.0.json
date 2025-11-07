@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Вы не можете опубликовать пустой бизнес-профиль или вкладку без запроса.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Повторная синхронизация в процессе, это может занять некоторое время."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Вы действительно хотите повторно синхронизировать всех пользователей в этом арендаторе? Это повторно синхронизирует {noUsers} пользователей и займет некоторое время.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Вы действительно хотите повторно синхронизировать пользователей с выбранными типами? Это повторно синхронизирует {noUsers} пользователей и займет некоторое время.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Вы действительно уверены, что хотите повторить попытку синхронизации {noUsers} пользователей? Это займет некоторое время."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Только для предварительного просмотра",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Этот раздел повлияет только на предварительные просмотры движка компоновки",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Этот раздел повлияет как на устаревшие, так и на предварительные просмотры движка компоновки"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Ответы",
+          "textReply": "Ответ",
+          "textShowOneReply": "Показать 1 ответ",
+          "textShowMoreReplies": "Показать еще {replyCount} ответов",
+          "textYou": "Вы"
+        }
+      }
+    }
+  }
+}
