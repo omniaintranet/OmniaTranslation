@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "De link die je hebt gebruikt is niet geldig."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "Systeem",
+          "Description": "Staat 'bevat' zoekopdrachten toe in Omnia-zoekopdracht in mensenrollup.",
+          "Title": "Experimentele Omnia-zoekopdracht"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integratie",
+          "Title": "Gebruiker lees alles (gedelegeerd)",
+          "Description": "Staat de app toe om de volledige set van profiel eigenschappen, rapporten en managers van andere gebruikers in jouw organisatie te lezen, namens de ingelogde gebruiker.",
+          "ConsentInformation": "User.Read.All (Gedelegeerd)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Afdrukken"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Automatisch geplakte inhoud opschonen"
+      }
+    }
+  }
+}
