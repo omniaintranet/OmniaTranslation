@@ -14,8 +14,8 @@
         "WebContentManagementSitesSelected": {
           "Category": "System",
           "Description": "Hantera skapande och styrning av sidor med hjälp av publiceringsappar (Delegat).",
-          "Title": "Webbplatsinnehållshantering kärna (Platser.Valda)",
-          "ConsentInformation": "Tillåter Omnia att läsa och skriva data i valda webbplatskollektioner."
+          "Title": "Webbpinnehållshantering bas (Sites.Selected)",
+          "ConsentInformation": "Tillåter Omnia att läsa och skriva data i valda sidsamlingar."
         }
       }
     },
@@ -26,7 +26,7 @@
             "EnableSilentPublish": "Aktivera tyst publicering",
             "NewNotificationWhenPageModified": "Ny avisering när sidan ändras",
             "NotCombinedWithApproval": "Denna funktionalitet kan inte kombineras med publiceringsgodkännande.",
-            "NotificationPanel": "Aviseringspanel"
+            "NotificationPanel": "Notifieringspanel"
           }
         }
       }
