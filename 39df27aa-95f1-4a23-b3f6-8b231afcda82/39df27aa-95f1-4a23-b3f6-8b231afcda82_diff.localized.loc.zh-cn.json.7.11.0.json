@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "已选择站点"
+    },
+    "SitesSelectedSettings": {
+      "Header": "特定权限",
+      "Input": {
+        "SiteUrl": "添加您想要授予权限的 SharePoint 通信站点 URL"
+      },
+      "ErrorMessage": "出现问题！",
+      "ConnectionScriptInfo": "登录脚本",
+      "InstallationScriptInfo": "安装包",
+      "ImportScriptInfo": "在运行脚本之前导入模块",
+      "PermissionScriptInfo": "运行以授予权限"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "导出为 Copilot 插件"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "在查询中使用 '包含'"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm 核心（完全控制）</strong> 未激活 — <strong>权限不足</strong> 以配置站点！"
+          }
+        }
+      }
+    }
+  }
+}
