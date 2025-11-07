@@ -22,7 +22,7 @@
           "ExportCopilotPlugin": "Exportera som Copilot-plugin"
         },
         "SearchResultSourceSettings": {
-          "UseContainsQuery": "Använd 'Contains' i frågan"
+          "UseContainsQuery": "Använd 'Innehåller' i frågan"
         }
       }
     }
