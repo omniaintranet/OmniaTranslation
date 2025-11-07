@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "System": {
-      "SitesSelected": "Sivustot.Valitut"
+      "SitesSelected": "Sites.Selected"
     },
     "SitesSelectedSettings": {
       "Header": "Erityiset käyttöoikeudet",
