@@ -14,7 +14,7 @@
         "WebContentManagementSitesSelected": {
           "Category": "Système",
           "Description": "Gérer la création et la gouvernance des pages à l'aide d'applications de publication (Délégué).",
-          "Title": "Gestion de contenu web core (Sites.Sélectionnés)",
+          "Title": "Gestion de contenu web core (Sites.Selected)",
           "ConsentInformation": "Permet à Omnia de lire et d'écrire des données dans les collections de sites sélectionnées."
         }
       }
