@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "System": {
-      "SitesSelected": "Sites.Sélectionnés"
+      "SitesSelected": "Sites.Selected"
     },
     "SitesSelectedSettings": {
       "Header": "Autorisations spécifiques",
