@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Negalite paskelbti tuščio verslo profilio arba skilties be jokios užklausos.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Per-sinchronizavimas vykdomas, tai gali užtrukti šiek tiek laiko."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Ar tikrai norite per-sinchronizuoti visus vartotojus šiame nuomotojui? Tai per-sinchronizuos {noUsers} vartotojus ir užtruks šiek tiek laiko.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Ar tikrai norite per-sinchronizuoti vartotojus su pasirinktais tipais? Tai per-sinchronizuos {noUsers} vartotojus ir užtruks šiek tiek laiko.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Ar tikrai esate tikri, kad norite bandyti dar kartą per-sinchronizuoti {noUsers} vartotojus? Tai užtruks šiek tiek laiko."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Tik peržiūros vartotojai",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Ši dalis paveiks tik maketų variklio peržiūros vartotojus",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Ši dalis paveiks tiek senosios, tiek maketų variklio peržiūros vartotojus"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Atsakymai",
+          "textReply": "Atsakyti",
+          "textShowOneReply": "Rodyti 1 atsakymą",
+          "textShowMoreReplies": "Rodyti dar {replyCount} atsakymus",
+          "textYou": "Jūs"
+        }
+      }
+    }
+  }
+}
