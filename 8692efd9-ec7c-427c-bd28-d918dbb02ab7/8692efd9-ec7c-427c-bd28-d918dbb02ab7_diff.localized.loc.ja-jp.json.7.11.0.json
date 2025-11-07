@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "空のビジネスプロファイルやクエリのないタブを公開することはできません。",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "再同期処理中です。完了までに時間がかかる場合があります。"
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "このテナント内のすべてのユーザーを再同期してもよろしいですか？ {noUsers} 人のユーザーを再同期し、完了までに時間がかかります。",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "選択したタイプのユーザーを再同期してもよろしいですか？ {noUsers} 人のユーザーを再同期し、完了までに時間がかかります。",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "{noUsers} 人のユーザーの再同期を再試行してもよろしいですか？完了までに時間がかかります。"
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "プレビューのみ",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "このセクションはレイアウトエンジンプレビューのみ影響します",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "このセクションはレガシーおよびレイアウトエンジンプレビューの両方に影響します"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "返信",
+          "textReply": "返信",
+          "textShowOneReply": "1件の返信を表示",
+          "textShowMoreReplies": "{replyCount} 件の返信を表示",
+          "textYou": "あなた"
+        }
+      }
+    }
+  }
+}
