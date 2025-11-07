@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Nemôžete publikovať prázdny obchodný profil ani kartu bez akéhokoľvek dotazu.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Pre-synchronizácia prebieha, môže to chvíľu trvať."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Naozaj chcete pre-synchronizovať všetkých používateľov v tomto tenantovi? To pre-synchronizuje {noUsers} používateľov a potrvá to nejaký čas.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Naozaj chcete pre-synchronizovať používateľov s vybranými typmi? To pre-synchronizuje {noUsers} používateľov a potrvá to nejaký čas.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Ste si naozaj istí, že chcete znova skúsiť pre-synchronizovať {noUsers} používateľov? To potrvá nejaký čas."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Iba prehliadači",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Táto sekcia ovplyvní iba prehliadačov rozloženia",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Táto sekcia ovplyvní ako starých, tak aj prehliadačov rozloženia"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Odpovede",
+          "textReply": "Odpoveď",
+          "textShowOneReply": "Zobraziť 1 odpoveď",
+          "textShowMoreReplies": "Zobraziť {replyCount} ďalších odpovedí",
+          "textYou": "Vy"
+        }
+      }
+    }
+  }
+}

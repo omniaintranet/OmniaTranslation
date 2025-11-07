@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "You cannot publish an empty business profile, or a tab without any query.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Re-sync is in progress, it may take some time to finish."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Do you really want to resync all users in this tenant? This will resync {noUsers} users and may take some time to complete.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Do you really want to resync users of the selected types? This will resync {noUsers} users and may take some time to complete.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Are you really sure you want to retry resyncing {noUsers} users? This may take some time to complete."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Previewers only",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "This section will only affect layout engine previewers",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "This section will affect both legacy and layout engine previewers"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Replies",
+          "textReply": "Reply",
+          "textShowOneReply": "Show 1 reply",
+          "textShowMoreReplies": "Show {replyCount} more replies",
+          "textYou": "You"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Skriv ut"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Hantera skapande och styrning av sidor med hjälp av publiceringsappar.",
+          "Title": "Webbplatsinnehållshantering kärna (Full kontroll)",
+          "ConsentInformation": "Tillåter Omnia att läsa och skriva data i valda webbplatskollektioner."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Hantera skapande och styrning av sidor med hjälp av publiceringsappar (Delegat).",
+          "Title": "Webbplatsinnehållshantering kärna (Platser.Valda)",
+          "ConsentInformation": "Tillåter Omnia att läsa och skriva data i valda webbplatskollektioner."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Aktivera tyst publicering",
+            "NewNotificationWhenPageModified": "Ny avisering när sidan ändras",
+            "NotCombinedWithApproval": "Denna funktionalitet kan inte kombineras med publiceringsgodkännande.",
+            "NotificationPanel": "Aviseringspanel"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Möjligt att anmäla sig för flera platser"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Tyst publicering"
+      }
+    }
+  }
+}

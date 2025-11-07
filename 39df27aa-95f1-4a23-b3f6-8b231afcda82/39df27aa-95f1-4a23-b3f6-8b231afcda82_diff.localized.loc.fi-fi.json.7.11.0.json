@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Erityiset käyttöoikeudet",
+      "Input": {
+        "SiteUrl": "Lisää SharePoint-viestintäsivuston URL-osoite, jolle haluat myöntää käyttöoikeuden"
+      },
+      "ErrorMessage": "Jotain meni pieleen!",
+      "ConnectionScriptInfo": "Kirjautumisskripti",
+      "InstallationScriptInfo": "Asenna paketti",
+      "ImportScriptInfo": "Tuo moduuli ennen skriptin suorittamista",
+      "PermissionScriptInfo": "Suorita käyttöoikeuden myöntämiseksi"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Vie Copilot-laajennuksena"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Käytä 'Sisältää' kyselyssä"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Täysi hallinta)</strong> ei ole aktivoitu — <strong>riittämättömät käyttöoikeudet</strong> sivuston määrittämiseen!"
+          }
+        }
+      }
+    }
+  }
+}

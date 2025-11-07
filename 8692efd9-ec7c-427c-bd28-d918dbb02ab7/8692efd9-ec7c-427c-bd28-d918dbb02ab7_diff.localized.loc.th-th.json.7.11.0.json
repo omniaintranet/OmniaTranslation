@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "คุณไม่สามารถเผยแพร่โปรไฟล์ธุรกิจที่ว่างเปล่าหรือแท็บที่ไม่มีคำถามได้",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "กำลังประมวลผลการซิงค์ใหม่ อาจใช้เวลาสักครู่ในการเสร็จสิ้น"
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "คุณต้องการซิงค์ใหม่ผู้ใช้ทั้งหมดในเทนแนนต์นี้จริงหรือ? นี่จะซิงค์ใหม่ผู้ใช้ {noUsers} คนและใช้เวลาสักครู่ในการเสร็จสิ้น",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "คุณต้องการซิงค์ใหม่ผู้ใช้ตามประเภทที่เลือกจริงหรือ? นี่จะซิงค์ใหม่ผู้ใช้ {noUsers} คนและใช้เวลาสักครู่ในการเสร็จสิ้น",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "คุณแน่ใจจริงๆ หรือว่าต้องการลองซิงค์ใหม่ผู้ใช้ {noUsers} คนอีกครั้ง? นี่จะใช้เวลาสักครู่ในการเสร็จสิ้น"
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "เฉพาะผู้ดูตัวอย่าง",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "ส่วนนี้จะมีผลเฉพาะกับผู้ดูตัวอย่างของเลย์เอาต์เท่านั้น",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "ส่วนนี้จะมีผลกับทั้งผู้ดูตัวอย่างแบบเก่าและผู้ดูตัวอย่างของเลย์เอาต์"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "การตอบกลับ",
+          "textReply": "ตอบกลับ",
+          "textShowOneReply": "แสดงการตอบกลับ 1 รายการ",
+          "textShowMoreReplies": "แสดงการตอบกลับเพิ่มเติม {replyCount} รายการ",
+          "textYou": "คุณ"
+        }
+      }
+    }
+  }
+}

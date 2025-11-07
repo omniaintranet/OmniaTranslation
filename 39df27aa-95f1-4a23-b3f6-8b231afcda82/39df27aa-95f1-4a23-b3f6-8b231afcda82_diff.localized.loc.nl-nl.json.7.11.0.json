@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Specifieke machtigingen",
+      "Input": {
+        "SiteUrl": "Voeg de URL van de SharePoint-communicatiesite toe waarvoor u machtiging wilt verlenen"
+      },
+      "ErrorMessage": "Er is iets misgegaan!",
+      "ConnectionScriptInfo": "Script om in te loggen",
+      "InstallationScriptInfo": "Installeer pakket",
+      "ImportScriptInfo": "Importeer module voordat u het script uitvoert",
+      "PermissionScriptInfo": "Voer uit om machtiging te verlenen"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Exporteer als Copilot-plugin"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Gebruik 'Bevat' in query"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Volledige controle)</strong> is niet geactiveerd — <strong>onvoldoende machtigingen</strong> om site te provisioneren!"
+          }
+        }
+      }
+    }
+  }
+}

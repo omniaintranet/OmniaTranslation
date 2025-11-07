@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Sie können kein leeres Unternehmensprofil oder einen Tab ohne Abfrage veröffentlichen.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Die erneute Synchronisierung wird verarbeitet, es kann einige Zeit dauern, bis sie abgeschlossen ist."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Möchten Sie wirklich alle Benutzer in diesem Mandanten erneut synchronisieren? Dies wird {noUsers} Benutzer erneut synchronisieren und einige Zeit in Anspruch nehmen.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Möchten Sie wirklich Benutzer mit ausgewählten Typen erneut synchronisieren? Dies wird {noUsers} Benutzer erneut synchronisieren und einige Zeit in Anspruch nehmen.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Sind Sie sich wirklich sicher, dass Sie die erneute Synchronisierung von {noUsers} Benutzern erneut versuchen möchten? Dies wird einige Zeit in Anspruch nehmen."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Nur Vorschauer",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Dieser Abschnitt betrifft nur die Vorschauer der Layout-Engine",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Dieser Abschnitt betrifft sowohl die Legacy- als auch die Layout-Engine-Vorschauer"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Antworten",
+          "textReply": "Antwort",
+          "textShowOneReply": "1 Antwort anzeigen",
+          "textShowMoreReplies": "Weitere {replyCount} Antworten anzeigen",
+          "textYou": "Sie"
+        }
+      }
+    }
+  }
+}

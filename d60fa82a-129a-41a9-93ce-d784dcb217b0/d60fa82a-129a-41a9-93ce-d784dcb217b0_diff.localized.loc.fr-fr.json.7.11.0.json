@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Imprimer"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "Système",
+          "Description": "Gérer la création et la gouvernance des pages à l'aide d'applications de publication.",
+          "Title": "Gestion de contenu web core (Contrôle total)",
+          "ConsentInformation": "Permet à Omnia de lire et d'écrire des données dans les collections de sites sélectionnées."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "Système",
+          "Description": "Gérer la création et la gouvernance des pages à l'aide d'applications de publication (Délégué).",
+          "Title": "Gestion de contenu web core (Sites.Sélectionnés)",
+          "ConsentInformation": "Permet à Omnia de lire et d'écrire des données dans les collections de sites sélectionnées."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Activer la publication silencieuse",
+            "NewNotificationWhenPageModified": "Nouvelle notification lorsque la page est modifiée",
+            "NotCombinedWithApproval": "Cette fonctionnalité ne peut pas être combinée avec l'approbation de publication.",
+            "NotificationPanel": "Panneau de notification"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Possibilité de s'inscrire pour plusieurs places"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Publication silencieuse"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Drucken"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen.",
+          "Title": "Web Content Management Kern (Vollzugriff)",
+          "ConsentInformation": "Erlaubt Omnia, Daten in ausgewählten Site-Sammlungen zu lesen und zu schreiben."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen (Delegiert).",
+          "Title": "Web Content Management Kern (Sites.Selected)",
+          "ConsentInformation": "Erlaubt Omnia, Daten in ausgewählten Site-Sammlungen zu lesen und zu schreiben."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Stillen Veröffentlichungsmodus aktivieren",
+            "NewNotificationWhenPageModified": "Neue Benachrichtigung, wenn die Seite geändert wird",
+            "NotCombinedWithApproval": "Diese Funktionalität kann nicht mit der Veröffentlichungsfreigabe kombiniert werden.",
+            "NotificationPanel": "Benachrichtigungsfeld"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Es ist möglich, mehrere Plätze anzumelden"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Stille Veröffentlichung"
+      }
+    }
+  }
+}

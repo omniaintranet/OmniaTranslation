@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Länken du har använt är inte giltig."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "System",
+          "Description": "Möjliggör 'innehåller'-frågor i Omnia-sökning i upprullning av personer.",
+          "Title": "Experimentell Omnia-sökning"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "Användare läser allt (Delegerat)",
+          "Description": "Möjliggör för appen att läsa hela uppsättningen av profilegenskaper, rapporter och chefer för andra användare i din organisation, på uppdrag av den inloggade användaren.",
+          "ConsentInformation": "User.Read.All (Delegerat)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Skriv ut"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Automatisk Enbart text-inklistring"
+      }
+    }
+  }
+}

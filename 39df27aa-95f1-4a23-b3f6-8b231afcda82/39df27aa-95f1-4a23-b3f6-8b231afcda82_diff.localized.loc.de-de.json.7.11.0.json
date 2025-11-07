@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Spezifische Berechtigungen",
+      "Input": {
+        "SiteUrl": "Fügen Sie die URL der SharePoint-Kommunikationsseite hinzu, für die Sie Berechtigungen gewähren möchten"
+      },
+      "ErrorMessage": "Etwas ist schiefgelaufen!",
+      "ConnectionScriptInfo": "Skript zum Anmelden",
+      "InstallationScriptInfo": "Paket installieren",
+      "ImportScriptInfo": "Modul vor dem Ausführen des Skripts importieren",
+      "PermissionScriptInfo": "Ausführen, um Berechtigungen zu gewähren"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Als Copilot-Plugin exportieren"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "'Enthält' in der Abfrage verwenden"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Vollzugriff)</strong> ist nicht aktiviert — <strong>unzureichende Berechtigungen</strong> zur Bereitstellung der Seite!"
+          }
+        }
+      }
+    }
+  }
+}

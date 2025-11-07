@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Käyttämäsi linkki ei ole voimassa."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "Järjestelmä",
+          "Description": "Mahdollistaa 'sisältää' kyselyt Omnia-haussa henkilöiden yhdistelemisessä.",
+          "Title": "Kokeellinen Omnia-haku"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integraatio",
+          "Title": "Käyttäjän lukuoikeus kaikkiin (Valtuutettu)",
+          "Description": "Mahdollistaa sovelluksen lukea muiden käyttäjien täydet profiilitiedot, raportit ja esimiehet organisaatiossasi, kirjautuneen käyttäjän puolesta.",
+          "ConsentInformation": "User.Read.All (Valtuutettu)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Tulosta"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Automaattinen siivous liitetyistä sisällöistä"
+      }
+    }
+  }
+}

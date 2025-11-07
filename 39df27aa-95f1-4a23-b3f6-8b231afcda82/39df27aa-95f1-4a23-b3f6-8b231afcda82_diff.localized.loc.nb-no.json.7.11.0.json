@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Spesifikke tillatelser",
+      "Input": {
+        "SiteUrl": "Legg til URL-en til SharePoint kommunikasjonsstedet du vil gi tillatelse til"
+      },
+      "ErrorMessage": "Noe gikk galt!",
+      "ConnectionScriptInfo": "Script for innlogging",
+      "InstallationScriptInfo": "Installer pakke",
+      "ImportScriptInfo": "Importer modul før du kjører scriptet",
+      "PermissionScriptInfo": "Kjør for å gi tillatelse"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Eksporter som Copilot-plugin"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Bruk 'Inneholder' i spørring"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Full kontroll)</strong> er ikke aktivert — <strong>utilstrekkelige tillatelser</strong> til å opprette nettsted!"
+          }
+        }
+      }
+    }
+  }
+}

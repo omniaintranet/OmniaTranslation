@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Print"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Administrer oprettelse og styring af sider ved hjælp af publiceringsapps.",
+          "Title": "Web Content Management kerne (Fuld kontrol)",
+          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte site-samlinger."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Administrer oprettelse og styring af sider ved hjælp af publiceringsapps (Delegeret).",
+          "Title": "Web Content Management kerne (Sites.Selected)",
+          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte site-samlinger."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Aktiver stille publicering",
+            "NewNotificationWhenPageModified": "Ny meddelelse når siden ændres",
+            "NotCombinedWithApproval": "Denne funktionalitet kan ikke kombineres med publiceringsgodkendelse.",
+            "NotificationPanel": "Meddelelsespanel"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Muligt at tilmelde flere pladser"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Stille publicering"
+      }
+    }
+  }
+}

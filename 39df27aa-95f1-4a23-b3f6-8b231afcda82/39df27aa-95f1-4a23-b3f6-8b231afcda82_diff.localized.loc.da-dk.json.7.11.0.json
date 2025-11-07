@@ -1,0 +1,41 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelected": "Sites.Selected"
+    },
+    "SitesSelectedSettings": {
+      "Header": "Specifikke tilladelser",
+      "Input": {
+        "SiteUrl": "Tilføj URL'en til SharePoint kommunikationssiden, som du ønsker at give tilladelse til"
+      },
+      "ErrorMessage": "Noget gik galt!",
+      "ConnectionScriptInfo": "Script til login",
+      "InstallationScriptInfo": "Installer pakke",
+      "ImportScriptInfo": "Importer modul før du kører scriptet",
+      "PermissionScriptInfo": "Kør for at give tilladelse"
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "ExportCopilotPlugin": "Eksporter som Copilot-plugin"
+        },
+        "SearchResultSourceSettings": {
+          "UseContainsQuery": "Brug 'Contains' i forespørgslen"
+        }
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Warning": {
+          "LackSiteFullControlMode": {
+            "Info": "<strong>Wcm core (Fuld kontrol)</strong> er ikke aktiveret — <strong>utilstrækkelige tilladelser</strong> til at oprette site!"
+          }
+        }
+      }
+    }
+  }
+}

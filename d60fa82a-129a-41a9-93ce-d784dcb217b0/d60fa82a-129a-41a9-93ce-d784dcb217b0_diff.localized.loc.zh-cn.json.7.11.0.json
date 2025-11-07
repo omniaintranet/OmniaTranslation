@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "打印"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "系统",
+          "Description": "使用发布应用程序管理页面的创建和治理。",
+          "Title": "网页内容管理核心（完全控制）",
+          "ConsentInformation": "允许Omnia读取和写入选定站点集合中的数据。"
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "系统",
+          "Description": "使用发布应用程序管理页面的创建和治理（委托）。",
+          "Title": "网页内容管理核心（选定站点）",
+          "ConsentInformation": "允许Omnia读取和写入选定站点集合中的数据。"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "启用静默发布",
+            "NewNotificationWhenPageModified": "页面修改时的新通知",
+            "NotCombinedWithApproval": "此功能不能与发布审批结合使用。",
+            "NotificationPanel": "通知面板"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "可以注册多个席位"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "静默发布"
+      }
+    }
+  }
+}

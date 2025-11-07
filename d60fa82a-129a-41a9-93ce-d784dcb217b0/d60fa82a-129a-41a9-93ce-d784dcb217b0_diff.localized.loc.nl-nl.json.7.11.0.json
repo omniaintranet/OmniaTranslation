@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "Afdrukken"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "Systeem",
+          "Description": "Beheer de creatie en governance van pagina's met behulp van publicatie-apps.",
+          "Title": "Web Content Management core (Volledige controle)",
+          "ConsentInformation": "Staat Omnia toe om gegevens te lezen en te schrijven in geselecteerde siteverzamelingen."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "Systeem",
+          "Description": "Beheer de creatie en governance van pagina's met behulp van publicatie-apps (Gedelegeerd).",
+          "Title": "Web Content Management core (Sites.Geselecteerd)",
+          "ConsentInformation": "Staat Omnia toe om gegevens te lezen en te schrijven in geselecteerde siteverzamelingen."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Stille publicatie inschakelen",
+            "NewNotificationWhenPageModified": "Nieuwe melding wanneer pagina is gewijzigd",
+            "NotCombinedWithApproval": "Deze functionaliteit kan niet worden gecombineerd met publicatiegoedkeuring.",
+            "NotificationPanel": "Meldingenpaneel"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Mogelijk om meerdere plaatsen aan te melden"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Stille publicatie"
+      }
+    }
+  }
+}

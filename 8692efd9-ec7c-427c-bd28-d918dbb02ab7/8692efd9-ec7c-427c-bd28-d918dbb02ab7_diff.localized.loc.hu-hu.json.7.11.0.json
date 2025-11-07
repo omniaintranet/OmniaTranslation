@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Nem publikálhatsz üres üzleti profilt, vagy olyan lapot, amely nem tartalmaz kérdést.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Az újraszinkronizálás folyamatban van, ez eltarthat egy ideig."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Valóban újra szeretnéd szinkronizálni az összes felhasználót ebben a bérlőben? Ez {noUsers} felhasználót szinkronizál újra, és eltarthat egy ideig.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Valóban újra szeretnéd szinkronizálni a kiválasztott típusú felhasználókat? Ez {noUsers} felhasználót szinkronizál újra, és eltarthat egy ideig.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Valóban biztos vagy benne, hogy újra szeretnéd próbálni {noUsers} felhasználó újraszinkronizálását? Ez eltarthat egy ideig."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Csak előnézeti felhasználók",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Ez a szakasz csak a layout engine előnézeti felhasználóit érinti",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Ez a szakasz mind a régi, mind a layout engine előnézeti felhasználóit érinti"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Válaszok",
+          "textReply": "Válasz",
+          "textShowOneReply": "1 válasz megjelenítése",
+          "textShowMoreReplies": "{replyCount} további válasz megjelenítése",
+          "textYou": "Te"
+        }
+      }
+    }
+  }
+}

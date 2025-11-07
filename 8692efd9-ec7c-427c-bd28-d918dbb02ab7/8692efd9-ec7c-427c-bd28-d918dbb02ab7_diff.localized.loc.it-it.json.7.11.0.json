@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Non puoi pubblicare un profilo aziendale vuoto o una scheda senza alcuna query.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "La ri-sincronizzazione è in corso, potrebbe richiedere del tempo per completarsi."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Vuoi davvero ri-sincronizzare tutti gli utenti in questo tenant? Questo ri-sincronizzerà {noUsers} utenti e richiederà del tempo per completarsi.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vuoi davvero ri-sincronizzare gli utenti con i tipi selezionati? Questo ri-sincronizzerà {noUsers} utenti e richiederà del tempo per completarsi.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Sei davvero sicuro di voler riprovare a ri-sincronizzare {noUsers} utenti? Questo richiederà del tempo per completarsi."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Solo per i visualizzatori",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Questa sezione influenzerà solo i visualizzatori del motore di layout",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Questa sezione influenzerà sia i visualizzatori legacy che quelli del motore di layout"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Risposte",
+          "textReply": "Rispondi",
+          "textShowOneReply": "Mostra 1 risposta",
+          "textShowMoreReplies": "Mostra {replyCount} risposte in più",
+          "textYou": "Tu"
+        }
+      }
+    }
+  }
+}

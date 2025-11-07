@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "El enlace que has utilizado no es válido."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "Sistema",
+          "Description": "Permite consultas de 'contiene' en la búsqueda de Omnia en la recopilación de personas.",
+          "Title": "Búsqueda Experimental de Omnia"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integración",
+          "Title": "Lectura de usuario completo (Delegado)",
+          "Description": "Permite a la aplicación leer el conjunto completo de propiedades del perfil, informes y gerentes de otros usuarios en tu organización, en nombre del usuario que ha iniciado sesión.",
+          "ConsentInformation": "User.Read.All (Delegado)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Imprimir"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Limpieza automática del contenido pegado"
+      }
+    }
+  }
+}

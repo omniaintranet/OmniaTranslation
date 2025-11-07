@@ -1,0 +1,51 @@
+{
+  "WCM": {
+    "PrintButton": {
+      "ButtonText": "In"
+    },
+    "Core": {
+      "Features": {
+        "New7WebContentManagementCoreFullControl": {
+          "Category": "Hệ thống",
+          "Description": "Quản lý việc tạo và quản lý các trang sử dụng ứng dụng xuất bản.",
+          "Title": "Quản lý nội dung web (Quyền kiểm soát đầy đủ)",
+          "ConsentInformation": "Cho phép Omnia đọc và ghi dữ liệu trong các bộ sưu tập trang đã chọn."
+        },
+        "WebContentManagementSitesSelected": {
+          "Category": "Hệ thống",
+          "Description": "Quản lý việc tạo và quản lý các trang sử dụng ứng dụng xuất bản (Ủy quyền).",
+          "Title": "Quản lý nội dung web (Các trang đã chọn)",
+          "ConsentInformation": "Cho phép Omnia đọc và ghi dữ liệu trong các bộ sưu tập trang đã chọn."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "NotificationReset": {
+            "EnableSilentPublish": "Bật xuất bản im lặng",
+            "NewNotificationWhenPageModified": "Thông báo mới khi trang được sửa đổi",
+            "NotCombinedWithApproval": "Chức năng này không thể kết hợp với phê duyệt xuất bản.",
+            "NotificationPanel": "Bảng thông báo"
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "CanSignupMultipleSeats": "Có thể đăng ký nhiều chỗ"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "SilentPublish": "Xuất bản im lặng"
+      }
+    }
+  }
+}

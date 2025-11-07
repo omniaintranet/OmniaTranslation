@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Anda tidak dapat menerbitkan profil bisnis yang kosong, atau tab tanpa kueri.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Proses penyelarasan ulang sedang berlangsung, ini mungkin memerlukan waktu untuk selesai."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Apakah Anda benar-benar ingin menyelaraskan ulang semua pengguna di tenant ini? Ini akan menyelaraskan ulang {noUsers} pengguna dan memerlukan waktu untuk menyelesaikannya.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Apakah Anda benar-benar ingin menyelaraskan ulang pengguna dengan tipe yang dipilih? Ini akan menyelaraskan ulang {noUsers} pengguna dan memerlukan waktu untuk menyelesaikannya.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Apakah Anda benar-benar yakin ingin mencoba menyelaraskan ulang {noUsers} pengguna? Ini akan memerlukan waktu untuk menyelesaikannya."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Hanya untuk peninjau",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Bagian ini hanya akan mempengaruhi peninjau mesin tata letak",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Bagian ini akan mempengaruhi baik peninjau lama maupun peninjau mesin tata letak"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Balasan",
+          "textReply": "Balas",
+          "textShowOneReply": "Tampilkan 1 balasan",
+          "textShowMoreReplies": "Tampilkan {replyCount} balasan lagi",
+          "textYou": "Anda"
+        }
+      }
+    }
+  }
+}

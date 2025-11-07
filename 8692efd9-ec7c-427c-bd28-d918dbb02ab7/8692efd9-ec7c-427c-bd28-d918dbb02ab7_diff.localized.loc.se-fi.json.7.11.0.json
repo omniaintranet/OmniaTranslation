@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Don leat ávkkut vuođđuduvvon bisnassá profila, dahje tab, mii ii leat geavahit mii.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Re-synkki lea geavahit, de dat lea váldde gohččut."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Don leat ávkkut re-synkkiit buot användereh, mii lea dán tenantta? Dát re-synkki lea {noUsers} användereh ja de lea váldde gohččut.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Don leat ávkkut re-synkkiit användereh mii lea valjohteáiggi? Dát re-synkki lea {noUsers} användereh ja de lea váldde gohččut.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Don leat ávkkut álgga re-synkkiit {noUsers} användereh? Dát lea váldde gohččut."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Báhkkoláhkkat doarjja",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Dát searvva lea doarjja layout engine báhkkoláhkkat",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Dát searvva lea doarjja buot legacy ja layout engine báhkkoláhkkat"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Válddolaš",
+          "textReply": "Válddolaš",
+          "textShowOneReply": "Vis mii 1 válddolaš",
+          "textShowMoreReplies": "Vis {replyCount} máŋga válddolaš",
+          "textYou": "Don"
+        }
+      }
+    }
+  }
+}
