@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Lenken du har brukt er ikke gyldig."
+      },
+      "Features": {
+        "ExperimentalOmniaSearch": {
+          "Category": "System",
+          "Description": "Tillater 'inneholder'-spørringer i Omnia-søk i personoppsummering.",
+          "Title": "Eksperimentelt Omnia-søk"
+        },
+        "UserReadAllDelegated": {
+          "Category": "Integrasjon",
+          "Title": "Bruker leser alt (Delegert)",
+          "Description": "Tillater appen å lese hele settet av profilopplysninger, rapporter og ledere for andre brukere i organisasjonen din, på vegne av den innloggede brukeren.",
+          "ConsentInformation": "User.Read.All (Delegert)"
+        }
+      },
+      "LayoutEngine": {
+        "DisplayBreakPoints": {
+          "Print": "Skriv ut"
+        }
+      },
+      "RichTextEditor": {
+        "AutoCleanupPastedContent": "Auto-rens innlimt innhold"
+      }
+    }
+  }
+}
