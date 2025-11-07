@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Ez duzu argitaratu dezakezu hutsik dagoen negozio profila, edo galderarik gabeko fitxategi bat.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Birsinkronizazioa prozesuan dago, amaitzeko denbora bat har dezake."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Benetan nahi al duzu alokatu guztien birsinkronizazioa? Honek {noUsers} erabiltzaile birsinkronizatuko ditu eta amaitzeko denbora bat har dezake.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Benetan nahi al duzu hautatutako motetako erabiltzaileak birsinkronizatzea? Honek {noUsers} erabiltzaile birsinkronizatuko ditu eta amaitzeko denbora bat har dezake.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Benetan ziur al zara {noUsers} erabiltzaile birsinkronizatzea berriro saiatu nahi duzula? Honek amaitzeko denbora bat har dezake."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Aurkezleak bakarrik",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Atal honek layout motorreko aurkezleak bakarrik eragingo ditu",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Atal honek bi, legado eta layout motorreko aurkezleak eragingo ditu"
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Erantzunak",
+          "textReply": "Erantzun",
+          "textShowOneReply": "Erakutsi 1 erantzun",
+          "textShowMoreReplies": "Erakutsi {replyCount} erantzun gehiago",
+          "textYou": "Zu"
+        }
+      }
+    }
+  }
+}
