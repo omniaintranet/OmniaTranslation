@@ -1,0 +1,33 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "빈 비즈니스 프로필이나 쿼리가 없는 탭을 게시할 수 없습니다.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "재동기화가 진행 중입니다. 완료하는 데 시간이 걸릴 수 있습니다."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "이 테넌트의 모든 사용자를 재동기화하시겠습니까? {noUsers}명의 사용자가 재동기화되며 완료하는 데 시간이 걸릴 수 있습니다.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "선택한 유형의 사용자를 재동기화하시겠습니까? {noUsers}명의 사용자가 재동기화되며 완료하는 데 시간이 걸릴 수 있습니다.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "{noUsers}명의 사용자를 재동기화하려고 다시 시도하시겠습니까? 완료하는 데 시간이 걸릴 수 있습니다."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "미리보기 전용",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "이 섹션은 레이아웃 엔진 미리보기 전용에만 영향을 미칩니다.",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "이 섹션은 레거시 및 레이아웃 엔진 미리보기 전용 모두에 영향을 미칩니다."
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "답글",
+          "textReply": "답글",
+          "textShowOneReply": "답글 1개 보기",
+          "textShowMoreReplies": "{replyCount}개의 답글 더 보기",
+          "textYou": "당신"
+        }
+      }
+    }
+  }
+}
