@@ -14,7 +14,7 @@
         "WebContentManagementSitesSelected": {
           "Category": "Hệ thống",
           "Description": "Quản lý việc tạo và quản lý các trang sử dụng ứng dụng xuất bản (Ủy quyền).",
-          "Title": "Quản lý nội dung web (Các trang đã chọn)",
+          "Title": "Quản lý nội dung web (Sites.Selected)",
           "ConsentInformation": "Cho phép Omnia đọc và ghi dữ liệu trong các bộ sưu tập trang đã chọn."
         }
       }
