@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Automatically mention channel in post"
+          }
+        }
+      }
+    }
+  }
+}
