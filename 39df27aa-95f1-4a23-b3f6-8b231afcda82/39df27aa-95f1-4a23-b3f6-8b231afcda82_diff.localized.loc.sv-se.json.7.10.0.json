@@ -146,7 +146,7 @@
         "AddSort": "Lägg till sortering"
       },
       "Common": {
-        "QueryFailedMsg": Frågan misslyckades"
+        "QueryFailedMsg": "Frågan misslyckades"
       },
       "Exporting": {
         "ExportToExcel": "Exportera till Excel",
