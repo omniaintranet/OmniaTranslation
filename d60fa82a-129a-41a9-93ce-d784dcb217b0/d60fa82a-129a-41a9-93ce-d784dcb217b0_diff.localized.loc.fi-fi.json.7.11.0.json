@@ -13,7 +13,7 @@
         },
         "WebContentManagementSitesSelected": {
           "Category": "Järjestelmä",
-          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla (Valtuutettu).",
+          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla (Delegated).",
           "Title": "Verkkosisällönhallinnan ydin (Sites.Selected)",
           "ConsentInformation": "Sallii Omnian lukea ja kirjoittaa tietoja valituissa sivustokokoelmissa."
         }
@@ -25,7 +25,7 @@
           "NotificationReset": {
             "EnableSilentPublish": "Ota käyttöön hiljainen julkaisu",
             "NewNotificationWhenPageModified": "Uusi ilmoitus, kun sivua muokataan",
-            "NotCombinedWithApproval": "Tätä toimintoa ei voida yhdistää julkaisu hyväksyntään.",
+            "NotCombinedWithApproval": "Tätä toimintoa ei voida yhdistää julkaisuhyväksyntään.",
             "NotificationPanel": "Ilmoituspaneeli"
           }
         }
@@ -36,7 +36,7 @@
     "EM": {
       "ActionButtons": {
         "General": {
-          "CanSignupMultipleSeats": "Mahdollista rekisteröityä useammalle paikalle"
+          "CanSignupMultipleSeats": "Mahdollista useamman henkilön rekisteröinti"
         }
       }
     }
