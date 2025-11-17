@@ -7,14 +7,14 @@
       "Features": {
         "ExperimentalOmniaSearch": {
           "Category": "Järjestelmä",
-          "Description": "Mahdollistaa 'sisältää' kyselyt Omnia-haussa henkilöiden yhdistelemisessä.",
+          "Description": "Mahdollistaa 'sisältää' kyselyt Omnia-haussa henkilölistauksessa.",
           "Title": "Kokeellinen Omnia-haku"
         },
         "UserReadAllDelegated": {
           "Category": "Integraatio",
-          "Title": "Käyttäjän lukuoikeus kaikkiin (Valtuutettu)",
-          "Description": "Mahdollistaa sovelluksen lukea muiden käyttäjien täydet profiilitiedot, raportit ja esimiehet organisaatiossasi, kirjautuneen käyttäjän puolesta.",
-          "ConsentInformation": "User.Read.All (Valtuutettu)"
+          "Title": "Käyttäjän lukuoikeus kaikkiin (Delegated)",
+          "Description": "Mahdollistaa sovelluksen lukea muiden käyttäjien täydet profiilitiedot, alaiset ja esimiehet organisaatiossasi, kirjautuneen käyttäjän puolesta.",
+          "ConsentInformation": "User.Read.All (Delegated)"
         }
       },
       "LayoutEngine": {
@@ -23,7 +23,7 @@
         }
       },
       "RichTextEditor": {
-        "AutoCleanupPastedContent": "Automaattinen siivous liitetyistä sisällöistä"
+        "AutoCleanupPastedContent": "Siivoa liitetty sisältö automaattisesti"
       }
     }
   }
