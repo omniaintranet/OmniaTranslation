@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "Système",
+          "Description": "Gérer la création et la gouvernance des pages à l'aide d'applications de publication.",
+          "Title": "Gestion de contenu web de base",
+          "ConsentInformation": "Permet à Omnia de lire et d'écrire des données dans toutes les collections de sites au nom de l'utilisateur connecté."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "Système",
+          "Description": "Gérer la création et la gouvernance des pages à l'aide d'applications de publication. (Remarque : la création d'applications de publication sera gérée manuellement.)",
+          "Title": "Gestion de contenu web de base (accès limité)",
+          "ConsentInformation": "Autoriser l'application à accéder à un sous-ensemble de collections de sites au nom de l'utilisateur connecté. Les collections de sites spécifiques et les autorisations accordées seront configurées via PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Mentionner automatiquement le canal dans le post"
+          }
+        }
+      }
+    }
+  }
+}
