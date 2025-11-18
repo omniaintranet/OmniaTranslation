@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "REMARQUE : Si vous choisissez un modèle d'un autre profil d'entreprise, cette instance d'application sera déplacée vers ce profil d'entreprise."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Page actuelle",
+          "CurrentPageName": "Nom de la page actuelle"
+        }
+      }
+    }
+  }
+}
