@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen.",
+          "Title": "Web Content Management Kern",
+          "ConsentInformation": "Erlaubt Omnia, Daten in allen Site-Sammlungen im Namen des angemeldeten Benutzers zu lesen und zu schreiben."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen. (Hinweis: Die Erstellung von Veröffentlichungsanwendungen wird manuell verwaltet.)",
+          "Title": "Web Content Management Kern (eingeschränkter Zugriff)",
+          "ConsentInformation": "Erlauben Sie der Anwendung, auf eine Teilmenge von Site-Sammlungen im Namen des angemeldeten Benutzers zuzugreifen. Die spezifischen Site-Sammlungen und die gewährten Berechtigungen werden über PowerShell konfiguriert."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Kanal automatisch im Beitrag erwähnen"
+          }
+        }
+      }
+    }
+  }
+}
