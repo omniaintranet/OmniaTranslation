@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "De"
+        }
+      }
+    }
+  }
+}
