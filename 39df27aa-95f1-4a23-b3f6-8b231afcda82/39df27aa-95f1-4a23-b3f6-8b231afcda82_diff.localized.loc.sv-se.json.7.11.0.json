@@ -2,7 +2,7 @@
   "OmniaTeamCollaboration": {
     "TeamCollaborationSettingsLocalization": {
       "ChangeTemplateBlade": {
-        "Message": "OBS: Om du väljer en mall från en annan affärsprofil kommer denna appinstans att flyttas till den affärsprofilen."
+        "Message": "OBS: Om du väljer en mall från en annan verksamhetsprofil kommer denna appinstans att flyttas till den verksamhetsprofilen."
       }
     }
   },
