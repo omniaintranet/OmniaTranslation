@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "Hệ thống",
+          "Description": "Quản lý việc tạo và quản lý các trang bằng cách sử dụng các ứng dụng xuất bản.",
+          "Title": "Quản lý nội dung web cốt lõi",
+          "ConsentInformation": "Cho phép Omnia đọc và ghi dữ liệu trong tất cả các bộ sưu tập trang thay mặt cho người dùng đã đăng nhập."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "Hệ thống",
+          "Description": "Quản lý việc tạo và quản lý các trang bằng cách sử dụng các ứng dụng xuất bản. (Lưu ý: Việc tạo ứng dụng xuất bản sẽ được quản lý thủ công.)",
+          "Title": "Quản lý nội dung web cốt lõi (truy cập hạn chế)",
+          "ConsentInformation": "Cho phép ứng dụng truy cập một tập hợp con của các bộ sưu tập trang thay mặt cho người dùng đã đăng nhập. Các bộ sưu tập trang cụ thể và quyền được cấp sẽ được cấu hình qua PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Tự động đề cập đến kênh trong bài viết"
+          }
+        }
+      }
+    }
+  }
+}
