@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11UserReadAllDelegated": {
+          "Category": "集成",
+          "Title": "在个人资料卡中读取 M365 Graph 用户资料",
+          "Description": "",
+          "ConsentInformation": "允许应用代表已登录用户读取您组织中其他用户的完整个人资料属性、报告和经理信息。"
+        }
+      }
+    }
+  }
+}
