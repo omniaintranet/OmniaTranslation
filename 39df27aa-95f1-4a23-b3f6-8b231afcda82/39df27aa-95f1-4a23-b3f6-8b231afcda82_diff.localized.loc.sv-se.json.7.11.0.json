@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "OBS: Om du väljer en mall från en annan affärsprofil kommer denna appinstans att flyttas till den affärsprofilen."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Aktuell sida",
+          "CurrentPageName": "Namn på aktuell sida"
+        }
+      }
+    }
+  }
+}
