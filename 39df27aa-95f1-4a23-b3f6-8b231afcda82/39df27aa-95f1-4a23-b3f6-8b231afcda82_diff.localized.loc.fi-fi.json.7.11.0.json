@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "HUOM: Jos valitset mallin toisesta liiketoimintaprofiilista, tämä sovellusinstanssi siirtyy kyseiseen liiketoimintaprofiiliin."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Nykyinen sivu",
+          "CurrentPageName": "Nykyisen sivun nimi"
+        }
+      }
+    }
+  }
+}
