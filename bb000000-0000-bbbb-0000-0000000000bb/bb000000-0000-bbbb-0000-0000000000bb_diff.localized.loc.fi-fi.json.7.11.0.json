@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11UserReadAllDelegated": {
+          "Category": "Integraatio",
+          "Title": "Lue M365 Graph -käyttäjäprofiili profiilikortissa",
+          "Description": "",
+          "ConsentInformation": "Sallii sovelluksen lukea muiden käyttäjien täydellinen profiilitietojoukko, raportit ja esimiehet organisaatiossasi kirjautuneen käyttäjän puolesta."
+        }
+      }
+    }
+  }
+}
