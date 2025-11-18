@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Manage the creation and governance of pages using publishing apps.",
+          "Title": "Web Content Management core",
+          "ConsentInformation": "Allows Omnia to read and write data in all site collections on behalf of the signed-in user."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Manage the creation and governance of pages using publishing apps. (Note: The creation of publishing apps will be managed manually.)",
+          "Title": "Web Content Management core (limited access)",
+          "ConsentInformation": "Allows the application to access a subset of site collections on behalf of the signed-in user. The specific site collections and the permissions granted will be configured via PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Automatically mention the channel in the post"
+          }
+        }
+      }
+    }
+  }
+}
