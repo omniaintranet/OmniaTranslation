@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "LƯU Ý: Nếu bạn chọn một mẫu từ hồ sơ doanh nghiệp khác, phiên bản ứng dụng này sẽ chuyển sang hồ sơ doanh nghiệp đó."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Trang hiện tại",
+          "CurrentPageName": "Tên trang hiện tại"
+        }
+      }
+    }
+  }
+}
