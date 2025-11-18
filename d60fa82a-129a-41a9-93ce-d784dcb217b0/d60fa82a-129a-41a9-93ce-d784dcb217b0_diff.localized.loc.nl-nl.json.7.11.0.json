@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "Systeem",
+          "Description": "Beheer de creatie en governance van pagina's met behulp van publicatie-apps.",
+          "Title": "Web Content Management kern",
+          "ConsentInformation": "Staat Omnia toe om gegevens te lezen en te schrijven in alle siteverzamelingen namens de ingelogde gebruiker."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "Systeem",
+          "Description": "Beheer de creatie en governance van pagina's met behulp van publicatie-apps. (Opmerking: De creatie van publicatie-apps wordt handmatig beheerd.)",
+          "Title": "Web Content Management kern (beperkte toegang)",
+          "ConsentInformation": "Sta de applicatie toe om toegang te krijgen tot een subset van siteverzamelingen namens de ingelogde gebruiker. De specifieke siteverzamelingen en de verleende machtigingen worden geconfigureerd via PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Vermeld kanaal automatisch in bericht"
+          }
+        }
+      }
+    }
+  }
+}
