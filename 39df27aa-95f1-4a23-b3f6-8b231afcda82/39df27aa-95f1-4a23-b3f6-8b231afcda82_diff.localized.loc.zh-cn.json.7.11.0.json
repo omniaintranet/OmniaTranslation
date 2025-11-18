@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "注意：如果您从另一个业务配置文件中选择模板，则此应用实例将移动到该业务配置文件。"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "当前页面",
+          "CurrentPageName": "当前页面名称"
+        }
+      }
+    }
+  }
+}
