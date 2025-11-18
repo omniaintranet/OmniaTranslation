@@ -209,7 +209,7 @@
           "To": "Till",
           "Form": "Form",
           "MonthTextStyle": "Textstil månad",
-          "DateTextStyle": Textstil datum"
+          "DateTextStyle": "Textstil datum"
         },
         "RowBlock": {
           "Title": "Rad",
@@ -300,7 +300,7 @@
           "ContentStyle": "Innehållsstil"
         },
         "SignOffRequestActionBlock": {
-          "Title": Åtgärd godkännandebegäran",
+          "Title": "Åtgärd godkännandebegäran",
           "IconPositionOption": {
             "Title": "Ikonposition",
             "LeftOfText": "Till vänster om text",
