@@ -8,14 +8,14 @@
         "New7WebContentManagementCoreFullControl": {
           "Category": "System",
           "Description": "Administrer oprettelse og styring af sider ved hjælp af publiceringsapps.",
-          "Title": "Web Content Management kerne (Fuld kontrol)",
-          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte site-samlinger."
+          "Title": "Web Content Management core (Fuld kontrol)",
+          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte webstedssamlinger."
         },
         "WebContentManagementSitesSelected": {
           "Category": "System",
           "Description": "Administrer oprettelse og styring af sider ved hjælp af publiceringsapps (Delegeret).",
-          "Title": "Web Content Management kerne (Sites.Selected)",
-          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte site-samlinger."
+          "Title": "Web Content Management core (Sites.Selected)",
+          "ConsentInformation": "Tillader Omnia at læse og skrive data i udvalgte webstedssamlinger."
         }
       }
     },
@@ -23,9 +23,9 @@
       "Editor": {
         "Panels": {
           "NotificationReset": {
-            "EnableSilentPublish": "Aktiver stille publicering",
+            "EnableSilentPublish": "Aktiver stille udgivelse",
             "NewNotificationWhenPageModified": "Ny meddelelse når siden ændres",
-            "NotCombinedWithApproval": "Denne funktionalitet kan ikke kombineres med publiceringsgodkendelse.",
+            "NotCombinedWithApproval": "Denne funktionalitet kan ikke kombineres med godkendelse af sider.",
             "NotificationPanel": "Meddelelsespanel"
           }
         }
@@ -44,7 +44,7 @@
   "OWCM": {
     "PublishingApp": {
       "ActionButtons": {
-        "SilentPublish": "Stille publicering"
+        "SilentPublish": "Stille udgivelse"
       }
     }
   }
