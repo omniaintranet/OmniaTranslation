@@ -8,13 +8,13 @@
         "New7WebContentManagementCoreFullControl": {
           "Category": "System",
           "Description": "Administrer opprettelse og styring av sider ved hjelp av publiseringsapper.",
-          "Title": "Webinnholdsstyring kjerne (Full kontroll)",
+          "Title": "Webinnholdsstyring core (Full kontroll)",
           "ConsentInformation": "Tillater Omnia å lese og skrive data i valgte nettstedssamlinger."
         },
         "WebContentManagementSitesSelected": {
           "Category": "System",
           "Description": "Administrer opprettelse og styring av sider ved hjelp av publiseringsapper (Delegert).",
-          "Title": "Webinnholdsstyring kjerne (Sites.Selected)",
+          "Title": "Webinnholdsstyring core (Sites.Selected)",
           "ConsentInformation": "Tillater Omnia å lese og skrive data i valgte nettstedssamlinger."
         }
       }
