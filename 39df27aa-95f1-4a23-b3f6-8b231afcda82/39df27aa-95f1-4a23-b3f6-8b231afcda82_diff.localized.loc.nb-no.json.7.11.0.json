@@ -6,7 +6,7 @@
     "SitesSelectedSettings": {
       "Header": "Spesifikke tillatelser",
       "Input": {
-        "SiteUrl": "Legg til URL-en til SharePoint kommunikasjonsstedet du vil gi tillatelse til"
+        "SiteUrl": "Legg til URL-en til SharePoint kommunikasjonsområde du vil gi tillatelse til"
       },
       "ErrorMessage": "Noe gikk galt!",
       "ConnectionScriptInfo": "Script for innlogging",
