@@ -4,9 +4,9 @@
       "Features": {
         "New7Patch11UserReadAllDelegated": {
           "Category": "Integration",
-          "Title": "Läs M365 Graph-användarprofil i profilkort",
+          "Title": "Läs M365 Graph användarprofil för profilkort",
           "Description": "",
-          "ConsentInformation": "Tillåter appen att läsa hela uppsättningen av profil egenskaper, rapporter och chefer för andra användare i din organisation, på uppdrag av den inloggade användaren."
+          "ConsentInformation": "Tillåter appen att läsa hela uppsättningen av profilegenskaper, rapporter och chefer för andra användare i din organisation, för den inloggade användaren."
         }
       }
     }
