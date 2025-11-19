@@ -6,7 +6,7 @@
     "SitesSelectedSettings": {
       "Header": "Spezifische Berechtigungen",
       "Input": {
-        "SiteUrl": "Fügen Sie die URL der SharePoint-Kommunikationsseite hinzu, für die Sie Berechtigungen gewähren möchten"
+        "SiteUrl": "Fügen Sie die URL der SharePoint Kommunikationswebsite hinzu, für die Sie Berechtigungen gewähren möchten"
       },
       "ErrorMessage": "Etwas ist schiefgelaufen!",
       "ConnectionScriptInfo": "Skript zum Anmelden",
