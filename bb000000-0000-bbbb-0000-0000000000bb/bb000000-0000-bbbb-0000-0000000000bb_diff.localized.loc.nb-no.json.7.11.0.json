@@ -7,12 +7,12 @@
       "Features": {
         "ExperimentalOmniaSearch": {
           "Category": "System",
-          "Description": "Tillater 'inneholder'-spørringer i Omnia-søk i personoppsummering.",
+          "Description": "Tillater bruk av 'contains'-spørringer i søk i personopprullinger.",
           "Title": "Eksperimentelt Omnia-søk"
         },
         "UserReadAllDelegated": {
           "Category": "Integrasjon",
-          "Title": "Bruker leser alt (Delegert)",
+          "Title": "Bruker les alt (Delegert)",
           "Description": "Tillater appen å lese hele settet av profilopplysninger, rapporter og ledere for andre brukere i organisasjonen din, på vegne av den innloggede brukeren.",
           "ConsentInformation": "User.Read.All (Delegert)"
         }
@@ -23,7 +23,7 @@
         }
       },
       "RichTextEditor": {
-        "AutoCleanupPastedContent": "Auto-rens innlimt innhold"
+        "AutoCleanupPastedContent": "Automatisk opprydding av innlimt innhold"
       }
     }
   }
