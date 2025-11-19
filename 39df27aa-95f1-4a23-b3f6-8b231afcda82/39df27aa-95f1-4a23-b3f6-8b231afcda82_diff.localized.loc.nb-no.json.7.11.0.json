@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "MERK: Hvis du velger en mal fra en annen forretningsprofil, vil denne appinstansen flyttes til den forretningsprofilen."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Nåværende side",
+          "CurrentPageName": "Nåværende sidenavn"
+        }
+      }
+    }
+  }
+}

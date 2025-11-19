@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "系统",
+          "Description": "使用发布应用程序管理页面的创建和治理。",
+          "Title": "网页内容管理核心",
+          "ConsentInformation": "允许Omnia代表已登录用户在所有网站集合中读取和写入数据。"
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "系统",
+          "Description": "使用发布应用程序管理页面的创建和治理。（注意：发布应用程序的创建将手动管理。）",
+          "Title": "网页内容管理核心（有限访问）",
+          "ConsentInformation": "允许应用程序代表已登录用户访问部分网站集合。具体的网站集合和授予的权限将通过PowerShell进行配置。"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "在帖子中自动提及频道"
+          }
+        }
+      }
+    }
+  }
+}

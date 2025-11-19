@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "Järjestelmä",
+          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla.",
+          "Title": "Verkkosisällönhallinnan ydin",
+          "ConsentInformation": "Sallii Omnian lukea ja kirjoittaa tietoja kaikissa sivustokokoelmissa kirjautuneen käyttäjän puolesta."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "Järjestelmä",
+          "Description": "Hallitse sivujen luomista ja hallintoa julkaisuohjelmien avulla. (Huom: Julkaisuohjelmien luominen hallitaan manuaalisesti.)",
+          "Title": "Verkkosisällönhallinnan ydin (rajoitettu pääsy)",
+          "ConsentInformation": "Salli sovelluksen käyttää osaa sivustokokoelmista kirjautuneen käyttäjän puolesta. Tietyt sivustokokoelmat ja myönnetyt käyttöoikeudet määritellään PowerShellin avulla."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Mainitse kanava automaattisesti viestissä"
+          }
+        }
+      }
+    }
+  }
+}

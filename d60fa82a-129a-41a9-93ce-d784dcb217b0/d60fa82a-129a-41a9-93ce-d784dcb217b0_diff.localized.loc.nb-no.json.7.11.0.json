@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Administrer opprettelse og styring av sider ved hjelp av publiseringsapper.",
+          "Title": "Kjerne for webinnholdsstyring",
+          "ConsentInformation": "Tillater Omnia å lese og skrive data i alle nettstedssamlinger på vegne av den innloggede brukeren."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Administrer opprettelse og styring av sider ved hjelp av publiseringsapper. (Merk: Opprettelse av publiseringsapper vil bli administrert manuelt.)",
+          "Title": "Kjerne for webinnholdsstyring (begrenset tilgang)",
+          "ConsentInformation": "Tillat applikasjonen å få tilgang til et utvalg av nettstedssamlinger på vegne av den innloggede brukeren. De spesifikke nettstedssamlingene og tillatelsene som gis, vil bli konfigurert via PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Automatisk nevne kanal i innlegg"
+          }
+        }
+      }
+    }
+  }
+}

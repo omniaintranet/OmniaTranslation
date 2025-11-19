@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "Læs M365 Graph brugerprofil i profilkort",
+          "Description": "",
+          "ConsentInformation": "Giver appen mulighed for at læse det fulde sæt af profiloplysninger, rapporter og ledere for andre brugere i din organisation på vegne af den indloggede bruger."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "HINWEIS: Wenn Sie eine Vorlage aus einem anderen Geschäftsprofil auswählen, wird diese App-Instanz in dieses Geschäftsprofil verschoben."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Aktuelle Seite",
+          "CurrentPageName": "Name der aktuellen Seite"
+        }
+      }
+    }
+  }
+}

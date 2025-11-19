@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "NOTE: If you select a template from another business profile, this app instance will be transferred to that business profile."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Current page",
+          "CurrentPageName": "Current page name"
+        }
+      }
+    }
+  }
+}

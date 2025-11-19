@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "BEMÆRK: Hvis du vælger en skabelon fra en anden forretningsprofil, vil denne appinstans flytte til den pågældende forretningsprofil."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Nuværende side",
+          "CurrentPageName": "Nuværende sidenavn"
+        }
+      }
+    }
+  }
+}

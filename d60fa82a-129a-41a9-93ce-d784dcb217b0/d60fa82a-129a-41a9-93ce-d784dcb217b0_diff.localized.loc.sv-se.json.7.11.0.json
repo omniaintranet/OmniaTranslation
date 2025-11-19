@@ -1,0 +1,29 @@
+{
+  "WCM": {
+    "Core": {
+      "Features": {
+        "New7Patch11WebContentManagementCoreFullControl": {
+          "Category": "System",
+          "Description": "Hantera skapande och styrning av sidor med hjälp av publiceringsappar.",
+          "Title": "Webbplatsinnehållshantering - kärnfunktioner",
+          "ConsentInformation": "Tillåter Omnia att läsa och skriva data i alla webbplatssamlingar för den inloggade användaren."
+        },
+        "New7Patch11WebContentManagementSitesSelected": {
+          "Category": "System",
+          "Description": "Hantera skapande och styrning av sidor med hjälp av publiceringsappar. (Obs: Skapande av publiceringsappar hanteras manuellt.)",
+          "Title": "Webbplatsinnehållshantering - kärnfunktioner (begränsad åtkomst)",
+          "ConsentInformation": "Tillåter applikationen att få åtkomst till en delmängd av webbplatssamlingar för den inloggade användaren. De specifika webbplatssamlingarna och de beviljade behörigheterna konfigureras via PowerShell."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Nämn automatiskt kanalen i inlägget"
+          }
+        }
+      }
+    }
+  }
+}

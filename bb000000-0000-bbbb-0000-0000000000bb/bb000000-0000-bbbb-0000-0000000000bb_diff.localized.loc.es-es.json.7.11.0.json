@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11UserReadAllDelegated": {
+          "Category": "Integración",
+          "Title": "Leer el perfil de usuario de M365 Graph en la tarjeta de perfil",
+          "Description": "",
+          "ConsentInformation": "Permite a la aplicación leer el conjunto completo de propiedades del perfil, informes y gerentes de otros usuarios en su organización, en nombre del usuario que ha iniciado sesión."
+        }
+      }
+    }
+  }
+}

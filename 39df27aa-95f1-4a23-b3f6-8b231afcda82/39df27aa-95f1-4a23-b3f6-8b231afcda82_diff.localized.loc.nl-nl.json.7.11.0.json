@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "OPMERKING: Als je een sjabloon kiest van een ander bedrijfsprofiel, wordt deze app-instantie verplaatst naar dat bedrijfsprofiel."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Huidige pagina",
+          "CurrentPageName": "Naam van de huidige pagina"
+        }
+      }
+    }
+  }
+}

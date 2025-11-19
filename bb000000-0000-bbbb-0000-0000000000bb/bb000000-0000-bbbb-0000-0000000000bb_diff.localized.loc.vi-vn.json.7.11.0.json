@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11UserReadAllDelegated": {
+          "Category": "Tích hợp",
+          "Title": "Đọc hồ sơ người dùng M365 Graph trong thẻ hồ sơ",
+          "Description": "",
+          "ConsentInformation": "Cho phép ứng dụng đọc toàn bộ tập hợp các thuộc tính hồ sơ, báo cáo và người quản lý của các người dùng khác trong tổ chức của bạn, thay mặt cho người dùng đã đăng nhập."
+        }
+      }
+    }
+  }
+}

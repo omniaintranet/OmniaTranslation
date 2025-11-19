@@ -1,0 +1,19 @@
+{
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "NOTA: Si eliges una plantilla de otro perfil empresarial, esta instancia de la aplicación se trasladará a ese perfil empresarial."
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "Settings": {
+        "QueryValueOptions": {
+          "CurrentPageToken": "Página actual",
+          "CurrentPageName": "Nombre de la página actual"
+        }
+      }
+    }
+  }
+}
