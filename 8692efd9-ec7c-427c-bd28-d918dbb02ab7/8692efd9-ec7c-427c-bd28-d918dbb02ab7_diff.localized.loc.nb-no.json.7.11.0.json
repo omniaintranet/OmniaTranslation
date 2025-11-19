@@ -8,16 +8,16 @@
         },
         "ResyncUsers": {
           "Dialog": {
-            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig re-synkronisere alle brukere i denne leietakeren? Dette vil re-synkronisere {noUsers} brukere og ta litt tid å fullføre.",
+            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig re-synkronisere alle brukere i denne tenant? Dette vil re-synkronisere {noUsers} brukere og ta litt tid å fullføre.",
             "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig re-synkronisere brukere med valgte typer? Dette vil re-synkronisere {noUsers} brukere og ta litt tid å fullføre.",
             "MessageRetryResyncingAllUsersWithTotalNumber": "Er du virkelig sikker på at du vil prøve å re-synkronisere {noUsers} brukere? Dette vil ta litt tid å fullføre."
           }
         }
       },
       "MultipleQuery": {
-        "PreviewersOnly": "Kun forhåndsvisere",
-        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denne seksjonen vil kun påvirke forhåndsvisere for layoutmotoren",
-        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denne seksjonen vil påvirke både eldre og layoutmotor forhåndsvisere"
+        "PreviewersOnly": "Kun forhåndsvisning",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denne seksjonen påvirker kun, hvordan layoutet vises i forhåndsvisningen",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denne delen påvirker hvordan layoutet vises i både legacy og forhåndsvisningen"
       },
       "App": {
         "Commons": {
