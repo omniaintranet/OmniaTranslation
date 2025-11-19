@@ -23,7 +23,7 @@
         }
       },
       "RichTextEditor": {
-        "AutoCleanupPastedContent": "Inhalt nach dem Einfügen automatisch bereinigen"
+        "AutoCleanupPastedContent": "Automatische Säuberung von eingefügtem Inhalt"
       }
     }
   }
