@@ -2,28 +2,28 @@
   "Omnia": {
     "Feed": {
       "Settings": {
-        "InvalidTabsMessage": "Du kan ikke offentliggøre en tom virksomhedsprofil eller en fane uden nogen forespørgsel.",
+        "InvalidTabsMessage": "Du kan ikke publicere en tom virksomhedsprofil eller en fane uden en forespørgsel.",
         "ResyncNewsArticles": {
-          "ResyncIsInProgress": "Gen-synkronisering er i gang, det kan tage noget tid at færdiggøre."
+          "ResyncIsInProgress": "En ny synkronisering er i gang. Det kan tage noget tid at færdiggøre."
         },
         "ResyncUsers": {
           "Dialog": {
-            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig gen-synkronisere alle brugere i denne lejer? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
-            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig gen-synkronisere brugere med de valgte typer? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
-            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du virkelig sikker på, at du vil forsøge at gen-synkronisere {noUsers} brugere? Dette vil tage noget tid at fuldføre."
+            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig synkronisere alle brugere i denne tenant på ny? Dette vil synkronisere {noUsers} brugere igen og tage noget tid at fuldføre.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig synkronisere brugere med de valgte typer igen? Dette vil synkronisere {noUsers} brugere igen og tage noget tid at fuldføre.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du virkelig sikker på, at du vil forsøge at synkronisere {noUsers} brugere igen? Dette vil tage noget tid at fuldføre."
           }
         }
       },
       "MultipleQuery": {
-        "PreviewersOnly": "Kun forhåndsvisere",
-        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denne sektion vil kun påvirke layoutmotorens forhåndsvisere",
-        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denne sektion vil påvirke både legacy og layoutmotorens forhåndsvisere"
+        "PreviewersOnly": "Kun forhåndsvisning",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denne sektion påvirker kun, hvordan layoutet vises i forhåndsvisningen",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denne sektion påvirker, hvordan layoutet vises i både legacy og forhåndsvisningen"
       },
       "App": {
         "Commons": {
           "textReplies": "Svar",
           "textReply": "Svar",
-          "textShowOneReply": "Vis 1 svar",
+          "textShowOneReply": "Vis ét svar",
           "textShowMoreReplies": "Vis {replyCount} flere svar",
           "textYou": "Du"
         }
