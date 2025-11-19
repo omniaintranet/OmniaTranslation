@@ -7,7 +7,7 @@
       "Features": {
         "ExperimentalOmniaSearch": {
           "Category": "System",
-          "Description": "Muliggør 'indeholder' forespørgsler i Omnia-søgning i personers opsamling.",
+          "Description": "Tillader brug af 'contains'-forespørgsler i søgning i personoprulninger.",
           "Title": "Eksperimentel Omnia-søgning"
         },
         "UserReadAllDelegated": {
@@ -23,7 +23,7 @@
         }
       },
       "RichTextEditor": {
-        "AutoCleanupPastedContent": "Auto-rens indsat indhold"
+        "AutoCleanupPastedContent": "Automatisk oprydning af indsat indhold"
       }
     }
   }
