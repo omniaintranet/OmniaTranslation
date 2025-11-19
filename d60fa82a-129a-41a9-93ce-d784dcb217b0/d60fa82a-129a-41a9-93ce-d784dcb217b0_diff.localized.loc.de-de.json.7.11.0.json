@@ -8,13 +8,13 @@
         "New7WebContentManagementCoreFullControl": {
           "Category": "System",
           "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen.",
-          "Title": "Web Content Management Kern (Vollzugriff)",
+          "Title": "Web Content Management Core (Vollzugriff)",
           "ConsentInformation": "Erlaubt Omnia, Daten in ausgewählten Site-Sammlungen zu lesen und zu schreiben."
         },
         "WebContentManagementSitesSelected": {
           "Category": "System",
           "Description": "Verwalten Sie die Erstellung und Governance von Seiten mit Hilfe von Veröffentlichungsanwendungen (Delegiert).",
-          "Title": "Web Content Management Kern (Sites.Selected)",
+          "Title": "Web Content Management Core (Sites.Selected)",
           "ConsentInformation": "Erlaubt Omnia, Daten in ausgewählten Site-Sammlungen zu lesen und zu schreiben."
         }
       }
