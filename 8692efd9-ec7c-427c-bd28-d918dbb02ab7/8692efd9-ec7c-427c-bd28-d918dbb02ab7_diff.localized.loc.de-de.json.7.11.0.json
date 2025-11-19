@@ -16,8 +16,8 @@
       },
       "MultipleQuery": {
         "PreviewersOnly": "Nur Vorschauer",
-        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Dieser Abschnitt betrifft nur die Vorschauer der Layout-Engine",
-        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Dieser Abschnitt betrifft sowohl die Legacy- als auch die Layout-Engine-Vorschauer"
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Dieser Abschnitt steuert nur, wie das Layout in der Vorschau angezeigt wird",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Dieser Abschnitt steuert, wie das Layout sowohl in legacy als auch in der Vorschau angezeigt wird."
       },
       "App": {
         "Commons": {
