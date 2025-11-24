@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Vous ne pouvez pas publier un profil d'entreprise vide, ni un onglet sans aucune requête.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "La re-synchronisation est en cours, cela peut prendre un certain temps pour se terminer."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Voulez-vous vraiment re-synchroniser tous les utilisateurs de ce locataire ? Cela re-synchronisera {noUsers} utilisateurs et prendra un certain temps pour se terminer.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Voulez-vous vraiment re-synchroniser les utilisateurs des types sélectionnés ? Cela re-synchronisera {noUsers} utilisateurs et prendra un certain temps pour se terminer.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Êtes-vous vraiment sûr de vouloir réessayer de re-synchroniser {noUsers} utilisateurs ? Cela prendra un certain temps pour se terminer."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Prévisualisateurs uniquement",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Cette section n'affectera que les prévisualisateurs du moteur de mise en page",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Cette section affectera à la fois les prévisualisateurs hérités et ceux du moteur de mise en page"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "De"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Réponses",
+          "textReply": "Répondre",
+          "textShowOneReply": "Afficher 1 réponse",
+          "textShowMoreReplies": "Afficher {replyCount} réponses supplémentaires",
+          "textYou": "Vous"
+        }
+      }
+    }
+  }
+}
