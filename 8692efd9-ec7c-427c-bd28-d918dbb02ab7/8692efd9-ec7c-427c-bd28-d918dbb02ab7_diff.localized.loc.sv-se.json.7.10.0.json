@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Du kan inte publicera en tom företagsprofil eller en flik utan någon fråga.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Om-synkronisering pågår, det kan ta lite tid att slutföra."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Vill du verkligen om-synkronisera alla användare i denna tenant? Detta kommer att om-synkronisera {noUsers} användare och ta lite tid att slutföra.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vill du verkligen om-synkronisera användare med valda typer? Detta kommer att om-synkronisera {noUsers} användare och ta lite tid att slutföra.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Är du verkligen säker på att du vill försöka om-synkronisera {noUsers} användare? Detta kommer att ta lite tid att slutföra."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Endast förhandsgranskare",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denna sektion kommer endast att påverka layoutmotorförhandsgranskare",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denna sektion kommer att påverka både legacy och layoutmotorförhandsgranskare"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "Från"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Svar",
+          "textReply": "Svar",
+          "textShowOneReply": "Visa 1 svar",
+          "textShowMoreReplies": "Visa {replyCount} fler svar",
+          "textYou": "Du"
+        }
+      }
+    }
+  }
+}
