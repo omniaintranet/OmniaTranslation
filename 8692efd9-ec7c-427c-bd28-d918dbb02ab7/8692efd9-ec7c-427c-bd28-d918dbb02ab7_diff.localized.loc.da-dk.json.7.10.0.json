@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Du kan ikke offentliggøre en tom virksomhedsprofil eller en fane uden nogen forespørgsel.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Gen-synkronisering er i gang, det kan tage noget tid at færdiggøre."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig gen-synkronisere alle brugere i denne lejer? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig gen-synkronisere brugere med de valgte typer? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du virkelig sikker på, at du vil forsøge at gen-synkronisere {noUsers} brugere? Dette vil tage noget tid at fuldføre."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Kun forhåndsvisere",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denne sektion vil kun påvirke layoutmotorens forhåndsvisere",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denne sektion vil påvirke både legacy og layoutmotorens forhåndsvisere"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "Fra"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Svar",
+          "textReply": "Svar",
+          "textShowOneReply": "Vis 1 svar",
+          "textShowMoreReplies": "Vis {replyCount} flere svar",
+          "textYou": "Du"
+        }
+      }
+    }
+  }
+}

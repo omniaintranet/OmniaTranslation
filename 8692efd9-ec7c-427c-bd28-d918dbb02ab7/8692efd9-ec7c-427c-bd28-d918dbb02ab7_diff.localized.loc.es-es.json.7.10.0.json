@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "No puedes publicar un perfil de negocio vacío, o una pestaña sin ninguna consulta.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "La re-sincronización está en proceso, puede tardar un tiempo en finalizar."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "¿Realmente quieres re-sincronizar a todos los usuarios en este tenant? Esto re-sincronizará a {noUsers} usuarios y tardará un tiempo en completarse.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "¿Realmente quieres re-sincronizar a los usuarios de los tipos seleccionados? Esto re-sincronizará a {noUsers} usuarios y tardará un tiempo en completarse.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "¿Estás realmente seguro de que quieres intentar re-sincronizar a {noUsers} usuarios? Esto tardará un tiempo en completarse."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Solo previsualizadores",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Esta sección solo afectará a los previsualizadores del motor de diseño",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Esta sección afectará tanto a los previsualizadores heredados como a los del motor de diseño"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "Desde"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Respuestas",
+          "textReply": "Responder",
+          "textShowOneReply": "Mostrar 1 respuesta",
+          "textShowMoreReplies": "Mostrar {replyCount} respuestas más",
+          "textYou": "Tú"
+        }
+      }
+    }
+  }
+}

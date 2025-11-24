@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Et voi julkaista tyhjää liiketoimintaprofiilia tai välilehteä ilman kyselyä.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Uudelleensynkronointi on käynnissä, sen loppuunsaattaminen voi viedä aikaa."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Haluatko todella uudelleensynkronoida kaikki käyttäjät tässä tenantissa? Tämä uudelleensynkronoi {noUsers} käyttäjää ja vie aikaa valmistua.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Haluatko todella uudelleensynkronoida valittujen tyyppien käyttäjät? Tämä uudelleensynkronoi {noUsers} käyttäjää ja vie aikaa valmistua.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Oletko todella varma, että haluat yrittää uudelleen synkronoida {noUsers} käyttäjää? Tämä vie aikaa valmistua."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Vain esikatselijat",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Tämä osio vaikuttaa vain asettelumoottorin esikatselijoihin",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Tämä osio vaikuttaa sekä perinteisiin että asettelumoottorin esikatselijoihin"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "Alkaen"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Vastaukset",
+          "textReply": "Vastaus",
+          "textShowOneReply": "Näytä 1 vastaus",
+          "textShowMoreReplies": "Näytä {replyCount} lisää vastausta",
+          "textYou": "Sinä"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "您不能发布空的业务档案，或没有任何查询的选项卡。",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "重新同步正在进行中，可能需要一些时间才能完成。"
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "您真的想要重新同步此租户中的所有用户吗？这将重新同步 {noUsers} 个用户，并需要一些时间才能完成。",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "您真的想要重新同步选定类型的用户吗？这将重新同步 {noUsers} 个用户，并需要一些时间才能完成。",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "您真的确定要重试重新同步 {noUsers} 个用户吗？这将需要一些时间才能完成。"
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "仅预览者",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "此部分仅会影响布局引擎预览者",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "此部分将影响传统和布局引擎预览者"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "从"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "回复",
+          "textReply": "回复",
+          "textShowOneReply": "显示 1 条回复",
+          "textShowMoreReplies": "显示 {replyCount} 条更多回复",
+          "textYou": "您"
+        }
+      }
+    }
+  }
+}

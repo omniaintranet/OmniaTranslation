@@ -1,0 +1,38 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "InvalidTabsMessage": "Je kunt geen leeg bedrijfsprofiel publiceren, of een tab zonder enige query.",
+        "ResyncNewsArticles": {
+          "ResyncIsInProgress": "Her-synchronisatie is bezig, het kan enige tijd duren om te voltooien."
+        },
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageResyncAllUsersWithTotalNumber": "Wil je echt alle gebruikers in deze tenant opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd duren om te voltooien.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Wil je echt gebruikers met geselecteerde types opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd duren om te voltooien.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Weet je zeker dat je wilt proberen {noUsers} gebruikers opnieuw te synchroniseren? Dit zal enige tijd duren om te voltooien."
+          }
+        }
+      },
+      "MultipleQuery": {
+        "PreviewersOnly": "Alleen voor previewers",
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Deze sectie zal alleen invloed hebben op layout engine previewers",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Deze sectie zal invloed hebben op zowel legacy als layout engine previewers"
+      },
+      "Blocks": {
+        "DateRangeBlock": {
+          "From": "Van"
+        }
+      },
+      "App": {
+        "Commons": {
+          "textReplies": "Antwoorden",
+          "textReply": "Antwoord",
+          "textShowOneReply": "Toon 1 antwoord",
+          "textShowMoreReplies": "Toon {replyCount} meer antwoorden",
+          "textYou": "Jij"
+        }
+      }
+    }
+  }
+}
