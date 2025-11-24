@@ -2,7 +2,7 @@
   "Omnia": {
     "Feed": {
       "Settings": {
-        "InvalidTabsMessage": "Du kan inte publicera en tom företagsprofil eller en flik utan någon fråga.",
+        "InvalidTabsMessage": "Du kan inte publicera en tom verksamhetsprofil eller en flik utan någon fråga.",
         "ResyncNewsArticles": {
           "ResyncIsInProgress": "Om-synkronisering pågår, det kan ta lite tid att slutföra."
         },
@@ -16,8 +16,8 @@
       },
       "MultipleQuery": {
         "PreviewersOnly": "Endast förhandsgranskare",
-        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denna sektion kommer endast att påverka layoutmotorförhandsgranskare",
-        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denna sektion kommer att påverka både legacy och layoutmotorförhandsgranskare"
+        "ThisSectionWillOnlyAffectLayoutEnginePreviewers": "Denna sektion påverkar endast förhandsgranskare av layoutmotorn.",
+        "ThisSectionWillAffectBothLegacyAndLayoutEnginePreviewers": "Denna sektion påverkar både klassiska och layoutmotorns förhandsgranskare."
       },
       "Blocks": {
         "DateRangeBlock": {
