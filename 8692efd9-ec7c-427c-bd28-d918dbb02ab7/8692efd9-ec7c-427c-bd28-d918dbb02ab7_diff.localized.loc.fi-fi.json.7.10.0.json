@@ -4,13 +4,13 @@
       "Settings": {
         "InvalidTabsMessage": "Et voi julkaista tyhjää liiketoimintaprofiilia tai välilehteä ilman kyselyä.",
         "ResyncNewsArticles": {
-          "ResyncIsInProgress": "Uudelleensynkronointi on käynnissä, sen loppuunsaattaminen voi viedä aikaa."
+          "ResyncIsInProgress": "Uudelleensynkronointi on käynnissä ja ottaa aikansa."
         },
         "ResyncUsers": {
           "Dialog": {
-            "MessageResyncAllUsersWithTotalNumber": "Haluatko todella uudelleensynkronoida kaikki käyttäjät tässä tenantissa? Tämä uudelleensynkronoi {noUsers} käyttäjää ja vie aikaa valmistua.",
-            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Haluatko todella uudelleensynkronoida valittujen tyyppien käyttäjät? Tämä uudelleensynkronoi {noUsers} käyttäjää ja vie aikaa valmistua.",
-            "MessageRetryResyncingAllUsersWithTotalNumber": "Oletko todella varma, että haluat yrittää uudelleen synkronoida {noUsers} käyttäjää? Tämä vie aikaa valmistua."
+            "MessageResyncAllUsersWithTotalNumber": "Haluatko todella uudelleensynkronoida kaikki käyttäjät tässä tenantissa? Tämä uudelleensynkronoi {noUsers} käyttäjää ja ottaa aikansa.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Haluatko todella uudelleensynkronoida valittujen tyyppien käyttäjät? Tämä uudelleensynkronoi {noUsers} käyttäjää ja ottaa aikansa.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Oletko todella varma, että haluat yrittää uudelleen synkronoida {noUsers} käyttäjää? Tämä ottaa aikansa."
           }
         }
       },
