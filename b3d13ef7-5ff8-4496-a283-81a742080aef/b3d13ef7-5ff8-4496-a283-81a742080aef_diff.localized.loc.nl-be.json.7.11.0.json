@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Documenttype toevoegen",
+      "AddDocumentTemplate": "Sjabloon toevoegen",
+      "AddDocumentTypeDialogHeader": "Selecteer documenttype",
+      "AddDocumentTemplateDialogHeader": "Selecteer documentsjabloon",
+      "SelectLocationDialogHeader": "Selecteer locatie",
+      "AddLocation": "Locatie toevoegen",
+      "IsControlledDocumentMode": "Is gecontroleerd document"
+    }
+  }
+}
