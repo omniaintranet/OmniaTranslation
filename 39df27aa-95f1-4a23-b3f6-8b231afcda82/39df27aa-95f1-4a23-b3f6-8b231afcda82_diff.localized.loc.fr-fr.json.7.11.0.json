@@ -1,0 +1,10 @@
+{
+  "OTAD": {
+    "System": {
+      "SitesSelectedLabel": "Script de configuration d'accès au site"
+    },
+    "SitesSelectedSettings": {
+      "HeaderLabel": "Script de configuration d'accès au site"
+    }
+  }
+}
