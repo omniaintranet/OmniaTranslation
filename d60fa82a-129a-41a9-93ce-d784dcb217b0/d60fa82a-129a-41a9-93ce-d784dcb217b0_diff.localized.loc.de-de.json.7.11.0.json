@@ -2,7 +2,7 @@
   "WCM": {
     "HtmlScriptBlock": {
       "Settings": {
-        "ModifiedInWriteModeWarningMessage": "Dieser Block wurde im Schreibmodus geändert. Das Speichern Ihrer aktuellen Änderungen ersetzt die Version im Schreibmodus."
+        "ModifiedInWriteModeWarningMessage": "Dieser Block wurde im Schreibmodus bearbeitet. Wenn Sie Ihre Änderungen speichern, überschreiben Sie die Änderungen, die im Schreibmodus vorgenommen wurden."
       }
     }
   }
