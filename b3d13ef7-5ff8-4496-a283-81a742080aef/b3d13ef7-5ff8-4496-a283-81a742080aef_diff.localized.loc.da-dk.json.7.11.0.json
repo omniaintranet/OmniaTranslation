@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Tilføj dokumenttype",
+      "AddDocumentTemplate": "Tilføj skabelon",
+      "AddDocumentTypeDialogHeader": "Vælg dokumenttype",
+      "AddDocumentTemplateDialogHeader": "Vælg dokumentskabelon",
+      "SelectLocationDialogHeader": "Vælg placering",
+      "AddLocation": "Tilføj placering",
+      "IsControlledDocumentMode": "Er kontrolleret dokument"
+    }
+  }
+}
