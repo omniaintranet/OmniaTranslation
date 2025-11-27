@@ -1,10 +1,10 @@
 {
   "OTAD": {
     "System": {
-      "SitesSelectedLabel": "Script til opsætning af siteadgang"
+      "SitesSelectedLabel": "Script til opsætning af websteds-tilladelser"
     },
     "SitesSelectedSettings": {
-      "HeaderLabel": "Script til opsætning af siteadgang"
+      "HeaderLabel": "Script til opsætning af websteds-tilladelser"
     }
   }
 }
