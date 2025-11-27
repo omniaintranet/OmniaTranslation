@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Add document type",
+      "AddDocumentTemplate": "Add template",
+      "AddDocumentTypeDialogHeader": "Select document type",
+      "AddDocumentTemplateDialogHeader": "Select document template",
+      "SelectLocationDialogHeader": "Select location",
+      "AddLocation": "Add location",
+      "IsControlledDocumentMode": "Is controlled document"
+    }
+  }
+}
