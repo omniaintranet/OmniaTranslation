@@ -2,7 +2,7 @@
   "WCM": {
     "HtmlScriptBlock": {
       "Settings": {
-        "ModifiedInWriteModeWarningMessage": "Denne blokken ble endret i skrivemodus. Lagre dine nåværende endringer vil erstatte versjonen i skrivemodus."
+        "ModifiedInWriteModeWarningMessage": "Denne blokken ble redigert i skrive-modus. Hvis du lagrer endringene dine, vil de overskrive endringene som ble gjort i skrive-modus."
       }
     }
   }
