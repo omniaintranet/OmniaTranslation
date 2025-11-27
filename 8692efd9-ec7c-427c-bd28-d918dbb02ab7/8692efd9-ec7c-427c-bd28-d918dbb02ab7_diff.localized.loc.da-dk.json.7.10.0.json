@@ -8,7 +8,7 @@
         },
         "ResyncUsers": {
           "Dialog": {
-            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig synkronisere alle brugere i denne tenatn igen? Dette vil synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
+            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig synkronisere alle brugere i denne tenant igen? Dette vil synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
             "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig synkronisere brugere med de valgte typer igen? Dette vil synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
             "MessageRetryResyncingAllUsersWithTotalNumber": "Er du virkelig sikker på, at du vil forsøge at synkronisere {noUsers} brugere igen? Dette vil tage noget tid at fuldføre."
           }
