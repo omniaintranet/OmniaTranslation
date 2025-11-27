@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Detta block har ändrats i skrivläge. Att spara dina aktuella ändringar kommer att ersätta skrivlägesversionen."
+      }
+    }
+  }
+}
