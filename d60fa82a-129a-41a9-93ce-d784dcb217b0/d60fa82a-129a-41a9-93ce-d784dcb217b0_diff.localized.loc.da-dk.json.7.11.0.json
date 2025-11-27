@@ -2,7 +2,7 @@
   "WCM": {
     "HtmlScriptBlock": {
       "Settings": {
-        "ModifiedInWriteModeWarningMessage": "Denne blok blev ændret i skrive tilstand. Gemning af dine nuværende ændringer vil erstatte versionen i skrive tilstand."
+        "ModifiedInWriteModeWarningMessage": "Denne blok er blev redigeret i skrivetilstand. Gemmer du dine ændringer, vil de overskrive ændringerne lavet i skrivetilstand."
       }
     }
   }
