@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Thêm loại tài liệu",
+      "AddDocumentTemplate": "Thêm mẫu",
+      "AddDocumentTypeDialogHeader": "Chọn loại tài liệu",
+      "AddDocumentTemplateDialogHeader": "Chọn mẫu tài liệu",
+      "SelectLocationDialogHeader": "Chọn vị trí",
+      "AddLocation": "Thêm vị trí",
+      "IsControlledDocumentMode": "Là tài liệu có kiểm soát"
+    }
+  }
+}
