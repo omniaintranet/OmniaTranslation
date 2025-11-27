@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Legg til dokumenttype",
+      "AddDocumentTemplate": "Legg til mal",
+      "AddDocumentTypeDialogHeader": "Velg dokumenttype",
+      "AddDocumentTemplateDialogHeader": "Velg dokumentmal",
+      "SelectLocationDialogHeader": "Velg plassering",
+      "AddLocation": "Legg til plassering",
+      "IsControlledDocumentMode": "Er kontrollert dokument"
+    }
+  }
+}

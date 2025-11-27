@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "添加文档类型",
+      "AddDocumentTemplate": "添加模板",
+      "AddDocumentTypeDialogHeader": "选择文档类型",
+      "AddDocumentTemplateDialogHeader": "选择文档模板",
+      "SelectLocationDialogHeader": "选择位置",
+      "AddLocation": "添加位置",
+      "IsControlledDocumentMode": "是否为受控文档"
+    }
+  }
+}

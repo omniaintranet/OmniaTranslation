@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "此块在写入模式下已被修改。保存您当前的更改将替换写入模式版本。"
+      }
+    }
+  }
+}

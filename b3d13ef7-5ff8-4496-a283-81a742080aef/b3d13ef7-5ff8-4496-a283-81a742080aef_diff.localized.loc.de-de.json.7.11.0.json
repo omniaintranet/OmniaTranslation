@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Dokumenttyp hinzufügen",
+      "AddDocumentTemplate": "Vorlage hinzufügen",
+      "AddDocumentTypeDialogHeader": "Dokumenttyp auswählen",
+      "AddDocumentTemplateDialogHeader": "Dokumentvorlage auswählen",
+      "SelectLocationDialogHeader": "Standort auswählen",
+      "AddLocation": "Standort hinzufügen",
+      "IsControlledDocumentMode": "Ist ein kontrolliertes Dokument"
+    }
+  }
+}
