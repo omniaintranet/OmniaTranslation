@@ -1,0 +1,13 @@
+{
+  "ODM": {
+    "NewDocumentButton": {
+      "AddDocumentType": "Lisää asiakirjatyyppi",
+      "AddDocumentTemplate": "Lisää malli",
+      "AddDocumentTypeDialogHeader": "Valitse asiakirjatyyppi",
+      "AddDocumentTemplateDialogHeader": "Valitse asiakirjamalli",
+      "SelectLocationDialogHeader": "Valitse sijainti",
+      "AddLocation": "Lisää sijainti",
+      "IsControlledDocumentMode": "Onko valvottu asiakirja"
+    }
+  }
+}
