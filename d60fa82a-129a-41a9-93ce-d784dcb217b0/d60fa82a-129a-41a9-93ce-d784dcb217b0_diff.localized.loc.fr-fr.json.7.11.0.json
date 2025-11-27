@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Ce bloc a été modifié en mode écriture. Enregistrer vos modifications actuelles remplacera la version en mode écriture."
+      }
+    }
+  }
+}
