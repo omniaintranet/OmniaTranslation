@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Generating Excel file...",
+          "ErrorWhenFileExporting": "An error occurred while exporting."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Items",
+          "ParentNodeNotFoundMessage": "Parent node ({{id}}) is not found.",
+          "ParentNodeArchivedMessage": "Parent node ({{id}}) had been archived.",
+          "SelectParentNode": "Select parent node to restore"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Update notification panel on re-publish",
+            "PublishNotifications": "Publish notifications"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Archive Navigation Node",
+            "WarningMessage": "You are about to archive a lot of navigation nodes.",
+            "ConfirmationMessage": "Are you sure you want to archive the navigation node?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Encoding",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
