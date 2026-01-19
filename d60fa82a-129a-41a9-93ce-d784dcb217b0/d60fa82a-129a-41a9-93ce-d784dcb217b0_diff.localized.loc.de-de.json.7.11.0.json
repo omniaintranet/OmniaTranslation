@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Excel-Datei wird erstellt...",
+          "ErrorWhenFileExporting": "Beim Erstellen der Datei ist ein Fehler aufgetreten."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Elemente",
+          "ParentNodeNotFoundMessage": "Übergeordnetes Element ({{id}}) wurde nicht gefunden.",
+          "ParentNodeArchivedMessage": "Übergeordnetes Element ({{id}}) wurde archiviert.",
+          "SelectParentNode": "Wählen Sie das übergeordnete Element zur Wiederherstellung aus"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Benachrichtigungsfeld bei erneuter Veröffentlichung aktualisieren",
+            "PublishNotifications": "Benachrichtigungen veröffentlichen"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Navigationsknoten archivieren",
+            "WarningMessage": "Sie sind dabei, viele Navigationsknoten zu archivieren.",
+            "ConfirmationMessage": "Sind Sie sicher, dass Sie den Navigationsknoten archivieren möchten?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Kodierung",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
