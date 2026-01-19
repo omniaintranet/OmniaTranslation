@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Moet beginnen met een letter of onderstrepingsteken en mag alleen letters, cijfers en onderstrepingstekens bevatten."
+    }
+  }
+}
