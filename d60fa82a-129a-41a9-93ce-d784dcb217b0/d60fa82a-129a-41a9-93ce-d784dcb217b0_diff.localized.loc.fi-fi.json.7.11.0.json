@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Excel-tiedoston luominen...",
+          "ErrorWhenFileExporting": "Tiedoston luomisessa tapahtui virhe."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Kohteet",
+          "ParentNodeNotFoundMessage": "Ylätason solmua ({{id}}) ei löydy.",
+          "ParentNodeArchivedMessage": "Ylätason solmu ({{id}}) on arkistoitu.",
+          "SelectParentNode": "Valitse ylätason solmu palautettavaksi"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Päivitä ilmoituspaneeli uudelleenjulkaisussa",
+            "PublishNotifications": "Julkaise ilmoitukset"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Arkistoi navigaatiopiste",
+            "WarningMessage": "Olet arkistoimassa useita navigaatiopisteitä.",
+            "ConfirmationMessage": "Oletko varma, että haluat arkistoida navigaatiopisteen?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Koodaus",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
