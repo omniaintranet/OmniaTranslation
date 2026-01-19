@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Debe comenzar con una letra o un guion bajo y contener solo letras, números y guiones bajos."
+    }
+  }
+}
