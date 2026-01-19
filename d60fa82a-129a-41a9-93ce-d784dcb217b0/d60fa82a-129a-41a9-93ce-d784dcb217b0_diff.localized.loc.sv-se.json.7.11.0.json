@@ -3,8 +3,8 @@
     "AnalyticsReport": {
       "Views": {
         "TableView": {
-          "FileExporting": "Genererar Excel-fil...",
-          "ErrorWhenFileExporting": "Ett fel inträffade vid generering av fil."
+          "FileExporting": "Skapar Excel-fil...",
+          "ErrorWhenFileExporting": "Ett fel inträffade när filen skapades."
         }
       }
     },
@@ -12,9 +12,9 @@
       "Editor": {
         "PageArchive": {
           "Items": "Objekt",
-          "ParentNodeNotFoundMessage": "Föräldranod ({{id}}) hittades inte.",
-          "ParentNodeArchivedMessage": "Föräldranod ({{id}}) har arkiverats.",
-          "SelectParentNode": "Välj föräldranod att återställa"
+          "ParentNodeNotFoundMessage": "Överordnad nod ({{id}}) hittades inte.",
+          "ParentNodeArchivedMessage": "Överordnad nod ({{id}}) har arkiverats.",
+          "SelectParentNode": "Välj överordnad nod att återställa"
         },
         "Panels": {
           "NotificationReset": {
