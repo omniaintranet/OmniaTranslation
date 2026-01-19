@@ -3,12 +3,12 @@
     "Feed": {
       "Features": {
         "AzureIntune": {
-          "DescriptionField": "Aktivera användning av Azure Intune för Omnia-appen. Ska endast användas tillsammans med funktionen 'Använd Omnia Entra ID-app för Omnia Feed'."
+          "DescriptionField": "Aktiverar användning av Azure Intune för Omnia-appen. Ska endast användas tillsammans med funktionen 'Använd Omnia Entra ID-app för Omnia Feed'."
         },
         "UseOmniaApp": {
           "Title": "Använd Omnia Entra ID-app för Omnia Feed",
           "Category": "Tillägg",
-          "Description": "Aktivera användning av Omnia Entra ID-app istället för Omnia Feed Entra ID-app."
+          "Description": "Aktiverar användning av Omnia Entra ID-app istället för Omnia Feed Entra ID-app."
         }
       },
       "MultipleQuery": {
