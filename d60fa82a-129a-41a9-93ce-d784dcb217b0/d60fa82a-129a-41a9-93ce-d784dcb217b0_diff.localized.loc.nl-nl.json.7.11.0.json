@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Excel-bestand aanmaken...",
+          "ErrorWhenFileExporting": "Er is een fout opgetreden bij het aanmaken van het bestand."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Items",
+          "ParentNodeNotFoundMessage": "Bovenliggende knoop ({{id}}) is niet gevonden.",
+          "ParentNodeArchivedMessage": "Bovenliggende knoop ({{id}}) is gearchiveerd.",
+          "SelectParentNode": "Selecteer bovenliggende knoop om te herstellen"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Update meldingspaneel bij herpubliceren",
+            "PublishNotifications": "Publiceer meldingen"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Archiveer navigatieknoop",
+            "WarningMessage": "U staat op het punt om veel navigatieknopen te archiveren.",
+            "ConfirmationMessage": "Weet u zeker dat u de navigatieknoop wilt archiveren?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Codering",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
