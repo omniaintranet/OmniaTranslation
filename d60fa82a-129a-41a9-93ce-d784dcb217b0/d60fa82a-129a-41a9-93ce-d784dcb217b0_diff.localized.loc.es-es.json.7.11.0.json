@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Generando archivo de Excel...",
+          "ErrorWhenFileExporting": "Se produjo un error al generar el archivo."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Elementos",
+          "ParentNodeNotFoundMessage": "No se encuentra el nodo padre ({{id}}).",
+          "ParentNodeArchivedMessage": "El nodo padre ({{id}}) ha sido archivado.",
+          "SelectParentNode": "Selecciona el nodo padre para restaurar"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Actualizar el panel de notificaciones al republicar",
+            "PublishNotifications": "Publicar notificaciones"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Archivar nodo de navegación",
+            "WarningMessage": "Estás a punto de archivar muchos nodos de navegación.",
+            "ConfirmationMessage": "¿Estás seguro de que deseas archivar el nodo de navegación?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Codificación",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}

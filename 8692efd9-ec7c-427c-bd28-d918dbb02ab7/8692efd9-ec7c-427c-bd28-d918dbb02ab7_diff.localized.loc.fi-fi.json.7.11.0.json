@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Features": {
+        "AzureIntune": {
+          "DescriptionField": "Ota käyttöön Azure Intune Omnia-sovellusta varten. Tulisi käyttää vain yhdessä 'Käytä Omnia Entra ID -sovellusta Omnia Feedille' -ominaisuuden kanssa."
+        },
+        "UseOmniaApp": {
+          "Title": "Käytä Omnia Entra ID -sovellusta Omnia Feedille",
+          "Category": "Lisäosat",
+          "Description": "Ota käyttöön Omnia Entra ID -sovelluksen käyttö sen sijaan, että käytetään Omnia Feed Entra ID -sovellusta."
+        }
+      },
+      "MultipleQuery": {
+        "LegacyOnly": "Vain perinteinen",
+        "TabView": "Välilehtinäkymä"
+      },
+      "OFMC": {
+        "Title": "Omnia Feedin Hallintakonsoli",
+        "TitleAbbrev": "OFMC",
+        "PermissionBindingLabel": "Laajennushallinnoija"
+      }
+    }
+  }
+}

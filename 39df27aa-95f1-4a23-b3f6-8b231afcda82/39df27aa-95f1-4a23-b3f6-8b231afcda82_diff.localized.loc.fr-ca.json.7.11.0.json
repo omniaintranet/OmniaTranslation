@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Doit commencer par une lettre ou un souligné et ne contenir que des lettres, des chiffres et des soulignés."
+    }
+  }
+}

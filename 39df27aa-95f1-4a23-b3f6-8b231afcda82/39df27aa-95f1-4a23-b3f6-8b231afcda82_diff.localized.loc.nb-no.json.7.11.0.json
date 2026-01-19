@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Må starte med en bokstav eller understrek og inneholde kun bokstaver, tall og understreker."
+    }
+  }
+}

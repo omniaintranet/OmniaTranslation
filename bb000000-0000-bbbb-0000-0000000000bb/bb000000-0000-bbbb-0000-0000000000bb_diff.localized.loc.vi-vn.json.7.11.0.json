@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "Phần này được cấu hình để chứa nội dung có thể tái sử dụng từ một trang khác."
+        }
+      }
+    }
+  }
+}

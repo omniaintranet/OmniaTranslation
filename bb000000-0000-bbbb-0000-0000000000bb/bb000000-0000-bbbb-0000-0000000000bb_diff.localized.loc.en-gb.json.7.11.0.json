@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "This section is set up to include reusable content from another page."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "Deze sectie is geconfigureerd om herbruikbare inhoud van een andere pagina te bevatten."
+        }
+      }
+    }
+  }
+}

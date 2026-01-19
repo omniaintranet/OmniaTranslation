@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "必须以字母或下划线开头，并且只能包含字母、数字和下划线。"
+    }
+  }
+}

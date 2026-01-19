@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Skapar Excel-fil...",
+          "ErrorWhenFileExporting": "Ett fel inträffade när filen skapades."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Objekt",
+          "ParentNodeNotFoundMessage": "Överordnad nod ({{id}}) hittades inte.",
+          "ParentNodeArchivedMessage": "Överordnad nod ({{id}}) har arkiverats.",
+          "SelectParentNode": "Välj överordnad nod att återställa"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Uppdatera meddelandepanelen vid ompublicering",
+            "PublishNotifications": "Publicera meddelanden"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Arkivera navigationsnod",
+            "WarningMessage": "Du är på väg att arkivera många navigationsnoder.",
+            "ConfirmationMessage": "Är du säker på att du vill arkivera navigationsnoden?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Kodning",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}

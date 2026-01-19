@@ -1,0 +1,7 @@
+{
+  "OTAD": {
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Moet beginnen met een letter of underscore en mag alleen letters, cijfers en underscores bevatten."
+    }
+  }
+}

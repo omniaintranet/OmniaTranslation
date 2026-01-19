@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "正在生成 Excel 文件...",
+          "ErrorWhenFileExporting": "生成文件时发生错误。"
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "项目",
+          "ParentNodeNotFoundMessage": "未找到父节点 ({{id}})。",
+          "ParentNodeArchivedMessage": "父节点 ({{id}}) 已被归档。",
+          "SelectParentNode": "选择父节点以恢复"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "在重新发布时更新通知面板",
+            "PublishNotifications": "发布通知"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "归档导航节点",
+            "WarningMessage": "您即将归档大量导航节点。",
+            "ConfirmationMessage": "您确定要归档该导航节点吗？"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "编码",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}

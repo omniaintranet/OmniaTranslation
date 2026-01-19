@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Features": {
+        "AzureIntune": {
+          "DescriptionField": "启用使用 Azure Intune 进行 Omnia 应用。应仅与“将 Omnia Entra ID 应用用于 Omnia Feed”功能一起使用。"
+        },
+        "UseOmniaApp": {
+          "Title": "将 Omnia Entra ID 应用用于 Omnia Feed",
+          "Category": "附加功能",
+          "Description": "启用使用 Omnia Entra ID 应用，而不是 Omnia Feed Entra ID 应用。"
+        }
+      },
+      "MultipleQuery": {
+        "LegacyOnly": "仅限旧版",
+        "TabView": "选项卡视图"
+      },
+      "OFMC": {
+        "Title": "Omnia Feed 管理控制台",
+        "TitleAbbrev": "OFMC",
+        "PermissionBindingLabel": "扩展管理员"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Génération du fichier Excel...",
+          "ErrorWhenFileExporting": "Une erreur s'est produite lors de la génération du fichier."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Éléments",
+          "ParentNodeNotFoundMessage": "Le nœud parent ({{id}}) est introuvable.",
+          "ParentNodeArchivedMessage": "Le nœud parent ({{id}}) a été archivé.",
+          "SelectParentNode": "Sélectionnez le nœud parent à restaurer"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Mettre à jour le panneau de notification lors de la republication",
+            "PublishNotifications": "Publier les notifications"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Archiver le nœud de navigation",
+            "WarningMessage": "Vous êtes sur le point d'archiver de nombreux nœuds de navigation.",
+            "ConfirmationMessage": "Êtes-vous sûr de vouloir archiver le nœud de navigation ?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Encodage",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}

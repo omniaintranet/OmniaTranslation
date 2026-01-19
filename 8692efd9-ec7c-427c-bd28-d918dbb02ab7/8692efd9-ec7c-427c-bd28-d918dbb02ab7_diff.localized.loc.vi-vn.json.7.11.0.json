@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Features": {
+        "AzureIntune": {
+          "DescriptionField": "Kích hoạt việc sử dụng Azure Intune cho ứng dụng Omnia. Chỉ nên sử dụng cùng với tính năng 'Sử dụng Ứng dụng Omnia Entra ID cho Omnia Feed'."
+        },
+        "UseOmniaApp": {
+          "Title": "Sử dụng Ứng dụng Omnia Entra ID cho Omnia Feed",
+          "Category": "Tiện ích mở rộng",
+          "Description": "Kích hoạt việc sử dụng Ứng dụng Omnia Entra ID thay vì ứng dụng Omnia Feed Entra ID."
+        }
+      },
+      "MultipleQuery": {
+        "LegacyOnly": "Chỉ dành cho phiên bản cũ",
+        "TabView": "Chế độ xem tab"
+      },
+      "OFMC": {
+        "Title": "Bảng điều khiển Quản lý Omnia Feed",
+        "TitleAbbrev": "OFMC",
+        "PermissionBindingLabel": "Quản trị viên mở rộng"
+      }
+    }
+  }
+}
