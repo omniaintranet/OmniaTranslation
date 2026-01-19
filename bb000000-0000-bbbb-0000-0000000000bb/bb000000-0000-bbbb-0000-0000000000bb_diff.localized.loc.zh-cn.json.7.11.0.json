@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "此部分配置为包含来自其他页面的可重用内容。"
+        }
+      }
+    }
+  }
+}
