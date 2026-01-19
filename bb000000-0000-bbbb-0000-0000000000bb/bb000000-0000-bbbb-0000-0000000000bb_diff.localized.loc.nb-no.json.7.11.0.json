@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "Denne seksjonen er konfigurert til å inneholde gjenbrukbart innhold fra en annen side."
+        }
+      }
+    }
+  }
+}
