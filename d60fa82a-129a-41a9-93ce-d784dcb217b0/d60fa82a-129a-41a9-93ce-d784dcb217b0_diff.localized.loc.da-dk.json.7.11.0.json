@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Genererer Excel-fil...",
+          "ErrorWhenFileExporting": "Der opstod en fejl under genereringen af filen."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Elementer",
+          "ParentNodeNotFoundMessage": "Overordnet node ({{id}}) blev ikke fundet.",
+          "ParentNodeArchivedMessage": "Overordnet node ({{id}}) er blevet arkiveret.",
+          "SelectParentNode": "Vælg overordnet node for at gendanne"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Opdater meddelelsespanel ved genudgivelse",
+            "PublishNotifications": "Udgiv meddelelser"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Arkiver navigationsnode",
+            "WarningMessage": "Du er ved at arkivere mange navigationsnoder.",
+            "ConfirmationMessage": "Er du sikker på, at du vil arkivere navigationsnoden?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Kodning",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
