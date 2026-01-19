@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Ux": {
+      "LayoutEngine": {
+        "BlockMessages": {
+          "ReusingContentSection": "Tämä osio on määritetty sisältämään uudelleenkäytettävää sisältöä toiselta sivulta."
+        }
+      }
+    }
+  }
+}
