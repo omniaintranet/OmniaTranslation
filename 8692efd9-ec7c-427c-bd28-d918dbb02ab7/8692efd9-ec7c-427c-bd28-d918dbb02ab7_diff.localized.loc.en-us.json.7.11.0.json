@@ -8,7 +8,7 @@
         "UseOmniaApp": {
           "Title": "Use Omnia Entra ID App for Omnia Feed",
           "Category": "Add-ons",
-          "Description": "Enable using Omnia Entra ID App instead of Omnia Feed Entra ID app"
+          "Description": "Enable using Omnia Entra ID App instead of Omnia Feed Entra ID app."
         }
       },
       "MultipleQuery": {
@@ -18,7 +18,7 @@
       "OFMC": {
         "Title": "Omnia Feed Management Console",
         "TitleAbbrev": "OFMC",
-        "PermissionBindingLabel": "Extension Administrator"
+        "PermissionBindingLabel": "Extension administrator"
       }
     }
   }
