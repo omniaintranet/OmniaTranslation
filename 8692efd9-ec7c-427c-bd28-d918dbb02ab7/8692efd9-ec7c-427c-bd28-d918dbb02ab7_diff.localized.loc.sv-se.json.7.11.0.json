@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Features": {
+        "AzureIntune": {
+          "DescriptionField": "Aktivera användning av Azure Intune för Omnia-appen. Ska endast användas tillsammans med funktionen 'Använd Omnia Entra ID-app för Omnia Feed'."
+        },
+        "UseOmniaApp": {
+          "Title": "Använd Omnia Entra ID-app för Omnia Feed",
+          "Category": "Tillägg",
+          "Description": "Aktivera användning av Omnia Entra ID-app istället för Omnia Feed Entra ID-app."
+        }
+      },
+      "MultipleQuery": {
+        "LegacyOnly": "Endast äldre version",
+        "TabView": "Flikvy"
+      },
+      "OFMC": {
+        "Title": "Omnia Feed Management Console",
+        "TitleAbbrev": "OFMC",
+        "PermissionBindingLabel": "Tilläggsadministratör"
+      }
+    }
+  }
+}
