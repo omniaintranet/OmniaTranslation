@@ -4,7 +4,7 @@
       "Views": {
         "TableView": {
           "FileExporting": "Generating Excel file...",
-          "ErrorWhenFileExporting": "An error occurred while exporting."
+          "ErrorWhenFileExporting": "An error occurred while generating file."
         }
       }
     },
@@ -24,7 +24,7 @@
         },
         "Dialogs": {
           "ArchiveNode": {
-            "Title": "Archive Navigation Node",
+            "Title": "Archive navigation node",
             "WarningMessage": "You are about to archive a lot of navigation nodes.",
             "ConfirmationMessage": "Are you sure you want to archive the navigation node?"
           }
