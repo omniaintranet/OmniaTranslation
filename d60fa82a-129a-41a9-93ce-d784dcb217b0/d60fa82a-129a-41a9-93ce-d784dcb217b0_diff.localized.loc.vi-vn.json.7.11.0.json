@@ -1,0 +1,50 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Đang tạo tệp Excel...",
+          "ErrorWhenFileExporting": "Đã xảy ra lỗi trong quá trình tạo tệp."
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageArchive": {
+          "Items": "Mục",
+          "ParentNodeNotFoundMessage": "Không tìm thấy nút cha ({{id}}).",
+          "ParentNodeArchivedMessage": "Nút cha ({{id}}) đã được lưu trữ.",
+          "SelectParentNode": "Chọn nút cha để khôi phục"
+        },
+        "Panels": {
+          "NotificationReset": {
+            "UpdateNotificationPanelOnRepublish": "Cập nhật bảng thông báo khi tái xuất bản",
+            "PublishNotifications": "Xuất bản thông báo"
+          }
+        },
+        "Dialogs": {
+          "ArchiveNode": {
+            "Title": "Lưu trữ nút điều hướng",
+            "WarningMessage": "Bạn sắp lưu trữ nhiều nút điều hướng.",
+            "ConfirmationMessage": "Bạn có chắc chắn muốn lưu trữ nút điều hướng không?"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Mã hóa",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  }
+}
