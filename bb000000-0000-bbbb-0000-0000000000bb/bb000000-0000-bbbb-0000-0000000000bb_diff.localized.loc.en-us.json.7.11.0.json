@@ -5,7 +5,7 @@
         "New7Patch11M365UserReadAllDelegated": {
           "Category": "Integration",
           "Title": "Read M365 Graph user profile in profile card",
-          "Description": "Allows to configure to show EntraID properties directly in the profile card.",
+          "Description": "Allows the show Entra ID properties to be configured directly on the profile card.",
           "ConsentInformation": "Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user."
         },
         "ManagedMetadataProperties": {
@@ -15,9 +15,9 @@
           "ConsentInformation": " "
         },
         "OmniaUserAuthentication": {
-          "Title": "Omnia User Authentication",
+          "Title": "Omnia user authentication",
           "Category": "System",
-          "Description": "Enable Omnia User authentication"
+          "Description": "Enable Omnia user authentication"
         }
       },
       "LayoutEngine": {
@@ -28,24 +28,24 @@
         }
       },
       "GptImageProvider": {
-        "Title": "GPT Image",
-        "FeatureTitle": "GPT Image",
-        "FeatureDescription": "Activate this feature to add GPT Image generate to the media picker",
+        "Title": "GPT image",
+        "FeatureTitle": "GPT image",
+        "FeatureDescription": "Activate this feature to add the option 'GPT image generate' to the media picker.",
         "DowloadImageFailed": "Download image failed",
         "PhotoBy": "Photo by",
         "PhotosProviderBy": "Photos provided by",
         "MaxInputLength": 1000,
         "Generate": "Generate",
-        "SelectSizePicture": "Size of picture",
+        "SelectSizePicture": "Picture size",
         "Download": "Download",
         "GenerateNewImage": "Generate new image",
-        "ErrorMessage": "The task failed due to an error. Please check your configuration and try again.",
+        "ErrorMessage": "The task failed. Please check your configuration and try again.",
         "ImageName": "image",
         "PromptHeader": "Tip: Prompt structure",
-        "PromptContent": "Prompts can be composed of any words, but think about how you might explain an image to someone. The form of \"subject + adjectives + styles\" tends to work well.",
+        "PromptContent": "Prompts can be composed of any words, but consider how you can explain an image to someone. The form of \"subject + adjectives + styles\" tends to work well.",
         "PromptExample": "Describe the image you want to create. For example: \"watercolor painting of the Seattle skyline\"",
         "Label": "Prompt",
-        "ImageStyle": "Image Style"
+        "ImageStyle": "Image style"
       }
     }
   }
