@@ -1,34 +1,34 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it has non-deleted App instances."
+      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it contains App instances."
     },
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT Image",
-          "DeploymentName": "Deployment Name"
+          "Title": "GPT image",
+          "DeploymentName": "Deployment name"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT Image",
-      "PredefinedPrompts": "Predefined Prompts",
-      "DefaultPrompt": "Default Prompt",
+      "Title": "GPT image",
+      "PredefinedPrompts": "Predefined prompts",
+      "DefaultPrompt": "Default prompt",
       "TitleSetting": "Title",
       "Prompt": "Prompt",
       "SetAsDefaultPrompt": "Set as default prompt",
       "ReminderText": "Add an action and remember to include the token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT Image predefined prompts",
+        "BladeTitle": "GPT image predefined prompts",
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token: ",
+          "ErrorMessage": "This field is required and must contain token: ",
           "ExampleText": " in watercolor style",
           "Example": "Example: "
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Delete Predefined Prompt",
+        "Title": "Delete predefined prompt",
         "Message": "Are you sure you want to delete the predefined prompt?"
       }
     }
@@ -36,9 +36,9 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI Features: GPT Image",
-      "ApiKey": "API Key",
-      "ApiBaseUrl": "API Base URL"
+      "GptImageSecretTitle": "AI features: GPT image",
+      "ApiKey": "API key",
+      "ApiBaseUrl": "API base URL"
     }
   },
   "Omnia": {
