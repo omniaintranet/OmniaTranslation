@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Intégration",
+          "Title": "Lire le profil utilisateur M365 Graph dans la carte de profil",
+          "Description": "Permet de configurer directement les propriétés Entra ID sur la carte de profil.",
+          "ConsentInformation": "Permet à l'application de lire l'ensemble complet des propriétés de profil, des rapports et des responsables d'autres utilisateurs de votre organisation, au nom de l'utilisateur connecté."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Écrire des propriétés de métadonnées gérées",
+          "Category": "Intégration",
+          "Description": "Permet à l'application de lire, créer, mettre à jour et supprimer des métadonnées gérées et de lire des informations de base sur le site au nom de l'utilisateur connecté.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Authentification utilisateur Omnia",
+          "Category": "Système",
+          "Description": "Activer l'authentification utilisateur Omnia"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Réutilisable"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "Image GPT",
+        "FeatureTitle": "Image GPT",
+        "FeatureDescription": "Activez cette fonctionnalité pour ajouter l'option 'Générer une image GPT' au sélecteur de médias.",
+        "DowloadImageFailed": "Échec du téléchargement de l'image",
+        "PhotoBy": "Photo par",
+        "PhotosProviderBy": "Photos fournies par",
+        "MaxInputLength": 1000,
+        "Generate": "Générer",
+        "SelectSizePicture": "Taille de l'image",
+        "Download": "Télécharger",
+        "GenerateNewImage": "Générer une nouvelle image",
+        "ErrorMessage": "La tâche a échoué. Veuillez vérifier votre configuration et réessayer.",
+        "ImageName": "image",
+        "PromptHeader": "Astuce : Structure de l'invite",
+        "PromptContent": "Les invites peuvent être composées de n'importe quels mots, mais pensez à la façon dont vous pouvez expliquer une image à quelqu'un. La forme \"sujet + adjectifs + styles\" a tendance à bien fonctionner.",
+        "PromptExample": "Décrivez l'image que vous souhaitez créer. Par exemple : \"peinture à l'aquarelle de la ligne d'horizon de Seattle\"",
+        "Label": "Invite",
+        "ImageStyle": "Style d'image"
+      }
+    }
+  }
+}
