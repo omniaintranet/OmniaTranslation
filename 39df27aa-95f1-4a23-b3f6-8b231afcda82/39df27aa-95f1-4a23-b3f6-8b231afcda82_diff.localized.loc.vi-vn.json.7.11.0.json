@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Hồ sơ doanh nghiệp này không thể bị xóa vì nó chứa các phiên bản ứng dụng."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "Hình ảnh GPT",
+          "DeploymentName": "Tên triển khai"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "Hình ảnh GPT",
+      "PredefinedPrompts": "Câu lệnh đã định nghĩa sẵn",
+      "DefaultPrompt": "Câu lệnh mặc định",
+      "TitleSetting": "Tiêu đề",
+      "Prompt": "Câu lệnh",
+      "SetAsDefaultPrompt": "Đặt làm câu lệnh mặc định",
+      "ReminderText": "Thêm một hành động và nhớ bao gồm mã thông báo: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Câu lệnh đã định nghĩa sẵn hình ảnh GPT",
+        "Detail": {
+          "ErrorMessage": "Trường này là bắt buộc và phải chứa mã thông báo: ",
+          "ExampleText": " theo phong cách màu nước",
+          "Example": "Ví dụ: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Xóa câu lệnh đã định nghĩa sẵn",
+        "Message": "Bạn có chắc chắn muốn xóa câu lệnh đã định nghĩa sẵn không?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "Tính năng AI: Hình ảnh GPT",
+      "ApiKey": "Khóa API",
+      "ApiBaseUrl": "URL cơ sở API"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Kích hoạt tính năng Ghi các thuộc tính siêu dữ liệu được quản lý"
+          }
+        }
+      }
+    }
+  }
+}
