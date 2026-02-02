@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it contains app instances."
+      "ValidateBusinessProfileAppInstanceExists": "This business profile can not be deleted as it contains app instances."
     },
     "AIEngineSettings": {
       "GeneralSetting": {
