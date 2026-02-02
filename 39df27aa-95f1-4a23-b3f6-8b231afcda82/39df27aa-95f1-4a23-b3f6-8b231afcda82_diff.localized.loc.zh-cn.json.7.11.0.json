@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "此业务档案无法删除，因为它包含应用实例。"
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT 图像",
+          "DeploymentName": "部署名称"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT 图像",
+      "PredefinedPrompts": "预定义提示",
+      "DefaultPrompt": "默认提示",
+      "TitleSetting": "标题",
+      "Prompt": "提示",
+      "SetAsDefaultPrompt": "设为默认提示",
+      "ReminderText": "添加一个操作，并记得包含令牌：",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT 图像预定义提示",
+        "Detail": {
+          "ErrorMessage": "此字段是必填项，必须包含令牌：",
+          "ExampleText": "以水彩风格",
+          "Example": "示例："
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "删除预定义提示",
+        "Message": "您确定要删除预定义提示吗？"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI 功能：GPT 图像",
+      "ApiKey": "API 密钥",
+      "ApiBaseUrl": "API 基础 URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "激活功能：写入管理的元数据属性"
+          }
+        }
+      }
+    }
+  }
+}
