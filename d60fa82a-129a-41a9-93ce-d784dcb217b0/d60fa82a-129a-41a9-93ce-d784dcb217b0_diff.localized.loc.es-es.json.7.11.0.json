@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Almacenar contenido de sección en propiedad"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "¿Está seguro de que desea mover este nodo de navegación?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Ir a la página",
+        "GoToPageText": "Texto de ir a la página",
+        "GoToPageColor": "Color del texto de ir a la página",
+        "GoToPageBackgroundColor": "Color del botón de ir a la página"
+      }
+    }
+  }
+}
