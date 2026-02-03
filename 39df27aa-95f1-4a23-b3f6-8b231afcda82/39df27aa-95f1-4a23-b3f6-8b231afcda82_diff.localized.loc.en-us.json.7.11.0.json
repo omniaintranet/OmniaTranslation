@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT image",
+          "Title": "GPT Image",
           "DeploymentName": "Deployment name"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT image",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Predefined prompts",
       "DefaultPrompt": "Default prompt",
       "TitleSetting": "Title",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Set as default prompt",
       "ReminderText": "Add an action and remember to include the token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT image predefined prompts",
+        "BladeTitle": "GPT Image predefined prompts",
         "Detail": {
           "ErrorMessage": "This field is required and must contain token: ",
           "ExampleText": " in watercolor style",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI features: GPT image",
+      "GptImageSecretTitle": "AI features: GPT Image",
       "ApiKey": "API key",
       "ApiBaseUrl": "API base URL"
     }
