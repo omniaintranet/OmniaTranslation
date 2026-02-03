@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "Imagen GPT",
+          "Title": "GPT Image",
           "DeploymentName": "Nombre de la implementación"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "Imagen GPT",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Prompts predefinidos",
       "DefaultPrompt": "Prompt por defecto",
       "TitleSetting": "Título",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Establecer como prompt por defecto",
       "ReminderText": "Agrega una acción y recuerda incluir el token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Prompts predefinidos de imagen GPT",
+        "BladeTitle": "Prompts predefinidos de GPT Image",
         "Detail": {
           "ErrorMessage": "Este campo es obligatorio y debe contener el token: ",
           "ExampleText": " en estilo acuarela",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "Funciones de IA: Imagen GPT",
+      "GptImageSecretTitle": "Funciones de IA: GPT Image",
       "ApiKey": "Clave API",
       "ApiBaseUrl": "URL base de la API"
     }
