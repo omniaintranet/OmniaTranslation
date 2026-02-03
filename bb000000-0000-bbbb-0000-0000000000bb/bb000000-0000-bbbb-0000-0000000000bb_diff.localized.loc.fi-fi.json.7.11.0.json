@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integraatio",
+          "Title": "Lue M365 Graph -käyttäjäprofiili profiilikortissa",
+          "Description": "Mahdollistaa Entra ID -ominaisuuksien näyttämisen määrittämisen suoraan profiilikortissa.",
+          "ConsentInformation": "Mahdollistaa sovelluksen lukea muiden käyttäjien täydellinen joukko profiiliominaisuuksia, raportteja ja esimiehiä organisaatiossasi, kirjautuneen käyttäjän puolesta."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Kirjoita hallittuja metatietoja",
+          "Category": "Integraatio",
+          "Description": "Mahdollistaa sovelluksen lukea, luoda, päivittää ja poistaa hallittuja metatietoja sekä lukea perussivustotietoja kirjautuneen käyttäjän puolesta.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia-käyttäjän todennus",
+          "Category": "Järjestelmä",
+          "Description": "Ota käyttöön Omnia-käyttäjän todennus"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Uudelleenkäytettävä"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT-kuva",
+        "FeatureTitle": "GPT-kuva",
+        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi vaihtoehdon 'Luo GPT-kuva' mediaselaimeen.",
+        "DowloadImageFailed": "Kuvan lataaminen epäonnistui",
+        "PhotoBy": "Kuva: ",
+        "PhotosProviderBy": "Kuvat toimittanut ",
+        "MaxInputLength": 1000,
+        "Generate": "Luo",
+        "SelectSizePicture": "Kuvan koko",
+        "Download": "Lataa",
+        "GenerateNewImage": "Luo uusi kuva",
+        "ErrorMessage": "Tehtävä epäonnistui. Tarkista asetuksesi ja yritä uudelleen.",
+        "ImageName": "kuva",
+        "PromptHeader": "Vinkki: Kehyksen rakenne",
+        "PromptContent": "Kehykset voivat koostua mistä tahansa sanoista, mutta mieti, kuinka voit selittää kuvan jollekin. Muoto \"aihe + adjektiivit + tyylit\" toimii yleensä hyvin.",
+        "PromptExample": "Kuvaile kuva, jonka haluat luoda. Esimerkiksi: \"akvarellimaalaus Seattlen horisontista\"",
+        "Label": "Kehys",
+        "ImageStyle": "Kuvan tyyli"
+      }
+    }
+  }
+}
