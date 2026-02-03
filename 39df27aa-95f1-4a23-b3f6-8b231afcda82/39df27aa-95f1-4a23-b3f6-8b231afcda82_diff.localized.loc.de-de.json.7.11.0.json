@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Als Standardaufforderung festlegen",
       "ReminderText": "Fügen Sie eine Aktion hinzu und denken Sie daran, das Token einzufügen: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Vordefinierte Eingabeaufforderungen für GPT-Bild",
+        "BladeTitle": "Vordefinierte Eingabeaufforderungen für GPT Image",
         "Detail": {
           "ErrorMessage": "Dieses Feld ist erforderlich und muss das Token enthalten: ",
           "ExampleText": " im Aquarellstil",
