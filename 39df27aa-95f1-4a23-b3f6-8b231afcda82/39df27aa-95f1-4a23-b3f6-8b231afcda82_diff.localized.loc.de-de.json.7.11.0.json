@@ -12,7 +12,7 @@
       }
     },
     "GptImageSettings": {
-      "Title": "GPT-Bild",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Vordefinierte Eingabeaufforderungen",
       "DefaultPrompt": "Standardaufforderung",
       "TitleSetting": "Titel",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Als Standardaufforderung festlegen",
       "ReminderText": "Fügen Sie eine Aktion hinzu und denken Sie daran, das Token einzufügen: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Vordefinierte Eingabeaufforderungen für GPT-Bild",
+        "BladeTitle": "Vordefinierte Eingabeaufforderungen für GPT Image",
         "Detail": {
           "ErrorMessage": "Dieses Feld ist erforderlich und muss das Token enthalten: ",
           "ExampleText": " im Aquarellstil",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "KI-Funktionen: GPT-Bild",
+      "GptImageSecretTitle": "KI-Funktionen: GPT Image",
       "ApiKey": "API-Schlüssel",
       "ApiBaseUrl": "API-Basis-URL"
     }
