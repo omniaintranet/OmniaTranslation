@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integratie",
+          "Title": "Lees M365 Graph gebruikersprofiel in profielkaart",
+          "Description": "Stelt in staat om Entra ID-eigenschappen direct op de profielkaart te configureren.",
+          "ConsentInformation": "Staat de app toe om de volledige set van profiel eigenschappen, rapporten en managers van andere gebruikers in uw organisatie te lezen, namens de ingelogde gebruiker."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Schrijf beheerde metadata-eigenschappen",
+          "Category": "Integratie",
+          "Description": "Stelt de app in staat om beheerde metadata te lezen, te creëren, bij te werken en te verwijderen, en om basis site-informatie te lezen namens de ingelogde gebruiker.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia gebruikersauthenticatie",
+          "Category": "Systeem",
+          "Description": "Schakel Omnia gebruikersauthenticatie in"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Herbruikbaar"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT afbeelding",
+        "FeatureTitle": "GPT afbeelding",
+        "FeatureDescription": "Activeer deze functie om de optie 'GPT afbeelding genereren' toe te voegen aan de mediakeuze.",
+        "DowloadImageFailed": "Afbeelding downloaden mislukt",
+        "PhotoBy": "Foto door",
+        "PhotosProviderBy": "Foto's geleverd door",
+        "MaxInputLength": 1000,
+        "Generate": "Genereren",
+        "SelectSizePicture": "Afbeeldingsgrootte",
+        "Download": "Downloaden",
+        "GenerateNewImage": "Genereer nieuwe afbeelding",
+        "ErrorMessage": "De taak is mislukt. Controleer uw configuratie en probeer het opnieuw.",
+        "ImageName": "afbeelding",
+        "PromptHeader": "Tip: Promptstructuur",
+        "PromptContent": "Prompts kunnen uit willekeurige woorden bestaan, maar overweeg hoe u een afbeelding aan iemand kunt uitleggen. De vorm van \"onderwerp + bijvoeglijke naamwoorden + stijlen\" werkt meestal goed.",
+        "PromptExample": "Beschrijf de afbeelding die u wilt maken. Bijvoorbeeld: \"aquarelschilderij van de skyline van Seattle\"",
+        "Label": "Prompt",
+        "ImageStyle": "Afbeeldingsstijl"
+      }
+    }
+  }
+}
