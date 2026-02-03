@@ -5,45 +5,45 @@
         "New7Patch11M365UserReadAllDelegated": {
           "Category": "Integration",
           "Title": "Läs M365 Graph användarprofil i profilkort",
-          "Description": "Möjliggör att visa Entra ID-egenskaper som kan konfigureras direkt på profilkortet.",
-          "ConsentInformation": "Möjliggör att appen läser hela uppsättningen av profil egenskaper, rapporter och chefer för andra användare i din organisation, å den inloggade användarens vägnar."
+          "Description": "Gör det möjligt att visa Entra ID-egenskaper som kan konfigureras direkt på profilkortet.",
+          "ConsentInformation": "Möjliggör att appen läser hela uppsättningen av profilegenskaper, rapporter och chefer för andra användare i din organisation, för den inloggade användarens räkning."
         },
         "ManagedMetadataProperties": {
           "Title": "Skriv hanterade metadataegenskaper",
           "Category": "Integration",
-          "Description": "Möjliggör att appen läser, skapar, uppdaterar och tar bort hanterad metadata och att läsa grundläggande webbplatsinformation å den inloggade användarens vägnar.",
+          "Description": "Gör det möjligt för appen att läsa, skapa, uppdatera och ta bort hanterad metadata och att läsa grundläggande webbplatsinformation för den inloggade användarens räkning.",
           "ConsentInformation": " "
         },
         "OmniaUserAuthentication": {
-          "Title": "Omnia användautentisering",
+          "Title": "Omnia användarautentisering",
           "Category": "System",
-          "Description": "Aktivera Omnia användautentisering"
+          "Description": "Aktivera Omnia användarautentisering"
         }
       },
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "Reusable": "Återanvändbar"
+            "Reusable": "Kan åtaranvändas"
           }
         }
       },
       "GptImageProvider": {
-        "Title": "GPT bild",
-        "FeatureTitle": "GPT bild",
-        "FeatureDescription": "Aktivera denna funktion för att lägga till alternativet 'GPT bildgenerera' i medievalet.",
+        "Title": "GPT-bild",
+        "FeatureTitle": "GPT-bild",
+        "FeatureDescription": "Aktivera denna funktion för att lägga till alternativet 'Skapa GPT-bild' i mediaväljaren.",
         "DowloadImageFailed": "Nedladdning av bild misslyckades",
         "PhotoBy": "Foto av",
-        "PhotosProviderBy": "Fotografier tillhandahållna av",
+        "PhotosProviderBy": "Foton tillhandahållna av",
         "MaxInputLength": 1000,
-        "Generate": "Generera",
+        "Generate": "Skapa",
         "SelectSizePicture": "Bildstorlek",
         "Download": "Ladda ner",
-        "GenerateNewImage": "Generera ny bild",
+        "GenerateNewImage": "Skapa ny bild",
         "ErrorMessage": "Uppgiften misslyckades. Kontrollera din konfiguration och försök igen.",
         "ImageName": "bild",
         "PromptHeader": "Tips: Promptstruktur",
-        "PromptContent": "Prompter kan bestå av vilka ord som helst, men tänk på hur du kan förklara en bild för någon. Formen av \"ämne + adjektiv + stilar\" tenderar att fungera bra.",
-        "PromptExample": "Beskriv bilden du vill skapa. Till exempel: \"akvarellmålning av Seattle skyline\"",
+        "PromptContent": "En prompt kan bestå av vilka ord som helst, men tänk på hur du kan förklara en bild för någon. Formen \"ämne + adjektiv + stilar\" verkar fungera bra.",
+        "PromptExample": "Beskriv bilden du vill skapa. Till exempel: \"akvarellmålning av Visby ringmur\"",
         "Label": "Prompt",
         "ImageStyle": "Bildstil"
       }
