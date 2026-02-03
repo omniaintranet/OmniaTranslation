@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT-Bild",
+          "Title": "GPT Imagwe",
           "DeploymentName": "Bereitstellungsname"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT-Bild",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Vordefinierte Eingabeaufforderungen",
       "DefaultPrompt": "Standardaufforderung",
       "TitleSetting": "Titel",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "KI-Funktionen: GPT-Bild",
+      "GptImageSecretTitle": "KI-Funktionen: GPT Image",
       "ApiKey": "API-Schlüssel",
       "ApiBaseUrl": "API-Basis-URL"
     }
