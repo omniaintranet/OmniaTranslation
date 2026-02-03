@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT afbeelding",
+          "Title": "GPT Image",
           "DeploymentName": "Implementatienaam"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT afbeelding",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Vooraf gedefinieerde prompts",
       "DefaultPrompt": "Standaard prompt",
       "TitleSetting": "Titel",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Instellen als standaard prompt",
       "ReminderText": "Voeg een actie toe en vergeet niet de token op te nemen: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Vooraf gedefinieerde prompts voor GPT afbeelding",
+        "BladeTitle": "Vooraf gedefinieerde prompts voor GPT Image",
         "Detail": {
           "ErrorMessage": "Dit veld is verplicht en moet de token bevatten: ",
           "ExampleText": " in aquarelstijl",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI-functies: GPT afbeelding",
+      "GptImageSecretTitle": "AI-functies: GPT Image",
       "ApiKey": "API-sleutel",
       "ApiBaseUrl": "API basis-URL"
     }
