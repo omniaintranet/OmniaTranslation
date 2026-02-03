@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Denne forretningsprofilen kan ikke slettes da den inneholder app-instanser."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT-bilde",
+          "DeploymentName": "Distribusjonsnavn"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT-bilde",
+      "PredefinedPrompts": "Forhåndsdefinerte forespørsel",
+      "DefaultPrompt": "Standard forespørsel",
+      "TitleSetting": "Tittel",
+      "Prompt": "Forespørsel",
+      "SetAsDefaultPrompt": "Sett som standard forespørsel",
+      "ReminderText": "Legg til en handling og husk å inkludere token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Forhåndsdefinerte forespørsel for GPT-bilde",
+        "Detail": {
+          "ErrorMessage": "Dette feltet er påkrevd og må inneholde token: ",
+          "ExampleText": " i akvarellstil",
+          "Example": "Eksempel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Slett forhåndsdefinert forespørsel",
+        "Message": "Er du sikker på at du vil slette den forhåndsdefinerte forespørselen?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-funksjoner: GPT-bilde",
+      "ApiKey": "API-nøkkel",
+      "ApiBaseUrl": "API-grunnleggende URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Aktiver funksjonen Skriv administrerte metadataegenskaper"
+          }
+        }
+      }
+    }
+  }
+}
