@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Lưu nội dung phần trong thuộc tính"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Bạn có chắc chắn muốn di chuyển nút điều hướng này không?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Đi đến trang",
+        "GoToPageText": "Văn bản đi đến trang",
+        "GoToPageColor": "Màu văn bản đi đến trang",
+        "GoToPageBackgroundColor": "Màu nút đi đến trang"
+      }
+    }
+  }
+}
