@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT kuva",
+          "Title": "GPT Image",
           "DeploymentName": "Käyttöönoton nimi"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT kuva",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Ennalta määritellyt kehykset",
       "DefaultPrompt": "Oletuskehys",
       "TitleSetting": "Otsikko",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Aseta oletuskehykseksi",
       "ReminderText": "Lisää toiminto ja muista sisällyttää token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT kuvan ennalta määritellyt kehykset",
+        "BladeTitle": "GPT Image ennalta määritellyt kehykset",
         "Detail": {
           "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisältävä token: ",
           "ExampleText": " akvarellityylissä",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI-ominaisuudet: GPT kuva",
+      "GptImageSecretTitle": "AI-ominaisuudet: GPT Image",
       "ApiKey": "API-avain",
       "ApiBaseUrl": "API-perus-URL"
     }
