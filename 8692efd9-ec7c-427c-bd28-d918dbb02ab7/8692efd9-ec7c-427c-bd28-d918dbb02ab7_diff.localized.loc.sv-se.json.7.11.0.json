@@ -3,18 +3,18 @@
     "Feed": {
       "Settings": {
         "ResyncNewsArticles": {
-          "ResyncInProgressConfirmationMessage": "Återsynkroniseringen pågår för närvarande. Att köra den igen kan orsaka problem med applikationen. Är du verkligen säker på att du vill åter-synkronisera nyhetsartiklar för denna affärsprofil?"
+          "ResyncInProgressConfirmationMessage": "Synkroniseringen pågår för närvarande. Att köra den igen kan orsaka problem med applikationen. Är du verkligen säker på att du vill synkronisera nyhetsartiklar för denna verksamhetsprofil på nytt?"
         }
       },
       "App": {
         "Commons": {
           "TextAppStore": {
-            "GooglePlay": "Play Butik",
+            "GooglePlay": "Play Store",
             "AppleAppStore": "App Store"
           },
           "AlertUpdateAppRequired": {
-            "Title": "Appuppdatering krävs",
-            "Body": "Du måste uppdatera appen för att fortsätta använda den. Vänligen installera den senaste versionen från {appStoreTitle}",
+            "Title": "Uppdatering av appen krävs",
+            "Body": "Du måste uppdatera appen för att fortsätta använda den. Installera den senaste versionen från {appStoreTitle}",
             "GoToStoreBtn": "Gå till {appStoreTitle}"
           }
         }
