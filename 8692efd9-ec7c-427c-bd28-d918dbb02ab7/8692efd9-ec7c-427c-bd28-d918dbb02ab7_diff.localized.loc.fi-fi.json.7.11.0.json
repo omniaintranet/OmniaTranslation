@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncNewsArticles": {
+          "ResyncInProgressConfirmationMessage": "Uudelleensynkronointi on parhaillaan käynnissä. Sen suorittaminen uudelleen voi aiheuttaa sovellusongelmia. Oletko todella varma, että haluat synkronoida uutisartikkelit uudelleen tälle liiketoimintaprofiilille?"
+        }
+      },
+      "App": {
+        "Commons": {
+          "TextAppStore": {
+            "GooglePlay": "Play Store",
+            "AppleAppStore": "App Store"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Sovelluspäivitys vaaditaan",
+            "Body": "Sinun on päivitettävä sovellus jatkaaksesi sen käyttöä. Asenna uusin versio {appStoreTitle} -kaupasta.",
+            "GoToStoreBtn": "Siirry {appStoreTitle} -kauppaan"
+          }
+        }
+      }
+    }
+  }
+}

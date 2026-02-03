@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncNewsArticles": {
+          "ResyncInProgressConfirmationMessage": "正在进行重新同步。再次运行可能会导致应用程序问题。您真的确定要为此业务配置文件重新同步新闻文章吗？"
+        }
+      },
+      "App": {
+        "Commons": {
+          "TextAppStore": {
+            "GooglePlay": "应用商店",
+            "AppleAppStore": "App Store"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "需要更新应用",
+            "Body": "您需要更新应用才能继续使用。请从 {appStoreTitle} 安装最新版本",
+            "GoToStoreBtn": "前往 {appStoreTitle}"
+          }
+        }
+      }
+    }
+  }
+}
