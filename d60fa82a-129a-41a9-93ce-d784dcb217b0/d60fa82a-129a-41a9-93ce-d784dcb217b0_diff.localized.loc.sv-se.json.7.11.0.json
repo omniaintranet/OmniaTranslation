@@ -2,7 +2,7 @@
   "WCM": {
     "Fx": {
       "Block": {
-        "StoreSectionContentInProperty": "Spara avsnittsinhåll i egenskap"
+        "StoreSectionContentInProperty": "Spara sektionsinnehåll i egenskap"
       }
     },
     "Editor": {
@@ -20,8 +20,8 @@
       "Settings": {
         "GoToPage": "Gå till sidan",
         "GoToPageText": "Gå till sidtext",
-        "GoToPageColor": "Gå till sidtextfärg",
-        "GoToPageBackgroundColor": "Gå till sidknappfärg"
+        "GoToPageColor": "Gå till färg för text på sidan",
+        "GoToPageBackgroundColor": "Gå till färg för sidknapp"
       }
     }
   }
