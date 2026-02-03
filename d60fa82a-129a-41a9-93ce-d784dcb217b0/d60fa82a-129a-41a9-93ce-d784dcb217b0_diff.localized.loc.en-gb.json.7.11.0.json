@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Store section content in property"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Are you sure you want to move this navigation node?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Go to page",
+        "GoToPageText": "Go to page text",
+        "GoToPageColor": "Go to page text colour",
+        "GoToPageBackgroundColor": "Go to page button colour"
+      }
+    }
+  }
+}
