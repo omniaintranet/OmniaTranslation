@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integración",
+          "Title": "Leer el perfil de usuario de M365 Graph en la tarjeta de perfil",
+          "Description": "Permite que las propiedades de Entra ID se configuren directamente en la tarjeta de perfil.",
+          "ConsentInformation": "Permite que la aplicación lea el conjunto completo de propiedades de perfil, informes y gerentes de otros usuarios en su organización, en nombre del usuario que ha iniciado sesión."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Escribir propiedades de metadatos administrados",
+          "Category": "Integración",
+          "Description": "Permite que la aplicación lea, cree, actualice y elimine metadatos administrados y lea información básica del sitio en nombre del usuario que ha iniciado sesión.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Autenticación de usuario de Omnia",
+          "Category": "Sistema",
+          "Description": "Habilitar la autenticación de usuario de Omnia"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Reutilizable"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "Imagen GPT",
+        "FeatureTitle": "Imagen GPT",
+        "FeatureDescription": "Activa esta función para añadir la opción 'Generar imagen GPT' al selector de medios.",
+        "DowloadImageFailed": "Error al descargar la imagen",
+        "PhotoBy": "Foto de",
+        "PhotosProviderBy": "Fotos proporcionadas por",
+        "MaxInputLength": 1000,
+        "Generate": "Generar",
+        "SelectSizePicture": "Tamaño de la imagen",
+        "Download": "Descargar",
+        "GenerateNewImage": "Generar nueva imagen",
+        "ErrorMessage": "La tarea falló. Por favor, verifica tu configuración e inténtalo de nuevo.",
+        "ImageName": "imagen",
+        "PromptHeader": "Consejo: Estructura del aviso",
+        "PromptContent": "Los avisos pueden estar compuestos de cualquier palabra, pero considera cómo puedes explicar una imagen a alguien. La forma de \"sujeto + adjetivos + estilos\" tiende a funcionar bien.",
+        "PromptExample": "Describe la imagen que deseas crear. Por ejemplo: \"pintura en acuarela del horizonte de Seattle\"",
+        "Label": "Aviso",
+        "ImageStyle": "Estilo de imagen"
+      }
+    }
+  }
+}
