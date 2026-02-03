@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integrasjon",
+          "Title": "Les M365 Graph brukerprofil i profilkort",
+          "Description": "Lar visningen av Entra ID-egenskaper bli konfigurert direkte på profilkortet.",
+          "ConsentInformation": "Lar appen lese hele settet av profil-egenskaper, rapporter og ledere for andre brukere i organisasjonen, på vegne av den innloggede brukeren."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Skriv administrerte metadata-egenskaper",
+          "Category": "Integrasjon",
+          "Description": "Lar appen lese, opprette, oppdatere og slette administrerte metadata og lese grunnleggende nettstedinformasjon på vegne av den innloggede brukeren.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia brukerautentisering",
+          "Category": "System",
+          "Description": "Aktiver Omnia brukerautentisering"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Gjenbrukbar"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT bilde",
+        "FeatureTitle": "GPT bilde",
+        "FeatureDescription": "Aktiver denne funksjonen for å legge til alternativet 'Generer GPT bilde' i medievelgeren.",
+        "DowloadImageFailed": "Nedlasting av bilde mislyktes",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Foto levert av",
+        "MaxInputLength": 1000,
+        "Generate": "Generer",
+        "SelectSizePicture": "Bildestørrelse",
+        "Download": "Last ned",
+        "GenerateNewImage": "Generer nytt bilde",
+        "ErrorMessage": "Oppgaven mislyktes. Vennligst sjekk konfigurasjonen din og prøv igjen.",
+        "ImageName": "bilde",
+        "PromptHeader": "Tips: Prompt-struktur",
+        "PromptContent": "Prompter kan bestå av hvilke som helst ord, men vurder hvordan du kan forklare et bilde til noen. Formen \"subjekt + adjektiver + stiler\" pleier å fungere godt.",
+        "PromptExample": "Beskriv bildet du ønsker å lage. For eksempel: \"akvarellmaleri av Seattle skyline\"",
+        "Label": "Prompt",
+        "ImageStyle": "Bildestil"
+      }
+    }
+  }
+}
