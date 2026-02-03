@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "Läs M365 Graph användarprofil i profilkort",
+          "Description": "Möjliggör att visa Entra ID-egenskaper som kan konfigureras direkt på profilkortet.",
+          "ConsentInformation": "Möjliggör att appen läser hela uppsättningen av profil egenskaper, rapporter och chefer för andra användare i din organisation, å den inloggade användarens vägnar."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Skriv hanterade metadataegenskaper",
+          "Category": "Integration",
+          "Description": "Möjliggör att appen läser, skapar, uppdaterar och tar bort hanterad metadata och att läsa grundläggande webbplatsinformation å den inloggade användarens vägnar.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia användautentisering",
+          "Category": "System",
+          "Description": "Aktivera Omnia användautentisering"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Återanvändbar"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT bild",
+        "FeatureTitle": "GPT bild",
+        "FeatureDescription": "Aktivera denna funktion för att lägga till alternativet 'Generera GPT-bild' i medievalet.",
+        "DowloadImageFailed": "Nedladdning av bild misslyckades",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Fotografier tillhandahållna av",
+        "MaxInputLength": 1000,
+        "Generate": "Generera",
+        "SelectSizePicture": "Bildstorlek",
+        "Download": "Ladda ner",
+        "GenerateNewImage": "Generera ny bild",
+        "ErrorMessage": "Uppgiften misslyckades. Kontrollera din konfiguration och försök igen.",
+        "ImageName": "bild",
+        "PromptHeader": "Tips: Promptstruktur",
+        "PromptContent": "Prompter kan bestå av valfria ord, men tänk på hur du kan förklara en bild för någon. Formen av \"ämne + adjektiv + stilar\" tenderar att fungera bra.",
+        "PromptExample": "Beskriv bilden du vill skapa. Till exempel: \"akvarellmålning av Seattle skyline\"",
+        "Label": "Prompt",
+        "ImageStyle": "Bildstil"
+      }
+    }
+  }
+}
