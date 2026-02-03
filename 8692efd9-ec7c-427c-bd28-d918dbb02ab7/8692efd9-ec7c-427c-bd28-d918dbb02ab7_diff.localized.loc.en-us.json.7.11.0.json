@@ -13,8 +13,8 @@
             "AppleAppStore": "App Store"
           },
           "AlertUpdateAppRequired": {
-            "Title": "App update require",
-            "Body": "You need to update the app to continue using the app. Please install the latest version from {appStoreTitle}",
+            "Title": "App update required",
+            "Body": "You need to update the app to continue using it. Please install the latest version from {appStoreTitle}",
             "GoToStoreBtn": "Go to {appStoreTitle}"
           }
         }
