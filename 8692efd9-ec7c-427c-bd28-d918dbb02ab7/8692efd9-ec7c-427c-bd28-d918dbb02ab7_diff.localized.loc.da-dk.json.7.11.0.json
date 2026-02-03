@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncNewsArticles": {
+          "ResyncInProgressConfirmationMessage": "Resynkningen er i øjeblikket i gang. At køre den igen kan forårsage applikationsproblemer. Er du virkelig sikker på, at du vil re-synkronisere nyhedsartikler for denne forretningsprofil?"
+        }
+      },
+      "App": {
+        "Commons": {
+          "TextAppStore": {
+            "GooglePlay": "Play Butik",
+            "AppleAppStore": "App Store"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "App-opdatering påkrævet",
+            "Body": "Du skal opdatere appen for at fortsætte med at bruge den. Installer venligst den nyeste version fra {appStoreTitle}",
+            "GoToStoreBtn": "Gå til {appStoreTitle}"
+          }
+        }
+      }
+    }
+  }
+}
