@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "Hình ảnh GPT",
+          "Title": "GPT Image",
           "DeploymentName": "Tên triển khai"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "Hình ảnh GPT",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Câu lệnh đã định nghĩa sẵn",
       "DefaultPrompt": "Câu lệnh mặc định",
       "TitleSetting": "Tiêu đề",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Đặt làm câu lệnh mặc định",
       "ReminderText": "Thêm một hành động và nhớ bao gồm mã thông báo: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Câu lệnh đã định nghĩa sẵn hình ảnh GPT",
+        "BladeTitle": "Câu lệnh đã định nghĩa sẵn GPT Image",
         "Detail": {
           "ErrorMessage": "Trường này là bắt buộc và phải chứa mã thông báo: ",
           "ExampleText": " theo phong cách màu nước",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "Tính năng AI: Hình ảnh GPT",
+      "GptImageSecretTitle": "Tính năng AI: GPT Image",
       "ApiKey": "Khóa API",
       "ApiBaseUrl": "URL cơ sở API"
     }
