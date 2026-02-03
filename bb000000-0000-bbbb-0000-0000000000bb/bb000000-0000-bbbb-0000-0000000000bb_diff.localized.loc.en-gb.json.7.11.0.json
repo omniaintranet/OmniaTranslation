@@ -30,7 +30,7 @@
       "GptImageProvider": {
         "Title": "GPT image",
         "FeatureTitle": "GPT image",
-        "FeatureDescription": "Activate this feature to add the option 'GPT image generate' to the media picker.",
+        "FeatureDescription": "Activate this feature to add the option 'Generate GPT image' to the media picker.",
         "DowloadImageFailed": "Download image failed",
         "PhotoBy": "Photo by",
         "PhotosProviderBy": "Photos provided by",
