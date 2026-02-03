@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "将部分内容存储在属性中"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "您确定要移动此导航节点吗？"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "前往页面",
+        "GoToPageText": "前往页面文本",
+        "GoToPageColor": "前往页面文本颜色",
+        "GoToPageBackgroundColor": "前往页面按钮颜色"
+      }
+    }
+  }
+}
