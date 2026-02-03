@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "Image GPT",
+          "Title": "GPT Image",
           "DeploymentName": "Nom de déploiement"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "Image GPT",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Invites prédéfinies",
       "DefaultPrompt": "Invite par défaut",
       "TitleSetting": "Titre",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Définir comme invite par défaut",
       "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton : ",
       "ImproveSelectedText": {
-        "BladeTitle": "Invites prédéfinies pour l'image GPT",
+        "BladeTitle": "Invites prédéfinies pour GPT Image",
         "Detail": {
           "ErrorMessage": "Ce champ est requis et doit contenir le jeton : ",
           "ExampleText": " dans un style aquarelle",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "Fonctionnalités IA : Image GPT",
+      "GptImageSecretTitle": "Fonctionnalités IA : GPT Image",
       "ApiKey": "Clé API",
       "ApiBaseUrl": "URL de base de l'API"
     }
