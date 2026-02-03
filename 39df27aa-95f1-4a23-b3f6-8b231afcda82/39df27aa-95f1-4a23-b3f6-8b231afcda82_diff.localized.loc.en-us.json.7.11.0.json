@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Set as default prompt",
       "ReminderText": "Add an action and remember to include the token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT image predefined prompts",
+        "BladeTitle": "GPT Image predefined prompts",
         "Detail": {
           "ErrorMessage": "This field is required and must contain token: ",
           "ExampleText": " in watercolor style",
