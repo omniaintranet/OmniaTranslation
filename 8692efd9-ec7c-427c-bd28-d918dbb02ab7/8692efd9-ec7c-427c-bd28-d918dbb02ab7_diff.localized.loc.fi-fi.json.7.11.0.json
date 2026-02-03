@@ -3,7 +3,7 @@
     "Feed": {
       "Features": {
         "AzureIntune": {
-          "DescriptionField": "Ota käyttöön Azure Intune Omnia-sovellusta varten. Tulisi käyttää vain yhdessä 'Käytä Omnia Entra ID -sovellusta Omnia Feedille' -ominaisuuden kanssa."
+          "DescriptionField": "Ota käyttöön Microsoft Intune Omnia-sovellusta varten. Tulisi käyttää vain yhdessä 'Käytä Omnia Entra ID -sovellusta Omnia Feedille' -ominaisuuden kanssa."
         },
         "UseOmniaApp": {
           "Title": "Käytä Omnia Entra ID -sovellusta Omnia Feedille",
