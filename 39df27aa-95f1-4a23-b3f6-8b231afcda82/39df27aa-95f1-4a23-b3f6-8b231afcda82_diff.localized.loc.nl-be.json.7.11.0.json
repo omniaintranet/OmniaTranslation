@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Dit bedrijfsprofiel kan niet worden verwijderd omdat het App-instanties bevat."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Afbeelding",
+          "DeploymentName": "Implementatienaam"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Afbeelding",
+      "PredefinedPrompts": "Vooraf gedefinieerde prompts",
+      "DefaultPrompt": "Standaard prompt",
+      "TitleSetting": "Titel",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Instellen als standaard prompt",
+      "ReminderText": "Voeg een actie toe en vergeet niet de token op te nemen: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Vooraf gedefinieerde prompts voor GPT Afbeelding",
+        "Detail": {
+          "ErrorMessage": "Dit veld is verplicht en moet de token bevatten: ",
+          "ExampleText": " in aquarelstijl",
+          "Example": "Voorbeeld: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Verwijder vooraf gedefinieerde prompt",
+        "Message": "Weet je zeker dat je de vooraf gedefinieerde prompt wilt verwijderen?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-functies: GPT Afbeelding",
+      "ApiKey": "API-sleutel",
+      "ApiBaseUrl": "API basis-URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activeer functie Schrijf beheerde metadata-eigenschappen"
+          }
+        }
+      }
+    }
+  }
+}
