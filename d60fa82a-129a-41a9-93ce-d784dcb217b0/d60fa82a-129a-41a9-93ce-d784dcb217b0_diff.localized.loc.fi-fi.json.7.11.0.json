@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Tallenna osion sisältö ominaisuuteen"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Oletko varma, että haluat siirtää tämän navigointisolmun?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Siirry sivulle",
+        "GoToPageText": "Siirry sivun tekstiin",
+        "GoToPageColor": "Siirry sivun tekstin väri",
+        "GoToPageBackgroundColor": "Siirry sivun painikkeen väri"
+      }
+    }
+  }
+}
