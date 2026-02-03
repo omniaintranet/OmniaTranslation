@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT-bild",
+          "Title": "GPT Image",
           "DeploymentName": "Namn på distribution"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT-bild",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Fördefinierade prompter",
       "DefaultPrompt": "Standardprompt",
       "TitleSetting": "Titel",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Välj som standarprompt",
       "ReminderText": "Lägg till en åtgärd och kom ihåg att inkludera token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Fördefinierade prompter för GPT-bild",
+        "BladeTitle": "Fördefinierade prompter för GPT Image",
         "Detail": {
           "ErrorMessage": "Detta fält är obligatoriskt och måste innehålla token: ",
           "ExampleText": " i akvarellstil",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI-funktioner: GPT-bild",
+      "GptImageSecretTitle": "AI-funktioner: GPT Image",
       "ApiKey": "API-nyckel",
       "ApiBaseUrl": "API bas-URL"
     }
