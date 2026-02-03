@@ -6,13 +6,13 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
-          "Title": "GPT billede",
+          "Title": "GPT Image",
           "DeploymentName": "Udrulningsnavn"
         }
       }
     },
     "GptImageSettings": {
-      "Title": "GPT billede",
+      "Title": "GPT Image",
       "PredefinedPrompts": "Foruddefinerede prompts",
       "DefaultPrompt": "Standard prompt",
       "TitleSetting": "Titel",
@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Sæt som standard prompt",
       "ReminderText": "Tilføj en handling og husk at inkludere token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Foruddefinerede prompts til GPT billede",
+        "BladeTitle": "Foruddefinerede prompts til GPT Image",
         "Detail": {
           "ErrorMessage": "Dette felt er påkrævet og skal indeholde token: ",
           "ExampleText": " i akvarelstil",
@@ -36,7 +36,7 @@
   "OmniaWorkplace": {
     "GptImage": {
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
-      "GptImageSecretTitle": "AI-funktioner: GPT billede",
+      "GptImageSecretTitle": "AI-funktioner: GPT Image",
       "ApiKey": "API-nøgle",
       "ApiBaseUrl": "API base URL"
     }
