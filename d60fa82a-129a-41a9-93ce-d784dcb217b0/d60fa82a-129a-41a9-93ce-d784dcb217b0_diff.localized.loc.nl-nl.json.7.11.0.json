@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Sla sectie-inhoud op in eigenschap"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Weet je zeker dat je deze navigatieknoop wilt verplaatsen?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Ga naar pagina",
+        "GoToPageText": "Ga naar paginatekst",
+        "GoToPageColor": "Ga naar paginatekstkleur",
+        "GoToPageBackgroundColor": "Ga naar pagina knopkleur"
+      }
+    }
+  }
+}
