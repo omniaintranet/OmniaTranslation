@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Integration",
+          "Title": "M365 Graph-Benutzerprofil im Profilkarten lesen",
+          "Description": "Ermöglicht die Konfiguration der Entra ID-Eigenschaften direkt auf der Profilkarte.",
+          "ConsentInformation": "Ermöglicht der App, das vollständige Set von Profil-Eigenschaften, Berichten und Vorgesetzten anderer Benutzer in Ihrer Organisation im Namen des angemeldeten Benutzers zu lesen."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Verwalten von Metadaten-Eigenschaften schreiben",
+          "Category": "Integration",
+          "Description": "Ermöglicht der App, verwaltete Metadaten zu lesen, zu erstellen, zu aktualisieren und zu löschen sowie grundlegende Site-Informationen im Namen des angemeldeten Benutzers zu lesen.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia-Benutzerauthentifizierung",
+          "Category": "System",
+          "Description": "Aktivieren Sie die Omnia-Benutzerauthentifizierung"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Wiederverwendbar"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT-Bild",
+        "FeatureTitle": "GPT-Bild",
+        "FeatureDescription": "Aktivieren Sie diese Funktion, um die Option 'GPT-Bild generieren' im Medienauswahlfeld hinzuzufügen.",
+        "DowloadImageFailed": "Bilddownload fehlgeschlagen",
+        "PhotoBy": "Foto von",
+        "PhotosProviderBy": "Fotos bereitgestellt von",
+        "MaxInputLength": 1000,
+        "Generate": "Generieren",
+        "SelectSizePicture": "Bildgröße",
+        "Download": "Herunterladen",
+        "GenerateNewImage": "Neues Bild generieren",
+        "ErrorMessage": "Die Aufgabe ist fehlgeschlagen. Bitte überprüfen Sie Ihre Konfiguration und versuchen Sie es erneut.",
+        "ImageName": "Bild",
+        "PromptHeader": "Tipp: Eingabeaufforderungsstruktur",
+        "PromptContent": "Eingabeaufforderungen können aus beliebigen Wörtern bestehen, aber überlegen Sie, wie Sie ein Bild jemandem erklären können. Die Form von \"Subjekt + Adjektive + Stile\" funktioniert in der Regel gut.",
+        "PromptExample": "Beschreiben Sie das Bild, das Sie erstellen möchten. Zum Beispiel: \"Aquarellmalerei der Skyline von Seattle\"",
+        "Label": "Eingabeaufforderung",
+        "ImageStyle": "Bildstil"
+      }
+    }
+  }
+}
