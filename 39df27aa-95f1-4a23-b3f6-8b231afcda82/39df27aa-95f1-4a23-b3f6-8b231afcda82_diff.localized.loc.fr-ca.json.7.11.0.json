@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Ce profil d'entreprise ne peut pas être supprimé car il contient des instances d'application."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "Image GPT",
+          "DeploymentName": "Nom de déploiement"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "Image GPT",
+      "PredefinedPrompts": "Invites prédéfinies",
+      "DefaultPrompt": "Invite par défaut",
+      "TitleSetting": "Titre",
+      "Prompt": "Invite",
+      "SetAsDefaultPrompt": "Définir comme invite par défaut",
+      "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton : ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Invites prédéfinies pour l'image GPT",
+        "Detail": {
+          "ErrorMessage": "Ce champ est requis et doit contenir le jeton : ",
+          "ExampleText": " dans un style aquarelle",
+          "Example": "Exemple : "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Supprimer l'invite prédéfinie",
+        "Message": "Êtes-vous sûr de vouloir supprimer l'invite prédéfinie ?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "Fonctionnalités IA : Image GPT",
+      "ApiKey": "Clé API",
+      "ApiBaseUrl": "URL de base de l'API"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activer la fonctionnalité Écrire des propriétés de métadonnées gérées"
+          }
+        }
+      }
+    }
+  }
+}
