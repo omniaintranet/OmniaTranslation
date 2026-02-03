@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "集成",
+          "Title": "在个人资料卡中读取 M365 Graph 用户资料",
+          "Description": "允许在个人资料卡上直接配置 Entra ID 属性。",
+          "ConsentInformation": "允许应用代表已登录用户读取您组织中其他用户的完整个人资料属性、报告和经理信息。"
+        },
+        "ManagedMetadataProperties": {
+          "Title": "写入受管的元数据属性",
+          "Category": "集成",
+          "Description": "允许应用代表已登录用户读取、创建、更新和删除受管的元数据，并读取基本站点信息。",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Omnia 用户身份验证",
+          "Category": "系统",
+          "Description": "启用 Omnia 用户身份验证"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "可重用"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT 图像",
+        "FeatureTitle": "GPT 图像",
+        "FeatureDescription": "激活此功能以在媒体选择器中添加“生成 GPT 图像”选项。",
+        "DowloadImageFailed": "下载图像失败",
+        "PhotoBy": "照片来源",
+        "PhotosProviderBy": "照片提供者",
+        "MaxInputLength": 1000,
+        "Generate": "生成",
+        "SelectSizePicture": "图片大小",
+        "Download": "下载",
+        "GenerateNewImage": "生成新图像",
+        "ErrorMessage": "任务失败。请检查您的配置并重试。",
+        "ImageName": "图像",
+        "PromptHeader": "提示：提示结构",
+        "PromptContent": "提示可以由任何单词组成，但请考虑如何向某人解释一幅图像。\"主题 + 形容词 + 风格\"的形式通常效果很好。",
+        "PromptExample": "描述您想要创建的图像。例如：\"西雅图天际线的水彩画\"",
+        "Label": "提示",
+        "ImageStyle": "图像风格"
+      }
+    }
+  }
+}
