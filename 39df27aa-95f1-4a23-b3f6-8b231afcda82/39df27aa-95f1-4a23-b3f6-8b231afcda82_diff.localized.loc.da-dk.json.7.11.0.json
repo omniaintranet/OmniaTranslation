@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Sæt som standard prompt",
       "ReminderText": "Tilføj en handling og husk at inkludere token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "Foruddefinerede prompts til GPT billede",
+        "BladeTitle": "Foruddefinerede prompts til GPT Image",
         "Detail": {
           "ErrorMessage": "Dette felt er påkrævet og skal indeholde token: ",
           "ExampleText": " i akvarelstil",
