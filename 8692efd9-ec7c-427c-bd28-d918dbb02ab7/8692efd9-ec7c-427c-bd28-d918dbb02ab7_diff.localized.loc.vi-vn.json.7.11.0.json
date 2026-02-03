@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncNewsArticles": {
+          "ResyncInProgressConfirmationMessage": "Việc đồng bộ lại hiện đang diễn ra. Thực hiện lại có thể gây ra sự cố cho ứng dụng. Bạn có chắc chắn muốn đồng bộ lại các bài viết tin tức cho hồ sơ doanh nghiệp này không?"
+        }
+      },
+      "App": {
+        "Commons": {
+          "TextAppStore": {
+            "GooglePlay": "Play Store",
+            "AppleAppStore": "App Store"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Cần cập nhật ứng dụng",
+            "Body": "Bạn cần cập nhật ứng dụng để tiếp tục sử dụng. Vui lòng cài đặt phiên bản mới nhất từ {appStoreTitle}",
+            "GoToStoreBtn": "Đi đến {appStoreTitle}"
+          }
+        }
+      }
+    }
+  }
+}
