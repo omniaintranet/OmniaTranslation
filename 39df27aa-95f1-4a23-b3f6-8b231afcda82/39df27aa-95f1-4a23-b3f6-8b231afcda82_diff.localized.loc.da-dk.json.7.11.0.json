@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Denne virksomhedsprofil kan ikke slettes, da den indeholder app-instanser."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Billede",
+          "DeploymentName": "Udrulningsnavn"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Billede",
+      "PredefinedPrompts": "Foruddefinerede prompts",
+      "DefaultPrompt": "Standard prompt",
+      "TitleSetting": "Titel",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Sæt som standard prompt",
+      "ReminderText": "Tilføj en handling og husk at inkludere token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Foruddefinerede prompts til GPT Billede",
+        "Detail": {
+          "ErrorMessage": "Dette felt er påkrævet og skal indeholde token: ",
+          "ExampleText": " i akvarelstil",
+          "Example": "Eksempel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Slet foruddefineret prompt",
+        "Message": "Er du sikker på, at du vil slette den foruddefinerede prompt?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-funktioner: GPT Billede",
+      "ApiKey": "API-nøgle",
+      "ApiBaseUrl": "API-basis-URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Aktivér funktion Skriv administrerede metadataegenskaber"
+          }
+        }
+      }
+    }
+  }
+}
