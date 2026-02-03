@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Dieses Geschäftsprofil kann nicht gelöscht werden, da es App-Instanzen enthält."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT-Bild",
+          "DeploymentName": "Bereitstellungsname"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT-Bild",
+      "PredefinedPrompts": "Vordefinierte Eingabeaufforderungen",
+      "DefaultPrompt": "Standardaufforderung",
+      "TitleSetting": "Titel",
+      "Prompt": "Eingabeaufforderung",
+      "SetAsDefaultPrompt": "Als Standardaufforderung festlegen",
+      "ReminderText": "Fügen Sie eine Aktion hinzu und denken Sie daran, das Token einzufügen: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Vordefinierte Eingabeaufforderungen für GPT-Bild",
+        "Detail": {
+          "ErrorMessage": "Dieses Feld ist erforderlich und muss das Token enthalten: ",
+          "ExampleText": " im Aquarellstil",
+          "Example": "Beispiel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Vordefinierte Eingabeaufforderung löschen",
+        "Message": "Sind Sie sicher, dass Sie die vordefinierte Eingabeaufforderung löschen möchten?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "KI-Funktionen: GPT-Bild",
+      "ApiKey": "API-Schlüssel",
+      "ApiBaseUrl": "API-Basis-URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Funktion 'Verwaltete Metadatenattribute' aktivieren"
+          }
+        }
+      }
+    }
+  }
+}
