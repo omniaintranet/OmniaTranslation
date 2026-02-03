@@ -3,8 +3,8 @@
     "AnalyticsReport": {
       "Views": {
         "TableView": {
-          "FileExporting": "Excel-tiedoston luominen...",
-          "ErrorWhenFileExporting": "Tiedoston luomisessa tapahtui virhe."
+          "FileExporting": "Excel-tiedostoa luodaan...",
+          "ErrorWhenFileExporting": "Tiedoston luonnissa tapahtui virhe."
         }
       }
     },
@@ -24,9 +24,9 @@
         },
         "Dialogs": {
           "ArchiveNode": {
-            "Title": "Arkistoi navigaatiopiste",
-            "WarningMessage": "Olet arkistoimassa useita navigaatiopisteitä.",
-            "ConfirmationMessage": "Oletko varma, että haluat arkistoida navigaatiopisteen?"
+            "Title": "Arkistoi navigaatiosolmu",
+            "WarningMessage": "Olet arkistoimassa useita navigaatiosolmuja.",
+            "ConfirmationMessage": "Oletko varma, että haluat arkistoida navigaatiosolmun?"
           }
         }
       }
