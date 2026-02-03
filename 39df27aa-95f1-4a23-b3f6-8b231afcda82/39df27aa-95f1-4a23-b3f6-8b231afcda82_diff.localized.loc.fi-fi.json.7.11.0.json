@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "EnterpriseProperties": {
-      "InternalNameInvalidFormatMessage": "Sen on alettava kirjaimella tai alaviivalla ja sisällettävä vain kirjaimia, numeroita ja alaviivoja."
+      "InternalNameInvalidFormatMessage": "Alettava kirjaimella tai alaviivalla, ja sisällettävä vain kirjaimia, numeroita ja alaviivoja."
     }
   }
 }
