@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "In Eigenschaft Abschnittsinhalte speichern"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Sind Sie sicher, dass Sie diesen Navigationsknoten verschieben möchten?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gehe zu Seite",
+        "GoToPageText": "Gehe zu Seitentext",
+        "GoToPageColor": "Gehe zu Seitentextfarbe",
+        "GoToPageBackgroundColor": "Gehe zu Seitenbuttonfarbe"
+      }
+    }
+  }
+}

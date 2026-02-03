@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Este perfil de negocio no se puede eliminar ya que contiene instancias de aplicaciones."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "Imagen GPT",
+          "DeploymentName": "Nombre de la implementación"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "Imagen GPT",
+      "PredefinedPrompts": "Prompts predefinidos",
+      "DefaultPrompt": "Prompt por defecto",
+      "TitleSetting": "Título",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Establecer como prompt por defecto",
+      "ReminderText": "Agrega una acción y recuerda incluir el token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Prompts predefinidos de imagen GPT",
+        "Detail": {
+          "ErrorMessage": "Este campo es obligatorio y debe contener el token: ",
+          "ExampleText": " en estilo acuarela",
+          "Example": "Ejemplo: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Eliminar prompt predefinido",
+        "Message": "¿Estás seguro de que deseas eliminar el prompt predefinido?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "Funciones de IA: Imagen GPT",
+      "ApiKey": "Clave API",
+      "ApiBaseUrl": "URL base de la API"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activar la función Escribir propiedades de metadatos gestionados"
+          }
+        }
+      }
+    }
+  }
+}

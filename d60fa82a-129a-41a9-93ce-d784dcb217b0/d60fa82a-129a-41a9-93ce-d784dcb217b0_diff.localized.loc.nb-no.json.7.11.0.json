@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Lagre seksjonsinnhold i egenskap"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Er du sikker på at du vil flytte denne navigasjonsnoden?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gå til side",
+        "GoToPageText": "Gå til side tekst",
+        "GoToPageColor": "Gå til side tekstfarge",
+        "GoToPageBackgroundColor": "Gå til side knappfarge"
+      }
+    }
+  }
+}

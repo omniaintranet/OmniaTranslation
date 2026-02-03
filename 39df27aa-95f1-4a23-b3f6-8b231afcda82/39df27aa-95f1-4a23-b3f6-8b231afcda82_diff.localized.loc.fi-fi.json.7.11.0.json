@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Tätä liiketoimintaprofiilia ei voida poistaa, koska se sisältää sovelluksen instansseja."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT kuva",
+          "DeploymentName": "Käyttöönoton nimi"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT kuva",
+      "PredefinedPrompts": "Ennalta määritellyt kehykset",
+      "DefaultPrompt": "Oletuskehys",
+      "TitleSetting": "Otsikko",
+      "Prompt": "Kehys",
+      "SetAsDefaultPrompt": "Aseta oletuskehykseksi",
+      "ReminderText": "Lisää toiminto ja muista sisällyttää token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT kuvan ennalta määritellyt kehykset",
+        "Detail": {
+          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisältävä token: ",
+          "ExampleText": " akvarellityylissä",
+          "Example": "Esimerkki: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Poista ennalta määritelty kehys",
+        "Message": "Oletko varma, että haluat poistaa ennalta määritellyn kehykset?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-ominaisuudet: GPT kuva",
+      "ApiKey": "API-avain",
+      "ApiBaseUrl": "API-perus-URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Ota käyttöön ominaisuus Kirjoita hallittuja metatietoja"
+          }
+        }
+      }
+    }
+  }
+}

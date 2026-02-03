@@ -1,0 +1,55 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Verksamhetsprofilen kan inte raderas eftersom den innehåller appinstanser."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT-bild",
+          "DeploymentName": "Namn på distribution"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT-bild",
+      "PredefinedPrompts": "Fördefinierade prompter",
+      "DefaultPrompt": "Standardprompt",
+      "TitleSetting": "Titel",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Välj som standarprompt",
+      "ReminderText": "Lägg till en åtgärd och kom ihåg att inkludera token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Fördefinierade prompter för GPT-bild",
+        "Detail": {
+          "ErrorMessage": "Detta fält är obligatoriskt och måste innehålla token: ",
+          "ExampleText": " i akvarellstil",
+          "Example": "Exempel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Ta bort fördefinierad prompt",
+        "Message": "Är du säker på att du vill ta bort den fördefinierade prompten?"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-funktioner: GPT-bild",
+      "ApiKey": "API-nyckel",
+      "ApiBaseUrl": "API bas-URL"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Aktivera funktionen Skriv hanterade metadataegenskaper"
+          }
+        }
+      }
+    }
+  }
+}

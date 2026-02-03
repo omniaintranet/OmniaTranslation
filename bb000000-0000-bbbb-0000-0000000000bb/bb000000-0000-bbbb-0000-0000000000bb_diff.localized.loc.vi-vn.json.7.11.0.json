@@ -1,0 +1,52 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "New7Patch11M365UserReadAllDelegated": {
+          "Category": "Tích hợp",
+          "Title": "Đọc hồ sơ người dùng M365 Graph trong thẻ hồ sơ",
+          "Description": "Cho phép hiển thị các thuộc tính Entra ID được cấu hình trực tiếp trên thẻ hồ sơ.",
+          "ConsentInformation": "Cho phép ứng dụng đọc toàn bộ tập hợp các thuộc tính hồ sơ, báo cáo và người quản lý của các người dùng khác trong tổ chức của bạn, thay mặt cho người dùng đã đăng nhập."
+        },
+        "ManagedMetadataProperties": {
+          "Title": "Ghi các thuộc tính siêu dữ liệu được quản lý",
+          "Category": "Tích hợp",
+          "Description": "Cho phép ứng dụng đọc, tạo, cập nhật và xóa siêu dữ liệu được quản lý và đọc thông tin cơ bản của trang thay mặt cho người dùng đã đăng nhập.",
+          "ConsentInformation": " "
+        },
+        "OmniaUserAuthentication": {
+          "Title": "Xác thực người dùng Omnia",
+          "Category": "Hệ thống",
+          "Description": "Kích hoạt xác thực người dùng Omnia"
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "TabSettings": {
+            "Reusable": "Có thể tái sử dụng"
+          }
+        }
+      },
+      "GptImageProvider": {
+        "Title": "Hình ảnh GPT",
+        "FeatureTitle": "Hình ảnh GPT",
+        "FeatureDescription": "Kích hoạt tính năng này để thêm tùy chọn 'Tạo hình ảnh GPT' vào trình chọn phương tiện.",
+        "DowloadImageFailed": "Tải hình ảnh không thành công",
+        "PhotoBy": "Ảnh bởi",
+        "PhotosProviderBy": "Ảnh được cung cấp bởi",
+        "MaxInputLength": 1000,
+        "Generate": "Tạo",
+        "SelectSizePicture": "Kích thước hình ảnh",
+        "Download": "Tải xuống",
+        "GenerateNewImage": "Tạo hình ảnh mới",
+        "ErrorMessage": "Nhiệm vụ không thành công. Vui lòng kiểm tra cấu hình của bạn và thử lại.",
+        "ImageName": "hình ảnh",
+        "PromptHeader": "Mẹo: Cấu trúc gợi ý",
+        "PromptContent": "Các gợi ý có thể được tạo thành từ bất kỳ từ nào, nhưng hãy xem xét cách bạn có thể giải thích một hình ảnh cho ai đó. Hình thức \"chủ đề + tính từ + phong cách\" thường hoạt động tốt.",
+        "PromptExample": "Mô tả hình ảnh bạn muốn tạo. Ví dụ: \"tranh màu nước về đường chân trời Seattle\"",
+        "Label": "Gợi ý",
+        "ImageStyle": "Phong cách hình ảnh"
+      }
+    }
+  }
+}

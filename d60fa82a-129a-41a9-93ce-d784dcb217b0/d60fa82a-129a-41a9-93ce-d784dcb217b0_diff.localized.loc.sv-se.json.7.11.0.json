@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Fx": {
+      "Block": {
+        "StoreSectionContentInProperty": "Spara sektionsinnehåll i egenskap"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveNode": {
+            "ConfirmationMessage": "Är du säker på att du vill flytta denna navigeringsnod?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gå till sidan",
+        "GoToPageText": "Gå till sidtext",
+        "GoToPageColor": "Gå till färg för text på sidan",
+        "GoToPageBackgroundColor": "Gå till färg för sidknapp"
+      }
+    }
+  }
+}
