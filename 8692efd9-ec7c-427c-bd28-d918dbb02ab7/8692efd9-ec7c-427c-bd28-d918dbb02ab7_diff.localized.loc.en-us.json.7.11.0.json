@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncNewsArticles": {
+          "ResyncInProgressConfirmationMessage": "The resync is currently ongoing. Running it again can cause application issues. Are you really sure you want to re-sync news articles for this business profile?"
+        }
+      },
+      "App": {
+        "Commons": {
+          "TextAppStore": {
+            "GooglePlay": "Play Store",
+            "AppleAppStore": "App Store"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "App update require",
+            "Body": "You need to update the app to continue using the app. Please install the latest version from {appStoreTitle}",
+            "GoToStoreBtn": "Go to {appStoreTitle}"
+          }
+        }
+      }
+    }
+  }
+}
