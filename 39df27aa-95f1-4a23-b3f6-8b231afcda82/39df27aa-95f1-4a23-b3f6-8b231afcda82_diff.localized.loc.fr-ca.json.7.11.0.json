@@ -20,7 +20,7 @@
       "SetAsDefaultPrompt": "Définir comme invite par défaut",
       "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton : ",
       "ImproveSelectedText": {
-        "BladeTitle": "Invites prédéfinies pour l'image GPT",
+        "BladeTitle": "Invites prédéfinies pour GPT Image",
         "Detail": {
           "ErrorMessage": "Ce champ est requis et doit contenir le jeton : ",
           "ExampleText": " dans un style aquarelle",
