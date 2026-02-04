@@ -1,35 +1,35 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "Tätä liiketoimintaprofiilia ei voida poistaa, koska se sisältää sovelluksen instansseja."
+      "ValidateBusinessProfileAppInstanceExists": "Tätä liiketoimintaprofiilia ei voi poistaa, koska se sisältää sovellusinstansseja."
     },
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
           "Title": "GPT Image",
-          "DeploymentName": "Käyttöönoton nimi"
+          "DeploymentName": "Mallijulkaisun nimi"
         }
       }
     },
     "GptImageSettings": {
       "Title": "GPT Image",
-      "PredefinedPrompts": "Ennalta määritellyt kehykset",
-      "DefaultPrompt": "Oletuskehys",
+      "PredefinedPrompts": "Ennalta määritellyt kehotteet",
+      "DefaultPrompt": "Oletuskehote",
       "TitleSetting": "Otsikko",
-      "Prompt": "Kehys",
-      "SetAsDefaultPrompt": "Aseta oletuskehykseksi",
+      "Prompt": "Kehote",
+      "SetAsDefaultPrompt": "Aseta oletuskehotteeksi",
       "ReminderText": "Lisää toiminto ja muista sisällyttää token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT Image ennalta määritellyt kehykset",
+        "BladeTitle": "GPT Image: Ennalta määritellyt kehotteet",
         "Detail": {
-          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisältävä token: ",
+          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisällettävä token: ",
           "ExampleText": " akvarellityylissä",
           "Example": "Esimerkki: "
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Poista ennalta määritelty kehys",
-        "Message": "Oletko varma, että haluat poistaa ennalta määritellyn kehykset?"
+        "Title": "Poista ennalta määritelty kehote",
+        "Message": "Oletko varma, että haluat poistaa ennalta määritellyn kehotteen?"
       }
     }
   },
@@ -46,7 +46,7 @@
       "SetupWizard": {
         "Features": {
           "ManagedMetadataProperties": {
-            "Title": "Ota käyttöön ominaisuus Kirjoita hallittuja metatietoja"
+            "Title": "Ota käyttöön ominaisuus: Kirjoita hallittuja metatietoja"
           }
         }
       }
