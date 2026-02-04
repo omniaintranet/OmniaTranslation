@@ -19,9 +19,9 @@
     "PageRollup": {
       "Settings": {
         "GoToPage": "Siirry sivulle",
-        "GoToPageText": "Siirry sivun tekstiin",
-        "GoToPageColor": "Siirry sivun tekstin väri",
-        "GoToPageBackgroundColor": "Siirry sivun painikkeen väri"
+        "GoToPageText": "Siirry sivulle -teksti",
+        "GoToPageColor": "Siirry sivulle -tekstin väri",
+        "GoToPageBackgroundColor": "Siirry sivulle -painikkeen väri"
       }
     }
   }
