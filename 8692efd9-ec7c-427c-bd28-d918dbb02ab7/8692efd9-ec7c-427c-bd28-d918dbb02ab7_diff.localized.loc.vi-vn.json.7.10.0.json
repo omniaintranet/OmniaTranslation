@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "Chỉ có phiên bản cũ",
+        "TabView": "Chế độ xem tab"
+      }
+    }
+  }
+}
