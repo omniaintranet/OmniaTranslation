@@ -2,7 +2,7 @@
   "Omnia": {
     "Feed": {
       "MultipleQuery": {
-        "LegacyOnly": "Legacy Only",
+        "LegacyOnly": "Legacy only",
         "TabView": "Tab view"
       }
     }
