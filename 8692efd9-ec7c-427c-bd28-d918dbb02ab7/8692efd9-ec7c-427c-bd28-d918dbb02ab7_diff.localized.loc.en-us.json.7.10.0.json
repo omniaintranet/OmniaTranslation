@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "Legacy only",
+        "TabView": "Tab view"
+      }
+    }
+  }
+}
