@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "仅限旧版",
+        "TabView": "选项卡视图"
+      }
+    }
+  }
+}
