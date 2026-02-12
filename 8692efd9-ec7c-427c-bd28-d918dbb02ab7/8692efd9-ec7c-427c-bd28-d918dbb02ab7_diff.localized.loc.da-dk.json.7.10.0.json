@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "Kun legacy",
+        "TabView": "Fanebladsvy"
+      }
+    }
+  }
+}
