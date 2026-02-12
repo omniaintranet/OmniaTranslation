@@ -2,7 +2,7 @@
   "Omnia": {
     "Feed": {
       "MultipleQuery": {
-        "LegacyOnly": "Endast äldre version",
+        "LegacyOnly": "Endast legacy",
         "TabView": "Flikvy"
       }
     }
