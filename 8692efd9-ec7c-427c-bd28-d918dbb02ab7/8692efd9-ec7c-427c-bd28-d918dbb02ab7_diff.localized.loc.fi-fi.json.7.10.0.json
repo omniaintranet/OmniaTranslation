@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "Vain perinteinen",
+        "TabView": "Välilehtinäkymä"
+      }
+    }
+  }
+}

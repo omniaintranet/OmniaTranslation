@@ -1,0 +1,10 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "LegacyOnly": "Uniquement ancien",
+        "TabView": "Vue par onglets"
+      }
+    }
+  }
+}
