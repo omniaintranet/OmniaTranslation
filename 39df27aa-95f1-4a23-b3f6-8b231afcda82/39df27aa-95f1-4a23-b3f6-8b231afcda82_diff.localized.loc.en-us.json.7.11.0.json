@@ -3,7 +3,7 @@
     "Core": {
       "Features": {
         "CopilotChat": {
-          "Title": "Copilot Chat",
+          "Title": "Copilot chat",
           "Description": "Chat with Copilot assistant. Each user is required to have a Microsoft 365 Copilot license.",
           "Category": "Integration"
         }
@@ -13,7 +13,7 @@
       "Admin": {
         "SemanticSearch": {
           "FallbackSearch": "Fallback search",
-          "FallbackMaxWordCount": "Fallback max word count"
+          "FallbackMaxWordCount": "Fallback maximum word count"
         }
       },
       "SemanticSearch": {
@@ -30,7 +30,7 @@
   },
   "WPL": {
     "CopilotChat": {
-      "Title": "Copilot Chat",
+      "Title": "Copilot chat",
       "Summary": "Chat with Microsoft Copilot powered by AI",
       "Category": "Content",
       "NoMessages": "Welcome, how can I help?",
@@ -46,13 +46,13 @@
       "ErrorSendingMessage": "Failed to send message. Please try again.",
       "PlaceholderMessage": "Message Copilot",
       "CopilotChatSettings": {
-        "Title": "Copilot Chat Settings",
+        "Title": "Copilot chat settings",
         "GeneralTab": "General",
         "SettingsLabel": "Settings",
         "TitleLabel": "Title",
-        "PlaceholderLabel": "Input Placeholder",
-        "NoMessagesLabel": "No Messages",
-        "MessageInputBorderRadiusLabel": "Border Radius"
+        "PlaceholderLabel": "Input placeholder",
+        "NoMessagesLabel": "No messages",
+        "MessageInputBorderRadiusLabel": "Border radius"
       },
       "ChatResponseMessages": {
         "FirstMessage": "Working on your answer...",
