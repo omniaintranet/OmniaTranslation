@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chat",
+          "Description": "Chat with the Copilot assistant. Each user is required to have a Microsoft 365 Copilot licence.",
+          "Category": "Integration"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Fallback search",
+          "FallbackMaxWordCount": "Fallback maximum word count"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analysing context...",
+          "FetchingTheBestPossibleReply": "Fetching the best possible reply...",
+          "GeneratingResponse": "Generating response...",
+          "ProcessingYourRequest": "Processing your request...",
+          "Thinking": "Thinking...",
+          "WorkingOnYourAnswer": "Working on your answer..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chat",
+      "Summary": "Chat with Microsoft Copilot powered by AI",
+      "Category": "Content",
+      "NoMessages": "Welcome, how can I assist?",
+      "UserLabel": "You",
+      "BotLabel": "Copilot",
+      "SendButton": "Send",
+      "ResetButton": "Reset",
+      "MessageSentAnnouncement": "Message sent.",
+      "ResponseReceivedAnnouncement": "Response received.",
+      "MessageFromYouAriaLabel": "Message from you",
+      "MessageFromCopilotAriaLabel": "Message from Copilot",
+      "CopilotLogoAriaLabel": "Copilot logo",
+      "ErrorSendingMessage": "Failed to send message. Please try again.",
+      "PlaceholderMessage": "Message Copilot",
+      "CopilotChatSettings": {
+        "Title": "Copilot chat settings",
+        "GeneralTab": "General",
+        "SettingsLabel": "Settings",
+        "TitleLabel": "Title",
+        "PlaceholderLabel": "Input placeholder",
+        "NoMessagesLabel": "No messages",
+        "MessageInputBorderRadiusLabel": "Border radius"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Working on your answer...",
+        "Response1": "Analysing context...",
+        "Response2": "Fetching the best possible reply...",
+        "Response3": "Generating response...",
+        "Response4": "Processing your request..."
+      }
+    }
+  }
+}
