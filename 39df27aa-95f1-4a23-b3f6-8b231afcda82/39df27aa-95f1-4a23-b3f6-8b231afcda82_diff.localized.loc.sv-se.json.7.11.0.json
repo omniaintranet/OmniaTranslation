@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chatt",
+          "Description": "Chatt med Copilot-assistenten. Varje användare måste ha en Microsoft 365 Copilot-licens.",
+          "Category": "Integration"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Reservsökning",
+          "FallbackMaxWordCount": "Reserv maximum antal ord"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analyserar kontext...",
+          "FetchingTheBestPossibleReply": "Hämtar det bästa möjliga svaret...",
+          "GeneratingResponse": "Genererar svar...",
+          "ProcessingYourRequest": "Behandlar din begäran...",
+          "Thinking": "Tänker...",
+          "WorkingOnYourAnswer": "Arbetar med ditt svar..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chatt",
+      "Summary": "Chatt med Microsoft Copilot drivet av AI",
+      "Category": "Innehåll",
+      "NoMessages": "Välkommen, hur kan jag hjälpa till?",
+      "UserLabel": "Du",
+      "BotLabel": "Copilot",
+      "SendButton": "Skicka",
+      "ResetButton": "Återställ",
+      "MessageSentAnnouncement": "Meddelande skickat.",
+      "ResponseReceivedAnnouncement": "Svar mottaget.",
+      "MessageFromYouAriaLabel": "Meddelande från dig",
+      "MessageFromCopilotAriaLabel": "Meddelande från Copilot",
+      "CopilotLogoAriaLabel": "Copilot-logotyp",
+      "ErrorSendingMessage": "Misslyckades med att skicka meddelande. Försök igen.",
+      "PlaceholderMessage": "Meddelande Copilot",
+      "CopilotChatSettings": {
+        "Title": "Inställningar för Copilot chatt",
+        "GeneralTab": "Allmänt",
+        "SettingsLabel": "Inställningar",
+        "TitleLabel": "Titel",
+        "PlaceholderLabel": "Inmatningsplatshållare",
+        "NoMessagesLabel": "Inga meddelanden",
+        "MessageInputBorderRadiusLabel": "Gränsradie"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Arbetar med ditt svar...",
+        "Response1": "Analyserar kontext...",
+        "Response2": "Hämtar det bästa möjliga svaret...",
+        "Response3": "Genererar svar...",
+        "Response4": "Behandlar din begäran..."
+      }
+    }
+  }
+}
