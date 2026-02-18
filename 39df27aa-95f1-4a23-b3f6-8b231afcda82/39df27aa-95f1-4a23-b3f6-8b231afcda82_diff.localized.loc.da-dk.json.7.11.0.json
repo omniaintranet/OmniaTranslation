@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chat",
+          "Description": "Chat med Copilot-assistent. Hver bruger skal have en Microsoft 365 Copilot-licens.",
+          "Category": "Integration"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Fallback søgning",
+          "FallbackMaxWordCount": "Fallback maksimum ordantal"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analyserer kontekst...",
+          "FetchingTheBestPossibleReply": "Henter det bedst mulige svar...",
+          "GeneratingResponse": "Genererer svar...",
+          "ProcessingYourRequest": "Behandler din anmodning...",
+          "Thinking": "Tænker...",
+          "WorkingOnYourAnswer": "Arbejder på dit svar..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chat",
+      "Summary": "Chat med Microsoft Copilot drevet af AI",
+      "Category": "Indhold",
+      "NoMessages": "Velkommen, hvordan kan jeg hjælpe?",
+      "UserLabel": "Dig",
+      "BotLabel": "Copilot",
+      "SendButton": "Send",
+      "ResetButton": "Nulstil",
+      "MessageSentAnnouncement": "Besked sendt.",
+      "ResponseReceivedAnnouncement": "Svar modtaget.",
+      "MessageFromYouAriaLabel": "Besked fra dig",
+      "MessageFromCopilotAriaLabel": "Besked fra Copilot",
+      "CopilotLogoAriaLabel": "Copilot logo",
+      "ErrorSendingMessage": "Kunne ikke sende besked. Prøv venligst igen.",
+      "PlaceholderMessage": "Besked Copilot",
+      "CopilotChatSettings": {
+        "Title": "Indstillinger for Copilot chat",
+        "GeneralTab": "Generelt",
+        "SettingsLabel": "Indstillinger",
+        "TitleLabel": "Titel",
+        "PlaceholderLabel": "Indtastningsplads",
+        "NoMessagesLabel": "Ingen beskeder",
+        "MessageInputBorderRadiusLabel": "Kantradius"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Arbejder på dit svar...",
+        "Response1": "Analyserer kontekst...",
+        "Response2": "Henter det bedst mulige svar...",
+        "Response3": "Genererer svar...",
+        "Response4": "Behandler din anmodning..."
+      }
+    }
+  }
+}
