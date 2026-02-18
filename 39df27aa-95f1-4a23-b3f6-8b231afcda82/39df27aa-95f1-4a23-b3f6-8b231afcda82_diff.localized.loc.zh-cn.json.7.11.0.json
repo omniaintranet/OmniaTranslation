@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot 聊天",
+          "Description": "与 Copilot 助手聊天。每个用户都需要拥有 Microsoft 365 Copilot 许可证。",
+          "Category": "集成"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "后备搜索",
+          "FallbackMaxWordCount": "后备最大字数"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "正在分析上下文...",
+          "FetchingTheBestPossibleReply": "正在获取最佳回复...",
+          "GeneratingResponse": "正在生成回复...",
+          "ProcessingYourRequest": "正在处理您的请求...",
+          "Thinking": "思考中...",
+          "WorkingOnYourAnswer": "正在处理您的答案..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot 聊天",
+      "Summary": "与由 AI 驱动的 Microsoft Copilot 聊天",
+      "Category": "内容",
+      "NoMessages": "欢迎，有什么我可以帮助您的吗？",
+      "UserLabel": "您",
+      "BotLabel": "Copilot",
+      "SendButton": "发送",
+      "ResetButton": "重置",
+      "MessageSentAnnouncement": "消息已发送。",
+      "ResponseReceivedAnnouncement": "已收到回复。",
+      "MessageFromYouAriaLabel": "来自您的消息",
+      "MessageFromCopilotAriaLabel": "来自 Copilot 的消息",
+      "CopilotLogoAriaLabel": "Copilot 标志",
+      "ErrorSendingMessage": "发送消息失败。请再试一次。",
+      "PlaceholderMessage": "消息 Copilot",
+      "CopilotChatSettings": {
+        "Title": "Copilot 聊天设置",
+        "GeneralTab": "常规",
+        "SettingsLabel": "设置",
+        "TitleLabel": "标题",
+        "PlaceholderLabel": "输入占位符",
+        "NoMessagesLabel": "没有消息",
+        "MessageInputBorderRadiusLabel": "边框半径"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "正在处理您的答案...",
+        "Response1": "正在分析上下文...",
+        "Response2": "正在获取最佳回复...",
+        "Response3": "正在生成回复...",
+        "Response4": "正在处理您的请求..."
+      }
+    }
+  }
+}
