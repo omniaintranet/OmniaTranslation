@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chat",
+          "Description": "Chat med Copilot-assistent. Hver bruker må ha en Microsoft 365 Copilot-lisens.",
+          "Category": "Integrasjon"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Tilbakefallssøk",
+          "FallbackMaxWordCount": "Maksimalt antall ord for tilbakefall"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analyserer kontekst...",
+          "FetchingTheBestPossibleReply": "Henter det beste mulige svaret...",
+          "GeneratingResponse": "Genererer svar...",
+          "ProcessingYourRequest": "Behandler forespørselen din...",
+          "Thinking": "Tenker...",
+          "WorkingOnYourAnswer": "Jobber med svaret ditt..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chat",
+      "Summary": "Chat med Microsoft Copilot drevet av AI",
+      "Category": "Innhold",
+      "NoMessages": "Velkommen, hvordan kan jeg hjelpe?",
+      "UserLabel": "Du",
+      "BotLabel": "Copilot",
+      "SendButton": "Send",
+      "ResetButton": "Tilbakestill",
+      "MessageSentAnnouncement": "Melding sendt.",
+      "ResponseReceivedAnnouncement": "Svar mottatt.",
+      "MessageFromYouAriaLabel": "Melding fra deg",
+      "MessageFromCopilotAriaLabel": "Melding fra Copilot",
+      "CopilotLogoAriaLabel": "Copilot-logo",
+      "ErrorSendingMessage": "Kunne ikke sende melding. Vennligst prøv igjen.",
+      "PlaceholderMessage": "Melding Copilot",
+      "CopilotChatSettings": {
+        "Title": "Innstillinger for Copilot chat",
+        "GeneralTab": "Generelt",
+        "SettingsLabel": "Innstillinger",
+        "TitleLabel": "Tittel",
+        "PlaceholderLabel": "Inndata plassholder",
+        "NoMessagesLabel": "Ingen meldinger",
+        "MessageInputBorderRadiusLabel": "Kantradius"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Jobber med svaret ditt...",
+        "Response1": "Analyserer kontekst...",
+        "Response2": "Henter det beste mulige svaret...",
+        "Response3": "Genererer svar...",
+        "Response4": "Behandler forespørselen din..."
+      }
+    }
+  }
+}
