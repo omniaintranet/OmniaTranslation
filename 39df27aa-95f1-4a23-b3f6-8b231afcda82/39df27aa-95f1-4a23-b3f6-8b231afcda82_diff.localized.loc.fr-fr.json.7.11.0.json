@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Chat Copilot",
+          "Description": "Discutez avec l'assistant Copilot. Chaque utilisateur doit disposer d'une licence Microsoft 365 Copilot.",
+          "Category": "Intégration"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Recherche de secours",
+          "FallbackMaxWordCount": "Nombre maximum de mots de secours"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analyse du contexte...",
+          "FetchingTheBestPossibleReply": "Recherche de la meilleure réponse possible...",
+          "GeneratingResponse": "Génération de la réponse...",
+          "ProcessingYourRequest": "Traitement de votre demande...",
+          "Thinking": "Réflexion...",
+          "WorkingOnYourAnswer": "Travail sur votre réponse..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Chat Copilot",
+      "Summary": "Discutez avec Microsoft Copilot alimenté par l'IA",
+      "Category": "Contenu",
+      "NoMessages": "Bienvenue, comment puis-je vous aider ?",
+      "UserLabel": "Vous",
+      "BotLabel": "Copilot",
+      "SendButton": "Envoyer",
+      "ResetButton": "Réinitialiser",
+      "MessageSentAnnouncement": "Message envoyé.",
+      "ResponseReceivedAnnouncement": "Réponse reçue.",
+      "MessageFromYouAriaLabel": "Message de vous",
+      "MessageFromCopilotAriaLabel": "Message de Copilot",
+      "CopilotLogoAriaLabel": "Logo Copilot",
+      "ErrorSendingMessage": "Échec de l'envoi du message. Veuillez réessayer.",
+      "PlaceholderMessage": "Message Copilot",
+      "CopilotChatSettings": {
+        "Title": "Paramètres du chat Copilot",
+        "GeneralTab": "Général",
+        "SettingsLabel": "Paramètres",
+        "TitleLabel": "Titre",
+        "PlaceholderLabel": "Espace réservé",
+        "NoMessagesLabel": "Aucun message",
+        "MessageInputBorderRadiusLabel": "Rayon de bordure"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Travail sur votre réponse...",
+        "Response1": "Analyse du contexte...",
+        "Response2": "Recherche de la meilleure réponse possible...",
+        "Response3": "Génération de la réponse...",
+        "Response4": "Traitement de votre demande..."
+      }
+    }
+  }
+}
