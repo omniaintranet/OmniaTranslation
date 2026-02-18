@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chat",
+          "Description": "Keskustele Copilot-avustajan kanssa. Jokaisella käyttäjällä on oltava Microsoft 365 Copilot -lisenssi.",
+          "Category": "Integraatio"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Varahaku",
+          "FallbackMaxWordCount": "Varahaku enimmäissanasana"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Analysoidaan kontekstia...",
+          "FetchingTheBestPossibleReply": "Haetaan parasta mahdollista vastausta...",
+          "GeneratingResponse": "Luodaan vastausta...",
+          "ProcessingYourRequest": "Käsitellään pyyntöäsi...",
+          "Thinking": "Ajatellaan...",
+          "WorkingOnYourAnswer": "Työskennellään vastauksesi parissa..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chat",
+      "Summary": "Keskustele Microsoft Copilotin kanssa, joka on powered by AI",
+      "Category": "Sisältö",
+      "NoMessages": "Tervetuloa, miten voin auttaa?",
+      "UserLabel": "Sinä",
+      "BotLabel": "Copilot",
+      "SendButton": "Lähetä",
+      "ResetButton": "Nollaa",
+      "MessageSentAnnouncement": "Viesti lähetetty.",
+      "ResponseReceivedAnnouncement": "Vastaus vastaanotettu.",
+      "MessageFromYouAriaLabel": "Viesti sinulta",
+      "MessageFromCopilotAriaLabel": "Viesti Copilotilta",
+      "CopilotLogoAriaLabel": "Copilot-logo",
+      "ErrorSendingMessage": "Viestin lähettäminen epäonnistui. Yritä uudelleen.",
+      "PlaceholderMessage": "Viesti Copilot",
+      "CopilotChatSettings": {
+        "Title": "Copilot chat -asetukset",
+        "GeneralTab": "Yleinen",
+        "SettingsLabel": "Asetukset",
+        "TitleLabel": "Otsikko",
+        "PlaceholderLabel": "Syötepaikka",
+        "NoMessagesLabel": "Ei viestejä",
+        "MessageInputBorderRadiusLabel": "Reunan säde"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Työskennellään vastauksesi parissa...",
+        "Response1": "Analysoidaan kontekstia...",
+        "Response2": "Haetaan parasta mahdollista vastausta...",
+        "Response3": "Luodaan vastausta...",
+        "Response4": "Käsitellään pyyntöäsi..."
+      }
+    }
+  }
+}
