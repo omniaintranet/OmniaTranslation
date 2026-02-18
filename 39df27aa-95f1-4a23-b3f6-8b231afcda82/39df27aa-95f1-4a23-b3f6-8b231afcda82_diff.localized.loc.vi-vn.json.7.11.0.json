@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Trò chuyện với Copilot",
+          "Description": "Trò chuyện với trợ lý Copilot. Mỗi người dùng cần có giấy phép Microsoft 365 Copilot.",
+          "Category": "Tích hợp"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Tìm kiếm dự phòng",
+          "FallbackMaxWordCount": "Số từ tối đa cho tìm kiếm dự phòng"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Đang phân tích ngữ cảnh...",
+          "FetchingTheBestPossibleReply": "Đang lấy phản hồi tốt nhất có thể...",
+          "GeneratingResponse": "Đang tạo phản hồi...",
+          "ProcessingYourRequest": "Đang xử lý yêu cầu của bạn...",
+          "Thinking": "Đang suy nghĩ...",
+          "WorkingOnYourAnswer": "Đang làm việc trên câu trả lời của bạn..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Trò chuyện với Copilot",
+      "Summary": "Trò chuyện với Microsoft Copilot được hỗ trợ bởi AI",
+      "Category": "Nội dung",
+      "NoMessages": "Chào mừng, tôi có thể giúp gì cho bạn?",
+      "UserLabel": "Bạn",
+      "BotLabel": "Copilot",
+      "SendButton": "Gửi",
+      "ResetButton": "Đặt lại",
+      "MessageSentAnnouncement": "Tin nhắn đã được gửi.",
+      "ResponseReceivedAnnouncement": "Phản hồi đã được nhận.",
+      "MessageFromYouAriaLabel": "Tin nhắn từ bạn",
+      "MessageFromCopilotAriaLabel": "Tin nhắn từ Copilot",
+      "CopilotLogoAriaLabel": "Logo Copilot",
+      "ErrorSendingMessage": "Gửi tin nhắn không thành công. Vui lòng thử lại.",
+      "PlaceholderMessage": "Tin nhắn Copilot",
+      "CopilotChatSettings": {
+        "Title": "Cài đặt trò chuyện với Copilot",
+        "GeneralTab": "Chung",
+        "SettingsLabel": "Cài đặt",
+        "TitleLabel": "Tiêu đề",
+        "PlaceholderLabel": "Nội dung giữ chỗ",
+        "NoMessagesLabel": "Không có tin nhắn",
+        "MessageInputBorderRadiusLabel": "Bán kính viền"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Đang làm việc trên câu trả lời của bạn...",
+        "Response1": "Đang phân tích ngữ cảnh...",
+        "Response2": "Đang lấy phản hồi tốt nhất có thể...",
+        "Response3": "Đang tạo phản hồi...",
+        "Response4": "Đang xử lý yêu cầu của bạn..."
+      }
+    }
+  }
+}
