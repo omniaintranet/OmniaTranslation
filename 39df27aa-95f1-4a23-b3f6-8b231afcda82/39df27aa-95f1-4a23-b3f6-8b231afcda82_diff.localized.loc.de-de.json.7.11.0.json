@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot-Chat",
+          "Description": "Chatten Sie mit dem Copilot-Assistenten. Jeder Benutzer benötigt eine Microsoft 365 Copilot-Lizenz.",
+          "Category": "Integration"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Fallback-Suche",
+          "FallbackMaxWordCount": "Fallback-Maximalanzahl an Wörtern"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Kontext wird analysiert...",
+          "FetchingTheBestPossibleReply": "Die bestmögliche Antwort wird abgerufen...",
+          "GeneratingResponse": "Antwort wird generiert...",
+          "ProcessingYourRequest": "Ihre Anfrage wird bearbeitet...",
+          "Thinking": "Denken...",
+          "WorkingOnYourAnswer": "An Ihrer Antwort wird gearbeitet..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot-Chat",
+      "Summary": "Chatten Sie mit Microsoft Copilot, unterstützt von KI",
+      "Category": "Inhalt",
+      "NoMessages": "Willkommen, wie kann ich helfen?",
+      "UserLabel": "Sie",
+      "BotLabel": "Copilot",
+      "SendButton": "Senden",
+      "ResetButton": "Zurücksetzen",
+      "MessageSentAnnouncement": "Nachricht gesendet.",
+      "ResponseReceivedAnnouncement": "Antwort erhalten.",
+      "MessageFromYouAriaLabel": "Nachricht von Ihnen",
+      "MessageFromCopilotAriaLabel": "Nachricht von Copilot",
+      "CopilotLogoAriaLabel": "Copilot-Logo",
+      "ErrorSendingMessage": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+      "PlaceholderMessage": "Nachricht Copilot",
+      "CopilotChatSettings": {
+        "Title": "Copilot-Chat-Einstellungen",
+        "GeneralTab": "Allgemein",
+        "SettingsLabel": "Einstellungen",
+        "TitleLabel": "Titel",
+        "PlaceholderLabel": "Platzhalter eingeben",
+        "NoMessagesLabel": "Keine Nachrichten",
+        "MessageInputBorderRadiusLabel": "Eckenradius"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "An Ihrer Antwort wird gearbeitet...",
+        "Response1": "Kontext wird analysiert...",
+        "Response2": "Die bestmögliche Antwort wird abgerufen...",
+        "Response3": "Antwort wird generiert...",
+        "Response4": "Ihre Anfrage wird bearbeitet..."
+      }
+    }
+  }
+}

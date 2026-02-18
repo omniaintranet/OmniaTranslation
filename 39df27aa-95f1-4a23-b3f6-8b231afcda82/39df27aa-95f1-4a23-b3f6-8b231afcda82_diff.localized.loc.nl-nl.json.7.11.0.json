@@ -1,0 +1,66 @@
+{
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "Title": "Copilot chat",
+          "Description": "Chat met de Copilot-assistent. Elke gebruiker moet een Microsoft 365 Copilot-licentie hebben.",
+          "Category": "Integratie"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "FallbackSearch": "Fallback-zoekopdracht",
+          "FallbackMaxWordCount": "Fallback maximaal aantal woorden"
+        }
+      },
+      "SemanticSearch": {
+        "WaitingForResponseMessages": {
+          "AnalyzingContext": "Context analyseren...",
+          "FetchingTheBestPossibleReply": "De best mogelijke reactie ophalen...",
+          "GeneratingResponse": "Reactie genereren...",
+          "ProcessingYourRequest": "Uw verzoek verwerken...",
+          "Thinking": "Denken...",
+          "WorkingOnYourAnswer": "Aan uw antwoord werken..."
+        }
+      }
+    }
+  },
+  "WPL": {
+    "CopilotChat": {
+      "Title": "Copilot chat",
+      "Summary": "Chat met Microsoft Copilot aangedreven door AI",
+      "Category": "Inhoud",
+      "NoMessages": "Welkom, hoe kan ik helpen?",
+      "UserLabel": "Jij",
+      "BotLabel": "Copilot",
+      "SendButton": "Verzenden",
+      "ResetButton": "Resetten",
+      "MessageSentAnnouncement": "Bericht verzonden.",
+      "ResponseReceivedAnnouncement": "Reactie ontvangen.",
+      "MessageFromYouAriaLabel": "Bericht van jou",
+      "MessageFromCopilotAriaLabel": "Bericht van Copilot",
+      "CopilotLogoAriaLabel": "Copilot-logo",
+      "ErrorSendingMessage": "Bericht verzenden mislukt. Probeer het opnieuw.",
+      "PlaceholderMessage": "Bericht Copilot",
+      "CopilotChatSettings": {
+        "Title": "Instellingen voor Copilot chat",
+        "GeneralTab": "Algemeen",
+        "SettingsLabel": "Instellingen",
+        "TitleLabel": "Titel",
+        "PlaceholderLabel": "Invoerveld",
+        "NoMessagesLabel": "Geen berichten",
+        "MessageInputBorderRadiusLabel": "Randradius"
+      },
+      "ChatResponseMessages": {
+        "FirstMessage": "Aan uw antwoord werken...",
+        "Response1": "Context analyseren...",
+        "Response2": "De best mogelijke reactie ophalen...",
+        "Response3": "Reactie genereren...",
+        "Response4": "Uw verzoek verwerken..."
+      }
+    }
+  }
+}
