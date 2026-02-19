@@ -13,7 +13,7 @@
       "Admin": {
         "SemanticSearch": {
           "FallbackSearch": "Varahaku",
-          "FallbackMaxWordCount": "Varahaku enimmäissanasana"
+          "FallbackMaxWordCount": "Varahaku enimmäissanamäärä"
         }
       },
       "SemanticSearch": {
@@ -31,7 +31,7 @@
   "WPL": {
     "CopilotChat": {
       "Title": "Copilot chat",
-      "Summary": "Keskustele Microsoft Copilotin kanssa, joka on powered by AI",
+      "Summary": "Keskustele tekoälyä käyttävän Microsoft Copilotin kanssa",
       "Category": "Sisältö",
       "NoMessages": "Tervetuloa, miten voin auttaa?",
       "UserLabel": "Sinä",
@@ -44,13 +44,13 @@
       "MessageFromCopilotAriaLabel": "Viesti Copilotilta",
       "CopilotLogoAriaLabel": "Copilot-logo",
       "ErrorSendingMessage": "Viestin lähettäminen epäonnistui. Yritä uudelleen.",
-      "PlaceholderMessage": "Viesti Copilot",
+      "PlaceholderMessage": "Viestisi Copilotille",
       "CopilotChatSettings": {
         "Title": "Copilot chat -asetukset",
         "GeneralTab": "Yleinen",
         "SettingsLabel": "Asetukset",
         "TitleLabel": "Otsikko",
-        "PlaceholderLabel": "Syötepaikka",
+        "PlaceholderLabel": "Tilapäisteksti",
         "NoMessagesLabel": "Ei viestejä",
         "MessageInputBorderRadiusLabel": "Reunan säde"
       },
