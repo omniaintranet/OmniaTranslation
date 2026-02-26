@@ -1,0 +1,9 @@
+{
+  "WPL": {
+    "CopilotChat": {
+      "CopilotChatSettings": {
+        "UseStreamingLabel": "Bruk streaming"
+      }
+    }
+  }
+}
