@@ -4,7 +4,7 @@
       "Settings": {
         "ResyncUsers": {
           "BusinessProfileLabel": "Business profile",
-          "BusinessProfileHint": "Select business profile to resync users"
+          "BusinessProfileHint": "Select Business profile for user resync"
         }
       }
     }
