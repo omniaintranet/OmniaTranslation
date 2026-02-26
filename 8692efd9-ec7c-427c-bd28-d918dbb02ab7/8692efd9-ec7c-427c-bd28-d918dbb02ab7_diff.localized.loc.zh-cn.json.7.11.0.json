@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedTitle": "不支持的 Omnia 用户类型",
+              "UserTypeNotSupportedMessage": "登录失败：({username}) 不支持所选的登录模式 (Microsoft 365)。"
+            }
+          }
+        }
+      }
+    }
+  }
+}
