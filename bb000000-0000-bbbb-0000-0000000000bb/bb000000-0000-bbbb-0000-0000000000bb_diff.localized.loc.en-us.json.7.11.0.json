@@ -5,7 +5,7 @@
         "ExtensionSettings": {
           "MediaPicker": {
             "CustomRatio": "Custom",
-            "CropRatios": "Crop Ratios"
+            "CropRatios": "Crop ratios"
           }
         }
       }
