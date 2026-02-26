@@ -1,0 +1,17 @@
+{
+  "WCM": {
+    "SearchTemplate": {
+      "SharePointPageSearchTemplate": {
+        "Created": "skapad",
+        "Modified": "ändrad"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "AutoSelectFirstCharacter": "Auto-välj första tecken"
+      }
+    }
+  }
+}
