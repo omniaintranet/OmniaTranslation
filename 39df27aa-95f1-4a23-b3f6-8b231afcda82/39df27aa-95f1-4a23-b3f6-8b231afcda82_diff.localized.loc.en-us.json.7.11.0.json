@@ -2,7 +2,7 @@
   "WPL": {
     "CopilotChat": {
       "CopilotChatSettings": {
-        "UseStreamingLabel": "Use Streaming"
+        "UseStreamingLabel": "Use streaming"
       }
     }
   }
