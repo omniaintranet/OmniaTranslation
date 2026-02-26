@@ -3,8 +3,8 @@
     "Feed": {
       "Settings": {
         "ResyncUsers": {
-          "BusinessProfileLabel": "Företagsprofil",
-          "BusinessProfileHint": "Välj företagsprofil för användarsynkronisering"
+          "BusinessProfileLabel": "Verksamhetsprofil",
+          "BusinessProfileHint": "Välj verksmhetsprofil för användarsynkronisering"
         }
       }
     }
