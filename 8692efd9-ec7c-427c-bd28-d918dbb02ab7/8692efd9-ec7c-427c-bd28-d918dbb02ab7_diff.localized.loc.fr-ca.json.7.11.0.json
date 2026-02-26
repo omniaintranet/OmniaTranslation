@@ -1,0 +1,12 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Profil d'entreprise",
+          "BusinessProfileHint": "Sélectionnez le profil d'entreprise pour la resynchronisation des utilisateurs"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "WPL": {
+    "CopilotChat": {
+      "CopilotChatSettings": {
+        "UseStreamingLabel": "使用流式传输"
+      }
+    }
+  }
+}
