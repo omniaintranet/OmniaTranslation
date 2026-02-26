@@ -2,7 +2,7 @@
   "WPL": {
     "CopilotChat": {
       "CopilotChatSettings": {
-        "UseStreamingLabel": "Använd strömning"
+        "UseStreamingLabel": "Använd streaming"
       }
     }
   }
