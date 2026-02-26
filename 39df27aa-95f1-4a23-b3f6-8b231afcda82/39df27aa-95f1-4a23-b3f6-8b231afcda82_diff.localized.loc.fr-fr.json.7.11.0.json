@@ -1,0 +1,9 @@
+{
+  "WPL": {
+    "CopilotChat": {
+      "CopilotChatSettings": {
+        "UseStreamingLabel": "Utiliser le streaming"
+      }
+    }
+  }
+}
