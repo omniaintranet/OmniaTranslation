@@ -1,0 +1,12 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Hồ sơ doanh nghiệp",
+          "BusinessProfileHint": "Chọn hồ sơ doanh nghiệp để đồng bộ lại người dùng"
+        }
+      }
+    }
+  }
+}
