@@ -1,0 +1,17 @@
+{
+  "WCM": {
+    "SearchTemplate": {
+      "SharePointPageSearchTemplate": {
+        "Created": "创建于",
+        "Modified": "修改于"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Settings": {
+        "AutoSelectFirstCharacter": "自动选择第一个字符"
+      }
+    }
+  }
+}
