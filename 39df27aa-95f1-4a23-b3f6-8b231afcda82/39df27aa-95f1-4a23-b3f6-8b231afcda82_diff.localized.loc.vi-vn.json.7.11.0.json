@@ -1,0 +1,9 @@
+{
+  "WPL": {
+    "CopilotChat": {
+      "CopilotChatSettings": {
+        "UseStreamingLabel": "Sử dụng phát trực tiếp"
+      }
+    }
+  }
+}
