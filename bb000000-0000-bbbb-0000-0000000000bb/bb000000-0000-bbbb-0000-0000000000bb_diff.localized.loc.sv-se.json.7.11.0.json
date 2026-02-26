@@ -5,7 +5,7 @@
         "ExtensionSettings": {
           "MediaPicker": {
             "CustomRatio": "Anpassad",
-            "CropRatios": "Beskärningsförhållanden"
+            "CropRatios": "Bildbeskärning"
           }
         }
       }
