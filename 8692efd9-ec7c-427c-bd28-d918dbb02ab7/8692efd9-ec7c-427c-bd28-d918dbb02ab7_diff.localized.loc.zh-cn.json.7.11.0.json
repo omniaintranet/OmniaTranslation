@@ -1,0 +1,12 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "BusinessProfileLabel": "商业档案",
+          "BusinessProfileHint": "选择用户重新同步的商业档案"
+        }
+      }
+    }
+  }
+}
