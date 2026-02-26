@@ -1,0 +1,14 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Personalizado",
+            "CropRatios": "Proporciones de recorte"
+          }
+        }
+      }
+    }
+  }
+}
