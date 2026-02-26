@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedTitle": "Type d'utilisateur Omnia non pris en charge",
+              "UserTypeNotSupportedMessage": "Échec de la connexion : ({username}) n'est pas pris en charge par le mode de connexion sélectionné (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}
