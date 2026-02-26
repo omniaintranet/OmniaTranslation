@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedTitle": "Loại người dùng Omnia không được hỗ trợ",
+              "UserTypeNotSupportedMessage": "Đăng nhập không thành công: ({username}) không được hỗ trợ bởi chế độ đăng nhập đã chọn (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}
