@@ -5,7 +5,7 @@
         "SignInScreen": {
           "Omnia": {
             "ErrorDialog": {
-              "UserTypeNotSupportedTitle": "Omnia-användartyp stöds inte",
+              "UserTypeNotSupportedTitle": "Användartyp Omnia stöds inte",
               "UserTypeNotSupportedMessage": "Inloggning misslyckades: ({username}) stöds inte av den valda inloggningsmetoden (Microsoft 365)."
             }
           }
