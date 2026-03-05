@@ -1,0 +1,14 @@
+{
+  "ODM": {
+    "Admin": {
+      "DocumentTemplates": {
+        "AllowAuthorToChoose": "允许作者选择",
+        "AlwaysCreateAControlledDocument": "始终创建受控文档",
+        "AlwaysCreateANormalDocument": "始终创建标准文档"
+      }
+    },
+    "NewDocumentDialog": {
+      "CreateAControlledDocument": "创建受控文档"
+    }
+  }
+}
