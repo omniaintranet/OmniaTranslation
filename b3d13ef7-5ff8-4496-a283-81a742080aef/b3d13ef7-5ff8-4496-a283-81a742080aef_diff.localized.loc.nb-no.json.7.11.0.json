@@ -1,0 +1,14 @@
+{
+  "ODM": {
+    "Admin": {
+      "DocumentTemplates": {
+        "AllowAuthorToChoose": "Tillat forfatter å velge",
+        "AlwaysCreateAControlledDocument": "Opprett alltid et kontrollert dokument",
+        "AlwaysCreateANormalDocument": "Opprett alltid et standarddokument"
+      }
+    },
+    "NewDocumentDialog": {
+      "CreateAControlledDocument": "Opprett et kontrollert dokument"
+    }
+  }
+}

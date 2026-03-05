@@ -1,0 +1,14 @@
+{
+  "ODM": {
+    "Admin": {
+      "DocumentTemplates": {
+        "AllowAuthorToChoose": "Autor wählen lassen",
+        "AlwaysCreateAControlledDocument": "Immer ein kontrolliertes Dokument erstellen",
+        "AlwaysCreateANormalDocument": "Immer ein Standarddokument erstellen"
+      }
+    },
+    "NewDocumentDialog": {
+      "CreateAControlledDocument": "Ein kontrolliertes Dokument erstellen"
+    }
+  }
+}

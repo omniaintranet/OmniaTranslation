@@ -1,0 +1,14 @@
+{
+  "ODM": {
+    "Admin": {
+      "DocumentTemplates": {
+        "AllowAuthorToChoose": "Salli kirjoittajan valita",
+        "AlwaysCreateAControlledDocument": "Luo aina hallittu asiakirja",
+        "AlwaysCreateANormalDocument": "Luo aina normaali asiakirja"
+      }
+    },
+    "NewDocumentDialog": {
+      "CreateAControlledDocument": "Luo hallittu asiakirja"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ODM": {
+    "Admin": {
+      "DocumentTemplates": {
+        "AllowAuthorToChoose": "Tillad forfatter at vælge",
+        "AlwaysCreateAControlledDocument": "Opret altid et kontrolleret dokument",
+        "AlwaysCreateANormalDocument": "Opret altid et standarddokument"
+      }
+    },
+    "NewDocumentDialog": {
+      "CreateAControlledDocument": "Opret et kontrolleret dokument"
+    }
+  }
+}
