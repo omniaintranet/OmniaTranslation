@@ -3,12 +3,12 @@
     "Admin": {
       "DocumentTemplates": {
         "AllowAuthorToChoose": "Tillåt författare att välja",
-        "AlwaysCreateAControlledDocument": "Skapa alltid ett kontrollerat dokument",
+        "AlwaysCreateAControlledDocument": "Skapa alltid ett styrt dokument",
         "AlwaysCreateANormalDocument": "Skapa alltid ett standarddokument"
       }
     },
     "NewDocumentDialog": {
-      "CreateAControlledDocument": "Skapa ett kontrollerat dokument"
+      "CreateAControlledDocument": "Skapa ett styrt dokument"
     }
   }
 }
