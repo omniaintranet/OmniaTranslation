@@ -4,7 +4,7 @@
       "DocumentTemplates": {
         "AllowAuthorToChoose": "Allow author to choose",
         "AlwaysCreateAControlledDocument": "Always create a controlled document",
-        "AlwaysCreateANormalDocument": "Always create a normal document"
+        "AlwaysCreateANormalDocument": "Always create a standard document"
       }
     },
     "NewDocumentDialog": {
