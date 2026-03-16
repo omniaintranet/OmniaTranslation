@@ -11,7 +11,7 @@
       "EmailTemplates": {
         "VariationNotification": {
           "PageProperty": {
-            "Template": "<p>Kära {{name}}</p><p>En ny version av <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> har publicerats.<p>{%VariationList | <p>Du är {{propertyName}} för denna sida för {{variationName}}<p> %}<p>Vänligen gör nödvändiga ändringar i sidvariationen och publicera en ny version.</p>"
+            "Template": "<p>En ny version av <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> har publicerats.<p>{%VariationList | <p>Du är {{propertyName}} för denna sida för {{variationName}}<p> %}<p>Gör nödvändiga ändringar i sidvariationen och publicera en ny version.</p>"
           }
         }
       }
