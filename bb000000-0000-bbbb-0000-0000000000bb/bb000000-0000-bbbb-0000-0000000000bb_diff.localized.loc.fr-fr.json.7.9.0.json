@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Pour ajouter des propriétés supplémentaires, veuillez activer la fonctionnalité de propriétés utilisateur supplémentaires d'Entra ID."
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Intégration",
+          "Description": "Cette fonctionnalité permet à Omnia de lire toutes les propriétés de tous les utilisateurs d'Entra ID.",
+          "Title": "Propriétés utilisateur supplémentaires d'Entra ID",
+          "ConsentInformation": "Lire l'intégralité des profils des utilisateurs est nécessaire pour lire toutes les propriétés des utilisateurs d'Entra ID."
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Niveau d'en-tête"
+        }
+      }
+    }
+  }
+}
