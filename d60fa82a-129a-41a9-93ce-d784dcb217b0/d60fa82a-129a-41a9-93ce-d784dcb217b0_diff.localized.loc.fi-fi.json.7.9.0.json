@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Näytä tulos arvosta"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Hyvä {{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a>:sta on julkaistu.<p>{%VariaatioLista | <p>Olet tämän sivun {{propertyName}} {{variationName}}:lle<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+          }
+        }
+      }
+    }
+  }
+}

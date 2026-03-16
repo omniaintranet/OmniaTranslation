@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Để thêm thuộc tính bổ sung, vui lòng kích hoạt tính năng thuộc tính người dùng bổ sung của Entra ID."
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Tích hợp",
+          "Description": "Tính năng này cho phép Omnia đọc tất cả các thuộc tính của tất cả người dùng từ Entra ID.",
+          "Title": "Thuộc tính người dùng bổ sung của EntraID",
+          "ConsentInformation": "Đọc toàn bộ hồ sơ của tất cả người dùng là cần thiết để đọc tất cả các thuộc tính của người dùng từ Entra ID."
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Cấp tiêu đề"
+        }
+      }
+    }
+  }
+}

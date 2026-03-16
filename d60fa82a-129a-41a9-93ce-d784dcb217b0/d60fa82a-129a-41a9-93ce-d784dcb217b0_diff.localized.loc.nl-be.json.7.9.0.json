@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Toon het resultaat voor waarde"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Beste {{name}}</p><p>Een nieuwe versie van <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> is gepubliceerd.<p>{%VariationList | <p>U bent de {{propertyName}} van deze pagina voor {{variationName}}<p> %}<p>Gelieve de nodige wijzigingen aan te brengen in de pagina-variant en een nieuwe versie te publiceren.</p>"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "Lisäominaisuuksien lisäämiseksi aktivoi Entra ID:n lisäkäyttäjäominaisuudet."
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integraatio",
+          "Description": "Tämä ominaisuus mahdollistaa Omnian lukevan kaikki ominaisuudet kaikilta käyttäjiltä Entra ID:stä.",
+          "Title": "EntraID:n lisäkäyttäjäominaisuudet",
+          "ConsentInformation": "Kaikkien käyttäjien täydellisten profiilien lukeminen on tarpeen, jotta voidaan lukea kaikki ominaisuudet käyttäjiltä Entra ID:stä."
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Otsikkotaso"
+        }
+      }
+    }
+  }
+}

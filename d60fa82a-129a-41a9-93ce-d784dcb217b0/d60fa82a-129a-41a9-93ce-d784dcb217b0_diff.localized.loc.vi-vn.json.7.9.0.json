@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Hiển thị kết quả cho giá trị"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Kính gửi {{name}}</p><p>Một phiên bản mới của <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> đã được xuất bản.<p>{%VariationList | <p>Bạn là {{propertyName}} của trang này cho {{variationName}}<p> %}<p>Vui lòng thực hiện các thay đổi cần thiết cho biến thể trang và xuất bản một phiên bản mới.</p>"
+          }
+        }
+      }
+    }
+  }
+}

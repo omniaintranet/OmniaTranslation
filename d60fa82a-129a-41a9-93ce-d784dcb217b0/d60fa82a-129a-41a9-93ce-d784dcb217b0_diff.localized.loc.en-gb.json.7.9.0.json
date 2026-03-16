@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Display the result for value"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Dear {{name}}</p><p>A new version of <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> has been published.<p>{%VariationList | <p>You are the {{propertyName}} of this page for {{variationName}}<p> %}<p>Please make the necessary changes to the page variation and publish a new version.</p>"
+          }
+        }
+      }
+    }
+  }
+}

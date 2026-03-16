@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "要添加额外属性，请激活 Entra ID 附加用户属性功能。"
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "集成",
+          "Description": "此功能允许 Omnia 从 Entra ID 读取所有用户的所有属性。",
+          "Title": "EntraID 附加用户属性",
+          "ConsentInformation": "读取所有用户的完整资料是读取 Entra ID 中用户所有属性所必需的。"
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "标题级别"
+        }
+      }
+    }
+  }
+}

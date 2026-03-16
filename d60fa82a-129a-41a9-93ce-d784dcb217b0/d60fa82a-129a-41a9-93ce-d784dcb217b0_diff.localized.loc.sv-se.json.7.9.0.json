@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Visa resultatet för värde"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>En ny version av <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> har publicerats.<p>{%VariationList | <p>Du är {{propertyName}} för denna sida för {{variationName}}<p> %}<p>Gör nödvändiga ändringar i sidvariationen och publicera en ny version.</p>"
+          }
+        }
+      }
+    }
+  }
+}

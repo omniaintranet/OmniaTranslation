@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "ExtraUserPropertiesFeatureRequiredMessage": "For å legge til ekstra egenskaper, vennligst aktiver funksjonen for ekstra brukeregenskaper i Entra ID."
+      },
+      "Features": {
+        "ExtraIDAdditionalUserProperties": {
+          "Category": "Integrasjon",
+          "Description": "Denne funksjonen lar Omnia lese alle egenskaper på alle brukere fra Entra ID.",
+          "Title": "Ekstra brukeregenskaper i EntraID",
+          "ConsentInformation": "Å lese alle brukeres fullstendige profiler er nødvendig for å lese alle egenskaper på brukere fra Entra ID."
+        }
+      },
+      "LayoutEngine": {
+        "Labels": {
+          "HeaderLevel": "Overskriftsnivå"
+        }
+      }
+    }
+  }
+}
