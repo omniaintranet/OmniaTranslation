@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "Afficher le résultat pour la valeur"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>Cher {{name}}</p><p>Une nouvelle version de <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> a été publiée.<p>{%VariationList | <p>Vous êtes le {{propertyName}} de cette page pour {{variationName}}<p> %}<p>Veuillez apporter les modifications nécessaires à la variation de la page et publier une nouvelle version.</p>"
+          }
+        }
+      }
+    }
+  }
+}
