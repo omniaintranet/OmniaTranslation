@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "Identities": {
-        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the EntraID additional user properties feature."
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the Entra ID additional user properties feature."
       },
       "Features": {
         "ExtraIDAdditionalUserProperties": {
