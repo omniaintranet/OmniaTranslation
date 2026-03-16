@@ -2,7 +2,7 @@
   "WCM": {
     "Admin": {
       "PageBulkUpdate": {
-        "DisplayResultForValue": "Näytä tulos arvosta"
+        "DisplayResultForValue": "Näytä tulos arvolle"
       }
     }
   },
@@ -11,7 +11,7 @@
       "EmailTemplates": {
         "VariationNotification": {
           "PageProperty": {
-            "Template": "<p>Hyvä {{name}}</p><p>Uusi versio <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a>:sta on julkaistu.<p>{%VariaatioLista | <p>Olet tämän sivun {{propertyName}} {{variationName}}:lle<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
+            "Template": "<p>Hyvä {{name}}</p><p>Uusi versio sivusta <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> on julkaistu.<p>{%VariaatioLista | <p>Olet sivun {{variationName}} {{propertyName}}<p> %}<p>Ole hyvä ja tee tarvittavat muutokset sivun variaatioon ja julkaise uusi versio.</p>"
           }
         }
       }
