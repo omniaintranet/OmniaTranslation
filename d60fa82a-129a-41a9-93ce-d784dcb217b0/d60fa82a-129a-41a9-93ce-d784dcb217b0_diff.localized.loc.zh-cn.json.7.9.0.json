@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "DisplayResultForValue": "显示值的结果"
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "EmailTemplates": {
+        "VariationNotification": {
+          "PageProperty": {
+            "Template": "<p>亲爱的 {{name}}</p><p>新版本的 <a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a> 已发布。<p>{%VariationList | <p>您是此页面 {{variationName}} 的 {{propertyName}}<p> %}<p>请对页面变体进行必要的更改并发布新版本。</p>"
+          }
+        }
+      }
+    }
+  }
+}
