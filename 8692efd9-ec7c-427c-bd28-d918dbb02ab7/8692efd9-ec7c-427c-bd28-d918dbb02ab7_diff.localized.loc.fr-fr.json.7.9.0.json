@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Ajouter ou mettre à jour",
+          "Delete": "Supprimer",
+          "AutomaticPageTranslationFinished": "Traduction de la page de variation"
+        },
+        "SortByItemDate": "Date de l’élément (intégré au flux)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Non commencé",
+            "InProgress": "En cours",
+            "Completed": "Terminé"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Profil professionnel",
+          "BusinessProfileHint": "Sélectionnez le profil professionnel pour la resynchronisation des utilisateurs",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Êtes-vous vraiment sûr de vouloir réessayer la resynchronisation des utilisateurs ?",
+            "MessageResyncAllUsersWithTotalNumber": "Voulez-vous vraiment resynchroniser tous les utilisateurs de ce tenant ? Cela resynchronisera {noUsers} utilisateurs et prendra un certain temps.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Voulez-vous vraiment resynchroniser les utilisateurs des types sélectionnés ? Cela resynchronisera {noUsers} utilisateurs et prendra un certain temps.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Êtes-vous vraiment sûr de vouloir réessayer la resynchronisation de {noUsers} utilisateurs ? Cela prendra un certain temps."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtre des événements en liste blanche",
+          "EnableEventsFilter": "Activer le filtre des événements",
+          "Radio": {
+            "Hint": "Basculer entre le mode liste blanche et le mode liste noire",
+            "Blacklist": "Liste noire",
+            "Whitelist": "Liste blanche"
+          },
+          "FilterMode": {
+            "Label": "Mode de filtrage",
+            "BusinessProfile": "Profil professionnel",
+            "PublishingApp": "Application de publication",
+            "PageCollection": "Collection de pages",
+            "BusinessProfileInputLabel": "Profils professionnels",
+            "PublishingAppInputLabel": "Applications de publication"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Annonce"
+        }
+      }
+    }
+  }
+}
