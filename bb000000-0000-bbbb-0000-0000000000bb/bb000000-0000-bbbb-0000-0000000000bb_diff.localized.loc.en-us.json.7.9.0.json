@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "The link you have used is not valid."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Write managed metadata properties",
+          "Category": "Integration",
+          "Description": "Allows the app to read, create, update, and delete managed metadata and to read basic site info on behalf of the signed-in user.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Activate this feature to add GPT Image generate to the media picker.",
+        "DowloadImageFailed": "Download image failed",
+        "PhotoBy": "Photo by",
+        "PhotosProviderBy": "Photos provided by",
+        "MaxInputLength": 1000,
+        "Generate": "Generate",
+        "SelectSizePicture": "Size of picture",
+        "Download": "Download",
+        "GenerateNewImage": "Generate new image",
+        "ErrorMessage": "The task failed due to an error. Please check your configuration and try again.",
+        "ImageName": "image",
+        "PromptHeader": "Tip: Prompt structure",
+        "PromptContent": "Prompts can be composed of any words, but consider how you may explain an image to someone. The form \"subject + adjectives + styles\" tends to work well.",
+        "PromptExample": "Describe the image you want to create. For example: \"watercolor painting of the Seattle skyline\"",
+        "Label": "Prompt",
+        "ImageStyle": "Image style"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Custom",
+            "CropRatios": "Crop ratios"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Please click the button below to proceed with your confirmation",
+      "ConfirmButton": "Confirm"
+    }
+  }
+}
