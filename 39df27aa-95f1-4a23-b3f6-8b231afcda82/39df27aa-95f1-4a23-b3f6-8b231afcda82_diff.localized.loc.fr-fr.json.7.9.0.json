@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Ce profil d'entreprise ne peut pas être supprimé car il possède des instances d'application actives."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Doit commencer par une lettre ou un underscore et ne contenir que des lettres, des chiffres et des underscores."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Nom du déploiement"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Invites prédéfinies",
+      "DefaultPrompt": "Invite par défaut",
+      "TitleSetting": "Titre",
+      "Prompt": "Invite",
+      "SetAsDefaultPrompt": "Définir comme invite par défaut",
+      "ReminderText": "Ajoutez une action et n'oubliez pas d'inclure le jeton : ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Invites prédéfinies GPT Image",
+        "Detail": {
+          "ErrorMessage": "Ce champ est obligatoire et doit contenir le jeton : ",
+          "ExampleText": " en style aquarelle",
+          "Example": "Exemple : "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Supprimer l'invite prédéfinie",
+        "Message": "Êtes-vous sûr de vouloir supprimer l'invite prédéfinie ?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Par défaut",
+      "DefaultProvider": {
+        "SenderName": "Nom de l'expéditeur",
+        "EmailName": "Nom de l'email",
+        "DefaultValueIfEmpty": "Valeur par défaut si vide"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Nom de l'expéditeur",
+        "EmailAddress": "Adresse email",
+        "APIKey": "Clé API"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "Fonctionnalités IA : GPT Image",
+      "ApiKey": "Clé API",
+      "ApiBaseUrl": "URL de base de l'API"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Titre de l'application de publication"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "REMARQUE : Si vous choisissez un modèle d'un autre profil d'entreprise, cette instance d'application sera déplacée vers ce profil d'entreprise."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activer la fonctionnalité Écrire les propriétés de métadonnées gérées"
+          }
+        }
+      }
+    }
+  }
+}
