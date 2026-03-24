@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lisää tai päivitä",
+          "Delete": "Poista",
+          "AutomaticPageTranslationFinished": "Variaatio sivun käännös"
+        },
+        "SortByItemDate": "Kohteen päivämäärä (Feedin sisäinen)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ei aloitettu",
+            "InProgress": "Käynnissä",
+            "Completed": "Valmis"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Liiketoimintaprofiili",
+          "BusinessProfileHint": "Valitse liiketoimintaprofiili käyttäjien uudelleensynkronointia varten",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Haluatko varmasti yrittää uudelleen käyttäjien uudelleensynkronointia?",
+            "MessageResyncAllUsersWithTotalNumber": "Haluatko varmasti uudelleensynkronoida kaikki tämän Tenantin käyttäjät? Tämä synkronoi uudelleen {noUsers} käyttäjää ja kestää jonkin aikaa.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Haluatko varmasti uudelleensynkronoida valitun tyyppiset käyttäjät? Tämä synkronoi uudelleen {noUsers} käyttäjää ja kestää jonkin aikaa.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Haluatko varmasti yrittää uudelleen {noUsers} käyttäjän uudelleensynkronointia? Tämä kestää jonkin aikaa."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Sallittujen tapahtumien suodatin",
+          "EnableEventsFilter": "Ota tapahtumien suodatin käyttöön",
+          "Radio": {
+            "Hint": "Vaihda sallittujen ja estettyjen tilojen välillä",
+            "Blacklist": "Estolista",
+            "Whitelist": "Sallittu lista"
+          },
+          "FilterMode": {
+            "Label": "Suodatintila",
+            "BusinessProfile": "Liiketoimintaprofiili",
+            "PublishingApp": "Julkaisusovellus",
+            "PageCollection": "Sivukokoelma",
+            "BusinessProfileInputLabel": "Liiketoimintaprofiilit",
+            "PublishingAppInputLabel": "Julkaisusovellukset"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Ilmoitus"
+        }
+      }
+    }
+  }
+}
