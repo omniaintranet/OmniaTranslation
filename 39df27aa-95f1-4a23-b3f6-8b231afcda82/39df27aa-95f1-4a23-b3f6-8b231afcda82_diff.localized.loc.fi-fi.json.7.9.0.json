@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Tätä liiketoimintaprofiilia ei voi poistaa, koska siinä on aktiivisia sovellusinstansseja."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Täytyy alkaa kirjaimella tai alaviivalla ja sisältää vain kirjaimia, numeroita ja alaviivoja."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Julkaisun nimi"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Ennalta määritetyt kehotteet",
+      "DefaultPrompt": "Oletuskehotte",
+      "TitleSetting": "Otsikko",
+      "Prompt": "Kehote",
+      "SetAsDefaultPrompt": "Aseta oletuskehotteeksi",
+      "ReminderText": "Lisää toiminto ja muista sisällyttää token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT Image ennalta määritetyt kehotteet",
+        "Detail": {
+          "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisällettävä token: ",
+          "ExampleText": " vesivärityyliin",
+          "Example": "Esimerkki: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Poista ennalta määritetty kehotte",
+        "Message": "Haluatko varmasti poistaa ennalta määritetyn kehotteen?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Oletus",
+      "DefaultProvider": {
+        "SenderName": "Lähettäjän nimi",
+        "EmailName": "Sähköpostin nimi",
+        "DefaultValueIfEmpty": "Oletusarvo, jos tyhjä"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Lähettäjän nimi",
+        "EmailAddress": "Sähköpostiosoite",
+        "APIKey": "API-avain"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-ominaisuudet: GPT Image",
+      "ApiKey": "API-avain",
+      "ApiBaseUrl": "API:n perus-URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Julkaisusovelluksen otsikko"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "HUOM: Jos valitset mallin toisesta liiketoimintaprofiilista, tämä sovellusinstanssi siirtyy kyseiseen liiketoimintaprofiiliin."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Ota käyttöön ominaisuus Kirjoita hallitut metatietojen ominaisuudet"
+          }
+        }
+      }
+    }
+  }
+}
