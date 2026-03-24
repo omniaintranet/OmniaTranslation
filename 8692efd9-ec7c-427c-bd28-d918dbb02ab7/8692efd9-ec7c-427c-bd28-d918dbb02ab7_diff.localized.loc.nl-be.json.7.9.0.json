@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Toevoegen of bijwerken",
+          "Delete": "Verwijderen",
+          "AutomaticPageTranslationFinished": "Variatie pagina vertaling"
+        },
+        "SortByItemDate": "Itemdatum (Feed ingebouwd)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Niet gestart",
+            "InProgress": "Bezig",
+            "Completed": "Voltooid"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Business profile",
+          "BusinessProfileHint": "Selecteer business profile voor het opnieuw synchroniseren van gebruikers",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Weet u zeker dat u het opnieuw synchroniseren van gebruikers wilt proberen?",
+            "MessageResyncAllUsersWithTotalNumber": "Wilt u echt alle gebruikers in deze tenant opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd in beslag nemen.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Wilt u echt gebruikers met geselecteerde types opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd in beslag nemen.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Weet u zeker dat u het opnieuw synchroniseren van {noUsers} gebruikers wilt proberen? Dit zal enige tijd in beslag nemen."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Events filter inschakelen",
+          "Radio": {
+            "Hint": "Schakel tussen whitelist-modus en blacklist-modus",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Business profile",
+            "PublishingApp": "Publishing app",
+            "PageCollection": "Page collection",
+            "BusinessProfileInputLabel": "Business profiles",
+            "PublishingAppInputLabel": "Publishing apps"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Announcement"
+        }
+      }
+    }
+  }
+}

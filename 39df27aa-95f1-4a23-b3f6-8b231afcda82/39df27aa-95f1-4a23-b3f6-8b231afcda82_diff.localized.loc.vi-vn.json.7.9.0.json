@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Hồ sơ doanh nghiệp này không thể bị xóa vì nó có các phiên bản ứng dụng đang hoạt động."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Phải bắt đầu bằng chữ cái hoặc dấu gạch dưới và chỉ chứa chữ cái, số và dấu gạch dưới."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Tên triển khai"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Lời nhắc định sẵn",
+      "DefaultPrompt": "Lời nhắc mặc định",
+      "TitleSetting": "Tiêu đề",
+      "Prompt": "Lời nhắc",
+      "SetAsDefaultPrompt": "Đặt làm lời nhắc mặc định",
+      "ReminderText": "Thêm một hành động và nhớ bao gồm token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Lời nhắc định sẵn GPT Image",
+        "Detail": {
+          "ErrorMessage": "Trường này là bắt buộc và phải chứa token: ",
+          "ExampleText": " theo phong cách màu nước",
+          "Example": "Ví dụ: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Xóa lời nhắc định sẵn",
+        "Message": "Bạn có chắc chắn muốn xóa lời nhắc định sẵn không?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Mặc định",
+      "DefaultProvider": {
+        "SenderName": "Tên người gửi",
+        "EmailName": "Tên email",
+        "DefaultValueIfEmpty": "Giá trị mặc định nếu để trống"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Tên người gửi",
+        "EmailAddress": "Địa chỉ email",
+        "APIKey": "Khóa API"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "Tính năng AI: GPT Image",
+      "ApiKey": "Khóa API",
+      "ApiBaseUrl": "URL cơ sở API"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Tiêu đề ứng dụng xuất bản"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "LƯU Ý: Nếu bạn chọn một mẫu từ hồ sơ doanh nghiệp khác, phiên bản ứng dụng này sẽ chuyển sang hồ sơ doanh nghiệp đó."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Kích hoạt tính năng Ghi thuộc tính siêu dữ liệu được quản lý"
+          }
+        }
+      }
+    }
+  }
+}

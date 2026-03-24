@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Liên kết bạn đã sử dụng không hợp lệ."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Viết thuộc tính siêu dữ liệu được quản lý",
+          "Category": "Tích hợp",
+          "Description": "Cho phép ứng dụng đọc, tạo, cập nhật và xóa siêu dữ liệu được quản lý và đọc thông tin cơ bản của site thay mặt cho người dùng đã đăng nhập.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Kích hoạt tính năng này để thêm tạo hình ảnh GPT vào bộ chọn phương tiện.",
+        "DowloadImageFailed": "Tải hình ảnh thất bại",
+        "PhotoBy": "Ảnh bởi",
+        "PhotosProviderBy": "Ảnh được cung cấp bởi",
+        "MaxInputLength": 1000,
+        "Generate": "Tạo",
+        "SelectSizePicture": "Kích thước hình ảnh",
+        "Download": "Tải xuống",
+        "GenerateNewImage": "Tạo hình ảnh mới",
+        "ErrorMessage": "Tác vụ thất bại do lỗi. Vui lòng kiểm tra cấu hình và thử lại.",
+        "ImageName": "hình ảnh",
+        "PromptHeader": "Mẹo: Cấu trúc lời nhắc",
+        "PromptContent": "Lời nhắc có thể bao gồm bất kỳ từ nào, nhưng hãy cân nhắc cách bạn mô tả một hình ảnh cho ai đó. Cấu trúc \"chủ thể + tính từ + phong cách\" thường hoạt động tốt.",
+        "PromptExample": "Mô tả hình ảnh bạn muốn tạo. Ví dụ: \"tranh màu nước của đường chân trời Seattle\"",
+        "Label": "Lời nhắc",
+        "ImageStyle": "Phong cách hình ảnh"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Tùy chỉnh",
+            "CropRatios": "Tỷ lệ cắt"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Vui lòng nhấn nút bên dưới để tiếp tục xác nhận của bạn",
+      "ConfirmButton": "Xác nhận"
+    }
+  }
+}

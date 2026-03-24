@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Đang tạo file Excel...",
+          "ErrorWhenFileExporting": "Đã xảy ra lỗi khi xuất file."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Khối này đã được chỉnh sửa ở chế độ viết. Lưu các thay đổi hiện tại sẽ thay thế phiên bản ở chế độ viết."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Trang {{id}} đã bị xóa."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Tự động đề cập kênh trong bài đăng"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Mã hóa",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Lịch của tôi"
+        }
+      },
+      "Feature": {
+        "Title": "Tích hợp lịch Exchange",
+        "Category": "Máy chủ SharePoint",
+        "Description": "Cho phép tích hợp với Exchange Server"
+      },
+      "Admin": {
+        "Title": "Tài khoản dịch vụ lịch Outlook",
+        "ExchangeServerUrl": "URL máy chủ web Exchange",
+        "Password": "Mật khẩu",
+        "UserName": "Tên người dùng"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Đi đến trang",
+        "GoToPageText": "Văn bản đi đến trang",
+        "GoToPageColor": "Màu văn bản đi đến trang",
+        "GoToPageBackgroundColor": "Màu nút đi đến trang"
+      }
+    }
+  }
+}

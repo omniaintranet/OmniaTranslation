@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Genererer Excel-fil...",
+          "ErrorWhenFileExporting": "Der opstod en fejl under eksport."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Denne blok blev ændret i skrive-tilstand. Gemning af dine nuværende ændringer vil erstatte versionen i skrive-tilstand."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Side {{id}} er blevet slettet."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Nævn automatisk kanal i opslag"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Kodning",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Min kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange kalenderintegration",
+        "Category": "SharePoint server",
+        "Description": "Muliggør integration med Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook kalender servicekonto",
+        "ExchangeServerUrl": "Exchange webserver URL",
+        "Password": "Adgangskode",
+        "UserName": "Brugernavn"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gå til side",
+        "GoToPageText": "Tekst for gå til side",
+        "GoToPageColor": "Tekstfarve for gå til side",
+        "GoToPageBackgroundColor": "Knapfarve for gå til side"
+      }
+    }
+  }
+}

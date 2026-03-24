@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Det link, du har brugt, er ikke gyldigt."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Skriv tilknyttede metadataegenskaber",
+          "Category": "Integration",
+          "Description": "Gør det muligt for appen at læse, oprette, opdatere og slette tilknyttede metadata samt læse grundlæggende siteoplysninger på vegne af den loggede bruger.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Aktivér denne funktion for at tilføje GPT Image-generering til medievælgeren.",
+        "DowloadImageFailed": "Download af billede mislykkedes",
+        "PhotoBy": "Foto af",
+        "PhotosProviderBy": "Fotos leveret af",
+        "MaxInputLength": 1000,
+        "Generate": "Generer",
+        "SelectSizePicture": "Størrelse på billede",
+        "Download": "Download",
+        "GenerateNewImage": "Generer nyt billede",
+        "ErrorMessage": "Opgaven mislykkedes på grund af en fejl. Tjek venligst din konfiguration og prøv igen.",
+        "ImageName": "billede",
+        "PromptHeader": "Tip: Promptstruktur",
+        "PromptContent": "Prompter kan bestå af alle ord, men overvej, hvordan du ville forklare et billede til nogen. Formen \"emne + adjektiver + stilarter\" fungerer ofte godt.",
+        "PromptExample": "Beskriv det billede, du ønsker at skabe. For eksempel: \"akvarelmaling af Seattle skyline\"",
+        "Label": "Prompt",
+        "ImageStyle": "Billedstil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Brugerdefineret",
+            "CropRatios": "Beskæringsforhold"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Klik venligst på knappen nedenfor for at fortsætte med din bekræftelse",
+      "ConfirmButton": "Bekræft"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "正在生成 Excel 文件...",
+          "ErrorWhenFileExporting": "导出时发生错误。"
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "此块已在写入模式下修改。保存当前更改将替换写入模式版本。"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "页面 {{id}} 已被删除。"
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "在帖子中自动提及频道"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "编码",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "我的日历"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange 日历集成",
+        "Category": "SharePoint 服务器",
+        "Description": "启用与 Exchange Server 集成的功能"
+      },
+      "Admin": {
+        "Title": "Outlook 日历服务账户",
+        "ExchangeServerUrl": "Exchange Web 服务器 URL",
+        "Password": "密码",
+        "UserName": "用户名"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "跳转到页面",
+        "GoToPageText": "跳转到页面文本",
+        "GoToPageColor": "跳转到页面文本颜色",
+        "GoToPageBackgroundColor": "跳转到页面按钮颜色"
+      }
+    }
+  }
+}

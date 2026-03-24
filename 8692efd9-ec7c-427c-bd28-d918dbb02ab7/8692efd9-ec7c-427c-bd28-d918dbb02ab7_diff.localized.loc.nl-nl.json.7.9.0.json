@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Toevoegen of bijwerken",
+          "Delete": "Verwijderen",
+          "AutomaticPageTranslationFinished": "Variatiepagina vertaling"
+        },
+        "SortByItemDate": "Itemdatum (Feed ingebouwd)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Niet gestart",
+            "InProgress": "Bezig",
+            "Completed": "Voltooid"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Bedrijfsprofiel",
+          "BusinessProfileHint": "Selecteer bedrijfsprofiel voor het opnieuw synchroniseren van gebruikers",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Weet u zeker dat u het opnieuw synchroniseren van gebruikers wilt proberen?",
+            "MessageResyncAllUsersWithTotalNumber": "Wilt u echt alle gebruikers in deze tenant opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd duren om te voltooien.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Wilt u echt gebruikers met geselecteerde typen opnieuw synchroniseren? Dit zal {noUsers} gebruikers opnieuw synchroniseren en enige tijd duren om te voltooien.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Weet u zeker dat u het opnieuw synchroniseren van {noUsers} gebruikers wilt proberen? Dit zal enige tijd duren om te voltooien."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist evenementenfilter",
+          "EnableEventsFilter": "Evenementenfilter inschakelen",
+          "Radio": {
+            "Hint": "Schakel tussen whitelist-modus en blacklist-modus",
+            "Blacklist": "Zwarte lijst",
+            "Whitelist": "Witte lijst"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Bedrijfsprofiel",
+            "PublishingApp": "Publicatie-app",
+            "PageCollection": "Pagina collectie",
+            "BusinessProfileInputLabel": "Bedrijfsprofielen",
+            "PublishingAppInputLabel": "Publicatie-apps"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Aankondiging"
+        }
+      }
+    }
+  }
+}

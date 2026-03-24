@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Lenken du har brukt er ikke gyldig."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Skriv administrerte metadataegenskaper",
+          "Category": "Integrasjon",
+          "Description": "Lar appen lese, opprette, oppdatere og slette administrerte metadata og lese grunnleggende nettstedsinformasjon på vegne av den påloggede brukeren.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Aktiver denne funksjonen for å legge til GPT Image-generering i medievelgeren.",
+        "DowloadImageFailed": "Nedlasting av bilde mislyktes",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Bilder levert av",
+        "MaxInputLength": 1000,
+        "Generate": "Generer",
+        "SelectSizePicture": "Størrelse på bilde",
+        "Download": "Last ned",
+        "GenerateNewImage": "Generer nytt bilde",
+        "ErrorMessage": "Oppgaven mislyktes på grunn av en feil. Vennligst sjekk konfigurasjonen din og prøv igjen.",
+        "ImageName": "bilde",
+        "PromptHeader": "Tips: Prompt-struktur",
+        "PromptContent": "Prompter kan bestå av hvilke som helst ord, men vurder hvordan du kan forklare et bilde til noen. Formen \"motiv + adjektiver + stiler\" fungerer ofte godt.",
+        "PromptExample": "Beskriv bildet du ønsker å lage. For eksempel: \"akvarellmaleri av Seattle-silhuetten\"",
+        "Label": "Prompt",
+        "ImageStyle": "Bildestil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Egendefinert",
+            "CropRatios": "Beskjæringsforhold"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Vennligst klikk på knappen nedenfor for å fortsette med bekreftelsen din",
+      "ConfirmButton": "Bekreft"
+    }
+  }
+}

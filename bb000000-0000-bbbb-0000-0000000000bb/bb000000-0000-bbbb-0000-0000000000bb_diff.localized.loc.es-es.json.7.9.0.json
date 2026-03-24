@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "El enlace que ha utilizado no es válido."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Escribir propiedades de metadatos gestionados",
+          "Category": "Integración",
+          "Description": "Permite que la aplicación lea, cree, actualice y elimine metadatos gestionados y lea información básica del sitio en nombre del usuario conectado.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "Imagen GPT",
+        "FeatureTitle": "Imagen GPT",
+        "FeatureDescription": "Active esta función para añadir la generación de Imagen GPT al selector de medios.",
+        "DowloadImageFailed": "Error al descargar la imagen",
+        "PhotoBy": "Foto por",
+        "PhotosProviderBy": "Fotos proporcionadas por",
+        "MaxInputLength": 1000,
+        "Generate": "Generar",
+        "SelectSizePicture": "Tamaño de la imagen",
+        "Download": "Descargar",
+        "GenerateNewImage": "Generar nueva imagen",
+        "ErrorMessage": "La tarea falló debido a un error. Por favor, revise su configuración e inténtelo de nuevo.",
+        "ImageName": "imagen",
+        "PromptHeader": "Consejo: Estructura del prompt",
+        "PromptContent": "Los prompts pueden estar compuestos por cualquier palabra, pero considere cómo explicaría una imagen a alguien. La forma \"sujeto + adjetivos + estilos\" suele funcionar bien.",
+        "PromptExample": "Describa la imagen que desea crear. Por ejemplo: \"acuarela del skyline de Seattle\"",
+        "Label": "Prompt",
+        "ImageStyle": "Estilo de imagen"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Personalizado",
+            "CropRatios": "Proporciones de recorte"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Por favor, haga clic en el botón de abajo para proceder con su confirmación",
+      "ConfirmButton": "Confirmar"
+    }
+  }
+}

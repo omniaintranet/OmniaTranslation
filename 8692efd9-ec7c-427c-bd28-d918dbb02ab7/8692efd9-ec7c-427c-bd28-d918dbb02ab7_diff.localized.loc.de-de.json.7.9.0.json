@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Hinzufügen oder Aktualisieren",
+          "Delete": "Löschen",
+          "AutomaticPageTranslationFinished": "Variationsseitenübersetzung"
+        },
+        "SortByItemDate": "Elementdatum (Feed eingebaut)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Nicht gestartet",
+            "InProgress": "In Bearbeitung",
+            "Completed": "Abgeschlossen"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Geschäftsprofil",
+          "BusinessProfileHint": "Geschäftsprofil für die erneute Synchronisierung der Benutzer auswählen",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Sind Sie sicher, dass Sie die erneute Synchronisierung der Benutzer erneut versuchen möchten?",
+            "MessageResyncAllUsersWithTotalNumber": "Möchten Sie wirklich alle Benutzer in diesem Tenant erneut synchronisieren? Dies wird {noUsers} Benutzer synchronisieren und einige Zeit in Anspruch nehmen.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Möchten Sie wirklich Benutzer mit ausgewählten Typen erneut synchronisieren? Dies wird {noUsers} Benutzer synchronisieren und einige Zeit in Anspruch nehmen.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Sind Sie sicher, dass Sie die erneute Synchronisierung von {noUsers} Benutzern erneut versuchen möchten? Dies wird einige Zeit in Anspruch nehmen."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist-Ereignisfilter",
+          "EnableEventsFilter": "Ereignisfilter aktivieren",
+          "Radio": {
+            "Hint": "Zwischen Whitelist-Modus und Blacklist-Modus wechseln",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Geschäftsprofil",
+            "PublishingApp": "Veröffentlichungs-App",
+            "PageCollection": "Seitensammlung",
+            "BusinessProfileInputLabel": "Geschäftsprofile",
+            "PublishingAppInputLabel": "Veröffentlichungs-Apps"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Ankündigung"
+        }
+      }
+    }
+  }
+}

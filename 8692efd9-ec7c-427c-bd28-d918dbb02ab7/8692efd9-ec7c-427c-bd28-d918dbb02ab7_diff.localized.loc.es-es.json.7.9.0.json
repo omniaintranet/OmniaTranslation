@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Agregar o Actualizar",
+          "Delete": "Eliminar",
+          "AutomaticPageTranslationFinished": "Traducción de página de variación"
+        },
+        "SortByItemDate": "Fecha del elemento (integrado en Feed)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "No iniciado",
+            "InProgress": "En progreso",
+            "Completed": "Completado"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Perfil empresarial",
+          "BusinessProfileHint": "Seleccione el perfil empresarial para resincronizar usuarios",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "¿Está seguro de que desea reintentar la resincronización de usuarios?",
+            "MessageResyncAllUsersWithTotalNumber": "¿Realmente desea resincronizar todos los usuarios en este tenant? Esto resincronizará {noUsers} usuarios y tardará un tiempo en completarse.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "¿Realmente desea resincronizar usuarios con tipos seleccionados? Esto resincronizará {noUsers} usuarios y tardará un tiempo en completarse.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "¿Está seguro de que desea reintentar la resincronización de {noUsers} usuarios? Esto tardará un tiempo en completarse."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Filtro de eventos en lista blanca",
+          "EnableEventsFilter": "Habilitar filtro de eventos",
+          "Radio": {
+            "Hint": "Cambiar entre modo lista blanca y modo lista negra",
+            "Blacklist": "Lista negra",
+            "Whitelist": "Lista blanca"
+          },
+          "FilterMode": {
+            "Label": "Modo de filtro",
+            "BusinessProfile": "Perfil empresarial",
+            "PublishingApp": "Aplicación de publicación",
+            "PageCollection": "Colección de páginas",
+            "BusinessProfileInputLabel": "Perfiles empresariales",
+            "PublishingAppInputLabel": "Aplicaciones de publicación"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Anuncio"
+        }
+      }
+    }
+  }
+}

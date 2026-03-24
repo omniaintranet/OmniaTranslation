@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "De link die u hebt gebruikt is niet geldig."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Beheer beheerde metadata-eigenschappen",
+          "Category": "Integratie",
+          "Description": "Staat de app toe om beheerde metadata te lezen, aan te maken, bij te werken en te verwijderen en om basis site-informatie te lezen namens de ingelogde gebruiker.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Activeer deze functie om GPT Image genereren toe te voegen aan de mediakeuze.",
+        "DowloadImageFailed": "Afbeelding downloaden mislukt",
+        "PhotoBy": "Foto door",
+        "PhotosProviderBy": "Foto's geleverd door",
+        "MaxInputLength": 1000,
+        "Generate": "Genereren",
+        "SelectSizePicture": "Afmeting van de afbeelding",
+        "Download": "Downloaden",
+        "GenerateNewImage": "Nieuwe afbeelding genereren",
+        "ErrorMessage": "De taak is mislukt door een fout. Controleer uw configuratie en probeer het opnieuw.",
+        "ImageName": "afbeelding",
+        "PromptHeader": "Tip: Promptstructuur",
+        "PromptContent": "Prompts kunnen uit willekeurige woorden bestaan, maar bedenk hoe u een afbeelding aan iemand zou uitleggen. De vorm \"onderwerp + bijvoeglijke naamwoorden + stijlen\" werkt meestal goed.",
+        "PromptExample": "Beschrijf de afbeelding die u wilt maken. Bijvoorbeeld: \"aquarel schilderij van de skyline van Seattle\"",
+        "Label": "Prompt",
+        "ImageStyle": "Afbeeldingsstijl"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Aangepast",
+            "CropRatios": "Bijsnijdverhoudingen"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Klik op de onderstaande knop om door te gaan met uw bevestiging",
+      "ConfirmButton": "Bevestigen"
+    }
+  }
+}

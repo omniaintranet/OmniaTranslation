@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Excel-Datei wird erstellt...",
+          "ErrorWhenFileExporting": "Beim Exportieren ist ein Fehler aufgetreten."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Dieser Block wurde im Schreibmodus bearbeitet. Das Speichern Ihrer aktuellen Änderungen ersetzt die Version im Schreibmodus."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Seite {{id}} wurde gelöscht."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Kanal im Beitrag automatisch erwähnen"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Kodierung",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mein Kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange-Kalenderintegration",
+        "Category": "SharePoint-Server",
+        "Description": "Ermöglicht die Integration mit Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook-Kalenderdienstkonto",
+        "ExchangeServerUrl": "Exchange-Webserver-URL",
+        "Password": "Passwort",
+        "UserName": "Benutzername"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Zur Seite gehen",
+        "GoToPageText": "Text für 'Zur Seite gehen'",
+        "GoToPageColor": "Textfarbe für 'Zur Seite gehen'",
+        "GoToPageBackgroundColor": "Schaltflächenfarbe für 'Zur Seite gehen'"
+      }
+    }
+  }
+}

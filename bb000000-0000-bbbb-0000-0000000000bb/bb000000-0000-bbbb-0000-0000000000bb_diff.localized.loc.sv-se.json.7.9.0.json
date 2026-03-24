@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Länken du har använt är inte giltig."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Skriv hanterade metadataegenskaper",
+          "Category": "Integration",
+          "Description": "Tillåter appen att läsa, skapa, uppdatera och ta bort hanterade metadata samt att läsa grundläggande webbplatsinformation för den inloggade användarens räkning.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Aktivera denna funktion för att lägga till GPT Image-generering i mediaväljaren.",
+        "DowloadImageFailed": "Nedladdning av bild misslyckades",
+        "PhotoBy": "Foto av",
+        "PhotosProviderBy": "Bilder tillhandahålls av",
+        "MaxInputLength": 1000,
+        "Generate": "Generera",
+        "SelectSizePicture": "Bildstorlek",
+        "Download": "Ladda ner",
+        "GenerateNewImage": "Generera ny bild",
+        "ErrorMessage": "Uppgiften misslyckades. Kontrollera din konfiguration och försök igen.",
+        "ImageName": "bild",
+        "PromptHeader": "Tips: Promptstruktur",
+        "PromptContent": "Prompter kan bestå av vilka ord som helst, men tänk på hur du skulle förklara en bild för någon. Formen \"ämne + adjektiv + stilar\" fungerar ofta bra.",
+        "PromptExample": "Beskriv bilden du vill skapa. Till exempel: \"akvarellmålning av Seattle skyline\"",
+        "Label": "Prompt",
+        "ImageStyle": "Bildstil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Anpassad",
+            "CropRatios": "Beskärningsförhållanden"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Klicka på knappen nedan för att fortsätta med din bekräftelse",
+      "ConfirmButton": "Bekräfta"
+    }
+  }
+}

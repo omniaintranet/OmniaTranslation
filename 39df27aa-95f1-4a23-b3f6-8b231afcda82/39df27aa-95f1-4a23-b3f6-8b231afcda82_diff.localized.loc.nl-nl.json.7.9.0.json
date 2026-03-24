@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Dit bedrijfsprofiel kan niet worden verwijderd omdat het actieve app-instanties heeft."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Moet beginnen met een letter of underscore en mag alleen letters, cijfers en underscores bevatten."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Naam van implementatie"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Vooraf gedefinieerde prompts",
+      "DefaultPrompt": "Standaard prompt",
+      "TitleSetting": "Titel",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Instellen als standaard prompt",
+      "ReminderText": "Voeg een actie toe en vergeet niet de token op te nemen: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT Image vooraf gedefinieerde prompts",
+        "Detail": {
+          "ErrorMessage": "Dit veld is verplicht en moet de token bevatten: ",
+          "ExampleText": " in aquarel stijl",
+          "Example": "Voorbeeld: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Vooraf gedefinieerde prompt verwijderen",
+        "Message": "Weet u zeker dat u de vooraf gedefinieerde prompt wilt verwijderen?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standaard",
+      "DefaultProvider": {
+        "SenderName": "Naam afzender",
+        "EmailName": "Naam e-mail",
+        "DefaultValueIfEmpty": "Standaardwaarde als leeg"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Naam afzender",
+        "EmailAddress": "E-mailadres",
+        "APIKey": "API-sleutel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-functies: GPT Image",
+      "ApiKey": "API-sleutel",
+      "ApiBaseUrl": "API basis-URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Titel publicatie-app"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "OPMERKING: Als u een sjabloon kiest van een ander bedrijfsprofiel, wordt deze app-instantie verplaatst naar dat bedrijfsprofiel."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activeer functie Schrijf beheerde metadata-eigenschappen"
+          }
+        }
+      }
+    }
+  }
+}

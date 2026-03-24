@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Dieses Unternehmensprofil kann nicht gelöscht werden, da es aktive App-Instanzen enthält."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Muss mit einem Buchstaben oder Unterstrich beginnen und darf nur Buchstaben, Zahlen und Unterstriche enthalten."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Bereitstellungsname"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Vordefinierte Eingabeaufforderungen",
+      "DefaultPrompt": "Standard-Eingabeaufforderung",
+      "TitleSetting": "Titel",
+      "Prompt": "Eingabeaufforderung",
+      "SetAsDefaultPrompt": "Als Standard-Eingabeaufforderung festlegen",
+      "ReminderText": "Fügen Sie eine Aktion hinzu und denken Sie daran, das Token einzuschließen: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "Vordefinierte GPT Image Eingabeaufforderungen",
+        "Detail": {
+          "ErrorMessage": "Dieses Feld ist erforderlich und muss das Token enthalten: ",
+          "ExampleText": " im Aquarellstil",
+          "Example": "Beispiel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Vordefinierte Eingabeaufforderung löschen",
+        "Message": "Sind Sie sicher, dass Sie die vordefinierte Eingabeaufforderung löschen möchten?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Default",
+      "DefaultProvider": {
+        "SenderName": "Absendername",
+        "EmailName": "E-Mail-Name",
+        "DefaultValueIfEmpty": "Standardwert, wenn leer"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Absendername",
+        "EmailAddress": "E-Mail-Adresse",
+        "APIKey": "API-Schlüssel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "KI-Funktionen: GPT Image",
+      "ApiKey": "API Key",
+      "ApiBaseUrl": "API Basis-URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Titel der Publishing-App"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "HINWEIS: Wenn Sie eine Vorlage aus einem anderen Unternehmensprofil auswählen, wird diese App-Instanz in dieses Unternehmensprofil verschoben."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Funktion Schreiben verwalteter Metadaten-Eigenschaften aktivieren"
+          }
+        }
+      }
+    }
+  }
+}
