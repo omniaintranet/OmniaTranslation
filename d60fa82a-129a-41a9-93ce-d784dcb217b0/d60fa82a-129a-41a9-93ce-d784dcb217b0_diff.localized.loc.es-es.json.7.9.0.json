@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Generando archivo Excel...",
+          "ErrorWhenFileExporting": "Se produjo un error al exportar."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Este bloque fue modificado en modo de escritura. Guardar los cambios actuales reemplazará la versión en modo de escritura."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "La página {{id}} ha sido eliminada."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Mencionar automáticamente el canal en la publicación"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Codificación",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mi calendario"
+        }
+      },
+      "Feature": {
+        "Title": "Integración con calendario Exchange",
+        "Category": "Servidor SharePoint",
+        "Description": "Habilitar la posibilidad de integrarse con Exchange Server"
+      },
+      "Admin": {
+        "Title": "Cuenta de servicio del calendario Outlook",
+        "ExchangeServerUrl": "URL del servidor web Exchange",
+        "Password": "Contraseña",
+        "UserName": "Nombre de usuario"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Ir a la página",
+        "GoToPageText": "Texto del ir a la página",
+        "GoToPageColor": "Color del texto del ir a la página",
+        "GoToPageBackgroundColor": "Color del botón ir a la página"
+      }
+    }
+  }
+}
