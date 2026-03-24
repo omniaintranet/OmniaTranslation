@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Genererer Excel-fil...",
+          "ErrorWhenFileExporting": "Det oppstod en feil under eksport."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Denne blokken ble endret i skrive-modus. Å lagre dine nåværende endringer vil erstatte versjonen i skrive-modus."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Side {{id}} har blitt slettet."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Nevn kanalen automatisk i innlegget"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Koding",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Min kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange-kalenderintegrasjon",
+        "Category": "SharePoint-server",
+        "Description": "Aktiver mulighet for integrasjon med Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook-kalendertjenestekonto",
+        "ExchangeServerUrl": "Exchange webserver-URL",
+        "Password": "Passord",
+        "UserName": "Brukernavn"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gå til side",
+        "GoToPageText": "Tekst for gå til side",
+        "GoToPageColor": "Farge på tekst for gå til side",
+        "GoToPageBackgroundColor": "Farge på knapp for gå til side"
+      }
+    }
+  }
+}
