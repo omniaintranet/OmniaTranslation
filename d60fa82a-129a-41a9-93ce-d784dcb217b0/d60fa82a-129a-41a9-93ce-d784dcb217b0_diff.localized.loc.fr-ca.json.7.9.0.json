@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Génération du fichier Excel...",
+          "ErrorWhenFileExporting": "Une erreur est survenue lors de l’exportation."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Ce bloc a été modifié en mode écriture. Enregistrer vos modifications actuelles remplacera la version en mode écriture."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "La page {{id}} a été supprimée."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Mentionner automatiquement le canal dans la publication"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Encodage",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mon calendrier"
+        }
+      },
+      "Feature": {
+        "Title": "Intégration du calendrier Exchange",
+        "Category": "Serveur SharePoint",
+        "Description": "Permettre l’intégration avec Exchange Server"
+      },
+      "Admin": {
+        "Title": "Compte de service du calendrier Outlook",
+        "ExchangeServerUrl": "URL du serveur web Exchange",
+        "Password": "Mot de passe",
+        "UserName": "Nom d’utilisateur"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Aller à la page",
+        "GoToPageText": "Texte du lien vers la page",
+        "GoToPageColor": "Couleur du texte du lien vers la page",
+        "GoToPageBackgroundColor": "Couleur du bouton du lien vers la page"
+      }
+    }
+  }
+}
