@@ -15,7 +15,7 @@
       "GptImageProvider": {
         "Title": "GPT Image",
         "FeatureTitle": "GPT Image",
-        "FeatureDescription": "Activate this feature to add GPT Image generate to the media picker",
+        "FeatureDescription": "Activate this feature to add GPT Image generate to the media picker.",
         "DowloadImageFailed": "Download image failed",
         "PhotoBy": "Photo by",
         "PhotosProviderBy": "Photos provided by",
@@ -27,22 +27,22 @@
         "ErrorMessage": "The task failed due to an error. Please check your configuration and try again.",
         "ImageName": "image",
         "PromptHeader": "Tip: Prompt structure",
-        "PromptContent": "Prompts can be composed of any words, but think about how you might explain an image to someone. The form of \"subject + adjectives + styles\" tends to work well.",
+        "PromptContent": "Prompts can be composed of any words, but consider how you may explain an image to someone. The form \"subject + adjectives + styles\" tends to work well.",
         "PromptExample": "Describe the image you want to create. For example: \"watercolor painting of the Seattle skyline\"",
         "Label": "Prompt",
-        "ImageStyle": "Image Style"
+        "ImageStyle": "Image style"
       },
       "RichTextEditor": {
         "ExtensionSettings": {
           "MediaPicker": {
             "CustomRatio": "Custom",
-            "CropRatios": "Crop Ratios"
+            "CropRatios": "Crop ratios"
           }
         }
       }
     },
     "AuthSetup": {
-      "ConfirmMessage": "Please click the button below to proceed your confirmation",
+      "ConfirmMessage": "Please click the button below to proceed with your confirmation",
       "ConfirmButton": "Confirm"
     }
   }
