@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Lägg till eller uppdatera",
+          "Delete": "Ta bort",
+          "AutomaticPageTranslationFinished": "Variation sidöversättning"
+        },
+        "SortByItemDate": "Objektsdatum (Feed inbyggd)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ej påbörjad",
+            "InProgress": "Pågår",
+            "Completed": "Slutförd"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Företagsprofil",
+          "BusinessProfileHint": "Välj företagsprofil för att synkronisera användare igen",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Är du säker på att du vill försöka synkronisera användare igen?",
+            "MessageResyncAllUsersWithTotalNumber": "Vill du verkligen synkronisera alla användare i denna Tenant? Detta kommer att synkronisera {noUsers} användare och ta lite tid att slutföra.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vill du verkligen synkronisera användare med valda typer? Detta kommer att synkronisera {noUsers} användare och ta lite tid att slutföra.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Är du säker på att du vill försöka synkronisera {noUsers} användare igen? Detta kommer att ta lite tid att slutföra."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Vitlistningsfilter för händelser",
+          "EnableEventsFilter": "Aktivera händelsefilter",
+          "Radio": {
+            "Hint": "Växla mellan vitlistningsläge och svartlistningsläge",
+            "Blacklist": "Svartlista",
+            "Whitelist": "Vitlista"
+          },
+          "FilterMode": {
+            "Label": "Filterläge",
+            "BusinessProfile": "Företagsprofil",
+            "PublishingApp": "Publiceringsapp",
+            "PageCollection": "Sidsamling",
+            "BusinessProfileInputLabel": "Företagsprofiler",
+            "PublishingAppInputLabel": "Publiceringsappar"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Meddelande"
+        }
+      }
+    }
+  }
+}
