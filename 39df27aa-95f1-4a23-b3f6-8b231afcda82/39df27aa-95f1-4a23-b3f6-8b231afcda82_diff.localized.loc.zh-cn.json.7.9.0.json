@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "此业务配置文件无法删除，因为它有活动的应用实例。"
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "必须以字母或下划线开头，并且仅包含字母、数字和下划线。"
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT 图像",
+          "DeploymentName": "部署名称"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT 图像",
+      "PredefinedPrompts": "预定义提示",
+      "DefaultPrompt": "默认提示",
+      "TitleSetting": "标题",
+      "Prompt": "提示",
+      "SetAsDefaultPrompt": "设为默认提示",
+      "ReminderText": "添加操作并记得包含令牌：",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT 图像预定义提示",
+        "Detail": {
+          "ErrorMessage": "此字段为必填，且必须包含令牌：",
+          "ExampleText": " 水彩风格",
+          "Example": "示例："
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "删除预定义提示",
+        "Message": "您确定要删除预定义提示吗？"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "默认",
+      "DefaultProvider": {
+        "SenderName": "发件人名称",
+        "EmailName": "电子邮件名称",
+        "DefaultValueIfEmpty": "为空时的默认值"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "发件人名称",
+        "EmailAddress": "电子邮件地址",
+        "APIKey": "API 密钥"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI 功能：GPT 图像",
+      "ApiKey": "API 密钥",
+      "ApiBaseUrl": "API 基础 URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "发布应用标题"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "注意：如果您选择来自其他业务配置文件的模板，此应用实例将移至该业务配置文件。"
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "激活功能 写入托管元数据属性"
+          }
+        }
+      }
+    }
+  }
+}
