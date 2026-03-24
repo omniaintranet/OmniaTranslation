@@ -1,29 +1,29 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "Denna företagsprofil kan inte raderas eftersom den har aktiva appinstanser."
+      "ValidateBusinessProfileAppInstanceExists": "Denna verksamhetsprofil kan inte raderas eftersom den har aktiva appinstanser."
     },
     "EnterpriseProperties": {
-      "InternalNameInvalidFormatMessage": "Måste börja med en bokstav eller understreck och endast innehålla bokstäver, siffror och understreck."
+      "InternalNameInvalidFormatMessage": "Måste börja med en bokstav eller ett understreck och endast innehålla bokstäver, siffror och understreck."
     },
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
           "Title": "GPT Image",
-          "DeploymentName": "Deploymentsnamn"
+          "DeploymentName": "Namn på deployment"
         }
       }
     },
     "GptImageSettings": {
       "Title": "GPT Image",
-      "PredefinedPrompts": "Fördefinierade uppmaningar",
-      "DefaultPrompt": "Standarduppmaning",
+      "PredefinedPrompts": "Fördefinierade prompter",
+      "DefaultPrompt": "Standardprompt",
       "TitleSetting": "Titel",
-      "Prompt": "Uppmaning",
-      "SetAsDefaultPrompt": "Ange som standarduppmaning",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Ange som standardprompt",
       "ReminderText": "Lägg till en åtgärd och kom ihåg att inkludera token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT Image fördefinierade uppmaningar",
+        "BladeTitle": "GPT Image fördefinierade prompter",
         "Detail": {
           "ErrorMessage": "Detta fält är obligatoriskt och måste innehålla token: ",
           "ExampleText": " i akvarellstil",
@@ -31,8 +31,8 @@
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Ta bort fördefinierad uppmaning",
-        "Message": "Är du säker på att du vill ta bort den fördefinierade uppmaningen?"
+        "Title": "Ta bort fördefinierad prompt",
+        "Message": "Är du säker på att du vill ta bort den fördefinierade prompter?"
       }
     },
     "CustomEmailSettings": {
@@ -66,7 +66,7 @@
   "OmniaTeamCollaboration": {
     "TeamCollaborationSettingsLocalization": {
       "ChangeTemplateBlade": {
-        "Message": "OBS: Om du väljer en mall från en annan företagsprofil kommer denna appinstans att flyttas till den företagsprofilen."
+        "Message": "OBS: Om du väljer en mall från en annan verksamhetsprofil kommer denna appinstans att flyttas till den verksamhetsprofilen."
       }
     }
   },
