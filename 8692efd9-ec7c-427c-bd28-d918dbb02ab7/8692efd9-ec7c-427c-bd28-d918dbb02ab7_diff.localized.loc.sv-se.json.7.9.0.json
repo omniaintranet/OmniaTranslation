@@ -5,9 +5,9 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Lägg till eller uppdatera",
           "Delete": "Ta bort",
-          "AutomaticPageTranslationFinished": "Variation sidöversättning"
+          "AutomaticPageTranslationFinished": "Översättning av variationsida"
         },
-        "SortByItemDate": "Objektsdatum (Feed inbyggd)",
+        "SortByItemDate": "Objektdatum (Feed inbyggd)",
         "SignOffRequest": {
           "Progress": {
             "NotStarted": "Ej påbörjad",
@@ -16,13 +16,13 @@
           }
         },
         "ResyncUsers": {
-          "BusinessProfileLabel": "Företagsprofil",
-          "BusinessProfileHint": "Välj företagsprofil för att synkronisera användare igen",
+          "BusinessProfileLabel": "Verksamhetsprofil",
+          "BusinessProfileHint": "Välj verksamhetsprofil för att synkronisera användare på nytt",
           "Dialog": {
-            "MessageRetryResyncAllUsers": "Är du säker på att du vill försöka synkronisera användare igen?",
+            "MessageRetryResyncAllUsers": "Är du säker på att du vill synkronisera användare på nytt?",
             "MessageResyncAllUsersWithTotalNumber": "Vill du verkligen synkronisera alla användare i denna Tenant? Detta kommer att synkronisera {noUsers} användare och ta lite tid att slutföra.",
             "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vill du verkligen synkronisera användare med valda typer? Detta kommer att synkronisera {noUsers} användare och ta lite tid att slutföra.",
-            "MessageRetryResyncingAllUsersWithTotalNumber": "Är du säker på att du vill försöka synkronisera {noUsers} användare igen? Detta kommer att ta lite tid att slutföra."
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Är du säker på att du vill försöka synkronisera {noUsers} användare på nytt? Detta kommer att ta lite tid att slutföra."
           }
         },
         "EventsFilter": {
@@ -35,10 +35,10 @@
           },
           "FilterMode": {
             "Label": "Filterläge",
-            "BusinessProfile": "Företagsprofil",
+            "BusinessProfile": "Verksamhetsprofil",
             "PublishingApp": "Publiceringsapp",
             "PageCollection": "Sidsamling",
-            "BusinessProfileInputLabel": "Företagsprofiler",
+            "BusinessProfileInputLabel": "Verksamhetsprofiler",
             "PublishingAppInputLabel": "Publiceringsappar"
           }
         }
