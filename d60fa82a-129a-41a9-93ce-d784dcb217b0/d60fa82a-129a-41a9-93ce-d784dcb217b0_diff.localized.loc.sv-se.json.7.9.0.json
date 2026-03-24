@@ -3,14 +3,14 @@
     "AnalyticsReport": {
       "Views": {
         "TableView": {
-          "FileExporting": "Genererar Excel-fil...",
+          "FileExporting": "Skapar Excel-fil...",
           "ErrorWhenFileExporting": "Ett fel uppstod vid export."
         }
       }
     },
     "HtmlScriptBlock": {
       "Settings": {
-        "ModifiedInWriteModeWarningMessage": "Detta block har ändrats i skrivläge. Att spara dina nuvarande ändringar kommer att ersätta versionen i skrivläge."
+        "ModifiedInWriteModeWarningMessage": "Detta block har ändrats i skrivläge. Om du sparar dina ändringar kommer de att ersätta versionen i skrivläge."
       }
     },
     "Editor": {
@@ -53,13 +53,13 @@
         }
       },
       "Feature": {
-        "Title": "Exchange-kalenderintegration",
-        "Category": "SharePoint-server",
+        "Title": "Exchange kalenderintegration",
+        "Category": "SharePoint Server",
         "Description": "Aktivera möjlighet att integrera med Exchange Server"
       },
       "Admin": {
-        "Title": "Outlook-kalendertjänstkonto",
-        "ExchangeServerUrl": "Exchange webbserver-URL",
+        "Title": "Outlook kalendertjänstkonto",
+        "ExchangeServerUrl": "Exchange webbserver URL",
         "Password": "Lösenord",
         "UserName": "Användarnamn"
       }
@@ -68,8 +68,8 @@
       "Settings": {
         "GoToPage": "Gå till sida",
         "GoToPageText": "Text för gå till sida",
-        "GoToPageColor": "Färg för texten gå till sida",
-        "GoToPageBackgroundColor": "Färg för knappen gå till sida"
+        "GoToPageColor": "Färg för texten Gå till sida",
+        "GoToPageBackgroundColor": "Färg för knappen Gå till sida"
       }
     }
   }
