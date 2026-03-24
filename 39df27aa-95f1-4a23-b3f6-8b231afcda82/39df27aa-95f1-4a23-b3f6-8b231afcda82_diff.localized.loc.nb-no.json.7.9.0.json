@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Denne bedriftsprofilen kan ikke slettes fordi den har aktive app-instans."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Må starte med en bokstav eller understrek og kun inneholde bokstaver, tall og understreker."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Distribusjonsnavn"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Forhåndsdefinerte tilordninger",
+      "DefaultPrompt": "Standard tilordning",
+      "TitleSetting": "Tittel",
+      "Prompt": "Tilordning",
+      "SetAsDefaultPrompt": "Sett som standard tilordning",
+      "ReminderText": "Legg til en handling og husk å inkludere token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT Image forhåndsdefinerte tilordninger",
+        "Detail": {
+          "ErrorMessage": "Dette feltet er påkrevd og må inneholde token: ",
+          "ExampleText": " i akvarellstil",
+          "Example": "Eksempel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Slett forhåndsdefinert tilordning",
+        "Message": "Er du sikker på at du vil slette den forhåndsdefinerte tilordningen?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standard",
+      "DefaultProvider": {
+        "SenderName": "Avsenders navn",
+        "EmailName": "E-postnavn",
+        "DefaultValueIfEmpty": "Standardverdi hvis tom"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Avsenders navn",
+        "EmailAddress": "E-postadresse",
+        "APIKey": "API-nøkkel"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-funksjoner: GPT Image",
+      "ApiKey": "API-nøkkel",
+      "ApiBaseUrl": "API-bas URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Publiseringsapp-tittel"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "MERK: Hvis du velger en mal fra en annen bedriftsprofil, vil denne app-instansen flyttes til den bedriftsprofilen."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Aktiver funksjonen Skriv administrerte metadataegenskaper"
+          }
+        }
+      }
+    }
+  }
+}
