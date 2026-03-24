@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "Denne virksomhedsprofil kan ikke slettes, da den har aktive App-instanser."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Skal starte med et bogstav eller understregning og kun indeholde bogstaver, tal og understregninger."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Deploymentsnavn"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Foruddefinerede prompts",
+      "DefaultPrompt": "Standard prompt",
+      "TitleSetting": "Titel",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Indstil som standard prompt",
+      "ReminderText": "Tilføj en handling og husk at inkludere token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT Image foruddefinerede prompts",
+        "Detail": {
+          "ErrorMessage": "Dette felt er påkrævet og skal indeholde token: ",
+          "ExampleText": " i akvarelstil",
+          "Example": "Eksempel: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Slet foruddefineret prompt",
+        "Message": "Er du sikker på, at du vil slette den foruddefinerede prompt?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Standard",
+      "DefaultProvider": {
+        "SenderName": "Afsendernavn",
+        "EmailName": "Emailnavn",
+        "DefaultValueIfEmpty": "Standardværdi hvis tom"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Afsendernavn",
+        "EmailAddress": "Emailadresse",
+        "APIKey": "API-nøgle"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI-funktioner: GPT Image",
+      "ApiKey": "API-nøgle",
+      "ApiBaseUrl": "API base-URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Titel på publiceringsapp"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "BEMÆRK: Hvis du vælger en skabelon fra en anden virksomhedsprofil, flyttes denne app-instans til den virksomhedsprofil."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Aktivér funktionen Skriv tilknytning til managed metadata-egenskaber"
+          }
+        }
+      }
+    }
+  }
+}
