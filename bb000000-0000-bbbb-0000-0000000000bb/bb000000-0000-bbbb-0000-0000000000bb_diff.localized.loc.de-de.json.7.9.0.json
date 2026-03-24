@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Der von Ihnen verwendete Link ist ungültig."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Verwaltete Metadaten-Eigenschaften schreiben",
+          "Category": "Integration",
+          "Description": "Ermöglicht der App, verwaltete Metadaten zu lesen, zu erstellen, zu aktualisieren und zu löschen sowie grundlegende Websiteinformationen im Namen des angemeldeten Benutzers zu lesen.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Aktivieren Sie diese Funktion, um die GPT Image-Generierung zum Medienauswahlwerkzeug hinzuzufügen.",
+        "DowloadImageFailed": "Bild herunterladen fehlgeschlagen",
+        "PhotoBy": "Foto von",
+        "PhotosProviderBy": "Fotos bereitgestellt von",
+        "MaxInputLength": 1000,
+        "Generate": "Generieren",
+        "SelectSizePicture": "Bildgröße",
+        "Download": "Herunterladen",
+        "GenerateNewImage": "Neues Bild generieren",
+        "ErrorMessage": "Die Aufgabe ist aufgrund eines Fehlers fehlgeschlagen. Bitte überprüfen Sie Ihre Konfiguration und versuchen Sie es erneut.",
+        "ImageName": "image",
+        "PromptHeader": "Tipp: Prompt-Struktur",
+        "PromptContent": "Prompts können aus beliebigen Wörtern bestehen, aber überlegen Sie, wie Sie jemandem ein Bild beschreiben würden. Die Form „Subjekt + Adjektive + Stile“ funktioniert meist gut.",
+        "PromptExample": "Beschreiben Sie das Bild, das Sie erstellen möchten. Zum Beispiel: „Aquarellgemälde der Skyline von Seattle“",
+        "Label": "Prompt",
+        "ImageStyle": "Bildstil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Benutzerdefiniert",
+            "CropRatios": "Zuschneideverhältnisse"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Bitte klicken Sie auf die Schaltfläche unten, um Ihre Bestätigung fortzusetzen",
+      "ConfirmButton": "Bestätigen"
+    }
+  }
+}
