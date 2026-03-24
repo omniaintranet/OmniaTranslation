@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Legg til eller oppdater",
+          "Delete": "Slett",
+          "AutomaticPageTranslationFinished": "Variasjonssideoversettelse"
+        },
+        "SortByItemDate": "Elementdato (Feed innebygd)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Ikke startet",
+            "InProgress": "Pågår",
+            "Completed": "Fullført"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Forretningsprofil",
+          "BusinessProfileHint": "Velg forretningsprofil for å synkronisere brukere på nytt",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Er du sikker på at du vil prøve å synkronisere brukere på nytt?",
+            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig synkronisere alle brukere i denne tenant? Dette vil synkronisere {noUsers} brukere og ta litt tid å fullføre.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig synkronisere brukere med valgte typer? Dette vil synkronisere {noUsers} brukere og ta litt tid å fullføre.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du sikker på at du vil prøve å synkronisere {noUsers} brukere på nytt? Dette vil ta litt tid å fullføre."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Hvitlist hendelsesfilter",
+          "EnableEventsFilter": "Aktiver hendelsesfilter",
+          "Radio": {
+            "Hint": "Bytt mellom hvitlistemodus og svartlistemodus",
+            "Blacklist": "Svartliste",
+            "Whitelist": "Hvitliste"
+          },
+          "FilterMode": {
+            "Label": "Filtermodus",
+            "BusinessProfile": "Forretningsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidesamling",
+            "BusinessProfileInputLabel": "Forretningsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapper"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Kunngjøring"
+        }
+      }
+    }
+  }
+}
