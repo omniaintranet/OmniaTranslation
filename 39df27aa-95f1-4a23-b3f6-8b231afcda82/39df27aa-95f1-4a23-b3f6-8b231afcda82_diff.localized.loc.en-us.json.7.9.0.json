@@ -1,23 +1,23 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it has non-deleted App instances."
+      "ValidateBusinessProfileAppInstanceExists": "This business profile can not be deleted as it has active App instances."
     },
     "EnterpriseProperties": {
-      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and contain only letters, numbers, and underscores"
+      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and contain only letters, numbers, and underscores."
     },
     "AIEngineSettings": {
       "GeneralSetting": {
         "GptImageConfig": {
           "Title": "GPT Image",
-          "DeploymentName": "Deployment Name"
+          "DeploymentName": "Deployment name"
         }
       }
     },
     "GptImageSettings": {
       "Title": "GPT Image",
-      "PredefinedPrompts": "Predefined Prompts",
-      "DefaultPrompt": "Default Prompt",
+      "PredefinedPrompts": "Predefined prompts",
+      "DefaultPrompt": "Default prompt",
       "TitleSetting": "Title",
       "Prompt": "Prompt",
       "SetAsDefaultPrompt": "Set as default prompt",
@@ -25,13 +25,13 @@
       "ImproveSelectedText": {
         "BladeTitle": "GPT Image predefined prompts",
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token: ",
+          "ErrorMessage": "This field is required and must contain token: ",
           "ExampleText": " in watercolor style",
           "Example": "Example: "
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Delete Predefined Prompt",
+        "Title": "Delete predefined prompt",
         "Message": "Are you sure you want to delete the predefined prompt?"
       }
     },
@@ -46,7 +46,7 @@
       "SendGridProvider": {
         "SenderName": "Sender name",
         "EmailAddress": "Email address",
-        "APIKey": "API Key"
+        "APIKey": "API key"
       }
     }
   },
@@ -55,11 +55,11 @@
       "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
       "GptImageSecretTitle": "AI Features: GPT Image",
       "ApiKey": "API Key",
-      "ApiBaseUrl": "API Base URL"
+      "ApiBaseUrl": "API base URL"
     },
     "Search": {
       "Admin": {
-        "PublishingAppTitle": "Publishing App Title"
+        "PublishingAppTitle": "Publishing app title"
       }
     }
   },
