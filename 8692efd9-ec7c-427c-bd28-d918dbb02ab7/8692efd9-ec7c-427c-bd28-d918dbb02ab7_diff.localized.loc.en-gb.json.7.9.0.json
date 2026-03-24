@@ -1,0 +1,53 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ServerDetectionModes": {
+          "AddOrUpdate": "Add or Update",
+          "Delete": "Delete",
+          "AutomaticPageTranslationFinished": "Variation page translation"
+        },
+        "SortByItemDate": "Item date (Feed built-in)",
+        "SignOffRequest": {
+          "Progress": {
+            "NotStarted": "Not started",
+            "InProgress": "In progress",
+            "Completed": "Completed"
+          }
+        },
+        "ResyncUsers": {
+          "BusinessProfileLabel": "Business profile",
+          "BusinessProfileHint": "Select business profile for resyncing users",
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Are you sure you want to retry resyncing users?",
+            "MessageResyncAllUsersWithTotalNumber": "Do you really want to resync all users in this tenant? This will resync {noUsers} users and may take some time to complete.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Do you really want to resync users with selected types? This will resync {noUsers} users and may take some time to complete.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Are you sure you want to retry resyncing {noUsers} users? This may take some time to complete."
+          }
+        },
+        "EventsFilter": {
+          "Title": "Whitelist events filter",
+          "EnableEventsFilter": "Enable events filter",
+          "Radio": {
+            "Hint": "Switch between whitelist mode and blacklist mode",
+            "Blacklist": "Blacklist",
+            "Whitelist": "Whitelist"
+          },
+          "FilterMode": {
+            "Label": "Filter mode",
+            "BusinessProfile": "Business profile",
+            "PublishingApp": "Publishing app",
+            "PageCollection": "Page collection",
+            "BusinessProfileInputLabel": "Business profiles",
+            "PublishingAppInputLabel": "Publishing apps"
+          }
+        }
+      },
+      "App": {
+        "Notification": {
+          "AnnouncementSiteTitle": "Announcement"
+        }
+      }
+    }
+  }
+}
