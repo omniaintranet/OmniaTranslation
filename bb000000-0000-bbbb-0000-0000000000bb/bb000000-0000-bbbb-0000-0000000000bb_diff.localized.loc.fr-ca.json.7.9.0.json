@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Le lien que vous avez utilisé n’est pas valide."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Écrire des propriétés de métadonnées gérées",
+          "Category": "Intégration",
+          "Description": "Permet à l’application de lire, créer, mettre à jour et supprimer des métadonnées gérées et de lire les informations de base du site au nom de l’utilisateur connecté.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "Image GPT",
+        "FeatureTitle": "Image GPT",
+        "FeatureDescription": "Activez cette fonctionnalité pour ajouter la génération d’Image GPT au sélecteur de médias.",
+        "DowloadImageFailed": "Échec du téléchargement de l’image",
+        "PhotoBy": "Photo par",
+        "PhotosProviderBy": "Photos fournies par",
+        "MaxInputLength": 1000,
+        "Generate": "Générer",
+        "SelectSizePicture": "Taille de l’image",
+        "Download": "Télécharger",
+        "GenerateNewImage": "Générer une nouvelle image",
+        "ErrorMessage": "La tâche a échoué en raison d’une erreur. Veuillez vérifier votre configuration et réessayer.",
+        "ImageName": "image",
+        "PromptHeader": "Conseil : Structure de la consigne",
+        "PromptContent": "Les consignes peuvent être composées de n’importe quels mots, mais pensez à la façon dont vous expliqueriez une image à quelqu’un. La forme « sujet + adjectifs + styles » fonctionne généralement bien.",
+        "PromptExample": "Décrivez l’image que vous souhaitez créer. Par exemple : « peinture à l’aquarelle de la silhouette de Seattle »",
+        "Label": "Consigne",
+        "ImageStyle": "Style de l’image"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Personnalisé",
+            "CropRatios": "Rapports de recadrage"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Veuillez cliquer sur le bouton ci-dessous pour procéder à votre confirmation",
+      "ConfirmButton": "Confirmer"
+    }
+  }
+}
