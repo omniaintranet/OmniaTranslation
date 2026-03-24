@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Genererar Excel-fil...",
+          "ErrorWhenFileExporting": "Ett fel uppstod vid export."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Detta block har ändrats i skrivläge. Att spara dina nuvarande ändringar kommer att ersätta versionen i skrivläge."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Sida {{id}} har tagits bort."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Nämn automatiskt kanal i inlägg"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Teckenkodning",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Min kalender"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange-kalenderintegration",
+        "Category": "SharePoint-server",
+        "Description": "Aktivera möjlighet att integrera med Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook-kalendertjänstkonto",
+        "ExchangeServerUrl": "Exchange webbserver-URL",
+        "Password": "Lösenord",
+        "UserName": "Användarnamn"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Gå till sida",
+        "GoToPageText": "Text för gå till sida",
+        "GoToPageColor": "Färg för texten gå till sida",
+        "GoToPageBackgroundColor": "Färg för knappen gå till sida"
+      }
+    }
+  }
+}
