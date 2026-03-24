@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "Käyttämäsi linkki ei ole voimassa."
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "Kirjoita hallitut metatietojen ominaisuudet",
+          "Category": "Integraatio",
+          "Description": "Sovellus voi lukea, luoda, päivittää ja poistaa hallittuja metatietoja sekä lukea perussivuston tietoja kirjautuneen käyttäjän puolesta.",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT-kuva",
+        "FeatureTitle": "GPT-kuva",
+        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi GPT-kuvageneraattorin mediavalitsimeen.",
+        "DowloadImageFailed": "Kuvan lataus epäonnistui",
+        "PhotoBy": "Kuvaaja",
+        "PhotosProviderBy": "Kuvat toimittaa",
+        "MaxInputLength": 1000,
+        "Generate": "Luo",
+        "SelectSizePicture": "Kuvan koko",
+        "Download": "Lataa",
+        "GenerateNewImage": "Luo uusi kuva",
+        "ErrorMessage": "Tehtävä epäonnistui virheen vuoksi. Tarkista asetuksesi ja yritä uudelleen.",
+        "ImageName": "kuva",
+        "PromptHeader": "Vinkki: Kehote-rakenne",
+        "PromptContent": "Kehotteet voivat koostua mistä tahansa sanoista, mutta mieti, miten selittäisit kuvaa jollekin. Muoto \"aihe + adjektiivit + tyylit\" toimii yleensä hyvin.",
+        "PromptExample": "Kuvaile luotava kuva. Esimerkiksi: \"vesivärimaalaus Seattlen siluetista\"",
+        "Label": "Kehote",
+        "ImageStyle": "Kuvantyyli"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "Mukautettu",
+            "CropRatios": "Rajauksen kuvasuhteet"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Jatka vahvistustasi napsauttamalla alla olevaa painiketta",
+      "ConfirmButton": "Vahvista"
+    }
+  }
+}
