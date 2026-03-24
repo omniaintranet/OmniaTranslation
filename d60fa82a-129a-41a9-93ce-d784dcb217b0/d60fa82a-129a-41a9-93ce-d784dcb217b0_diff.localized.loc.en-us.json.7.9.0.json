@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Generating Excel file...",
+          "ErrorWhenFileExporting": "An error occurred while exporting."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "This block was modified in write mode. Saving your current changes will replace the write-mode version."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Page {{id}} has been deleted."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Automatically mention channel in post"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Encoding",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "My Calendar"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange calendar integration",
+        "Category": "SharePoint server",
+        "Description": "Enable possibility to integrating with Exchange Server"
+      },
+      "Admin": {
+        "Title": "Outlook calendar service account",
+        "ExchangeServerUrl": "Exchange web server url",
+        "Password": "Password",
+        "UserName": "Username"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Go to page",
+        "GoToPageText": "Go to page text",
+        "GoToPageColor": "Go to page text color",
+        "GoToPageBackgroundColor": "Go to page button color"
+      }
+    }
+  }
+}
