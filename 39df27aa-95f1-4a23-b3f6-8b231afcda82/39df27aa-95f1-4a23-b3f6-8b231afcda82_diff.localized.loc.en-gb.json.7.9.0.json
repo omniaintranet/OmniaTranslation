@@ -1,0 +1,84 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it has active app instances."
+    },
+    "EnterpriseProperties": {
+      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and contain only letters, numbers, and underscores."
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "GptImageConfig": {
+          "Title": "GPT Image",
+          "DeploymentName": "Deployment name"
+        }
+      }
+    },
+    "GptImageSettings": {
+      "Title": "GPT Image",
+      "PredefinedPrompts": "Predefined prompts",
+      "DefaultPrompt": "Default prompt",
+      "TitleSetting": "Title",
+      "Prompt": "Prompt",
+      "SetAsDefaultPrompt": "Set as default prompt",
+      "ReminderText": "Add an action and remember to include the token: ",
+      "ImproveSelectedText": {
+        "BladeTitle": "GPT Image predefined prompts",
+        "Detail": {
+          "ErrorMessage": "This field is required and must contain token: ",
+          "ExampleText": " in watercolour style",
+          "Example": "Example: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Delete predefined prompt",
+        "Message": "Are you sure you want to delete the predefined prompt?"
+      }
+    },
+    "CustomEmailSettings": {
+      "Default": "Default",
+      "DefaultProvider": {
+        "SenderName": "Sender name",
+        "EmailName": "Email name",
+        "DefaultValueIfEmpty": "Default value if empty"
+      },
+      "SendGrid": "SendGrid",
+      "SendGridProvider": {
+        "SenderName": "Sender name",
+        "EmailAddress": "Email address",
+        "APIKey": "API key"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "GptImage": {
+      "DummyKey": "aaaaaaaa-aaaaa-aaaa-aaaaa-aaaaaaaaaaaaaaaaa",
+      "GptImageSecretTitle": "AI Features: GPT Image",
+      "ApiKey": "API Key",
+      "ApiBaseUrl": "API base URL"
+    },
+    "Search": {
+      "Admin": {
+        "PublishingAppTitle": "Publishing app title"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "Message": "NOTE: If you select a template from another business profile, this app instance will move to that business profile."
+      }
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Features": {
+          "ManagedMetadataProperties": {
+            "Title": "Activate feature Write managed metadata properties"
+          }
+        }
+      }
+    }
+  }
+}
