@@ -1,0 +1,49 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Apps": {
+        "InvalidMagicLinkMessage": "您使用的链接无效。"
+      },
+      "Features": {
+        "ManagedMetadataProperties": {
+          "Title": "编写托管元数据属性",
+          "Category": "集成",
+          "Description": "允许应用代表已登录用户读取、创建、更新和删除托管元数据，并读取基本站点信息。",
+          "ConsentInformation": " "
+        }
+      },
+      "GptImageProvider": {
+        "Title": "GPT 图片",
+        "FeatureTitle": "GPT 图片",
+        "FeatureDescription": "启用此功能以将 GPT 图片生成功能添加到媒体选择器。",
+        "DowloadImageFailed": "下载图片失败",
+        "PhotoBy": "照片作者",
+        "PhotosProviderBy": "照片提供者",
+        "MaxInputLength": 1000,
+        "Generate": "生成",
+        "SelectSizePicture": "图片尺寸",
+        "Download": "下载",
+        "GenerateNewImage": "生成新图片",
+        "ErrorMessage": "任务因错误失败。请检查您的配置并重试。",
+        "ImageName": "图片",
+        "PromptHeader": "提示：提示结构",
+        "PromptContent": "提示可以由任意词语组成，但请考虑如何向他人描述一幅图像。形式“主体 + 形容词 + 风格”通常效果较好。",
+        "PromptExample": "描述您想创建的图像。例如：“西雅图天际线的水彩画”",
+        "Label": "提示",
+        "ImageStyle": "图片风格"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CustomRatio": "自定义",
+            "CropRatios": "裁剪比例"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "请点击下面的按钮以继续确认",
+      "ConfirmButton": "确认"
+    }
+  }
+}
