@@ -24,7 +24,7 @@
         "SelectSizePicture": "Bildstorlek",
         "Download": "Ladda ner",
         "GenerateNewImage": "Generera ny bild",
-        "ErrorMessage": "Uppgiften misslyckades på grund av ett fel. Kontrollera din konfiguration och försök igen.",
+        "ErrorMessage": "Uppgiften misslyckades. Kontrollera din konfiguration och försök igen.",
         "ImageName": "bild",
         "PromptHeader": "Tips: Promptstruktur",
         "PromptContent": "Prompter kan bestå av vilka ord som helst, men tänk på hur du skulle förklara en bild för någon. Formen \"ämne + adjektiv + stilar\" fungerar ofta bra.",
