@@ -1,0 +1,76 @@
+{
+  "WCM": {
+    "AnalyticsReport": {
+      "Views": {
+        "TableView": {
+          "FileExporting": "Luodaan Excel-tiedostoa...",
+          "ErrorWhenFileExporting": "Virhe tiedoston viennissä."
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "Settings": {
+        "ModifiedInWriteModeWarningMessage": "Tätä lohkoa on muokattu kirjoitustilassa. Nykyisten muutosten tallentaminen korvaa kirjoitustilan version."
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "AutomaticPageCreation": {
+            "Messages": {
+              "PageHasBeenDeleted": "Sivu {{id}} on poistettu."
+            }
+          }
+        },
+        "Dialogs": {
+          "DistributionChannel": {
+            "AutomaticallyMentionChannelInPost": "Mainitse kanava automaattisesti julkaisussa"
+          }
+        }
+      }
+    },
+    "RssReader": {
+      "Settings": {
+        "Encoding": {
+          "Title": "Merkistö",
+          "UTF8": "UTF8",
+          "UTF16LE": "UTF-16 (LE)",
+          "UTF16BE": "UTF-16 (BE)",
+          "ISO88591": "ISO-8859-1",
+          "Window1252": "Windows-1252",
+          "Big5": "Big5",
+          "ShiftJIS": "Shift_JIS",
+          "EUCKR": "EUC-KR"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Oma kalenteri"
+        }
+      },
+      "Feature": {
+        "Title": "Exchange-kalenterin integrointi",
+        "Category": "SharePoint-palvelin",
+        "Description": "Mahdollista integraatio Exchange Serverin kanssa"
+      },
+      "Admin": {
+        "Title": "Outlook-kalenteripalvelun tili",
+        "ExchangeServerUrl": "Exchange-verkkopalvelimen URL",
+        "Password": "Salasana",
+        "UserName": "Käyttäjätunnus"
+      }
+    },
+    "PageRollup": {
+      "Settings": {
+        "GoToPage": "Siirry sivulle",
+        "GoToPageText": "Siirry sivun tekstiin",
+        "GoToPageColor": "Siirry sivun tekstin väri",
+        "GoToPageBackgroundColor": "Siirry sivun painikkeen väri"
+      }
+    }
+  }
+}
