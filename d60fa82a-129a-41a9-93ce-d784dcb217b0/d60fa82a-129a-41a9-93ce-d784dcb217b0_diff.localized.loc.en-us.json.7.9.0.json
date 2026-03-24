@@ -49,17 +49,17 @@
     "SPCalendarRollup": {
       "Settings": {
         "Type": {
-          "MyCalendar": "My Calendar"
+          "MyCalendar": "My calendar"
         }
       },
       "Feature": {
         "Title": "Exchange calendar integration",
         "Category": "SharePoint server",
-        "Description": "Enable possibility to integrating with Exchange Server"
+        "Description": "Enable possibility to integrate with Exchange Server"
       },
       "Admin": {
         "Title": "Outlook calendar service account",
-        "ExchangeServerUrl": "Exchange web server url",
+        "ExchangeServerUrl": "Exchange web server URL",
         "Password": "Password",
         "UserName": "Username"
       }
