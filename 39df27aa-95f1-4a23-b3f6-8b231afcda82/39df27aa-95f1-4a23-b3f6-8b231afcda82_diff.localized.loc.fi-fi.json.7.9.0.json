@@ -17,13 +17,13 @@
     "GptImageSettings": {
       "Title": "GPT Image",
       "PredefinedPrompts": "Ennalta määritetyt kehotteet",
-      "DefaultPrompt": "Oletuskehotte",
+      "DefaultPrompt": "Oletuskehote",
       "TitleSetting": "Otsikko",
       "Prompt": "Kehote",
       "SetAsDefaultPrompt": "Aseta oletuskehotteeksi",
       "ReminderText": "Lisää toiminto ja muista sisällyttää token: ",
       "ImproveSelectedText": {
-        "BladeTitle": "GPT Image ennalta määritetyt kehotteet",
+        "BladeTitle": "GPT Imagen ennalta määritetyt kehotteet",
         "Detail": {
           "ErrorMessage": "Tämä kenttä on pakollinen ja sen on sisällettävä token: ",
           "ExampleText": " vesivärityyliin",
@@ -31,7 +31,7 @@
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Poista ennalta määritetty kehotte",
+        "Title": "Poista ennalta määritetty kehote",
         "Message": "Haluatko varmasti poistaa ennalta määritetyn kehotteen?"
       }
     },
@@ -75,7 +75,7 @@
       "SetupWizard": {
         "Features": {
           "ManagedMetadataProperties": {
-            "Title": "Ota käyttöön ominaisuus Kirjoita hallitut metatietojen ominaisuudet"
+            "Title": "Ota käyttöön ominaisuus Hallitun metadatan ominaisuuksien kirjoitusoikeus"
           }
         }
       }
