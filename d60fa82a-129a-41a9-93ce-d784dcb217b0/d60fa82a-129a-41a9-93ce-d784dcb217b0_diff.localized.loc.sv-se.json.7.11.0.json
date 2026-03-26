@@ -4,24 +4,24 @@
       "Blocks": {
         "TableOfContents": {
           "Title": "Innehållsförteckning",
-          "Summary": "Generera navigering från rubriker på sidan eller från en konfigurerad egenskap."
+          "Summary": "Skapa navigering från rubriker på sidan eller från en konfigurerad egenskap."
         }
       }
     },
     "TableOfContents": {
       "BlockTitle": "Innehållsförteckning",
-      "BlockDescription": "Generera navigering från rubriker på sidan",
+      "BlockDescription": "Skapa navigering från rubriker på sidan",
       "General": "Allmänt",
-      "Anchors": "Ankarpunkter",
+      "Anchors": "Ankare",
       "Display": "Visning",
-      "Sticky": "Fast",
+      "Sticky": "Fäst",
       "FontSize": "Teckenstorlek",
-      "Border": "Objektsram",
+      "Border": "Objektram",
       "ReadFromProperty": "Läs från egenskap",
-      "SourceProperty": "Källegenskap",
+      "SourceProperty": "Egenskap",
       "Refresh": "Uppdatera",
       "HeadingLevels": "Rubriknivåer",
-      "NoHeadings": "Inga rubriker hittades för den aktuella konfigurationen."
+      "NoHeadings": "Hittade inga rubriker för den aktuella konfigurationen."
     }
   }
 }
