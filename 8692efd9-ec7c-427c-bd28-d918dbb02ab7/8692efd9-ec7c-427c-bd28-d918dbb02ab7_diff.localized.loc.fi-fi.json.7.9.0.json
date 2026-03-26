@@ -5,9 +5,9 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Lisää tai päivitä",
           "Delete": "Poista",
-          "AutomaticPageTranslationFinished": "Variaatio sivun käännös"
+          "AutomaticPageTranslationFinished": "Variaatiosivun käännös"
         },
-        "SortByItemDate": "Kohteen päivämäärä (Feedin sisäinen)",
+        "SortByItemDate": "Kohteen päivämäärä (Feedin sisäänrakennettu)",
         "SignOffRequest": {
           "Progress": {
             "NotStarted": "Ei aloitettu",
@@ -26,10 +26,10 @@
           }
         },
         "EventsFilter": {
-          "Title": "Sallittujen tapahtumien suodatin",
+          "Title": "Sallittujen tapahtumien lista -suodatin",
           "EnableEventsFilter": "Ota tapahtumien suodatin käyttöön",
           "Radio": {
-            "Hint": "Vaihda sallittujen ja estettyjen tilojen välillä",
+            "Hint": "Vaihda sallittujen listan ja estolistan tilojen välillä",
             "Blacklist": "Estolista",
             "Whitelist": "Sallittu lista"
           },
