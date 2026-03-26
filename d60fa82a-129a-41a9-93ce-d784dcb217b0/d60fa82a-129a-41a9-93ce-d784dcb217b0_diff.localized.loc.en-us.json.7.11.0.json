@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Table of contents",
+          "Summary": "Generate navigation from headings in the page or from a configured property."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Table of contents",
+      "BlockDescription": "Generate navigation from headings in the page",
+      "General": "General",
+      "Anchors": "Anchors",
+      "Display": "Display",
+      "Sticky": "Sticky",
+      "FontSize": "Font Size",
+      "Border": "Item Border",
+      "ReadFromProperty": "Read from property",
+      "SourceProperty": "Source property",
+      "Refresh": "Refresh",
+      "HeadingLevels": "Heading levels",
+      "NoHeadings": "No headings found for the current configuration"
+    }
+  }
+}
