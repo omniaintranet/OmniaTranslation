@@ -6,9 +6,9 @@
       },
       "Features": {
         "ManagedMetadataProperties": {
-          "Title": "Kirjoita hallitut metatietojen ominaisuudet",
+          "Title": "Hallitun metadatan ominaisuuksien kirjoitusoikeus",
           "Category": "Integraatio",
-          "Description": "Sovellus voi lukea, luoda, päivittää ja poistaa hallittuja metatietoja sekä lukea perussivuston tietoja kirjautuneen käyttäjän puolesta.",
+          "Description": "Sovellus voi lukea, luoda, päivittää ja poistaa hallittuja metatietoja sekä lukea sivuston perustietoja kirjautuneen käyttäjän puolesta.",
           "ConsentInformation": " "
         }
       },
@@ -28,9 +28,9 @@
         "ImageName": "kuva",
         "PromptHeader": "Vinkki: Kehote-rakenne",
         "PromptContent": "Kehotteet voivat koostua mistä tahansa sanoista, mutta mieti, miten selittäisit kuvaa jollekin. Muoto \"aihe + adjektiivit + tyylit\" toimii yleensä hyvin.",
-        "PromptExample": "Kuvaile luotava kuva. Esimerkiksi: \"vesivärimaalaus Seattlen siluetista\"",
+        "PromptExample": "Kuvaile luotava kuva. Esimerkiksi: \"Seattlen siluetti vesivärimaalauksena\"",
         "Label": "Kehote",
-        "ImageStyle": "Kuvantyyli"
+        "ImageStyle": "Kuvan tyyli"
       },
       "RichTextEditor": {
         "ExtensionSettings": {
