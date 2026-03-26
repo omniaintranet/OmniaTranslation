@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "目录",
+          "Summary": "根据页面上的标题或配置的属性生成导航。"
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "目录",
+      "BlockDescription": "根据页面上的标题生成导航",
+      "General": "常规",
+      "Anchors": "锚点",
+      "Display": "显示",
+      "Sticky": "固定",
+      "FontSize": "字体大小",
+      "Border": "项目边框",
+      "ReadFromProperty": "从属性读取",
+      "SourceProperty": "源属性",
+      "Refresh": "刷新",
+      "HeadingLevels": "标题级别",
+      "NoHeadings": "当前配置未找到标题。"
+    }
+  }
+}
