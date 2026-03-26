@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Table des matières",
+          "Summary": "Générer la navigation à partir des titres de la page ou d'une propriété configurée."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Table des matières",
+      "BlockDescription": "Générer la navigation à partir des titres de la page",
+      "General": "Général",
+      "Anchors": "Ancres",
+      "Display": "Affichage",
+      "Sticky": "Fixe",
+      "FontSize": "Taille de la police",
+      "Border": "Bordure de l’élément",
+      "ReadFromProperty": "Lire à partir de la propriété",
+      "SourceProperty": "Propriété source",
+      "Refresh": "Actualiser",
+      "HeadingLevels": "Niveaux de titres",
+      "NoHeadings": "Aucun titre trouvé pour la configuration actuelle."
+    }
+  }
+}
