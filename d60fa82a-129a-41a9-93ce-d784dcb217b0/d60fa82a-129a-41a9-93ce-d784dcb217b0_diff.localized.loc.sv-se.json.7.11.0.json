@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Innehållsförteckning",
+          "Summary": "Generera navigering från rubriker på sidan eller från en konfigurerad egenskap."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Innehållsförteckning",
+      "BlockDescription": "Generera navigering från rubriker på sidan",
+      "General": "Allmänt",
+      "Anchors": "Ankarpunkter",
+      "Display": "Visning",
+      "Sticky": "Fast",
+      "FontSize": "Teckenstorlek",
+      "Border": "Objektsram",
+      "ReadFromProperty": "Läs från egenskap",
+      "SourceProperty": "Källegenskap",
+      "Refresh": "Uppdatera",
+      "HeadingLevels": "Rubriknivåer",
+      "NoHeadings": "Inga rubriker hittades för den aktuella konfigurationen."
+    }
+  }
+}
