@@ -13,9 +13,9 @@
         }
       },
       "GptImageProvider": {
-        "Title": "GPT-kuva",
-        "FeatureTitle": "GPT-kuva",
-        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi GPT-kuvageneraattorin mediavalitsimeen.",
+        "Title": "GPT Image",
+        "FeatureTitle": "GPT Image",
+        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi GPT Image -kuvageneraattorin mediavalitsimeen.",
         "DowloadImageFailed": "Kuvan lataus epäonnistui",
         "PhotoBy": "Kuvaaja",
         "PhotosProviderBy": "Kuvat toimittaa",
