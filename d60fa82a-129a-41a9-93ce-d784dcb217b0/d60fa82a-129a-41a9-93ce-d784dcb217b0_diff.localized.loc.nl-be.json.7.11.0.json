@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Inhoudsopgave",
+          "Summary": "Genereer navigatie vanuit koppen op de pagina of vanuit een geconfigureerde eigenschap."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Inhoudsopgave",
+      "BlockDescription": "Genereer navigatie vanuit koppen op de pagina",
+      "General": "Algemeen",
+      "Anchors": "Ankers",
+      "Display": "Weergave",
+      "Sticky": "Plakkerig",
+      "FontSize": "Lettergrootte",
+      "Border": "Itemrand",
+      "ReadFromProperty": "Lezen van eigenschap",
+      "SourceProperty": "Bron eigenschap",
+      "Refresh": "Vernieuwen",
+      "HeadingLevels": "Kopniveaus",
+      "NoHeadings": "Geen koppen gevonden voor de huidige configuratie."
+    }
+  }
+}

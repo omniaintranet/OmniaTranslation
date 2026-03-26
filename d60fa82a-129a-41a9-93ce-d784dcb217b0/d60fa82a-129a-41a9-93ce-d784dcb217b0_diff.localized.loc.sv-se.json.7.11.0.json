@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Innehållsförteckning",
+          "Summary": "Skapa navigering från rubriker på sidan eller från en konfigurerad egenskap."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Innehållsförteckning",
+      "BlockDescription": "Skapa navigering från rubriker på sidan",
+      "General": "Allmänt",
+      "Anchors": "Ankare",
+      "Display": "Visning",
+      "Sticky": "Fäst",
+      "FontSize": "Teckenstorlek",
+      "Border": "Objektram",
+      "ReadFromProperty": "Läs från egenskap",
+      "SourceProperty": "Egenskap",
+      "Refresh": "Uppdatera",
+      "HeadingLevels": "Rubriknivåer",
+      "NoHeadings": "Hittade inga rubriker för den aktuella konfigurationen."
+    }
+  }
+}

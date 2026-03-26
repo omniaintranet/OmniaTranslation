@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Innholdsfortegnelse",
+          "Summary": "Generer navigasjon fra overskrifter på siden eller fra en konfigurert egenskap."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Innholdsfortegnelse",
+      "BlockDescription": "Generer navigasjon fra overskrifter på siden",
+      "General": "Generelt",
+      "Anchors": "Ankere",
+      "Display": "Visning",
+      "Sticky": "Festet",
+      "FontSize": "Skriftstørrelse",
+      "Border": "Elementkant",
+      "ReadFromProperty": "Les fra egenskap",
+      "SourceProperty": "Kildeegenskap",
+      "Refresh": "Oppdater",
+      "HeadingLevels": "Overskriftsnivåer",
+      "NoHeadings": "Ingen overskrifter funnet for gjeldende konfigurasjon."
+    }
+  }
+}

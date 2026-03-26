@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Tabla de contenidos",
+          "Summary": "Genera navegación a partir de los encabezados en la página o de una propiedad configurada."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Tabla de contenidos",
+      "BlockDescription": "Genera navegación a partir de los encabezados en la página",
+      "General": "General",
+      "Anchors": "Anclas",
+      "Display": "Visualización",
+      "Sticky": "Fijo",
+      "FontSize": "Tamaño de fuente",
+      "Border": "Borde del elemento",
+      "ReadFromProperty": "Leer desde propiedad",
+      "SourceProperty": "Propiedad de origen",
+      "Refresh": "Actualizar",
+      "HeadingLevels": "Niveles de encabezado",
+      "NoHeadings": "No se encontraron encabezados para la configuración actual."
+    }
+  }
+}

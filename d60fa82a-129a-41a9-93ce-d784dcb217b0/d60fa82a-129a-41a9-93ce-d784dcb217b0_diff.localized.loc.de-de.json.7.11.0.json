@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Inhaltsverzeichnis",
+          "Summary": "Navigation aus Überschriften auf der Seite oder aus einer konfigurierten Eigenschaft generieren."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Inhaltsverzeichnis",
+      "BlockDescription": "Navigation aus Überschriften auf der Seite generieren",
+      "General": "Allgemein",
+      "Anchors": "Anker",
+      "Display": "Anzeige",
+      "Sticky": "Fixiert",
+      "FontSize": "Schriftgröße",
+      "Border": "Elementrahmen",
+      "ReadFromProperty": "Aus Eigenschaft lesen",
+      "SourceProperty": "Quell-Eigenschaft",
+      "Refresh": "Aktualisieren",
+      "HeadingLevels": "Überschriftenebenen",
+      "NoHeadings": "Keine Überschriften für die aktuelle Konfiguration gefunden."
+    }
+  }
+}

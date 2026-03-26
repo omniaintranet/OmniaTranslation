@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Sisällysluettelo",
+          "Summary": "Luo navigointi sivun otsikoista tai määritetystä ominaisuudesta."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Sisällysluettelo",
+      "BlockDescription": "Luo navigointi sivun otsikoista",
+      "General": "Yleiset",
+      "Anchors": "Ankkurit",
+      "Display": "Näyttö",
+      "Sticky": "Kiinnitetty",
+      "FontSize": "Fonttikoko",
+      "Border": "Kohteen reunus",
+      "ReadFromProperty": "Lue ominaisuudesta",
+      "SourceProperty": "Lähdeominaisuus",
+      "Refresh": "Päivitä",
+      "HeadingLevels": "Otsikkotasot",
+      "NoHeadings": "Nykyiselle määritykselle ei löytynyt otsikoita."
+    }
+  }
+}
