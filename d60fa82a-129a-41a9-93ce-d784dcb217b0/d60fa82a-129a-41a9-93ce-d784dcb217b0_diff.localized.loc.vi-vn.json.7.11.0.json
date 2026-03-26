@@ -1,0 +1,27 @@
+{
+  "WCM": {
+    "Core": {
+      "Blocks": {
+        "TableOfContents": {
+          "Title": "Mục lục",
+          "Summary": "Tạo điều hướng từ các tiêu đề trên trang hoặc từ một thuộc tính đã cấu hình."
+        }
+      }
+    },
+    "TableOfContents": {
+      "BlockTitle": "Mục lục",
+      "BlockDescription": "Tạo điều hướng từ các tiêu đề trên trang",
+      "General": "Chung",
+      "Anchors": "Liên kết neo",
+      "Display": "Hiển thị",
+      "Sticky": "Cố định",
+      "FontSize": "Cỡ chữ",
+      "Border": "Viền mục",
+      "ReadFromProperty": "Đọc từ thuộc tính",
+      "SourceProperty": "Thuộc tính nguồn",
+      "Refresh": "Làm mới",
+      "HeadingLevels": "Cấp độ tiêu đề",
+      "NoHeadings": "Không tìm thấy tiêu đề cho cấu hình hiện tại."
+    }
+  }
+}
