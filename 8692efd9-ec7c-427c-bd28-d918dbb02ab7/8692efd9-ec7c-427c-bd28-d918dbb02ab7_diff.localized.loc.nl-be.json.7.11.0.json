@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "OK",
+        "Preview": "Voorbeeld"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "Blok hier neerzetten"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "Geen blokken geconfigureerd",
+          "EmptyPreview": "Geen voorbeeld beschikbaar",
+          "PreviewTitle": "Voorbeeld"
+        }
+      }
+    }
+  }
+}

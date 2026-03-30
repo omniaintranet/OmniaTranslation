@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "OK",
+        "Preview": "Vorschau"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "Block hier ablegen"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "Keine Blöcke konfiguriert",
+          "EmptyPreview": "Keine Vorschau verfügbar",
+          "PreviewTitle": "Vorschau"
+        }
+      }
+    }
+  }
+}

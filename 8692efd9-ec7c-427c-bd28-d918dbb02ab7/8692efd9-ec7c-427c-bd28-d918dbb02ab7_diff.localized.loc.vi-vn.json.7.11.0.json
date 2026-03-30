@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "OK",
+        "Preview": "Xem trước"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "Thả khối vào đây"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "Chưa cấu hình khối nào",
+          "EmptyPreview": "Không có bản xem trước",
+          "PreviewTitle": "Xem trước"
+        }
+      }
+    }
+  }
+}

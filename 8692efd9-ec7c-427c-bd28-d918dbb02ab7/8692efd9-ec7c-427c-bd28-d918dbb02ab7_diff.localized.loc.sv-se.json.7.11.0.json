@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "OK",
+        "Preview": "Förhandsgranska"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "Släpp block här"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "Inga block konfigurerade",
+          "EmptyPreview": "Ingen förhandsgranskning tillgänglig",
+          "PreviewTitle": "Förhandsgranskning"
+        }
+      }
+    }
+  }
+}
