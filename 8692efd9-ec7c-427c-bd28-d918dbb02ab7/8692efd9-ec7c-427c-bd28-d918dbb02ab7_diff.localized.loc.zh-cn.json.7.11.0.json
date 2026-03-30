@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "确定",
+        "Preview": "预览"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "将区块拖放到此处"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "未配置区块",
+          "EmptyPreview": "无可用预览",
+          "PreviewTitle": "预览"
+        }
+      }
+    }
+  }
+}
