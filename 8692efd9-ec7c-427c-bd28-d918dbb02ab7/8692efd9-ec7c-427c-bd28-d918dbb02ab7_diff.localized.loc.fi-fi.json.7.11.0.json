@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Buttons": {
+        "Ok": "OK",
+        "Preview": "Esikatselu"
+      },
+      "Settings": {
+        "RicherContent": {
+          "DropBlockHere": "Pudota lohko tähän"
+        }
+      },
+      "Blocks": {
+        "Common": {
+          "NoBlocks": "Lohkoja ei ole määritetty",
+          "EmptyPreview": "Esikatselua ei ole saatavilla",
+          "PreviewTitle": "Esikatselu"
+        }
+      }
+    }
+  }
+}
