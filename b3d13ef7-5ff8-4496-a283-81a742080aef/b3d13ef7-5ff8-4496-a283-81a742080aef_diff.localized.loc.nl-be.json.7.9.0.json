@@ -1,0 +1,22 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Bestandsnamen mogen niet beginnen of eindigen met een punt, of een van deze tekens bevatten: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "Approval": {
+        "Cancelled": "Geannuleerd"
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "Geen documenten om te tonen."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "Er zijn geen processen om te tonen."
+    }
+  }
+}
