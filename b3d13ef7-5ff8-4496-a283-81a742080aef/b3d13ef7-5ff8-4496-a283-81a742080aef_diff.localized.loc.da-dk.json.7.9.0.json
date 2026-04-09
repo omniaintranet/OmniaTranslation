@@ -1,0 +1,22 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Filnavne kan ikke starte eller slutte med et punktum, eller indeholde nogen af disse tegn: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "Approval": {
+        "Cancelled": "Annulleret"
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "Ingen dokumenter at vise."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "Der er ingen processer at vise."
+    }
+  }
+}

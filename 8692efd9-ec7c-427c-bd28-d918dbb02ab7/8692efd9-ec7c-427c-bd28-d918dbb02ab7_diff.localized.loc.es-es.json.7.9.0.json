@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Los iconos Fabric están obsoletos y no están permitidos. Por favor, elija otro tipo de icono."
+      }
+    }
+  }
+}

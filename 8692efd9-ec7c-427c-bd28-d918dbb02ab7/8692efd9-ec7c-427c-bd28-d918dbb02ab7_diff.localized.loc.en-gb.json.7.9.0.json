@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric icons are deprecated and not permitted. Please select a different icon type."
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Tên tệp không được bắt đầu hoặc kết thúc bằng dấu chấm, hoặc chứa bất kỳ ký tự nào sau đây: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "Approval": {
+        "Cancelled": "Đã hủy"
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "Không có tài liệu để hiển thị."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "Không có quy trình nào để hiển thị."
+    }
+  }
+}
