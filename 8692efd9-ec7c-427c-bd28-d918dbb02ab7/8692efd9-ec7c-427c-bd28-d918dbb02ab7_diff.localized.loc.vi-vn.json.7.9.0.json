@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Biểu tượng Fabric đã bị loại bỏ và không được phép sử dụng. Vui lòng chọn loại biểu tượng khác."
+      }
+    }
+  }
+}
