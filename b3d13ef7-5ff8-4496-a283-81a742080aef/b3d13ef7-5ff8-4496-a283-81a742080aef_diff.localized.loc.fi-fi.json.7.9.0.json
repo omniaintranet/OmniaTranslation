@@ -2,7 +2,7 @@
   "ODM": {
     "Core": {
       "Messages": {
-        "MessageInvalidFileNameChars": "Tiedostonimet eivät voi alkaa tai päättyä pisteeseen, eivätkä ne voi sisältää seuraavia merkkejä: / \\ < > : * \" ? |."
+        "MessageInvalidFileNameChars": "Tiedostonimet eivät voi alkaa tai päättyä pisteellä/pisteeseen, eivätkä ne voi sisältää seuraavia merkkejä: / \\ < > : * \" ? |."
       }
     },
     "DocumentLibrary": {
