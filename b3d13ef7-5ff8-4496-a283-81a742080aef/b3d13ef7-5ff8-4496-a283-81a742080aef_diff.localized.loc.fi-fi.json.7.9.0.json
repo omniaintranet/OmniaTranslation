@@ -1,0 +1,22 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Tiedostonimet eivät voi alkaa tai päättyä pisteeseen, eivätkä ne voi sisältää seuraavia merkkejä: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "Approval": {
+        "Cancelled": "Peruutettu"
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "Ei näytettäviä asiakirjoja."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "Ei näytettäviä prosesseja."
+    }
+  }
+}
