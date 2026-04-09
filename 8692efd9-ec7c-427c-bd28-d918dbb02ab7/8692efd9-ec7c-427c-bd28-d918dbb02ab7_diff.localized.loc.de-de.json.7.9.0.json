@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric-Symbole sind veraltet und nicht erlaubt. Bitte wählen Sie einen anderen Symboltyp."
+      }
+    }
+  }
+}
