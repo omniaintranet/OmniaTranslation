@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric-pictogrammen zijn verouderd en niet toegestaan. Kies een ander pictogramtype."
+      }
+    }
+  }
+}
