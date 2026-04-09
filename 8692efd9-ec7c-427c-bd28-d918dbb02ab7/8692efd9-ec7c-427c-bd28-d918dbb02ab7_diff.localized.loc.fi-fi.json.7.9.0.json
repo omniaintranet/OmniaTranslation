@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric-kuvakkeet ovat vanhentuneita eikä niitä sallita. Valitse toinen kuvaketyyppi."
+      }
+    }
+  }
+}
