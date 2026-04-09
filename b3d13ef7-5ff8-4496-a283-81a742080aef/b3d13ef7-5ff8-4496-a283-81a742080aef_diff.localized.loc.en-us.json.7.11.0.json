@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "File names can't begin or end with a period, or contain any of these characters: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "No documents to show."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "There are no processes to show."
+    }
+  }
+}
