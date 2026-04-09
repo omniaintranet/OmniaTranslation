@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Los nombres de archivo no pueden comenzar ni terminar con un punto, ni contener ninguno de estos caracteres: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "No hay documentos para mostrar."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "No hay procesos para mostrar."
+    }
+  }
+}
