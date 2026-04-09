@@ -1,0 +1,22 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "文件名不能以句点开头或结尾，也不能包含以下任意字符：/ \\ < > : * \" ? |。"
+      }
+    },
+    "DocumentLibrary": {
+      "Approval": {
+        "Cancelled": "已取消"
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "没有可显示的文档。"
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "没有可显示的流程。"
+    }
+  }
+}
