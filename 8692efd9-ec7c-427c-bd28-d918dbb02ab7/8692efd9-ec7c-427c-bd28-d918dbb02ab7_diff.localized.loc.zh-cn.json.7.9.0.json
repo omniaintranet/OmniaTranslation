@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric 图标已被弃用且不允许使用。请选择其他图标类型。"
+      }
+    }
+  }
+}
