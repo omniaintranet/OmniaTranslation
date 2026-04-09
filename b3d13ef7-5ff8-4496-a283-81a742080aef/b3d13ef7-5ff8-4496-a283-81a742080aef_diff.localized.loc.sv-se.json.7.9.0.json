@@ -2,12 +2,12 @@
   "ODM": {
     "Core": {
       "Messages": {
-        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, eller innehålla någon av dessa tecken: / \\ < > : * \" ? |."
+        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, och inte heller innehålla något av dessa tecken: / \\ < > : * \" ? |."
       }
     },
     "DocumentLibrary": {
       "Approval": {
-        "Cancelled": "Avbruten"
+        "Cancelled": "Avbrutet"
       }
     },
     "DocumentRollup": {
@@ -16,7 +16,7 @@
   },
   "OPM": {
     "ProcessRollup": {
-      "NoProcessMessage": "Det finns inga processer att visa."
+      "NoProcessMessage": "Inga processer att visa."
     }
   }
 }
