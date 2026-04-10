@@ -1,0 +1,2439 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "ComponentTitle": "Component Title",
+        "FollowTheme": "Follow Theme",
+        "AccordionsTab": {
+          "Dialog": {
+            "AccordionContent": "Accordion Content",
+            "AccordionTitle": "Accordion Title",
+            "AnchorName": "Anchor Name"
+          }
+        },
+        "Color": {
+          "Content": "Content text's color",
+          "ContentBackground": "Content background's color",
+          "Header": "Header text's color",
+          "HeaderBackground": "Header background's color"
+        }
+      }
+    },
+    "ActionButton": {
+      "GroupTypes": {
+        "SpeedDial": "Speed Dial"
+      },
+      "Labels": {
+        "GroupingType": "Grouping Type",
+        "NewButton": "New Button",
+        "ButtonStyle": "Button Style",
+        "BackgroundColor": "Background Color",
+        "TextColor": "Text Color",
+        "AddButton": "Add Button",
+        "EditButton": "Edit Button",
+        "IconAlignment": "Icon Alignment",
+        "TextAlignment": "Text Alignment",
+        "TextUppercase": "Text Uppercase"
+      }
+    },
+    "LinkButton": {
+      "Labels": {
+        "Url": "Url",
+        "DialogPosition": "Dialog Position",
+        "AnchorName": "Anchor Name"
+      },
+      "ButtonLinkTarget": {
+        "NewWindow": "New Window"
+      }
+    },
+    "CreatePageButton": {
+      "SelectPageCollectionTitle": "Select Page Collection"
+    },
+    "PageFeedBackButton": {
+      "ButtonText": "Page Feedback",
+      "PageFeedback": {
+        "Title": "Page Feedback",
+        "Settings": {
+          "EnableRichText": "Enable Rich Text",
+          "FeedbackRecipient": "Feedback Recipient",
+          "PlainText": "Plain Text",
+          "LimitedRichText": "Limited Rich Text",
+          "RichText": "Rich Text"
+        },
+        "Messages": {
+          "GettingFeedbackRecipients": "We are trying to get a feedback recipient. Please input your feedback while waiting."
+        }
+      }
+    },
+    "Governance": {
+      "Settings": {
+        "UnderusedContent": {
+          "Title": "Underused Content"
+        },
+        "ActiveUser": {
+          "Title": "Active User",
+          "TotalNoOfUsers": "Total no of users"
+        },
+        "UserProperties": {
+          "ConfirmationTitle": "Update User Properties"
+        }
+      }
+    },
+    "Admin": {
+      "WebContentManagementLabel": "Web Content Management",
+      "Settings": {
+        "PageSize": "Page Size",
+        "NotificationPanelPageRollupInterval": "Notification Panel Page Rollup interval",
+        "MediaRollupLabel": "Media Rollup"
+      },
+      "SharepointSyncLabel": "Sharepoint Sync",
+      "PublishingChannels": "Publishing Channels",
+      "PageTypes": "Page Types",
+      "CreatePageTypeLabel": "Create New Page Type",
+      "QueryableProperties": "Queryable Properties",
+      "Roles": {
+        "WCMAdmin": "WCM Admin",
+        "WCMResourceReader": "WCM Resource Reader",
+        "ChannelAdministratorListReader": "Channel Administration List Reader"
+      },
+      "AddSPSearchPropertyLabel": "Add New SharePoint Search Property",
+      "PublishingChannelCategories": "Publishing Channels Categories",
+      "OmniaSearch": {
+        "Title": "Omnia Search",
+        "ReindexContentConfirmationTitle": "Run full index content",
+        "ReindexContentConfirmationDescription": "Are you sure you want to run a full index content on tenant?",
+        "ResumeFromLastSync": "Resume From Last Sync",
+        "ResumeFromLastSyncTitle": "Resume From Last Sync"
+      },
+      "PageBulkUpdate": {
+        "Title": "Page Bulk Update",
+        "UpdateStatus": "Update Status",
+        "SearchProperty": "Search Property",
+        "SearchValue": "Search Value",
+        "PropertyValue": "Property Value",
+        "NewValue": "New Value",
+        "Columns": {
+          "WorkflowStatus": "Workflow Status",
+          "PageType": "Page Type",
+          "CreatedBy": "Created By"
+        },
+        "LogsTitle": "Page Bulk Update - Logs",
+        "LogDetailsTitle": "Log Detail - ",
+        "LogMessage": {
+          "PageMovedToDifferentPublishingAppMessage": "Page with id: {0} has moved to a different publishing app.",
+          "PageLatestVersionDataNotFoundMessage": "Latest version data of page with Id: {0} cannot be found"
+        }
+      },
+      "EnterpriseGlossaryPageInformationProvider": {
+        "Settings": {
+          "ImageRatio": "Image Ratio",
+          "ShowReadMore": "Show Read More"
+        },
+        "PickPage": "Pick Page"
+      }
+    },
+    "Analytics": {
+      "Blocks": {
+        "Common": {
+          "Settings": {
+            "FilterKey": "Connection Key",
+            "PropertySelector": "Select Property",
+            "PublishingApp": "Publishing App",
+            "PageContact": "Page Contact",
+            "PageTypes": "Page Types",
+            "ItemPadding": "Item Padding"
+          }
+        },
+        "Report": {
+          "BlockTitle": "Analytics Report",
+          "BlockSummary": "Display page usage for a business profile.",
+          "PermissionMissing": "You do not have permission to view this report",
+          "EmptyMessage": "Please configure the analytics graph you want to show",
+          "BusinessProfileNotConfigured": "Error! The selected business profile has not analytics configured",
+          "Settings": {
+            "Websites": "Websites"
+          }
+        },
+        "LiveCounter": {
+          "PermissionMissing": "You do not have permission to view this counter",
+          "EmptyMessage": "Please configure the analytics counter you want to show",
+          "Settings": {
+            "Websites": "Websites"
+          }
+        }
+      }
+    },
+    "AnalyticsReport": {
+      "Views": {
+        "CardView": {
+          "Settings": {
+            "Websites": "Websites",
+            "ShowPagination": "Show pagination"
+          }
+        },
+        "TableView": {
+          "Title": "Table View",
+          "Settings": {
+            "Websites": "Websites",
+            "ShowPagination": "Show pagination",
+            "ExcludeRootUrl": "Exclude root url (/)",
+            "ShowExportToExcel": "Enable Export to Excel",
+            "Columns": {
+              "UseEnterpriseGlossary": "Use Enterprise Glossary"
+            }
+          },
+          "TermCanNotResolveMessage": "The term with ID {0} could not be found"
+        }
+      }
+    },
+    "BannerBlock": {
+      "Block": {
+        "BannerPicture": "Banner Picture"
+      },
+      "Layout": {
+        "ImageOnTop": "Image On Top",
+        "TitleandDescriptiononImage": "Title and Content on Image",
+        "TitleonImage": "Title on Image"
+      },
+      "Editor": {
+        "Title": "Banner Editor"
+      },
+      "Settings": {
+        "ContentColor": "Content Color",
+        "BackgroundColor": "Background Color",
+        "LayoutAndImages": "Layout And Image",
+        "LinkUrl": "Link Url",
+        "TitleColor": "Title Color",
+        "NewWindow": "New Window",
+        "FooterColor": "Footer Color",
+        "AddContent": "Add Content",
+        "ForceSize": "Force Size"
+      }
+    },
+    "Breadcrumb": {
+      "IncludeDefaultPageCollectionNode": "Include Publishing App default node",
+      "IncludeTenantNode": "Include Tenant node",
+      "IncludeBusinessProfileNode": "Include Business Profile node"
+    },
+    "SearchCategory": {
+      "Providers": {
+        "CommentsSearch": {
+          "SortedByOptions": {
+            "Title": "Sort By",
+            "CreatedDate": "Created Date"
+          }
+        }
+      }
+    },
+    "Community": {
+      "GovernanceDashboard": "Governance Dashboard",
+      "CreatePageCollectionLabel": "Create Page Collection",
+      "DefaultResource": "Default Resource",
+      "YammerDefaultResource": {
+        "YammerGroup": "Yammer Group"
+      },
+      "PublishingAppSetting": {
+        "Title": "Publishing App Settings",
+        "Advanced": "Advanced",
+        "Permissions": "Permissions"
+      },
+      "PageCollectionLabel": "Page Collection",
+      "NotExistProfileWorkplaceMessage": "No workplace has been created for the current Business Profile.",
+      "Rollup": {
+        "Title": "Community Rollup"
+      }
+    },
+    "ContentBlock": {
+      "EnableMachineTranslation": "Enable Machine Translation",
+      "VersionComparisonType": "Version Comparison Type",
+      "HelpText": "Help Text",
+      "Modes": {
+        "RichText": "Rich Text",
+        "LimitedRichText": "Limited Rich Text",
+        "MultiLinePlainText": "Multi-line Plain Text",
+        "PlainText": "Plain Text",
+        "CustomRichText": "Custom Rich Text",
+        "MultilingualRichText": "Multilingual Rich Text",
+        "MultilingualPlainText": "Multilingual Plain Text"
+      },
+      "DefaultTextColor": "Default Text Color",
+      "CustomRichText": "Custom Rich Text",
+      "UseAsMainHeading": "Use as Main Heading",
+      "EnableAutomaticSummary": "Enable Automatic Summary",
+      "GenerateSummary": "Generate Summary",
+      "ReGenerateSummary": "Re-generate Summary",
+      "ErrorGeneratingSummaryResponse": "Cannot generate summary. Please check your configuration for text completion feature and try again!"
+    },
+    "Fx": {
+      "Categories": {
+        "ContentRollup": "Content Rollup",
+        "ContentSocial": "Content Social",
+        "PageContent": "Page Content",
+        "DocumentLibrary": "Document Library",
+        "EventManagement": "Event Management",
+        "PageNavigation": "Page Navigation"
+      },
+      "Messages": {
+        "UpdateSharepointPageErrorMessage": "Have an exception when updating {0} page with version {1} on sharepoint."
+      },
+      "Block": {
+        "EditContent": "Edit Content",
+        "AddContent": "Add Content",
+        "RemoveContent": "Remove Content"
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "PageProperties": {
+          "Title": "Page Properties"
+        },
+        "RelatedLinks": {
+          "Title": "Related Links"
+        },
+        "ActionButton": {
+          "Title": "Action Button"
+        },
+        "ButtonLink": {
+          "Title": "Action Button"
+        },
+        "CommentLike": {
+          "Title": "Page Likes & Comments"
+        },
+        "PageRollup": {
+          "Title": "Page Rollup"
+        },
+        "CurrentNavigation": {
+          "Title": "Current Navigation"
+        },
+        "MegaMenu": {
+          "Title": "Mega Menu",
+          "Summary": "Create a mega menu for a workspace, or for other purposes."
+        },
+        "MySubscriptions": {
+          "Title": "My Subscriptions"
+        },
+        "AchievementRollup": {
+          "Title": "Achievement Rollup"
+        },
+        "CalendarRollup": {
+          "Title": "Calendar Rollup"
+        },
+        "VariationSelector": {
+          "Title": "Page Variation Selector",
+          "Summary": "Make it possible for end users to select a variation of the page."
+        },
+        "RSSReader": {
+          "Summary": "Using this block, notes from a RSS reader source can be displayed on a page."
+        },
+        "ActivityFeed": {
+          "Title": "Activity Feed"
+        },
+        "PageFeedback": {
+          "Title": "Page Feedback",
+          "Summary": "Makes it possible for users to send feedback about the page."
+        },
+        "ChannelRollup": {
+          "Title": "Channel Rollup"
+        },
+        "PageNavigation": {
+          "Title": "Anchor Navigation",
+          "Summary": "Add navigation through anchors within a page."
+        }
+      },
+      "BlockSettings": {
+        "IncludeChildTerms": "Include Child Terms",
+        "IncludeEmpty": "Include Empty",
+        "UIFilterOption": {
+          "MyDrafts": "My Drafts",
+          "Searchbox": "Search Box"
+        }
+      },
+      "DisplayBreakPoints": {
+        "ExtraSmall": "Extra Small",
+        "Email": "E-mail"
+      },
+      "ActivityPoints": {
+        "CreatePage": "Create Page",
+        "UpdatePage": "Update Page",
+        "AddComment": "Add Comment",
+        "BestReply": "Best Reply"
+      },
+      "Features": {
+        "CommunityTemplate": {
+          "Title": "Community Template",
+          "Description": "Community Template",
+          "Category": "Provisioning Templates"
+        },
+        "DefaultConfiguration": {
+          "Title": "Default Configuration"
+        },
+        "New7InfoScreen": {
+          "Title": "Info Screen (Legacy)",
+          "Description": "Replaced by the feature Digital Signage."
+        },
+        "New7DefaultCommunityPropertiesAndPageTypes": {
+          "Description": "Enables communities and provisions community properties and page types. Requires the Web Content Management feature to be activated."
+        },
+        "New7PublishingAppInfrastructure": {
+          "ConsentInformation": "Will enable app only access permissions for this site."
+        },
+        "New7VersionedControlledDocument": {
+          "Title": "Web Content Management file storage"
+        },
+        "New7DigitalSignage": {
+          "Title": "Digital Signage"
+        },
+        "New7SiteSelectedPermissions": {
+          "Description": "Activates Site Selected Permissions on Publishing and Community Apps",
+          "Title": "Site Selected Permissions"
+        },
+        "New7WebContentManagementCore": {
+          "Title": "Web Content Management core"
+        },
+        "New7CalendarRollupCore": {
+          "Description": "Aggregate M365 calendars in the Calendar Rollup."
+        },
+        "BrokenLinkDetection": {
+          "Title": "Broken Link Detection"
+        },
+        "ProvisionOmniaSearchData": {
+          "Title": "Page Rollup accelerator powered by search",
+          "Description": "Page Rollup accelerator powered by search"
+        },
+        "SemanticSearchWebContentManagement": {
+          "Title": "Semantic Search Web Content Management",
+          "Description": "Example Semantic Search configuration"
+        }
+      },
+      "ImageScalingBlockSettings": {
+        "ForceDefaultScaling": "Force Default Scaling",
+        "KeepRatio": "Keep Ratio",
+        "DefaultScaling": "Default Scaling"
+      },
+      "MediaPicker": {
+        "CropRatios": "Crop Ratios"
+      },
+      "SemanticSearch": {
+        "BuiltinProperty": {
+          "PublishingApp": {
+            "Title": "Publishing App",
+            "Type": "PublishingApp"
+          },
+          "PageType": {
+            "Title": "Page Type",
+            "Type": "PageType"
+          }
+        }
+      }
+    },
+    "Tokens": {
+      "PublishingAppPageCollections": "Page Collection",
+      "PageId": "Page Id",
+      "PageTitle": "Page Title"
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "Metrics": {
+          "WaitingForApproval": "Waiting For Approval",
+          "NoComments": "No Comments",
+          "AverageNumberOfComments": "Average Number Of Comments",
+          "AverageRatings": "Average Ratings",
+          "UnderusedContent": "Underused Content"
+        },
+        "Filters": {
+          "PublishingApps": "Publishing Apps",
+          "PageTypes": "Page Types",
+          "UserProperties": "User Properties"
+        },
+        "PageCollection": "Page Collection",
+        "PublishingApp": "Publishing App",
+        "Properties": {
+          "PageHits": {
+            "Title": "Page Hits"
+          },
+          "UniqueVisitors": {
+            "Title": "Unique Visitors"
+          },
+          "PublishDate": {
+            "Title": "Publish Date"
+          }
+        },
+        "Settings": {
+          "TargetNoOfUsers": "Target No Of Users",
+          "LimitPageHitsPerMonth": "Page Hits/Month <",
+          "LimitUniqueUsersPerMonth": "Unique Visitors/Month <"
+        },
+        "MissingTitle": "Missing Title"
+      },
+      "UserActivity": {
+        "Scope": {
+          "Title": "User Activity"
+        },
+        "Metrics": {
+          "ActiveUserReader": "Active Readers",
+          "ActiveUserContributor": "Active Contributors"
+        }
+      },
+      "LinkStatus": {
+        "Scope": {
+          "Title": "Url Status"
+        },
+        "Metrics": {
+          "Unauthorized": "401 Unauthorized",
+          "NotFound": "404 Not Found",
+          "Columns": {
+            "Referer": "Referer Url",
+            "NoHits": "No of Hits"
+          }
+        }
+      }
+    },
+    "HtmlScriptBlock": {
+      "ControlTitle": "HTML Script",
+      "Settings": {
+        "FormTitle": "Html/Script Block Settings",
+        "HiddenBlock": "Hidden Block",
+        "WelcomeTitle": "Html/Script",
+        "AddContent": "Add Content",
+        "RunScriptInEditMode": "Run Script in Edit Mode",
+        "IframeHeight": "Iframe Height"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Description": "Add an IFrame to the page",
+        "Url": "Url"
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "ItemLimit": "Item Limit",
+          "DisplayTemplate": "Display Template"
+        },
+        "ForceSize": "Force Size",
+        "SmallOption": "Small ({0}px * Keep Ratio)",
+        "MediumOption": "Medium ({0}px * Keep Ratio)",
+        "LargeOption": "Large ({0}px * Keep Ratio)"
+      }
+    },
+    "MediaRollup": {
+      "Block": {
+        "BlockTitle": "Media Rollup",
+        "BlockSummary": "List different types of media resources for easy access, mainly for end users. Can also be configured to be of use for editors.",
+        "Common": {
+          "Query": {
+            "ProviderSelect": "Data Source"
+          },
+          "Display": {
+            "PageSize": "Page Size",
+            "ItemLimit": "Item Limit",
+            "SortBy": "Sort By",
+            "SortDirection": "Sort Direction",
+            "PagingType": {
+              "NoPaging": "No Paging"
+            },
+            "NoResultText": "No Result Text"
+          },
+          "Settings": {
+            "ItemPadding": "Item Padding"
+          }
+        }
+      },
+      "Providers": {
+        "MicrosoftSearch": {
+          "Title": "Microsoft Search",
+          "Settings": {
+            "IncludeEmpty": "Include Empty",
+            "IncludeChildTerms": "Include Child Terms"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "UserEmail": "User email",
+              "CurrentUserId": "Current user id",
+              "CurrentUserEmail": "Current user e-mail"
+            },
+            "QueryConfigurationTypes": {
+              "UseQueryBuilder": "Use Query Builder"
+            }
+          }
+        },
+        "SharePointLibrary": {
+          "Title": "SharePoint Library",
+          "Settings": {
+            "Path": "Filter by path"
+          }
+        },
+        "SpsSearch": {
+          "Title": "SharePoint Search",
+          "Settings": {
+            "IncludeEmpty": "Include Empty",
+            "IncludeChildTerms": "Include Child Terms"
+          },
+          "Query": {
+            "QueryValueOptions": {
+              "UserEmail": "User email",
+              "CurrentUserId": "Current user id",
+              "CurrentUserEmail": "Current user e-mail"
+            },
+            "QueryConfigurationTypes": {
+              "PickDocuments": "Pick Documents",
+              "UseQueryBuilder": "Use Query Builder"
+            }
+          }
+        }
+      },
+      "Views": {
+        "ListView": {
+          "Title": "List View",
+          "View": {
+            "NoColumnsMsg": "There are no columns that can render content."
+          },
+          "Settings": {
+            "BuiltinProps": {
+              "NameLink": "Name and Link",
+              "TitleLink": "Title and Link",
+              "IconTitleLink": "Icon, Title and Link",
+              "IconNameLink": "Icon, Name and Link"
+            },
+            "AdjustColumns": "Adjust Columns",
+            "PageSize": "Page Size",
+            "ItemLimit": "Item Limit",
+            "SortBy": "Sort By",
+            "SortDirection": "Sort Direction",
+            "PagingType": {
+              "NoPaging": "No Paging"
+            },
+            "NoResultText": "No Result Text",
+            "DateType": "Date Type",
+            "DateFormat": "Date Format",
+            "AddColumn": "Add Column",
+            "PageTitleAndLink": "Page Title & Link",
+            "PageTitle": "Page Title",
+            "ShowHeading": "Show Heading"
+          }
+        },
+        "PhotowallView": {
+          "Settings": {
+            "NoOfColumns": "No of columns",
+            "ShowOverlayProperty": "Show overlay property"
+          }
+        }
+      }
+    },
+    "OmniaSearchLogging": {
+      "CreatedBy": "Created By"
+    },
+    "CreatePage": {
+      "ButtonText": "Create Page",
+      "PageCollection": "Page Collection",
+      "SelectPageCollectionTitle": "Select Page Collection",
+      "CurrentPageCollection": "Current Page Collection",
+      "AnyPageCollection": "Any Page Collection",
+      "CurrentPublishingApp": "Current Publishing App",
+      "AnyPublishingApp": "Any Publishing App",
+      "SelectPublishingApp": "Publishing App",
+      "SelectPageCollection": "Page Collection"
+    },
+    "PageNavigation": {
+      "BlockTitle": "Anchor Navigation",
+      "FontSize": "Font Size",
+      "Border": "Item Border"
+    },
+    "PageProperties": {
+      "BlockTitle": "Page Properties",
+      "HideSeparator": "Hide Separator",
+      "SeparatorType": "Separator Type",
+      "LabelPosition": {
+        "Title": "Label Position"
+      },
+      "ItemPadding": "Item Padding",
+      "TextOnly": "Show as Text",
+      "HideAvatar": "Hide Avatar",
+      "LabelColor": "Label Color",
+      "CustomLabel": "Custom Label",
+      "ValueColor": "Content Color",
+      "Settings": {
+        "DateFormatMode": "Date Type"
+      },
+      "Subscription": {
+        "SubscribeTitle": "Subscribe to Tag",
+        "UnSubscribeTitle": "Unsubscribe to Tag",
+        "UnSubscribe": "UnSubscribe"
+      },
+      "PageType": "Page Type",
+      "PagePropertiesProvider": {
+        "PageCollectionProperty": "Page Collection",
+        "PageTypeProperty": "Page Type"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "GetParentSiblings": "Show Parent Siblings",
+        "StartLevel": "Start Level",
+        "LevelIndentation": "Level Indentation"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "Labels": {
+          "OrphanedBlocks": "Orphaned Blocks",
+          "CustomTheme": "Custom Theme",
+          "ShowAdvancedSettings": "Show Advanced Settings",
+          "HideAdvancedSettings": "Hide Advanced Settings"
+        },
+        "PageCollections": {
+          "CreateDialogSectionTitle": "Create Page Dialog",
+          "DialogTitle": "Dialog Title",
+          "ShowUrl": "Show Url",
+          "ShowProperties": "Show Properties",
+          "AutoPublish": "Auto Publish",
+          "AutoPublishDisableMessage": "Auto publish is not supported when using approval flow",
+          "EnableActivityTracking": "Enable Activity Tracking",
+          "EnableSendPageEmail": "Enable Send Page as E-mail",
+          "EnableAutoSubscription": "Enable Auto Subscription"
+        },
+        "ReuseContent": {
+          "PageUrl": "Page Url",
+          "InvalidUrlToResolve": "Invalid url to resolve",
+          "ResolvedPageIsNotFound": "The page cannot be resolved, either you don't have permission or page does not exist",
+          "SelectedPageIsNoLongerFound": "The selected page is no longer found, either you don't have permission or page does not exist",
+          "ReusablePageErrorMessages": {
+            "ReuseFailed": "Reuse Content failed"
+          },
+          "AddSourcePageBtn": "Add Source Page",
+          "SelectProperty": "Select Property"
+        },
+        "AffectedPages": {
+          "Title": "Affected Pages",
+          "FoundAffectedPagesMessage": "Please re-publish the pages below"
+        },
+        "AnalysisPage": {
+          "NoOfPages": "No of pages",
+          "ShowReport": "Show Report",
+          "PageCollection": "Page Collection",
+          "Result": {
+            "ConfigurationError": "Cannot send request to Azure Open AI! Please check your configuration or retry your prompt."
+          },
+          "ContentAnalysis": {
+            "Title": "Publish policies"
+          },
+          "FixPageWarning": "This action will check out the page then apply fixes. Do you want to continues ?",
+          "CreateAnalysis": "Create Analysis"
+        },
+        "PageArchive": {
+          "ArchivedPages": "Archived Pages",
+          "PageCollections": "Page Collections",
+          "PageTypes": "Page Types",
+          "ArchiveId": "Archive Id",
+          "ArchivedBy": "Archived By",
+          "ArchivedAt": "Archived At",
+          "CreateCopyTooltip": "The copy feature supports pages based on the default variation, so any additional language or variation must be removed before using this option.",
+          "SelectParentPage": "Select parent page to restore"
+        },
+        "PageReports": {
+          "CheckedOut": "Checked Out",
+          "PendingApproval": "Pending Approval",
+          "TakeControl": "Take Control",
+          "GenerateExcelReport": "Generate Excel Report",
+          "DownloadReport": "Download Report",
+          "Properties": {
+            "ScheduleBy": "Schedule By",
+            "ScheduleByEmail": "Schedule By Email",
+            "PageHits": "Page Hits",
+            "UniqueUsers": "Unique Users",
+            "LastViewed": "Last Viewed",
+            "PageType": "Page Type",
+            "CheckedOutTo": "Checked Out To",
+            "LastModified": "Last Modified",
+            "ReviewDate": "Review Date",
+            "StartDate": "Start Date",
+            "EndDate": "End Date",
+            "CheckedOutToEmail": "Checked Out To Email",
+            "ScheduleDate": "Schedule Date"
+          },
+          "MissingPageTitle": "Missing Title",
+          "Errors": {
+            "ContactPropNotSetup": "Please set up contact property in Publishing App settings",
+            "ContactAndReviewDatePropNotSetup": "Please set up contact and review date properties in Publishing App settings"
+          },
+          "View": {
+            "CalendarView": {
+              "MonthView": "Month View",
+              "WeekView": "Week View",
+              "CalendarNavigation": {
+                "NextDay": "Next Day",
+                "PreviousDay": "Previous Day",
+                "NextWeek": "Next Week",
+                "PreviousWeek": "Previous Week",
+                "NextMonth": "Next Month",
+                "PreviousMonth": "Previous Month"
+              }
+            },
+            "ListView": "List View"
+          },
+          "MaximumCapacityMessage": "This report has reached its maximum capacity and is no longer available for use. We recommend utilizing Matomo-based statistics as an alternative. For more information, please refer to the following <a href='https://omnia-docs-g2.readthedocs.io/en/latest/admin-settings/business-group-settings/settings/analytics/index.html' target='_blank'>resource</a>."
+        },
+        "StatisticsPerPage": {
+          "IncludeChildPages": "Include Sub Pages"
+        },
+        "BlockMessages": {
+          "BlockRegistrationNotFound": "Block Registration is not found",
+          "FeatureDependencyNotValid": "Feature Dependency is not valid"
+        },
+        "Permissions": {
+          "Admin": "Page Collection Admin"
+        },
+        "Panels": {
+          "Background": {
+            "MappedEnterpriseProperty": "Page Image Property",
+            "BlurEffect": "Blur Effect",
+            "AddImage": "Add Image",
+            "BackgroundGradient": "Background Gradient",
+            "BackgroundOverflow": "Background Overflow",
+            "bgSizes": {
+              "CustomSize": "Custom Size"
+            },
+            "bgRepeat": {
+              "NoRepeat": "No Repeat"
+            },
+            "bgAttachment": {
+              "Title": "Scroll Behavior"
+            }
+          },
+          "Versions": {
+            "Title": "Version History",
+            "OlderVersions": "older versions"
+          },
+          "ActivityPoints": {
+            "Title": "Actitivity Points",
+            "EnableActivityPoints": "Enable Activity Points"
+          },
+          "SendAsEmail": {
+            "Title": "Send as E-mail"
+          },
+          "PageTypes": {
+            "Title": "Page Types",
+            "AddPageType": "Add Page Type",
+            "SwitchPageType": "Switch Page Type"
+          },
+          "ContentAnalysis": {
+            "Title": "Publish policies"
+          },
+          "PageCollections": {
+            "Title": "Page Collections"
+          },
+          "Approval": {
+            "EnableApproval": "Enable Approval",
+            "TermDriven": "Term Driven",
+            "ApplyToAuthorOnly": "Apply to Authors only",
+            "EmailSubject": "E-mail subject",
+            "EmailBody": "E-mail body"
+          },
+          "Scheduling": {
+            "EnableScheduling": "Enable Scheduling"
+          },
+          "AutoSubscription": {
+            "Title": "Auto Subscription"
+          },
+          "TaxonomyConnection": {
+            "Title": "Taxonomy Connection"
+          },
+          "BlockSettings": {
+            "ThemingType": "Theming Type",
+            "BlockMargin": "Block Margin",
+            "CSSClasses": "Custom CSS Classes",
+            "CSSStyling": "Custom CSS Style",
+            "HideControlLabel": "Hide Block",
+            "ChromeColor": "Chrome Color",
+            "ChromeSize": "Chrome Size"
+          },
+          "ColumnSettings": {
+            "BackgroundColor": "Background Color",
+            "CSSClasses": "Custom CSS Classes"
+          },
+          "TabSettings": {
+            "Type": "Tab Type",
+            "LabelColor": "Label Color",
+            "LabelPadding": "Label Padding",
+            "TabAlignment": "Tab Alignment",
+            "ShowActiveTabSlider": "Show Active Slider",
+            "BackgroundColorTabs": "Background Color Tabs",
+            "TabColor": "Tab Color",
+            "SelectedTabColor": "Selected Tab Color",
+            "TextColorTabs": "Text Color Tabs",
+            "SelectedLabelColor": "Selected Label Color"
+          },
+          "TabsSettings": {
+            "AddTab": "Add Tab"
+          },
+          "ColumnsSettings": {
+            "AddColumn": "Add Column"
+          },
+          "SectionSettings": {
+            "HeaderSettings": "Header Settings",
+            "TenantHeaderBackground": "Tenant Header Background Color",
+            "AppHeaderBackground": "App Header Background Color",
+            "BackgroundColor": "Background Color",
+            "BorderRadiusTop": "Border Radius Top",
+            "BorderRadiusBottom": "Border Radius Bottom",
+            "AcrylicEffect": "Acrylic Transparency Effect",
+            "WidthType": "Width Type",
+            "FullPage": "Full Page",
+            "BlockSpacing": "Block Spacing",
+            "SectionMargin": "Section Padding",
+            "HideControlLabel": "Hide Section",
+            "BackgroundImage": "Background Image",
+            "ColumnSpacing": "Column Spacing",
+            "CSSClasses": "Custom CSS Classes",
+            "CSSStyling": "Custom CSS Styling",
+            "MinHeight": "Minimum Height"
+          },
+          "PageSettings": {
+            "DrawerTitle": "Page Style",
+            "ThemingBlock": "Block Theming",
+            "ThemingPage": "Page Theming",
+            "EmailRecipients": "E-mail Recipients"
+          },
+          "Common": {
+            "LinearGradient": "Linear Gradient",
+            "RadialGradient": "Radial Gradient"
+          },
+          "TargetPagesInfo": {
+            "Title": "Content Reused By",
+            "PublishAll": "Publish All",
+            "InSyncStatus": "In Sync",
+            "NotInSyncStatus": "Not In Sync",
+            "UserNotHavePermissionOnPage": "User doesn't have permission to resolve the page with pageid",
+            "NoDataAvailable": "No Data Available"
+          },
+          "AutomaticPageCreation": {
+            "Title": "Automatic Page Creation",
+            "NoDataAvailable": "No Data Available"
+          },
+          "ReusableContent": {
+            "Title": "Reusable Content"
+          },
+          "AuthenticationOptions": {
+            "AllowAnonymous": "Allow Anonymous"
+          },
+          "Channels": {
+            "AllChannels": "All Channels",
+            "PublishToChannels": "Publish to Channels",
+            "SelectedChannels": "Selected Channels",
+            "PublishToChannelAction": "Publish to Channels",
+            "DiscardChangesConfirmation": {
+              "Title": "Discard Changes"
+            },
+            "AtleastOneChannelIsRequiredForNewPage": "At least one publishing channel is required for new page."
+          },
+          "PageCollectionPermission": {
+            "Title": "Page Collection Permission"
+          },
+          "OpenAI": {
+            "AIGeneratedContent": "AI Generated Content",
+            "EnableOpenAI": "Enable AI generated content",
+            "ImageRatio": "Image Ratio"
+          },
+          "SemanticSearch": {
+            "SemanticSearchEnableConfirmation": {
+              "Title": "Included pages in Semantic search",
+              "Message": "Published pages will be searchable by all users with the Semantic search reader role. Do you want to proceed?"
+            },
+            "ReindexMessage": "Note: In order for the page to be indexed for semantic search, it needs to be re-published."
+          }
+        },
+        "Dialogs": {
+          "MoveToTenant": {
+            "Title": "Promote to Tenant",
+            "ConfirmationMessage": "Are you sure you want to promote this Page Type to tenant level?"
+          },
+          "DuplicateUrlWarningMessage": "The URL has been automatically updated because it was not unique. Please review the URL and Title to ensure they meet your needs, and make changes if necessary.",
+          "DeleteAchievement": {
+            "Title": "Delete Badge"
+          },
+          "DisplayBreakPoints": {
+            "Title": "Display Breakpoint Settings"
+          },
+          "SetPermission": {
+            "ThereNeedsToBeAtLeastOneAdministratorInThePublishingApp": "There needs to be at least one administrator in the Publishing App."
+          },
+          "CreatePage": {
+            "NoTemplateSelected": "No Template Selected",
+            "Title": "Create New Page",
+            "PageTypeLabel": "Page Type",
+            "UrlLabel": "Url",
+            "OpenAIPrompt": "OpenAIPrompt",
+            "PlaceholderPromptOpenAI": "Please give a detailed explanation of what the page should be about."
+          },
+          "EditNavigation": {
+            "Title": "Edit Navigation",
+            "ShowInMegaMenu": "Show In Mega Menu",
+            "ShowInCurrentNavigation": "Show In Current Navigation",
+            "OpenInNewWindow": "Open In New Window"
+          },
+          "CreatePageCollection": {
+            "Title": "Create New Page Collection",
+            "Hierarchic": "Navigation Structure",
+            "Url": "Url"
+          },
+          "CreatePageType": {
+            "Title": "Create New Page Type"
+          },
+          "EditPageType": {
+            "Title": "Default Values"
+          },
+          "EditContentAnalysis": {
+            "ContentAnalysisTitle": "Content Analysis"
+          },
+          "PrePublishContentAnalysis": {
+            "EditPage": "Edit Page",
+            "FixPage": "Fix Page",
+            "FixedPageSuccessMessage": "Page Content is fixed successfully. You can re-check it !",
+            "ErrorMessage": "Unable to Analyze or Fix Page Content"
+          },
+          "AddContent": {
+            "Title": "Add Content"
+          },
+          "PageHidden": {
+            "HideTitle": "Hide Page",
+            "ShowTitle": "Show Page"
+          },
+          "ArchivePageType": {
+            "NotAllowedMessage": "The action cannot be completed because this page type is using by another pages!",
+            "Title": "Archive Page Type"
+          },
+          "ArchivePage": {
+            "Title": "Archive Page",
+            "PageVariationTitle": "Archive Page Variation"
+          },
+          "CopyPage": {
+            "Title": "Copy Page"
+          },
+          "ArchivePageCollection": {
+            "Title": "Archive Page Collection"
+          },
+          "MovePageCollection": {
+            "Title": "Move Page Collection",
+            "SelectPublishingApp": "Select Publishing App",
+            "SelectBusinessProfile": "Select Business Profile",
+            "InvalidVariationsMessage": "The variation settings for the source and the target publishing app do not match. Please ensure the same variation settings before you try to move the page collection.",
+            "ExistingUrlSegmentMessage": "There is a Page Collection in target Publishing App has same Url. Please change the Url before moving.",
+            "IsNotAppAdminMessage": "You must be App Administrator in target Publishing App.",
+            "HasVariationsMessage": "There are variation settings for the source or the target publishing app. Please ensure that both publishing apps don't have the variation settings before you try to move the page collection."
+          },
+          "DeleteLink": {
+            "Title": "Delete Link"
+          },
+          "DeleteBlock": {
+            "Title": "Delete Block"
+          },
+          "DeleteSection": {
+            "Title": "Delete Section"
+          },
+          "RemoveColumn": {
+            "Title": "Remove Column"
+          },
+          "UndoChanges": {
+            "Title": "Discard Changes"
+          },
+          "MoveNode": {
+            "Title": "Move Node",
+            "DuplicateWarningMessageWhenMovingAsSibling": "A node with the same path already exist under this parent node."
+          },
+          "SendAppprovalRequest": {
+            "Title": "Send for Approval"
+          },
+          "Schedules": {
+            "Title": "Schedule Publishing",
+            "DeletePageSchedule": "Remove Page Scheduling",
+            "RejectMessages": "Reject Message"
+          },
+          "Publish": {
+            "PublishAndSendEmail": "Publish and Send E-mail",
+            "SendPageAsEmail": "Send page as e-mail",
+            "Email": "E-mail"
+          },
+          "AutomaticPageCreation": {
+            "Title": "Automatic Page Creation",
+            "PageCreationRule": "Page Creation Rule",
+            "ReusableContent": "Initial Properties",
+            "MappedVariations": "Mapped Variations",
+            "PublishingAppLabel": "Publishing App",
+            "ConnectedTenantLabel": "Connected Tenant",
+            "PageCollectionLabel": "Page Collection",
+            "PageTypeLabel": "Page Type",
+            "SourceVariation": "Source Variations",
+            "TargetVariation": "Target Variations",
+            "PageCreationInfoLabel": "Page Creation Info",
+            "EnableReusableContent": "Enable Reusable Content",
+            "EnableAutoPublish": "Enable Auto Publish",
+            "PageCreationMatchRuleOption": {
+              "AlwaysCreate": "Always Create"
+            },
+            "CurrentTenant": "Current Tenant",
+            "ConnectedTenant": "Connected Tenant"
+          },
+          "DistributionChannel": {
+            "PropertyMapping": "Property Mapping"
+          },
+          "InviteAuthors": {
+            "Title": "Invite Co-authors",
+            "SendEmailInvitation": "Send e-mail invitation",
+            "EmailMessage": "E-mail message"
+          },
+          "YammerIntegration": {
+            "Title": "Yammer Integration",
+            "PostMatchRuleOption": {
+              "AlwaysCreate": "Always Create",
+              "OnlyCreateIf": "Only Create If"
+            },
+            "YammerGroup": "Yammer Group",
+            "YammerThreadId": "Yammer Thread Id",
+            "ValidateYammerGroupMessage": "Yammer Group is required"
+          },
+          "ApprovalHistory": {
+            "SendBackAction": "Sent Back"
+          },
+          "PageReviewRule": {
+            "Title": "Page Review Rule",
+            "EmailEnabled": "Send email",
+            "PageType": "Page Type",
+            "TestEmailDialog": {
+              "Instruction": "To verify the email settings for this rule, select users below to receive a test email. This will validate that the placeholders are correctly replaced and that the email formatting appears as intended.",
+              "InfoText": "The email will be generated using information from the following pages:",
+              "NoPagesFoundMessage": "No pages found for the selected page type. Please create pages to enable full testing of the review email."
+            },
+            "TestEmailBtn": "Test email",
+            "Placeholders": {
+              "PlaceholderContent": "Name of the person the mail is sent to - {{Recipient}}<br/>List of pages that requires review - {%ListOfPages | %}<br/>From within the list of pages, after | and before %} you can use:<br/>A link to the individual page - {{PageLink}}<br/>A title of the individual page - {{PageTitle}}<br/>And the properties of the page:"
+            }
+          }
+        },
+        "Tabs": {
+          "Recipients": "E-mail Recipients",
+          "Title": {
+            "App": "Publishing App Settings"
+          }
+        },
+        "Buttons": {
+          "AddPageCollection": "Page Collection",
+          "AddColor": "Add Color",
+          "CreateNewPage": "Create Page",
+          "CreateNewLink": "Create Link",
+          "EditNavigation": "Edit Navigation",
+          "MoveNode": "Move Node",
+          "MoveToTenant": "Promote to Tenant",
+          "CreateVariation": "Create Variation",
+          "PageStyle": "Page Style"
+        },
+        "Achievements": {
+          "Achievements": "Enable Badges",
+          "AchievementsPoints": "Badge Points",
+          "IconColor": "Icon Color"
+        },
+        "TargetPageDialog": {
+          "Title": "Target Pages"
+        },
+        "AppSettingsDiscardChangesConfirmation": {
+          "Title": "Discard Changes"
+        },
+        "MovePage": {
+          "PageInReadModeMessage": "This page is in read-only mode. Moving Id: {TrackingId}"
+        },
+        "PageNotLoadedMessage": "This page hasn't been loaded yet"
+      }
+    },
+    "MegaMenu": {
+      "ControlTitle": "Mega Menu",
+      "Settings": {
+        "PublishingApp": "Publishing App",
+        "PageCollection": "Page Collection",
+        "StaticDisplayLevel": "Static Display Level",
+        "DynamicDisplayLevel": "Dynamic Display Level",
+        "MaxHeight": "Max Height",
+        "MaxWidth": "Max Width",
+        "MinWidthOfColumn": "Min Width Of Column",
+        "TextColor": "Text Color",
+        "SelectedBorderColor": "Selected Border Color",
+        "Query": {
+          "AddQuery": "Add Query",
+          "NavigationDepth": "Navigation Depth",
+          "ExcludeStartNode": "Exclude Start Node"
+        },
+        "Display": {
+          "FontSize": "Font Size",
+          "FontWeight": "Font Weight",
+          "AddStyle": "Add Style",
+          "StaticLevels": "Static Levels"
+        }
+      },
+      "Accessibility": {
+        "MainMenuLabel": "Main Menu"
+      }
+    },
+    "PermissionInput": {
+      "BreakPermissionInheritance": "Break Permission Inheritance",
+      "PageCollection": "PageCollection"
+    },
+    "RssReader": {
+      "Title": "RSS Reader",
+      "Block": {
+        "InvalidSource": "The RSS Reader block only supports RSS 2.0 and Atom 1.0 or newer",
+        "NotSupportSource": "Rss Reader only support RSS 2.0 and Atom 1.0 or newer",
+        "XmlExceptionSource": "The source content is using gzip encoding or is not RSS compliant"
+      },
+      "Enum": {
+        "ViewType": {
+          "ImageonRight": "Image on Right"
+        }
+      }
+    },
+    "SearchResultSource": {
+      "Scope": {
+        "PublishingApps": "Publishing Apps",
+        "PageCollections": "Page Collections",
+        "NavigationPath": "Navigation Path",
+        "BusinessProfiles": "Business Profiles"
+      },
+      "LanguageSettings": {
+        "CurrentUser": "Current User"
+      },
+      "PageVariationType": {
+        "CurrentUserVariation": "Current User"
+      },
+      "IncludeEmpty": "Include Empty",
+      "TermSetNotFound": "Term Set not found",
+      "CurrentPageCollection": "Current Page Collection",
+      "CurrentApp": "Current Publishing App",
+      "InvalidPageCollectionUrl": "Invalid page collection url",
+      "UrlToPageCollection": "Url to Page Collection"
+    },
+    "SearchTemplate": {
+      "CommentSearchTemplate": {
+        "Title": "Comment Search Template"
+      }
+    },
+    "SignOffRequest": {
+      "CurrentPage": "Current Page",
+      "SpecificPage": "Specific Page",
+      "SignOffRequest": "Sign-off Request",
+      "ThisPageHasBeenDeleted": "This Page has been deleted",
+      "Button": {
+        "ShowRequests": "Show Requests",
+        "HideRequests": "Hide Requests",
+        "EndUserSignOff": "End-user sign off",
+        "OpenDetail": "Open Detail"
+      },
+      "Banner": {
+        "MultipleRequest": "There are more than one sign-off request related to this page"
+      }
+    },
+    "SubscribeButton": {
+      "settingsLabels": {
+        "UnSubscribeText": "Unsubscribe Text",
+        "Scope": "Subscription Scope"
+      },
+      "SubscriptionType": {
+        "PublishingApp": "Publishing App",
+        "PageCollection": "Page Collection",
+        "PublishingChannel": "Publishing Channel"
+      },
+      "CurrentPage": "Current Page"
+    },
+    "ActivityFeedLocalization": {
+      "ControlTitle": "Activity Feed",
+      "SubscriptionType": {
+        "PublishingApp": "Publishing App",
+        "PageCollection": "Page Collection",
+        "Global": "My Subscriptions"
+      },
+      "ItemLimit": "Item Limit"
+    },
+    "WelcomeBlock": {
+      "Block": {
+        "BlockTitle": "Welcome Block",
+        "BlockSummary": "Can be used for various messages to the logged in user, on specific dates or occasions.",
+        "NoAvailableMessage": "No available message to render now",
+        "Common": {
+          "Sections": {
+            "ProfileImage": "Profile Image"
+          },
+          "Display": {
+            "MessageTypeSelect": "Message Type",
+            "NoResultText": "No Result Text",
+            "MessageTemplate": "Message Template",
+            "NotAllowEmpty": "Not allow empty",
+            "MessageStyle": "Message Style",
+            "MessageType": {
+              "DayOfWeek": {
+                "NoValid": "The day is already selected"
+              },
+              "DateTime": {
+                "Label": "Date Time",
+                "StartTime": "Start Time",
+                "EndTime": "End Time",
+                "Overlapped": "This interval time is overlapped",
+                "NoValid": "The end time must be greater than the start time"
+              }
+            },
+            "DisplaySetting": {
+              "Avatar": {
+                "ShowAvatar": "Show profile image",
+                "Size": {
+                  "Label": "Size",
+                  "Small": "Small",
+                  "Medium": "Medium",
+                  "Large": "Large",
+                  "ExtraLarge": "Extra large"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "ActionButtons": {
+        "General": {
+          "SignUpButtonType": "Button Type"
+        },
+        "SignUpButton": {
+          "ReserveText": "Reserve Text",
+          "ApplyText": "Apply Text"
+        },
+        "SignUpOtherButton": {
+          "Reserve": "Reserve For Other",
+          "ReserveText": "Reserve For Other Text",
+          "Apply": "Apply For Other",
+          "ApplyText": "Apply For Other Text"
+        },
+        "AddToOutlook": {
+          "AddToOutlookMessage": "Event has been saved successfully!"
+        },
+        "ActionButtonType": {
+          "SignUpOther": "Sign Up Other",
+          "AddToOutlook": "Add To Outlook",
+          "AddToMyCalendar": "Add To My Calendar"
+        },
+        "AddToMyCalendar": {
+          "EventStart": "Event Start",
+          "EventEnd": "Event End",
+          "AllDayEvent": "All Day Event"
+        },
+        "ButtonDefinition": {
+          "SignUp": {
+            "Title": "Sign Up Button"
+          },
+          "SignUpOther": {
+            "Title": "Sign Up Other Button"
+          },
+          "AddToOutlook": {
+            "Title": "Add To Outlook Button"
+          }
+        },
+        "Registration": "Event Management"
+      },
+      "AdminSettings": {
+        "Title": "Event Management",
+        "AppInstances": {
+          "Title": "Publishing Apps",
+          "AppAdministrator": "App Administrator",
+          "ChangeCalendarMsg": {
+            "Title": "Change Calendar"
+          },
+          "DescriptionWarningMessage": "The description field should not be a searchable field. This will limit its length by 850 characters.",
+          "OnpremNotSupport": "This feature is not support in Omnia Onprem"
+        },
+        "PageCollections": {
+          "CreatedBy": "Created By",
+          "Url": "Url"
+        },
+        "EmailSettings": {
+          "Title": "Email Settings",
+          "InvitationEmail": {
+            "Title": "Event Description Default Text"
+          }
+        }
+      },
+      "SystemAccount": {
+        "Title": "Event Management Service Account"
+      },
+      "ColleagueDialogContent": {
+        "Buttons": {
+          "SignUp": "Sign Up"
+        },
+        "DialogTitle": {
+          "SignUp": "Sign Up",
+          "SignUpForColleague": "Sign Up Colleague",
+          "ReserveForColleague": "Reserve Colleague",
+          "ApplyForColleague": "Apply Colleague"
+        }
+      },
+      "Core": {
+        "BlockCategory": "Event Management",
+        "Features": {
+          "EnterpriseProperties": {
+            "Title": "Default Enterprise Properties for Event Management",
+            "Description": "Deploys enterprise properties used in Event Management.",
+            "Category": "Enterprise Properties"
+          },
+          "New7EventManagement": {
+            "Title": "Event Management"
+          },
+          "New7PageTypes": {
+            "Title": "Event Management page types",
+            "Description": "Creates example Event Management page types."
+          }
+        }
+      },
+      "EventCloneDialogContent": {
+        "DialogTitle": "Copy Event",
+        "PageName": "Event Name",
+        "PageId": "Page Id",
+        "Url": "Url",
+        "Pattern": {
+          "FeedbackEmail": "Feedback email",
+          "WeakLevelPercentage": "Percentage Level - Weak",
+          "GoodLevelPercentage": "Percentage Level - Good",
+          "DayOfWeeks": {
+            "WeekendDay": "Weekend Day"
+          },
+          "WeekOfMonth": {
+            "First": "First",
+            "Second": "Second",
+            "Third": "Third",
+            "Fourth": "Fourth",
+            "Last": "Last"
+          }
+        }
+      },
+      "EventParticipantCounter": {
+        "Title": "Event Participant Counter",
+        "Settings": {
+          "MaxParticipantsProp": "Max Participants Property",
+          "HideNumberOfRegisteredParticipants": "Hide Number Of Registered Participants (Reader)"
+        }
+      },
+      "EventParticipantList": {
+        "Settings": {
+          "PageSize": "Page Size",
+          "DateFormat": "Date Format",
+          "ShowStandbyList": "Show Standby List",
+          "EnableStandbyList": "Enable Standby List",
+          "ShowParticipantList": "Show Participant List",
+          "PagingType": {
+            "NoPaging": "No Paging"
+          }
+        },
+        "BlockTitle": "Event Participant List",
+        "Messages": {
+          "NoComment": "No Comment",
+          "AddToOutlookMessage": "Event has been saved successfully!",
+          "MailParticipantOverflowInfo": "The mail participants functionality has exceed the limitation of URL, please click on each buttons below to open separate mail client apps."
+        },
+        "Buttons": {
+          "MailAllParticipants": "Mail all Participants",
+          "MailParticipants": "Mail Participants",
+          "MoveToReservationList": "Move to Reservation List",
+          "MoveToApplicationList": "Move to Application List",
+          "MoveToOfficialList": "Move to Participant List",
+          "SignUp": "Sign Up",
+          "SignupColleague": "Sign Up Colleague",
+          "ReserveForColleague": "Reserve for Colleague",
+          "ApplyForColleague": "Apply for Colleague",
+          "UpdateOutlookEvent": "Update Outlook Event",
+          "CopyEvent": "Copy Event"
+        },
+        "Labels": {
+          "StandBy": "Stand By",
+          "MySignedUp": "My Signed Up",
+          "ListOfReservation": "List of Reservations",
+          "ListOfApplications": "List of Applications",
+          "MyReservations": "My Reservations",
+          "MyApplications": "My Applications",
+          "ParticipantCapacity": "Number of People",
+          "EndDateProp": "End Date",
+          "StartDateProp": "Start Date",
+          "SignupColleagueProp": "Allow Sign Up Colleagues",
+          "EnableStandbyListProp": "Enable Standby List",
+          "HideParticipantListProp": "Hide Participant List (Reader)",
+          "HideEventInfo": "Hide Event Info"
+        },
+        "EmailTemplates": {
+          "Signup": {
+            "Subject": "Signed Up Successfully"
+          }
+        },
+        "ExcelHeaders": {
+          "LoginName": "Login Name",
+          "Capacity": "Number of People",
+          "StatusResponse": "Status Response",
+          "StatusTime": "Date of Response"
+        },
+        "DialogTitle": {
+          "DeleteColleague": "Delete User",
+          "MoveToReservationList": "Move to Reservation List",
+          "MoveToApplicationList": "Move to Application List",
+          "MoveToOfficialList": "Move to Participant List",
+          "LeaveEvent": "Leave Event"
+        }
+      },
+      "PageRollupViews": {
+        "Settings": {
+          "RegisteredCapacity": "Registered Capacity",
+          "LeftCapacity": "Left Capacity"
+        },
+        "ViewTitle": {
+          "SlideGroups": "Slide Groups",
+          "List": "Event List"
+        },
+        "ListView": {
+          "AddColumn": "Add Column",
+          "PageTitleAndLink": "Page Title & Link",
+          "AdjustColumns": "Adjust Columns",
+          "PageTitle": "Page Title",
+          "ShowHeading": "Show Heading",
+          "ShowRegisteredCapacity": "Show Registered Number",
+          "ShowRegisteredCapacityHeading": "Show Header of Registered Number"
+        }
+      }
+    },
+    "InfoScreen": {
+      "Admin": {
+        "Settings": {
+          "FormTitle": "Page Rollup Settings",
+          "SocialPeriod": "Time Period",
+          "PageVariation": "Page Variations",
+          "AddFilter": "Add Filter",
+          "CurrentPageCollection": "Current Page Collection",
+          "UrlToPageCollection": "Url to Page Collection",
+          "ItemLimit": "Item Limit",
+          "InvalidPageCollectionUrl": "Invalid page collection url",
+          "IncludeChildTerms": "Include Child Terms",
+          "IncludeEmpty": "Include Empty",
+          "PageSize": "Page Size",
+          "PagingType": {
+            "NoPaging": "No Paging"
+          },
+          "Scope": {
+            "PublishingApps": "Publishing Apps",
+            "PageCollections": "Page Collections"
+          },
+          "UIFilterOption": {
+            "MyDrafts": "My Drafts",
+            "Searchbox": "Search Box"
+          },
+          "SearchBoxMessage": {
+            "SearchOnPageTitleAnd": "Search on Page Title and",
+            "PageProperties": "Page Properties"
+          },
+          "AdjustFilters": "Adjust Filters"
+        },
+        "ListView": {
+          "AddColumn": "Add Column",
+          "PageTitleAndLink": "Page Title & Link",
+          "AdjustColumns": "Adjust Columns",
+          "PageTitle": "Page Title"
+        },
+        "Common": {
+          "PageRollup": "Page Rollup",
+          "LinkDefaultLabel": "Page Collections",
+          "LinkUrl": "Link url",
+          "TermSetNotFound": "Term Set not found",
+          "ShowMyDrafts": "Show My Drafts",
+          "ShowCommentLike": "Show Likes/Comments",
+          "ShowRating": "Show Ratings",
+          "HideReadNews": "Hide Read News",
+          "BlockTitle": "Info Screen Settings"
+        },
+        "ViewTitle": {
+          "List": "List View",
+          "NewUXOneColumnFullWidthView": "One Column Full Width",
+          "NewUXOneColumnWideWidthView": "One Column Wide Width",
+          "NewUXOneColumnNormalOmniaWidthView": "One Column Normal Omnia Width"
+        },
+        "InfoScreen": {
+          "Tabs": {
+            "NewsTab": "News Settings",
+            "MediaTab": "Media Settings"
+          },
+          "ControlTitle": "Info Screen",
+          "StartScroll": "Delay Time before Scroll (seconds)",
+          "ScrollSpeed": "Scrolling Speed",
+          "WaitAfterStopScrolling": "Delay Time after Scroll (seconds)",
+          "ScrollsWholePage": "Scrolls Whole Page",
+          "OnlyShowsSummary": "Only Shows Summary",
+          "LoadPart": "Shows Full Article Page",
+          "CreatedBy": "Created By",
+          "CreatedAt": "Created At",
+          "ShowContact": "Show Contact",
+          "ShowCreatedDate": "Show Created Date",
+          "LogoUrl": "Logo Url",
+          "LogoPosition": "Logo Position",
+          "LogoVisibility": "Logo Visibility",
+          "LogoSize": "Logo Size",
+          "IndicatorColor": "Slides Indicator Color",
+          "CountDownTextColor": "Count Down Text Color",
+          "IndicatorPosition": "Indicator Position",
+          "IndicatorVisibility": "Indicator Visibility",
+          "DeleteInfoScreen": "Delete Info Screen",
+          "AddVideo": "Add Video",
+          "EditVideo": "Edit Video",
+          "DeleteVideo": "Delete Video"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "ChannelManagement": {
+      "Categories": {
+        "DeleteCategoryConfirmation": {
+          "Title": "Remove Category"
+        }
+      },
+      "Admin": {
+        "Title": "Publishing Channels",
+        "ApproveChannel": {
+          "Title": "Approve Channel"
+        },
+        "ChannelManagement": {
+          "WaitingforApproval": "Waiting for Approval",
+          "ChannelDeleteTitle": "Delete Channel"
+        }
+      }
+    },
+    "CalendarRollup": {
+      "ControlTitle": "Calendar Rollup",
+      "Settings": {
+        "Calendars": {
+          "SelectCalendarGroups": "Select Calendar Groups",
+          "SelectCalendar": "Select Calendar",
+          "ItemLimit": "Query Item Limit"
+        },
+        "View": {
+          "ItemLimit": "Max Display Item limit",
+          "DisplayShowMore": "Display Show more"
+        },
+        "SelectCalendarType": "Select Calendar Type",
+        "SelectOfficeGroup": "Select Microsoft 365 Group",
+        "OfficcGroupNotFound": "Type to search Microsoft 365 Group",
+        "Type": {
+          "OfficeGroup": "Microsoft 365 Group",
+          "PersonalGroup": "Personal Group",
+          "CurrentUser": "Current User"
+        },
+        "NoResultText": "No Result Text"
+      },
+      "ViewTitle": {
+        "List": "List View"
+      },
+      "DisplayLegend": {
+        "YourCalendar": "Your Calendar"
+      },
+      "Common": {
+        "CalendarRollup": "Calendar Rollup"
+      },
+      "Dialog": {
+        "ResponseMessage": {
+          "NotResponse": "Didn't response"
+        }
+      }
+    },
+    "ChannelRollup": {
+      "ControlTitle": "Channel Rollup",
+      "ApprovalChannel": "Approve Channel"
+    },
+    "ChannelApprovalPage": {
+      "NoPermission": "No Administrator Permission",
+      "NoAdministratorPermission": "You don't have Administrator permission for this channel",
+      "MissingPageId": "Missing PageId"
+    },
+    "Communities": {
+      "AppDefinition": {
+        "AppResourceTypes": {
+          "OmniaCommunityApp": "Omnia Community App",
+          "YammerCommunity": "Yammer Community"
+        }
+      }
+    },
+    "DigitalSignage": {
+      "Admin": {
+        "ViewTitle": {
+          "OneColumnImageOnTop": "One Column Image On Top"
+        },
+        "LayoutOptions": {
+          "bottomLeft": "Bottom Left",
+          "bottomRight": "Bottom Right",
+          "topLeft": "Top Left",
+          "topRight": "Top Right"
+        },
+        "DigitalSignage": {
+          "ControlTitle": "Digital Signage",
+          "PageRollups": "Page Rollups",
+          "JsonTemplates": "JSON Templates",
+          "JsonTemplateSettings": {
+            "AddTitle": "Add JSON Template",
+            "EditTitle": "Edit JSON Template",
+            "DeleteDialogTitle": "Delete JSON Template",
+            "TemplateInUseErrorMessage": "Unable to delete this template because it is used by one or more screens!"
+          },
+          "PageRollupSettings": {
+            "AddTitle": "Add Page Rollup",
+            "EditTitle": "Edit Page Rollup",
+            "DeleteDialogTitle": "Delete Page Rollup",
+            "DeleteDialogMessage": "Are you sure you want to delete this Page Rollup?",
+            "PublishAppSubSelection": "Publishing App",
+            "NavPickValidationErrorMessage": "* Title, Start node and Navigation depth level are required",
+            "JsonMapping": "Json Mapping"
+          },
+          "HtmlViewSettings": {
+            "AddTitle": "Add HTML View",
+            "EditTitle": "Edit HTML View",
+            "DeleteDialogTitle": "Delete HTML View",
+            "DeleteDialogMessage": "Are you sure you want to delete this HTML View?",
+            "ImageRatio": "Image Ratio",
+            "ShowCommentLike": "Show Likes/Comments",
+            "StartScroll": "Delay Time before Scroll (seconds)",
+            "ScrollSpeed": "Scrolling Speed",
+            "WaitAfterStopScrolling": "Delay Time after Scroll (seconds)",
+            "ScrollsWholePage": "Scrolls Whole Page",
+            "OnlyShowsSummary": "Only Shows Summary",
+            "LoadPart": "Shows Full Article Page",
+            "CreatedBy": "Created By",
+            "CreatedAt": "Created At",
+            "ShowContact": "Show Contact",
+            "ShowCreatedDate": "Show Created Date",
+            "LogoUrl": "Logo Url",
+            "LogoPosition": "Logo Position",
+            "ShowLogo": "Show Logo",
+            "LogoSize": "Logo Size",
+            "IndicatorColor": "Slides Indicator Color",
+            "CountDownTextColor": "Count Down Text Color",
+            "IndicatorPosition": "Indicator Position",
+            "ShowIndicator": "Show Indicator",
+            "ShowQrCode": "Show QR Code",
+            "QrCodePosition": "QR Code Position",
+            "QrCodeSize": "QR Code Size",
+            "QrCodeText": "QR Code Text",
+            "TextColumnWidth": "Text Column Width"
+          },
+          "ScreenSettings": {
+            "AddTitle": "Add Screen",
+            "EditTitle": "Edit Screen",
+            "DeleteDialogTitle": "Delete Screen",
+            "QueryKey": "Screen Key",
+            "QuerySelect": "Page Query",
+            "JsonSelect": "JSON View",
+            "HtmlSelect": "HTML View",
+            "ScreenType": "Screen Type",
+            "PageRollup": "Page Rollup"
+          },
+          "JsonViewSettings": {
+            "AddTitle": "Add JSON View",
+            "EditTitle": "Edit JSON View",
+            "DeleteDialogTitle": "Delete JSON View",
+            "DeleteDialogMessage": "Are you sure you want to delete this JSON View?",
+            "MediaRendition": "Image Ratio",
+            "MediaScaling": "Image Scaling"
+          }
+        },
+        "Buttons": {
+          "LaunchPreview": "Launch Preview",
+          "ViewUrl": "Show URL to Screen"
+        }
+      }
+    },
+    "TaxonomyNavigation": {
+      "ShowMore": "Show More >",
+      "Settings": {
+        "CardSpacing": "Card Spacing",
+        "CardWidth": "Card Width",
+        "CardStyle": "Custom Card styling",
+        "CurrentPage": "Current Page",
+        "DefaultValue": "Default Value",
+        "ImageRatio": "Image Ratio",
+        "AddColumn": "Add Column",
+        "ShowMoreLink": "Show More Link"
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "AdLink": "Add Link",
+          "UpdateLink": "Update Link",
+          "RemoveLink": "Remove Link",
+          "AddSuggestion": "Add Suggestion",
+          "RemoveSuggestion": "Remove Suggestion"
+        },
+        "Extensions": {
+          "LinkPicker": "Link Picker",
+          "MediaPicker": "Media Picker",
+          "EnterpriseGlossarySuggestion": "Enterprise Glossary Suggestion"
+        }
+      },
+      "PublishingEnterpriseProperties": {
+        "Owcmpageimage": "Page Image",
+        "Owcmpagesummary": "Page Summary",
+        "Owcmpagecontact": "Page Contact",
+        "Owcmpagecontent": "Page Content",
+        "Owcmarticledate": "Article Date",
+        "Owcmreviewdate": "Review Date",
+        "Owcmrelatedlinks": "Related Links",
+        "Owcmdocumentdata": "Document Data",
+        "Owcmpromotedtags": "Promoted Tags"
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "NoDocumentsToShow": "No Documents To Show",
+        "Finish": "Upload Complete",
+        "Fail": "Upload Failed",
+        "OpenInClientApp": "Open In Client App",
+        "MaxFileSizeError": "The maximum allowed file size is 250mb"
+      },
+      "CustomLink": {
+        "Url": "Url",
+        "AnchorName": "Anchor Name"
+      },
+      "EditLink": {
+        "SelectLink": "Select Link"
+      },
+      "Settings": {
+        "FormTitle": "Related Links Settings"
+      }
+    },
+    "PagePicker": {
+      "SelectPageCollection": "Select Page Collection",
+      "SelectApp": "Select App",
+      "UrlToPageCollection": "Url to Page Collection",
+      "InvalidPageCollectionUrl": "Invalid page collection url",
+      "SelectVariation": "Select Variation"
+    },
+    "SPCalendarRollup": {
+      "ControlTitle": "Calendar Rollup",
+      "Settings": {
+        "Calendars": {
+          "SelectCalendarGroups": "Select Calendar Groups",
+          "SelectCalendar": "Select Calendar",
+          "ItemLimit": "Query Item Limit"
+        },
+        "View": {
+          "ItemLimit": "Max Display Item limit"
+        },
+        "SelectCalendarType": "Select Calendar Type",
+        "SelectOfficeGroup": "Select Microsoft 365 Group",
+        "OfficcGroupNotFound": "Type to search Microsoft 365 Group",
+        "Type": {
+          "SharepointCalendar": "Sharepoint Calendar",
+          "MyCalendar": "My Calendar"
+        },
+        "UrlToCalendarList": "Calendar List Url",
+        "CannotResolveUrl": "Cannot find a library on this url.",
+        "TimeZone": "Force Timezone (Incl daylight savings time)"
+      },
+      "ViewTitle": {
+        "List": "List View"
+      },
+      "DisplayLegend": {
+        "YourCalendar": "Your Calendar"
+      },
+      "Common": {
+        "CalendarRollup": "Calendar Rollup"
+      },
+      "Dialog": {
+        "ResponseMessage": {
+          "Maybe": "May be"
+        }
+      },
+      "Feature": {
+        "Description": "Enable possibility to integrating with Exchange Server"
+      },
+      "Admin": {
+        "ExchangeServerUrl": "Exchange web server url"
+      }
+    },
+    "PageRollup": {
+      "ControlTitle": "Page Rollup",
+      "Settings": {
+        "FormTitle": "Page Rollup Settings",
+        "SocialPeriod": "Time Period",
+        "PageVariation": "Page Variations",
+        "AddFilter": "Add Filter",
+        "CurrentPageCollection": "Current Page Collection",
+        "CurrentPublishingApp": "Current Publishing App",
+        "CurrentApp": "Current App",
+        "UrlToPageCollection": "Url to Page Collection",
+        "QueryItemLimit": "Query Item Limit",
+        "MaxDisplayLimit": "Max Display Limit",
+        "InvalidPageCollectionUrl": "Invalid page collection url",
+        "ShowFilter": "Show Filter",
+        "HideFilter": "Hide Filter",
+        "SearchBoxOutlined": "Outlined Search Box",
+        "SearchBoxRounded": "Rounded Search Box",
+        "SearchBoxFilled": "Filled Search Box",
+        "PageSize": "Page Size",
+        "PagingType": {
+          "NoPaging": "No Paging"
+        },
+        "Scope": {
+          "PublishingApps": "Publishing Apps",
+          "PageCollections": "Page Collections",
+          "NavigationPath": "Navigation Path",
+          "BusinessProfiles": "Business Profiles"
+        },
+        "SearchBoxMessage": {
+          "SearchOnPageTitleAnd": "Search on Page Title and",
+          "PageProperties": "Page Properties"
+        },
+        "AdjustFilters": "Adjust Filters",
+        "ReactionCount": "Reaction Count",
+        "PropertiesLayout": "Properties Layout",
+        "LastCommentedAt": "Last Commented",
+        "LastActivity": "Last Activity",
+        "Status": {
+          "NeverPublished": "Never Published"
+        },
+        "PageVariationType": {
+          "CurrentUserVariation": "Current User",
+          "CurrentVariation": "Current Variation"
+        },
+        "QueryConfigurationTypes": {
+          "PickPages": "Pick Pages",
+          "UseQueryBuilder": "Use Query Builder",
+          "PickInWriteMode": "Pick in Write Mode"
+        },
+        "DeletePageConfirmation": {
+          "Title": "Remove Page"
+        },
+        "PageRollupImageRatioSettings": "Image Ratio",
+        "NavigationDepthLevel": "Navigation Depth Level",
+        "PageType": "Page Type",
+        "DefaultChannel": "Default Channel",
+        "PageHits": "Page Hits",
+        "CurrentUser": "Current User",
+        "AllUsers": "All Users",
+        "UniqueUsers": "Unique Users",
+        "LastViewed": "Last Viewed",
+        "PageStatistics": "Page Statistics",
+        "WorkflowStatus": "Workflow Status",
+        "LanguageSettings": {
+          "CurrentUser": "Current User",
+          "FixedValue": "Fixed Value"
+        }
+      },
+      "PagePicker": {
+        "AddPage": "Add Page",
+        "Title": "Page Picker"
+      },
+      "ListView": {
+        "DateType": "Date Type",
+        "DateFormat": "Date Format",
+        "AddColumn": "Add Column",
+        "PageTitleAndLink": "Page Title & Link",
+        "PageTitle": "Page Title",
+        "ShowHeading": "Show Heading",
+        "TargetNoOfUsers": "Target no of users",
+        "UniqueUsers": {
+          "UniqueUsers": "Unique Users"
+        }
+      },
+      "DynamicRoller": {
+        "Title": "Dynamic Roller",
+        "SliderType": "Slider Type",
+        "SliderSizeLabel": "Slider Size",
+        "ShowNavigation": "Show Navigation",
+        "ShowPaging": "Show Paging",
+        "OverlayOpacity": "Overlay Opacity",
+        "OverlayColor": "Overlay Color",
+        "SummaryOpacity": "Summary Text Opacity",
+        "ShowDefaultImage": "Show Default Image",
+        "SliderTypes": {
+          "Horizontal": "Horizontal Slider",
+          "Vertical": "Vertical Slider"
+        },
+        "SliderSize": {
+          "ExtraLarge": "Extra Large"
+        }
+      },
+      "CardView": {
+        "Tile": "Show as Tile",
+        "ItemsPerRow": "Cards per Row",
+        "MixCardSizes": "Mix Card Sizes",
+        "MixCardTypes": "Mix Card Types",
+        "BorderSize": "Border Width",
+        "BorderColor": "Border Color",
+        "BorderRadius": "Border Radius",
+        "CardSpacing": "Card Spacing",
+        "TitelOnImageColor": "Title Color",
+        "CardType": {
+          "BackgroundImage": "Title and Content on Image",
+          "TextImage": "Image On Top",
+          "TitleOnImage": "Title on Image",
+          "Text": "Title and Content only"
+        },
+        "Positions": {
+          "TopLeft": "Top Left",
+          "TopRight": "Top Right",
+          "BottomLeft": "Bottom Left",
+          "BottomRight": "Bottom Right"
+        },
+        "TitleSize": "Title Size",
+        "StaticTitle": "Static Title Size",
+        "CardSize": "Card Size",
+        "ImageSize": "Image Ratio",
+        "AdjustProperties": "Adjust Properties",
+        "TermProperties": "Term Properties",
+        "ShowLabel": "Show Label",
+        "ShowPageType": "Show Page Type"
+      },
+      "NewsletterView": {
+        "PageSummaryCharacterLimit": "Page Summary Character Limit",
+        "PageContentCharacterLimit": "Page Content Character Limit"
+      },
+      "NavigationView": {
+        "Title": "Navigation View"
+      },
+      "Common": {
+        "PageRollup": "Page Rollup",
+        "LinkDefaultLabel": "All Pages",
+        "LinkUrl": "Link url",
+        "TermSetNotFound": "Term Set not found",
+        "ShowMyDrafts": "Show My Drafts",
+        "ShowCommentLike": "Show Likes/Comments",
+        "ContentImage": "Content Image",
+        "ShowLikesCommentsInDialog": "Show Likes/Comments in dialog",
+        "ShowRating": "Show Rating",
+        "ShowLastActivity": "Show Last Activity",
+        "ExcludeStartNode": "Exclude Start Node",
+        "ContentImageDialog": "Dialog Image",
+        "SummaryPropDialog": "Dialog Summary",
+        "ContentPropDialog": "Dialog Content",
+        "ShowExportToExcel": "Show Export to Excel",
+        "Preview": "Preview"
+      },
+      "ViewTitle": {
+        "List": "List View",
+        "ListingWithImage": "Listing With Image",
+        "DialogView": "Page Content"
+      },
+      "DialogView": {
+        "NoImage": "No Image"
+      },
+      "NavigationNodePicker": {
+        "CurrentNode": "Current Node"
+      },
+      "WorkflowStatus": {
+        "CheckedOut": "Checked Out",
+        "WaitingForApproval": "Waiting for Approval",
+        "ScheduledForPublishing": "Scheduled for Publishing",
+        "UnpublishedChanges": "Unpublished Changes",
+        "ScheduledForArchiving": "Scheduled For Archiving"
+      },
+      "CalendarView": {
+        "StartDate": "Start Date",
+        "EndDate": "End Date",
+        "CalendarType": {
+          "Title": "Calendar Type",
+          "DefaultCalendarType": "Default Calendar Type"
+        },
+        "ViewMode": {
+          "MonthView": "Month View",
+          "WeekView": "Week View",
+          "DayView": "Day View"
+        },
+        "EnableCalendarType": "Enable Calendar Type Dropdown",
+        "IncludeTime": "Include Time",
+        "PageCreation": {
+          "SelectPageCollection": "Select Page Collection"
+        }
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "PageType": "Page Type",
+          "CheckedOutBy": "Checked Out By"
+        }
+      }
+    },
+    "Editor": {
+      "BackgroundSelector": {
+        "AddImage": "Add Image"
+      }
+    },
+    "PublishingApp": {
+      "SiteDesign": "Site Design",
+      "DefaultVisitors": "Default Visitors",
+      "PrimarySiteCollectionAdministrator": "Primary Site Collection Administrator",
+      "DefaultSiteCollectionAdministrators": "Default Site Collection Administrators",
+      "NotExistProfileWorkplaceMessage": "No Workplace has been created yet for the current Business Profile.",
+      "AppAdministrator": "App Administrator",
+      "ProvisioningTemplate": "Provisioning Template",
+      "CreatedDate": "Created Date",
+      "UrlInvalidMessage": "A site already exists on this url.",
+      "IllegalCharacterMessage": "Only letters, number, hyphen are accepted.",
+      "SharepointUrl": "Sharepoint URL",
+      "Tooltip": "Publishing Apps",
+      "HomeBlade": {
+        "PendingApproval": "Pending Approval",
+        "ErrorMessage": "Error occurred. Please refer to Transaction Id: ",
+        "RunningMessage": "Running. Please refer to Transaction Id: ",
+        "WarningMessage": "Warning. Please refer to Transaction Id: ",
+        "StatusInfo": {
+          "SuccessWithWarning": "Success with Warning"
+        }
+      },
+      "Properties": {
+        "Name": "Property Name",
+        "Settings": "Property Setting",
+        "NewProperty": "New Property",
+        "DefaultValue": "Default Value",
+        "CurrentUser": "Current User",
+        "DateOnly": "Date Only",
+        "EnableSubscription": "Enable Subscription (Community)"
+      },
+      "Settings": {
+        "Readers": "Resource Readers",
+        "ConnectedSharepointSite": "Connected SharePoint Site",
+        "FullSyncToSharepoint": "Full Sync To Sharepoint",
+        "FullSyncMessage": "Remove all pages in omnia-wcm library and resync from scratch.",
+        "ResumeFromLastSync": "Resume From Last Sync",
+        "ReindexMessage": "Remove all pages in Sharepoint Site Pages library and resync from scratch.",
+        "ResumeFromLastRun": "Resume From Last Run",
+        "ViewErrorDetail": "View Error Detail",
+        "SynchronizationMessage": "Completed {0} of {1} Pages (Skipped: {2}, Failed: {3})",
+        "PreparingToSynchronizationMessage": "Preparing Resources",
+        "DefaultPageCollection": "Default Page Collection",
+        "PagePropertyMapping": {
+          "ContactProperty": "Contact Property",
+          "ReviewDateProperty": "Review Date Property"
+        },
+        "AllowReuse": {
+          "Title": "Allow Reuse Content"
+        },
+        "EditorDynamicNavigation": {
+          "Title": "Editor Navigation"
+        },
+        "OmniaSearch": {
+          "Title": "Omnia Search",
+          "ReindexContentMessageProgress": "Completed {0} of {1} Pages (Succeed: {2}, Failed: {3}) in {4}",
+          "ReindexContentMessage": "Reindex {0} Pages (Succeed: {1}, Failed: {2}) in {3}",
+          "ConfirmReindexContentOmniaSearchMessage": "Are you sure you want to reindex content omnia search?"
+        }
+      },
+      "AppDefinition": {
+        "Description": "Features for Web Content Management",
+        "SPPath": "SharePoint Alias",
+        "OmniaPath": "Omnia Alias",
+        "UseRootRoute": "Use Root Route",
+        "AppResourceTypes": {
+          "OmniaPublishingApp": "Omnia Publishing App",
+          "SharePointCommunicationSite": "SharePoint Communication Site"
+        }
+      },
+      "AppProvisioning": {
+        "Steps": {
+          "MemberStep": {
+            "PrimarySiteCollectionAdministrator": "Primary Site Collection Administrator"
+          }
+        }
+      },
+      "ActionButtons": {
+        "EditPageSettings": "Page Settings",
+        "DiscardChanges": "Discard Changes",
+        "PublishTootlip": "Publish Now",
+        "SaveasDraft": "Save a Draft",
+        "VersionHistory": "Version History",
+        "ReuseContent": "Reuse Content",
+        "ChangePageType": "Change Page Type",
+        "ApproveSchedule": "Approve Schedule page",
+        "CancelSchedule": "Cancel Schedule",
+        "ScheduleTooltip": "Scheduled Publishing",
+        "SendForApproval": "Send for Approval",
+        "CancelApproval": "Cancel Approval",
+        "TakeControl": "Take Control",
+        "DeleteDraft": "Delete Draft",
+        "ReusedPages": "Content Reused By",
+        "CopyPage": "Copy Page",
+        "AutomaticPageCreationInfo": "Automatic Page Creation",
+        "ReusableContent": "Reusable Content",
+        "InviteAuthors": "Invite Co-authors",
+        "YammerIntegrationInfo": "Yammer Integration",
+        "SaveAndClose": "Save and Close"
+      },
+      "SpeedDialButtons": {
+        "OpenEditor": "Open Editor",
+        "WriteContent": "Write Content",
+        "DesignLayout": "Design Layout"
+      },
+      "EmailTemplates": {
+        "PublishingApproval": {
+          "MailApprovalStepAssigned": {
+            "Content": "Hi {{Recipient}},<br/><br/>You have been assigned a task to complete the {{CurrentStep}} step for the page <a href={{PageLink}}>{{PageTitle}}</a>.<br/>Previous step: {{SentFromStep}}<br/>Sent from: {{SentFromUser}}<br/>Comment: {{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+          },
+          "MailStatusUpdate": {
+            "Content": "Hi {{Recipient}},<br/><br/>The workflow status for the approval of page <a href={{PageLink}}>{{PageTitle}}</a> has changed.<br/><br/>Current step: {{CurrentStep}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCompleted": {
+            "Content": "Hi {{Recipient}},<br/><br/>The approval of page <a href={{PageLink}}>{{PageTitle}}</a> is complete and the page has been published.<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalRejected": {
+            "Content": "Hi {{Recipient}},<br/><br/>The approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been rejected by {{SentFromUser}} with the following comment:<br/><br/>{{SentFromComment}}<br/><br/>Workflow history<br/>{{WorkflowHistory}}"
+          },
+          "MailApprovalCanceled": {
+            "Content": "Hi {{Recipient}},<br/><br/>The approval of the page <a href={{PageLink}}>{{PageTitle}}</a> has been canceled by {{SentFromUser}}"
+          }
+        },
+        "PublishingChannel": {
+          "RequestEmail": {
+            "Body": "Dear administrator,<br/><br/>You have received a new request to publish content to the channel {{title}}. Please review the details and take action.<br/><br/>To approve or reject the publication, click the link below:<br/><br/><a href='{{channelAdminUrl}}'>View Request</a>"
+          },
+          "RejectEmail": {
+            "Body": "Dear {{userDisplayName}},<br/><br/>Your request to publish the page <a href={{pageUrl}}>{{pageTitle}}</a> to the channel {{title}} has been rejected."
+          }
+        },
+        "DisitrubtionChannel": {
+          "Subject": "Automatic Distribution message"
+        }
+      },
+      "Variation": {
+        "UrlSegment": "Url Segment",
+        "AddVariation": "Add Variation",
+        "Header": "Add/Edit Variation",
+        "UrlSegmentIsRequire": "Url Segment is required",
+        "UrlSegmentIsNotFriendly": "Only letters, number, hyphen, underscored are accepted.",
+        "VariationAuthors": "Variation Authors",
+        "AutomaticMachineTranslation": "Automatic Machine Translation",
+        "AllowEditMachineTranslation": "Allow Edit"
+      },
+      "Archive": {
+        "ArchiveDate": "Archive Date",
+        "EnableAutoTermination": "Enable Automatic Termination"
+      },
+      "SharepointSync": {
+        "SharepointSyncSettingsLabel": "Sharepoint Sync Settings",
+        "OverrideSharepointSyncSettings": "Override Sharepoint Sync Settings",
+        "EnableRedirectPageToOmnia": "Enable Redirect To Omnia Page",
+        "EnablePromoteToViva": "Enable Promote To Viva",
+        "PageImage": "Page Image",
+        "PageContent": "Page Content",
+        "PageSummary": "Page Summary",
+        "RelatedLinks": "Related Links",
+        "ViewFullPage": "View Full Page >>",
+        "RemovingDataInSitePagesLibrary": "Removing data in Site Pages library",
+        "RemovingDataInOmniaWCMLibrary": "Removing data in omnia-wcm library",
+        "LastFullSyncToSharepointSuccessfully": "Last Full Sync To Sharepoint Successfully in {0}",
+        "LastReindexSharepointSearchSuccessfully": "Last Reindex Sharepoint Search Successfully in {0}",
+        "LastFullSyncToSharepointFailed": "Last Full Sync To Sharepoint Failed in {0}",
+        "LastReindexSharepointSearchFailed": "Last Reindex Sharepoint Search Failed in {0}",
+        "SharepointSyncWarningLabel": "Sharepoint Sync Warning",
+        "SharepointSyncErrorLabel": "Sharepoint Sync Error",
+        "PageId": "Page Id",
+        "PageUrl": "Page Url",
+        "ErrorMessage": "Error Message"
+      },
+      "SendingEmailHandler": {
+        "SentFailed": "There was an error while sending email",
+        "ProcessEmailFailed": "There was an error while processing email"
+      },
+      "PublishingAppRollup": {
+        "Title": "Publishing App Rollup"
+      },
+      "AutomaticArchive": {
+        "EnableAutomaticArchive": "Enable Automatic Archiving",
+        "ArchiveDate": "Automatic Archiving Date"
+      },
+      "PromotedTags": "Promoted Tags",
+      "DocumentManagementSetting": {
+        "DocumentManagement": "Document Management",
+        "DocumentPickerCategoriesDescription": "Enable the document picker categories configured in the current Business Profile.",
+        "SharePointDocumentLibraryUrl": "SharePoint document library Url",
+        "CannotFindLibrary": "SharePoint Document Library not found"
+      },
+      "AttachSite": {
+        "AttachedSiteUrlPlaceHolder": "Sharepoint Communication Site Url",
+        "InvalidSiteUrlErrorMessage": "This is an invalid or non existing site url",
+        "NoMatchingSPSiteTemplate": "The Sharepoint site template doesn't match",
+        "MissingPermissionErrorMessage": "Site collection admin permission is required to perform this operation"
+      }
+    },
+    "RelatedLink": {
+      "BlockTitle": "Related Links",
+      "CustomLink": {
+        "Url": "Url"
+      },
+      "EditLink": {
+        "SelectLink": "Select Link"
+      },
+      "Settings": {
+        "FormTitle": "Related Links Settings",
+        "OpenInOfficeWebApp": "Open in Office Web Apps"
+      }
+    },
+    "PageSocial": {
+      "Title": "Page Likes and Comments",
+      "Settings": {
+        "EnableRichText": "Enable rich text",
+        "CardStyle": "Custom Card styling",
+        "PlainText": "Plain Text",
+        "LimitedRichText": "Limited Rich Text",
+        "RichText": "Rich Text",
+        "EnableYammer": "Enable Yammer sync"
+      },
+      "Subscription": {
+        "MySubscriptions": "My Subscriptions",
+        "DeleteTitle": "Delete Subscription",
+        "MySubscriptionsDialogTitle": "My Subscriptions",
+        "MySubscriptionsButtonText": "My Subscriptions",
+        "ButtonStyle": "Button Style",
+        "ShowIcon": "Show Icon",
+        "BackgroundColor": "Background Color",
+        "TextColor": "Text Color",
+        "AddChannel": "Add Channel",
+        "PageCollectionsToolTip": "Page Collections",
+        "TermsAndTagsToolTip": "Terms and Tags",
+        "PublishingChannelsToolTip": "Publishing Channels"
+      },
+      "Feedback": {
+        "FeedbacksDialog": "Page Feedback",
+        "BlockTitle": "Page Feedback",
+        "PageFeedbacks": "Page Feedback",
+        "FeedbackContentMessages": "Please input your feedback",
+        "DeleteFeedback": "Delete Feedback"
+      }
+    },
+    "Theming": {
+      "ThemeTargets": {
+        "PageDialog": "Page Dialog",
+        "PageBlock": "Page Block",
+        "LayoutDialog": "Layout Dialog"
+      }
+    }
+  },
+  "Omnia": {
+    "Wcm": {
+      "EnterpriseGlossary": {
+        "LookAndFeel": "Look And Feel",
+        "RemoveLookAndFeel": {
+          "Title": "Remove Icon And Color",
+          "Message": "Are you sure you want to remove the look and feel settings for item?"
+        }
+      }
+    },
+    "WCM": {
+      "Layout": {
+        "Templates": {
+          "Registration": {
+            "StartPages": {
+              "Light": "Digital Workplace - Light",
+              "LightWithColor": "Digital Workplace - Color",
+              "DarkHorizontal": "Digital Workplace - Horizontal",
+              "DarkHorizontalSearch": "Digital Workplace - Search",
+              "DarkHorizontalTabs": "Digital Workplace - Tabs",
+              "DarkVertical": "Digital Workplace - Vertical"
+            },
+            "NewsCenters": {
+              "Light": "News Center - Light",
+              "Grey": "News Center - Grey"
+            },
+            "Pages": {
+              "NewsPages": {
+                "Light": "News Page - Light",
+                "Grey": "News Page - Grey"
+              },
+              "ContentPages": {
+                "Light": "Content Page - Light",
+                "Grey": "Content Page - Grey"
+              },
+              "Blog": {
+                "Color": "Blog Page - Color",
+                "Dark": "Blog Page - Dark",
+                "Hero": "Blog Page - Hero"
+              }
+            }
+          }
+        }
+      }
+    },
+    "WebContentManagement": {
+      "SetupWizard": {
+        "Features": {
+          "SetupNewsPublishingApp": {
+            "Title": "Setting up publishing app for News"
+          },
+          "EnsureSetupPageTypeWebPage": {
+            "Title": "Ensuring set up page type Web Page"
+          },
+          "EnsureSetupPageTypeNewsArticle": {
+            "Title": "Ensuring set up page type News Article"
+          },
+          "SetupOrganizationPublishingApp": {
+            "Title": "Setting up Organization Publishing Apps"
+          },
+          "SetupBasicPublishingApp": {
+            "Title": "Setting up Basic Publishing App"
+          },
+          "ActivateFeatureWebContentManagementCore": {
+            "Title": "Activate Web Content Management Core feature"
+          },
+          "ActivateFeatureCalendarRollupCore": {
+            "Title": "Activate Calendar Rollup Core feature"
+          },
+          "ActivateFeaturePageRollupAcceleratorPoweredBySearch": {
+            "Title": "Activate PageRollup Accelerator Powered By Search feature"
+          },
+          "SetupCategoriesNotificationPanel": {
+            "Title": "Setting up categories for Notification Panel"
+          },
+          "EnsureActiveFeatureDefaultCommunityPropertiesAndPageType": {
+            "Title": "Ensure activating feature Default Community Properties and Page Types"
+          },
+          "SetDefaultValueCommunityTenantPageType": {
+            "Title": "Setting up default value for Community Tenant Page Types"
+          },
+          "SetupCommunitySubscriptionActivityFeed": {
+            "Title": "Setting up Community Subscription Activity Feed"
+          },
+          "SetupCommunityPortal": {
+            "Title": "Setting up Community Portal"
+          },
+          "CreateLinkActionCommunityPortal": {
+            "Title": "Creating a link action to the Community Portal"
+          },
+          "EnsureEnterpriseAndTargetingProperties": {
+            "Title": "Ensuring News enterprise and targeting properties"
+          },
+          "EnsureGlobalNewsPublishingApp": {
+            "Title": "Ensure Global News Publishing App and Page Collections"
+          },
+          "EnsureGlobalNewsVariation": {
+            "Title": "Ensure variation page for Global News"
+          },
+          "EnsureLocalNewsPublishingApp": {
+            "Title": "Ensure Local News Publishing App and Page Collections"
+          },
+          "SetupLearningCenterPublishingApp": {
+            "Title": "Setup Learning Center Publishing App"
+          },
+          "CreateCoursePropertiesAndTermSets": {
+            "Title": "Create Course Properties And TermSets"
+          },
+          "EnsureEventManagementActivated": {
+            "Title": "Ensure Event Management Feature Activated"
+          }
+        },
+        "Contents": {
+          "NewsContent": {
+            "Description": "We will setup a News Center and create three promoted stories and three regular news articles for you."
+          }
+        },
+        "Template": {
+          "KnowledgeSharing": {
+            "Title": "Knowledge Sharing"
+          }
+        }
+      }
+    }
+  }
+}
