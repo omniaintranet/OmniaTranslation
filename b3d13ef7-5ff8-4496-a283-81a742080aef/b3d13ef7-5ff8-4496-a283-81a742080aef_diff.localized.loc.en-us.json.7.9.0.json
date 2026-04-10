@@ -1,0 +1,1332 @@
+{
+  "ODM": {
+    "Admin": {
+      "DraftableAccount": {
+        "Title": "Draftable Account",
+        "AuthenticationToken": "Authentication Token"
+      },
+      "DocumentManagement": "Document Management",
+      "DocId": "Document Id",
+      "DocumentTypes": "Document Types",
+      "DocumentTypesTermSet": "Term Set for Document Types",
+      "ArchiveSiteUrl": "Archive Site Url",
+      "ArchiveSiteUrlHint": "Leave it empty to use default archive site url",
+      "DocumentTypesTermSetNotFound": "Term Set for Document Types is not found",
+      "CreateGroup": "Create Group",
+      "CreateDocumentType": "Create Document Type",
+      "UniqueId": "Unique Id",
+      "PropertySet": "Property Set",
+      "GroupName": "Group Name",
+      "ApproversGroup": "Approvers Group",
+      "RetentionManager": "Retention Manager",
+      "FeedbackRecipients": "Feedback Recipients",
+      "ReviewReminderRecipients": "Review Reminder Recipients",
+      "ReviewReminder": "Review Reminder",
+      "DisableCreateDraft": "Disable Create Draft",
+      "DisableMove": "Disable Move",
+      "DisableUnpublish": "Disable Unpublish",
+      "EnableCreateDocumentFeatureInRollup": "Enable Create Document feature in document rollup",
+      "AllowRevisions": "Allow Revisions",
+      "PublishingApproval": "Publishing Approval",
+      "DefaultDocumentTemplate": "Default Document Template",
+      "ConversionTypes": {
+        "AllowConvertDOCXToPDFForNewDocuments": "Allow convert to PDF. Unchecked for new documents",
+        "AllowAndDefaultConvertDOCXToPDFForNewDocuments": "Allow convert to PDF. Checked for new documents"
+      },
+      "AllowBypassApprovalForRevisions": "Allow to bypass approval for Revisions",
+      "DefaultValue": "Default Value",
+      "ReviewReminderScheduleTypes": {
+        "TimeAfterPublishing": "Time after publishing"
+      },
+      "CreateTask": "Create Task",
+      "LimitRetention": "Limit Retention",
+      "FirstPublished": "First Published",
+      "LastPublished": "Last Published",
+      "AlternativeInternalName": "Placeholder Shortname",
+      "DefaultValueTypes": {
+        "FixedValue": "Fixed Value",
+        "FromSiteProperty": "From Site Property"
+      },
+      "SyncDocumentTypeToTermSet": "Sync Document Types to Term Set",
+      "SyncDocumentTypeFromTermSet": "Sync Document Types from Term Set",
+      "WarningTermStoreWorkingLanguageNotMatchMessage": "Some languages were not be asynced to SharePoint. Please retry.",
+      "AuthorsGroupSetting": {
+        "Title": "Authors of Controlled Documents",
+        "DocumentAuthorsGroup": "Document Authors Group",
+        "SiteOwners": "Site Owners",
+        "SiteOwnerAndMembers": "Site Owners and Members"
+      },
+      "DocumentTemplates": {
+        "DocumentTemplates": "Document Templates",
+        "CreateDocumentTemplate": "Create Document Template",
+        "CreateCategory": "Create Category",
+        "TemplateForControlledDocument": "Template for Controlled Document",
+        "TemplateForNormalDocument": "Template for Normal Document",
+        "CategoryIsBeingUsedInDocumentTemplate": "Unable to delete this category cause there are document templates using it",
+        "AddDocumentTemplateForThisLanguage": "Add Document Template for this language",
+        "BasedOnControlledDocument": "Based on Controlled Document",
+        "UploadDocument": "Upload Document",
+        "ControlledDocumentNotFound": "Controlled Document not found"
+      },
+      "ExpiredReviews": {
+        "ExpiredReviews": "Expired Reviews",
+        "ReviewDate": "Review Date"
+      },
+      "DocumentStatistics": {
+        "TotalNumber": "Total Number",
+        "PassReviewDate": "Passed review date",
+        "Draft_Statistics": "Draft Documents",
+        "Published_Statistics": "Published Documents",
+        "Archived_Statistics": "Archived Documents",
+        "PastReviewDate_Statistics": "Past Review Date Documents",
+        "SentForComments_Statistics": "Sent For Comments Documents",
+        "WaitingForApproval_Statistics": "Waiting For Approval"
+      },
+      "DocumentTermination": {
+        "SubMenuTitle": "Document Termination",
+        "RetentionDate": "Retention Date",
+        "FileType": "File Type"
+      },
+      "DocumentIdSettings": {
+        "Title": "Document Id Format",
+        "DocumentPrefix": "Document Id Prefix"
+      },
+      "DocumentBaseQuerySettings": {
+        "Title": "Document Base Query",
+        "BaseQueryUrl": "Base Query Url"
+      },
+      "BulkUpdate": {
+        "Title": "Documents Bulk Update",
+        "UpdateStatus": "Update Status",
+        "SearchProperty": "Search Property",
+        "PropertyValue": "Property Value",
+        "NewValue": "New Value"
+      },
+      "TaskBulkUpdate": {
+        "Title": "Tasks Bulk Update",
+        "FindUser": "Find User",
+        "PickUser": "Pick User",
+        "TaskType": "Task Type",
+        "UpdateStatus": "Update Status",
+        "StatusNames": {
+          "InvalidSource": "Invalid Source",
+          "ResendEmailFailed": "Resend Email Failed"
+        }
+      },
+      "MoveDialogTitle": "Move Document Type To:",
+      "PDFConversion": {
+        "Title": "PDF Conversion",
+        "ConversionMethod": "Conversion Method",
+        "NoConversion": "No Conversion",
+        "OfficeOnlineServer": "Office Online Server",
+        "WordAutomationService": "Word Automation Service",
+        "RetryTimes": "Retry Times When Failed",
+        "EndpointUrl": "Endpoint Url"
+      }
+    },
+    "CopyFromPublishedDocumentDialog": {
+      "CopyToAppendices": "Copy Documents To Appendices",
+      "DocId": "Document Id"
+    },
+    "CreateDraftDialog": {
+      "CreateDraftOptions": {
+        "CurrentEdition": "Current Edition",
+        "PreviousEdition": "Previous Edition",
+        "UploadNewFile": "Upload New File"
+      }
+    },
+    "DocumentAddMoveDialog": {
+      "MoveDocument": "Get Document"
+    },
+    "DocumentComparisonDialog": {
+      "DialogHeaderPrefix": "Compare Document - "
+    },
+    "DocumentMetaDataDialog": {
+      "WorkflowTypes": {
+        "ReviewWorkflow": "Send for Comments Workflow",
+        "PublishWorkflow": "Publish Workflow",
+        "CreateDraft": "Draft Created",
+        "MovedDocument": "Moved Document",
+        "PublishWithoutApproval": "Publish Workflow",
+        "ReviewReminderWorkflow": "Review Reminder Workflow",
+        "DeletePublishedDocument": "Unpublish Document",
+        "RestoreDocument": "Restore Document"
+      },
+      "FieldNames": {
+        "Field_MissingReview": "Missing Review",
+        "Field_ApprovalDueDate": "Approval Due Date"
+      }
+    },
+    "DocumentMultiPropertiesDialog": {
+      "Title": "Edit Properties - Multiple Documents"
+    },
+    "SignedCopyDialog": {
+      "SignedCopy": "Signed Copy",
+      "SignedCopySuffix": " - Signed Copy"
+    },
+    "DocumentTemplatePicker": {
+      "NoDocumentTemplateMessages": "No templates exist for the selected language"
+    },
+    "LocationPicker": {
+      "NewFolder": "New Folder"
+    },
+    "NewDocumentDialog": {
+      "Title": "Create New Document",
+      "ControlledDocumentMode": "Controlled Document"
+    },
+    "PermissionDialog": {
+      "DialogTitle": "Controlled Documents Library Permissions",
+      "GroupOwner": "Group Owner",
+      "GroupOwnerAndMember": "Group Owner and Members"
+    },
+    "RelatedDocumentsDialog": {
+      "IncomingRelatedDocuments": "Incoming Relations",
+      "RelatedDocuments": "Related Documents",
+      "Messages": {
+        "MissingDocumentIdNumber": "The Document Id Number value of this document is missing. You cannot add this document as an related document. Please review your search set up."
+      }
+    },
+    "RelatedProcessesDialog": {
+      "RelatedProcesses": "Related Processes",
+      "AddSuggestion": "Add Suggestion",
+      "SuggestRelatedProcess": "Suggest Related Process"
+    },
+    "SignOffRequest": {
+      "PublishedDocument": "Published Document",
+      "SignOffRequest": "Sign-off Request",
+      "DocumentIsNotAvailableMessage": "This document is not available. If it is a new document, please wait a few minutes and try again. Otherwise, the document may have been deleted.",
+      "Button": {
+        "ShowRequests": "Show Requests",
+        "HideRequests": "Hide Requests",
+        "OpenDetail": "Open Detail"
+      },
+      "Banner": {
+        "IndividualRequest": "I confirm that I have read and understood the contents of document."
+      },
+      "CurrentDocument": "Current Document",
+      "SpecificDocument": "Specific Document"
+    },
+    "UnpublishDocumentDialog": {
+      "DialogTitle": "Unpublish Document",
+      "MessageUseAsLinkedExisting": "This controlled document is being used as a template. Please remove this controlled document template before you try to unpublish the document again."
+    },
+    "Core": {
+      "Common": {
+        "FileName": "File Name",
+        "DocumentType": "Document Type",
+        "ShowAll": "Show All",
+        "NewFromTemplate": "New From Template"
+      },
+      "DocumentFields": {
+        "DocId": "Document Id",
+        "ReviewDate": "Review Date",
+        "DocumentType": "Document Type",
+        "DeletedBy": "Deleted By"
+      },
+      "Blocks": {
+        "DocumentRollup": {
+          "Title": "Document Rollup"
+        },
+        "DocumentLibrary": {
+          "Title": "Controlled Documents Library"
+        }
+      },
+      "GeneralSettings": {
+        "OpenInClientApp": "Open In Client App",
+        "PageSize": "Page Size",
+        "ItemLimit": "Item Limit",
+        "SortBy": "Sort By",
+        "SortDirection": "Sort Direction",
+        "PagingType": {
+          "NoPaging": "No Paging"
+        },
+        "HideTasksTab": "Hide Tasks Tab",
+        "NoResultText": "No Result Text"
+      },
+      "Features": {
+        "New7ControlledDocument": {
+          "ConsentInformation": "\"Access selected site collections\" permissions is used to read and write information from SharePoint in scheduled tasks such as review reminders."
+        },
+        "New7ArchiveControlledDocument": {
+          "Views": {
+            "DefaultViewTitle": "Redirect to Controlled Documents"
+          }
+        },
+        "New7PublishingEnterpriseProperties": {
+          "Description": "Provisions enterprise properties for documents, such as filename and document url."
+        },
+        "MicrosoftTeamsTabFeature": {
+          "Category": "Microsoft Teams Tab",
+          "Title": "Controlled Documents Tab"
+        },
+        "New7DraftableDocumentComparison": {
+          "Title": "Document Comparison powered by Draftable"
+        },
+        "SignOffRequestInPublishedDocument": {
+          "Description": "Enable sign-off requests for published document.",
+          "Title": "Sign-off request for  published document"
+        },
+        "SignOffRequestInControlledDocument": {
+          "Title": "Sign-off request for controlled documents"
+        }
+      },
+      "Messages": {
+        "MessageMaxFileLength": "A file should have a maximum length of 255 characters.",
+        "FileContainsInvalidHyperlink": "Your Office document contains a malformed URI. Please remove it and try again.",
+        "DeletedUser": "Deleted User"
+      },
+      "EmailTemplates": {
+        "ReviewReminder": {
+          "SubjectTemplate": "Review Reminder: {{DocumentTitle}}",
+          "BodyTemplate": "Dear {{Recipient}}, <br/><br/>This is a review reminder e-mail sent from the document management system.<br/><br/>Document: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team Site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Task: <a href='{{TaskUrl}}' style='color:#ff0000;' target='_blank'>{{TaskTitle}}</a><br/>Publish Date: {{PublishDate}}<br/>Review Date: {{ReviewDate}}",
+          "BodyTemplate_WithoutTask": "Dear {{Recipient}}, <br/><br/>This is a review reminder e-mail sent from the document management system.<br/><br/>Document: <a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/>Team Site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Publish Date: {{PublishDate}}<br/>Review Date: {{ReviewDate}}"
+        },
+        "PublishedNotification": {
+          "EmailBodyTemplate": "Dear {{Recipient}},<br/><br/>A new controlled document has been published:<br/><a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/><br/>You receive this e-mail because the publisher of the document decided to notify you about this change.",
+          "EmailBodyWithReadReceiptTemplate": "Dear {{Recipient}},<br/><br/>A new controlled document has been published:<br/><a href='{{DocumentUrl}}' style='color:#ff0000;' target='_blank'>{{DocumentTitle}}</a><br/><br/>You receive this e-mail because the publisher of the document decided to notify you about this change.<br/><br/>The publisher has also required you to sign a read receipt once you have read and understood the contents of the document. Please fill out the read receipt <a href='{{ReadReceiptUrl}}' style='color:#ff0000;' target='_blank'>here</a>."
+        },
+        "Feedback": {
+          "EmailBodyTemplate": "<b>{{Sender}}</b><br/> {{Feedback}} <br/> {{DocumentLink}}"
+        }
+      },
+      "ReviewWorkflowTasks": {
+        "Title": "The Send for Comments workflow is complete",
+        "Description": "Dear {{Author}},<br/>Below follows a summary of all review tasks for the document <a href='{{DocumentUrl}}' target='_blank'>{{DocumentTitle}}</a><br/>"
+      },
+      "TemplateMerge": {
+        "SelectDocumentTemplate": "Select Document Template",
+        "LinkedDocumentTemplateHasNewerVersionMessage": "The template of this document has a newer version.  Click \"Update to latest template version\" below to review how the new template looks on your document.",
+        "RemoveDefaultStyleInDocument": "Remove Default Style settings in document when merging",
+        "ChangeDocumentTemplate": "Change Document Template"
+      }
+    },
+    "DocumentLibrary": {
+      "BlockTitle": "Controlled Documents",
+      "Common": {
+        "Buttons": {
+          "NoNewReminder": "No New Reminder",
+          "CompleteReview": "Complete Review",
+          "PermanentlyDelete": "Permanently Delete"
+        },
+        "SetAsDefaultControlMessage": "This control will be set as default, which means navigations from external such as documents and tasks in email will be direct to this control."
+      },
+      "ViewTabs": {
+        "RecycleBin": "Recycle Bin"
+      },
+      "Settings": {
+        "Tabs": {
+          "DefaultDocumentTypes": "Default Document Types"
+        },
+        "ShowSearchBox": "Show Search Box",
+        "DefaultOrderingField": "Default Ordering Field",
+        "Sort": {
+          "Title": "Sort Direction"
+        }
+      },
+      "ViewTitle": {
+        "List": "List View"
+      },
+      "FieldNames": {
+        "FileType": "File Type",
+        "TitleAndLink": "Title and Link",
+        "DocumentMenu": "Document Menu",
+        "ProcessingStatus": "Processing Status",
+        "Appendices_Icon": "Appendices Icon",
+        "RelatedDocuments": "Related Documents",
+        "RelatedDocuments_Icon": "Related Documents Icon",
+        "SignedCopy_Icon": "Signed Copy Icon",
+        "ModifiedBy": "Modified By",
+        "ApprovedBy": "Approved By",
+        "PublishedBy": "Published By",
+        "ContentLanguage": "Content Language",
+        "DocId": "Document Id",
+        "DocIdNumber": "Document Id Number",
+        "ReviewDate": "Review Date",
+        "AssignedTo": "Assigned To",
+        "DueDate": "Due Date",
+        "DocumentType": "Document Type",
+        "CreatedBy": "Created By",
+        "WorkflowHistory": "Workflow History",
+        "RejectedBy": "Rejected By",
+        "SignedCopy": "Signed Copy"
+      },
+      "DocumentActions": {
+        "RelatedProcesses": "Related Processes",
+        "Edit": "Edit Draft",
+        "CopyLink": "Copy Link",
+        "WorkflowHistory": "Workflow History",
+        "SendForReview": "Send for Comments",
+        "Delete": "Delete Draft",
+        "CreateDraft": "Create Draft",
+        "UnlockRecord": "Unlock Record",
+        "DeletePublishedDocument": "Unpublish Document",
+        "DocumentHistory": "Document History",
+        "ShowDocumentHistory": "Show Document History",
+        "GoToDocumentLibrary": "Go to Document Library",
+        "ReadReceiptStatus": "Read Receipt Status",
+        "MoveDocument": "Move Document",
+        "RelatedDocuments": "Related Documents",
+        "SignedCopy": "Signed Copy",
+        "FilterText": {
+          "ApplyFilter": "Apply Filter",
+          "ClearAll": "Clear All"
+        },
+        "PublishActions": {
+          "ConvertToPdf": "Convert to pdf",
+          "CompareWithPublishedEdition": "Compare With Published Edition",
+          "ApprovalDueDate": "Approval Due Date",
+          "RequireReadReceipt": "Require Read Receipt",
+          "ReadRights": "Read Rights",
+          "DefaultReaderGroup": "Default Readers Group",
+          "LimitReadAccess": "Limit Read Access",
+          "VersionPublishingTypes": {
+            "PublishNewEdition": "Publish New Edition",
+            "PublishNewRevision": "Publish New Revision"
+          }
+        }
+      },
+      "DocumentStatuses": {
+        "SendingForReview": "Sending for Comments",
+        "SentForReview": "Sent for Comments",
+        "SendingForApproval": "Sending for Approval",
+        "WaitingForApproval": "Waiting for Approval",
+        "CancellingReview": "Cancelling Send for Comments",
+        "SavingProperties": "Saving Properties",
+        "CancellingApproval": "Cancelling Approval",
+        "FailedSendingForReview": "Sending for Comments failed",
+        "FailedSendingForApproval": "Sending for Approval failed",
+        "FailedCancellingReview": "Cancelling Send for Comments failed",
+        "FailedCancellingApproval": "Cancelling Send for Approval failed",
+        "FailedRepublishingBySystem": "Bulk Updating failed",
+        "CreatingDraft": "Creating Draft",
+        "FailedCreatingDraft": "Creating Draft Failed"
+      },
+      "ProcessingStatuses": {
+        "SavingProperties": "Saving Properties",
+        "FailedUpdatingProperties": "Updating Properties failed"
+      },
+      "ForwardDialog": {
+        "Title": "Forward Document"
+      },
+      "PublishingFailedDialog": {
+        "Title": "Publishing Failed",
+        "Message": "This document is nearly successfully published. It failed when trying to delete trash files created from the publishing flow.<br/>Do you want to update the status to keep on working with this document?"
+      },
+      "CreateDraftDialog": {
+        "Title": "Create Draft",
+        "Message": "Are you sure you want to create a new Draft version for the selected document?"
+      },
+      "TasksAssignedToMe": "Assigned To Me",
+      "CompletedTasks": "Completed Tasks",
+      "TasksAssignedByMe": "Assigned By Me",
+      "Messages": {
+        "TaskCompleted": "Task Completed",
+        "MessageNeedToUpdateDocumentTemplate": "You are about to publish a document using an older version of the document template. Click the \"Update document properties\" below to update your document to use the latest template.",
+        "MessageNeedToUpdateDocumentPropertiesAndTemplate": "You need to select a document type and fill in all required properties to be able to publish a document. And the document using an older version of the document template. Click the \"Update document properties\" below to update your document to use the latest template.",
+        "MessageUsersOrGroupsHaveNoEmail": "The following User(s)/Group(s) have no email address:",
+        "ThresholdWarning": "The number of items in this library has exceeded the threshold. The order of documents from now on will be sorted by Sharepoint Id."
+      },
+      "ReviewReminder": {
+        "Outcome": {
+          "SetNewReviewDate": "Set New Review Date",
+          "SetNoNewReminder": "Set No New Reminders"
+        }
+      },
+      "Approval": {
+        "CancelApproval": "Cancel Approval Workflow"
+      },
+      "ReadReceiptHistory": {
+        "UserEmail": "User email"
+      },
+      "FeedbackDialog": {
+        "DeleteFeedback": "Delete Feedback",
+        "CreatedAt": "Created At"
+      },
+      "PublishErrorMessages": {
+        "ErrorEnsureColumnsAndFoldersMessage": "Something went wrong while preparing to publish your document. Please try again.",
+        "ErrorConvertingPdfFileMessage": "Something went wrong while generating your PDF. Please double-check the content of the file and try again.",
+        "ErrorPublishingDocumentMessage": "Something went wrong while publishing your document. Please try again.",
+        "ErrorEnsureDocumentPermissionMessage": "Something went wrong while ensuring permissions on your published document. Please try again.",
+        "ErrorFinishingPublishDocumentMessage": "Something went wrong in the final step of the publishing. Please try again."
+      }
+    },
+    "DocumentPicker": {
+      "DocumentPicker": "Document Picker",
+      "Admin": {
+        "CategoryListingBladeTitle": "Document Categories",
+        "SearchFilter": {
+          "AddFilter": "Add Filter",
+          "AdjustFilters": "Adjust Filters",
+          "SearchBox": "Search Box (Properties)",
+          "SearchBoxProperties": "Document Properties",
+          "FullTextSearch": "Search Box (Full Text)",
+          "SearchOnDocumentTitleAnd": "Search on Document Title and"
+        },
+        "CategoryTypes": {
+          "SharePointLibrary": "SharePoint Library",
+          "SearchCategory": "Search Category"
+        },
+        "SharePointLibraryUrl": "SharePoint Library Url",
+        "LibraryNotExistedMessage": "Cannot find a library on this url."
+      },
+      "AddDocument": "Add Document",
+      "UploadDocument": {
+        "Finish": "Upload Complete",
+        "Fail": "Upload Failed"
+      },
+      "FileUploader": {
+        "MyComputer": "My Computer"
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Open In Client App",
+        "OpenInWeb": "Open In Browser",
+        "OpenInWebNewTab": "Open In Browser (New Tab)"
+      }
+    },
+    "FeedbackDialog": {
+      "SendFeedback": "Send Feedback",
+      "Messages": {
+        "GettingFeedbackRecipients": "We are trying to get a feedback recipient. Please input your feedback while waiting."
+      }
+    },
+    "DocumentRollup": {
+      "BlockTitle": "Document Rollup",
+      "Settings": {
+        "BorderRadius": "Border Radius",
+        "SearchBoxOutlined": "Outlined Search Box",
+        "SearchBoxRounded": "Rounded Search Box",
+        "SearchBoxFilled": "Filled Search Box",
+        "SearchTextLabel": "Search Text",
+        "DayLimit": "Day Limit",
+        "QueryValueOptions": {
+          "UserEmail": "User email",
+          "CurrentUserId": "Current user id",
+          "CurrentUserEmail": "Current user e-mail"
+        },
+        "QueryScope": {
+          "AllDocuments": "All Documents",
+          "PublishedDocuments": "Published Documents",
+          "ArchivedDocuments": "Archived Documents",
+          "ProcessDocuments": "Process Documents",
+          "SharePointLibrary": "SharePoint Library"
+        },
+        "QueryConfigurationTypes": {
+          "PickDocuments": "Pick Documents",
+          "UseQueryBuilder": "Use Query Builder"
+        },
+        "ZoneWidth": "Zone Width",
+        "TrimByFollowingSites": "Trim by Following Sites",
+        "SearchBox": "Search Box (Properties)",
+        "FullTextSearch": "Search Box (Full Text)",
+        "IncludeChildTerms": "IncludeChildTerms",
+        "IncludeEmpty": "Include Empty",
+        "SearchBoxMessage": {
+          "SearchOnDocumentTitleAnd": "Search on Document Title and",
+          "DocumentProperties": "Document Properties"
+        },
+        "SiteUrl": "Site Url"
+      },
+      "CardView": {
+        "ModifiedAt": "Modified At",
+        "ShowModifiedBy": "Show Modified By Info",
+        "AlwaysShowLetterAvatar": "Always Show Letter Avatar"
+      },
+      "SharePointCardView": {
+        "ModifiedAt": "Modified At",
+        "ShowModifiedBy": "Show Modified By Info",
+        "ShowActions": "Show Action Buttons",
+        "AlwaysShowLetterAvatar": "Always Show Letter Avatar",
+        "CardsPerRow": "Cards per Row",
+        "CardSpacing": "Card Spacing"
+      },
+      "ListView": {
+        "InfoIcon": "Info Icon",
+        "AddColumn": "Add Column",
+        "AdjustColumns": "Adjust Columns",
+        "SignedDocumentsIcon": "Signed Copy Icon",
+        "RelatedDocumentsIcon": "Related Documents Icon",
+        "RelatedProcessesIcon": "Related Processes Icon",
+        "RelatedProcesses": "Related Processes",
+        "FeedbackIcon": "Feedback Icon",
+        "CreateNewDocumentIcon": "Create New Document",
+        "ShowDocumentHistory": "Show Document History",
+        "GoToDocumentLibrary": "Go to Document Library",
+        "AppendicesIcon": "Appendices Icon",
+        "ShowHeading": "Show Heading"
+      },
+      "Common": {
+        "CreateDraft": "Create Draft",
+        "UnsearchableDocuments": {
+          "UnsearchableMessage": "This document has not been crawled yet or is deleted.",
+          "UnsearchableSiteTitle": "Waiting for crawling or is deleted"
+        }
+      },
+      "ViewTitle": {
+        "List": "List View",
+        "Summary": "Summary View",
+        "GroupBySite": "Group By Site"
+      }
+    },
+    "Features": {
+      "Suffix_ReadersGroup": "Document Readers",
+      "Suffix_AuthorsGroup": "Document Authors",
+      "Suffix_ApproversGroup": "Document Approvers",
+      "ControlledDocuments": "Controlled Documents",
+      "ReadReceipt": "Signing of Read Receipt",
+      "Lists": {
+        "ODMDrafts": {
+          "Name": "Controlled Documents - Drafts"
+        },
+        "ODMUnprocessed": {
+          "Name": "Controlled Documents - Unprocessed"
+        },
+        "ODMPublished": {
+          "Name": "Controlled Documents - Published"
+        },
+        "ODMTasks": {
+          "Name": "Controlled Documents - Tasks"
+        },
+        "ODMArchived": {
+          "Name": "Controlled Documents - Archived"
+        }
+      },
+      "ContentTypes": {
+        "ODMReviewTask": {
+          "Name": "Controlled Documents - Review Task"
+        },
+        "ODMApprovalTask": {
+          "Name": "Controlled Documents - Approval Task"
+        },
+        "ODMReviewReminderTask": {
+          "Name": "Controlled Documents - Review Reminder Task"
+        }
+      },
+      "Fields": {
+        "ODMDocId": {
+          "Name": "Document Id",
+          "Description": "System column in Omnia Document Management for Document Id."
+        },
+        "ODMDocIdNumber": {
+          "Description": "System column in Omnia Document Management for Document Id Number."
+        },
+        "ODMEdition": {
+          "Description": "System column in Omnia Document Management for Edition."
+        },
+        "ODMRevision": {
+          "Description": "System column in Omnia Document Management for Revision."
+        },
+        "ODMContentLanguage": {
+          "Name": "Content Language",
+          "Description": "System column in Omnia Document Management for Content Language."
+        },
+        "ODMPublished": {
+          "Description": "System column in Omnia Document Management for Published date."
+        },
+        "ODMPublishedFrom": {
+          "Name": "Published From",
+          "Description": "ODM Published From"
+        },
+        "ODMPublishedTo": {
+          "Name": "Published To",
+          "Description": "ODM Published To"
+        },
+        "ODMIsArchived": {
+          "Name": "Is Archived",
+          "Description": "ODM Is Archived"
+        },
+        "ODMProperties": {
+          "Description": "System column in Omnia Document Management for Properties in the archive."
+        },
+        "ODMTaskOutcome": {
+          "Name": "Task Outcome",
+          "Description": "System column in Omnia Document Management for Task outcome."
+        },
+        "ODMComment": {
+          "Description": "System column in Omnia Document Management for Comment."
+        },
+        "ODMEditionComment": {
+          "Name": "Edition Comment",
+          "Description": "System column in Omnia Document Management for Edition Comment."
+        },
+        "ODMDocumentType": {
+          "Name": "Document Type",
+          "Description": "System column in Omnia Document Management for Document Type."
+        },
+        "ODMDocumentTypeId": {
+          "Name": "Document Type Id",
+          "Description": "System column in Omnia Document Management for Document Type Id."
+        },
+        "ODMIsPublished": {
+          "Name": "Is Published",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is published."
+        },
+        "ODMIsRecord": {
+          "Name": "Is Record",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is record."
+        },
+        "ODMIsFirstDraftVersion": {
+          "Name": "Is First Draft Version",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is first draft version."
+        },
+        "ODMAppendixForDocumentId": {
+          "Name": "Appendix For Document Id",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is an appendix document."
+        },
+        "ODMSignedDocuments": {
+          "Name": "Signed Documents",
+          "Description": "System column in Omnia Document Management for signed documents."
+        },
+        "ODMSignedDocumentForDocumentId": {
+          "Name": "Signed Document For Document Id",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is a signed document."
+        },
+        "ODMIsPreview": {
+          "Name": "Is Preview",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is for preview."
+        },
+        "ODMIsConvertedPDF": {
+          "Name": "Is Converted PDF",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is coverted PDF file."
+        },
+        "ODMIsIncludedInSemanticSearch": {
+          "Name": "Is Included Semantic Search",
+          "Description": "System column in Omnia Document Management for information about if a controlled document is included in semantic search."
+        },
+        "ODMReviewDate": {
+          "Name": "Review Date",
+          "Description": "System column in Omnia Document Management for Review Date."
+        },
+        "ODMIsLimitedAccess": {
+          "Name": "Limited Read Access",
+          "Description": "System column in Omnia Document Management for Limited Read Access."
+        },
+        "ODMLimitedUsers": {
+          "Name": "Users with Read Access",
+          "Description": "System column in Omnia Document Management for Users with Read Access"
+        },
+        "ODMIsNotifiedUsers": {
+          "Name": "Notify To Users",
+          "Description": "System column in Omnia Document Management for Notify To Users"
+        },
+        "ODMListNotifiedUsers": {
+          "Name": "Notified Users",
+          "Description": "System column in Omnia Document Management for Notified Users"
+        },
+        "ODMIsRequireReadReceipt": {
+          "Name": "Require Read Receipt",
+          "Description": "System column in Omnia Document Management for Require Read Receipt"
+        },
+        "ODMDraftWorkflowHistory": {
+          "Name": "Draft Workflow History",
+          "Description": "System column in Omnia Document Management for Draft Workflow History."
+        },
+        "ODMDocumentHistory": {
+          "Name": "Document History",
+          "Description": "System column in Omnia Document Management for Document History."
+        },
+        "ODMApproved": {
+          "Description": "System column in Omnia Document Management for Approved date."
+        },
+        "ODMApprovedBy": {
+          "Name": "Approved By",
+          "Description": "System column in Omnia Document Management for Approved By."
+        },
+        "ODMAppendices": {
+          "Description": "System column in Omnia Document Management for Appendices"
+        },
+        "ODMRelatedDocuments": {
+          "Name": "Related Documents",
+          "Description": "System column in Omnia Document Management for Related Documents"
+        },
+        "ODMTemplateDocumentIdNumber": {
+          "Name": "Template Document Id Number",
+          "Description": "System column in Omnia Document Management for Template Document Id Number"
+        },
+        "ODMTemplateDocumentEditionNumber": {
+          "Name": "Template Document Edition Number",
+          "Description": "System column in Omnia Document Management for Template Document Edition Number"
+        },
+        "ODMTemplateId": {
+          "Name": "Template Id",
+          "Description": "System column in Omnia Document Management for Template Id"
+        },
+        "ODMReviewReminderDate": {
+          "Name": "Review Reminder Date",
+          "Description": "System column in Omnia Document Management for Review Reminder Date."
+        },
+        "ODMRetentionDate": {
+          "Name": "Retention Date",
+          "Description": "System column in Omnia Document Management for Retention Date."
+        },
+        "ODMPublishedBy": {
+          "Name": "Published By",
+          "Description": "System column in Omnia Document Management for Published By."
+        }
+      }
+    },
+    "NewDocumentButton": {
+      "CreateDocument": "Create Document"
+    }
+  },
+  "OPM": {
+    "Admin": {
+      "ProcessManagement": "Process Management",
+      "Settings": "Settings",
+      "ArchiveSiteUrl": "Archive Site Url",
+      "ProcessTermSetId": "Process Term Set Id",
+      "ProcessTypes": {
+        "Title": "Process Types",
+        "UniqueId": "Unique Id",
+        "CreateProcessType": "Create Process Type",
+        "SyncJob": {
+          "SyncProcessTypeToTermSet": "Sync Process Types to Term Set",
+          "SyncProcessTypeFromTermSet": "Sync Process Types from Term Set",
+          "SyncProcessTypeFromTermSetMessage": "The system doesn't have any Process Types yet, do you want to sync data from the mapped Term Set?",
+          "WarningTermStoreWorkingLanguageNotMatchMessage": "Some languages were not be asynced to SharePoint. Please retry."
+        },
+        "Settings": {
+          "DefaultProcessTemplate": "Default Process Template",
+          "ChangePropertySetHint": "Please re-visit other related settings after changing a property set",
+          "PropertySet": "Property Set",
+          "AllowRevisions": "Allow Revisions",
+          "AllowBypassApprovalForRevisions": "Allow to bypass approval for Revisions",
+          "PublishingApproval": "Publishing Approval",
+          "ReviewReminderRecipients": "Review Reminder Recipients",
+          "CreateTask": "Create Task",
+          "ReviewReminderScheduleTypes": {
+            "TimeAfterPublishing": "Time after publishing"
+          },
+          "FeedbackRecipients": "Feedback Recipients",
+          "ReviewReminder": "Review Reminder",
+          "ArchiveSiteUrlHint": "Leave it empty to use the default archive site url",
+          "DefaultValueTypes": {
+            "FromSiteProperty": "From Site Property"
+          },
+          "DefaultValue": "Default Value"
+        },
+        "Messages": {
+          "ProcessTypesTermSetNotFound": "Term Set for Process Types is not found",
+          "DeleteProcessTypeConfirmation": "This Process Type may be in use in one or many processes. Are you sure you want to delete it?"
+        }
+      },
+      "ProcessTemplates": {
+        "Title": "Process Templates",
+        "SettingsTabs": {
+          "DefaultContent": "Default Content"
+        },
+        "GeneralSettings": {
+          "DefaultCanvasSettings": "Default Canvas Settings",
+          "Width": "Canvas Width",
+          "Height": "Canvas Height"
+        },
+        "CreateProcessTemplate": "Create Process Template",
+        "AddHeading": "Add Heading",
+        "AddShape": "Add Shape",
+        "Messages": {
+          "NoProcessTemplate": "There are no Process Templates yet.",
+          "NoShapeTemplate": "There are no Shape Templates yet."
+        }
+      },
+      "ShapeGallery": {
+        "Title": "Shape Gallery",
+        "CreateShape": "Create Shape",
+        "Messages": {
+          "CannotDeleteShapeGallery": "It is not possible to delete a shape that is used in a Process Template."
+        }
+      },
+      "QueryableProperties": {
+        "Title": "Queryable Properties"
+      },
+      "RichTextEditor": {
+        "Tooltip": {
+          "AdLink": "Add Link",
+          "UpdateLink": "Update Link",
+          "RemoveLink": "Remove Link"
+        }
+      },
+      "ExportPdf": {
+        "CustomStyles": "Pdf custom styles",
+        "CoverPage": "Pdf Cover page",
+        "Header": "Pdf Header",
+        "Footer": "Pdf Footer"
+      },
+      "MediaPicker": {
+        "CropRatios": "Crop Ratios"
+      },
+      "SettingTabs": {
+        "MediaPicker": "Media Picker"
+      }
+    },
+    "AddProcessFeedbackDialog": {
+      "Messages": {
+        "UnauthorizedOrNotFound": "The process is Unauthorized or Not Found."
+      }
+    },
+    "ExportProcess": {
+      "Title": "Print Process",
+      "Export": "Print Process",
+      "TableOfContents": "Table Of Contents"
+    },
+    "PermissionDialog": {
+      "DialogTitle": "Process Library Permissions",
+      "DefaultReaders": "Default Readers"
+    },
+    "ProcessPicker": {
+      "DefaultLabel": "Select Process"
+    },
+    "RichtextEditorExtensions": {
+      "Emoticons": "Emoticons"
+    },
+    "Core": {
+      "Features": {
+        "New7ProcessManagement": {
+          "ConsentInformation": "\"Access selected site collections\" permissions is used to read and write information from SharePoint in scheduled tasks such as review reminders."
+        },
+        "MicrosoftTeamsTabFeature": {
+          "Category": "Microsoft Teams Tab",
+          "Title": "Processes Tab"
+        },
+        "Lists": {
+          "OPMTasks": {
+            "Description": "System library created by Omnia to handle workflow tasks of process"
+          },
+          "OPMPublished": {
+            "Description": "System library created by Omnia to handle published of process"
+          },
+          "OPMArchived": {
+            "Description": "System library created by Omnia to handle archived process"
+          }
+        },
+        "ContentTypes": {
+          "OPMReviewTask": {
+            "Name": "Process - Review Task",
+            "Description": "System content type created by Omnia to handle review tasks of process"
+          },
+          "OPMApprovalTask": {
+            "Name": "Process - Approval Task",
+            "Description": "System content type created by Omnia to handle approval tasks of process"
+          },
+          "OPMReviewReminderTask": {
+            "Name": "Process - Review Reminder Task",
+            "Description": "System content type created by Omnia to handle review reminder tasks of process"
+          }
+        },
+        "SharePointGroups": {
+          "AuthorGroupSuffix": "Process Authors",
+          "ReaderGroupSuffix": "Process Readers"
+        },
+        "Fields": {
+          "GroupName": "Omnia Process Management",
+          "OPMProcessId": {
+            "Name": "Process Id",
+            "Description": "System column in Omnia Process Management for Process Id."
+          },
+          "OPMProcessIdNumber": {
+            "Name": "Process Id Number",
+            "Description": "System column in Omnia Process Management for Process Id Number."
+          },
+          "OPMIsArchived": {
+            "Name": "Is Archived",
+            "Description": "System column in Omnia Process Management for information about if a process is archived or not."
+          },
+          "OPMIsPublished": {
+            "Name": "Is Published",
+            "Description": "System column in Omnia Process Management for information about if a process is published or not."
+          },
+          "OPMPublished": {
+            "Description": "System column in Omnia Process Management for Published date."
+          },
+          "OPMApprovedBy": {
+            "Name": "Approved By",
+            "Description": "System column in Omnia Document Management for Approved By."
+          },
+          "OPMEdition": {
+            "Description": "System column in Omnia Process Management for Edition."
+          },
+          "OPMRevision": {
+            "Description": "System column in Omnia Process Management for Revision."
+          },
+          "OPMReviewDate": {
+            "Name": "Review Date",
+            "Description": "System column in Omnia Process Management for Review Date."
+          },
+          "OPMProcessData": {
+            "Name": "Process Data",
+            "Description": "System column in Omnia Process Management for Process Data."
+          },
+          "OPMTaskOutcome": {
+            "Description": "System column in Omnia Process Management for TaskOutcome."
+          },
+          "OPMComment": {
+            "Description": "System column in Omnia Process Management for Comment."
+          },
+          "OPMProcessStepId": {
+            "Name": "Process Step Id",
+            "Description": "System column in Omnia Process Management for Process Step Id."
+          },
+          "OPMIsRoot": {
+            "Name": "Is Root Process Step",
+            "Description": "System column in Omnia Process Management for Is Root Process Step."
+          },
+          "OPMRootProcessStepId": {
+            "Name": "Root Process Step Id",
+            "Description": "System column in Omnia Process Management for Root Process Step Id."
+          },
+          "OPMRootProcessStepTitle": {
+            "Name": "Root Process Step Title",
+            "Description": "System column in Omnia Process Management for Root Process Step Title."
+          }
+        }
+      },
+      "BlockDefinitions": {
+        "ProcessLibrary": {
+          "Title": "Processes Library"
+        },
+        "BlockProcessRenderer": {
+          "Title": "Process Renderer"
+        },
+        "Content": {
+          "Title": "Process Content"
+        },
+        "Drawing": {
+          "Title": "Process Drawing"
+        },
+        "ProcessInformation": {
+          "Title": "Process Information"
+        },
+        "Tasks": {
+          "Title": "Process Tasks"
+        },
+        "ProcessStepStatus": {
+          "Title": "Process Status"
+        },
+        "Links": {
+          "Title": "Process Links"
+        },
+        "ProcessNavigation": {
+          "Title": "Process Navigation"
+        },
+        "ProcessContext": {
+          "Title": "Process Context"
+        },
+        "ProcessRollup": {
+          "Title": "Process Rollup"
+        },
+        "Properties": {
+          "Title": "Process Properties"
+        },
+        "Title": {
+          "Title": "Process Title"
+        },
+        "Breadcrumb": {
+          "Title": "Process Breadcrumb"
+        },
+        "Documents": {
+          "Title": "Process Documents"
+        },
+        "Pages": {
+          "Title": "Process Pages",
+          "Summary": "Lists the pages, added on the Pages tab by the process author."
+        },
+        "ProcessLayout": {
+          "Title": "Process Layout"
+        }
+      },
+      "Blocks": {
+        "Drawing": {
+          "Settings": {
+            "StackProcess": "Stack Process",
+            "StackDialogBackgroundColor": "Dialog Background Color",
+            "StackDialogBorderColor": "Dialog Border Color",
+            "StackCloseButtonPosition": "Close Button Position"
+          }
+        },
+        "Navigation": {
+          "LevelIndentation": "Level Indentation"
+        },
+        "Properties": {
+          "DateFormatMode": "Date Type",
+          "Properties": {
+            "LinkToProcessLibrary": "Link to Process Library"
+          }
+        },
+        "Context": {
+          "PageProperty": "Enterprise Property"
+        }
+      },
+      "Columns": {
+        "ProcessMenu": "Process Menu",
+        "AssignedTo": "Assigned To",
+        "CreatedBy": "Created By",
+        "WorkflowHistory": "Workflow History",
+        "DeletedBy": "Deleted By",
+        "RejectedBy": "Rejected By"
+      },
+      "Process": {
+        "LinkedProcess": "Linked Process"
+      },
+      "DrawingShapeSettings": {
+        "TextColor": "Text Color",
+        "HoverBackgroundColor": "Hover Background Color",
+        "HoverBorderColor": "Hover Border Color",
+        "HoverTextColor": "Hover Text Color",
+        "SelectedBackgroundColor": "Selected Background Color",
+        "SelectedBorderColor": "Selected Border Color",
+        "SelectedTextColor": "Selected Text Color",
+        "TextPosition": "Text Position",
+        "TextAlignment": "Text Alignment",
+        "TextAdjustment": "Text Adjustment",
+        "Tooltip": "Tooltip Text",
+        "TooltipPosition": "Tooltip Position",
+        "FontSize": "Font Size",
+        "BorderWidth": "Border Width",
+        "Above": "Above Shape",
+        "On": "On Shape",
+        "Below": "Below Shape"
+      },
+      "Buttons": {
+        "CheckIn": "Check In",
+        "DrawShape": "Draw Shape",
+        "RedrawShape": "Redraw Shape",
+        "AddImage": "Add Image"
+      },
+      "Messages": {
+        "ArchivePublishedProcessConfirmation": "Are you sure you want to delete the process?"
+      },
+      "ProcessActions": {
+        "SendForComments": "Send for Comments",
+        "WorkflowHistory": "Workflow History",
+        "DeleteDraft": "Delete Draft",
+        "CreateDraft": "Create Draft",
+        "ViewProcess": "View Process",
+        "ExportProcess": "Export Process",
+        "ProcessHistory": "Process History",
+        "MoveProcess": "Move Process",
+        "DeleteProcess": "Delete Process",
+        "SyncToSharePoint": "Sync To SharePoint",
+        "NewProcess": "New Process",
+        "ReviewDate": "Review Date",
+        "TakeControl": "Take Control",
+        "PermanentlyDelete": "Permanently Delete"
+      },
+      "MediaPicker": {
+        "Node": {
+          "TextFlowOption": "Text Flow Options",
+          "TopAndBottom": "Top And Bottom",
+          "BehindText": "Behind Text",
+          "InFrontOfText": "In Front Of Text"
+        }
+      }
+    },
+    "ProcessDesigner": {
+      "CanvasSettings": "Canvas Settings",
+      "BackgroundImage": "Background Image",
+      "ShowGridlines": "Show gridlines",
+      "HighlightShapes": "Highlight shapes",
+      "OnDarkBackground": "on dark background",
+      "OnLightBackground": "on light background",
+      "AddImage": "Add Image",
+      "EditImage": "Edit Image",
+      "AllShapes": "All Shapes",
+      "RecentShapes": "Recent Shapes",
+      "SelectShape": "Select Shape",
+      "AddShape": "Add Shape",
+      "RedrawShape": "Redraw Shape",
+      "DrawShape": "Draw Shape",
+      "DeleteShape": "Delete Shape",
+      "CloneShape": "Clone Shape",
+      "EditShape": "Edit Shape",
+      "DeleteDrawing": "Delete Drawing",
+      "ShapeType": "Shape Type",
+      "ShapeTypes": {
+        "ProcessStep": "Process Step",
+        "LinkedProcess": "Linked Process"
+      },
+      "AddLink": "Add Link",
+      "AddHeader": "Add Header",
+      "EditHeader": "Edit Header",
+      "AddTask": "Add Task",
+      "EditTask": "Edit Task",
+      "EditLink": "Edit Link",
+      "NoProperties": "There are no properties to be edited.",
+      "CreateProcessStep": "Create Process Step",
+      "EditTitle": "Edit Title",
+      "DeleteProcessStep": {
+        "ConfirmationMessage": "Are you sure you want to delete this process step?",
+        "WarningReferenceProcessStepMessage": "Warning: There is at least one shape in other drawings referencing one of the process steps you are about to delete.",
+        "WarningMultipleDeletingProcessStepMessage": "Warning: There are multiple process steps that will be deleted."
+      },
+      "NewDataNotSaved": "New data not saved",
+      "NewDataHasBeenSaved": "New data has been saved",
+      "LinkObject": {
+        "OpenNewWindow": "Open new window"
+      },
+      "ChangeShape": "Change Shape",
+      "CreateDrawing": "Create Drawing",
+      "NoDrawingMessage": "This process step doesn't have a drawing, the parent's drawing is being used.",
+      "ProcessTemplateDoesNotHaveShapeDefinitions": "The current process template doesn't have any Shape Definitions.",
+      "FilterShapeDefinitionNoResult": "No result",
+      "FreeForm": "Free Form",
+      "DiscardChangeConfirmMessage": "Are you sure you want to discard your changes to the process?",
+      "ShapeSettings": "Shape Settings",
+      "MessageNoDocumentsItem": "There�are�no�documents�for�this�process.",
+      "MessageNoLinksItem": "There are no links for this process.",
+      "MessageNoTasksItem": "There are no tasks for this process.",
+      "DrawFreeform": "Draw Freeform",
+      "CheckedOutTo": "Checked out to",
+      "ChangeProcessType": "Change Process Type",
+      "ChangeProcessTemplate": "Change Process Template",
+      "CopyNewProcess": "Copy to new Process",
+      "CopyNewProcessConfirmation": "Are you sure you want to copy to a new process?",
+      "CopyNewProcessConfirmationDescription": "The current process step and all children will be copied and created in the drafts.",
+      "ProcessType": "Process Type",
+      "ProcessTemplate": "Process Template",
+      "AddLinkedProcess": {
+        "SearchText": "Search for a process...",
+        "AddTitle": "Add Linked Process",
+        "ProcessNotFound": " Process not found."
+      },
+      "RelatedDocuments": {
+        "DocumentPicker": "Document Picker",
+        "DocumentId": "Document Id",
+        "SuggestedBy": "Suggested By",
+        "SuggestedAt": "Suggested At"
+      },
+      "DocumentSettings": "Document Settings",
+      "PageSettings": "Page Settings"
+    },
+    "ProcessLibrary": {
+      "ProcessStatuses": {
+        "SendingForApproval": "Sending for Approval",
+        "SentForApproval": "Waiting for Approval",
+        "SendingForApprovalFailed": "Sending for Approval failed",
+        "CancellingApproval": "Cancelling Approval",
+        "CancellingApprovalFailed": "Cancelling Send for Approval failed",
+        "SendingForReview": "Sending for Comments",
+        "SentForReview": "Sent for Comments",
+        "SendingForReviewFailed": "Sending for Comments failed",
+        "CancellingReview": "Cancelling Send for Comments",
+        "CancellingReviewFailed": "Cancelling Send for Comments failed",
+        "SyncingToSharePointFailed": "Sync To SharePoint failed"
+      },
+      "TaskStatus": {
+        "NotStarted": "Not Started"
+      },
+      "TaskViews": {
+        "TasksAssignedToMe": "Assigned To Me",
+        "CompletedTasks": "Completed Tasks",
+        "TasksAssignedByMe": "Assigned By Me"
+      },
+      "ProcessLibrarySettings": {
+        "DefaultOrderingField": "Default Sort Order",
+        "ShowSearchBox": "Show Search Box",
+        "PageSize": "Page Size",
+        "PreviewPageUrl": "Preview Page Url"
+      },
+      "PagingType": {
+        "NoPaging": "No Paging"
+      },
+      "ViewTabs": {
+        "RecycleBin": "Recycle Bin"
+      },
+      "SortText": {
+        "Direction": "Sort Direction"
+      },
+      "SetAsDefaultControlMessage": "This control will be set as default, which means navigations from external such as processes and tasks in email will be direct to this control.",
+      "ProcessType": "Process Type",
+      "ProcessTemplate": "Process Template",
+      "Approval": {
+        "CancelApproval": "Cancel Approval Workflow",
+        "VersionPublishingTypes": {
+          "PublishNewEdition": "Publish New Edition",
+          "PublishNewRevision": "Publish New Revision"
+        },
+        "ApprovalDueDate": "Approval Due Date"
+      },
+      "ReadRights": {
+        "DefaultReaders": "Default Readers",
+        "LimitReadAccess": "Limit Read Access"
+      },
+      "EmailTemplates": {
+        "SendForApproval": {
+          "BodyTemplate": "Dear {{ApproverName}}, <br/><br/>You have been assigned to a task by {{AuthorName}} to approve or reject the publishing of the process {{ProcessTitle}}, that is due {{DueDate}}.<br/><br/>1. Open the process <a href='{{ProcessLink}}' target='_blank'>{{ProcessTitle}}</a><br/> 2. Review the contents of the process.<br/> 3. Open the task <a href='{{TaskLink}}' target='_blank'>{{TaskTitle}}</a>.<br/> 4. Add a comment to the task and select Approve or Reject.<br/><br/>{{AuthorName}} will be notified once your task has been completed.<br/><br/>"
+        },
+        "ReviewReminder": {
+          "SubjectTemplate": "Review Reminder: {{ProcessTitle}}",
+          "BodyTemplate": "Dear {{Recipient}}, <br/><br/>This is a review reminder e-mail sent from the process management system.<br/><br/>Process: <a href='{{ProcessLink}}' style='color:#ff0000;' target='_blank'>{{ProcessTitle}}</a><br/>Team Site: <a href='{{SiteUrl}}' style='color:#ff0000;' target='_blank'>{{SiteTitle}}</a><br/>Publish Date: {{PublishDate}}<br/>Review Date: {{ReviewDate}}"
+        }
+      },
+      "ProcessHistory": "Process History",
+      "Action": {
+        "UpdateProcessProperties": "Update Process Properties"
+      },
+      "CreateDraftDialog": {
+        "Title": "Create Draft"
+      },
+      "MoveProcess": {
+        "TargetSiteURL": "Target Site URL",
+        "ResolvedSiteTitle": "Site Title"
+      },
+      "FeedbackDialog": {
+        "ProcessStep": "Process Step"
+      },
+      "DeleteProcessConfirmTitle": "Delete Process(es)",
+      "WorkflowHistory": "Workflow History",
+      "WorkflowTypes": {
+        "PublishWorkflow": "Publish Workflow",
+        "DeletePublishedProcess": "Delete Document",
+        "RestoreProcess": "Restore Document"
+      },
+      "FieldNames": {
+        "Field_ApprovalDueDate": "Approval Due Date"
+      }
+    },
+    "ProcessRollup": {
+      "BlockTitle": "Process Rollup",
+      "ViewTitle": {
+        "List": "List View"
+      },
+      "Settings": {
+        "IncludeEmpty": "Include Empty",
+        "IncludeChildTerms": "Include Child Terms",
+        "ItemLimit": "Item Limit",
+        "ViewPageUrl": "View Page Url",
+        "PageSize": "Page Size",
+        "SortBy": "Sort By",
+        "PagingType": {
+          "NoPaging": "No Paging"
+        },
+        "FilterOption": {
+          "Searchbox": "Search Box"
+        },
+        "SearchBoxMessage": {
+          "SearchOnTeamTitleAnd": "Search on Title and"
+        },
+        "QueryScope": {
+          "PublishedProcesses": "Published Processes",
+          "ArchivedProcesses": "Archived Processes"
+        },
+        "SearchBoxOutlined": "Outlined Search Box",
+        "SearchBoxRounded": "Rounded Search Box",
+        "SearchBoxFilled": "Filled Search Box",
+        "NoResultText": "No Result Text",
+        "ProcessRollupImageRatioSettings": "Image Ratio"
+      },
+      "ListView": {
+        "TitleAndLink": "Title And Link",
+        "AdjustColumns": "Adjust Columns",
+        "AddColumn": "Add Column",
+        "ShowHeading": "Show Heading"
+      }
+    },
+    "ProcessTasks": {
+      "Block": {
+        "DeSelectAll": "Deselect All",
+        "AssignTasks": "Assign Tasks",
+        "CreateTasks": "Create Tasks"
+      }
+    }
+  }
+}
