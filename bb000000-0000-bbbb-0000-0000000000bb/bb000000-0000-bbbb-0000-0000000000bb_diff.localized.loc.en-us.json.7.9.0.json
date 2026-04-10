@@ -1,0 +1,1112 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Console": {
+        "Header": "Omnia Console"
+      },
+      "EnterpriseProperties": {
+        "Settings": {
+          "EnterpriseKeywords": {
+            "KeyWordTermSet": "Keywords Term Set Id:"
+          }
+        },
+        "ValueDefinition": {
+          "Taxonomy": {
+            "LimitLevel": "Limit Level"
+          },
+          "DateTime": {
+            "DateOnly": "Date Only"
+          },
+          "HelpText": "Help Text"
+        },
+        "EnterpriseProperties": "Enterprise Properties",
+        "DuplicateInternalNameMessage": "There is an exisiting property (or a deleted property) with the same internal name",
+        "DeleteFailedMessages": {
+          "BeingUsedInTargetingProperty": "Unable to delete this property because there are targeting properties using it",
+          "BeingUsedInPropertySet": "Unable to delete this property because it is being used by a property set",
+          "BeingUsedInAppTemplate": "Unable to delete this property because it is used in a provisioning template"
+        },
+        "Properties": "Enterprise Properties",
+        "Definitions": {
+          "EnterpriseKeywords": "Enterprise Keywords",
+          "RichText": "Rich Text",
+          "ExtendedProperty": "Extended Property"
+        },
+        "BuiltIn": {
+          "CreatedBy": "Created By",
+          "ModifiedBy": "Modified By"
+        }
+      },
+      "QueryFilterBuilder": {
+        "HideFilterButton": "Hide Filter",
+        "ShowFilterButton": "Show Filter"
+      },
+      "User": {
+        "UserPropertiesBySharePoint": {
+          "TermSetProperty": "Property with Term-Set type",
+          "UserIdentityProperty": "Property with User Identity type"
+        },
+        "UserPropertiesProvider": {
+          "UserTypeProperty": "User Type"
+        },
+        "UserProperties": {
+          "TermSetProperty": "Property with Term-Set type",
+          "UserIdentityProperty": "Property with User Identity type"
+        },
+        "UserPropertiesByMicrosoftGraph": {
+          "TermSetProperty": "Property with Term-Set type",
+          "UserIdentityProperty": "Property with User Identity type"
+        }
+      },
+      "App": {
+        "AppPropertiesProvider": {
+          "BusinessProfileProperty": "Business Profile"
+        },
+        "Tokens": {
+          "AppInstanceTitle": "App Instance Title",
+          "AppInstanceDescription": "App Instance Description",
+          "AppInstanceUrl": "App Instance Url"
+        }
+      },
+      "AppBladeBuilder": {
+        "CreateNewLayout": "Create New Layout",
+        "CreateNewTemplate": "Create New Template",
+        "CustomSteps": "Custom Steps",
+        "UncheckTitle": "Uncheck Feature Option",
+        "EnableCutomSteps": "Enable Custom Steps",
+        "AppAdministrator": "App Administrator",
+        "ProvisioningTemplate": "Provisioning Template",
+        "CreatedDate": "Created Date",
+        "CreatedBy": "Created By",
+        "LastActivity": "Last Activity",
+        "AppList": {
+          "StatusInfo": {
+            "SuccessWithWarning": "Success with Warning"
+          },
+          "PendingApproval": "Pending Approval",
+          "ErrorMessage": "An error occured. Transaction Id: ",
+          "RunningMessage": "Transaction Id: ",
+          "WarningMessage": "Warning. Transaction Id: "
+        },
+        "AppManagement": {
+          "LayoutTab": {
+            "EditLayout": "Edit Layout",
+            "EditAlias": "Edit Alias",
+            "AddLayout": "Add Layout"
+          },
+          "Template": {
+            "Add": "Add Template",
+            "EmptyTitleMessage": "Please enter a value for the Template title field, as it cannot be left empty.",
+            "CurrentUser": "Current User",
+            "PropertySet": "Property Set",
+            "PropertySetting": "Property Settings",
+            "AllUser": "All Users",
+            "SpecificUser": "Specific Users",
+            "AdminOnly": "Admin Only",
+            "SelfService": "Self Service"
+          }
+        }
+      },
+      "ColorPicker": {
+        "CustomColor": "Custom Color"
+      },
+      "DatetimePicker": {
+        "InvalidDate": "Invalid Date"
+      },
+      "DatetimeZonePicker": {
+        "InvalidDate": "Invalid Date"
+      },
+      "FilePicker": {
+        "UploadedDocument": "Uploaded Document",
+        "MyComputerProvider": {
+          "Title": "My Computer"
+        }
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "Description": "This provider synchronizes users and groups from Azure Active Directory.",
+              "SyncPropertyBindingSetupTitle": "User Details Property Mapping",
+              "SyncRuleSetupTitle": "User Type Assignment"
+            }
+          },
+          "PropertySyncBinding": {
+            "SyncProperty": "Sync Property",
+            "UserProperty": "User Property"
+          },
+          "IsExternal": "Is External"
+        },
+        "BuiltInProperties": {
+          "DisplayName": "Display Name",
+          "UserIcon": "User Icon",
+          "Email": "E-mail",
+          "PreferredLanguage": "Preferred Language",
+          "UiLanguage": "UI Language",
+          "IsRemoved": {
+            "DeletedUser": "Deleted User",
+            "DeletedGroup": "Deleted Group"
+          }
+        },
+        "ExtraUserPropertiesFeatureRequiredMessage": "To add extra properties, please activate the EntraID additional user properties feature."
+      },
+      "IdentityPicker": {
+        "AllUserTypes": "All User Types",
+        "AllGroupTypes": "All Group Types",
+        "DynamicGroup": "Dynamic Group",
+        "AllIdentityTypes": "All Identity Types",
+        "SpecialUserType": "Special User",
+        "SpecialIdentities": {
+          "CurrentUser": "Current User"
+        },
+        "RemoveUser": "Remove User",
+        "PeolePicker": "People Picker"
+      },
+      "ImageTransformer": {
+        "Title": "Edit Image",
+        "ImageUrl": "Image Url",
+        "UsefixedSize": "Fixed Size",
+        "RemoveWhite": "Remove White",
+        "ColorFilter": "Color Filter",
+        "TransformComponentTitle": "Edit Image",
+        "ImageAlt": "Image description",
+        "ImageCaption": "Image Caption"
+      },
+      "InputLanguagePicker": {
+        "AllLanguages": "Show All Languages",
+        "EditGridMode": "Edit in Grid Mode"
+      },
+      "Token": {
+        "EnterToken": "Enter Token"
+      },
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "StartPages": "Start Pages",
+            "NewsCenters": "News Centers"
+          }
+        }
+      },
+      "Common": {
+        "Buttons": {
+          "SendRequest": "Send for Approval",
+          "AddImage": "Add Image",
+          "ShowDetails": "Show Details",
+          "ShowMore": "Show More"
+        },
+        "IconType": "Icon Type",
+        "IconUrl": "Icon Url",
+        "CustomColors": "Custom Colors",
+        "AccordionIconColor": "Accordion Icon Color",
+        "AccordionBackgroundColor": "Accordion Background Color",
+        "AccordionTextColor": "Accordion Text Color",
+        "BorderColor": "Border Color",
+        "IconColor": "Icon Color",
+        "BackgroundColor": "Background Color",
+        "TextColor": "Text Color",
+        "Url": "Url",
+        "CreateNewLayout": "Create New Layout",
+        "TimeZones": "Time Zones",
+        "AppInstance": "App Instance",
+        "Fields": {
+          "CreatedBy": "Created By",
+          "ModifiedBy": "Modified By"
+        },
+        "BusinessProfile": "Business Profile",
+        "CurrentTerm": "Current Term"
+      },
+      "Apps": {
+        "Policies": {
+          "DefaultAdministrators": "Default Administrators"
+        },
+        "NamingPolicies": {
+          "AppTitle": "App Title",
+          "NamingPolicies": "Naming Policies",
+          "NamingPolicy": "Naming Policy",
+          "TitleAndAlias": "Title and Alias",
+          "BlockedWord": "Blocked Word",
+          "BlockedWords": "Blocked Words"
+        },
+        "ResourceType": "Resource Type",
+        "AppAdministrators": "App Administrators",
+        "AppContributors": "App Contributors",
+        "AppViewers": "App Viewers",
+        "BaseAppTemplate": "Base App Template",
+        "ProvisioningSteps": {
+          "SendApprovalRequest": "Sending Request",
+          "EnableFeatures": "Enabling Required Features",
+          "CreateInstanceRequest": "Sending Request"
+        },
+        "ProvisioningCompleted": "Provisioning App",
+        "UpdatingCompleted": "Updating App",
+        "EnableFeature": "Activate Feature",
+        "OmniaAlias": "Omnia Alias",
+        "SPAlias": "SharePoint Alias",
+        "SPRelativeUrl": "SharePoint Relative Url",
+        "ShowInPublicListings": "Show in Public Listings",
+        "ShowInPublicListingsConfigure": {
+          "DefaultViewAccess": "Default View Access",
+          "LimitViewAccess": "Limit View Access"
+        },
+        "Messages": {
+          "ApprovalConfirmation": "You will receive a notification by e-mail when your app request has been handled.",
+          "SPAliasExists": "This Sharepoint alias already exists",
+          "SPAliasReserved": "This Sharepoint alias is not available",
+          "SPAliasInvalid": "This Sharepoint alias is invalid",
+          "InvalidUrlExistingAppInstance": "An app already exists on this url.",
+          "UnableToSetSiteSelectedPermission": "Unable to set Site Selected Permission for this site."
+        },
+        "ApproveRequest": "Approve App Request",
+        "CreateApp": "Create App Instance",
+        "EditApp": "Edit App Instance",
+        "EditAppPermission": "Edit App Permission",
+        "EditAppRoute": "Edit App Route",
+        "UseRootRoute": "Use Root Route",
+        "FeatureInstances": "App Features",
+        "DeleteApp": "Delete App Instance",
+        "DocumentSite": "Document Site",
+        "DocumentLibraryUrl": "Document Library Url",
+        "AllowUploadDocument": "Allow User Upload Document",
+        "EmailTemplates": {
+          "AppRequestToApprove": {
+            "Body": "Dear Approver(s),<br/><br/>You have a new app request to approve.<br/><br/>Please follow the link below to view and approve it:<br/><br/><a href='{{pendingRequestUrl}}'>Pending App Requests</a>"
+          },
+          "AppInstancePosts": {
+            "AddPost": {
+              "Subject": "An app instance post has been added to {{title}}"
+            },
+            "ReplyPost": {
+              "Subject": "An reply has been added to your app instance post"
+            }
+          },
+          "AuthEmails": {
+            "LoginWithMagicLink": {
+              "Body": "<html><body><p>You have started a login process from:</p><p>Country: <b>{{country}}</b></p><p>Device: <b>{{device}}</b></p><p>IP: <b>{{ip}}</b></p><br/><p>Please click the one-time link below to complete your login:</p><p><a href=\"{{magicLink}}\">Log in</a></p></body></html>"
+            },
+            "OnboardingLink": {
+              "Body": "<html><body><p>Hello {{userDisplayName}}, please click the link below to set up your account:</p><p><a href=\"{{magicLink}}\">Setup account</a></p></body></html>",
+              "BodyWithApprovalComment": "<html><body><p>Hello {{userDisplayName}}, please click the link below to set up your account:</p><p><a href=\"{{magicLink}}\">Setup account</a></p> &quot;{{approverComment}}&quot;</body></html>"
+            },
+            "ResetPassword": {
+              "Body": "<html><body><p>Hello {{userDisplayName}}, please click the link below to reset your password:</p><p><a href=\"{{magicLink}}\">Reset password</a></p></body></html>"
+            },
+            "ConfirmEmail": {
+              "Subject": "Confirm email",
+              "Body": "<html><body><p>Hello {{userDisplayName}}, please click the link below to confirm your email:</p><p><a href=\"{{secretLink}}\">Confirm email</a></p></body></html>"
+            },
+            "InformDisabledAccountEmail": {
+              "Body": "Dear {{userDisplayName}},<br/><br/>Your account is disabled.<br/> Now you can not login to your account anymore!"
+            }
+          },
+          "IdentityCreationRequestEmails": {
+            "NotifyIdentities": {
+              "Body": "<html><body><p>Hello, </p><p> A new account has been {{action}} in {{businessProfileNameAsLink}}.</p></body></html>"
+            }
+          }
+        },
+        "Rollup": {
+          "Settings": {
+            "Scopes": {
+              "LastVisited": "Last Visited"
+            },
+            "SiteTemplate": "Site Template",
+            "AppTemplate": "App Template",
+            "ItemLimit": "Item Limit",
+            "PageSize": "Page Size",
+            "PagingType": {
+              "NoPaging": "No Paging"
+            },
+            "UIFilterOption": {
+              "MyDrafts": "My Drafts",
+              "Searchbox": "Search Box"
+            },
+            "SearchBoxMessage": {
+              "SearchOnTeamTitleAnd": "Search on Title and",
+              "TeamProperties": "Team Properties"
+            },
+            "OrderFilters": "Order Filters",
+            "OpenNewWindow": "Open in New Window",
+            "RunQueryOnLoad": "Run Query On Load",
+            "OnlyCurrentBusinessProfile": "Only Current Business Profile",
+            "ShowFollowStatus": "Show Follow Status",
+            "SearchBoxOutlined": "Outlined Search Box",
+            "SearchBoxRounded": "Rounded Search Box",
+            "SearchBoxFilled": "Filled Search Box",
+            "LastVisited": "Last Visited",
+            "TitleAndLink": "Title And Link",
+            "ShowHeading": "Show Heading",
+            "AddColumn": "Add Column",
+            "AdjustColumns": "Adjust Columns",
+            "NoColumnMessage": "No Column",
+            "BorderRadius": "Border Radius",
+            "BorderSize": "Border Size",
+            "BorderColor": "Border Color",
+            "CardSpacing": "Card Spacing",
+            "Tile": "Show as Tile",
+            "ItemsPerRow": "Cards per Row",
+            "MixCardSizes": "Mix Card Sizes",
+            "MixCardTypes": "Mix Card Types",
+            "TitelOnImageColor": "Title Color",
+            "CardType": {
+              "BackgroundImage": "Title and Content on Image",
+              "TextImage": "Image On Top",
+              "TitleOnImage": "Title on Image",
+              "Text": "Title and Content only"
+            },
+            "TitleSize": "Title Size",
+            "StaticTitle": "Static Title Size",
+            "CardSize": "Card Size",
+            "ShowLabel": "Show Label",
+            "OverlayOpacity": "Overlay Opacity",
+            "OverlayColor": "Overlay Color",
+            "AdjustProperties": "Adjust Properties",
+            "TermProperties": "Term Properties",
+            "NoResultText": "No Result Text"
+          }
+        }
+      },
+      "Rollup": {
+        "Settings": {
+          "FixedHeader": "Fixed Header",
+          "FixedFilterArea": "Fixed Filter Area"
+        },
+        "DefaultValue": "Default Value",
+        "IncludeChildTerms": "Include Child Terms",
+        "IncludeEmpty": "Include Empty",
+        "AddFilter": "Add Filter"
+      },
+      "Properties": {
+        "DataSource": "Data Source",
+        "SelectProperties": "Select Properties",
+        "PropertyTypeConverter": "Property Type Converter",
+        "Definitions": {
+          "MultilineText": "Multiline Text",
+          "DateTime": "Date Time",
+          "PhoneNumber": "Phone Number",
+          "TermSet": "SharePoint Term Set",
+          "MultilingualText": "Multilingual Text",
+          "UserType": "User Type",
+          "PublishingApp": "Publishing App",
+          "BusinessProfile": "Business Profile",
+          "PageCollection": "Page Collection",
+          "PageType": "Page Type"
+        },
+        "Users": {
+          "Email": "E-mail",
+          "PreferredLanguage": "Preferred Language",
+          "UiLanguage": "UI Language",
+          "BulkImportStatus": {
+            "CompleteWithErrors": "Complete with errors",
+            "CompleteWithNoErrors": "Complete with no errors"
+          }
+        },
+        "Settings": {
+          "Html": {
+            "RichText": "Rich Text",
+            "LimitedRichText": "Limited Rich Text",
+            "CustomRichText": "Custom Rich Text"
+          },
+          "Image": {
+            "KeepRatio": "Keep Ratio",
+            "DefaultScaling": "Default Scaling",
+            "CropRatios": "Crop Ratios",
+            "ForceDefaultScaling": "Force Default Scaling"
+          },
+          "DateTime": {
+            "RenderMode": "Date Type",
+            "DateFormat": "Date Format"
+          }
+        }
+      },
+      "Heading": {
+        "ShowTitle": "Show Title"
+      },
+      "OmniaAdmin": {
+        "Close": "Close Omnia Admin"
+      },
+      "FeatureCategory": {
+        "Providers": "Media Providers"
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "ConsentInformation": "Read and write all users' full profiles permissions are utilized to grant users the ability to write to properties within Azure AD."
+        },
+        "ProfileCompleteness": {
+          "Description": "Update SharePoint user profile from profile completeness",
+          "Title": "Update SharePoint user profile from profile completeness"
+        },
+        "AzureAdUserSyncSetup": {
+          "Description": "On activation, default user types and synchronization settings for Azure Active Directory will be provisioned.",
+          "Title": "Azure AD user synchronization setup"
+        },
+        "TextCompletion": {
+          "Description": "Add text completion to your rich text editor and summary generation using the OpenAI API"
+        },
+        "BrokenLinkDetection": {
+          "Title": "Broken Link Detection"
+        },
+        "SharePointTermStore": {
+          "Title": "App-only read access to SharePoint termstore for Omnia users",
+          "Description": "Provides the possibility for Omnia users to access properties which lookup data that is stored in the SharePoint termstore."
+        },
+        "AnonymousAccessSetup": {
+          "Title": "Activate anonymous access core",
+          "Description": "Activates the option to use anonymous access on Business Profiles"
+        },
+        "AIEngine": {
+          "SemanticSearch": {
+            "Title": "Semantic Search",
+            "Description": "Enable this feature to give your system access to the Semantic Search"
+          }
+        },
+        "ManagedMetadataProperties": {
+          "ConsentInformation": " "
+        }
+      },
+      "AuditLog": {
+        "LoggedAt": "Logged At",
+        "LoggedBy": "Logged By",
+        "PreviousState": "Previous State",
+        "StartedDate": "Start Date",
+        "EndDate": "End Date",
+        "LoadMore": "Load More"
+      },
+      "SystemLog": {
+        "Title": "Queue Logs"
+      },
+      "TeamsPresence": {
+        "Title": "Teams Presence",
+        "Activities": {
+          "BeRightBack": "Be Right Back",
+          "DoNotDisturb": "Do Not Disturb",
+          "InACall": "In A Call",
+          "InAConferenceCall": "In A Conference Call",
+          "InAMeeting": "In A Meeting",
+          "OffWork": "Out Of Office",
+          "OutOfOffice": "Out Of Office",
+          "PresenceUnknown": "Presence Unknown",
+          "UrgentInterruptionsOnly": "Urgent Interruptions Only"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "Common": {
+            "DefaultValue": "Default Value"
+          },
+          "SearchBoxSettings": {
+            "Mode": {
+              "Properties": "Search Box (Properties)",
+              "FullText": "Search Box (Full Text)"
+            },
+            "SearchTitleAnd": "Search on Title and"
+          },
+          "Property": {
+            "UserFilterOption": {
+              "CurrentUser": "Current User",
+              "PickedUser": "Fixed Value",
+              "SelectedUser": "Selected User",
+              "CurrentGroup": "Current Group"
+            },
+            "FilterRenderType": {
+              "Option": {
+                "DateTypeSetting": {
+                  "Label": "Date Type"
+                }
+              }
+            },
+            "ValueSortOrder": {
+              "Option": {
+                "TermsetOrder": "Termset order"
+              }
+            }
+          },
+          "EnterpriseGlossaryChipColor": "Enterprise Glossary",
+          "BreakLine": "Break line for each filter"
+        }
+      },
+      "LayoutEngine": {
+        "ClipBoard": {
+          "ExportClipBoard": "Export Clipboard",
+          "EditClipboardNames": "Edit Clipboard Labels",
+          "SaveClipboardNames": "Save Clipboard Labels",
+          "ClearClipboard": "Clear Clipboard",
+          "DeleteItems": "Delete Items"
+        },
+        "DeveloperTools": {
+          "DialogTitle": "Layout Tools"
+        },
+        "LayoutTemplates": {
+          "Title": "Layout Templates"
+        },
+        "Labels": {
+          "OrphanedBlocks": "Orphaned Blocks",
+          "CustomTheme": "Custom Theme",
+          "ShowAdvancedSettings": "Show Advanced Settings",
+          "HideAdvancedSettings": "Hide Advanced Settings",
+          "AnchorName": "Anchor Name",
+          "CustomAnchorName": "Custom Anchor Name"
+        },
+        "Buttons": {
+          "AddColor": "Add Color",
+          "DesignLayout": "Design Layout",
+          "OpenEditor": "Open Editor"
+        },
+        "Panels": {
+          "Background": {
+            "MappedEnterpriseProperty": "Page Image Property",
+            "BlurEffect": "Blur Effect",
+            "AddImage": "Add Image",
+            "BackgroundGradient": "Background Gradient",
+            "BackgroundOverflow": "Background Overflow",
+            "BgSizes": {
+              "CustomSize": "Custom Size"
+            },
+            "BgAttachment": {
+              "Title": "Scroll Behavior"
+            }
+          },
+          "BlockSettings": {
+            "ThemingType": "Theming Type",
+            "BlockMargin": "Block Margin",
+            "CSS": "Advanced",
+            "CSSClasses": "Custom CSS Classes",
+            "CSSStyling": "Custom CSS Style",
+            "HideControlLabel": "Hide Block",
+            "ChromeColor": "Chrome Color",
+            "ChromeSize": "Chrome Size"
+          },
+          "BlockTitleSettings": {
+            "BackgroundColor": "Background Color",
+            "TextMargin": "Text Margin",
+            "FontSize": "Font Size",
+            "TextColor": "Text Color",
+            "TextAlign": "Text Align",
+            "SeparatorColor": "Separator Color",
+            "SeparatorSize": "Separator Size",
+            "SeparatorPosition": "Separator Position",
+            "FollowTheming": "Follow Theming",
+            "Radius": "Border Radius",
+            "PreviewHeader": "Title Preview",
+            "TabHeader": "Content Header",
+            "DisplayIcon": "Display Title Icon",
+            "IconElevation": "Icon Elevation",
+            "IconSizeLabel": "Icon Size",
+            "IconPositionLabel": "Icon Position",
+            "BackgroundColorIcon": "Background Color Icon",
+            "IconColor": "Icon Color",
+            "BorderLabel": "Icon Border",
+            "BorderColor": "Icon Border Color",
+            "IconSpacing": "Icon Spacing",
+            "IconSize": {
+              "ExtraLarge": "Extra Large"
+            },
+            "IconPosition": {
+              "TopLeft": "Top Left",
+              "TopRight": "Top Right"
+            }
+          },
+          "ColumnSettings": {
+            "BackgroundColor": "Background Color",
+            "CSS": "Advanced",
+            "CSSClasses": "Custom CSS Classes",
+            "MinWidth": "Min Width"
+          },
+          "TabSettings": {
+            "Flat": "Flat Header",
+            "Collapsed": "Collapsed Accordion",
+            "SingleSelect": "Single Select",
+            "SliderColor": "Slider Color",
+            "CustomSize": "Custom Size",
+            "MinHeight": "Min Height",
+            "MinWidth": "Min Width",
+            "BorderRadius": "Border Radius",
+            "BorderRadiusOnAllTabs": "Border Radius on all tabs",
+            "FillSpace": "Fill Space",
+            "IconAlignment": "Icon Alignment",
+            "TextColor": "Text Color",
+            "IconColor": "Icon Color",
+            "SelectedIconColor": "Selected Icon Color",
+            "SelectedTextColor": "Selected Text Color",
+            "LabelPadding": "Label Padding",
+            "AccordionDescription": "A section pre-configured as an accordion",
+            "StepperDescription": "A section pre-configured as a stepper",
+            "TabAlignment": "Tab Alignment",
+            "ShowActiveTabSlider": "Show Active Slider",
+            "BackgroundColorTabs": "Background Color Tabs",
+            "TabColor": "Tab Color",
+            "SelectedTabColor": "Selected Tab Color",
+            "TextColorTabs": "Text Color Tabs"
+          },
+          "AccordionSettings": {
+            "AddPanel": "Add Panel",
+            "RemovePanel": "Remove Panel"
+          },
+          "TabsSettings": {
+            "AddTab": "Add Tab",
+            "RemoveTab": "Remove Tab"
+          },
+          "ColumnsSettings": {
+            "AddColumn": "Add Column"
+          },
+          "StepperSettings": {
+            "AddStep": "Add Step",
+            "RemoveStep": "Remove Step",
+            "MoveStep": "Move Step",
+            "Paging": "Pagination"
+          },
+          "LayoutSettings": {
+            "BlockHeader": "Block Header",
+            "LayoutTheming": "Layout Theming",
+            "BlockTheming": "Block Theming"
+          },
+          "SectionSettings": {
+            "BorderWidth": "Border Width",
+            "BorderColor": "Border Color",
+            "ThemingBlocks": "Block Theming",
+            "HeaderSettings": "Header Settings",
+            "TenantHeaderBackground": "Tenant Header Background Color",
+            "AppHeaderBackground": "App Header Background Color",
+            "SectionType": "Section Type",
+            "BackgroundColor": "Background Color",
+            "BorderRadiusTop": "Border Radius Top",
+            "BorderRadiusBottom": "Border Radius Bottom",
+            "AcrylicEffect": "Acrylic Transparency Effect",
+            "WidthType": "Width Type",
+            "FullPage": "Full Page",
+            "BlockSpacing": "Block Spacing",
+            "SectionMargin": "Section Padding",
+            "HideControlLabel": "Hide Section",
+            "BackgroundImage": "Background Image",
+            "ColumnSpacing": "Column Spacing",
+            "CSS": "Advanced",
+            "CSSClasses": "Custom CSS Classes",
+            "CSSStyling": "Custom CSS Styling",
+            "MinHeight": "Minimum Height",
+            "ShapeDivider": "Divider Effects",
+            "UseFullHeight": "Use Full Height",
+            "LazyLoad": "Lazy Load",
+            "DisableLazyLoad": "Disable Lazy Load"
+          },
+          "CanvasSettings": {
+            "CanvasPadding": "Canvas Padding"
+          },
+          "Common": {
+            "LinearGradient": "Linear Gradient",
+            "RadialGradient": "Radial Gradient"
+          }
+        },
+        "PredefinedSections": {
+          "OneColumnDescription": "A full width section",
+          "TwoColumnsDescription": "A full width section with two pre-configured columns",
+          "ThreeColumnsDescription": "A full width section with three pre-configured columns"
+        },
+        "DisplayBreakPoints": {
+          "ExtraSmall": "Extra Small",
+          "Email": "E-mail"
+        },
+        "Dialogs": {
+          "DisplayBreakPoints": {
+            "Title": "Display Breakpoint Settings"
+          },
+          "DeleteBlock": {
+            "Title": "Delete Block"
+          },
+          "DeleteSection": {
+            "Title": "Delete Section"
+          },
+          "RemoveColumn": {
+            "Title": "Remove Column"
+          },
+          "UnlockBLock": {
+            "Title": "Unlock Block"
+          },
+          "LockBlock": {
+            "Title": "Lock Block"
+          },
+          "AddBlocks": {
+            "Title": "Add Content"
+          }
+        },
+        "BlockMessages": {
+          "BlockRegistrationNotFound": "Block Registration is not found.",
+          "FeatureDependencyNotValid": "Feature Dependency is not valid.",
+          "LayoutDependencyNotValid": "Layout Dependency is not valid."
+        }
+      },
+      "QueryableProperties": {
+        "HeaderTitle": "Queryable Properties",
+        "InternalName": "Internal Name"
+      },
+      "AppInstanceLayout": {
+        "DiscardChanges": "Discard Changes",
+        "VersionHistory": "Version History",
+        "SaveDraft": "Save a Draft",
+        "TakeControl": "Take Control"
+      },
+      "AuthenticationConfiguration": {
+        "ErrorMessages": {
+          "CannotDisableAzureAd": "Current user cannot disable Azure AD provider since the user is synced from Azure AD",
+          "NullAzureAdSettings": "Azure AD settings cannot be null or empty"
+        }
+      },
+      "BulkImportUsers": {
+        "DownloadTemplate": {
+          "UserTypeMissingRequiredProperties": "User type properties settings missing required properties"
+        },
+        "PreValidationMessage": {
+          "FileNotExisted": "File not existed."
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "DeleteConfirmationMsg": "Are you sure you want to delete the block template? It will not be automatically removed from the existing block template dialog. Ensure to remove it manually from dialog."
+        }
+      },
+      "MediaPicker": {
+        "Title": "Media Picker",
+        "ImageScalings": {
+          "Default": {
+            "ExtraSmall": "Extra Small"
+          }
+        }
+      },
+      "BingProvider": {
+        "TransformComponentTitle": "Edit Photo",
+        "PredefinedSearch": "Predefined Search",
+        "TemporarilyUnavailable": "Temporarily Unavailable"
+      },
+      "CentralImageLocationProvider": {
+        "Title": "Central Media Location",
+        "TransformComponentTitle": "Edit Image",
+        "TemporarilyUnavailable": "Temporarily Unavailable"
+      },
+      "DallEProvider": {
+        "FeatureDescription": "Activate this feature to add Dall-E generate to the media picker",
+        "SelectSizePicture": "Size of picture",
+        "ErrorMessage": "The task failed due to an error. Please check your configuration and try again.",
+        "ImageStyle": "Image Style"
+      },
+      "GptImageProvider": {
+        "FeatureDescription": "Activate this feature to add GPT Image generate to the media picker",
+        "PromptContent": "Prompts can be composed of any words, but think about how you might explain an image to someone. The form of \"subject + adjectives + styles\" tends to work well.",
+        "ImageStyle": "Image Style"
+      },
+      "MediaflowProvider": {
+        "Settings": {
+          "MainHeader": "Mediaflow Settings",
+          "ClientIdHeader": "Client id"
+        },
+        "Features": {
+          "Description": "Enable the use of images in Mediaflow pro on pages in the intranet"
+        },
+        "Mediapicker": {
+          "IframeMsg": "Select iframe option when importing a video"
+        }
+      },
+      "MediaProviderBase": {
+        "FileSizeWarningDialog": {
+          "KeepRatio": "Keep Ratio"
+        },
+        "FileTypeIsNotSupportedDialog": {
+          "FileTypeIsNotSupportedMessage": "This file type is not supported. Please try again with JPEG, PNG, BMP, GIF, SVG or ICO"
+        }
+      },
+      "MicrosoftStreamProvider": {
+        "EditSettingsTitle": "Edit Video",
+        "Labels": {
+          "VideoUrl": "Video url",
+          "VideoInformation": "Video information"
+        },
+        "Message": {
+          "UrlVideoHint": "Paste a Microsoft Stream video url here",
+          "InvalidVideoUrl": "Invalid video url. Microsoft Stream video url must start with https://web.microsoftstream.com/video/*"
+        }
+      },
+      "MyComputerProvider": {
+        "Title": "My Computer",
+        "FeatureTitle": "My Computer",
+        "TransformComponentTitle": "Edit Photo"
+      },
+      "YouTubeProvider": {
+        "EditSettingsTitle": "Edit Video",
+        "Labels": {
+          "VideoUrl": "Video url"
+        },
+        "Message": {
+          "UrlVideoHint": "Paste a YouTube video url here",
+          "InvalidVideoUrl": "Invalid video url. A YouTube video url must start with https://www.youtube.com/watch?v=*"
+        }
+      },
+      "MultilingualInput": {
+        "DefaultLanguageRequiredMessage": "* It is required to add a value for the default language"
+      },
+      "Reportees": {
+        "showAllLabel": "Show All"
+      },
+      "PermissionInput": {
+        "AddTenantAdminByFreeText": {
+          "InputLabel": "Azure AD username",
+          "InputPlaceholder": "Enter Azure AD username",
+          "ErrorWhileInput": "This Azure AD username does not exist."
+        }
+      },
+      "PreSetupWizard": {
+        "ContextUrlHeader": "Enter the Default Context Site URL...",
+        "UrlValidationError": "Url must be a full URL or relative start with '/sites'"
+      },
+      "Profilecard": {
+        "sendEmail": "Send email",
+        "goToDelve": "Go to Delve",
+        "goToMySite": "Go to My Site",
+        "mySubscriptions": "My Subscriptions",
+        "PublicLayout": "Public Layout",
+        "PrivateLayout": "Private Layout"
+      },
+      "EnterpriseSuggestion": {
+        "Tooltip": {
+          "AddSuggestion": "Add Suggestion",
+          "RemoveSuggestion": "Remove Suggestion"
+        },
+        "Title": "Enterprise Glossary Suggestion"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "BulletList": "Bullet List",
+          "CodeBlock": "Code Block",
+          "OrderedList": "Ordered List",
+          "TodoList": "Todo List",
+          "ExtendedElements": "Extended Elements",
+          "TextTranslator": "Text Translator",
+          "RemoveFormatting": "Remove Formatting",
+          "AnimatedGif": "Gif Picker",
+          "MediaPicker": {
+            "Title": "Media Picker",
+            "Node": {
+              "TextFlowOption": "Text Flow Options",
+              "TopAndBottom": "Top And Bottom",
+              "BehindText": "Behind Text",
+              "InFrontOfText": "In Front Of Text"
+            }
+          },
+          "AnchorLink": {
+            "Title": "Anchor Name"
+          },
+          "EmoticonPicker": {
+            "Title": "Emoticon Picker"
+          },
+          "TextCompletion": {
+            "OpenAI": "Open AI",
+            "GenerateContent": "Generate Content",
+            "MessageValidation": "The selected text is too long. Please shorten the selection and try again."
+          }
+        },
+        "Tooltip": {
+          "BulletList": "Bullet List",
+          "CodeBlock": "Code Block",
+          "OrderedList": "Ordered List",
+          "DeleteColumns": "Delete Columns",
+          "DeleteRows": "Delete Rows",
+          "DeleteTable": "Delete Table",
+          "InsertColumnsLeft": "Insert Columns Left",
+          "InsertColumnsRight": "Insert Columns Right",
+          "InsertRowsAbove": "Insert Rows Above",
+          "InsertRowsBelow": "Insert Rows Below",
+          "TodoList": "Todo List",
+          "CellStyle": "Cell Style",
+          "ViewGridlines": "View Gridlines",
+          "AddAnchorName": "Add Anchor Name",
+          "UpdateAnchorName": "Update Anchor Name",
+          "AnimatedGif": "Gif Picker",
+          "EmoticonPicker": "Emoticon Picker",
+          "TextCompletion": "Chat Open AI"
+        },
+        "RichTextEditor": "Rich Text Editor",
+        "LimitedRichTextEditor": "Limited Rich Text Editor",
+        "ExtensionSettings": {
+          "ConfigureStyle": "Configure Style",
+          "MediaPicker": {
+            "CropRatios": "Crop Ratios"
+          }
+        },
+        "TextCompletionPanelLocalization": {
+          "Title": "Text Completion",
+          "PanelTitle": "AI Content Generator",
+          "ErrorMessage": "Cannot send request to Azure Open AI! Please check your configuration or retry your prompt.",
+          "ImprovedPrompt": "How do you want to change?",
+          "RegenerateResponse": "Regenerate respone"
+        }
+      },
+      "RollupFilter": {
+        "HideFilterButton": "Hide Filter",
+        "ShowFilterButton": "Show Filter"
+      },
+      "ShapeDivider": {
+        "ShapeDivider": "Shape Divider",
+        "BorderRadius": "Shape Radius Top",
+        "ShapeSpacing": "Shape Spacing",
+        "ShapeTypes": {
+          "WavesOpacity": "Waves Opacity",
+          "CurveAsymentrical": "Curve Asymmetrical",
+          "TriangleAsymentrical": "Triangle Asymmetrical"
+        }
+      },
+      "LikeHandler": {
+        "UnlikeText": "Unlike Text"
+      },
+      "Comment": {
+        "BestReply": "Best Reply"
+      },
+      "Theming": {
+        "ForegroundColor": "Foreground Color",
+        "BackgroundColor": "Background Color",
+        "TextColor": "Text Color",
+        "DarkBackground": "Dark Background",
+        "DarkForeground": "Dark Foreground",
+        "ThemeName": "Theme Name",
+        "TemplateDefinition": "Template Definition",
+        "Title": "Theme Definition",
+        "ShowAdvancedSettings": "Show Advanced Settings",
+        "HideAdvancedSettings": "Hide Advanced Settings",
+        "BorderColor": "Border Color",
+        "BorderWidth": "Border Width",
+        "BorderRadiusTop": "Border Radius Top",
+        "BorderRadiusBottom": "Border Radius Bottom"
+      },
+      "UrlInput": {
+        "DefaultUrl": "Default Url",
+        "MSTeamsUrl": "Teams Url",
+        "InvalidMSTeamsUrlMessage": "Please input url start with https://teams.microsoft.com/l/"
+      },
+      "AppLayoutDefinition": {
+        "LayoutBackgroundImage": {
+          "CropRatio": "Crop Ratio",
+          "CustomRatio": "Custom Ratio",
+          "ForceDefaultScaling": "Force Default Scaling",
+          "KeepRatio": "Keep Ratio",
+          "DefaultScaling": "Default Scaling"
+        }
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxFontFamilyBase": {
+          "Description": "Set default font family base to SharePoint."
+        }
+      }
+    },
+    "TargetingFilter": {
+      "AddTargeting": "Add Targeting Filter",
+      "SelectProperty": "Select Property",
+      "IncludeChildrens": "Include Children"
+    },
+    "Fx": {
+      "Spfx": {
+        "SelectBlock": "Select Block"
+      },
+      "Media": {
+        "Gallery": {
+          "PhotoWall": {
+            "DisplayPhotoWall": "Show Gallery"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "EmailVerify": {
+        "Header": "Please confirm your email address",
+        "Body": "We sent the verification email to: "
+      },
+      "Password": {
+        "RequireRule": "Password must contain at least 8 characters and combine at least three of the following:",
+        "IncludeNumber": "Include at least one number (0-9)",
+        "IncludeLowerCase": "Include at least one lowercase letter (a-z)",
+        "IncludeUpperCase": "Include at least one uppercase letter (A-Z)",
+        "IncludeSpecial": "Include at least one special letter",
+        "PasswordNotMatching": "Passwords does not match."
+      },
+      "OTP": {
+        "Header": "Configure One-time password",
+        "ShowCode": "Show Code"
+      },
+      "ConfirmMessage": "Please click the button below to proceed your confirmation"
+    },
+    "Features": {
+      "Remove": "Deactivate",
+      "ErrorMessage": "Error occurred. Please refer to transaction Id: ",
+      "UpgradeAll": "Upgrade required",
+      "InstructingRevisitAzureAdPermissionsSettings": "Please return to the Azure Ad Permission Settings and consent once more to completely remove the requested permission.",
+      "ErrorMissingAdPermissions": "The required permissions is not consented. Please click the button to consent the permission."
+    },
+    "IconPicker": {
+      "EditImage": "Edit Icon",
+      "AddImage": "Add Icon"
+    },
+    "MagicLink": {
+      "MagicLinkSuccessLoginMessage": "You have been successfully logged in. Please close this tab and go to the page where you initiated the login process.",
+      "ConfirmedEmailMessage": "You have validated your email successfully. Please go to the page where you initiated the verification process.",
+      "ConfirmedEmailOnRequestSetupMessage": "Your email has been confirmed and account been created. You will now be redirected to the on boarding.",
+      "ConfirmedEmailOnRequesttApprovalMessage": "Your email has been confirmed and your account has been sent for approval. You can close this page.",
+      "LoginConfirmMessage": "Click the button to approve the login request",
+      "ExpiredError": "The link you have used is not valid.",
+      "SelfServiceEmailIsUsed": "Username {{userEmail}} already in use"
+    },
+    "SignIn": {
+      "SendMagicLink": "Send Login Link",
+      "MagicLinkIsValidMessage": "A one-time link has been sent to your email. Please keep this page open and follow the link in the email to complete the login process. Once you've clicked the link and approved the login, return to this page and wait for the login process to finish.",
+      "Password": {
+        "Invalid": "A strong password is required. Strong passwords are 8 to 256 characters and must combine at least three of the following: uppercase letters, lowercase letters, numbers and symbols.",
+        "Error": "Username or Password is incorrect"
+      },
+      "Code": "OTP Code",
+      "BuiltInProvider": {
+        "TheMagicLink": {
+          "Title": "Login link (e-mail)"
+        }
+      },
+      "GenericError": "We're sorry, but something went wrong during the authentication process. Please try again.",
+      "SendResetPasswordMessageTooltip": "Please enter the email address associated with your account, and we'll send you a link to reset your password.",
+      "SentResetPasswordMessage": "An email has been sent.",
+      "SendResetPasswordError": "We're sorry, but an error occurred while sending the email. Please try again.",
+      "RetryResetPasswordWarning": "If you didn't receive the email, please double-check that the email address you provided is correct. It's also possible that too many requests were made. Please try again in a few minutes.",
+      "BlockedMessage": "For security reasons, your account has been temporarily locked due to too many failed attempts. The account will be available again {0}.",
+      "CreateAccount": "Create one!",
+      "RequestAccount": "Request one!",
+      "DoNotHaveAccount": "No account?",
+      "SelfServiceErrorMessage": "Please fill in required fields and verify you are not a robot (if required).",
+      "WaitForConfirmEmailMessage": "A one-time link has been sent to your email. Please keep this page open until you received the email.",
+      "NotInYourInbox": "Not in your inbox?",
+      "ResendEmail": "Resend email",
+      "SuccessCreateAccountMessage": "Your email has been confirmed and your account has been created successfully. You can now close this page.",
+      "SuccessRequestAccountMessage": "Your email has been confirmed and your account has been sent for approval. You can now close this page.",
+      "ExpiredConfirmEmailMessage": "The one-time link sent to you has expired.",
+      "FailConfirmEmailMessage": "We're sorry, but something went wrong during the confirmation process.",
+      "ErrorSubmitForm": "There was an error submitting the form. Please try again."
+    },
+    "SignOut": {
+      "BrowserLogoutTabTitle": "Logout",
+      "LogoutMessage": "You have been successfully logged out of your account."
+    },
+    "Welcome": {
+      "SetUpProfileFailedMessage": "There was an error setting up your profile.  You can proceed, but you may want to contact an administrator if you feel that the system is not working as expected."
+    },
+    "SPServer": {
+      "Ux": {
+        "Features": {
+          "DefaultSettingUp": {
+            "Title": "Sharepoint Server Setting Up",
+            "Description": "Setting up some default setting for sharepoint server",
+            "Category": "Sharepoint Server"
+          }
+        },
+        "Synchronization": {
+          "Provider": {
+            "Ldap": {
+              "SyncPropertyBindingSetupTitle": "User Details Property Mapping",
+              "SyncRuleSetupTitle": "User Type Assignment"
+            }
+          }
+        }
+      }
+    }
+  }
+}
