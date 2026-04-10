@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, och inte heller innehålla något av dessa tecken: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "Inga dokument att visa."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "Inga processer att visa."
+    }
+  }
+}

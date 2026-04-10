@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "MessageInvalidFileNameChars": "File names can’t begin or end with a full stop, or contain any of these characters: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentRollup": {
+      "NoDocumentMessage": "No documents to display."
+    }
+  },
+  "OPM": {
+    "ProcessRollup": {
+      "NoProcessMessage": "There are no processes to display."
+    }
+  }
+}
