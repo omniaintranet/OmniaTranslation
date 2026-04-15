@@ -1,386 +1,386 @@
 {
   "WorkPlace": {
     "ShareAction": {
-      "DefaultMessage": "Default Message",
+      "DefaultMessage": "Default message",
       "ShareTypes": {
-        "Title": "Share Type",
+        "Title": "Share type",
         "Yammer": "Yammer"
       }
     },
     "AddFavoriteButton": {
       "LinkButtonText": "Add as Favorite",
-      "RemoveLinkText": "Remove Link"
+      "RemoveLinkText": "Remove link"
     }
   },
   "OWC": {
     "ActionMenu": {
       "Settings": {
-        "Title": "Action Menu",
-        "FormTitle": "Action Menu Settings",
-        "RegistrationNotFound": "The registered component id was not found"
+        "Title": "Action menu",
+        "FormTitle": "Action menu settings",
+        "RegistrationNotFound": "The registered component ID was not found"
       }
     }
   },
   "OTAD": {
     "AISearchConfig": {
       "AISearchSecretTitle": "AI Features: AI Search",
-      "ApiBaseUrl": "API Base URL",
-      "DeploymentName": "Deployment Name",
-      "ApiVersion": "API Version",
+      "ApiBaseUrl": "API ase URL",
+      "DeploymentName": "Deployment name",
+      "ApiVersion": "API version",
       "AISearchUrlChangedConfirmation": {
-        "Title": "AI Search Url is changed",
-        "Message": "The existing AI Search data will be lost when the AI Search Url is changed. Do you want to proceed?"
-      }
+        "Title": "AI Search URL is changed",
+        "Message": "The existing AI Search data will be lost when the AI Search URL is changed. Do you want to proceed?"
+      }b
     },
     "QueryableProperties": {
-      "AppNavigation": "App Instances",
-      "QueryableProperties": "Queryable Properties",
-      "TitleQueryableProperties": "App Instances - Queryable Properties",
-      "SignOffRequest": "Sign-off Request"
+      "AppNavigation": "App instances",
+      "QueryableProperties": "Queryable properties",
+      "TitleQueryableProperties": "App instances - Queryable properties",
+      "SignOffRequest": "Sign-off request"
     },
     "BusinessProfile": {
-      "BusinessProfiles": "Business Profiles",
-      "DeleteTitle": "Delete Business Profile",
-      "AddBusinessProfile": "Add Business Profile",
-      "EditBusinessProfile": "Edit Business Profile",
-      "HomeUrl": "Home Url",
-      "UseCustomHomeUrl": "Use custom Home Url",
-      "UseRootRoute": "Use Root Route",
-      "CreateWorkspace": "Create Business Profile Workspace",
-      "ClassicNavigationBar": "Classic Action Menu & Mega Menu",
-      "Tooltip": "Business Profile",
-      "RootPathDeletionErrorMessage": "This business profile cannot be deleted as it is currently set as the root path. Please assign a different path before proceeding.",
-      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it has non-deleted App instances.",
+      "BusinessProfiles": "Business profiles",
+      "DeleteTitle": "Delete business profile",
+      "AddBusinessProfile": "Add business profile",
+      "EditBusinessProfile": "Edit business profile",
+      "HomeUrl": "Home URL",
+      "UseCustomHomeUrl": "Use custom home URL",
+      "UseRootRoute": "Use root route",
+      "CreateWorkspace": "Create business profile workspace",
+      "ClassicNavigationBar": "Classic action menu & mega menu",
+      "Tooltip": "Business profile",
+      "RootPathDeletionErrorMessage": "This business profile can not be deleted as it is currently set as the root path. Please assign a different path before proceeding.",
+      "ValidateBusinessProfileAppInstanceExists": "This business profile can not be deleted as it contains active app instances.",
       "Language": {
-        "AddLanguage": "Add Language",
-        "ExcludeCountry": "Exclude Country"
+        "AddLanguage": "Add language",
+        "ExcludeCountry": "Exclude country"
       },
       "MediaPicker": {
-        "FileSizeLimit": "File Size Limit",
-        "CentralMediaLocations": "Central Media Locations",
-        "TableRowDisplayName": "Display Name",
-        "UrlToMediaLibrary": "Url to Media library",
-        "MessageCannotResolveUrl": "Cannot find a library on this url.",
-        "MessageMediaLibraryExisted": "This media library has already been added to the list of Central Media Locations.",
-        "MessageDialogHeaderDeleteCentralMediaLocation": "Delete Central Media Location",
-        "MessageDialogBodyDeleteCentralMediaLocation": "Are you sure to delete this central media location?",
-        "ScalingId": "Scaling Id",
-        "FormatSettings": "Format Settings",
-        "MaxDimension": "Max Dimension",
+        "FileSizeLimit": "File size limit",
+        "CentralMediaLocations": "Central media locations",
+        "TableRowDisplayName": "Display name",
+        "UrlToMediaLibrary": "URL to media library",
+        "MessageCannotResolveUrl": "Can not find a library on this URL.",
+        "MessageMediaLibraryExisted": "This media library has already been added to the list of central media locations.",
+        "MessageDialogHeaderDeleteCentralMediaLocation": "Delete central media location",
+        "MessageDialogBodyDeleteCentralMediaLocation": "Are you sure you want to delete this central media location?",
+        "ScalingId": "Scaling ID",
+        "FormatSettings": "Format settings",
+        "MaxDimension": "Max dimension",
         "CropRatios": {
-          "Title": "Crop Ratios",
-          "EnableInRollups": "Enable in Rollups",
-          "AddRatio": "Add Ratio",
-          "RatioId": "Ratio Id"
+          "Title": "Crop ratios",
+          "EnableInRollups": "Enable in rollups",
+          "AddRatio": "Add ratio",
+          "RatioId": "Ratio ID"
         },
         "LibrarySettings": {
-          "LibraryProviders": "Library Providers",
-          "SharePointMediaLibrary": "SharePoint Media Library"
+          "LibraryProviders": "Library providers",
+          "SharePointMediaLibrary": "SharePoint media library"
         }
       },
       "Mediaflow": {
-        "ClientIdHeader": "Client id"
+        "ClientIdHeader": "Client ID"
       }
     },
     "Profile": {
       "SetupWizardTenantSettings": {
-        "Title": "Setup Wizard"
+        "Title": "Setup wizard"
       }
     },
     "EnterpriseProperties": {
-      "TenantProperties": "Enterprise Properties",
-      "Properties": "Enterprise Properties",
-      "TenantProperty": "Enterprise Property",
-      "InternalName": "Internal Name",
-      "SPSearchable": "Sharepoint Searchable",
-      "RetrievableManagedProperty": "Retrievable Managed Property",
-      "QueryableManagedProperty": "Queryable Managed Property",
-      "SortableManagedProperty": "Sortable Managed Property",
-      "DeleteProperty": "Delete Property",
-      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and contain only letters, numbers, and underscores",
+      "TenantProperties": "Enterprise properties",
+      "Properties": "Enterprise properties",
+      "TenantProperty": "Enterprise property",
+      "InternalName": "Internal name",
+      "SPSearchable": "Sharepoint searchable",
+      "RetrievableManagedProperty": "Retrievable managed property",
+      "QueryableManagedProperty": "Queryable managed property",
+      "SortableManagedProperty": "Sortable managed property",
+      "DeleteProperty": "Delete property",
+      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and can contain only letters, numbers, and underscores.",
       "MicrosoftSearchable": "Microsoft Searchable"
     },
     "EnterprisePropertyCategories": {
       "DeleteCategoryConfirmation": {
-        "Title": "Remove Category"
+        "Title": "Remove category"
       }
     },
     "FormSetting": {
-      "AddColor": "Add Color",
-      "ChartColor": "Chart Color",
-      "TextColor": "Text Color"
+      "AddColor": "Add color",
+      "ChartColor": "Chart color",
+      "TextColor": "Text color"
     },
     "Localization": {
       "Admin": {
-        "DefaultLanguageRequiredMessage": "* It is required to input a label for the default language",
+        "DefaultLanguageRequiredMessage": "* A label for the default language is required.",
         "AdminUI": {
-          "OmniaService": "Omnia Service",
+          "OmniaService": "Omnia service",
           "ViewModes": {
-            "HaveUpdate": "Have Update",
-            "HaveMissingLanguages": "Have Missing Translation"
+            "HaveUpdate": "Have update",
+            "HaveMissingLanguages": "Have missing translation"
           },
           "EditDialog": {
-            "Title": "Edit Localization Label"
+            "Title": "Edit localization label"
           }
         }
       }
     },
     "OpenAIApiConfig": {
       "OpenAISecretTitle": "AI Features: OpenAI API",
-      "ApiKey": "API Key",
-      "ApiBaseUrl": "API Base URL"
+      "ApiKey": "API key",
+      "ApiBaseUrl": "API base URL"
     },
     "Properties": {
-      "TenantProperties": "Enterprise Properties",
-      "PropertySets": "Property Sets",
-      "TargetingProperties": "Targeting Properties",
-      "RecycleBin": "Recycle Bin",
-      "EnterpriseGlossary": "Enterprise Glossary"
+      "TenantProperties": "Enterprise properties",
+      "PropertySets": "Property sets",
+      "TargetingProperties": "Targeting properties",
+      "RecycleBin": "Recycle bin",
+      "EnterpriseGlossary": "Enterprise glossary"
     },
     "PropertySets": {
-      "PropertySets": "Property Sets",
-      "DeletePropertySet": "Delete Property Set",
-      "DateOnly": "Date Only",
-      "LimitLevel": "Limit Level"
+      "PropertySets": "Property sets",
+      "DeletePropertySet": "Delete property set",
+      "DateOnly": "Date only",
+      "LimitLevel": "Limit level"
     },
     "RecycleBin": {
-      "RecycleBin": "Recycle Bin",
-      "InternalName": "Internal Name",
+      "RecycleBin": "Recycle bin",
+      "InternalName": "Internal name",
       "RestoreConfirmation": "Are you sure you want to restore this archive?",
       "PropertyType": {
-        "EnterpriseProperty": "Enterprise Property",
-        "EnterprisePropertySet": "Property Set",
-        "TargetingProperty": "Targeting Property"
+        "EnterpriseProperty": "Enterprise property",
+        "EnterprisePropertySet": "Property set",
+        "TargetingProperty": "Targeting property"
       }
     },
     "Secrets": {
       "Noitem": "No secrets available"
     },
     "Security": {
-      "UsersAndGroups": "Users and Groups"
+      "UsersAndGroups": "Users and groups"
     },
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "PropertyProvider": "Property Provider",
-          "AddSemanticSearchError": "An error has occurred while adding the semantic search property. Special character prefixes are not allowed",
-          "Disclaimer": "Note! Once created, a semantic search queryable property cannot be removed."
+          "PropertyProvider": "Property provider",
+          "AddSemanticSearchError": "An error has occurred while adding the semantic search property. Special character prefixes are not allowed.",
+          "Disclaimer": "Note! Once created, a semantic search queryable property can not be removed."
         }
       }
     },
     "AIEngineSettings": {
-      "AIFeatures": "AI Features",
+      "AIFeatures": "AI features",
       "GeneralSetting": {
-        "ModelConfiguration": "Model Configuration",
-        "TextCompletionConfig": "Text Completion Configuration",
-        "DeploymentName": "Deployment Name",
-        "AIAlias": "AI Alias",
+        "ModelConfiguration": "Model configuration",
+        "TextCompletionConfig": "Text completion configuration",
+        "DeploymentName": "Deployment name",
+        "AIAlias": "AI alias",
         "SemanticSearchConfig": {
-          "Title": "Semantic Search",
-          "LLMDeploymentName": "LLM Deployment name",
-          "EmbeddingsDeploymentName": "Embeddings Deployment name",
+          "Title": "Semantic search",
+          "LLMDeploymentName": "LLM deployment name",
+          "EmbeddingsDeploymentName": "Embeddings deployment name",
           "MissingConfigurationMessage": "Please make sure AI Search and OpenAI API secrets are configured."
         },
         "DallEConfig": {
-          "DeploymentName": "Deployment Name"
+          "DeploymentName": "Deployment name"
         },
         "GptImageConfig": {
-          "DeploymentName": "Deployment Name"
+          "DeploymentName": "Deployment name"
         }
       },
       "Buttons": {
-        "ShowResult": "Show Result",
-        "RunAnalysis": "Run Analysis",
-        "Tryout": "Try Out"
+        "ShowResult": "Show result",
+        "RunAnalysis": "Run analysis",
+        "Tryout": "Try out"
       },
       "ContentAnalysis": {
-        "BladeTitle": "Content Analysis",
+        "BladeTitle": "Content analysis",
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token {0} inside the quotation: \"{0}\"",
+          "ErrorMessage": "This field is required and must contain token {0} inside the quotation: \"{0}\"",
           "ExampleText": "Example: Fix the spelling in the following text: \"{0}\" ?",
-          "CriteriaToPassHint": "Result from Prompt - Analysis that will pass the analysis."
+          "CriteriaToPassHint": "Result from prompt - analysis that will pass the analysis."
         }
       },
       "ImproveSelectedText": {
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token: "
+          "ErrorMessage": "This field is required and must contain token: "
         },
         "ConfirmDelete": {
           "Message": "Are you sure you want to delete this improve selected text setting?"
         }
       },
       "Result": {
-        "ConfigurationError": "Cannot send request to Azure Open AI! Please check your configuration or retry your prompt.",
+        "ConfigurationError": "Can not send request to Azure Open AI! Please check your configuration and try again.",
         "ContainFilterTextError": "The response contains content that is not allowed by Azure OpenAI policy. Please change your prompt and try again."
       }
     },
     "DallESettings": {
-      "PredefinedPrompts": "Predefined Prompts",
-      "DefaultPrompt": "Default Prompt",
-      "SetAsDefaultPrompt": "Set As Default Prompt",
+      "PredefinedPrompts": "Predefined prompts",
+      "DefaultPrompt": "Default prompt",
+      "SetAsDefaultPrompt": "Set as default prompt",
       "ImproveSelectedText": {
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token: "
+          "ErrorMessage": "This field is required and must contain token: "
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Delete Predefined Prompt"
+        "Title": "Delete predefined prompt"
       }
     },
     "GptImageSettings": {
-      "PredefinedPrompts": "Predefined Prompts",
-      "DefaultPrompt": "Default Prompt",
+      "PredefinedPrompts": "Predefined prompts",
+      "DefaultPrompt": "Default prompt",
       "ImproveSelectedText": {
         "Detail": {
-          "ErrorMessage": "This field is required and must contains token: "
+          "ErrorMessage": "This field is required and must contain token: "
         }
       },
       "DeletePredefinedPromptSettingsError": {
-        "Title": "Delete Predefined Prompt"
+        "Title": "Delete predefined prompt"
       }
     },
     "LinkHandlerSettings": {
-      "Title": "Link Handler",
+      "Title": "Link handler",
       "Tabs": {
-        "CustomRules": "Custom Rules"
+        "CustomRules": "Custom rules"
       },
       "Buttons": {
-        "NewRule": "New Rule",
-        "SetupGuide": "Setup Guide"
+        "NewRule": "New rule",
+        "SetupGuide": "Setup guide"
       },
       "Tooltip": {
         "Pattern": "Define the matching URL to apply URI schema, using Javascript Regular Expression",
-        "Platforms": "Select which platform the rule will be applied on user",
+        "Platforms": "Select the platform the rule will be applied on user",
         "SetupGuide": "Open guide on how to setup rules link handler"
       },
       "Guide": {
-        "FieldDefinition": "Field Definitions",
+        "FieldDefinition": "Field definitions",
         "RulesExample": {
-          "UriValue": "microsoft-edge:"
+          "UriValue": "Microsoft-edge:"
         }
       }
     },
     "RichTextEditorSettings": {
-      "Title": "RTF Editor",
-      "RichTextEditor": "Rich Text Editor",
-      "LimitedRichTextEditor": "Limited Rich Text Editor"
+      "Title": "RTF editor",
+      "RichTextEditor": "Rich text editor",
+      "LimitedRichTextEditor": "Limited rich text editor"
     },
     "SetupWizardTenantSettings": {
-      "Title": "Setup Wizard"
+      "Title": "Setup wizard"
     },
     "GeneralSettings": {
       "TenantInfo": {
-        "HomeUrl": "Home Url"
+        "HomeUrl": "Home URL"
       }
     },
     "Header": {
       "Settings": {
-        "TextColor": "Text Color",
-        "ShowSearchBoxOnHeader": "Search Box on Header",
-        "SearchStringToQueryString": "Default Search Box text to Query string (q) value"
+        "TextColor": "Text color",
+        "ShowSearchBoxOnHeader": "Search box on Header",
+        "SearchStringToQueryString": "Default search box text to query string (q) value"
       },
       "LogoSettings": {
-        "Url": "Url",
-        "AddImage": "Add Image",
-        "LogoText": "Logo Text"
+        "Url": "URL",
+        "AddImage": "Add image",
+        "LogoText": "Logo text"
       },
       "AppLauncherSettings": {
-        "Title": "App Launcher"
+        "Title": "App launcher"
       }
     },
     "Regional": {
-      "TenantLanguage": "Tenant Language",
-      "DateFormat": "Date Format",
-      "TimeFormat": "Time Format",
-      "DateAndTime": "Date and Time",
-      "AddLanguage": "Add Language",
-      "RegionalSettings": "Regional Settings",
-      "ExcludeCountry": "Exclude Country"
+      "TenantLanguage": "Tenant language",
+      "DateFormat": "Date format",
+      "TimeFormat": "Time format",
+      "DateAndTime": "Date and time",
+      "AddLanguage": "Add language",
+      "RegionalSettings": "Regional settings",
+      "ExcludeCountry": "Exclude country"
     },
     "TextStyles": {
-      "NavigationLabel": "Text Styles",
-      "ConfigureStyle": "Configure Style",
-      "OnHoverStyle": "On Hover",
-      "UseOnHoverStyle": "Use on Hover Style"
+      "NavigationLabel": "Text styles",
+      "ConfigureStyle": "Configure style",
+      "OnHoverStyle": "On hover",
+      "UseOnHoverStyle": "Use on hover style"
     },
     "HttpcodeLayout": {
-      "Title": "System Layouts"
+      "Title": "System layouts"
     },
     "System": {
-      "FallbackUrl": "Default SharePoint Context Url",
-      "InvalidSiteUrl": "Invalid SharePoint Context Url",
-      "ErrorInformation": "Error Information",
+      "FallbackUrl": "Default SharePoint context URL",
+      "InvalidSiteUrl": "Invalid SharePoint context URL",
+      "ErrorInformation": "Error information",
       "SPFxInstruction": {
-        "Title": "SPFx Instruction",
-        "Summary": "Please follow the instruction below to setup the Omnia SPFx Integration",
-        "UploadMessage": "In the app catalog site, go to Apps For SharePoint, then click on the Upload button and upload the package"
+        "Title": "SPFx instruction",
+        "Summary": "Please follow the instruction below to setup the Omnia SPFx integration",
+        "UploadMessage": "In the app catalog site, go to Apps for SharePoint, then click on the Upload button and upload the package."
       },
-      "EmailService": "Email Service",
+      "EmailService": "Email service",
       "TenantContact": {
-        "Title": "Tenant Contact",
-        "MainContacts": "Main Contacts",
-        "SecurityContacts": "Security Contacts",
-        "DeploymentContacts": "Update Notification",
-        "UserSyncContacts": "User Sync Contacts",
-        "ExternalMainContactEmail": "Add External Main Contact Email",
-        "ExternalSecurityContactEmail": "Add External Security Contact Email",
-        "ExternalDeploymentContactEmail": "Add External Update Notification Email",
-        "ExternalUserSyncContactEmail": "Add External User Sync Contact Email"
+        "Title": "Tenant contact",
+        "MainContacts": "Main contacts",
+        "SecurityContacts": "Security contacts",
+        "DeploymentContacts": "Update notification",
+        "UserSyncContacts": "User sync contacts",
+        "ExternalMainContactEmail": "Add external main contact Email",
+        "ExternalSecurityContactEmail": "Add external security contact Email",
+        "ExternalDeploymentContactEmail": "Add external update notification Email",
+        "ExternalUserSyncContactEmail": "Add external user sync contact Email"
       },
       "SharepointUserProfilesSync": {
-        "Title": "Sharepoint User Profiles Sync"
+        "Title": "Sharepoint user profiles sync"
       },
-      "PeopleInfoCard": "User Profile Card",
+      "PeopleInfoCard": "User profile card",
       "AzureAdPermissions": {
-        "Title": "Azure AD Permissions",
-        "NotApproved": "Not Approved",
-        "InvalidateAllUserTokens": "Invalidate All User Tokens",
-        "InvalidationWarning": "Warning! All users session will be terminated.",
+        "Title": "Azure AD permissions",
+        "NotApproved": "Not approved",
+        "InvalidateAllUserTokens": "Invalidate all user tokens",
+        "InvalidationWarning": "Warning! All user sessions will be terminated.",
         "RemovePermissionDialog": {
-          "Title": "Remove Permission"
+          "Title": "Remove permission"
         },
-        "ErrorMissingAdPermissions": "The required permissions is not consented. Please click the button to consent the permission."
+        "ErrorMissingAdPermissions": "The required permission is not consented. Please click the button to consent the permission."
       },
       "TeamsAppGenerator": {
-        "Title": "Teams App Generator",
-        "HomeUrl": "Home Url"
+        "Title": "Teams app generator",
+        "HomeUrl": "Home URL"
       },
-      "TextTranslator": "Translator Service"
+      "TextTranslator": "Translator service"
     },
     "Authentication": {
-      "OmniaTokenExpiredHours": "Omnia Token lifetime (in hours)"
+      "OmniaTokenExpiredHours": "Omnia token lifetime (in hours)"
     },
     "CustomEmailSettings": {
-      "UserMailbox": "User Mailbox",
-      "TurnOffAllEmailNotifications": "Turn off all e-mail notifications",
-      "ExchangeOnlineEmail": "Exchange Online Mailbox",
+      "UserMailbox": "User mailbox",
+      "TurnOffAllEmailNotifications": "Turn off all Email notifications",
+      "ExchangeOnlineEmail": "Exchange online mailbox",
       "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell Script to specific Exchange Online resources and do not apply to other Microsoft Graph workloads.",
       "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy -AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\"",
       "Message": {
-        "NoEmailSelected": "No email selected"
+        "NoEmailSelected": "No Email selected"
       },
       "SmtpServer": {
-        "Title": "Smtp Server"
+        "Title": "SMTP Server"
       },
       "SendGridProvider": {
-        "APIKey": "API Key"
+        "APIKey": "API key"
       }
     },
     "PeopleInfo": {
-      "EnablePeopleInfoInformation": "Enable User Profile Card",
-      "ShowLinkToDelve": "Show link to Details",
-      "ExcludeFilters": "Exclude Filters",
+      "EnablePeopleInfoInformation": "Enable user profile card",
+      "ShowLinkToDelve": "Show link to details",
+      "ExcludeFilters": "Exclude filters",
       "AzureADProperty": "Azure AD property"
     },
     "SystemLogs": {
-      "Title": "Queue Logs",
-      "NoMessage": "No Message",
-      "EmptyData": "Not thing found. Try search by another transaction Id",
-      "CreatedAt": "Created At",
-      "CreatedBy": "Created By",
-      "TransactionId": "TransactionId",
-      "StartDate": "Start Date",
-      "EndDate": "End Date"
+      "Title": "Queue logs",
+      "NoMessage": "No message",
+      "EmptyData": "Nothing found. Try to search by another transaction ID",
+      "CreatedAt": "Created at",
+      "CreatedBy": "Created by",
+      "TransactionId": "Transaction ID",
+      "StartDate": "Start date",
+      "EndDate": "End date"
     },
     "Error": {
       "Header": "Error Information",
