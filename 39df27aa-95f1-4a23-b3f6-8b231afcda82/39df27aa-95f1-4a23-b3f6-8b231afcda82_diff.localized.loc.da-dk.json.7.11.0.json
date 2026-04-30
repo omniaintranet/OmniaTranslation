@@ -13,7 +13,7 @@
       "Admin": {
         "SemanticSearch": {
           "FallbackSearch": "Fallback søgning",
-          "FallbackMaxWordCount": "Fallback maksimum ordantal"
+          "FallbackMaxWordCount": "Maks antal ord i fallback søgnign"
         }
       },
       "SemanticSearch": {
@@ -50,7 +50,7 @@
         "GeneralTab": "Generelt",
         "SettingsLabel": "Indstillinger",
         "TitleLabel": "Titel",
-        "PlaceholderLabel": "Indtastningsplads",
+        "PlaceholderLabel": "Inputfelt",
         "NoMessagesLabel": "Ingen beskeder",
         "MessageInputBorderRadiusLabel": "Kantradius"
       },
