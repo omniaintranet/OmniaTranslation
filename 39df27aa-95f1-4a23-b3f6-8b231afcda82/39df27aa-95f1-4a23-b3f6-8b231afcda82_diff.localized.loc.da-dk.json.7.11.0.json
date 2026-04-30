@@ -7,7 +7,7 @@
       "GeneralSetting": {
         "GptImageConfig": {
           "Title": "GPT Image",
-          "DeploymentName": "Udrulningsnavn"
+          "DeploymentName": "Deploymentnavn"
         }
       }
     },
