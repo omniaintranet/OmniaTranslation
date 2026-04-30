@@ -19,9 +19,9 @@
     "PageRollup": {
       "Settings": {
         "GoToPage": "Gå til side",
-        "GoToPageText": "Gå til side tekst",
-        "GoToPageColor": "Gå til side tekstfarge",
-        "GoToPageBackgroundColor": "Gå til side knappfarge"
+        "GoToPageText": "Tekst",
+        "GoToPageColor": "Tekstfarge",
+        "GoToPageBackgroundColor": "Knappfarge"
       }
     }
   }
