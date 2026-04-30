@@ -5,19 +5,19 @@
         "New7Patch11M365UserReadAllDelegated": {
           "Category": "Integration",
           "Title": "Læs M365 Graph brugerprofil i profilkort",
-          "Description": "Giver mulighed for at vise Entra ID-egenskaber, der kan konfigureres direkte på profilkortet.",
-          "ConsentInformation": "Giver appen mulighed for at læse det fulde sæt af profil-egenskaber, rapporter og ledere for andre brugere i din organisation på vegne af den indloggede bruger."
+          "Description": "Giver mulighed for at vise Entra ID-egenskaber på brugerprofilkortet.",
+          "ConsentInformation": "Giver appen mulighed for at læse det fulde sæt af profil-egenskaber og organisationsdiagram på vegne af den indloggede bruger."
         },
         "ManagedMetadataProperties": {
-          "Title": "Skriv administrerede metadataegenskaber",
+          "Title": "Opret og rediger administrerede metadataegenskaber",
           "Category": "Integration",
-          "Description": "Giver appen mulighed for at læse, oprette, opdatere og slette administrerede metadata og at læse grundlæggende siteinfo på vegne af den indloggede bruger.",
+          "Description": "Giver appen mulighed for at læse, oprette, opdatere og slette administrerede metadata og at læse grundlæggende information om sitet på vegne af den indloggede bruger.",
           "ConsentInformation": " "
         },
         "OmniaUserAuthentication": {
           "Title": "Omnia brugerautentifikation",
           "Category": "System",
-          "Description": "Aktiver Omnia brugerautentifikation"
+          "Description": "Verifikation af brugeridentitet via Omnias funktion til brugerutentifikation"
         }
       },
       "LayoutEngine": {
@@ -30,8 +30,8 @@
       "GptImageProvider": {
         "Title": "GPT billede",
         "FeatureTitle": "GPT billede",
-        "FeatureDescription": "Aktivér denne funktion for at tilføje muligheden 'GPT billede generer' til medievælgeren.",
-        "DowloadImageFailed": "Download billede mislykkedes",
+        "FeatureDescription": "Aktivér denne funktion for at tilføje muligheden for at generere GPT billder i medievælgeren.",
+        "DowloadImageFailed": "Download af billede mislykkedes",
         "PhotoBy": "Foto af",
         "PhotosProviderBy": "Fotos leveret af",
         "MaxInputLength": 1000,
@@ -41,7 +41,7 @@
         "GenerateNewImage": "Generer nyt billede",
         "ErrorMessage": "Opgaven mislykkedes. Tjek venligst din konfiguration og prøv igen.",
         "ImageName": "billede",
-        "PromptHeader": "Tip: Prompt struktur",
+        "PromptHeader": "Tip til prompts",
         "PromptContent": "Prompts kan bestå af enhver ord, men overvej hvordan du kan forklare et billede til nogen. Formen \"emne + adjektiver + stilarter\" plejer at fungere godt.",
         "PromptExample": "Beskriv det billede, du ønsker at skabe. For eksempel: \"akvarelmaleri af Seattle skyline\"",
         "Label": "Prompt",
