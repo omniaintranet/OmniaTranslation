@@ -3,7 +3,7 @@
     "Feed": {
       "Settings": {
         "ResyncNewsArticles": {
-          "ResyncInProgressConfirmationMessage": "Resynkningen er i øjeblikket i gang. At køre den igen kan forårsage applikationsproblemer. Er du virkelig sikker på, at du vil re-synkronisere nyhedsartikler for denne forretningsprofil?"
+          "ResyncInProgressConfirmationMessage": "Synkroniseringen er i øjeblikket i gang. Det kan forårsage problemer at køre den igen. Er du sikker på, at du vil synkronisere artikler i denne virksomhedsprofil igen?"
         }
       },
       "App": {
