@@ -3,7 +3,7 @@
     "Feed": {
       "Settings": {
         "ResyncNewsArticles": {
-          "ResyncInProgressConfirmationMessage": "Resynkingen pågår for øyeblikket. Å kjøre den igjen kan forårsake applikasjonsproblemer. Er du virkelig sikker på at du vil resynkronisere nyhetsartikler for denne forretningsprofilen?"
+          "ResyncInProgressConfirmationMessage": "Resynkingen pågår. Å kjøre den igjen kan forårsake problemer. Er du virkelig sikker på at du vil resynkronisere nyhetsartikler for denne forretningsprofilen?"
         }
       },
       "App": {
