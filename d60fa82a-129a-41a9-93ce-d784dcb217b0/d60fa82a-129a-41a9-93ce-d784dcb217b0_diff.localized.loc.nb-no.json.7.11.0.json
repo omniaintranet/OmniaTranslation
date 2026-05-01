@@ -2,7 +2,7 @@
   "WCM": {
     "Fx": {
       "Block": {
-        "StoreSectionContentInProperty": "Lagre seksjonsinnhold i egenskap"
+        "StoreSectionContentInProperty": "Lagre seksjonsinnhold i en egenskap"
       }
     },
     "Editor": {
@@ -19,9 +19,9 @@
     "PageRollup": {
       "Settings": {
         "GoToPage": "Gå til side",
-        "GoToPageText": "Gå til side tekst",
-        "GoToPageColor": "Gå til side tekstfarge",
-        "GoToPageBackgroundColor": "Gå til side knappfarge"
+        "GoToPageText": "'Gå til side' tekst",
+        "GoToPageColor": "'Gå til side' tekstfarge",
+        "GoToPageBackgroundColor": "'Gå til side' knappfarge"
       }
     }
   }
