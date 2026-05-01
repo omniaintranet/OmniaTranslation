@@ -2,14 +2,14 @@
   "WCM": {
     "Fx": {
       "Block": {
-        "StoreSectionContentInProperty": "Gem sektionens indhold i egenskab"
+        "StoreSectionContentInProperty": "Gem sektionens indhold i en egenskab"
       }
     },
     "Editor": {
       "Editor": {
         "Dialogs": {
           "MoveNode": {
-            "ConfirmationMessage": "Er du sikker på, at du vil flytte denne navigationsnode?"
+            "ConfirmationMessage": "Er du sikker på, at du vil flytte denne node?"
           }
         }
       }
@@ -19,9 +19,9 @@
     "PageRollup": {
       "Settings": {
         "GoToPage": "Gå til side",
-        "GoToPageText": "Gå til side tekst",
-        "GoToPageColor": "Gå til side tekstfarve",
-        "GoToPageBackgroundColor": "Gå til side knapfarve"
+        "GoToPageText": "Tekst for 'gå til side'",
+        "GoToPageColor": "'Gå til side' tekstfarve",
+        "GoToPageBackgroundColor": "'Gå til side' knapfarve"
       }
     }
   }
