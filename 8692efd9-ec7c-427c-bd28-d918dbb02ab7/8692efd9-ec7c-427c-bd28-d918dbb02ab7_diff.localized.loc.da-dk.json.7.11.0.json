@@ -6,7 +6,7 @@
           "Omnia": {
             "ErrorDialog": {
               "UserTypeNotSupportedTitle": "Omnia brugertype understøttes ikke",
-              "UserTypeNotSupportedMessage": "Log ind mislykkedes: ({username}) understøttes ikke af den valgte log ind-tilstand (Microsoft 365)."
+              "UserTypeNotSupportedMessage": "Log ind mislykkedes: Brugertypen ({username}) understøttes ikke for den valgte log ind‑metode (Microsoft 365)."
             }
           }
         }
