@@ -3,7 +3,7 @@
     "Feed": {
       "MultipleQuery": {
         "LegacyOnly": "Kun legacy",
-        "TabView": "Fanebladsvy"
+        "TabView": "Fanevisning"
       }
     }
   }
