@@ -9,7 +9,7 @@
           "ConsentInformation": "Giver appen mulighed for at læse det fulde sæt af profil-egenskaber, rapporter og ledere for andre brugere i din organisation på vegne af den indloggede bruger."
         },
         "ManagedMetadataProperties": {
-          "Title": "Skriv administrerede metadataegenskaber",
+          "Title": "Opret, læs og rediger administrerede metadataegenskaber",
           "Category": "Integration",
           "Description": "Giver appen mulighed for at læse, oprette, opdatere og slette administrerede metadata og at læse grundlæggende siteinfo på vegne af den indloggede bruger.",
           "ConsentInformation": " "
@@ -23,7 +23,7 @@
       "LayoutEngine": {
         "Panels": {
           "TabSettings": {
-            "Reusable": "Genanvendelig"
+            "Reusable": "Kan genanvendes"
           }
         }
       },
