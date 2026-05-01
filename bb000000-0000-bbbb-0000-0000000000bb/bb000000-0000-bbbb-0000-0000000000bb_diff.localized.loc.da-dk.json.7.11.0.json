@@ -3,7 +3,7 @@
     "Ux": {
       "LayoutEngine": {
         "BlockMessages": {
-          "ReusingContentSection": "Denne sektion er konfigureret til at indeholde genanvendeligt indhold fra en anden side."
+          "ReusingContentSection": "Denne sektion er konfigureret til at anvende indhold fra en anden side."
         }
       }
     }
