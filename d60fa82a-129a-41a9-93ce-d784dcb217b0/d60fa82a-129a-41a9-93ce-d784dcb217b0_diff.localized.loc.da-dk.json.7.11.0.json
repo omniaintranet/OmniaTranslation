@@ -3,8 +3,8 @@
     "AnalyticsReport": {
       "Views": {
         "TableView": {
-          "FileExporting": "Genererer Excel-fil...",
-          "ErrorWhenFileExporting": "Der opstod en fejl under genereringen af filen."
+          "FileExporting": "Opretter Excel-fil...",
+          "ErrorWhenFileExporting": "Der opstod en fejl under oprettelse af filen."
         }
       }
     },
@@ -18,15 +18,15 @@
         },
         "Panels": {
           "NotificationReset": {
-            "UpdateNotificationPanelOnRepublish": "Opdater meddelelsespanel ved genudgivelse",
-            "PublishNotifications": "Udgiv meddelelser"
+            "UpdateNotificationPanelOnRepublish": "Opdater notifikationspanel ved genudgivelse",
+            "PublishNotifications": "Opret ny notifikation"
           }
         },
         "Dialogs": {
           "ArchiveNode": {
-            "Title": "Arkiver navigationsnode",
-            "WarningMessage": "Du er ved at arkivere mange navigationsnoder.",
-            "ConfirmationMessage": "Er du sikker på, at du vil arkivere navigationsnoden?"
+            "Title": "Arkiver node",
+            "WarningMessage": "Du er ved at arkivere mange noder.",
+            "ConfirmationMessage": "Er du sikker på, at du vil arkivere noden?"
           }
         }
       }
