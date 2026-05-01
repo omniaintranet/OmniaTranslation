@@ -19,7 +19,7 @@
         "Panels": {
           "NotificationReset": {
             "UpdateNotificationPanelOnRepublish": "Oppdater varslingspanel ved republisering",
-            "PublishNotifications": "Publiser varsler"
+            "PublishNotifications": "Publiser ny varsler"
           }
         },
         "Dialogs": {
