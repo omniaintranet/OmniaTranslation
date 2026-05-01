@@ -10,7 +10,7 @@
   "OWCM": {
     "PageRollup": {
       "Settings": {
-        "AutoSelectFirstCharacter": "Auto-vælg første tegn"
+        "AutoSelectFirstCharacter": "Automatisk valg af første tegn"
       }
     }
   }
