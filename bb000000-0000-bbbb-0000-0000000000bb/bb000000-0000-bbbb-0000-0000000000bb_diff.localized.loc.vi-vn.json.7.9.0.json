@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Kích hoạt tính năng này để thêm 'GPT Image generate' vào bộ chọn phương tiện",
+        "FeatureDescription": "Kích hoạt tính năng này để thêm 'GPT Image' vào bộ chọn phương tiện",
         "PromptContent": "Các câu lệnh có thể bao gồm bất kỳ từ nào, nhưng hãy nghĩ về cách bạn có thể mô tả một hình ảnh cho ai đó. Cấu trúc \"chủ thể + tính từ + phong cách\" thường hoạt động tốt.",
         "ImageStyle": "Phong cách hình ảnh"
       },
