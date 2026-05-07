@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Activez cette fonctionnalité pour ajouter « GPT Image generate » au sélecteur de médias",
+        "FeatureDescription": "Activez cette fonctionnalité pour ajouter « GPT Image » au sélecteur de médias",
         "PromptContent": "Les invites peuvent être composées de n'importe quels mots, mais pensez à la façon dont vous expliqueriez une image à quelqu'un. La forme « sujet + adjectifs + styles » fonctionne généralement bien.",
         "ImageStyle": "Style d'image"
       },
