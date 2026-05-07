@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Active esta función para añadir 'Generar imagen GPT' al selector de medios",
+        "FeatureDescription": "Active esta función para añadir 'GPT Image' al selector de medios",
         "PromptContent": "Los prompts pueden estar compuestos por cualquier palabra, pero piensa en cómo explicarías una imagen a alguien. La forma \"sujeto + adjetivos + estilos\" suele funcionar bien.",
         "ImageStyle": "Estilo de imagen"
       },
