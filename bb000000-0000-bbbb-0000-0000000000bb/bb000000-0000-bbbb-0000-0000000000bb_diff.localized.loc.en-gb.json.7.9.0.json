@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Activate this feature to add 'GPT Image generate' to the media picker",
+        "FeatureDescription": "Activate this feature to add 'GPT Image' to the media picker",
         "PromptContent": "Prompts can be composed of any words, but consider how you might describe an image to someone. The format \"subject + adjectives + styles\" usually works well.",
         "ImageStyle": "Image style"
       },
