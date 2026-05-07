@@ -1,0 +1,2513 @@
+{
+  "WorkPlace": {
+    "ShareAction": {
+      "DefaultMessage": "Default Message",
+      "ShareTypes": {
+        "Title": "Share Type",
+        "Yammer": "Yammer"
+      }
+    },
+    "AddFavoriteButton": {
+      "LinkButtonText": "Add as Favorite",
+      "RemoveLinkText": "Remove Link"
+    }
+  },
+  "OWC": {
+    "ActionMenu": {
+      "Settings": {
+        "Title": "Action Menu",
+        "FormTitle": "Action Menu Settings",
+        "RegistrationNotFound": "The registered component id was not found"
+      }
+    }
+  },
+  "OTAD": {
+    "AISearchConfig": {
+      "AISearchSecretTitle": "AI Features: AI Search",
+      "ApiBaseUrl": "API Base URL",
+      "DeploymentName": "Deployment Name",
+      "ApiVersion": "API Version",
+      "AISearchUrlChangedConfirmation": {
+        "Title": "AI Search Url is changed",
+        "Message": "The existing AI Search data will be lost when the AI Search Url is changed. Do you want to proceed?"
+      }
+    },
+    "QueryableProperties": {
+      "AppNavigation": "App Instances",
+      "QueryableProperties": "Queryable Properties",
+      "TitleQueryableProperties": "App Instances - Queryable Properties",
+      "SignOffRequest": "Sign-off Request"
+    },
+    "BusinessProfile": {
+      "BusinessProfiles": "Business Profiles",
+      "DeleteTitle": "Delete Business Profile",
+      "AddBusinessProfile": "Add Business Profile",
+      "EditBusinessProfile": "Edit Business Profile",
+      "HomeUrl": "Home Url",
+      "UseCustomHomeUrl": "Use custom Home Url",
+      "UseRootRoute": "Use Root Route",
+      "CreateWorkspace": "Create Business Profile Workspace",
+      "ClassicNavigationBar": "Classic Action Menu & Mega Menu",
+      "Tooltip": "Business Profile",
+      "RootPathDeletionErrorMessage": "This business profile cannot be deleted as it is currently set as the root path. Please assign a different path before proceeding.",
+      "ValidateBusinessProfileAppInstanceExists": "This business profile cannot be deleted as it has non-deleted App instances.",
+      "Language": {
+        "AddLanguage": "Add Language",
+        "ExcludeCountry": "Exclude Country"
+      },
+      "MediaPicker": {
+        "FileSizeLimit": "File Size Limit",
+        "CentralMediaLocations": "Central Media Locations",
+        "TableRowDisplayName": "Display Name",
+        "UrlToMediaLibrary": "Url to Media library",
+        "MessageCannotResolveUrl": "Cannot find a library on this url.",
+        "MessageMediaLibraryExisted": "This media library has already been added to the list of Central Media Locations.",
+        "MessageDialogHeaderDeleteCentralMediaLocation": "Delete Central Media Location",
+        "MessageDialogBodyDeleteCentralMediaLocation": "Are you sure to delete this central media location?",
+        "ScalingId": "Scaling Id",
+        "FormatSettings": "Format Settings",
+        "MaxDimension": "Max Dimension",
+        "CropRatios": {
+          "Title": "Crop Ratios",
+          "EnableInRollups": "Enable in Rollups",
+          "AddRatio": "Add Ratio",
+          "RatioId": "Ratio Id"
+        },
+        "LibrarySettings": {
+          "LibraryProviders": "Library Providers",
+          "SharePointMediaLibrary": "SharePoint Media Library"
+        }
+      },
+      "Mediaflow": {
+        "ClientIdHeader": "Client id"
+      }
+    },
+    "Profile": {
+      "SetupWizardTenantSettings": {
+        "Title": "Setup Wizard"
+      }
+    },
+    "EnterpriseProperties": {
+      "TenantProperties": "Enterprise Properties",
+      "Properties": "Enterprise Properties",
+      "TenantProperty": "Enterprise Property",
+      "InternalName": "Internal Name",
+      "SPSearchable": "Sharepoint Searchable",
+      "RetrievableManagedProperty": "Retrievable Managed Property",
+      "QueryableManagedProperty": "Queryable Managed Property",
+      "SortableManagedProperty": "Sortable Managed Property",
+      "DeleteProperty": "Delete Property",
+      "InternalNameInvalidFormatMessage": "Must start with a letter or underscore and contain only letters, numbers, and underscores",
+      "MicrosoftSearchable": "Microsoft Searchable"
+    },
+    "EnterprisePropertyCategories": {
+      "DeleteCategoryConfirmation": {
+        "Title": "Remove Category"
+      }
+    },
+    "FormSetting": {
+      "AddColor": "Add Color",
+      "ChartColor": "Chart Color",
+      "TextColor": "Text Color"
+    },
+    "Localization": {
+      "Admin": {
+        "DefaultLanguageRequiredMessage": "* It is required to input a label for the default language",
+        "AdminUI": {
+          "OmniaService": "Omnia Service",
+          "ViewModes": {
+            "HaveUpdate": "Have Update",
+            "HaveMissingLanguages": "Have Missing Translation"
+          },
+          "EditDialog": {
+            "Title": "Edit Localization Label"
+          }
+        }
+      }
+    },
+    "OpenAIApiConfig": {
+      "OpenAISecretTitle": "AI Features: OpenAI API",
+      "ApiKey": "API Key",
+      "ApiBaseUrl": "API Base URL"
+    },
+    "Properties": {
+      "TenantProperties": "Enterprise Properties",
+      "PropertySets": "Property Sets",
+      "TargetingProperties": "Targeting Properties",
+      "RecycleBin": "Recycle Bin",
+      "EnterpriseGlossary": "Enterprise Glossary"
+    },
+    "PropertySets": {
+      "PropertySets": "Property Sets",
+      "DeletePropertySet": "Delete Property Set",
+      "DateOnly": "Date Only",
+      "LimitLevel": "Limit Level"
+    },
+    "RecycleBin": {
+      "RecycleBin": "Recycle Bin",
+      "InternalName": "Internal Name",
+      "RestoreConfirmation": "Are you sure you want to restore this archive?",
+      "PropertyType": {
+        "EnterpriseProperty": "Enterprise Property",
+        "EnterprisePropertySet": "Property Set",
+        "TargetingProperty": "Targeting Property"
+      }
+    },
+    "Secrets": {
+      "Noitem": "No secrets available"
+    },
+    "Security": {
+      "UsersAndGroups": "Users and Groups"
+    },
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "PropertyProvider": "Property Provider",
+          "AddSemanticSearchError": "An error has occurred while adding the semantic search property. Special character prefixes are not allowed",
+          "Disclaimer": "Note! Once created, a semantic search queryable property cannot be removed."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "AIFeatures": "AI Features",
+      "GeneralSetting": {
+        "ModelConfiguration": "Model Configuration",
+        "TextCompletionConfig": "Text Completion Configuration",
+        "DeploymentName": "Deployment Name",
+        "AIAlias": "AI Alias",
+        "SemanticSearchConfig": {
+          "Title": "Semantic Search",
+          "LLMDeploymentName": "LLM Deployment name",
+          "EmbeddingsDeploymentName": "Embeddings Deployment name",
+          "MissingConfigurationMessage": "Please make sure AI Search and OpenAI API secrets are configured."
+        },
+        "DallEConfig": {
+          "DeploymentName": "Deployment Name"
+        },
+        "GptImageConfig": {
+          "DeploymentName": "Deployment Name"
+        }
+      },
+      "Buttons": {
+        "ShowResult": "Show Result",
+        "RunAnalysis": "Run Analysis",
+        "Tryout": "Try Out"
+      },
+      "ContentAnalysis": {
+        "BladeTitle": "Content Analysis",
+        "Detail": {
+          "ErrorMessage": "This field is required and must contains token {0} inside the quotation: \"{0}\"",
+          "ExampleText": "Example: Fix the spelling in the following text: \"{0}\" ?",
+          "CriteriaToPassHint": "Result from Prompt - Analysis that will pass the analysis."
+        }
+      },
+      "ImproveSelectedText": {
+        "Detail": {
+          "ErrorMessage": "This field is required and must contains token: "
+        },
+        "ConfirmDelete": {
+          "Message": "Are you sure you want to delete this improve selected text setting?"
+        }
+      },
+      "Result": {
+        "ConfigurationError": "Cannot send request to Azure Open AI! Please check your configuration or retry your prompt.",
+        "ContainFilterTextError": "The response contains content that is not allowed by Azure OpenAI policy. Please change your prompt and try again."
+      }
+    },
+    "DallESettings": {
+      "PredefinedPrompts": "Predefined Prompts",
+      "DefaultPrompt": "Default Prompt",
+      "SetAsDefaultPrompt": "Set As Default Prompt",
+      "ImproveSelectedText": {
+        "Detail": {
+          "ErrorMessage": "This field is required and must contains token: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Delete Predefined Prompt"
+      }
+    },
+    "GptImageSettings": {
+      "PredefinedPrompts": "Predefined Prompts",
+      "DefaultPrompt": "Default Prompt",
+      "ImproveSelectedText": {
+        "Detail": {
+          "ErrorMessage": "This field is required and must contains token: "
+        }
+      },
+      "DeletePredefinedPromptSettingsError": {
+        "Title": "Delete Predefined Prompt"
+      }
+    },
+    "LinkHandlerSettings": {
+      "Title": "Link Handler",
+      "Tabs": {
+        "CustomRules": "Custom Rules"
+      },
+      "Buttons": {
+        "NewRule": "New Rule",
+        "SetupGuide": "Setup Guide"
+      },
+      "Tooltip": {
+        "Pattern": "Define the matching URL to apply URI schema, using Javascript Regular Expression",
+        "Platforms": "Select which platform the rule will be applied on user",
+        "SetupGuide": "Open guide on how to setup rules link handler"
+      },
+      "Guide": {
+        "FieldDefinition": "Field Definitions",
+        "RulesExample": {
+          "UriValue": "microsoft-edge:"
+        }
+      }
+    },
+    "RichTextEditorSettings": {
+      "Title": "RTF Editor",
+      "RichTextEditor": "Rich Text Editor",
+      "LimitedRichTextEditor": "Limited Rich Text Editor"
+    },
+    "SetupWizardTenantSettings": {
+      "Title": "Setup Wizard"
+    },
+    "GeneralSettings": {
+      "TenantInfo": {
+        "HomeUrl": "Home Url"
+      }
+    },
+    "Header": {
+      "Settings": {
+        "TextColor": "Text Color",
+        "ShowSearchBoxOnHeader": "Search Box on Header",
+        "SearchStringToQueryString": "Default Search Box text to Query string (q) value"
+      },
+      "LogoSettings": {
+        "Url": "Url",
+        "AddImage": "Add Image",
+        "LogoText": "Logo Text"
+      },
+      "AppLauncherSettings": {
+        "Title": "App Launcher"
+      }
+    },
+    "Regional": {
+      "TenantLanguage": "Tenant Language",
+      "DateFormat": "Date Format",
+      "TimeFormat": "Time Format",
+      "DateAndTime": "Date and Time",
+      "AddLanguage": "Add Language",
+      "RegionalSettings": "Regional Settings",
+      "ExcludeCountry": "Exclude Country"
+    },
+    "TextStyles": {
+      "NavigationLabel": "Text Styles",
+      "ConfigureStyle": "Configure Style",
+      "OnHoverStyle": "On Hover",
+      "UseOnHoverStyle": "Use on Hover Style"
+    },
+    "HttpcodeLayout": {
+      "Title": "System Layouts"
+    },
+    "System": {
+      "FallbackUrl": "Default SharePoint Context Url",
+      "InvalidSiteUrl": "Invalid SharePoint Context Url",
+      "ErrorInformation": "Error Information",
+      "SPFxInstruction": {
+        "Title": "SPFx Instruction",
+        "Summary": "Please follow the instruction below to setup the Omnia SPFx Integration",
+        "UploadMessage": "In the app catalog site, go to Apps For SharePoint, then click on the Upload button and upload the package"
+      },
+      "EmailService": "Email Service",
+      "TenantContact": {
+        "Title": "Tenant Contact",
+        "MainContacts": "Main Contacts",
+        "SecurityContacts": "Security Contacts",
+        "DeploymentContacts": "Update Notification",
+        "UserSyncContacts": "User Sync Contacts",
+        "ExternalMainContactEmail": "Add External Main Contact Email",
+        "ExternalSecurityContactEmail": "Add External Security Contact Email",
+        "ExternalDeploymentContactEmail": "Add External Update Notification Email",
+        "ExternalUserSyncContactEmail": "Add External User Sync Contact Email"
+      },
+      "SharepointUserProfilesSync": {
+        "Title": "Sharepoint User Profiles Sync"
+      },
+      "PeopleInfoCard": "User Profile Card",
+      "AzureAdPermissions": {
+        "Title": "Azure AD Permissions",
+        "NotApproved": "Not Approved",
+        "InvalidateAllUserTokens": "Invalidate All User Tokens",
+        "InvalidationWarning": "Warning! All users session will be terminated.",
+        "RemovePermissionDialog": {
+          "Title": "Remove Permission"
+        },
+        "ErrorMissingAdPermissions": "The required permissions is not consented. Please click the button to consent the permission."
+      },
+      "TeamsAppGenerator": {
+        "Title": "Teams App Generator",
+        "HomeUrl": "Home Url"
+      },
+      "TextTranslator": "Translator Service"
+    },
+    "Authentication": {
+      "OmniaTokenExpiredHours": "Omnia Token lifetime (in hours)"
+    },
+    "CustomEmailSettings": {
+      "UserMailbox": "User Mailbox",
+      "TurnOffAllEmailNotifications": "Turn off all e-mail notifications",
+      "ExchangeOnlineEmail": "Exchange Online Mailbox",
+      "New7ConfigureApplicationAccessPolicyMessage": "Use this PowerShell Script to specific Exchange Online resources and do not apply to other Microsoft Graph workloads.",
+      "New7ConfigureApplicationAccessPolicyPS": "New-ApplicationAccessPolicy -AppId {{appId}} -PolicyScopeGroupId {{emailIdentity}} -AccessRight RestrictAccess -Description \"Restrict this app to only send as Admin.\"",
+      "Message": {
+        "NoEmailSelected": "No email selected"
+      },
+      "SmtpServer": {
+        "Title": "Smtp Server"
+      },
+      "SendGridProvider": {
+        "APIKey": "API Key"
+      }
+    },
+    "PeopleInfo": {
+      "EnablePeopleInfoInformation": "Enable User Profile Card",
+      "ShowLinkToDelve": "Show link to Details",
+      "ExcludeFilters": "Exclude Filters",
+      "AzureADProperty": "Azure AD property"
+    },
+    "SystemLogs": {
+      "Title": "Queue Logs",
+      "NoMessage": "No Message",
+      "EmptyData": "Not thing found. Try search by another transaction Id",
+      "CreatedAt": "Created At",
+      "CreatedBy": "Created By",
+      "TransactionId": "TransactionId",
+      "StartDate": "Start Date",
+      "EndDate": "End Date"
+    },
+    "Error": {
+      "Header": "Error Information",
+      "EnableClientSideErrorInformation": "Enable Client Side Error Information"
+    },
+    "TextTranslator": {
+      "Header": "Text Translator",
+      "ProviderName": "Provider Name",
+      "Providers": {
+        "AzureCognitive": "Azure Cognitive Services",
+        "ApiUrl": "Api Url",
+        "SubscriptionKey": "Subscription Key"
+      }
+    },
+    "SystemAccount": {
+      "Title": "System Account",
+      "EnableMode": "Enable System Account Mode"
+    },
+    "TargetingProperties": {
+      "TargetingProperties": "Targeting Properties",
+      "GroupMemership": "Group Membership",
+      "AzureAdProperty": "Azure AD Property",
+      "MapGroupMembership": "Map Group Membership",
+      "DeleteProperty": "Delete Property",
+      "UserProperty": "User Property"
+    },
+    "TenantReusableContent": {
+      "Admin": {
+        "ConnectedTenant": {
+          "ClientSecret": "Client Secret",
+          "ConnectionTitle": "Connection Title",
+          "TenantUrl": "Tenant Url",
+          "UserMapping": "User Mappings",
+          "SourceTenantUser": "Source Tenant User",
+          "TargetTenantUser": "Target Tenant User",
+          "DefaultUser": "Default User Mapping",
+          "EditTitle": "Edit Connected Tenant",
+          "AddTitle": "Add Connected Tenant"
+        }
+      }
+    },
+    "Permissions": {
+      "Label": "Users and Groups",
+      "TenantAdministrators": "Tenant Administrators",
+      "BusinessProfileAdministrators": "Business Profile Administrators",
+      "BusinessProfileViewers": "Business Profile Viewers",
+      "WorkspaceDesigner": "Workspace Designer",
+      "WorkspaceContributor": "Workspace Contributor",
+      "WorkspaceReader": "Workspace Reader"
+    },
+    "OnpremSystemAccount": {
+      "Title": "Onprem System Account"
+    },
+    "TenantLogging": {
+      "LogDownloadBtnTooltip": "Download log as csv",
+      "LogCleanupDuration": {
+        "OneDay": "1 Day",
+        "ThreeDays": "3 Days",
+        "OneWeek": "1 Week",
+        "TwoWeeks": "2 Weeks",
+        "OneMonth": "1 Month"
+      }
+    },
+    "EnvironmentHealthStatus": {
+      "Title": "Health Status",
+      "TaskScheduler": "Task Schedulers",
+      "MessageBus": "Message Bus",
+      "LastRunTime": "Last Run Time",
+      "EmailBody": "Dear {{recipient}},<br/><br/>These Omnia service has been stopped, please check below:<br/>"
+    }
+  },
+  "OmniaWorkplace": {
+    "DallE": {
+      "DallESecretTitle": "AI Features: Dall-E",
+      "ApiKey": "API Key",
+      "ApiBaseUrl": "API Base URL",
+      "DeploymentName": "Deployment Name",
+      "ApiVersion": "API Version"
+    },
+    "EnterpriseGlossary": {
+      "AddTaxonomy": "Add Taxonomy",
+      "DetailsProvider": "Details Provider",
+      "MapTaxonomy": "Map Taxonomy",
+      "LookAndFeel": "Look And Feel",
+      "ColorAndIcon": "Color And Icon",
+      "DeleteEnterpriseGlossaryConfirmation": "Are you sure you want to remove this taxonomy from the Enterprise Glossary?",
+      "MapTerm": "Map Term",
+      "RemoveTermMappingConfirmation": {
+        "Title": "Remove Term Mapping"
+      },
+      "RemoveTermUISettingsConfirmation": {
+        "Title": "Remove Icon And Color"
+      },
+      "MissingPermissionErrorMessage": "Please to ensure the current user has Term Store administrator permission to perform this operation!"
+    },
+    "GptImage": {
+      "ApiBaseUrl": "API Base URL"
+    },
+    "HeaderSettings": {
+      "ClassicActionMenu": "Classic Action Menu",
+      "ClassicMegaMenu": "Classic Mega Menu",
+      "ClassicMegaMenuPermissionMessage": "You need to be a Business Profile Administrator to edit the classic mega menu settings.",
+      "ClassicActionMenuPermissionMessage": "You need to be a Business Profile Administrator to edit the classic action menu settings.",
+      "AppLauncher": "App Launcher",
+      "ShowSearchBoxOnHeader": "Search Box on Header"
+    },
+    "SharepointUserProfile": {
+      "SyncApp": {
+        "Title": "Sharepoint User Profiles Sync App-Only",
+        "ClientId": "Client Id",
+        "ValidateError": "Sharepoint app-only is not valid",
+        "ValidateSuccess": "Sharepoint app-only is valid"
+      }
+    },
+    "Theming": {
+      "Registrations": {
+        "ColorPalette": "Color Palette",
+        "ThemeDefinitions": "Theme Definitions",
+        "ThemeMappings": "Theme Mappings"
+      },
+      "Themes": {
+        "HighContrast": "High Contrast",
+        "TeamsDark": "Teams Dark"
+      },
+      "ThemeTarget": {
+        "AdministrationDialog": "Administration Dialog",
+        "EditorDialog": "Editor Dialog"
+      },
+      "Blades": {
+        "AddEditThemeBlade": {
+          "ForegroundColor": "Foreground Color",
+          "BackgroundColor": "Background Color",
+          "TextColor": "Text Color",
+          "DarkBackground": "Dark Background",
+          "DarkForeground": "Dark Foreground",
+          "ThemeName": "Theme Name",
+          "Title": "Theme Definition"
+        },
+        "ColorPaletteBlade": {
+          "Title": "Color Palette"
+        },
+        "ThemeDefinitionEditorBlade": {
+          "Title": "Theme Editor",
+          "ErrorUpdateTheme": "Error in Theme Definition. Could not insert changes."
+        },
+        "ThemeDefinitionBlade": {
+          "Title": "Theme Definitions",
+          "DeleteTitle": "Delete Theme Definition",
+          "DeleteMessage": "Are you sure you want to delete the Theme Definition"
+        },
+        "ThemeMappingBlade": {
+          "Title": "Theme Mappings"
+        },
+        "ThemePreviewBlade": {
+          "RegularButton": "Regular Button",
+          "HighlightedButton": "Highlighted Button"
+        }
+      }
+    },
+    "Unsplash": {
+      "ApplicationId": "Application Id",
+      "ClientIdKey": "Client Id",
+      "SecretKey": "Client Secret"
+    },
+    "Workspace": {
+      "Admin": {
+        "Statistics": {
+          "TotalHits": "Total Hits",
+          "UniqueUsers": "Unique Users"
+        },
+        "NavigationBar": {
+          "NavigationBar": "Navigation Bar",
+          "Tabs": {
+            "ActionMenu": "Action Menu",
+            "MegaMenu": "Mega Menu"
+          },
+          "SelectedNodeDescription": "A list of start url's that will make the node selected:",
+          "HomeTitle": "Home Title",
+          "AddLogo": "Add Logo",
+          "LogoText": "Logo Text",
+          "BackgroundColor": "Background Color",
+          "TextAndIconColor": "Text and Icon Color",
+          "ShowTitle": "Show Title",
+          "ShowLogo": "Show Logo",
+          "ShowIcon": "Show Icon",
+          "MegaMenu": {
+            "CreateLayout": "Create Layout",
+            "CreateLink": "Create Link"
+          },
+          "ActionMenu": {
+            "CreateActionItem": "Create Action Item",
+            "ActionType": "Action Type",
+            "ItemLimit": "Item Limit",
+            "AriaRole": "ARIA Role"
+          },
+          "DeleteLinkConfirmation": {
+            "Title": "Delete Link"
+          },
+          "DeleteActionMenuItemConfirmation": {
+            "Title": "Delete Action Menu Item"
+          }
+        },
+        "Permission": {
+          "WorkspaceDesigner": "Workplace Designer",
+          "WorkspaceReader": "Workplace Reader"
+        },
+        "Warning": {
+          "ClassicMessage": "The current Business Profile has Class Mega Menu and Action Menu enabled.",
+          "CompactChrome": "The compact chrome will fallback to full chrome.",
+          "LeftPositionNavigationBar": "The Navigation Bar positioned to left will fallback to top."
+        }
+      },
+      "Home": {
+        "OpenEditor": "Open Editor",
+        "DesignLayout": "Design Layout"
+      }
+    },
+    "AdminShortcut": {
+      "title": "Omnia Admin",
+      "tooltip": "Omnia Admin"
+    },
+    "Analytics": {
+      "businessProfileAnalyticsPropertiesProvider": {
+        "title": "Business Profile"
+      },
+      "userAnalyticsPropertiesProvider": {
+        "builtIn": {
+          "userTypeProperty": "User Type"
+        }
+      },
+      "admin": {
+        "general": {
+          "shared": "Share website with other Business profiles",
+          "businessProfile": "Business Profile",
+          "isFeatureNotActivated": {
+            "shareDataWithBusinessProfile": "Share data with other Business Profile"
+          }
+        },
+        "dimensions": {
+          "disclaimer": "Note! Removing a dimension will only stop collecting data for that property. Once created, a dimension cannot be removed in Matomo.",
+          "selectDimension": "Select Dimension",
+          "createDimension": "Create Dimension",
+          "addDimension": {
+            "title": "Add Dimension"
+          }
+        },
+        "errors": {
+          "featureNotActivated": "Analytics Feature not activated on this Business Profile",
+          "permissionMissingMessage": "You do not have the required permissions. In order to access this feature you need to be a Business Profile Administrator in Omnia.",
+          "businessProfileSharedDisabled": "The selected business profile does not support sharing."
+        }
+      },
+      "permissions": {
+        "matomoUsers": "Matomo Users",
+        "analyticsReportViewers": "Analytics Report Viewers"
+      },
+      "Block": {
+        "Common": {
+          "Settings": {
+            "FilterKey": "Connection Key",
+            "PropertySelector": "Select Property",
+            "ItemPadding": "Item Padding"
+          }
+        },
+        "Widget": {
+          "BlockTitle": "Analytics Widget",
+          "BusinessProfileNotConfigured": "Error! The selected business profile has not analytics configured",
+          "Settings": {
+            "Websites": "Websites"
+          }
+        },
+        "Filter": {
+          "BlockTitle": "Analytics Filters"
+        }
+      }
+    },
+    "Announcements": {
+      "HighPrioritySettingsForm": {
+        "Title": "High Priority Announcements Settings"
+      },
+      "Settings": {
+        "Admin": "Announcements Administrators",
+        "Title": "Normal Priority Announcements Settings",
+        "HighPriorityBackgroundColor": "High Priority Background Color",
+        "HighPriorityTextColor": "High Priority Text Color",
+        "NormalPriorityBackgroundColor": "Normal Priority Background Color",
+        "NormalPriorityTextColor": "Normal Priority Text Color",
+        "AnnouncementViewType": "Announcement View Type",
+        "HighPriorityAnnoucement": "High Priority Announcement",
+        "NormalAnnoucement": "Normal Announcement"
+      },
+      "Admin": {
+        "StatusAndTypes": "Status and Types",
+        "CreatedBy": "Created By",
+        "ModifiedBy": "Modifed By",
+        "TextColor": "Text Color",
+        "AddType": "Add Type",
+        "AddStatus": "Add Status",
+        "UpdateType": "Edit Type",
+        "UpdateStatus": "Edit Status",
+        "DeleteType": "Delete Type",
+        "DeleteStatus": "Delete Status",
+        "DeleteTypeConfirmation": "Are you sure you want to delete this Type?",
+        "DeleteStatusConfirmation": "Are you sure you want to delete this Status?",
+        "DeleteAnnouncementConfirmation": "Are you sure you want to delete this Important Announcement?",
+        "StartDate": "Start Date",
+        "EndDate": "End Date",
+        "EditAnnouncement": "Edit Announcement",
+        "DeleteAnnouncementTitle": "Delete Announcement"
+      },
+      "EmailTemplates": {
+        "AddComment": {
+          "Subject": "A comment has been added to Important Announcement - {{title}}"
+        },
+        "ReplyComment": {
+          "Subject": "A reply has been added to your comment in the Important Announcement - {{title}}"
+        },
+        "MentionInComment": {
+          "Subject": "You've got mentioned in the Important Announcement - {{title}}"
+        }
+      }
+    },
+    "AppAuthenticationOptions": {
+      "AllowMobileLogin": "Allow Mobile Login",
+      "AllowAnonymous": "Allow Anonymous"
+    },
+    "MSTeamConfiguration": {
+      "RequireAppAdmin": "Require App Instance Admin"
+    },
+    "Core": {
+      "Blocks": {
+        "QuickLinks": {
+          "Title": "Quick Links"
+        },
+        "TaskRollup": {
+          "Title": "Task Rollup",
+          "Summary": "Lists tasks assigned to the logged in user, from teamsites. Tasks from Planner may also be displayed."
+        },
+        "AppLaunch": {
+          "Title": "App Launcher"
+        },
+        "TrelloCards": {
+          "Title": "Trello Card Rollup"
+        },
+        "FormQuestion": {
+          "Title": "Form Question"
+        },
+        "FormRollup": {
+          "Title": "Form Rollup"
+        },
+        "MicrosoftTeamChannelFeed": {
+          "Title": "Teams Channel Feed"
+        }
+      },
+      "Features": {
+        "New7TeamworkAppContextProvisioning": {
+          "Description": "Makes it possible to turn of teamwork creation in M365 while still allowing self-service from Omnia.",
+          "ConsentInformation": "All M365 teamwork will be created using the Omnia AzureAD app."
+        },
+        "New7DefaultAppLauncherLinks": {
+          "Title": "M365 App Launcher links"
+        },
+        "New7CustomEmail": {
+          "Title": "Email provider - Exchange Online mailbox",
+          "Description": "Send system emails from an Exchange account. This enables a custom email sender and to send emails to external users.",
+          "ConsentInformation": "Required to send emails from the specified account."
+        },
+        "New7TeamworkProperties": {
+          "Description": "Provisions enterprise properties for Teamwork, such as Yammer url, Teams url and Facebook url."
+        },
+        "New7TeamsPushNotification": {
+          "ConsentInformation": "Add permissions for Omnia to create meida files and push notification to Microsoft Teams"
+        },
+        "New7TeamworkAutomaticGovernance": {
+          "Title": "Scheduled synchronization for all teamwork",
+          "Description": "Synchronizes teamwork title, description, icon, membership and last activity from Microsoft 365 on a daily basis."
+        },
+        "New7MsSearchExternal": {
+          "Title": "Microsoft Search connectors",
+          "Description": "Query data from custom connectors via Microsoft Search."
+        },
+        "New7LatestTeamworkAutomaticGovernance": {
+          "Title": "Scheduled synchronization for all teamwork"
+        },
+        "UserSyncAd": {
+          "Title": "User Details Sync - Active Directory",
+          "Description": "User Details Sync - Active Directory permissions required"
+        },
+        "UserSyncGraph": {
+          "Title": "User Details Sync - Graph",
+          "Description": "User Details Sync - Graph permissions required"
+        },
+        "UserSyncSps": {
+          "Title": "User Details Sync - SharePoint",
+          "Description": "User Details Sync - SharePoint permissions required"
+        },
+        "New7UserProfileSelfService": {
+          "Description": "Allows the end user to edit properties in the SharePoint user profile in the user profile card."
+        },
+        "New7OneDriveDocumentCreationWizard": {
+          "Description": "Enables the Document Creation Wizard to save documents to the current user's OneDrive."
+        },
+        "New7RulesLinkHandler": {
+          "Description": "Enables the ability to override default app for any link in the system using a device based rule set. NOTE: This might override editorial settings in Web Content Management."
+        },
+        "New7YammerIntegration": {
+          "Title": "Yammer integration",
+          "Description": "Adds the possibility to create private Yammer communities and makes it possible to configure integration between pages and Yammer posts.",
+          "ConsentInformation": "Requires correct secrets to be added for the Yammer API."
+        },
+        "FacebookWorkplace": {
+          "Description": "Makes it possible to create teamwork based on Facebook Workplace."
+        },
+        "SharepointUserProfilesSync": {
+          "Title": "Sharepoint User Profiles Sync",
+          "Description": "Update user profile in Sharepoint by value in AzureAD",
+          "ConsentInformation": "Search users in Sharepoint, update user profile and create terms in Sharepoint."
+        },
+        "AnalyticsCoreSetup": {
+          "Title": "Analytics Core Setup"
+        }
+      },
+      "Common": {
+        "DeletedUser": "Deleted User"
+      },
+      "Accessibility": {
+        "MegaMenu": {
+          "MainMenuLabel": "Main Menu"
+        },
+        "Header": {
+          "OpenLeftMenu": "Open Mobile Menu",
+          "OpenRightMenu": "Open User Menu",
+          "SlideBackToPrevious": "Back to Menu"
+        }
+      },
+      "RecurringSetting": {
+        "FeedbackEmail": "Feedback email",
+        "WeakLevelPercentage": "Percentage Level - Weak",
+        "GoodLevelPercentage": "Percentage Level - Good",
+        "DayOfWeeks": {
+          "WeekendDay": "Weekend Day"
+        },
+        "SentOutTimeText": "Which time do you want the sign-off request to be sent out?"
+      }
+    },
+    "Favicon": {
+      "AppleTouchIcon": "Apple Touch Icon",
+      "CreateFaviconLink": "Create Favicon Link",
+      "EditFaviconLink": "Edit Favicon Link",
+      "UploadIcon": "Upload Icon"
+    },
+    "Footer": {
+      "Settings": {
+        "EditMode": {
+          "Title": "Edit Mode"
+        },
+        "ScriptEditor": {
+          "Css": "Css"
+        }
+      }
+    },
+    "Forms": {
+      "DeleteQuestion": "Delete Question",
+      "CreateForm": "Create Form",
+      "LimitResponseTime": {
+        "Title": "Limit Response Time",
+        "AfterEndTimeMessage": "This form is closed for responses."
+      },
+      "Admin": {
+        "EditForm": {
+          "EnableSubmission": "Enable Submission",
+          "UseCorrectAnswer": "Use Correct Answers",
+          "UsePoints": "Use Points",
+          "ClearResponses": "Clear Responses",
+          "CloseFormAfterward": "Close Form afterward",
+          "OnSubmission": "On Submission",
+          "WhenClosed": "When Closed"
+        },
+        "Editor": {
+          "AddOption": "Add Option",
+          "CorrectAnswer": "Correct Answer",
+          "UserDefined": "User Defined",
+          "ShowLayoutView": "Show Layout View",
+          "ShowQuestionView": "Show Question-by-question",
+          "OnlyEditInAdmin": "Please edit the questions for this form in Omnia Admin."
+        },
+        "StatisticForm": {
+          "NumberOfVote": "No of responses"
+        },
+        "CustomChartColors": "Custom Chart Colors",
+        "RemoveFormTemplateConfirmation": {
+          "Title": "Remove Form Template",
+          "ErrorMessageWithTemplateIsInUse": "The form template is currently in use and cannot be deleted. Please make sure that there are no forms and form types used to this form template before attempting to delete it again."
+        },
+        "RemoveFormTypeConfirmation": {
+          "Title": "Remove Form Type",
+          "ErrorMessageTypeInUse": "The form type is currently in use and cannot be deleted. Please make sure that there are no forms used to this form type before attempting to delete it again."
+        },
+        "AddFilter": "Add Filter",
+        "QueryScope": {
+          "BusinessProfiles": "Business Profiles"
+        }
+      },
+      "Renderer": {
+        "ShowForm": "Show Form",
+        "BusinessProfile": "Business Profile"
+      },
+      "QuestionTypes": {
+        "MultipleChoice": "Multiple Choice"
+      },
+      "BlockSettings": {
+        "FallBackShowFormButtonLabel": "Open Form",
+        "LegendAlignment": {
+          "Title": "Legend Alignment"
+        },
+        "LegendPosition": {
+          "Title": "Legend Position"
+        },
+        "QuestionPadding": "Question Padding"
+      },
+      "FormRollup": {
+        "Settings": {
+          "FormView": "Form View",
+          "ListView": "List View",
+          "NoResultText": "No Result Text",
+          "PagingType": {
+            "NoPaging": "No Paging"
+          },
+          "SortBy": "Sort By",
+          "PageSize": "Page Size",
+          "AddColumn": "Add Column",
+          "DragAndDrop": "Drag and Drop"
+        }
+      },
+      "FilterEngine": {
+        "ContextProperties": {
+          "BusinessProfile": "Business Profile",
+          "AppInstance": "App"
+        }
+      },
+      "ErrorMessages": {
+        "Unauthorized": "You are not authorized to create the poll on this location."
+      },
+      "CreatedAt": "Created At",
+      "CreatedBy": "Created By"
+    },
+    "PowerApp": {
+      "PowerApp": "Power App",
+      "Admin": {
+        "AppFinderUrl": "App Finder Url"
+      },
+      "PowerAppBlock": {
+        "BlockTitle": "Power App",
+        "BlockSummary": "Makes it possible to add an app built according to Microsoft’s Power App framework.",
+        "Settings": {
+          "DisplaySettings": {
+            "CustomRatio": "Custom Ratio"
+          },
+          "ThemeParameterKeys": "Theming Params",
+          "FindApp": "Find App"
+        }
+      }
+    },
+    "Header": {
+      "Settings": {
+        "ShowSearchBoxOnHeader": "Search Box on Header",
+        "SearchStringToQueryString": "Default Search Box text to Query string (q) value",
+        "ShowTenantHeader": "Show Tenant Header",
+        "InheritTenantSettings": "Inherit Tenant Header",
+        "AppLaunchTab": "App Launcher",
+        "NavigationBarStyle": "Navigation Bar Style",
+        "NavigationBarLogo": "Navigation Bar Logo"
+      }
+    },
+    "LinkHandler": {
+      "Buttons": {
+        "OpenOriginalLinkOnce": "Open original URL just once",
+        "InstallClientApp": "Install Office Client App"
+      }
+    },
+    "Logo": {
+      "Settings": {
+        "Url": "Url",
+        "AddImage": "Add Image",
+        "LogoText": "Logo Text",
+        "EditImage": "Edit Image",
+        "TenantHomeUrl": "Tenant Home Url",
+        "ProfileHomeUrl": "Business Profile Home Url"
+      }
+    },
+    "LinksManagement": {
+      "Settings": {
+        "Sharedlinks": "Shared links",
+        "Admin": "Shared Links Administrators"
+      },
+      "MyLinks": {
+        "AddMyLinks": "Add to My Links",
+        "AddMyLinksMessage": "Link added to My Links successfully",
+        "DeleteMyLinks": "Delete from My Links",
+        "RemoveMyLinks": "Remove from My Links",
+        "DeleteMyLinksMessage": "Link deleted from My Links successfully",
+        "RemoveMyLinksMessage": "Link removed from My Links successfully",
+        "EditLinkHeader": "Edit link"
+      },
+      "AppLaunch": {
+        "Title": "App Launcher",
+        "Admin": "App Launcher"
+      },
+      "AppLaunchSettingsForm": {
+        "HoverColor": "Hover Color",
+        "AppLaunchButton": "App Launcher Button",
+        "HeaderSettings": "Header Settings"
+      },
+      "Component": {
+        "Title": "My Links",
+        "Heading": "My Links",
+        "ShowLess": "Show Less",
+        "QuickLink": "Quick Link"
+      },
+      "ComponentSettingsForm": {
+        "FormTitle": "My Links Settings",
+        "ViewTemplate": "View Template",
+        "SortedBy": "Sorted By",
+        "HeaderBackgroundColor": "Header Background Color",
+        "HeaderTextColor": "Header Text Color",
+        "ItemLimit": "Item Limit",
+        "LinkColor": "Link Color",
+        "CustomSort": "Custom Sort",
+        "UseTargeting": "Use Targeting",
+        "IncludePersonalLinks": "Include Personal Links",
+        "IncludeNonMandatoryLinks": "Include Non-mandatory Links",
+        "IncludeMandatoryLinks": "Include mandatory Links",
+        "IncludeFollowingLinks": "Include Following Links",
+        "ShowManageLinks": "Show Manage Links",
+        "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?",
+        "NoResultText": "No Result Text"
+      },
+      "SortedByOptions": {
+        "LastVisited": "Last Visited"
+      },
+      "Templates": {
+        "SimpleListing": "Simple List",
+        "AppIcons": "App Icons",
+        "NavigationView": "Navigation View",
+        "AppLaunch": "App Launcher"
+      },
+      "Link": {
+        "Url": "Url",
+        "TargetWindow": "Target Window",
+        "OpenNewWindow": "Open in New Window",
+        "NewWindow": "New Window",
+        "IconPreview": "Icon Preview",
+        "IconBackgroundColor": "Icon Background Color"
+      },
+      "Admin": {
+        "NavigationLabel": "Shared Links",
+        "ToolbarTitle": "Shared Links",
+        "Tooltip": "Shared Links"
+      }
+    },
+    "MyTasks": {
+      "MyTasks": {
+        "ControlTitle": "My Tasks",
+        "Title": "My Tasks",
+        "NoDueDate": "No Due Date",
+        "WebPartTitle": "My Tasks",
+        "ViewAll": "View All Tasks"
+      },
+      "MyTasksSettings": {
+        "FormTitle": "My Tasks Settings",
+        "TitlePlaceHolder": "Component Title",
+        "RowLimit": "Row Limit",
+        "DayLimit": "Day Limit",
+        "ViewTemplate": "View Template",
+        "IconColor": "Icon Color",
+        "HeaderBackgroundColor": "Header Background Color",
+        "HeaderTextColor": "Header Text Color",
+        "StatusColor": "Status Color",
+        "OverdueColor": "Overdue Color",
+        "ProgressColor": "Progress Color",
+        "ForceLetterAvatar": "Always Show Letter Avatar",
+        "PlannerTask": "Planner Tasks",
+        "EnablePlannerTask": "Enable Planner Tasks",
+        "CustomColors": "Custom Colors",
+        "BorderColor": "Border Color",
+        "AccordionBackgroundColor": "Accordion Background Color",
+        "AccordionIconColor": "Accordion Icon Color",
+        "AccordionTextColor": "Accordion Text Color",
+        "DueDate": "Due Date",
+        "PollingRate": "Polling Rate in minutes",
+        "ClientCache": "Client Cache in minute(s)",
+        "NoResultText": "No Result Text"
+      },
+      "Templates": {
+        "SimpleListing": "Simple List",
+        "SiteGroupListing": "Site Group List"
+      }
+    },
+    "NotificationPanel": {
+      "Settings": {
+        "ActiveTextColor": "Active Text color",
+        "ActiveIconColor": "Active Icon color",
+        "ActiveBackgroundColor": "Active Tab color",
+        "NotificationNumberColor": "Notification Number color",
+        "ActiveNotificationNumberColor": "Active Notification Number color",
+        "NotificationBackgroundColor": "Notification Background color",
+        "ActiveNotificationBackgroundColor": "Active Notification Background color",
+        "UnreadNotificationColor": "Unread Notification Color",
+        "BlockSettings": "Block Settings",
+        "ShowSlider": "Show Slider",
+        "FillSpace": "Fill Space",
+        "TabAlignment": "Tab Alignment",
+        "IconAlignment": "Icon Alignment",
+        "CustomSize": "Custom Size",
+        "MinHeight": "Min Height",
+        "MinWidth": "Min Width",
+        "BorderRadius": "Border Radius",
+        "BorderRadiusOnAllTabs": "Border Radius on all tabs",
+        "FollowTheme": "Follow Theme",
+        "TabControlBackGround": "Tab Control BackGround",
+        "SliderColor": "Slider Color",
+        "BackgroundColorTab": "Background Color Tab",
+        "HeaderNotificationNumberColor": "Header Notification Number Color",
+        "HeaderNotificationBackgroundColor": "Header Notification Background Color"
+      },
+      "Admin": {
+        "CategoryTitle": "Category Title",
+        "CategorySettings": "Category Settings",
+        "CustomColors": "Custom Colors",
+        "ViewControls": "View Controls",
+        "NewCategory": "[New Category]",
+        "DeleteControl": "Delete View Control",
+        "ActiveBackgroundColor": "Active Background Color",
+        "ActiveIconColor": "Active Icon Color",
+        "BackgroundColor": "Background Color",
+        "NotificationCountColor": "Notification Count Color",
+        "IconColor": "Icon Color",
+        "NotificationProviders": "Notification Providers",
+        "NavigationLabel": "Notification Panel",
+        "CategoriesTab": "Category Settings",
+        "Tooltip": "Notification Panels"
+      }
+    },
+    "OrgTreeBlock": {
+      "BlockTitle": "Organization Tree"
+    },
+    "Properties": {
+      "HideSeparator": "Hide Separator",
+      "SeparatorType": "Separator Type",
+      "LabelPosition": {
+        "Title": "Label Position"
+      },
+      "ItemPadding": "Item Padding",
+      "TextOnly": "Show as Text",
+      "HideAvatar": "Hide Avatar",
+      "LabelColor": "Label Color",
+      "CustomLabel": "Custom Label",
+      "ValueColor": "Content Color",
+      "Settings": {
+        "PropertiesPerRow": "Properties per Row",
+        "DateFormatMode": "Date Type"
+      },
+      "Subscription": {
+        "UnSubscribeTitle": "Unsubscribe to Tag",
+        "UnSubscribe": "UnSubscribe"
+      }
+    },
+    "QrCode": {
+      "Title": "QR Code",
+      "Settings": {
+        "Link": {
+          "Option": {
+            "CurrentUrl": "Current Url",
+            "CustomUrl": "Custom Url"
+          }
+        }
+      }
+    },
+    "Search": {
+      "SearchCenter": "Search Center",
+      "SearchAll": "Search All...",
+      "SearchBoxSettings": {
+        "FormTitle": "Quick Search Settings",
+        "SearchAllUrl": "Default Result Page",
+        "PeopleResultPage": "People Result Page",
+        "RowLimit": "Row Limit",
+        "HeaderBackgoundColor": "Header Background Color",
+        "HeaderTextColor": "Header Text Color",
+        "IconColor": "Icon Color",
+        "DelveUrl": "Delve Site Url"
+      },
+      "Admin": {
+        "EditAdvancedSearchConfig": "Edit Advanced Search Category Config",
+        "DeleteSearchCategory": "Delete Search Categoty",
+        "DeleteSearchCategoryConfirmation": "Are you sure you want to delete this categoty?",
+        "DeleteSearchTemplate": "Delete Search Template",
+        "DeleteSearchTemplateConfig": "Delete Template Config",
+        "DeleteRefinerConfig": "Delete Refiner Config",
+        "SetDefaultTemplateConfig": "Set Default Search Template",
+        "ConfigTabTitle": "Search Config",
+        "QuickSearchTabTitle": "Quick Search",
+        "AdvancedSearchTabTitle": "Advanced Search",
+        "SearchCategories": "Search Categories",
+        "SearchTemplates": "Search Templates",
+        "FieldNotHaveMapping": "Field does NOT have any mapping property!",
+        "RowLimit": "Row Limit",
+        "ItemPerPage": "Item Per Page",
+        "SearchResultSource": "Search Result Source",
+        "EnableQueryRules": "Enable Query Rules",
+        "SearchQuery": "Search Query",
+        "TableRowId": "Id",
+        "OrderBy": "Order By",
+        "RefinerPosition": "Refiner Position",
+        "RefinerLimit": "Refiner Limit",
+        "AdvancedSearch": {
+          "HideCategories": "Hide Categories",
+          "EnableCustomTarget": "Enable Custom Target",
+          "CustomTarget": "Custom Target",
+          "CustomTargetInNewTab": "Open in New Tab",
+          "ViewMoreResults": {
+            "CustomTarget": "Custom Target"
+          }
+        },
+        "SortBy": "Sort By",
+        "SortDirection": "Sort Direction",
+        "ContentSources": "Content Sources",
+        "ImageRatio": "Image Ratio",
+        "ImageIconSizes": {
+          "Title": "Image/Icon Sizes"
+        },
+        "AddRefiner": "Add Refiner",
+        "SearchAdministrators": "Search Administrators",
+        "SearchResultSourceSettings": {
+          "DisplayName": "Display Name"
+        },
+        "PublishingAppTitle": "Publishing App Title"
+      },
+      "SearchBlock": {
+        "SearchMode": {
+          "Title": "Search Mode"
+        },
+        "ShowResultsInDropdown": "Show Results In Dropdown",
+        "DropdownHeight": "Dropdown Max Height (px)",
+        "DropdownWidth": "Dropdown Max Width (px)",
+        "AutoFocusSearchBox": "Auto Focus Search Box",
+        "BorderRadius": "Border Radius",
+        "FontSize": "Font Size",
+        "IconSize": "Icon Size",
+        "SearchCategories": "Search Categories",
+        "ConfigFromBusinessProfile": "Inherit Business Profile Settings",
+        "EnablePromotedSearchResults": "Enable Promoted Search Results",
+        "EnableSpellingSuggestionInEnglish": "Enable Spelling Suggestion (English)",
+        "AlwaysOpenInNewTab": "Always open in a new tab"
+      },
+      "QuickSearch": {
+        "Title": "Quick Search"
+      },
+      "SemanticSearch": {
+        "MissingConfigurationMessage": "Please make sure Semantic Search settings is configured."
+      },
+      "ResultSource": {
+        "LocalPeopleResults": "Local People Results",
+        "LocalReportsAndDataResults": "Local Reports And Data Results",
+        "LocalSharePointResults": "Local SharePoint Results",
+        "LocalVideoResults": "Local Video Results",
+        "RecommendedItems": "Recommended Items",
+        "MicrosoftSearch": {
+          "DriveItem": "Drive Item",
+          "ListItem": "List Item",
+          "ExternalItem": "External Item"
+        }
+      },
+      "SearchProviders": {
+        "Title": "Search Providers",
+        "MicrosoftSearch": "Microsoft Search",
+        "SharepointSearch": "Sharepoint Search",
+        "SharedLinks": "Shared Links",
+        "SemanticSearch": "Semantic Search",
+        "OmniaSearch": "Omnia Search"
+      },
+      "PromotedSearchResults": {
+        "PromotedSearchResults": "Promoted Search Results"
+      },
+      "SearchFeedbacks": {
+        "SearchFeedback": "Search Feedback",
+        "SendFeedback": "Send Feedback"
+      },
+      "SearchStatistics": {
+        "MetricType": "Metric Type",
+        "MetricTypes": {
+          "NoOfQuery": "Total no of queries"
+        },
+        "SearchStatistics": "Search Statistics",
+        "NoOfQueries": "No of queries",
+        "Locations": {
+          "ActionMenu": "Action Menu"
+        },
+        "QueryScope": "Query Scope"
+      }
+    },
+    "SignOffRequest": {
+      "BlockTitle": "Sign-off Request Rollup",
+      "Title": "Sign-off Requests",
+      "SendEmailInWorkflows": "Send e-mail in workflows",
+      "RequestToEmails": "Request To Emails",
+      "DeletingTemplateInUseMessage": "Template \"{{templateName}}\" cannot be removed because it is in use.",
+      "NewRequest": "New Request",
+      "UpdateRequest": "Update Request",
+      "NewSignOffRequest": "New Sign-off Request",
+      "RequestInfo": "Request Info",
+      "PropertySet": "Property Set",
+      "NewTemplate": "New Template",
+      "SignOffRequest": "Sign-off Request",
+      "MyProgressStatus": "My Progress status",
+      "FromTemplate": "From Template",
+      "ProgressStatus": "Progress Status",
+      "InvalidDate": "Invalid Date",
+      "Button": {
+        "Request": "Request",
+        "CloseRequest": "Close Request",
+        "DeleteRequest": "Delete Request",
+        "SignOff": "Sign Off",
+        "DownloadDetail": "Download Details",
+        "ListOfRequestedByMe": "List of Requested by me",
+        "CreateNewRequest": "Create New Request",
+        "ReopenRequest": "Reopen Request",
+        "ShowAll": "Show All",
+        "ShowLess": "Show Less"
+      },
+      "SendReminder": {
+        "Title": "Send Reminder"
+      },
+      "SignOffRequestEmail": {
+        "Subject": "Sign-off Request - {{title}}",
+        "Reminder": {
+          "Subject": "Sign-off Request Reminder - {{title}}",
+          "Body": "<br/><br/>This is a reminder to sign-off the following request from {{requestfrom}} originally sent out on {{createddate}}: <br/><br/>{{requestdescription}}<br/>"
+        },
+        "Closed": {
+          "Subject": "Sign-off Request Close - {{title}}",
+          "Body": "<br/><br/>The sign-off request {{title}} sent to you from {{requestfrom}} on {{createddate}} has been closed."
+        },
+        "Reopen": {
+          "Subject": "Sign-off Request Reopen - {{title}}"
+        },
+        "Completed": {
+          "Subject": "Sign-off Request Completed - {{title}}"
+        }
+      },
+      "Progress": {
+        "NotStarted": "Not Started",
+        "InProgress": "In Progress"
+      },
+      "ExportReport": {
+        "SignedOffResources": "SignedOff Resources",
+        "UnconfirmedResources": "Unconfirmed Resources",
+        "CompletedDate": "Completed Date"
+      },
+      "Settings": {
+        "MaxNumberOfUser": "Max no of users in e-mail send-out"
+      },
+      "Permissions": {
+        "GlobalSignOffRequestAdmin": "Global Sign-off Request Admin"
+      },
+      "Dialog": {
+        "DeleteTemplateTitle": "Delete Sign-off Template",
+        "ErrorMessageTemplateInUse": "The request template is currently in use and cannot be deleted. Please make sure that there are no requests/ recurring requests used to this request template before attempting to delete it again.",
+        "DeleteTypeTitle": "Delete Sign-off Type",
+        "DeleteRequestTitle": "Delete Sign-off Request",
+        "ErrorMessageTypeInUse": "The request type is currently in use and cannot be deleted. Please make sure that there are no requests/ recurring requests used to this request type before attempting to delete it again.",
+        "DeleteRecurrenceTitle": "Delete Sign-off Recurrence",
+        "DeleteRecurrenceMessage": "Are you sure to delete this recurrence request?",
+        "CloseRequestTitle": "Close Sign-off Request",
+        "CloseRequestNotCompletedMessage": "Do you want to send an e-mail notification to the users that have not completed the request?",
+        "ReopenRequestTitle": "Reopen Sign-off Request",
+        "ReopenRequestNotCompletedMessage": "Do you want to send an e-mail notification to the users that have not completed the request?",
+        "MaxEmailSendoutWarning": "Users may not receive this email since the number of users exceeds the \"Max no of users in e-mail send-out\" setting"
+      },
+      "NoResourcesError": "Please add something to sign off.",
+      "SignOffType": {
+        "Title": "Sign-off Type"
+      },
+      "DefaultContentMessage": "I confirm that I have read and understood the contents of this content.",
+      "Rollup": {
+        "QueryScopeNotSupportedThisView": "This view is not supported for the current Query Scope",
+        "YouDontHavePermissionToAccessThisAdministratorList": "You don't have permission to access this Administrator list.",
+        "Settings": {
+          "PageSize": "Page Size",
+          "Scopes": {
+            "AllRequests": "All Requests"
+          },
+          "SearchBoxMessage": {
+            "SearchOnSignOffRequestTitleAnd": "Search on Title and",
+            "SignOffRequestProperties": "Sign-off Request Properties"
+          },
+          "OrderFilters": "Order Filters",
+          "SearchBoxOutlined": "Outlined Search Box",
+          "SearchBoxRounded": "Rounded Search Box",
+          "SearchBoxFilled": "Filled Search Box",
+          "View": {
+            "ListView": "List View",
+            "SummaryView": "Summary View"
+          },
+          "PagingType": {
+            "NoPaging": "No Paging"
+          },
+          "NoResultText": "No Result Text",
+          "Properties": {
+            "TitleAndLink": "Title and Link",
+            "ProgressStatus": "Progress Status",
+            "TotalNoOfRequests": "Total no of requests"
+          },
+          "DragAndDrop": "Drag and Drop"
+        }
+      },
+      "RecurringRequests": {
+        "SafetyInspection": "Safety inspection",
+        "SentOutTimeTitle": "Which time do you want the sign-off request to be sent out?",
+        "RecurringSetting": "Recurring setting"
+      },
+      "RecurringInfo": {
+        "PleaseSelectRecurrence": "Please select Recurrence setting"
+      }
+    },
+    "TaxonomyNavigation": {
+      "BlockTitle": "Taxonomy Navigation",
+      "Settings": {
+        "CurrentPage": "Current Page",
+        "DefaultValue": "Default Value",
+        "NumberOfParentLevels": "No of parent levels to show",
+        "NumberOfChildrensLimit": "No of children to show",
+        "CardSpacing": "Card Spacing",
+        "CardWidth": "Card Width",
+        "CardStyle": "Custom Card styling",
+        "ShowTaxonomyName": "Include Taxonomy Root",
+        "LineColor": "Line Color"
+      }
+    },
+    "Trello": {
+      "Block": {
+        "Title": "Trello Card Rollup"
+      },
+      "CardsSettings": {
+        "BoardId": "Board Id"
+      }
+    },
+    "Tutorial": {
+      "Tutorial": {
+        "ImageUrl": "Image Url",
+        "Rendition": "Tutorial Rendition"
+      },
+      "Admin": {
+        "DeleteTutorial": "Delete Tutorial",
+        "NoItemMessage": "Click on the 'Add step' button to create a new tutorial step.",
+        "SourcesSetting": "Target Settings",
+        "AddSource": "Add Target",
+        "SourceType": "Target Type",
+        "AddImage": "Add Image",
+        "DeleteStep": "Delete Step",
+        "EditImage": "Edit Image"
+      }
+    },
+    "UserInformation": {
+      "UserDetails": "User Details",
+      "BlockTitle": "User Information",
+      "SendEmail": "Send email"
+    },
+    "UserManagement": {
+      "Title": "User Management",
+      "Users": {
+        "UserType": "User Type",
+        "ScopeType": "Scope Type",
+        "UserName": "User Name",
+        "AddUser": "Add User",
+        "EditUser": "Edit User",
+        "DeleteUser": "Delete User",
+        "FirstLoginTime": "First Login Time: ",
+        "LastLoginTime": "Last Login Time: ",
+        "AuthenticationInfo": {
+          "AuthEmail": "Authentication E-mail",
+          "AuthMobile": "Authentication Mobile"
+        },
+        "AccountReset": {
+          "SendResetLinkMessage": "Send the restore link via e-mail to the user.",
+          "SendResetLinkError": "Failed to send the email. Please try again or use an alternative method to share the information."
+        },
+        "DisableAccount": {
+          "SendInformEmail": "Send the inform that account has been disabled to the user."
+        },
+        "EnableAccount": {
+          "SendInformEmail": "Send the inform that account has been enabled to the user."
+        },
+        "TimeLimitedAccount": {
+          "StartDate": "Start Date",
+          "EndDate": "End Date"
+        },
+        "ErrorSendingOnboardingEmail": "The account was created successfully, but there was an issue sending the onboarding email.",
+        "ImportUsers": {
+          "Steps": {
+            "UploadFile": "Upload your csv file",
+            "EditFile": "Edit your csv file"
+          },
+          "Scenarios": {
+            "SendOnboardingLinkToUsersWithoutPassword": "Automatically onboard users with password. (password required!)"
+          }
+        }
+      },
+      "Groups": {
+        "AddGroup": "Add Group",
+        "EditGroup": "Edit Group",
+        "DeleteGroup": "Delete Group",
+        "DeleteGroupErrorMessageGroupInUse": "This group has some users created under its scope. Please delete all these users to delete it.",
+        "GroupType": "Group Type",
+        "RemoveUser": "Remove User",
+        "RemoveGroup": "Remove Group",
+        "GroupInformation": "Group Information"
+      },
+      "DynamicGroups": {
+        "Title": "Dynamic Groups",
+        "DeleteDynamicGroup": "Delete Dynamic Group",
+        "NewDynamicGroup": "New Dynamic Group",
+        "EditDynamicGroup": "Edit Dynamic Group",
+        "UserTypes": "User Types",
+        "ExternalIdentityMapping": "External Identity Mapping",
+        "PermanentlyDelete": "Purge group",
+        "PermanentlyDeleteConfirmation": "Are you sure you want to purge the group?"
+      },
+      "UserTypes": {
+        "Title": "User Types",
+        "CreateUserType": "Create User Type",
+        "EditUserType": "Edit User Type",
+        "DeleteTypeTitle": "Delete User Type"
+      },
+      "UserProperties": {
+        "Title": "User Properties",
+        "InternalName": "Internal Name",
+        "AddProperty": "Add Property",
+        "EditProperty": "Edit Property",
+        "BuiltInPropertyDescription": "This is a built-in property that will be used by the system to send out e-mails. Please select a mapped enterprise property.",
+        "DeleteProperty": "Delete Property",
+        "PropertyType": "Property Type",
+        "ErrorMessage": "Not found enterprise property with property binding id",
+        "BuiltInPropLabels": {
+          "UserIcon": "User Icon",
+          "DisplayName": "Display Name",
+          "Email": "E-mail",
+          "PreferredLanguage": "Preferred Language",
+          "UILanguage": "UI Language"
+        }
+      },
+      "Synchronization": {
+        "LastRun": "Last Run",
+        "RunFullSync": {
+          "ConfirmTitle": "Run Full sync"
+        },
+        "RunFullUserSync": {
+          "StartButton": "Full User sync",
+          "ConfirmTitle": "Run Full User sync"
+        },
+        "UserProperty": "User Property",
+        "Status": {
+          "NotRun": "No sync has been run"
+        }
+      },
+      "LoginLog": {
+        "Title": "Login Log",
+        "IPAddress": "IP Address",
+        "AuthMethod": "Authentication Method"
+      },
+      "Authentication": {
+        "ExternalProviders": "External Providers",
+        "AzureAD": "Azure AD",
+        "SharepointAddIn": "Sharepoint Add-In"
+      },
+      "BusinessProfile": {
+        "AnonymousAccess": "Anonymous Access",
+        "AuthenticationScreens": {
+          "ScreenSettings": "Screen settings",
+          "LoginScreen": "Login screen",
+          "LogoutConfirmation": "Logout confirmation"
+        },
+        "AnonymousType": {
+          "Disabled": "Disabled (Authentication required)"
+        }
+      },
+      "AuthenticationScreens": {
+        "Title": "Authentication Screens"
+      },
+      "Default": {
+        "BusinessProfile": "Default (Business Profile)"
+      },
+      "OmniaSearchUserSync": {
+        "ReindexLog": {
+          "Title": "Omnia Search",
+          "Description": "Synchronizes users and groups to Omnia Search",
+          "TotalUserChanges": "Users changes",
+          "TotalUpdatedUsers": "Users add/update",
+          "TotalUpdatedUsersErrors": "Users add/update with errors",
+          "TotalDeletedUsers": "Users remove",
+          "TotalDeletedUsersErrors": "Users remove with errors"
+        }
+      }
+    },
+    "OmniaSystemLanguage": {
+      "defaultLanguage": "Default M365 Language",
+      "title": "Language Setting"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "ChangeProfilePhoto": "Change Image",
+        "AddFeedback": "Add Feedback",
+        "SentFeedbackMessage": "Thanks for your feedback, it has been sent to {{feedback-email}}.",
+        "SendFeedbackErrorMessage": "Error when sending your feedback to {{feedback-email}}",
+        "NoSectionSettingMessage": "Please configure the property mappings",
+        "SaveAndClose": "Save and Close"
+      },
+      "Settings": {
+        "HideNameInText": "Hide User Name in Text",
+        "HidePercentageInText": "Hide Percentage in Text",
+        "HideBlockWhenCompleted": "Hide Block when Completed",
+        "BorderSize": "Border Size",
+        "TitleText": "Header Text",
+        "CompletedProfileText": "Completed Text",
+        "NotCompletedProfileText": "Not Completed Text",
+        "ConfirmationCloseEditingFormTitle": "Cancel editing User Profile Completeness"
+      },
+      "ProfileCompletion": {
+        "Headline": "My Profile",
+        "StrengthenProfile": "Strengthen Profile",
+        "WebPart": {
+          "WebPartTitle": "User Profile Progress"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdmin": "User Profile Completion",
+          "MappingTabTitle": "Property Mappings",
+          "AddProperty": "Add Property",
+          "EditProperty": "Edit Property"
+        },
+        "Buttons": {
+          "AddPropertyMapping": "Add Mapping",
+          "AddSection": "Add Section",
+          "AddProperty": "Add Property"
+        },
+        "Pattern": {
+          "ShowDialog": "Show Dialog",
+          "FeedbackEmail": "Feedback email",
+          "WeakLevelPercentage": "Percentage Level - Weak",
+          "GoodLevelPercentage": "Percentage Level - Good"
+        },
+        "PropertyMapping": {
+          "CompletenessImpact": "Completeness Impact",
+          "ReadyOnly": "Read-Only",
+          "AllowFeedback": "Allow Feedback",
+          "CustomTarget": "Custom Target",
+          "CustomTargetUrl": "Custom Target Url",
+          "DisplayTypes": {
+            "ProfilePicture": "Profile Picture",
+            "MultilineText": "Multiline Text",
+            "HtmlText": "Html",
+            "TermSet": "Term Set"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint User Profile",
+            "OmniaSystemLanguage": "Omnia System Language"
+          }
+        },
+        "Table": {
+          "DataSource": "Data Source",
+          "CompletenessImpact": "Completeness Impact"
+        },
+        "Error": {
+          "DuplicateError": "*Property with this name already exists."
+        }
+      }
+    },
+    "Blocks": {
+      "Yammer": {
+        "Title": "Yammer Feed",
+        "FeedId": "Feed Id",
+        "SearchForTheSource": "Search for the source",
+        "ShowHeader": "Show Header",
+        "ShowFooter": "Show Footer",
+        "IncludeCommunityInformationAtTopOfFeed": "Include Community Information At Top Of Feed"
+      }
+    }
+  },
+  "OmniaTenantAdministration": {
+    "GovernanceDashboard": {
+      "Settings": {
+        "MetricConfig": "Metric Config"
+      }
+    }
+  },
+  "OmniaBusinessProfile": {
+    "MediaflowSecrets": {
+      "ClientIdHeader": "Client id",
+      "ServerKey": "ServerKey"
+    }
+  },
+  "OmniaX": {
+    "AzureADSync": {
+      "Admin": {
+        "Title": "Sharepoint User profiles Synchronization",
+        "azureADSynchronizationPageTitle": "Sharepoint User profiles Synchronization",
+        "azureADPropHeaderText": "Azure AD property",
+        "synchronizationSettingsText": "Sharepoint User profiles Synchronization settings",
+        "synchronizeNowBtnText": "Synchronize now",
+        "enableSharepointAppOnlyMode": "Enable Sharepoint App-Only",
+        "enableNormalQueue": "Enable Normal Queue",
+        "OnlySyncEnableAccount": "Only Sync Enable Account",
+        "emailJSON": "Test emails in JSON format. EX: [\"user@domain.onmicrosoft.com\"] ",
+        "emailJsonErrorMessage": "Test emails value is required",
+        "testSyncBtn": "Test Sync",
+        "sharepointAppOnlyModeBtn": "Config Instruction",
+        "SharepointAppOnlyConfigInstruction": {
+          "Title": "Sharepoint App-Only Config Instruction",
+          "CreateAppUrl": "Click to go to Sharepoint Register App page",
+          "Summary": "Please follow the instruction below to setup the Sharepoint App-Only",
+          "SettingUpAppOnlyContent": "In this page click on the Generate button to generate a client id and client secret and fill the remaining information like shown in the screen-shot below.",
+          "ClientSecretExpiration": "App-Only principals generated in SharePoint will by default be valid for one year. You will therefore need to renew it in order to keep the service working as intended. Please follow the instructions below for how to create an App-only principal, and follow ",
+          "GrantAppPermissions": "Grant App Permissions",
+          "AppPermissionsLink": "Click to go to Sharepoint Admin grant app permissions",
+          "TrustApp": "When you click on Create you'll be presented with a permission consent dialog. Press Trust It to grant the permissions",
+          "SetOmniaSyncAppInfo": "When you finsihed with grant App permission. Now you need to save Client Id and Client Secret to Omnia",
+          "NoteMessage": "Incase you follow all the steps but still have issue '401 Unauthorized'. Let make sure you set DisableCustomAppAuthentication to false. Read important section in top or read Microsoft article."
+        },
+        "RenewClientSecret": {
+          "Title": "Renew Client Secret",
+          "MicrosoftIntruction": "Microsoft Intruction",
+          "DeteleAppsMessage": "Select correct app to detele by id or title",
+          "RecreateAppMessage": "Then create new app follow our intruction in this page."
+        },
+        "logDetail": "Log Detail",
+        "BatchExecute": "Batch Execute",
+        "BatchNumber": "Batch Number",
+        "ResyncRetryLimit": "Resync Retry Limit",
+        "ReSync": {
+          "ResyncUsers": "Resync Users",
+          "SucessfulResyncUsers": "Sucessful Resync Users",
+          "FailResyncUsers": "Fail Resync Users",
+          "JobInfoText": "Resync Job will run every time timer job run. User profile can not found in Sharepoint will be added to resync users list.",
+          "SupportInfoText": "Resync only support 'Sharepoint App-Only' mode.",
+          "SettingInfoText": "Resync will be retry x times, with x time is setting 'Resync Retry Limit'. Set this config accordant with Timer Job Interval.",
+          "ResyncNowBtn": "Resync Now",
+          "ForceResyncAllUsersTitle": "Force Resync All Users"
+        },
+        "Types": {
+          "TestQueue": "Test Queue",
+          "ProgressiveQueue": "Progressive Queue",
+          "ForceResyncAllUsers": "Force Resync All Users"
+        }
+      }
+    }
+  },
+  "OTC": {
+    "CreateTeamwork": {
+      "SelectTemplateToShow": "Select Template to show",
+      "SelectAppDefintion": "Select App Definition",
+      "CreateAppButton": "Create App"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "FacebookWorkplace": {
+      "WorkplaceDomain": "Workplace Domain",
+      "AccessToken": "Access Token"
+    },
+    "Core": {
+      "Blocks": {
+        "TeamNewsRollup": {
+          "Title": "Team News Rollup"
+        },
+        "TeamCollaborationRollup": {
+          "Title": "Teamwork Rollup"
+        },
+        "CreateTeamwork": {
+          "Title": "Create Teamwork",
+          "Description": "Possibility to create Teamwork  with different template"
+        },
+        "CreateApp": {
+          "Title": "Create App"
+        }
+      },
+      "Features": {
+        "CreateTeams": {
+          "Description": "Deploys a number of default provisioning templates for teamwork.",
+          "Title": "Apply Microsoft Teams to a Microsoft 365 Group"
+        },
+        "SPTeamSiteProvisioningTemplate": {
+          "Category": "Provisioning Templates",
+          "Title": "Sharepoint Team Site Provisioning Templates"
+        }
+      }
+    },
+    "GovernanceDashboard": {
+      "Teamwork": {
+        "Filters": {
+          "TeamworkTemplate": "Teamwork Template"
+        },
+        "Metrics": {
+          "NewTeamworks": "New Teamwork"
+        },
+        "Settings": {
+          "NumberOfDays": "Number Of Days",
+          "TimeRangeConfig": "Time Range",
+          "TimeRange": {
+            "OneMonth": "One Month",
+            "OneWeek": "One Week",
+            "TwoWeeks": "Two Weeks"
+          }
+        },
+        "NotHaveCreateBy": "Created By is missing",
+        "CreateByHeader": "Created By"
+      }
+    },
+    "MicrosoftTeamChannelFeed": {
+      "ControlTitle": "Microsoft Teams Channel Feed",
+      "Settings": {
+        "WelcomeTitle": "Teams Channel Feed",
+        "Description": "Teams Channel Feed",
+        "Url": "Url",
+        "SearchTeam": "Search Team",
+        "TeamNotFound": "Team Not Found",
+        "ChannelList": "Channel List"
+      },
+      "Block": {
+        "LinkToChannel": "Link To Channel"
+      }
+    },
+    "MySites": {
+      "Filters": {
+        "AllSites": "All (Sharepoint Sites)"
+      },
+      "SiteCreationSettings": "Site Creation Settings",
+      "OrderBy": " Order By",
+      "OrderBys": {
+        "LastVisited": "Last Visited"
+      },
+      "LastVisitedRowLimit": "Row Limit",
+      "LastVisitedHighlightedLimit": "No of Highlighted Items",
+      "ExcludePersonalSite": "Exclude Personal Site",
+      "OpenNewWindow": "Open in New Window",
+      "UseLetterAvatar": "Use Letter Avatar",
+      "CreateNewSite": "Create Teamwork",
+      "CreateSite": "Create Teamwork"
+    },
+    "SiteProperties": {
+      "EditProperties": {
+        "AdvancedSettings": "Advanced Settings"
+      }
+    },
+    "TeamCollaborationApp": {
+      "NotExistProfileWorkplaceMessage": "No workplace has been created for the current Business Profile.",
+      "SiteDesignActivateFeatureTitle": "Activate Features",
+      "ClientId": "Client Id",
+      "FacebookWorkplaceDomain": "Workplace Domain",
+      "SiteDesign": "Site Design",
+      "AppAdministrator": "App Administrator",
+      "ProvisioningTemplate": "Provisioning Template",
+      "CreatedDate": "Created Date",
+      "UrlInvalidMessage": "A site already exists on this url.",
+      "IllegalCharacterMessage": "Only letters, number and hyphen are accepted characters.",
+      "UnauthorizedMessage": "You need to be the Site Collection Administrator or O365 Group Owner to remove this Teamwork App",
+      "Suggest": "Suggest url",
+      "YammerGroupUrl": "Yammer Community Url",
+      "SharepointUrl": "SharePoint Url",
+      "HomeBlade": {
+        "PendingApproval": "Pending Approval",
+        "ErrorMessage": "Error occurred. Please refer to Transaction Id: ",
+        "RunningMessage": "Please refer to Transaction Id: ",
+        "WarningMessage": "Warning. Please refer Transaction Id: ",
+        "StatusInfo": {
+          "SuccessWithWarning": "Success with Warning"
+        }
+      },
+      "AttachSite": {
+        "AttachedSiteUrlPlaceHolder": "Team Site Url",
+        "InvalidSiteUrlErrorMessage": "This is an invalid or non existing site url",
+        "MissingPermissionErrorMessage": "Please to ensure the current user is a member of group owner to perform this operation",
+        "OnpremMissingPermissionErrorMessage": "Please to ensure the current user is a site admin to perform this operation"
+      },
+      "AppTypes": {
+        "SharePointCommunicationSite": "SharePoint Communication Site",
+        "SharePointTeamSite": "SharePoint Team Site",
+        "O365Group": "Microsoft 365 Group",
+        "PrivateYammerGroup": "Private Yammer Community",
+        "FacebookWorkplaceGroup": "Facebook Workplace Group"
+      },
+      "Settings": {
+        "DefaultVisitors": "Default Visitors",
+        "PrimarySiteCollectionAdministrator": "Primary Site Collection Administrator",
+        "DefaultSiteCollectionAdministrators": "Default Site Collection Administrators",
+        "DefaultResourceUrl": "Welcome Page",
+        "DefaultResource": "Default Resource",
+        "DefaultWelcome": "Default Welcome Page",
+        "DefaultPermission": "Default Permissions",
+        "DefaultContent": "Default Content",
+        "RegionalSettings": "Regional Settings",
+        "TemplateType": "Template Type"
+      },
+      "EnterpriseProperties": {
+        "Team": "MS Teams Url",
+        "Yammer": "Yammer Url",
+        "Facebook": "Facebook Url"
+      },
+      "MicrosoftTeam": {
+        "AddChannel": "Add Channel",
+        "AddApp": "Add App",
+        "ChannelDetails": "Channel Details",
+        "IsFavoriteByDefault": {
+          "Description": "Indicates whether the channel should automatically be marked 'favorite' for all members of the team"
+        },
+        "AddTab": "Add Tab",
+        "TeamsApp": "Teams App",
+        "ContentUrl": "Content Url",
+        "WebsiteUrl": "Website Url",
+        "UrlType": "Url Type",
+        "UrlSettings": "Url Settings",
+        "MemberSettings": {
+          "Title": "Member Settings",
+          "AllowCreateUpdateChannels": {
+            "Title": "Create Update Channels"
+          },
+          "AllowDeleteChannels": {
+            "Title": "Delete Channels"
+          },
+          "AllowAddRemoveApps": {
+            "Title": "Add Remove Apps"
+          },
+          "AllowCreatePrivateChannels": {
+            "Title": "Create Private Channels"
+          },
+          "AllowCreateUpdateRemoveTabs": {
+            "Title": "All Tabs actions"
+          },
+          "AllowCreateUpdateRemoveConnectors": {
+            "Title": "All Connectors actions"
+          }
+        },
+        "GuestSettings": {
+          "Title": "Guest Settings",
+          "AllowCreateUpdateChannels": {
+            "Title": "Create Update Channels"
+          },
+          "AllowDeleteChannels": {
+            "Title": "Delete Channels"
+          }
+        },
+        "FunSettings": {
+          "Title": "Fun Settings"
+        },
+        "MessagingSettings": {
+          "Title": "Messaging Settings",
+          "AllowUserEditMessages": {
+            "Title": "Edit Messages by User"
+          },
+          "AllowUserDeleteMessages": {
+            "Title": "Delete Messages by User"
+          },
+          "AllowOwnerDeleteMessages": {
+            "Title": "Delete Messages by Owner"
+          },
+          "AllowTeamMentions": {
+            "Title": "Team Mentions"
+          },
+          "AllowChannelMentions": {
+            "Title": "Channel Mentions"
+          }
+        },
+        "DiscoverySettings": {
+          "Title": "Discovery Settings",
+          "ShowInTeamsSearchAndSuggestions": {
+            "Title": "Teams Search and Suggestions"
+          }
+        },
+        "InstalledApps": {
+          "Title": "Installed Apps",
+          "EnsureTabSupportForAppMessage": "The selected app cannot be used in Teams tab, go to Omnia Admin -> System -> Microsoft 365 -> Teams App Generator and follow the instructions"
+        },
+        "CustomUrl": "Custom Url",
+        "CreatePlannerBoard": "Create Planner Board",
+        "SetupTemplate": {
+          "MSTeamsTemplate": "Microsoft Teams Template",
+          "TemplateId": "Template Id",
+          "InvalidContentUrl": "The url must start with https://"
+        },
+        "Messages": {
+          "EmptyTeamChannelName": "The value of Team Channel name can't be empty.",
+          "IncompleteTeamTab": "There is an incomplete Team Tab configuration."
+        }
+      },
+      "Secrets": {
+        "Facebook": {
+          "Title": "Facebook Workplace Token"
+        },
+        "Yammer": {
+          "Title": "Yammer Token"
+        },
+        "YammerApp": {
+          "Title": "Yammer",
+          "ClientId": "Client Id",
+          "Token": "Yammer Token"
+        }
+      },
+      "Validate": {
+        "InvalidUrlHaveExistAppInstance": "An app already exists on this url."
+      },
+      "ConfirmPermissionDialog": {
+        "Title": "Confirm Permission Update",
+        "Message": "The App Administrators will be set as Site Collection Administrators in SharePoint. Are you sure you want to proceed?"
+      },
+      "ResourceType": {
+        "YammerGroup": "Yammer Group"
+      },
+      "SensitivityLabel": {
+        "Label": "Sensitivity Label"
+      },
+      "Sync": "Synchronize Last Activity"
+    },
+    "TeamCollaborationRollup": {
+      "Scopes": {
+        "All": "All (Public)",
+        "AllSites": "All (SharePoint Sites)",
+        "FollowingSites": "Followed (SharePoint Sites)",
+        "MemberOf": "Member of (Microsoft 365 Groups)",
+        "LastVisited": "Last Visited"
+      },
+      "Settings": {
+        "BusinessProfile": "Business Profile",
+        "SiteTemplate": "Site Template",
+        "FormTitle": "Teamwork Rollup Settings",
+        "AddFilter": "Add Filter",
+        "ItemLimit": "Item Limit",
+        "MaxHeight": "Max Height",
+        "MaxWidth": "Max Width",
+        "IconMode": "Icon Mode",
+        "IconModes": {
+          "LetterAvatar": "Letter Avatar",
+          "TemplateIcon": "Template Icon"
+        },
+        "IncludeChildTerms": "Include Child Terms",
+        "IncludeEmpty": "Include Empty",
+        "PageSize": "Page Size",
+        "PagingType": {
+          "NoPaging": "No Paging"
+        },
+        "UIFilterOption": {
+          "MyDrafts": "My Drafts",
+          "Searchbox": "Search Box"
+        },
+        "SearchBoxMessage": {
+          "SearchOnTeamTitleAnd": "Search on Title and",
+          "TeamProperties": "Team Properties"
+        },
+        "OrderFilters": "Order Filters",
+        "OpenNewWindow": "Open in New Window",
+        "RunQueryOnLoad": "Run Query On Load",
+        "OnlyCurrentBusinessProfile": "Only Current Business Profile",
+        "ShowFollowStatus": "Show Follow Status",
+        "ExcludePersonalSite": "Exclude Personal Site",
+        "DefaultValue": "Default Value",
+        "SearchBoxOutlined": "Outlined Search Box",
+        "SearchBoxRounded": "Rounded Search Box",
+        "SearchBoxFilled": "Filled Search Box",
+        "NoResultText": "No Result Text",
+        "CurrentUser": "Current User",
+        "PickedUser": "Fixed Value"
+      },
+      "ListView": {
+        "AddColumn": "Add Column",
+        "AdjustColumns": "Adjust Columns",
+        "ShowHeading": "Show Heading",
+        "TransparentBackground": "Transparent Background"
+      },
+      "Common": {
+        "TeamCollaborationRollup": "Teamwork Rollup"
+      },
+      "ViewTitle": {
+        "List": "List View",
+        "Navigation": "Navigation View"
+      },
+      "AppTypes": {
+        "Yammer": "Yammer"
+      },
+      "SortByTypes": {
+        "LastVisited": "Last Visited"
+      }
+    },
+    "TeamCollaborationSettingsLocalization": {
+      "ChangeTemplateBlade": {
+        "ChangeTemplate": "Change Template",
+        "SelectTemplate": "Select Template",
+        "SelectProfile": "Select Profile"
+      },
+      "SettingsBlade": {
+        "EditSettings": "Edit Settings",
+        "SwitchingTemplate": "Switching Template"
+      }
+    },
+    "TeamNewsRollup": {
+      "ControlTitle": "Team News Rollup",
+      "NoItem": "There are no Team News targeted to you at the moment",
+      "Settings": {
+        "RowLimit": "Row Limit",
+        "DayLimit": "Day Limit",
+        "OrderBy": "Order By",
+        "GroupedBySite": "Grouped By Site",
+        "IncludeLegacy": "Include Legacy Announcements",
+        "ForceLetterAvatar": "Force Letter Avatar",
+        "Sort": {
+          "LastModifiedTime": "Last Modified Time"
+        },
+        "NoResultText": "No Result Text"
+      },
+      "ViewTitle": {
+        "GroupBySite": "Grouped By Site"
+      }
+    },
+    "TeamProvisioning": {
+      "Tabs": {
+        "TabsTitle": "Teams Tabs",
+        "Planner": "Add Planner Tab",
+        "Notebook": "Add Notebook Tab",
+        "Wiki": "Add Wiki Tab"
+      },
+      "Messages": {
+        "AllowDeleteMessages": "Allow Delete Messages",
+        "AllowEditMessages": "Allow Edit Messages"
+      }
+    },
+    "TeamworkNavigation": {
+      "Title": "Teamwork Navigation",
+      "Description": "Teamwork Navigation Description",
+      "Settings": {
+        "CreateLinkSettings": "Create Teamwork Settings",
+        "CreateTeamwork": "Create Teamwork",
+        "Tab": "Teamwork Navigation Tab",
+        "ConfirmationCloseEditingFormMessage": "Do you really want to close with unsaved changes?"
+      },
+      "SiteCreationSettings": "Site Creation Settings",
+      "CreateNewSite": "Create Teamwork",
+      "CreateSite": "Create Teamwork",
+      "ShowCreateNewSite": "Show Create New Site",
+      "DeleteTabTitle": "Delete Tab",
+      "CategoryName": "Category Name",
+      "NoSettings": "No settings for Team Collaboration Navigation"
+    }
+  },
+  "Omnia": {
+    "Workplace": {
+      "SetupWizard": {
+        "Branding": {
+          "Logo": {
+            "Title": "Organization Logo"
+          }
+        },
+        "Content": {
+          "News": {
+            "Description": "We will setup a News Center and create three promoted stories and three regular news articles for you."
+          },
+          "Teamwork": {
+            "Description": "We will setup teamwork templates for Department, Office and Project and provision three example teams including content."
+          },
+          "CalendarEvents": {
+            "Title": "Calendar Events",
+            "Description": "We will create a Corporate Calendar and add events to it and we will add some meetings to your personal calendar."
+          },
+          "QuickPoll": {
+            "Title": "Quick Poll"
+          }
+        },
+        "General": {
+          "Language": {
+            "Label": "Default Language"
+          },
+          "DateTime": {
+            "DateLabel": "Date Format",
+            "FirstDayOfWeekLabel": "First Day Of Week",
+            "TimeLabel": "Time Format"
+          },
+          "Name": {
+            "OrganizationLabel": "Organization Name",
+            "IntranetLabel": "Intranet Name"
+          }
+        },
+        "KnowledgeSharing": {
+          "ManagedPropertiesSettings": {
+            "SettingsTitle": "Managed Property",
+            "PropertyDescription": "Please select which enterprise properties you would like to use for Object Type and Community refiners in advanced search. Leave blank if you do not want to set this up now.",
+            "PropertyObjectTypeSettings": "Object Type",
+            "Message": {
+              "MissingManagedProperty": "Missing Managed Property Settings"
+            }
+          },
+          "NotificationPanelSettings": {
+            "NotificationTitle": "Notification Panel"
+          }
+        },
+        "LearningCenter": {
+          "General": {
+            "LearningCenterLanguage": "Learning Center Language",
+            "Name": "Learning Center Publishing App Name",
+            "Alias": "Learning Center Publishing App Url"
+          },
+          "Properties": {
+            "CourseType": "Course Type",
+            "CourseSubject": "Course Subject",
+            "SelectTermSet": "Select Term Set"
+          }
+        },
+        "Title": "Omnia Setup Wizard",
+        "SkipSetupWizard": "Skip Setup Wizard",
+        "CloseSetupWizard": "Close Wizard",
+        "RunSetup": "Run Setup",
+        "Provisioning": {
+          "StartProvisioning": "Start Provsioning",
+          "ProvisioningStep": "Provisioning Step",
+          "ProvisioningComplete": "Provisioning Complete",
+          "SettingsNotFound": "No Settings Found",
+          "SetupHomePageLayout": "Setting up Home Page Layout",
+          "SetupNavigationBar": "Setting up Navigation Bar",
+          "SetupNotificationPanel": "Setting up Notification Panel",
+          "SetupActionMenu": "Setting up Action Menu"
+        },
+        "Warning": {
+          "ValidPermission": {
+            "Description": "Unable to continue because you do not have permission to perform this. Termstore Administrator and Tenant Administrator are required."
+          },
+          "NotEnoughPermission": {
+            "Description": "In order to run the setup wizard you need to be a Tenant Administrator in Omnia and a Term Store Administrator in SharePoint."
+          },
+          "FeatureConsentRequired": {
+            "Title": "Feature Activation Consent Check",
+            "RedirectToConsentLink": "Redirect To Consent Link"
+          }
+        },
+        "Features": {
+          "CreateProfileWorkplace": {
+            "Contents": {
+              "CreateTeamworkTemplates": {
+                "Description": "We will setup teamwork templates for Department, Office and Project and provision three example teams including content."
+              }
+            }
+          },
+          "CreatingExampleCorporateCalendar": {
+            "Contents": {
+              "CreateCalendarAndEvent": {
+                "Description": "We will create a Corporate Calendar and add events to it and we will add some meetings to your personal calendar."
+              }
+            }
+          },
+          "SetupQuickPoll": {
+            "Contents": {
+              "QuickPoll": {
+                "Title": "Quick Poll"
+              }
+            }
+          },
+          "SetupEnterpriseSearch": {
+            "Title": "Setting up Enterprise Search"
+          },
+          "ActivateFeatureTeamworkCore": {
+            "Title": "Activate feature Teamwork Core"
+          },
+          "ActivateFeatureTeamworkProperties": {
+            "Title": "Activate feature Teamwork Properties"
+          },
+          "SetupSharepointTeamsiteTemplate": {
+            "Title": "Setting up Sharepoint teamsite template"
+          }
+        },
+        "Template": {
+          "BasicIntranet": {
+            "Title": "Basic Intranet"
+          },
+          "IntranetEssentials": {
+            "Title": "Intranet Essentials Startup"
+          },
+          "KnowledgeSharing": {
+            "Title": "Knowledge Sharing"
+          },
+          "NewsManagement": {
+            "Title": "News Management"
+          },
+          "LearningCenter": {
+            "Title": "Learning Center"
+          },
+          "EnterpriseSearch": {
+            "Title": "Enterprise Search"
+          }
+        },
+        "Steps": {
+          "SharedLink": "Shared Links"
+        },
+        "NewsManagement": {
+          "LocalNews": "Local News",
+          "GlobalNews": "Global News"
+        }
+      },
+      "NewsManagement": {
+        "Global": {
+          "News": {
+            "Global": {
+              "Editors": "Global News Editors",
+              "Authors": "Global News Authors",
+              "Approvers": "Global News Approvals",
+              "Readers": "Global News Readers",
+              "SelectLanguage": "Select Language"
+            }
+          }
+        },
+        "Local": {
+          "News": {
+            "Local": {
+              "Authors": "Local News Authors",
+              "Readers": "Local News Readers",
+              "OrganizationBelonging": "Organization (Belonging)",
+              "OrganizationSubscription": "Organization (Subscription)",
+              "LocationBelonging": "Location (Belonging)",
+              "LocationSubscription": "Location (Subscription)"
+            }
+          }
+        },
+        "Properties": {
+          "Local": {
+            "OrganizationBelonging": "Organization (Belonging)",
+            "OrganizationSubscription": "Organization (Subscription)",
+            "LocationBelonging": "Location (Belonging)",
+            "LocationSubscription": "Location (Subscription)"
+          },
+          "SelectTermSet": "Select Term Set"
+        }
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "BlockTitle": "People Rollup",
+      "Settings": {
+        "QueryType": "Query Type",
+        "QueryTypes": {
+          "ProfileQuery": "Profile Query",
+          "SharePointGroups": "SharePoint Groups",
+          "UserFieldsOnPage": "User Fields On Page",
+          "ActivityQuery": "Activity Query",
+          "Birthday": "Birthday"
+        },
+        "PagingType": {
+          "NoPaging": "No Paging"
+        },
+        "QueryValueOptions": {
+          "UserEmail": "User email",
+          "CurrentPageId": "Current page id"
+        },
+        "QueryConfigurationTypes": {
+          "UseQueryBuilder": "Use Query builder"
+        },
+        "SortBy": "Sort By",
+        "BorderRadius": "Border Radius",
+        "HideFilterButton": "Hide Filter",
+        "ShowFilterButton": "Show Filter",
+        "PageSize": "Page Size",
+        "ItemLimit": "Item Limit",
+        "AddColumn": "Add Column",
+        "AdjustColumns": "Adjust Columns",
+        "ActivityPoints": "Activity Points",
+        "OpenInDialog": "Open in Dialog",
+        "OpenInNewTab": "Open in New tab",
+        "SearchBoxOutlined": "Outlined Search Box",
+        "SearchBoxRounded": "Rounded Search Box",
+        "SearchBoxFilled": "Filled Search Box",
+        "ElevatedHeader": "Header Elevated",
+        "ZoneWidth": "Zone Width",
+        "NoResultText": "No Result Text",
+        "ColumnTab": {
+          "SelectedProperties": "Selected Properties",
+          "ShowLabel": "Show Label"
+        },
+        "CardView": {
+          "AvatarSize": "Avatar Size",
+          "TextSize": "Text Size",
+          "CardSpacing": "Card Spacing",
+          "TotalColumn": "Max no of Columns",
+          "ShowProfileImage": "Show Profile Image",
+          "ShowAchievement": "Show Badges",
+          "ShowStartChatAction": "Show Chat action",
+          "ShowStartCallAction": "Show Call action",
+          "Name": "Person Name",
+          "ProfileImageTop": "Profile Image Top",
+          "LargeHeader": "Large Header",
+          "BackgroundOnCard": "Background on Card",
+          "BackgroundOnHeader": "Background on Header",
+          "BackgroundOnProperties": "Background on Properties",
+          "CardColor": "Card Color",
+          "PropertyBackgroundColor": "Property Background Color",
+          "TextColor": "Text Color",
+          "BorderWidth": "Border Width",
+          "BorderColor": "Border Color",
+          "LabelPosition": {
+            "Title": "Label Position"
+          }
+        },
+        "Roller": {
+          "AutoCycle": "Auto Cycle",
+          "ShowProfileImage": "Show Profile Image",
+          "ShowAchievement": "Show Badges",
+          "MailIcon": "Mail Icon",
+          "CakeIcon": "Birthday Icon",
+          "Name": "Person Name",
+          "SlideHeight": "Slide Height",
+          "AlignOption": "Alignment Option",
+          "JustifyOption": "Justify Option",
+          "LayoutOptions": {
+            "SpaceAround": "Space Around",
+            "SpaceBetween": "Space Between"
+          }
+        },
+        "BirthdayPeriod": "Birthday Period",
+        "BirthdayProperty": "Birthday Property",
+        "DisplayName": "Display Name",
+        "ManualSort": "Manual Sort"
+      },
+      "Common": {
+        "TermSetNotFound": "Term Set not found"
+      },
+      "Dialog": {
+        "Labels": {
+          "Position": "Dialog Position"
+        }
+      },
+      "FilterEngine": {
+        "BuiltInTypes": {
+          "ScopeType": "Scope Type",
+          "UserType": "User Type"
+        }
+      },
+      "DeletedUser": "Deleted User",
+      "SendEmailAction": "Send email action"
+    },
+    "UserProfileCompletion": {
+      "UpdatePropertiesWizard": {
+        "ChangeProfilePhoto": "Change Image",
+        "AddFeedback": "Add Feedback",
+        "SaveAndClose": "Save and Close"
+      },
+      "Settings": {
+        "HideNameInText": "Hide User Name in Text",
+        "HidePercentageInText": "Hide Percentage in Text",
+        "BorderSize": "Border Size",
+        "TitleText": "Header Text",
+        "CompletedProfileText": "Completed Text",
+        "NotCompletedProfileText": "Not Completed Text",
+        "ConfirmationCloseEditingFormTitle": "Cancel editing User Profile Completeness"
+      },
+      "ProfileCompletion": {
+        "Headline": "My Profile",
+        "StrengthenProfileLegacy": "Strengthen Profile (Legacy)",
+        "StrengthenProfileButton": "Strengthen Profile",
+        "WebPart": {
+          "WebPartTitleLegacy": "Profile Completion (Legacy)"
+        }
+      },
+      "AdminSettings": {
+        "Titles": {
+          "ProfileCompletionAdminLegacy": "User Profile Completion (Legacy)",
+          "MappingTabTitle": "Property Mappings"
+        },
+        "Buttons": {
+          "AddPropertyMapping": "Add Mapping"
+        },
+        "Pattern": {
+          "ShowDialog": "Show Dialog",
+          "FeedbackEmail": "Feedback email",
+          "WeakLevelPercentage": "Percentage Level - Weak",
+          "GoodLevelPercentage": "Percentage Level - Good",
+          "DayOfWeeks": {
+            "WeekendDay": "Weekend Day"
+          },
+          "WeekOfMonth": {
+            "First": "First",
+            "Second": "Second",
+            "Third": "Third",
+            "Fourth": "Fourth",
+            "Last": "Last"
+          }
+        },
+        "PropertyMapping": {
+          "CompletenessImpact": "Completeness Impact",
+          "ReadyOnly": "Read-Only",
+          "AllowFeedback": "Allow Feedback",
+          "CustomTarget": "Custom Target",
+          "CustomTargetUrl": "Custom Target Url",
+          "DisplayTypes": {
+            "ProfilePicture": "Profile Picture",
+            "MultilineText": "Multiline Text",
+            "TermSet": "Term Set"
+          },
+          "SourceTypes": {
+            "SPUserProfile": "SharePoint User Profile",
+            "AzureAD": "Azure AD",
+            "OmniaSystemLanguage": "Omnia System Language"
+          }
+        }
+      }
+    }
+  },
+  "AppInstance": {
+    "PostsFeed": {
+      "Settings": {
+        "CardStyle": "Custom Card styling",
+        "Scope": {
+          "Option": {
+            "CurrentApp": "Current App",
+            "CustomScope": "Custom Scope"
+          },
+          "CustomType": {
+            "PublishingApps": "Publishing Apps",
+            "TeamWorkApps": "Teamwork Apps",
+            "BusinessProfiles": "Business Profiles"
+          }
+        },
+        "EnableOrgWidePosts": "Enable Organization-wide Posts",
+        "EnableMention": "Enable Mention",
+        "AllowLikes": "Allow Likes",
+        "AllowSoialReaction": "Allow Social Reactions"
+      }
+    }
+  }
+}
