@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Kích hoạt tính năng này để thêm 'GPT Image generate' vào bộ chọn phương tiện",
+        "PromptContent": "Các câu lệnh có thể bao gồm bất kỳ từ nào, nhưng hãy nghĩ về cách bạn có thể mô tả một hình ảnh cho ai đó. Cấu trúc \"chủ thể + tính từ + phong cách\" thường hoạt động tốt.",
+        "ImageStyle": "Phong cách hình ảnh"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Tỷ lệ cắt"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Vui lòng nhấn nút bên dưới để tiếp tục xác nhận của bạn"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Tính năng này yêu cầu các tham số cấu hình phải được thiết lập theo chương trình và không thể kích hoạt."
+    }
+  }
+}
