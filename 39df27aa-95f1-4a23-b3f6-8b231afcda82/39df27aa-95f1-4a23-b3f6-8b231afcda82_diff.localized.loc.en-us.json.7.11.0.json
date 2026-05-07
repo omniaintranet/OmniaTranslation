@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Logs",
+        "IndexLogs": "Index Logs",
+        "QueryLogs": "Query Logs",
+        "StartedAt": "Started At",
+        "FinishedAt": "Finished At",
+        "State": "State",
+        "ErrorMessage": "Error Message",
+        "ErrorDetails": "Error Details",
+        "ViewError": "View error",
+        "NoLogs": "No logs found"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Experimental - Copilot Chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Navigate without variation"
+      }
+    }
+  }
+}
