@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Activate this feature to add 'GPT Image generate' to the media picker",
+        "PromptContent": "Prompts can be composed of any words, but think about how you may explain an image to someone. The form \"subject + adjectives + styles\" tends to work well.",
+        "ImageStyle": "Image style"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Crop ratios"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Please click the button below to proceed with your confirmation"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "This feature requires configuration parameters that must be set programmatically and cannot be activated."
+    }
+  }
+}
