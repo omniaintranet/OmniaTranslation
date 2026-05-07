@@ -1,0 +1,17 @@
+{
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Mijn agenda"
+        }
+      },
+      "Feature": {
+        "Description": "Maakt het mogelijk om te integreren met Exchange Server."
+      },
+      "Admin": {
+        "ExchangeServerUrl": "Exchange webserver-URL"
+      }
+    }
+  }
+}
