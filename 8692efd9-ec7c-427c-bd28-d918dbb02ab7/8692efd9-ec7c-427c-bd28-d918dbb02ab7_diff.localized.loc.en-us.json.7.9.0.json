@@ -1,0 +1,109 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "PageDefaultChannelName": "Page default channel name",
+        "UserChannelSubscription": "User Channel Subscription",
+        "ExcludeVariations": "Exclude Variations",
+        "AppInstances": "App Instances",
+        "SelectAppInstance": "Select App",
+        "AdditionalFeatures": {
+          "Title": "Omnia Feed Additional Features",
+          "SupportPageChannel": {
+            "Title": "Support Page Channel",
+            "Description": "Enable sync page channels and support user channels subscription query in tenant scope"
+          }
+        },
+        "ServerDetectionModes": {
+          "AddOrUpdate": "AddOrUpdate",
+          "AutomaticPageTranslationFinished": "VariationPageTranslation"
+        },
+        "SortByItemDate": "Item Date (Feed Built-in)",
+        "SignOffRequest": {
+          "Scopes": {
+            "AllRequests": "All Requests"
+          },
+          "Properties": {
+            "TitleAndLink": "Title and Link",
+            "ProgressStatus": "Progress Status",
+            "TotalNoOfRequests": "Total no of requests"
+          }
+        },
+        "UserProfileConfiguration": {
+          "Title": "User Profile Configuration",
+          "Description": "Add the user properties that would you like to use as user profile in setting screen",
+          "UserProperties": "User Properties",
+          "RemoveUserProperty": "Remove User Property",
+          "ColumnName": "User Property",
+          "InvaildValue": "Invaild Value"
+        },
+        "FormReadableForAll": {
+          "Title": "Form Readable For All"
+        },
+        "OmniaUserLoginScreen": {
+          "Title": "Omnia User Login Screen"
+        },
+        "PDFViewer": {
+          "Title": "PDF Viewer",
+          "EnablePDFViewer": "Enable PDF Viewer in app"
+        },
+        "ResyncNewsArticles": {
+          "Title": "Tabs Content Resync",
+          "Description": "When you click on the below button, news articles belong to this business profile will be deleted and re-synced again.",
+          "ConfirmationMessage": "Are you sure you want to re-sync news articles for this business profile?",
+          "Progress": "Re-sync news articles for this business profile is running",
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Re-sync is processing, it can take some time to finish."
+        },
+        "ResyncUsers": {
+          "Title": "Users Resync",
+          "SyncAllUsersDescription": "Resync all available users in tenant. This will sync every users with all news data",
+          "ResyncAllUsersBtn": "Resync All Users",
+          "ResyncSelectedUserBtn": "Resync Users",
+          "SelectTypesLabel": "User Types to resync",
+          "BusinessProfileHint": "Select business profile to resync users",
+          "Dialog": {
+            "MessageResyncUsers": "Do you want to resync for these users?",
+            "MessageRetryResyncAllUsers": "Are you really sure you want to retry resync users again?"
+          },
+          "ResyncStatus": {
+            "None": "Not Started",
+            "InProgress": "In Progress"
+          },
+          "Progression": {
+            "TrackingId": "Tracking Id",
+            "UserTypesResynced": "User Types resynced"
+          }
+        },
+        "UnpublishedBPWarning": "This business profile is not published yet. Publish this business profile to use this function.",
+        "EventsFilter": {
+          "Title": "Whitelist Events filter"
+        }
+      },
+      "Common": {
+        "AlternativeTags": "Alternative Tags",
+        "MultipleQuery": "Multiple Query"
+      },
+      "Features": {
+        "AzureIntune": {
+          "Description": "Enable using Azure Intune with Omnia Feed app"
+        }
+      },
+      "MultipleQuery": {
+        "Title": {
+          "SignOffRequests": "Sign Off Requests"
+        }
+      },
+      "App": {
+        "ReAuthScreen": {
+          "textReauthLoginReminder": "Open app to login and receive notifications from Omnia!"
+        },
+        "FormScreen": {
+          "textYouHaveAlreadyResponded": "You've already responded."
+        },
+        "Commons": {
+          "titleMediaGallery": "Media Gallery"
+        }
+      }
+    }
+  }
+}
