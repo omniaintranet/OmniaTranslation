@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi 'GPT Image generate' mediavalitsimeen",
+        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi 'GPT Image' mediavalitsimeen",
         "PromptContent": "Kehotteet voivat koostua mistä tahansa sanoista, mutta mieti, miten selittäisit kuvaa jollekin. Muoto \"aihe + adjektiivit + tyylit\" toimii yleensä hyvin.",
         "ImageStyle": "Kuvatyylit"
       },
