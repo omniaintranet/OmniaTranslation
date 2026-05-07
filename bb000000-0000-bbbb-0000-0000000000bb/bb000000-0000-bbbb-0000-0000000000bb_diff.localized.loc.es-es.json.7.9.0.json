@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Active esta función para añadir 'GPT Image' al selector de medios",
+        "PromptContent": "Los prompts pueden estar compuestos por cualquier palabra, pero piensa en cómo explicarías una imagen a alguien. La forma \"sujeto + adjetivos + estilos\" suele funcionar bien.",
+        "ImageStyle": "Estilo de imagen"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Proporciones de recorte"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Por favor, haz clic en el botón de abajo para proceder con tu confirmación"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Esta función requiere parámetros de configuración que deben establecerse programáticamente y no se pueden activar."
+    }
+  }
+}

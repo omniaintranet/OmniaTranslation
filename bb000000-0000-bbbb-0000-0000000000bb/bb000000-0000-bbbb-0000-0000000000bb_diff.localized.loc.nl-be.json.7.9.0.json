@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Activeer deze functie om 'GPT Image' toe te voegen aan de media picker",
+        "PromptContent": "Prompts kunnen uit willekeurige woorden bestaan, maar denk eraan hoe je een afbeelding aan iemand zou uitleggen. De vorm \"onderwerp + bijvoeglijke naamwoorden + stijlen\" werkt meestal goed.",
+        "ImageStyle": "Afbeeldingsstijl"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Bijsnijdverhoudingen"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Klik op de onderstaande knop om door te gaan met uw bevestiging"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Deze functie vereist configuratieparameters die programmatisch moeten worden ingesteld en kan niet worden geactiveerd."
+    }
+  }
+}

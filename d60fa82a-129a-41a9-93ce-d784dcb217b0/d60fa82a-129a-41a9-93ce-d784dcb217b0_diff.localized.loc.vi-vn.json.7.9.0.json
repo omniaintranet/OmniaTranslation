@@ -1,0 +1,17 @@
+{
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Lịch của tôi"
+        }
+      },
+      "Feature": {
+        "Description": "Cho phép tích hợp với Exchange Server."
+      },
+      "Admin": {
+        "ExchangeServerUrl": "URL máy chủ web Exchange"
+      }
+    }
+  }
+}

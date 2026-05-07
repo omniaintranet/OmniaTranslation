@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "激活此功能以将“GPT 图像生成”添加到媒体选择器",
+        "PromptContent": "提示可以由任何词语组成，但请考虑如何向他人描述一幅图像。形式为“主体 + 形容词 + 风格”通常效果较好。",
+        "ImageStyle": "图像风格"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "裁剪比例"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "请点击下面的按钮以继续确认"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "此功能需要必须通过编程设置的配置参数，无法激活。"
+    }
+  }
+}

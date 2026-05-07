@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Aktiver denne funksjonen for å legge til 'GPT Image' i medievelgeren",
+        "PromptContent": "Prompt kan bestå av hvilke som helst ord, men tenk på hvordan du kan forklare et bilde til noen. Formen «subjekt + adjektiver + stiler» fungerer som regel godt.",
+        "ImageStyle": "Bildestil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Beskjæringsforhold"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Vennligst klikk på knappen nedenfor for å fortsette med din bekreftelse"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Denne funksjonen krever konfigurasjonsparametere som må settes programmessig og kan ikke aktiveres."
+    }
+  }
+}

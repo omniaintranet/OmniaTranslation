@@ -1,0 +1,24 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Activez cette fonctionnalité pour ajouter 'GPT Image' au sélecteur de médias",
+        "PromptContent": "Les invites peuvent être composées de n'importe quels mots, mais pensez à la manière dont vous expliqueriez une image à quelqu'un. La forme « sujet + adjectifs + styles » fonctionne généralement bien.",
+        "ImageStyle": "Style d'image"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Rapports de recadrage"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Veuillez cliquer sur le bouton ci-dessous pour procéder à votre confirmation"
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Cette fonctionnalité nécessite des paramètres de configuration qui doivent être définis par programmation et ne peut pas être activée."
+    }
+  }
+}
