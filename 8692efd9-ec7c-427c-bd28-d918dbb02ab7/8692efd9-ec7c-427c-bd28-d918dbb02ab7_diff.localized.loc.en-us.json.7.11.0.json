@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabIconFabricNotAllowedMessage": "Fabric icons are deprecated and not allowed. Please choose another icon type."
+      },
+      "App": {
+        "Commons": {
+          "titleAnnouncement": "Announcement"
+        },
+        "Notification": {
+          "SignOffRequestSiteTitle": "Sign-off Request"
+        }
+      }
+    }
+  }
+}
