@@ -5,7 +5,7 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Legg til eller oppdater",
           "Delete": "Slett",
-          "AutomaticPageTranslationFinished": "Variasjonssideoversettelse"
+          "AutomaticPageTranslationFinished": "Oversettelse af sidevariasjonen"
         },
         "SortByItemDate": "Elementdato (Feed innebygd)",
         "SignOffRequest": {
