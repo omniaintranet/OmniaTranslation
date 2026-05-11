@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send en varsling til brukere som ikke har fullført forespørselen når den er lukket"
+        }
+      },
+      "Submenu": {
+        "Layout": "Layout-innstillinger"
+      },
+      "Buttons": {
+        "CreateDraft": "Opprett utkast"
+      },
+      "Settings": {
+        "HeaderTextColor": "Overskriftstekstfarge",
+        "DefaultChannel": "Standardkanal",
+        "TenantScopeQuery": "Tenant-omfangsforespørsel",
+        "EnableLayoutEngine": "Aktiver layoutmotor",
+        "AddScopeQuery": "Legg til omfangsforespørsel",
+        "InvalidUrlInContentSectionValidateMessage": "Ugyldig eller manglende URL i innholdsseksjonen.",
+        "TabIconFabricNotAllowedMessage": "Fabric-ikoner er foreldet og ikke tillatt. Vennligst velg en annen ikon-type.",
+        "DeleteUsers": {
+          "Title": "Slett brukere",
+          "ExclusionModelHint": "I denne modusen vil valgte brukertyper bli ekskludert fra sletting."
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "Vil du migrere spørringsfanen til en flerspørringsfane?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Egendefinert styleSheet-stil",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "Vil du aktivere migrering av layoutmotor?"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "Versjonshistorikk"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Aktiverer bruk av Omnia Entra ID-app i stedet for Omnia Feed Entra ID-app."
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Du må legge til minst én layout.",
+          "NoLayoutSelectedValidateMessage": "Du må legge til minst én layout i Visningsseksjonen."
+        },
+        "PreviewersOnly": "Kun forhåndsvisere",
+        "LegacyOnly": "Kun eldre"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Ikon- og tekststørrelse' må være større enn 0 når det er spesifisert."
+        },
+        "TagsBlock": {
+          "ShowIcon": "Vis ikon foran tag",
+          "IconAndTextColor": "Ikon- og tekstfarge",
+          "IconAndTextSize": "Ikon- og tekststørrelse",
+          "FixedValue": "Fast verdi"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "Avatar og visningsnavn",
+            "IconAndDisplayName": "Ikon og visningsnavn"
+          },
+          "IconAndTextColor": "Ikon- og tekstfarge",
+          "IconAndTextSize": "Ikon- og tekststørrelse"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "Datoformatet er ikke korrekt",
+          "ShowIcon": "Vis ikon foran dato",
+          "IconAndTextColor": "Ikon- og tekstfarge",
+          "IconAndTextSize": "Ikon- og tekststørrelse"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Relaterte lenker"
+        },
+        "DateRangeBlock": {
+          "Title": "Datoperiode",
+          "IconAndTextColor": "Ikon- og tekstfarge",
+          "IconAndTextSize": "Ikon- og tekststørrelse"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "Ikon- og tekststørrelse"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "Tekststil",
+          "IconAndTextSize": "Ikon- og tekststørrelse"
+        },
+        "ShareButtonBlock": {
+          "Title": "Del-knapp",
+          "IconSize": "Ikonstørrelse",
+          "IconColor": "Ikonfarge"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Kompakt skrivebeskyttet"
+          },
+          "Title": "Legg til som favoritt-knapp"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Dag i uken"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "Til venstre for teksten",
+            "RightOfText": "Til høyre for teksten"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Bekreft avbrytelse",
+          "ConfirmSave": "Bekreft lagring"
+        },
+        "SelectUserToPreviewTheLayout": "Velg bruker for å forhåndsvise layouten",
+        "Templates": {
+          "FeedLayout": "Feed-layout"
+        },
+        "NoDefinitionToExport": "Det finnes ingen definisjonsdata å eksportere",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Du må legge til minst én sidetype."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Utvidelsesadministrator"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Logg ut",
+          "btnReply": "Svar",
+          "btnComment": "Legg inn kommentar",
+          "btnOpenFile": "Åpne fil",
+          "textPhoneRequired": "Du må oppgi et telefonnummer",
+          "textDomainInputError": "Domenet du skrev inn er ikke gyldig.",
+          "textPhoneCountryCodeError": "Telefonnummeret du skrev inn er ikke gyldig. Sørg for at det virkelig er ditt telefonnummer med landskode.",
+          "textLoadFailed": "Innlasting av data mislyktes, trykk her for å prøve igjen",
+          "textNoData": "Ingen data. Trykk her for å prøve igjen.",
+          "textNumberOfResponses": "Antall svar: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Vennligst skriv inn svarene dine",
+          "titleKaizalaSignIn": "Logg inn for å fortsette",
+          "titleSignOffRequest": "Signeringsforespørsel",
+          "titleAnnouncement": "Kunngjøring",
+          "titleOmniaLogin": "Omnia-pålogging",
+          "titleGroupNews": "Gruppenyheter",
+          "titleOpenJobs": "Ledige stillinger",
+          "OmniaWebView": {
+            "textLoadingWarning": "Vennligst vent et øyeblikk. Vi prøver å løse problemet med innlasting av Omnia-siden.",
+            "textLoadingError": "Hvis du fortsatt har problemer med å laste Omnia-siden, vennligst trykk på oppdateringsknappen."
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Oppdater Omnia-språk",
+            "body": "Vil du sette Omnia-språket til enhetens språk {nameLanguage}?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "Mislykket kommentar vil bli slettet.",
+            "textAsk": "Vil du gå til siden for å legge til kommentar igjen?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "Den slettede kommentaren vil bli gjenopprettet.",
+            "textAsk": "Vil du gå til siden og slette kommentaren igjen?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "Den redigerte kommentaren vil bli gjenopprettet.",
+            "textAsk": "Vil du gå til siden og redigere kommentaren igjen?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "Du kan installere en støtteapp for å åpne denne lenken:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed feilmelding",
+            "message": "Dette er en feilsøkingsloggfil",
+            "subject": "Feilmelding"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Det oppstod en feil i Omnia Feed"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har støtt på en kritisk feil. Hvis du ser dette problemet, prøv å tilbakestille appdata og åpne appen på nytt."
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Appoppdatering kreves",
+            "Body": "Du må oppdatere appen for å fortsette å bruke den. Vennligst installer siste versjon fra {appStoreTitle}"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Denne forespørselen sendt til deg fra {requestedBy} den {requestTime} er lukket",
+          "SignOffRequestSiteTitle": "Signeringsforespørsel"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Omnia Feed publiseringsinfo",
+              "Content": {
+                "Message": {
+                  "NoInfo": "Denne siden er ikke synkronisert til Omnia Feed under gjeldende konfigurasjon.",
+                  "Error": "Det er et problem med synkroniseringsprosessen. Vennligst sjekk loggen nedenfor."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
