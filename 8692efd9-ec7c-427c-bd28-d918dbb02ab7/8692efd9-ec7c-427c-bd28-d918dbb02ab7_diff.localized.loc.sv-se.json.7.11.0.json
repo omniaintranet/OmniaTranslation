@@ -13,16 +13,16 @@
         "CreateDraft": "Skapa utkast"
       },
       "Settings": {
-        "HeaderTextColor": "Rubriktextfärg",
+        "HeaderTextColor": "Textfärg för rubrik",
         "DefaultChannel": "Standardkanal",
         "TenantScopeQuery": "Tenant scope-fråga",
         "EnableLayoutEngine": "Aktivera layoutmotor",
         "AddScopeQuery": "Lägg till scope-fråga",
         "InvalidUrlInContentSectionValidateMessage": "Ogiltig eller saknad URL i innehållssektionen.",
-        "TabIconFabricNotAllowedMessage": "Fabric-ikoner är föråldrade och tillåtna. Vänligen välj en annan ikon typ.",
+        "TabIconFabricNotAllowedMessage": "Fabric-ikoner är föråldrade och inte längre tillåtna. Vänligen välj en annan ikontyp.",
         "DeleteUsers": {
           "Title": "Ta bort användare",
-          "ExclusionModelHint": "I detta läge kommer valda användartyper att undantas från borttagning."
+          "ExclusionModelHint": "I detta arbetsläge kommer valda användartyper att undantas från borttagning."
         },
         "MigrateQueryTabToMultipleQueryTab": {
           "Dialog": {
@@ -50,7 +50,7 @@
           "NoLayoutSelectedValidateMessage": "Du måste lägga till minst en layout i visningssektionen."
         },
         "PreviewersOnly": "Endast för förhandsgranskare",
-        "LegacyOnly": "Endast äldre"
+        "LegacyOnly": "Endast legacy"
       },
       "Blocks": {
         "Common": {
@@ -98,7 +98,7 @@
         },
         "AddFavoriteButtonBlock": {
           "RenderMode": {
-            "CompactReadonly": "Kompakt skrivskyddad"
+            "CompactReadonly": "Kompakt skrivskyddad (Read-only)"
           },
           "Title": "Lägg till som favorit-knapp"
         },
@@ -140,12 +140,12 @@
           "textPhoneRequired": "Du måste ange ett telefonnummer",
           "textDomainInputError": "Domänen du angav är inte giltig.",
           "textPhoneCountryCodeError": "Telefonnumret du angav är inte giltigt. Kontrollera att det verkligen är ditt telefonnummer med landskod.",
-          "textLoadFailed": "Laddning av data misslyckades, tryck här för att försöka igen",
+          "textLoadFailed": "Laddning av data misslyckades, tryck här för att försöka igen.",
           "textNoData": "Inga data. Tryck här för att försöka igen.",
           "textNumberOfResponses": "Antal svar: {noOfResponses}",
           "textPleaseWriteYourAnswers": "Vänligen skriv dina svar",
           "titleKaizalaSignIn": "Logga in för att fortsätta",
-          "titleSignOffRequest": "Godkännandeförfrågan",
+          "titleSignOffRequest": "Förfrågan om godkännande",
           "titleAnnouncement": "Meddelande",
           "titleOmniaLogin": "Omnia-inloggning",
           "titleGroupNews": "Gruppnyheter",
@@ -159,7 +159,7 @@
             "body": "Vill du ställa in Omnia-språket efter enhetens språk {nameLanguage}?"
           },
           "AlertAddCommentFail": {
-            "textInform": "Misslyckad kommentar kommer att tas bort.",
+            "textInform": "Den kommentar som inte kunde läggas in kommer att tas bort.",
             "textAsk": "Vill du gå till sidan för att lägga till kommentaren igen?"
           },
           "AlertDeleteCommentFail": {
@@ -177,23 +177,23 @@
           },
           "ShareLogsFileOptions": {
             "title": "Omnia Feed felrapportering",
-            "message": "Detta är en felsökningsloggfil",
+            "message": "Detta är en loggfil för felsökning",
             "subject": "Felrapportering"
           },
           "ErrorBoundary": {
             "textAnErrorOccoredInOmniaFeed": "Ett fel uppstod i Omnia Feed"
           },
           "FatalErrorBoundary": {
-            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har stött på ett allvarligt fel. Om du ser detta problem, försök återställa appdata och öppna sedan appen igen."
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Appen har stött på ett allvarligt fel. Försök återställa appdata och öppna sedan appen igen."
           },
           "AlertUpdateAppRequired": {
-            "Title": "Appuppdatering krävs",
+            "Title": "Uppdatering av appen krävs",
             "Body": "Du måste uppdatera appen för att fortsätta använda den. Vänligen installera senaste versionen från {appStoreTitle}"
           }
         },
         "Notification": {
           "ClosingSignOffRequest": "Denna förfrågan som skickades till dig från {requestedBy} den {requestTime} har stängts",
-          "SignOffRequestSiteTitle": "Godkännandeförfrågan"
+          "SignOffRequestSiteTitle": "Förfrågan om godkännande"
         }
       },
       "PageRollup": {
