@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Loggar",
+        "IndexLogs": "Indexloggar",
+        "QueryLogs": "Frågeloggar",
+        "StartedAt": "Startade vid",
+        "FinishedAt": "Avslutades vid",
+        "State": "Status",
+        "ErrorMessage": "Felmeddelande",
+        "ErrorDetails": "Fel detaljer",
+        "ViewError": "Visa fel",
+        "NoLogs": "Inga loggar hittades"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Experimentell - Copilot chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Navigera utan variation"
+      }
+    }
+  }
+}
