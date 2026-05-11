@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Lokit",
+        "IndexLogs": "Indeksilokit",
+        "QueryLogs": "Kyselylokit",
+        "StartedAt": "Aloitettu",
+        "FinishedAt": "Valmistunut",
+        "State": "Tila",
+        "ErrorMessage": "Virheilmoitus",
+        "ErrorDetails": "Virheen tiedot",
+        "ViewError": "Näytä virhe",
+        "NoLogs": "Lokeja ei löytynyt"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Kokeellinen - Copilot chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Siirry ilman variaatiota"
+      }
+    }
+  }
+}
