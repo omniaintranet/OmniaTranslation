@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Stuur een melding naar gebruikers die het verzoek niet hebben voltooid wanneer het is gesloten"
+        }
+      },
+      "Submenu": {
+        "Layout": "Lay-out instellingen"
+      },
+      "Buttons": {
+        "CreateDraft": "Concept aanmaken"
+      },
+      "Settings": {
+        "HeaderTextColor": "Koptekst tekstkleur",
+        "DefaultChannel": "Standaard kanaal",
+        "TenantScopeQuery": "Tenant scope query",
+        "EnableLayoutEngine": "Lay-out engine inschakelen",
+        "AddScopeQuery": "Scope query toevoegen",
+        "InvalidUrlInContentSectionValidateMessage": "Ongeldige of ontbrekende URL in de inhoudssectie.",
+        "TabIconFabricNotAllowedMessage": "Fabric-pictogrammen zijn verouderd en niet toegestaan. Kies een ander pictogramtype.",
+        "DeleteUsers": {
+          "Title": "Gebruikers verwijderen",
+          "ExclusionModelHint": "In deze modus worden geselecteerde gebruikerstypen uitgesloten van verwijdering."
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "Wilt u het query-tabblad migreren naar een meervoudig query-tabblad?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Aangepaste styleSheet-stijl",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "Wilt u de migratie van de lay-out engine activeren?"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "Versiegeschiedenis"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Maakt het gebruik van de Omnia Entra ID-app mogelijk in plaats van de Omnia Feed Entra ID-app."
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "U moet ten minste één lay-out toevoegen.",
+          "NoLayoutSelectedValidateMessage": "U moet ten minste één lay-out toevoegen in de weergavesectie."
+        },
+        "PreviewersOnly": "Alleen previewers",
+        "LegacyOnly": "Alleen legacy"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Pictogram- en tekstgrootte' moet groter zijn dan 0 wanneer opgegeven."
+        },
+        "TagsBlock": {
+          "ShowIcon": "Pictogram vóór tag tonen",
+          "IconAndTextColor": "Pictogram- en tekstkleur",
+          "IconAndTextSize": "Pictogram- en tekstgrootte",
+          "FixedValue": "Vaste waarde"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "Avatar en weergavenaam",
+            "IconAndDisplayName": "Pictogram en weergavenaam"
+          },
+          "IconAndTextColor": "Pictogram- en tekstkleur",
+          "IconAndTextSize": "Pictogram- en tekstgrootte"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "Het datumformaat is niet correct",
+          "ShowIcon": "Pictogram vóór datum tonen",
+          "IconAndTextColor": "Pictogram- en tekstkleur",
+          "IconAndTextSize": "Pictogram- en tekstgrootte"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Gerelateerde links"
+        },
+        "DateRangeBlock": {
+          "Title": "Datumbereik",
+          "IconAndTextColor": "Pictogram- en tekstkleur",
+          "IconAndTextSize": "Pictogram- en tekstgrootte"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "Pictogram- en tekstgrootte"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "Tekststijl",
+          "IconAndTextSize": "Pictogram- en tekstgrootte"
+        },
+        "ShareButtonBlock": {
+          "Title": "Deelknop",
+          "IconSize": "Pictogramgrootte",
+          "IconColor": "Pictogramkleur"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compact alleen-lezen"
+          },
+          "Title": "Toevoegen als favoriet knop"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Dag in week"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "Links van de tekst",
+            "RightOfText": "Rechts van de tekst"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Annulering bevestigen",
+          "ConfirmSave": "Opslaan bevestigen"
+        },
+        "SelectUserToPreviewTheLayout": "Selecteer gebruiker om de lay-out te bekijken",
+        "Templates": {
+          "FeedLayout": "Feed lay-out"
+        },
+        "NoDefinitionToExport": "Er zijn geen definitiegegevens om te exporteren",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "U moet ten minste één paginatype toevoegen."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Extensiebeheerder"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Uitloggen",
+          "btnReply": "Beantwoorden",
+          "btnComment": "Reactie plaatsen",
+          "btnOpenFile": "Bestand openen",
+          "textPhoneRequired": "U moet een telefoonnummer invoeren",
+          "textDomainInputError": "De ingevoerde domeinnaam is niet geldig.",
+          "textPhoneCountryCodeError": "Het ingevoerde telefoonnummer is niet geldig. Zorg dat het echt uw telefoonnummer is met landcode.",
+          "textLoadFailed": "Gegevens laden mislukt, tik hier om opnieuw te proberen",
+          "textNoData": "Geen gegevens. Tik hier om het opnieuw te proberen.",
+          "textNumberOfResponses": "Aantal reacties: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Schrijf alstublieft uw antwoorden",
+          "titleKaizalaSignIn": "Meld u aan om door te gaan",
+          "titleSignOffRequest": "Afmeldverzoek",
+          "titleAnnouncement": "Aankondiging",
+          "titleOmniaLogin": "Omnia aanmelding",
+          "titleGroupNews": "Groepsnieuws",
+          "titleOpenJobs": "Openstaande vacatures",
+          "OmniaWebView": {
+            "textLoadingWarning": "Wacht even. We proberen het probleem bij het laden van de Omnia-pagina op te lossen.",
+            "textLoadingError": "Als u nog steeds problemen hebt met het laden van de Omnia-pagina, druk dan op de vernieuwknop."
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Omnia taal bijwerken",
+            "body": "Wilt u de Omnia-taal instellen op de apparaattaal {nameLanguage}?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "Mislukte reactie wordt verwijderd.",
+            "textAsk": "Wilt u opnieuw naar de pagina gaan om een reactie toe te voegen?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "De verwijderde reactie wordt hersteld.",
+            "textAsk": "Wilt u opnieuw naar de pagina gaan om de reactie te verwijderen?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "De bewerkte reactie wordt hersteld.",
+            "textAsk": "Wilt u opnieuw naar de pagina gaan om de reactie te bewerken?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "U kunt een ondersteunende app installeren om deze link te openen:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed probleemrapportage",
+            "message": "Dit is een debug-logbestand",
+            "subject": "Probleemrapportage"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Er is een fout opgetreden in Omnia Feed"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "De app heeft een fatale fout ondervonden. Als u dit probleem ziet, probeer dan de app-gegevens te resetten en open de app opnieuw."
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "App-update vereist",
+            "Body": "U moet de app bijwerken om deze te blijven gebruiken. Installeer de nieuwste versie van {appStoreTitle}"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Dit verzoek dat u is gestuurd door {requestedBy} op {requestTime} is gesloten",
+          "SignOffRequestSiteTitle": "Afmeldverzoek"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Omnia Feed publicatie-informatie",
+              "Content": {
+                "Message": {
+                  "NoInfo": "Deze pagina is niet gesynchroniseerd met Omnia Feed onder de huidige configuratie.",
+                  "Error": "Er is een probleem met het synchronisatieproces. Controleer de onderstaande log."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
