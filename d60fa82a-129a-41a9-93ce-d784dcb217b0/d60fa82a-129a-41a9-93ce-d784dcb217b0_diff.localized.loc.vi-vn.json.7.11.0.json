@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByBeingEditedByOtherUser": "Hành động không thể tiếp tục vì trang này hiện đang được người dùng khác chỉnh sửa."
+          }
+        }
+      }
+    }
+  }
+}
