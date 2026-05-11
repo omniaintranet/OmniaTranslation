@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByBeingEditedByOtherUser": "无法继续此操作，因为该页面当前正被其他用户编辑。"
+          }
+        }
+      }
+    }
+  }
+}
