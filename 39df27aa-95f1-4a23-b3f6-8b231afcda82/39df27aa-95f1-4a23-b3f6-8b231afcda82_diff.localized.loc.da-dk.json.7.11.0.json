@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Logger",
+        "IndexLogs": "Indekslogger",
+        "QueryLogs": "Forespørgselslogger",
+        "StartedAt": "Startet kl.",
+        "FinishedAt": "Færdig kl.",
+        "State": "Status",
+        "ErrorMessage": "Fejlmeddelelse",
+        "ErrorDetails": "Fejldetaljer",
+        "ViewError": "Se fejl",
+        "NoLogs": "Ingen logger fundet"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Eksperimentel - Copilot chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Naviger uden variation"
+      }
+    }
+  }
+}
