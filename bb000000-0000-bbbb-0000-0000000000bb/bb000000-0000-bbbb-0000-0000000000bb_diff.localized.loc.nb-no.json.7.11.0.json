@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankernavn kan kun inneholde bokstaver, tall, mellomrom og bindestreker."
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Denne funksjonen krever konfigurasjonsparametere som må settes programmessig og kan ikke aktiveres."
+    }
+  }
+}
