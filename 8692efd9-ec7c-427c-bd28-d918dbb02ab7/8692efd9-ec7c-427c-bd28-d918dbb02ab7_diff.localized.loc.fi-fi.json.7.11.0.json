@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Lähetä ilmoitus käyttäjille, jotka eivät ole suorittaneet pyyntöä, kun se on suljettu"
+        }
+      },
+      "Submenu": {
+        "Layout": "Asetukset asettelulle"
+      },
+      "Buttons": {
+        "CreateDraft": "Luo luonnos"
+      },
+      "Settings": {
+        "HeaderTextColor": "Otsikon tekstin väri",
+        "DefaultChannel": "Oletuskanava",
+        "TenantScopeQuery": "Tenantin laajuuskysely",
+        "EnableLayoutEngine": "Ota asettelumoottori käyttöön",
+        "AddScopeQuery": "Lisää laajuuskysely",
+        "InvalidUrlInContentSectionValidateMessage": "Virheellinen tai puuttuva URL Sisältö-osiossa.",
+        "TabIconFabricNotAllowedMessage": "Fabric-kuvakkeet ovat vanhentuneita eikä niitä sallita. Valitse toinen kuvaketyyppi.",
+        "DeleteUsers": {
+          "Title": "Poista käyttäjät",
+          "ExclusionModelHint": "Tässä tilassa valitut käyttäjätyypit suljetaan pois poistosta."
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "Haluatko siirtää kyselyvälilehden monikyselyvälilehdeksi?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Mukautettu styleSheet-tyyli",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "Haluatko aktivoida asettelumoottorin siirron?"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "Versiohistoria"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Mahdollistaa Omnia Entra ID -sovelluksen käytön Omnia Feed Entra ID -sovelluksen sijaan."
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Sinun täytyy lisätä vähintään yksi asettelu.",
+          "NoLayoutSelectedValidateMessage": "Sinun täytyy lisätä vähintään yksi asettelu Näyttö-osioon."
+        },
+        "PreviewersOnly": "Vain esikatselijat",
+        "LegacyOnly": "Vain perintö"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Kuvakkeen ja tekstin koko' on oltava suurempi kuin 0, kun se on määritetty."
+        },
+        "TagsBlock": {
+          "ShowIcon": "Näytä kuvake tunnisteen edessä",
+          "IconAndTextColor": "Kuvakkeen ja tekstin väri",
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko",
+          "FixedValue": "Kiinteä arvo"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "Avatar ja näyttönimi",
+            "IconAndDisplayName": "Kuvake ja näyttönimi"
+          },
+          "IconAndTextColor": "Kuvakkeen ja tekstin väri",
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "Päivämäärämuoto ei ole oikea",
+          "ShowIcon": "Näytä kuvake päivämäärän edessä",
+          "IconAndTextColor": "Kuvakkeen ja tekstin väri",
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Liittyvät linkit"
+        },
+        "DateRangeBlock": {
+          "Title": "Päivämääräväli",
+          "IconAndTextColor": "Kuvakkeen ja tekstin väri",
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "Tekstin tyyli",
+          "IconAndTextSize": "Kuvakkeen ja tekstin koko"
+        },
+        "ShareButtonBlock": {
+          "Title": "Jaa-painike",
+          "IconSize": "Kuvakkeen koko",
+          "IconColor": "Kuvakkeen väri"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Tiivis vain luku -tila"
+          },
+          "Title": "Lisää suosikkeihin -painike"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Päivä viikossa"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "Tekstin vasemmalla puolella",
+            "RightOfText": "Tekstin oikealla puolella"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Vahvista peruutus",
+          "ConfirmSave": "Vahvista tallennus"
+        },
+        "SelectUserToPreviewTheLayout": "Valitse käyttäjä esikatsellaksesi asettelua",
+        "Templates": {
+          "FeedLayout": "Feed-asettelu"
+        },
+        "NoDefinitionToExport": "Ei vientiin vietävää määritelmätietoa",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Sinun täytyy lisätä vähintään yksi sivutyyppi."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Laajennuksen ylläpitäjä"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Kirjaudu ulos",
+          "btnReply": "Vastaa",
+          "btnComment": "Lähetä kommentti",
+          "btnOpenFile": "Avaa tiedosto",
+          "textPhoneRequired": "Sinun on annettava puhelinnumero",
+          "textDomainInputError": "Antamasi toimialue ei ole kelvollinen.",
+          "textPhoneCountryCodeError": "Antamasi puhelinnumero ei ole kelvollinen. Varmista, että se on oikea puhelinnumerosi maatunnuksella.",
+          "textLoadFailed": "Tietojen lataus epäonnistui, napauta tästä yrittääksesi uudelleen",
+          "textNoData": "Ei tietoja. Napauta tästä yrittääksesi uudelleen.",
+          "textNumberOfResponses": "Vastausten määrä: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Kirjoita vastauksesi",
+          "titleKaizalaSignIn": "Kirjaudu sisään jatkaaksesi",
+          "titleSignOffRequest": "Hyväksymispyyntö",
+          "titleAnnouncement": "Ilmoitus",
+          "titleOmniaLogin": "Omnia-kirjautuminen",
+          "titleGroupNews": "Ryhmän uutiset",
+          "titleOpenJobs": "Avoimet työpaikat",
+          "OmniaWebView": {
+            "textLoadingWarning": "Odota hetki. Yritämme korjata ongelmaa Omnia-sivun latauksessa.",
+            "textLoadingError": "Jos sinulla on edelleen ongelmia Omnia-sivun lataamisessa, paina päivityspainiketta."
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Päivitä Omnian kieli",
+            "body": "Haluatko asettaa Omnian kielen laitteen kielen {nameLanguage} mukaan?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "Epäonnistunut kommentti poistetaan.",
+            "textAsk": "Haluatko mennä sivulle lisätäksesi kommentin uudelleen?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "Poistettu kommentti palautetaan.",
+            "textAsk": "Haluatko mennä sivulle poistaaksesi kommentin uudelleen?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "Muokattu kommentti palautetaan.",
+            "textAsk": "Haluatko mennä sivulle muokataksesi kommentin uudelleen?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "Voit asentaa tukisovelluksen avataksesi tämän linkin:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed -ongelmaraportointi",
+            "message": "Tämä on debug-lokitiedosto",
+            "subject": "Ongelmaraportointi"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Omnia Feedissä tapahtui virhe"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Sovelluksessa on tapahtunut vakava virhe. Jos näet tämän ongelman, yritä nollata sovellustiedot ja avaa sovellus uudelleen."
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Sovelluspäivitys vaaditaan",
+            "Body": "Sinun on päivitettävä sovellus jatkaaksesi sen käyttöä. Asenna uusin versio {appStoreTitle}-kaupasta"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Tämä pyyntö, jonka {requestedBy} lähetti sinulle {requestTime}, on suljettu",
+          "SignOffRequestSiteTitle": "Hyväksymispyyntö"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Omnia Feed -julkaisun tiedot",
+              "Content": {
+                "Message": {
+                  "NoInfo": "Tätä sivua ei synkronoida Omnia Feediin nykyisellä kokoonpanolla.",
+                  "Error": "Synkronointiprosessissa on ongelma. Tarkista alla oleva loki."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
