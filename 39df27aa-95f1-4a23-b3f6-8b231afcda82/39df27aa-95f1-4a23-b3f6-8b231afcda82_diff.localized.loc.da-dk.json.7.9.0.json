@@ -1,7 +1,7 @@
 {
   "OTAD": {
     "BusinessProfile": {
-      "ValidateBusinessProfileAppInstanceExists": "Denne virksomhedsprofil kan ikke slettes, da den har aktive App-instanser."
+      "ValidateBusinessProfileAppInstanceExists": "Denne virksomhedsprofil kan ikke slettes, da den har aktive app-instanser."
     },
     "EnterpriseProperties": {
       "InternalNameInvalidFormatMessage": "Skal starte med et bogstav eller understregning og kun indeholde bogstaver, tal og understregninger."
