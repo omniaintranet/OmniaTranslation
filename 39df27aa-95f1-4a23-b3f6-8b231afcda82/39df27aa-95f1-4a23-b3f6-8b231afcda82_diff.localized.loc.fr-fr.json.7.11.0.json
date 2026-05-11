@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Journaux",
+        "IndexLogs": "Journaux d’indexation",
+        "QueryLogs": "Journaux de requêtes",
+        "StartedAt": "Débuté à",
+        "FinishedAt": "Terminé à",
+        "State": "État",
+        "ErrorMessage": "Message d’erreur",
+        "ErrorDetails": "Détails de l’erreur",
+        "ViewError": "Voir l’erreur",
+        "NoLogs": "Aucun journal trouvé"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Expérimental - Chat Copilot"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Naviguer sans variation"
+      }
+    }
+  }
+}
