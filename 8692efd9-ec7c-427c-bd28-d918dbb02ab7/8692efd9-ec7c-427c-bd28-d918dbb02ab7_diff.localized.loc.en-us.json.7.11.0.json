@@ -97,7 +97,7 @@
           "IconColor": "Icon color"
         },
         "AddFavoriteButtonBlock": {
-          "RenderMode": {b
+          "RenderMode": {
             "CompactReadonly": "Compact read only"
           },
           "Title": "Add as favorite button"
