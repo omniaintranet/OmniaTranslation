@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByBeingEditedByOtherUser": "L’action ne peut pas être poursuivie car cette page est actuellement modifiée par un autre utilisateur."
+          }
+        }
+      }
+    }
+  }
+}
