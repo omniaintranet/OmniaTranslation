@@ -3,13 +3,13 @@
     "AIEngineSettings": {
       "RAGLogs": {
         "BladeTitle": "Logs",
-        "IndexLogs": "Index Logs",
-        "QueryLogs": "Query Logs",
-        "StartedAt": "Started At",
-        "FinishedAt": "Finished At",
+        "IndexLogs": "Index logs",
+        "QueryLogs": "Query logs",
+        "StartedAt": "Started at",
+        "FinishedAt": "Finished at",
         "State": "State",
-        "ErrorMessage": "Error Message",
-        "ErrorDetails": "Error Details",
+        "ErrorMessage": "Error message",
+        "ErrorDetails": "Error details",
         "ViewError": "View error",
         "NoLogs": "No logs found"
       }
@@ -19,7 +19,7 @@
     "Core": {
       "Features": {
         "CopilotChat": {
-          "ExperimentalTitle": "Experimental - Copilot Chat"
+          "ExperimentalTitle": "Experimental - Copilot chat"
         }
       }
     },
