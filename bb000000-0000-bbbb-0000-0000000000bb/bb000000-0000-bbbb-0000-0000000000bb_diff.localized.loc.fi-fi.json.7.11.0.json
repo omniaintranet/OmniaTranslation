@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankkurin nimet voivat sisältää vain kirjaimia, numeroita, välilyöntejä ja yhdysmerkkejä."
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Tämä ominaisuus vaatii määritystietoja, jotka on asetettava ohjelmallisesti, eikä sitä voi aktivoida."
+    }
+  }
+}
