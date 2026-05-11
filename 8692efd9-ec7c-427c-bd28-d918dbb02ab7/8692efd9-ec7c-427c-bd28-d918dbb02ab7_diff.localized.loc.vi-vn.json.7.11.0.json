@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Gửi thông báo đến người dùng chưa hoàn thành yêu cầu khi nó được đóng"
+        }
+      },
+      "Submenu": {
+        "Layout": "Cài đặt bố cục"
+      },
+      "Buttons": {
+        "CreateDraft": "Tạo bản nháp"
+      },
+      "Settings": {
+        "HeaderTextColor": "Màu chữ tiêu đề",
+        "DefaultChannel": "Kênh mặc định",
+        "TenantScopeQuery": "Truy vấn phạm vi Tenant",
+        "EnableLayoutEngine": "Bật công cụ bố cục",
+        "AddScopeQuery": "Thêm truy vấn phạm vi",
+        "InvalidUrlInContentSectionValidateMessage": "URL không hợp lệ hoặc bị thiếu trong phần Nội dung.",
+        "TabIconFabricNotAllowedMessage": "Biểu tượng Fabric đã bị loại bỏ và không được phép sử dụng. Vui lòng chọn loại biểu tượng khác.",
+        "DeleteUsers": {
+          "Title": "Xóa người dùng",
+          "ExclusionModelHint": "Trong chế độ này, các loại người dùng được chọn sẽ được loại trừ khỏi việc xóa."
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "Bạn có muốn chuyển đổi tab truy vấn sang tab truy vấn đa dạng không?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Kiểu styleSheet tùy chỉnh",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "Bạn có muốn kích hoạt di chuyển công cụ bố cục không?"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "Lịch sử phiên bản"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Cho phép sử dụng ứng dụng Omnia Entra ID thay vì ứng dụng Omnia Feed Entra ID."
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Bạn cần thêm ít nhất một bố cục.",
+          "NoLayoutSelectedValidateMessage": "Bạn cần thêm ít nhất 1 bố cục trong phần Hiển thị."
+        },
+        "PreviewersOnly": "Chỉ người xem trước",
+        "LegacyOnly": "Chỉ phiên bản cũ"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Kích thước biểu tượng và chữ' phải lớn hơn 0 khi được chỉ định."
+        },
+        "TagsBlock": {
+          "ShowIcon": "Hiển thị biểu tượng trước thẻ",
+          "IconAndTextColor": "Màu biểu tượng và chữ",
+          "IconAndTextSize": "Kích thước biểu tượng và chữ",
+          "FixedValue": "Giá trị cố định"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "Ảnh đại diện và tên hiển thị",
+            "IconAndDisplayName": "Biểu tượng và tên hiển thị"
+          },
+          "IconAndTextColor": "Màu biểu tượng và chữ",
+          "IconAndTextSize": "Kích thước biểu tượng và chữ"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "Định dạng ngày không chính xác",
+          "ShowIcon": "Hiển thị biểu tượng trước ngày",
+          "IconAndTextColor": "Màu biểu tượng và chữ",
+          "IconAndTextSize": "Kích thước biểu tượng và chữ"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Liên kết liên quan"
+        },
+        "DateRangeBlock": {
+          "Title": "Khoảng ngày",
+          "IconAndTextColor": "Màu biểu tượng và chữ",
+          "IconAndTextSize": "Kích thước biểu tượng và chữ"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "Kích thước biểu tượng và chữ"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "Kiểu chữ",
+          "IconAndTextSize": "Kích thước biểu tượng và chữ"
+        },
+        "ShareButtonBlock": {
+          "Title": "Nút chia sẻ",
+          "IconSize": "Kích thước biểu tượng",
+          "IconColor": "Màu biểu tượng"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Chỉ đọc gọn"
+          },
+          "Title": "Nút thêm vào mục yêu thích"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Ngày trong tuần"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "Bên trái chữ",
+            "RightOfText": "Bên phải chữ"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Xác nhận hủy",
+          "ConfirmSave": "Xác nhận lưu"
+        },
+        "SelectUserToPreviewTheLayout": "Chọn người dùng để xem trước bố cục",
+        "Templates": {
+          "FeedLayout": "Bố cục Feed"
+        },
+        "NoDefinitionToExport": "Không có dữ liệu định nghĩa để xuất",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Bạn cần thêm ít nhất một loại trang."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Quản trị viên mở rộng"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Đăng xuất",
+          "btnReply": "Trả lời",
+          "btnComment": "Đăng bình luận",
+          "btnOpenFile": "Mở tệp",
+          "textPhoneRequired": "Bạn phải nhập số điện thoại",
+          "textDomainInputError": "Tên miền bạn nhập không hợp lệ.",
+          "textPhoneCountryCodeError": "Số điện thoại bạn nhập không hợp lệ. Hãy chắc chắn đó là số điện thoại của bạn với mã quốc gia.",
+          "textLoadFailed": "Tải dữ liệu thất bại, nhấn vào đây để thử lại",
+          "textNoData": "Không có dữ liệu. Nhấn vào đây để thử lại.",
+          "textNumberOfResponses": "Số lượng phản hồi: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Vui lòng viết câu trả lời của bạn",
+          "titleKaizalaSignIn": "Đăng nhập để tiếp tục",
+          "titleSignOffRequest": "Yêu cầu ký duyệt",
+          "titleAnnouncement": "Thông báo",
+          "titleOmniaLogin": "Đăng nhập Omnia",
+          "titleGroupNews": "Tin nhóm",
+          "titleOpenJobs": "Công việc mở",
+          "OmniaWebView": {
+            "textLoadingWarning": "Vui lòng đợi một chút. Chúng tôi đang cố gắng khắc phục sự cố khi tải trang Omnia.",
+            "textLoadingError": "Nếu bạn vẫn gặp sự cố khi tải trang Omnia, vui lòng nhấn nút tải lại."
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Cập nhật ngôn ngữ Omnia",
+            "body": "Bạn có muốn đặt ngôn ngữ Omnia theo ngôn ngữ thiết bị {nameLanguage} không?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "Bình luận thất bại sẽ bị xóa.",
+            "textAsk": "Bạn có muốn quay lại trang thêm bình luận không?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "Bình luận đã xóa sẽ được khôi phục.",
+            "textAsk": "Bạn có muốn quay lại trang và xóa bình luận lần nữa không?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "Bình luận đã chỉnh sửa sẽ được khôi phục.",
+            "textAsk": "Bạn có muốn quay lại trang và chỉnh sửa bình luận lần nữa không?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "Bạn có thể cài đặt ứng dụng hỗ trợ để mở liên kết này:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Báo cáo sự cố Omnia Feed",
+            "message": "Đây là tệp nhật ký gỡ lỗi",
+            "subject": "Báo cáo sự cố"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Đã xảy ra lỗi trong Omnia Feed"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "Ứng dụng đã gặp lỗi nghiêm trọng. Nếu bạn gặp sự cố này, vui lòng thử đặt lại dữ liệu ứng dụng rồi mở lại ứng dụng."
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Yêu cầu cập nhật ứng dụng",
+            "Body": "Bạn cần cập nhật ứng dụng để tiếp tục sử dụng. Vui lòng cài đặt phiên bản mới nhất từ {appStoreTitle}"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Yêu cầu này gửi cho bạn từ {requestedBy} vào {requestTime} đã được đóng",
+          "SignOffRequestSiteTitle": "Yêu cầu ký duyệt"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Thông tin xuất bản Omnia Feed",
+              "Content": {
+                "Message": {
+                  "NoInfo": "Trang này không được đồng bộ vào Omnia Feed theo cấu hình hiện tại.",
+                  "Error": "Có sự cố với quá trình đồng bộ. Vui lòng kiểm tra nhật ký bên dưới."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
