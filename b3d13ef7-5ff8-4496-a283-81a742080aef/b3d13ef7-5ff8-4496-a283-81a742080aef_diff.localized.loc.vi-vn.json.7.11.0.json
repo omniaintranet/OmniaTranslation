@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Core": {
+      "ArchivedDocuments": "Tài liệu đã lưu trữ"
+    }
+  },
+  "OPM": {
+    "ProcessDesigner": {
+      "MessageNoDocumentsItem": "Không có tài liệu nào cho quy trình này."
+    }
+  }
+}
