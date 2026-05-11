@@ -8,14 +8,14 @@
         "ManagedMetadataProperties": {
           "Title": "Skriv tilknyttede metadataegenskaber",
           "Category": "Integration",
-          "Description": "Gør det muligt for appen at læse, oprette, opdatere og slette tilknyttede metadata samt læse grundlæggende siteoplysninger på vegne af den loggede bruger.",
+          "Description": "Gør det muligt for appen at læse, oprette, opdatere og slette tilknyttede metadata samt læse grundlæggende websteds-oplysninger på vegne af den loggede bruger.",
           "ConsentInformation": " "
         }
       },
       "GptImageProvider": {
         "Title": "GPT Image",
         "FeatureTitle": "GPT Image",
-        "FeatureDescription": "Aktivér denne funktion for at tilføje GPT Image-generering til medievælgeren.",
+        "FeatureDescription": "Aktivér denne funktion for at tilføje GPT billedgenering til medievælgeren.",
         "DowloadImageFailed": "Download af billede mislykkedes",
         "PhotoBy": "Foto af",
         "PhotosProviderBy": "Fotos leveret af",
