@@ -4,13 +4,13 @@
       "Blocks": {
         "TableOfContents": {
           "Title": "Indholdsfortegnelse",
-          "Summary": "Generer navigation fra overskrifter på siden eller fra en konfigureret egenskab."
+          "Summary": "Opretter navigation fra overskrifter på siden eller fra en konfigureret egenskab."
         }
       }
     },
     "TableOfContents": {
       "BlockTitle": "Indholdsfortegnelse",
-      "BlockDescription": "Generer navigation fra overskrifter på siden",
+      "BlockDescription": "Opretter navigation baseret på overskrifter på siden",
       "General": "Generelt",
       "Anchors": "Ankre",
       "Display": "Visning",
