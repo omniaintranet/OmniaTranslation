@@ -3,15 +3,15 @@
     "AIEngineSettings": {
       "RAGLogs": {
         "BladeTitle": "Loggar",
-        "IndexLogs": "Indexloggar",
-        "QueryLogs": "Frågeloggar",
+        "IndexLogs": "Index-loggar",
+        "QueryLogs": "Fråge-loggar",
         "StartedAt": "Startade vid",
         "FinishedAt": "Avslutades vid",
         "State": "Status",
         "ErrorMessage": "Felmeddelande",
-        "ErrorDetails": "Fel detaljer",
+        "ErrorDetails": "Detaljer",
         "ViewError": "Visa fel",
-        "NoLogs": "Inga loggar hittades"
+        "NoLogs": "Hittade inga loggar"
       }
     }
   },
