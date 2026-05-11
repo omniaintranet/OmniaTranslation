@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Core": {
+      "ArchivedDocuments": "Arkistoidut asiakirjat"
+    }
+  },
+  "OPM": {
+    "ProcessDesigner": {
+      "MessageNoDocumentsItem": "Tälle prosessille ei ole asiakirjoja."
+    }
+  }
+}
