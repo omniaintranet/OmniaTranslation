@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Tên anchor chỉ có thể chứa chữ cái, số, dấu cách và dấu gạch ngang."
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Tính năng này yêu cầu các tham số cấu hình phải được thiết lập bằng lập trình và không thể kích hoạt."
+    }
+  }
+}
