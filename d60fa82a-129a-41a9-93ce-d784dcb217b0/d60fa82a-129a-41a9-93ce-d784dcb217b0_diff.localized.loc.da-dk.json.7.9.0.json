@@ -10,7 +10,7 @@
     },
     "HtmlScriptBlock": {
       "Settings": {
-        "ModifiedInWriteModeWarningMessage": "Denne blok blev ændret i skrive-tilstand. Gemning af dine nuværende ændringer vil erstatte versionen i skrive-tilstand."
+        "ModifiedInWriteModeWarningMessage": "Denne blok blev ændret af en redaktør mens siden var i skrive-tilstand. Gemmer du dine ændringer, vil de erstatte versionen i, som er lavet i skrive-tilstand."
       }
     },
     "Editor": {
