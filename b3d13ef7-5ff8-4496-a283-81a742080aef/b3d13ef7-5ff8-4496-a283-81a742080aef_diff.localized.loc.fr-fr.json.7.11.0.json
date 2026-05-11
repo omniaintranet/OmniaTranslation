@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Core": {
+      "ArchivedDocuments": "Documents archivés"
+    }
+  },
+  "OPM": {
+    "ProcessDesigner": {
+      "MessageNoDocumentsItem": "Il n’y a pas de documents pour ce processus."
+    }
+  }
+}
