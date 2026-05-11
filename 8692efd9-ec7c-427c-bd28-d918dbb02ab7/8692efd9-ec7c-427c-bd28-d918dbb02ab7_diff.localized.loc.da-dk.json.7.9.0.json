@@ -5,9 +5,9 @@
         "ServerDetectionModes": {
           "AddOrUpdate": "Tilføj eller opdater",
           "Delete": "Slet",
-          "AutomaticPageTranslationFinished": "Variation sideoversættelse"
+          "AutomaticPageTranslationFinished": "'Oversættelse af sidevariaten"
         },
-        "SortByItemDate": "Elementdato (Feed indbygget)",
+        "SortByItemDate": "Dato (Feed indbygget)",
         "SignOffRequest": {
           "Progress": {
             "NotStarted": "Ikke startet",
@@ -16,13 +16,13 @@
           }
         },
         "ResyncUsers": {
-          "BusinessProfileLabel": "Business profile",
-          "BusinessProfileHint": "Vælg business profile til gen-synkronisering af brugere",
+          "BusinessProfileLabel": "Virksomhedsprofil",
+          "BusinessProfileHint": "Vælg virksomhedsprofil til gen-synkronisering af brugere",
           "Dialog": {
-            "MessageRetryResyncAllUsers": "Er du sikker på, at du vil prøve at gen-synkronisere brugere?",
-            "MessageResyncAllUsersWithTotalNumber": "Vil du virkelig gen-synkronisere alle brugere i denne tenant? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
-            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du virkelig gen-synkronisere brugere med valgte typer? Dette vil gen-synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
-            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du sikker på, at du vil prøve at gen-synkronisere {noUsers} brugere? Dette vil tage noget tid at fuldføre."
+            "MessageRetryResyncAllUsers": "Er du sikker på, at du vil prøve at synkronisere brugerne igen?",
+            "MessageResyncAllUsersWithTotalNumber": "Vil du synkronisere alle brugere i denne tenant igen? Dette vil synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
+            "MessageResyncAllUsersOfSelectedTypesWithTotalNumber": "Vil du synkronisere brugere med valgte typer igen? Dette vil synkronisere {noUsers} brugere og tage noget tid at fuldføre.",
+            "MessageRetryResyncingAllUsersWithTotalNumber": "Er du sikker på, at du vil prøve at synkronisere {noUsers} brugere igen? Dette vil tage noget tid at fuldføre."
           }
         },
         "EventsFilter": {
@@ -35,17 +35,17 @@
           },
           "FilterMode": {
             "Label": "Filtertilstand",
-            "BusinessProfile": "Business profile",
-            "PublishingApp": "Publishing app",
-            "PageCollection": "Sidekollektion",
-            "BusinessProfileInputLabel": "Business profiles",
-            "PublishingAppInputLabel": "Publishing apps"
+            "BusinessProfile": "Virksomhedsprofil",
+            "PublishingApp": "Publiseringsapp",
+            "PageCollection": "Sidebibliotek",
+            "BusinessProfileInputLabel": "Virksomhedsprofiler",
+            "PublishingAppInputLabel": "Publiseringsapp"
           }
         }
       },
       "App": {
         "Notification": {
-          "AnnouncementSiteTitle": "Announcement"
+          "AnnouncementSiteTitle": "Meddelelse"
         }
       }
     }
