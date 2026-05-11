@@ -4,7 +4,7 @@
       "Editor": {
         "Dialogs": {
           "ArchivePageType": {
-            "NotAllowedByBeingEditedByOtherUser": "The action cannot be continued because this page is currently being edited by another user."
+            "NotAllowedByBeingEditedByOtherUser": "The action can not be continued as this page is currently being edited by another user."
           }
         }
       }
