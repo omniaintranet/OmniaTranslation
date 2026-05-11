@@ -1,0 +1,12 @@
+{
+  "ODM": {
+    "Core": {
+      "ArchivedDocuments": "Arkiverade dokument"
+    }
+  },
+  "OPM": {
+    "ProcessDesigner": {
+      "MessageNoDocumentsItem": "Det finns inga dokument för denna process."
+    }
+  }
+}
