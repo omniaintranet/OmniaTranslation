@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Registros",
+        "IndexLogs": "Registros de índice",
+        "QueryLogs": "Registros de consulta",
+        "StartedAt": "Iniciado a las",
+        "FinishedAt": "Finalizado a las",
+        "State": "Estado",
+        "ErrorMessage": "Mensaje de error",
+        "ErrorDetails": "Detalles del error",
+        "ViewError": "Ver error",
+        "NoLogs": "No se encontraron registros"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Experimental - Chat de Copilot"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Navegar sin variación"
+      }
+    }
+  }
+}

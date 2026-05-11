@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Enviar una notificación a los usuarios que no han completado la solicitud cuando se cierre"
+        }
+      },
+      "Submenu": {
+        "Layout": "Configuración de diseño"
+      },
+      "Buttons": {
+        "CreateDraft": "Crear borrador"
+      },
+      "Settings": {
+        "HeaderTextColor": "Color del texto del encabezado",
+        "DefaultChannel": "Canal predeterminado",
+        "TenantScopeQuery": "Consulta de ámbito del tenant",
+        "EnableLayoutEngine": "Habilitar motor de diseño",
+        "AddScopeQuery": "Agregar consulta de ámbito",
+        "InvalidUrlInContentSectionValidateMessage": "URL inválida o ausente en la sección de Contenido.",
+        "TabIconFabricNotAllowedMessage": "Los iconos Fabric están obsoletos y no están permitidos. Por favor, elija otro tipo de icono.",
+        "DeleteUsers": {
+          "Title": "Eliminar usuarios",
+          "ExclusionModelHint": "En este modo, los tipos de usuario seleccionados serán excluidos de la eliminación."
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "¿Desea migrar la pestaña de consulta a una pestaña de consultas múltiples?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Estilo de hoja de estilos personalizada",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "¿Desea activar la migración del motor de diseño?"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "Historial de versiones"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Permite usar la aplicación Omnia Entra ID en lugar de la aplicación Omnia Feed Entra ID."
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "Debe agregar al menos un diseño.",
+          "NoLayoutSelectedValidateMessage": "Debe agregar al menos un diseño en la sección de Visualización."
+        },
+        "PreviewersOnly": "Solo previsualizadores",
+        "LegacyOnly": "Solo legado"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Tamaño del icono y texto' debe ser mayor que 0 cuando se especifica."
+        },
+        "TagsBlock": {
+          "ShowIcon": "Mostrar icono delante de la etiqueta",
+          "IconAndTextColor": "Color del icono y texto",
+          "IconAndTextSize": "Tamaño del icono y texto",
+          "FixedValue": "Valor fijo"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "Avatar y nombre para mostrar",
+            "IconAndDisplayName": "Icono y nombre para mostrar"
+          },
+          "IconAndTextColor": "Color del icono y texto",
+          "IconAndTextSize": "Tamaño del icono y texto"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "El formato de fecha no es correcto",
+          "ShowIcon": "Mostrar icono delante de la fecha",
+          "IconAndTextColor": "Color del icono y texto",
+          "IconAndTextSize": "Tamaño del icono y texto"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Enlaces relacionados"
+        },
+        "DateRangeBlock": {
+          "Title": "Rango de fechas",
+          "IconAndTextColor": "Color del icono y texto",
+          "IconAndTextSize": "Tamaño del icono y texto"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "Tamaño del icono y texto"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "Estilo de texto",
+          "IconAndTextSize": "Tamaño del icono y texto"
+        },
+        "ShareButtonBlock": {
+          "Title": "Botón de compartir",
+          "IconSize": "Tamaño del icono",
+          "IconColor": "Color del icono"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compacto solo lectura"
+          },
+          "Title": "Botón de añadir a favoritos"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Día de la semana"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "A la izquierda del texto",
+            "RightOfText": "A la derecha del texto"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Confirmar cancelación",
+          "ConfirmSave": "Confirmar guardado"
+        },
+        "SelectUserToPreviewTheLayout": "Seleccione usuario para previsualizar el diseño",
+        "Templates": {
+          "FeedLayout": "Diseño del feed"
+        },
+        "NoDefinitionToExport": "No hay datos de definición para exportar",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "Debe agregar al menos un tipo de página."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Administrador de extensión"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Cerrar sesión",
+          "btnReply": "Responder",
+          "btnComment": "Publicar comentario",
+          "btnOpenFile": "Abrir archivo",
+          "textPhoneRequired": "Debe ingresar un número de teléfono",
+          "textDomainInputError": "El dominio que ingresó no es válido.",
+          "textPhoneCountryCodeError": "El número de teléfono que ingresó no es válido. Asegúrese de que sea realmente su número con el código de país.",
+          "textLoadFailed": "Error al cargar datos, toque aquí para reintentar",
+          "textNoData": "Sin datos. Toque aquí para intentar de nuevo.",
+          "textNumberOfResponses": "Número de respuestas: {noOfResponses}",
+          "textPleaseWriteYourAnswers": "Por favor, escriba sus respuestas",
+          "titleKaizalaSignIn": "Inicie sesión para continuar",
+          "titleSignOffRequest": "Solicitud de aprobación",
+          "titleAnnouncement": "Anuncio",
+          "titleOmniaLogin": "Inicio de sesión Omnia",
+          "titleGroupNews": "Noticias del grupo",
+          "titleOpenJobs": "Empleos disponibles",
+          "OmniaWebView": {
+            "textLoadingWarning": "Por favor, espere un momento. Estamos intentando solucionar el problema al cargar la página Omnia.",
+            "textLoadingError": "Si aún tiene problemas para cargar la página Omnia, por favor presione el botón de recarga."
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Actualizar idioma de Omnia",
+            "body": "¿Desea configurar el idioma de Omnia según el idioma del dispositivo {nameLanguage}?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "El comentario fallido será eliminado.",
+            "textAsk": "¿Desea ir a la página para agregar el comentario nuevamente?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "El comentario eliminado será recuperado.",
+            "textAsk": "¿Desea ir a la página y eliminar el comentario nuevamente?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "El comentario editado será recuperado.",
+            "textAsk": "¿Desea ir a la página y editar el comentario nuevamente?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "Puede instalar una aplicación de soporte para abrir este enlace:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Informe de problemas de Omnia Feed",
+            "message": "Este es un archivo de registros de depuración",
+            "subject": "Informe de problemas"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Ocurrió un error en Omnia Feed"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "La aplicación ha encontrado un error fatal. Si ve este problema, intente restablecer los datos de la aplicación y luego vuelva a abrirla."
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "Actualización de la aplicación requerida",
+            "Body": "Necesita actualizar la aplicación para continuar usándola. Por favor, instale la última versión desde {appStoreTitle}"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "Esta solicitud enviada por {requestedBy} el {requestTime} ha sido cerrada",
+          "SignOffRequestSiteTitle": "Solicitud de aprobación"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Información de publicación de Omnia Feed",
+              "Content": {
+                "Message": {
+                  "NoInfo": "Esta página no está sincronizada con Omnia Feed bajo la configuración actual.",
+                  "Error": "Hay un problema con el proceso de sincronización. Por favor, revise el registro a continuación."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

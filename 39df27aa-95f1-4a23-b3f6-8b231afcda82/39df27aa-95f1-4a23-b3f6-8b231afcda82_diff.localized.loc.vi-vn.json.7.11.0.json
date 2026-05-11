@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Nhật ký",
+        "IndexLogs": "Nhật ký chỉ mục",
+        "QueryLogs": "Nhật ký truy vấn",
+        "StartedAt": "Bắt đầu lúc",
+        "FinishedAt": "Kết thúc lúc",
+        "State": "Trạng thái",
+        "ErrorMessage": "Thông báo lỗi",
+        "ErrorDetails": "Chi tiết lỗi",
+        "ViewError": "Xem lỗi",
+        "NoLogs": "Không tìm thấy nhật ký"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Thử nghiệm - Trò chuyện Copilot"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Điều hướng không biến thể"
+      }
+    }
+  }
+}

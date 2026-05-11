@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Logs",
+        "IndexLogs": "Indexlogs",
+        "QueryLogs": "Querylogs",
+        "StartedAt": "Gestart om",
+        "FinishedAt": "Afgerond om",
+        "State": "Status",
+        "ErrorMessage": "Foutmelding",
+        "ErrorDetails": "Foutdetails",
+        "ViewError": "Bekijk fout",
+        "NoLogs": "Geen logs gevonden"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Experimenteel - Copilot chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Navigeren zonder variatie"
+      }
+    }
+  }
+}

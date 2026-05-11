@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "Protokolle",
+        "IndexLogs": "Indexprotokolle",
+        "QueryLogs": "Abfrageprotokolle",
+        "StartedAt": "Gestartet um",
+        "FinishedAt": "Beendet um",
+        "State": "Status",
+        "ErrorMessage": "Fehlermeldung",
+        "ErrorDetails": "Fehlerdetails",
+        "ViewError": "Fehler anzeigen",
+        "NoLogs": "Keine Protokolle gefunden"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "Experimentell - Copilot chat"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "Ohne Variation navigieren"
+      }
+    }
+  }
+}

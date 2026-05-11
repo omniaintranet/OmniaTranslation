@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByBeingEditedByOtherUser": "Toimintoa ei voi jatkaa, koska tätä sivua muokkaa parhaillaan toinen käyttäjä."
+          }
+        }
+      }
+    }
+  }
+}

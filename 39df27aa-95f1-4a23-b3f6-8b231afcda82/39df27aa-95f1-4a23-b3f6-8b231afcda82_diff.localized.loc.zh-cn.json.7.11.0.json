@@ -1,0 +1,32 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "RAGLogs": {
+        "BladeTitle": "日志",
+        "IndexLogs": "索引日志",
+        "QueryLogs": "查询日志",
+        "StartedAt": "开始时间",
+        "FinishedAt": "结束时间",
+        "State": "状态",
+        "ErrorMessage": "错误信息",
+        "ErrorDetails": "错误详情",
+        "ViewError": "查看错误",
+        "NoLogs": "未找到日志"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Core": {
+      "Features": {
+        "CopilotChat": {
+          "ExperimentalTitle": "实验性功能 - Copilot 聊天"
+        }
+      }
+    },
+    "Search": {
+      "Admin": {
+        "NavigateWithoutVariation": "无变体导航"
+      }
+    }
+  }
+}

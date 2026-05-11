@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "锚点名称只能包含字母、数字、空格和连字符。"
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "此功能需要通过编程设置配置参数，无法激活。"
+    }
+  }
+}

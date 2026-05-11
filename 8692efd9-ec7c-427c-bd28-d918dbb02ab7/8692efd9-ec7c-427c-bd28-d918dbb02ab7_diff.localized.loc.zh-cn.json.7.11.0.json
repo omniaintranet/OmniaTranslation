@@ -1,0 +1,216 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "在请求关闭时向未完成请求的用户发送通知"
+        }
+      },
+      "Submenu": {
+        "Layout": "布局设置"
+      },
+      "Buttons": {
+        "CreateDraft": "创建草稿"
+      },
+      "Settings": {
+        "HeaderTextColor": "标题文本颜色",
+        "DefaultChannel": "默认频道",
+        "TenantScopeQuery": "租户范围查询",
+        "EnableLayoutEngine": "启用布局引擎",
+        "AddScopeQuery": "添加范围查询",
+        "InvalidUrlInContentSectionValidateMessage": "内容部分的 URL 无效或缺失。",
+        "TabIconFabricNotAllowedMessage": "Fabric 图标已弃用且不允许使用。请选择其他图标类型。",
+        "DeleteUsers": {
+          "Title": "删除用户",
+          "ExclusionModelHint": "在此模式下，选定的用户类型将被排除在删除之外。"
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "您想将查询选项卡迁移为多查询选项卡吗？"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "自定义样式表样式",
+          "Dialog": {
+            "MessgeActivateLayoutEngineMigration": "您想激活布局引擎迁移吗？"
+          }
+        }
+      },
+      "Common": {
+        "VersionHistory": "版本历史"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "启用使用 Omnia Entra ID 应用替代 Omnia Feed Entra ID 应用。"
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "您需要添加至少一个布局。",
+          "NoLayoutSelectedValidateMessage": "您需要在显示部分添加至少一个布局。"
+        },
+        "PreviewersOnly": "仅预览者",
+        "LegacyOnly": "仅传统"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "指定时，“图标和文本大小”必须大于 0。"
+        },
+        "TagsBlock": {
+          "ShowIcon": "在标签前显示图标",
+          "IconAndTextColor": "图标和文本颜色",
+          "IconAndTextSize": "图标和文本大小",
+          "FixedValue": "固定值"
+        },
+        "IdentityBlock": {
+          "RenderMode": {
+            "AvatarAndDisplayName": "头像和显示名称",
+            "IconAndDisplayName": "图标和显示名称"
+          },
+          "IconAndTextColor": "图标和文本颜色",
+          "IconAndTextSize": "图标和文本大小"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "日期格式不正确",
+          "ShowIcon": "在日期前显示图标",
+          "IconAndTextColor": "图标和文本颜色",
+          "IconAndTextSize": "图标和文本大小"
+        },
+        "RelatedLinksBlock": {
+          "Title": "相关链接"
+        },
+        "DateRangeBlock": {
+          "Title": "日期范围",
+          "IconAndTextColor": "图标和文本颜色",
+          "IconAndTextSize": "图标和文本大小"
+        },
+        "LikeButtonBlock": {
+          "IconAndTextSize": "图标和文本大小"
+        },
+        "CommentCountBlock": {
+          "TextStyle": "文本样式",
+          "IconAndTextSize": "图标和文本大小"
+        },
+        "ShareButtonBlock": {
+          "Title": "分享按钮",
+          "IconSize": "图标大小",
+          "IconColor": "图标颜色"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "紧凑只读"
+          },
+          "Title": "添加为收藏按钮"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "周中日期"
+          }
+        },
+        "SignOffRequestActionBlock": {
+          "IconPositionOption": {
+            "LeftOfText": "文本左侧",
+            "RightOfText": "文本右侧"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "确认取消",
+          "ConfirmSave": "确认保存"
+        },
+        "SelectUserToPreviewTheLayout": "选择用户预览布局",
+        "Templates": {
+          "FeedLayout": "Feed 布局"
+        },
+        "NoDefinitionToExport": "没有可导出的定义数据",
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "您需要添加至少一种页面类型。"
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "扩展管理员"
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "注销",
+          "btnReply": "回复",
+          "btnComment": "发表评论",
+          "btnOpenFile": "打开文件",
+          "textPhoneRequired": "您必须输入电话号码",
+          "textDomainInputError": "您输入的域无效。",
+          "textPhoneCountryCodeError": "您输入的电话号码无效。请确保它是带有国家代码的真实电话号码。",
+          "textLoadFailed": "加载数据失败，点击此处重试",
+          "textNoData": "无数据。点击此处重试。",
+          "textNumberOfResponses": "响应数量：{noOfResponses}",
+          "textPleaseWriteYourAnswers": "请填写您的答案",
+          "titleKaizalaSignIn": "登录以继续",
+          "titleSignOffRequest": "签核请求",
+          "titleAnnouncement": "公告",
+          "titleOmniaLogin": "Omnia 登录",
+          "titleGroupNews": "群组新闻",
+          "titleOpenJobs": "职位空缺",
+          "OmniaWebView": {
+            "textLoadingWarning": "请稍候。我们正在尝试修复加载 Omnia 页面时的问题。",
+            "textLoadingError": "如果您仍然无法加载 Omnia 页面，请按重新加载按钮。"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "更新 Omnia 语言",
+            "body": "您想根据设备语言 {nameLanguage} 设置 Omnia 语言吗？"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "失败的评论将被删除。",
+            "textAsk": "您想再次进入页面添加评论吗？"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "已删除的评论将被恢复。",
+            "textAsk": "您想再次进入页面删除评论吗？"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "已编辑的评论将被恢复。",
+            "textAsk": "您想再次进入页面编辑评论吗？"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "您可以安装支持应用以打开此链接："
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed 问题报告",
+            "message": "这是调试日志文件",
+            "subject": "问题报告"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "Omnia Feed 中发生错误"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "应用遇到致命错误。如果您遇到此问题，请尝试重置应用数据后重新打开应用。"
+          },
+          "AlertUpdateAppRequired": {
+            "Title": "需要更新应用",
+            "Body": "您需要更新应用以继续使用。请从 {appStoreTitle} 安装最新版本。"
+          }
+        },
+        "Notification": {
+          "ClosingSignOffRequest": "您于 {requestTime} 收到的来自 {requestedBy} 的请求已关闭",
+          "SignOffRequestSiteTitle": "签核请求"
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Omnia Feed 发布信息",
+              "Content": {
+                "Message": {
+                  "NoInfo": "此页面未根据当前配置同步到 Omnia Feed。",
+                  "Error": "同步过程中出现问题。请检查以下日志。"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

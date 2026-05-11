@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankernamen dürfen nur Buchstaben, Zahlen, Leerzeichen und Bindestriche enthalten."
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Für diese Funktion sind Konfigurationsparameter erforderlich, die programmgesteuert festgelegt werden müssen und nicht aktiviert werden können."
+    }
+  }
+}

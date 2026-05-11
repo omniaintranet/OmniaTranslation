@@ -1,0 +1,16 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Les noms d’ancre ne peuvent contenir que des lettres, des chiffres, des espaces et des traits d’union."
+          }
+        }
+      }
+    },
+    "Features": {
+      "ActivationDisabledMessage": "Cette fonctionnalité nécessite des paramètres de configuration qui doivent être définis par programmation et ne peut pas être activée."
+    }
+  }
+}
