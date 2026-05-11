@@ -1,0 +1,13 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ArchivePageType": {
+            "NotAllowedByBeingEditedByOtherUser": "Handling kan ikke fortsettes fordi denne siden for øyeblikket redigeres av en annen bruker."
+          }
+        }
+      }
+    }
+  }
+}
