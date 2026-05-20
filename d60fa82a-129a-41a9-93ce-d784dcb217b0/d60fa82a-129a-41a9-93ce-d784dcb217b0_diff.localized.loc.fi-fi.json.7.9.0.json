@@ -10,7 +10,7 @@
         "Description": "Mahdollistaa integraation Exchange Serverin kanssa."
       },
       "Admin": {
-        "ExchangeServerUrl": "Exchange-verkkopalvelimen URL-osoite"
+        "ExchangeServerUrl": "Exchange Serverin URL-osoite"
       }
     }
   }
