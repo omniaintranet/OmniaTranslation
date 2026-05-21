@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "Aktivieren Sie diese Funktion, um 'GPT Image' zum Medienauswahlwerkzeug hinzuzufügen.",
+        "PromptContent": "Prompts können aus beliebigen Wörtern bestehen, aber denken Sie daran, wie Sie jemandem ein Bild erklären würden. Die Form \"Subjekt + Adjektive + Stile\" funktioniert in der Regel gut.",
+        "ImageStyle": "Bildstil"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "Zuschneideverhältnisse"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "Bitte klicken Sie auf die Schaltfläche unten, um mit Ihrer Bestätigung fortzufahren."
+    }
+  }
+}
