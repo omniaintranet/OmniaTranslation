@@ -1,0 +1,14 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2 Credentials",
+        "AddTitle": "Add",
+        "EditTitle": "Edit",
+        "ClientId": "Client ID",
+        "ClientSecret": "Client Secret",
+        "RedirectUri": "Redirect URI"
+      }
+    }
+  }
+}
