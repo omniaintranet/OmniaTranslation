@@ -3,7 +3,7 @@
     "Ux": {
       "GptImageProvider": {
         "FeatureDescription": "Activate this feature to add 'GPT Image' to the media picker.",
-        "PromptContent": "Prompts can be composed of any words, but consider how you might describe an image to someone. The format \"subject + adjectives + styles\" usually works well.",
+        "PromptContent": "Prompts can be composed of any words, but consider how you may describe an image to someone. The format \"subject + adjectives + styles\" usually works well.",
         "ImageStyle": "Image style"
       },
       "RichTextEditor": {
