@@ -1,0 +1,17 @@
+{
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "我的日历"
+        }
+      },
+      "Feature": {
+        "Description": "启用与 Exchange Server 集成的功能。"
+      },
+      "Admin": {
+        "ExchangeServerUrl": "Exchange Web 服务器 URL"
+      }
+    }
+  }
+}
