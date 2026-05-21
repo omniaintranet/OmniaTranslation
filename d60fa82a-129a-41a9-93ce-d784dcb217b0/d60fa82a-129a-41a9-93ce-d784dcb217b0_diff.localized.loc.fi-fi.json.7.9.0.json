@@ -1,0 +1,17 @@
+{
+  "OWCM": {
+    "SPCalendarRollup": {
+      "Settings": {
+        "Type": {
+          "MyCalendar": "Oma kalenteri"
+        }
+      },
+      "Feature": {
+        "Description": "Mahdollistaa integraation Exchange Serverin kanssa."
+      },
+      "Admin": {
+        "ExchangeServerUrl": "Exchange-verkkopalvelimen URL-osoite"
+      }
+    }
+  }
+}
