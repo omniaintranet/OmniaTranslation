@@ -2,11 +2,11 @@
   "OTAD": {
     "System": {
       "OAuth2": {
-        "Title": "OAuth2 Credentials",
+        "Title": "OAuth2 credentials",
         "AddTitle": "Add",
         "EditTitle": "Edit",
         "ClientId": "Client ID",
-        "ClientSecret": "Client Secret",
+        "ClientSecret": "Client secret",
         "RedirectUri": "Redirect URI"
       }
     }
