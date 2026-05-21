@@ -3,14 +3,14 @@
     "SPCalendarRollup": {
       "Settings": {
         "Type": {
-          "MyCalendar": "My Calendar"
+          "MyCalendar": "My calendar"
         }
       },
       "Feature": {
-        "Description": "Enable possibility to integrating with Exchange Server"
+        "Description": "Enables the possibility to integrate with Exchange Server."
       },
       "Admin": {
-        "ExchangeServerUrl": "Exchange web server url"
+        "ExchangeServerUrl": "Exchange web server URL"
       }
     }
   }
