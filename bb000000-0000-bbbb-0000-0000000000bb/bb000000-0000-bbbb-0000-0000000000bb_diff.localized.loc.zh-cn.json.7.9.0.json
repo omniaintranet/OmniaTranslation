@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Ux": {
+      "GptImageProvider": {
+        "FeatureDescription": "激活此功能以在媒体选择器中添加“GPT Image”。",
+        "PromptContent": "提示可以由任何词语组成，但请考虑如何向他人描述一张图片。“主体 + 形容词 + 风格”的形式通常效果较好。",
+        "ImageStyle": "图片风格"
+      },
+      "RichTextEditor": {
+        "ExtensionSettings": {
+          "MediaPicker": {
+            "CropRatios": "裁剪比例"
+          }
+        }
+      }
+    },
+    "AuthSetup": {
+      "ConfirmMessage": "请点击下面的按钮以继续确认。"
+    }
+  }
+}
