@@ -2,14 +2,14 @@
   "Omnia": {
     "Ux": {
       "GptImageProvider": {
-        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi 'GPT Image' mediavalitsimeen.",
+        "FeatureDescription": "Ota tämä ominaisuus käyttöön lisätäksesi tarjoajan 'GPT Image' mediavalitsimeen.",
         "PromptContent": "Kehotteet voivat koostua mistä tahansa sanoista, mutta mieti, miten selittäisit kuvaa jollekin. Muoto \"aihe + adjektiivit + tyylit\" toimii yleensä hyvin.",
         "ImageStyle": "Kuvatyylit"
       },
       "RichTextEditor": {
         "ExtensionSettings": {
           "MediaPicker": {
-            "CropRatios": "Rajausuhteet"
+            "CropRatios": "Rajaussuhteet"
           }
         }
       }
