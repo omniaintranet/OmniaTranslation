@@ -8,7 +8,7 @@
         "ClientId": "Client ID",
         "ClientSecret": "Client secret",
         "RedirectUri": "Redirect URI",
-        "CopySecretWarning": "Kopier din client secret nu. Den vil ikke blive vist igen.",
+        "CopySecretWarning": "Kopier din client-secret nu. Den vil ikke blive vist igen.",
         "McpUri": "MCP URI",
         "AuthorizeUri": "Authorize URI",
         "TokenUri": "Token URI"
