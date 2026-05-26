@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Siden er endret",
+            "Message": "Denne siden ble endret mens du hadde den åpen fordi en godkjenningsflyt ble startet. Vennligst oppdater for å se de siste endringene.",
+            "HasBeenCanceledMessage": "Godkjenningen av siden {{PageTitle}} er kansellert. Vennligst kontakt {{User}} ved eventuelle kommentarer eller spørsmål."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Avbryt godkjenningsflyt",
+            "Message": "Du er i ferd med å avbryte en pågående godkjenningsflyt. {{Approver}} vurderer godkjenningsforespørselen og har opprettet et utkast. Hvis godkjenningen avbrytes, vil arbeidet bli slettet. Fortsette?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Åpne i nettleser",
+        "OpenInWebNewTab": "Åpne i nettleser (Ny fane)",
+        "Download": "Last ned"
+      }
+    }
+  }
+}
