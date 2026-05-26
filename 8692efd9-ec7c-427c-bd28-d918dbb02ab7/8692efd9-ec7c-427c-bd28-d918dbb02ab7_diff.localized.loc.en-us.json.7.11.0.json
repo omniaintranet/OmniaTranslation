@@ -1,0 +1,156 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Notification": {
+        "NotificationConfig": {
+          "NotifyToTheUsersThatHaveNotCompletedTheRequest": "Send a notification to users who have not completed the request when it is being closed"
+        }
+      },
+      "Submenu": {
+        "Layout": "Layout Settings"
+      },
+      "Buttons": {
+        "CreateDraft": "Create Draft"
+      },
+      "Settings": {
+        "HeaderTextColor": "Header Text Color",
+        "DefaultChannel": "Default Channel",
+        "TenantScopeQuery": "Tenant Scope Query",
+        "EnableLayoutEngine": "Enable Layout engine",
+        "AddScopeQuery": "Add Scope Query",
+        "InvalidUrlInContentSectionValidateMessage": "Invalid or missing Url in the Content section.",
+        "DeleteUsers": {
+          "Title": "Delete Users",
+          "ExclusionModelHint": "In this mode, selected user types will be excluded from being deleted instead"
+        },
+        "MigrateQueryTabToMultipleQueryTab": {
+          "Dialog": {
+            "Message": "Do you want to migrate query tab to multiple query tab ?"
+          }
+        },
+        "RicherContent": {
+          "CustomStyleSheet": "Custom StyleSheet style"
+        }
+      },
+      "Common": {
+        "VersionHistory": "Version History"
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Enable using Omnia Entra ID App instead of Omnia Feed Entra ID app"
+        }
+      },
+      "MultipleQuery": {
+        "Validation": {
+          "RequireAtLeastOneLayoutAdded": "You need to add at least 1 layout.",
+          "NoLayoutSelectedValidateMessage": "You need to add at least 1 layout in the Display section."
+        },
+        "PreviewersOnly": "Previewers Only",
+        "LegacyOnly": "Legacy Only"
+      },
+      "Blocks": {
+        "Common": {
+          "IconAndTextSizeValidationMessage": "'Icon and text size' must be greater than 0 when specified"
+        },
+        "TagsBlock": {
+          "FixedValue": "Fixed Value"
+        },
+        "DateBlock": {
+          "TheDateFormatIsIncorrect": "The date format is incorrect"
+        },
+        "RelatedLinksBlock": {
+          "Title": "Related Links"
+        },
+        "DateRangeBlock": {
+          "Title": "Date Range"
+        },
+        "ShareButtonBlock": {
+          "Title": "Share Button",
+          "IconSize": "Icon Size"
+        },
+        "AddFavoriteButtonBlock": {
+          "RenderMode": {
+            "CompactReadonly": "Compact Readonly"
+          },
+          "Title": "Add as Favorite Button"
+        },
+        "AgendaBlock": {
+          "RenderMode": {
+            "DayInWeek": "Day In Week"
+          }
+        }
+      },
+      "Layout": {
+        "Dialog": {
+          "ConfirmCancellation": "Confirm Cancellation",
+          "ConfirmSave": "Confirm Save"
+        },
+        "Validation": {
+          "RequireAtLeastOnePageTypeAdded": "You need to add at least 1 page type."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Extension Administrator"
+      },
+      "App": {
+        "Commons": {
+          "btnOpenFile": "Open File",
+          "textPhoneRequired": "You must enter phone number",
+          "textDomainInputError": "The domain you entered isn`t valid",
+          "textPhoneCountryCodeError": "The phone number you entered isn`t valid. Make sure its really your phone number with country code.",
+          "textLoadFailed": "Load Data Failed, Tap Here To Retry",
+          "titleKaizalaSignIn": "Sign In To Continue",
+          "titleSignOffRequest": "Sign Off Request",
+          "titleOmniaLogin": "Omnia Login",
+          "titleGroupNews": "Group News",
+          "titleOpenJobs": "Open Jobs",
+          "OmniaWebView": {
+            "textLoadingWarning": "Please wait a minute. We are trying to fix the issue when loading Omnia page!",
+            "textLoadingError": "If you still have issue loading Omnia page please press on button reload!"
+          },
+          "AlertUpdateOmniaLanguageByMobileAppLanguage": {
+            "title": "Update Omnia Language",
+            "body": "Do you want to set Omnia Language by device language {nameLanguage}?"
+          },
+          "AlertAddCommentFail": {
+            "textInform": "Failed comment will be deleted!",
+            "textAsk": "Do you want to go to page add comment again?"
+          },
+          "AlertDeleteCommentFail": {
+            "textInfone": "The deleted comment will be retrieved",
+            "textAsk": "Do you want to go to page delete comment again?"
+          },
+          "AlertEditCommentFail": {
+            "textInfone": "The edited comment will be retrieved",
+            "textAsk": "Do you want to go to page edit comment again?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "You can install support app to open this link:"
+            }
+          },
+          "ShareLogsFileOptions": {
+            "title": "Omnia Feed Issue Reporting",
+            "message": "This is debug logs file",
+            "subject": "Issue Reporting"
+          },
+          "FatalErrorBoundary": {
+            "textAppHasFatalErrorPleaseTryToClearAppDataIfYouHaveSameError": "App has fatal error. Please try to reset app data if you have same error."
+          },
+          "AlertUpdateAppRequired": {
+            "Body": "You need to update the app to continue using the app. Please install the latest version from {appStoreTitle}"
+          }
+        }
+      },
+      "PageRollup": {
+        "ListView": {
+          "View": {
+            "Dialog": {
+              "Title": "Omnia Feed Publish Info"
+            }
+          }
+        }
+      }
+    }
+  }
+}
