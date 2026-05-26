@@ -5,7 +5,7 @@
         "Dialogs": {
           "ApprovalFlowPageChanged": {
             "Title": "Siden er endret",
-            "Message": "Denne siden ble endret mens du hadde den åpen fordi en godkjenningsflyt ble startet. Vennligst oppdater for å se de siste endringene.",
+            "Message": "Denne siden ble endret mens du hadde den åpen. Vennligst oppdater for å se de siste endringene.",
             "HasBeenCanceledMessage": "Godkjenningen av siden {{PageTitle}} er kansellert. Vennligst kontakt {{User}} ved eventuelle kommentarer eller spørsmål."
           },
           "CancelApprovalWithApproverDraft": {
