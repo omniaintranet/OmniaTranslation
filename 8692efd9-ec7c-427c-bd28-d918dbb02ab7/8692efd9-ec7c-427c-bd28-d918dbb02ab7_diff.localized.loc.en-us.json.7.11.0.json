@@ -1,0 +1,51 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "TabsValidateMessage": "You need to add at least a tab with query type containing page collections to publish a business profile.",
+        "ResyncNewsArticles": {
+          "ResyncIsProcessingItCanTakeSomeTimeToFinish": "Re-sync is processing, it can take some time to finish."
+        }
+      },
+      "Features": {
+        "AzureIntune": {
+          "Description": "Enable using Azure Intune with Omnia Feed app"
+        }
+      },
+      "App": {
+        "Commons": {
+          "btnSignOut": "Sign Out",
+          "btnReply": "Add reply",
+          "btnComment": "Add comment",
+          "textDomainInputError": "The domain you entered isn't valid",
+          "textPhoneCountryCodeError": "The phone number you entered isn`t valid. Make sure you have entered the correct phone number including country code.",
+          "textLoadFailed": "Loading data failed. Please tap here to retry.",
+          "textNoData": "No data. Please tap here to try again.",
+          "titleSignOffRequest": "Sign-off Request",
+          "AlertAddCommentFail": {
+            "textAsk": "Do you want to go to the page and add the comment again?"
+          },
+          "AlertDeleteCommentFail": {
+            "textAsk": "Do you want to go to page and delete comment again?"
+          },
+          "AlertEditCommentFail": {
+            "textAsk": "Do you want to go to page and edit comment again?"
+          },
+          "AlertOpenLink": {
+            "Message": {
+              "InstallAppConfirmation": "You can install support app to open this link: "
+            }
+          },
+          "ShareOptions": {
+            "title": "Omnia Feed Issue Reporting",
+            "message": "This is debug logs file",
+            "subject": "Issue Reporting"
+          },
+          "ErrorBoundary": {
+            "textAnErrorOccoredInOmniaFeed": "An error occored in Omnia Feed"
+          }
+        }
+      }
+    }
+  }
+}
