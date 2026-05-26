@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Pagina gewijzigd",
+            "Message": "Deze pagina is gewijzigd terwijl u deze open had omdat een goedkeuringsproces is gestart. Vernieuw de pagina om de laatste wijzigingen te zien.",
+            "HasBeenCanceledMessage": "De goedkeuring van pagina {{PageTitle}} is geannuleerd. Neem contact op met {{User}} bij opmerkingen of vragen."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Goedkeuringsproces annuleren",
+            "Message": "U staat op het punt een lopend goedkeuringsproces te annuleren. {{Approver}} beoordeelt het goedkeuringsverzoek en heeft een concept gemaakt. Als de goedkeuring wordt geannuleerd, wordt het werk verwijderd. Doorgaan?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Openen in browser",
+        "OpenInWebNewTab": "Openen in browser (Nieuw tabblad)",
+        "Download": "Downloaden"
+      }
+    }
+  }
+}
