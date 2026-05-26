@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "Thông tin xác thực OAuth2",
+        "GenerateTitle": "Tạo mới",
+        "EditTitle": "Chỉnh sửa",
+        "ClientId": "Client ID",
+        "ClientSecret": "Client secret",
+        "RedirectUri": "Redirect URI",
+        "CopySecretWarning": "Sao chép client secret ngay bây giờ. Nó sẽ không được hiển thị lại.",
+        "McpUri": "MCP URI",
+        "AuthorizeUri": "Authorize URI",
+        "TokenUri": "Token URI"
+      }
+    }
+  }
+}

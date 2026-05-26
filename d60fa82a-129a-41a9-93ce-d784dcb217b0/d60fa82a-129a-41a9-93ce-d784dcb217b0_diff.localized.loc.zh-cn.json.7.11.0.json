@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "页面已更改",
+            "Message": "由于启动了审批流程，您打开的页面已更改。请刷新以查看最新更改。",
+            "HasBeenCanceledMessage": "页面 {{PageTitle}} 的审批已被取消。如有任何意见或问题，请联系 {{User}}。"
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "取消审批流程",
+            "Message": "您即将取消正在进行的审批流程。{{Approver}} 正在审核审批请求并已创建草稿。如果取消审批，相关工作将被删除。是否继续？"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "在浏览器中打开",
+        "OpenInWebNewTab": "在浏览器中打开（新标签页）",
+        "Download": "下载"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Page modifiée",
+            "Message": "Cette page a été modifiée pendant que vous l’aviez ouverte parce qu’un flux d’approbation a été lancé. Veuillez actualiser pour voir les dernières modifications.",
+            "HasBeenCanceledMessage": "L’approbation de la page {{PageTitle}} a été annulée. Veuillez contacter {{User}} en cas de commentaires ou de questions."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Annuler le flux d’approbation",
+            "Message": "Vous êtes sur le point d’annuler un flux d’approbation en cours. {{Approver}} examine la demande d’approbation et a créé un brouillon. Si l’approbation est annulée, le travail sera supprimé. Continuer?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Ouvrir dans le navigateur",
+        "OpenInWebNewTab": "Ouvrir dans le navigateur (Nouvel onglet)",
+        "Download": "Télécharger"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2-legitimasjon",
+        "GenerateTitle": "Generer",
+        "EditTitle": "Rediger",
+        "ClientId": "Klient-ID",
+        "ClientSecret": "Klienthemmelighet",
+        "RedirectUri": "Omdirigerings-URI",
+        "CopySecretWarning": "Kopier klienthemmeligheten din nå. Den vil ikke vises igjen.",
+        "McpUri": "MCP-URI",
+        "AuthorizeUri": "Autoriserings-URI",
+        "TokenUri": "Token-URI"
+      }
+    }
+  }
+}

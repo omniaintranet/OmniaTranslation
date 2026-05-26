@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Página cambiada",
+            "Message": "Esta página cambió mientras la tenías abierta porque se inició un flujo de aprobación. Por favor, actualiza para ver los últimos cambios.",
+            "HasBeenCanceledMessage": "La aprobación de la página {{PageTitle}} ha sido cancelada. Por favor, contacta con {{User}} en caso de comentarios o preguntas."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Cancelar flujo de aprobación",
+            "Message": "Estás a punto de cancelar un flujo de aprobación en curso. {{Approver}} está revisando la solicitud de aprobación y ha creado un borrador. Si se cancela la aprobación, el trabajo será eliminado. ¿Continuar?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Abrir en el navegador",
+        "OpenInWebNewTab": "Abrir en el navegador (Nueva pestaña)",
+        "Download": "Descargar"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2-referenties",
+        "GenerateTitle": "Genereren",
+        "EditTitle": "Bewerken",
+        "ClientId": "Client-ID",
+        "ClientSecret": "Clientgeheim",
+        "RedirectUri": "Redirect-URI",
+        "CopySecretWarning": "Kopieer nu uw clientgeheim. Het wordt niet opnieuw weergegeven.",
+        "McpUri": "MCP-URI",
+        "AuthorizeUri": "Authorize-URI",
+        "TokenUri": "Token-URI"
+      }
+    }
+  }
+}

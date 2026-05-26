@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Sivu muuttui",
+            "Message": "Tämä sivu muuttui, kun sinulla oli se avoinna, koska hyväksymisprosessi käynnistettiin. Päivitä nähdäksesi viimeisimmät muutokset.",
+            "HasBeenCanceledMessage": "Sivun {{PageTitle}} hyväksyminen on peruutettu. Ota yhteyttä käyttäjään {{User}}, jos sinulla on kommentteja tai kysymyksiä."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Peruuta hyväksymisprosessi",
+            "Message": "Olet peruuttamassa käynnissä olevaa hyväksymisprosessia. {{Approver}} tarkastelee hyväksymispyyntöä ja on luonut luonnoksen. Jos hyväksyminen peruutetaan, työ poistetaan. Jatketaanko?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Avaa selaimessa",
+        "OpenInWebNewTab": "Avaa selaimessa (Uusi välilehti)",
+        "Download": "Lataa"
+      }
+    }
+  }
+}
