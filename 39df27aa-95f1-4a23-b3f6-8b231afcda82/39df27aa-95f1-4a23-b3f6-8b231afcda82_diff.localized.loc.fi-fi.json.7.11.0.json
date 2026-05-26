@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2-tunnistetiedot",
+        "GenerateTitle": "Luo",
+        "EditTitle": "Muokkaa",
+        "ClientId": "Asiakas-ID",
+        "ClientSecret": "Asiakkaan salaisuus",
+        "RedirectUri": "Uudelleenohjaus-URI",
+        "CopySecretWarning": "Kopioi asiakkaan salaisuus nyt. Sitä ei näytetä uudelleen.",
+        "McpUri": "MCP-URI",
+        "AuthorizeUri": "Valtuutus-URI",
+        "TokenUri": "Token-URI"
+      }
+    }
+  }
+}
