@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Page changed",
+            "Message": "This page was changed while you had it open because an approval flow was started. Please refresh to see the latest changes.",
+            "HasBeenCanceledMessage": "The approval of page {{PageTitle}} has been canceled. Please contact {{User}} in case of any comments or questions."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Cancel approval flow",
+            "Message": "You are about to cancel an ongoing approval flow. {{Approver}} is reviewing the approval request and has created a draft. If the approval is canceled, the work will be deleted. Continue?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Open in browser",
+        "OpenInWebNewTab": "Open in browser (New tab)",
+        "Download": "Download"
+      }
+    }
+  }
+}
