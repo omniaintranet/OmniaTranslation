@@ -6,7 +6,7 @@
         "GenerateTitle": "Generate",
         "EditTitle": "Edit",
         "ClientId": "Client ID",
-        "ClientSecret": "Client Secret",
+        "ClientSecret": "Client secret",
         "RedirectUri": "Redirect URI",
         "CopySecretWarning": "Copy your client secret now. It will not be shown again.",
         "McpUri": "MCP URI",
