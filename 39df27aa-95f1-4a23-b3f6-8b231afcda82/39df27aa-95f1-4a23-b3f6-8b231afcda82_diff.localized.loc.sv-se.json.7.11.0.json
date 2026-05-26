@@ -5,13 +5,13 @@
         "Title": "OAuth2-referenser",
         "GenerateTitle": "Generera",
         "EditTitle": "Redigera",
-        "ClientId": "Client ID",
-        "ClientSecret": "Client secret",
-        "RedirectUri": "Redirect URI",
-        "CopySecretWarning": "Kopiera din client secret nu. Den kommer inte att visas igen.",
+        "ClientId": "Klient-ID",
+        "ClientSecret": "Klient-hemlighet",
+        "RedirectUri": "Omdirigera URI",
+        "CopySecretWarning": "Kopiera din klient-hemlighet nu. Den kommer inte att visas igen.",
         "McpUri": "MCP URI",
-        "AuthorizeUri": "Authorize URI",
-        "TokenUri": "Token URI"
+        "AuthorizeUri": "URI för auktorisering",
+        "TokenUri": "URI för token"
       }
     }
   }
