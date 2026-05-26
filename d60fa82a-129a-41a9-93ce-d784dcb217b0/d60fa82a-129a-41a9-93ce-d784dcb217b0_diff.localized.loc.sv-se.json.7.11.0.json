@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Sidan har ändrats",
+            "Message": "Denna sida ändrades medan du hade den öppen eftersom ett godkännandeflöde startades. Uppdatera sidan för att se de senaste ändringarna.",
+            "HasBeenCanceledMessage": "Godkännandet av sidan {{PageTitle}} har avbrutits. Vänligen kontakta {{User}} vid eventuella kommentarer eller frågor."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Avbryt godkännandeflöde",
+            "Message": "Du är på väg att avbryta ett pågående godkännandeflöde. {{Approver}} granskar godkännandeförfrågan och har skapat ett utkast. Om godkännandet avbryts kommer arbetet att raderas. Fortsätta?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Öppna i webbläsare",
+        "OpenInWebNewTab": "Öppna i webbläsare (Ny flik)",
+        "Download": "Ladda ner"
+      }
+    }
+  }
+}
