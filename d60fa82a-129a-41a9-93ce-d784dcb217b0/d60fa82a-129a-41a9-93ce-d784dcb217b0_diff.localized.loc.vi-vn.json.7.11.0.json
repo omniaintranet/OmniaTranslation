@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Trang đã thay đổi",
+            "Message": "Trang này đã thay đổi trong khi bạn đang mở vì một luồng phê duyệt đã được bắt đầu. Vui lòng làm mới để xem các thay đổi mới nhất.",
+            "HasBeenCanceledMessage": "Việc phê duyệt trang {{PageTitle}} đã bị hủy. Vui lòng liên hệ với {{User}} nếu có bất kỳ nhận xét hoặc câu hỏi nào."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Hủy luồng phê duyệt",
+            "Message": "Bạn sắp hủy một luồng phê duyệt đang diễn ra. {{Approver}} đang xem xét yêu cầu phê duyệt và đã tạo một bản nháp. Nếu phê duyệt bị hủy, công việc sẽ bị xóa. Tiếp tục?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Mở trong trình duyệt",
+        "OpenInWebNewTab": "Mở trong trình duyệt (Tab mới)",
+        "Download": "Tải xuống"
+      }
+    }
+  }
+}
