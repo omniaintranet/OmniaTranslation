@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2 凭据",
+        "GenerateTitle": "生成",
+        "EditTitle": "编辑",
+        "ClientId": "客户端 ID",
+        "ClientSecret": "客户端密钥",
+        "RedirectUri": "重定向 URI",
+        "CopySecretWarning": "请立即复制您的客户端密钥。它将不再显示。",
+        "McpUri": "MCP URI",
+        "AuthorizeUri": "授权 URI",
+        "TokenUri": "令牌 URI"
+      }
+    }
+  }
+}
