@@ -1,0 +1,18 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "Title": "OAuth2 Credentials",
+        "GenerateTitle": "Generate",
+        "EditTitle": "Edit",
+        "ClientId": "Client ID",
+        "ClientSecret": "Client Secret",
+        "RedirectUri": "Redirect URI",
+        "CopySecretWarning": "Copy your client secret now. It will not be shown again.",
+        "McpUri": "MCP URI",
+        "AuthorizeUri": "Authorize URI",
+        "TokenUri": "Token URI"
+      }
+    }
+  }
+}
