@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Anchor name can contain letters, numbers, spaces, and hyphens only."
+          }
+        }
+      }
+    }
+  }
+}
