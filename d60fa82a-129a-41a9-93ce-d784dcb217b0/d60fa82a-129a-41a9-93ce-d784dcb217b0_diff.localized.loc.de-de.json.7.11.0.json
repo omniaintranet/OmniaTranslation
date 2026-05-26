@@ -1,0 +1,28 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "ApprovalFlowPageChanged": {
+            "Title": "Seite geändert",
+            "Message": "Diese Seite wurde geändert, während Sie sie geöffnet hatten, da ein Abzeichnungsanfrage gestartet wurde. Bitte aktualisieren Sie die Seite, um die neuesten Änderungen zu sehen.",
+            "HasBeenCanceledMessage": "Die Abzeichnung der Seite {{PageTitle}} wurde abgebrochen. Bitte kontaktieren Sie {{User}} bei Kommentaren oder Fragen."
+          },
+          "CancelApprovalWithApproverDraft": {
+            "Title": "Abzeichnungsanfrage abbrechen",
+            "Message": "Sie sind dabei, eine laufende Abzeichnungsanfrage abzubrechen. {{Approver}} überprüft die Abzeichnungsanfrage und hat einen Entwurf erstellt. Wenn die Abzeichnung abgebrochen wird, wird die Arbeit gelöscht. Fortfahren?"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "LinkPicker": {
+      "Document": {
+        "OpenInWeb": "Im Browser öffnen",
+        "OpenInWebNewTab": "Im Browser öffnen (Neuer Tab)",
+        "Download": "Herunterladen"
+      }
+    }
+  }
+}
