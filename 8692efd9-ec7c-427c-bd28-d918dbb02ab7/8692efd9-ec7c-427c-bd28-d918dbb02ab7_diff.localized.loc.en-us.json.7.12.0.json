@@ -1,0 +1,34 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "Validation": {
+          "FiltersMustHaveValue": "All filters must have at least one value selected."
+        }
+      },
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Go back",
+          "navHeaderForward": "Go forward",
+          "pageShare": "Share the page",
+          "pageReact": "Add a reaction to the page",
+          "pageComment": "Add a comment to the page",
+          "pageOpenInBrowser": "Open page in browser",
+          "pageCommentCount": "{count} comments",
+          "pageCommentCountSingular": "{count} comment",
+          "commentMenu": "Open menu for comment",
+          "commentReact": "Add a reaction to the comment",
+          "pageMenu": "Open menu for page",
+          "compactLike": "{count} user likes",
+          "compactLikeSingular": "{count} user like",
+          "compactReaction": "{count} user reactions",
+          "compactReactionSingular": "{count} user reaction",
+          "fullReaction": "{count} user reactions",
+          "fullReactionSingular": "{count} user reaction",
+          "noUserReactions": "No user reactions",
+          "noUserComments": "No user comments"
+        }
+      }
+    }
+  }
+}
