@@ -1,0 +1,161 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Add filter",
+        "ClearAllFilters": "Clear all filters",
+        "BroadenSearch": "+ broaden search",
+        "SelectRowsHint": "Select one or more rows to bulk-edit. Action bar will appear here.",
+        "NoDocumentsMatch": "No documents match this filter",
+        "NoDocumentsMatchSub": "Try removing a filter, or change filter criteria.",
+        "SearchIndexingNotice": "Recently updated documents may not appear immediately — SharePoint search indexing can take a few minutes to reflect changes.",
+        "Field": "Field",
+        "From": "From",
+        "To": "To",
+        "Cancel": "Cancel",
+        "Apply": "Apply",
+        "UpdateProperty": "Update Property",
+        "KqlPlaceholder": "KQL query (e.g. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Switch to criteria mode",
+        "SwitchToKqlMode": "Switch to KQL mode",
+        "StaleFilterBanner": "Filter may be stale",
+        "StaleFilterSub": "was just bulk-changed",
+        "StaleFilterUpdate": "Update:",
+        "StaleFilterRemove": "Remove filter",
+        "StaleFilterKeep": "Keep as-is",
+        "StaleFilterKqlSub": "your KQL may reference a value that was just bulk-changed",
+        "FilterMode": "Filter mode",
+        "HasValue": "Has value",
+        "NoValue": "Empty",
+        "AlwaysAppliedFilter": "Always applied filter",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true is always included in the query to ensure only published documents are returned",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Pick value",
+        "TextSearch": "Text search",
+        "SelectedCount": "{{Count}} selected",
+        "Search": "Search",
+        "Sort": "Sort",
+        "EditFilter": "Edit filter"
+      },
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantic Search Reindex",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "The document was reindexed in semantic search."
+        },
+        "Completed": "Completed",
+        "Find": "Find",
+        "Reindex": "Reindex",
+        "SearchPlaceholder": "Search ...",
+        "SelectDocumentTypesPlaceholder": "Select document types"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "more"
+    },
+    "Core": {
+      "Common": {
+        "Property": "Property"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "File names can't begin or end with a period, or contain any of these characters: / \\\\ < > : * \" ? |."
+      },
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Document search template"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Failed to load document template information."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Cancelled By"
+      },
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Semantic search indexing failed",
+        "SemanticSearchIndexing": "Semantic search indexing"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Semantic search indexing failed",
+        "Message": "This document has been published successfully, but an issue occurred while indexing it to Semantic Search.<br/>Do you want to trigger the indexing process again?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Something went wrong while indexing to semantic search. Please try again."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Document library display",
+      "BlockDescription": "Display a selected SharePoint document library view with folders, filters and export.",
+      "Common": {
+        "ConfigurePrompt": "Configure Site URL, library and either a view or selected fields in settings.",
+        "NoDataToShow": "No data to show.",
+        "LoadMore": "Load more",
+        "Name": "Name",
+        "RootFolder": "Root",
+        "ExportToExcel": "Export to Excel",
+        "Exporting": "Generating Excel file...",
+        "PreviousPage": "Previous page",
+        "NextPage": "Next page",
+        "SortByColumn": "Sort by column",
+        "ExpandGroup": "Expand group",
+        "CollapseGroup": "Collapse group",
+        "ItemType": "Item type"
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "General",
+          "Query": "Query",
+          "Display": "Display",
+          "Filter": "Filter",
+          "Export": "Export"
+        },
+        "SiteUrl": "Site URL",
+        "PickLibrary": "Pick library",
+        "FieldSelectionMode": "Column source",
+        "UseView": "Use SharePoint view",
+        "SelectFieldsDirectly": "Select fields directly",
+        "View": "View",
+        "Paging": "Paging",
+        "PagingType": {
+          "NoPaging": "No paging",
+          "Classic": "Classic"
+        },
+        "ItemLimit": "Item limit",
+        "PageSize": "Rows per page",
+        "ShowBreadcrumb": "Show breadcrumb",
+        "DateDisplayMode": "Date type",
+        "DateModeSource": "Source formatting (SharePoint list)",
+        "DateModeClassic": "Classic",
+        "DateModeSocial": "Social",
+        "DateFormat": "Date format",
+        "ShowExportToExcel": "Show export to Excel",
+        "DisplayFields": "Display fields",
+        "ColumnWidth": "Width (px)",
+        "ShowHeading": "Show heading"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Export file {0} is ready for download."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Select all documents on this page",
+        "SelectDocument": "Select document",
+        "SelectDocumentWithTitle": "Select document {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Process search template"
+        }
+      }
+    }
+  }
+}
