@@ -8,7 +8,7 @@
         "SelectRowsHint": "Välj en eller flera rader för att redigera i bulk. En åtgärdsfält visas här.",
         "NoDocumentsMatch": "Inga dokument matchar detta filter.",
         "NoDocumentsMatchSub": "Försök ta bort ett filter eller ändra filterkriterier.",
-        "SearchIndexingNotice": "Nyligen uppdaterade dokument kan dröja innan de visas – SharePoint-sökindexering kan ta några minuter.",
+        "SearchIndexingNotice": "Det kan dröja lite innan nyligen uppdaterade dokument kan visas – SharePoint-sökindexering kan ta några minuter.",
         "Field": "Fält",
         "From": "Från",
         "To": "Till",
@@ -18,7 +18,7 @@
         "KqlPlaceholder": "KQL-fråga (t.ex. RefinableString10:Medicinsk*)",
         "SwitchToCriteriaMode": "Byt till kriterieläge",
         "SwitchToKqlMode": "Byt till KQL-läge",
-        "StaleFilterBanner": "Filtret kan vara föråldrat.",
+        "StaleFilterBanner": "Filtret kan vara för gammalt.",
         "StaleFilterSub": "ändrades just i bulk",
         "StaleFilterUpdate": "Uppdatera:",
         "StaleFilterRemove": "Ta bort filter",
@@ -49,7 +49,7 @@
     },
     "DocumentLibrary": {
       "FieldNames": {
-        "CancelledBy": "Avbokad av"
+        "CancelledBy": "Avbruten av"
       }
     }
   }
