@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Tilføj filter",
+        "ClearAllFilters": "Ryd alle filtre",
+        "BroadenSearch": "+ udvid søgning",
+        "SelectRowsHint": "Vælg en eller flere rækker for at masseopdatere. En handlingslinje vises her.",
+        "NoDocumentsMatch": "Ingen dokumenter matcher dette filter.",
+        "NoDocumentsMatchSub": "Prøv at fjerne et filter eller ændre filterkriterier.",
+        "SearchIndexingNotice": "Nyligt opdaterede dokumenter vises muligvis ikke med det samme — SharePoint søgeindeksering kan tage et par minutter.",
+        "Field": "Felt",
+        "From": "Fra",
+        "To": "Til",
+        "Cancel": "Annuller",
+        "Apply": "Anvend",
+        "UpdateProperty": "Opdater egenskab",
+        "KqlPlaceholder": "KQL-forespørgsel (f.eks. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Skift til kriterietilstand",
+        "SwitchToKqlMode": "Skift til KQL-tilstand",
+        "StaleFilterBanner": "Filter kan være forældet.",
+        "StaleFilterSub": "blev netop masseændret",
+        "StaleFilterUpdate": "Opdater:",
+        "StaleFilterRemove": "Fjern filter",
+        "StaleFilterKeep": "Behold som det er",
+        "StaleFilterKqlSub": "din KQL kan referere til en værdi, der netop blev masseændret.",
+        "FilterMode": "Filtertilstand",
+        "HasValue": "Har værdi",
+        "NoValue": "Tom",
+        "AlwaysAppliedFilter": "Anvend altid filter",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, er altid inkluderet i forespørgslen for at sikre, at kun publicerede dokumenter vises.",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Vælg værdi",
+        "TextSearch": "Tekstsøgning",
+        "SelectedCount": "{{Count}} valgt",
+        "Search": "Søg",
+        "Sort": "Sorter",
+        "EditFilter": "Rediger filter"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Egenskab"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Filnavne kan ikke starte eller slutte med et punktum eller indeholde nogen af disse tegn: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Annulleret af"
+      }
+    }
+  }
+}
