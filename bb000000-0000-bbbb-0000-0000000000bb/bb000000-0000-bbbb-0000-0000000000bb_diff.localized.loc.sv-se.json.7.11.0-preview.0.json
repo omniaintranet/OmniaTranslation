@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Den här filtypen stöds inte. Försök igen med JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- eller WEBP-filer."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankarnamn får endast innehålla bokstäver, siffror, mellanslag och bindestreck."
+          }
+        }
+      }
+    }
+  }
+}
