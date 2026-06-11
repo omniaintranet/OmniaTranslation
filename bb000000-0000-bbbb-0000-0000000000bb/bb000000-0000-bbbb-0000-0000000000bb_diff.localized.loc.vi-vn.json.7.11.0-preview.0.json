@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Loại tệp này không được hỗ trợ. Vui lòng thử lại với các tệp JPEG, PNG, BMP, GIF, SVG, ICO hoặc WEBP."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Tên anchor chỉ có thể chứa chữ cái, số, dấu cách và dấu gạch ngang."
+          }
+        }
+      }
+    }
+  }
+}
