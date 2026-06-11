@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Ce type de fichier n’est pas pris en charge. Veuillez réessayer avec des fichiers JPEG, PNG, BMP, GIF, SVG, ICO ou WEBP."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Le nom de l’ancre ne peut contenir que des lettres, des chiffres, des espaces et des traits d’union."
+          }
+        }
+      }
+    }
+  }
+}
