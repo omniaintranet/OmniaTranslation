@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "您确定要重试重新同步用户吗？"
+          }
+        }
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "启用使用 Omnia Entra ID 应用程序，而不是 Omnia Feed Entra ID 应用程序。"
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "扩展管理员"
+      }
+    }
+  }
+}
