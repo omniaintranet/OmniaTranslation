@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Weet u zeker dat u het opnieuw synchroniseren van gebruikers wilt proberen?"
+          }
+        }
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Maakt het mogelijk om de Omnia Entra ID-app te gebruiken in plaats van de Omnia Feed Entra ID-app."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Extensiebeheerder"
+      }
+    }
+  }
+}
