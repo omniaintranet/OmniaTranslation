@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Filter toevoegen",
+        "ClearAllFilters": "Alle filters wissen",
+        "BroadenSearch": "+ zoekopdracht verbreden",
+        "SelectRowsHint": "Selecteer één of meer rijen om in bulk te bewerken. Er verschijnt hier een actiebalk.",
+        "NoDocumentsMatch": "Geen documenten komen overeen met dit filter.",
+        "NoDocumentsMatchSub": "Probeer een filter te verwijderen of wijzig de filtercriteria.",
+        "SearchIndexingNotice": "Recent bijgewerkte documenten verschijnen mogelijk niet onmiddellijk — SharePoint zoekindexering kan enkele minuten duren.",
+        "Field": "Veld",
+        "From": "Van",
+        "To": "Tot",
+        "Cancel": "Annuleren",
+        "Apply": "Toepassen",
+        "UpdateProperty": "Eigenschap bijwerken",
+        "KqlPlaceholder": "KQL-query (bijv. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Overschakelen naar criteriamodus",
+        "SwitchToKqlMode": "Overschakelen naar KQL-modus",
+        "StaleFilterBanner": "Filter kan verouderd zijn.",
+        "StaleFilterSub": "is zojuist in bulk gewijzigd",
+        "StaleFilterUpdate": "Bijwerken:",
+        "StaleFilterRemove": "Filter verwijderen",
+        "StaleFilterKeep": "Ongewijzigd houden",
+        "StaleFilterKqlSub": "je KQL kan verwijzen naar een waarde die zojuist in bulk is gewijzigd.",
+        "FilterMode": "Filtermodus",
+        "HasValue": "Heeft waarde",
+        "NoValue": "Leeg",
+        "AlwaysAppliedFilter": "Filter altijd toepassen",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, wordt altijd opgenomen in de query om ervoor te zorgen dat alleen gepubliceerde documenten worden weergegeven.",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Waarde kiezen",
+        "TextSearch": "Tekst zoeken",
+        "SelectedCount": "{{Count}} geselecteerd",
+        "Search": "Zoeken",
+        "Sort": "Sorteren",
+        "EditFilter": "Filter bewerken"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Eigenschap"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Bestandsnamen mogen niet beginnen of eindigen met een punt, of een van deze tekens bevatten: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Geannuleerd door"
+      }
+    }
+  }
+}
