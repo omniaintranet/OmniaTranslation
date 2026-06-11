@@ -9,7 +9,7 @@
       "RichTextEditor": {
         "Extensions": {
           "AnchorLink": {
-            "InvalidAnchorNameMessage": "Anchor name can contain letters, numbers, spaces, and hyphens only."
+            "InvalidAnchorNameMessage": "Anchor name can only contain letters, numbers, spaces, and hyphens."
           }
         }
       }
