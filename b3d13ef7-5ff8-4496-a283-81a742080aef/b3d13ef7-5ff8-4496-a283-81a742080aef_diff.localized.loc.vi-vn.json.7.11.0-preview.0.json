@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Thêm bộ lọc",
+        "ClearAllFilters": "Xóa tất cả bộ lọc",
+        "BroadenSearch": "+ mở rộng tìm kiếm",
+        "SelectRowsHint": "Chọn một hoặc nhiều hàng để chỉnh sửa hàng loạt. Thanh hành động sẽ xuất hiện ở đây.",
+        "NoDocumentsMatch": "Không có tài liệu nào phù hợp với bộ lọc này.",
+        "NoDocumentsMatchSub": "Hãy thử loại bỏ một bộ lọc hoặc thay đổi tiêu chí bộ lọc.",
+        "SearchIndexingNotice": "Các tài liệu mới cập nhật có thể không xuất hiện ngay lập tức — việc lập chỉ mục tìm kiếm SharePoint có thể mất vài phút.",
+        "Field": "Trường",
+        "From": "Từ",
+        "To": "Đến",
+        "Cancel": "Hủy",
+        "Apply": "Áp dụng",
+        "UpdateProperty": "Cập nhật thuộc tính",
+        "KqlPlaceholder": "Truy vấn KQL (ví dụ: RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Chuyển sang chế độ tiêu chí",
+        "SwitchToKqlMode": "Chuyển sang chế độ KQL",
+        "StaleFilterBanner": "Bộ lọc có thể đã lỗi thời.",
+        "StaleFilterSub": "vừa được thay đổi hàng loạt",
+        "StaleFilterUpdate": "Cập nhật:",
+        "StaleFilterRemove": "Xóa bộ lọc",
+        "StaleFilterKeep": "Giữ nguyên",
+        "StaleFilterKqlSub": "KQL của bạn có thể tham chiếu đến một giá trị vừa được thay đổi hàng loạt.",
+        "FilterMode": "Chế độ bộ lọc",
+        "HasValue": "Có giá trị",
+        "NoValue": "Trống",
+        "AlwaysAppliedFilter": "Luôn áp dụng bộ lọc",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, luôn được bao gồm trong truy vấn để đảm bảo chỉ liệt kê các tài liệu đã được xuất bản.",
+        "FilterLabel": "Bộ lọc",
+        "KqlMode": "KQL",
+        "PickValue": "Chọn giá trị",
+        "TextSearch": "Tìm kiếm văn bản",
+        "SelectedCount": "{{Count}} đã chọn",
+        "Search": "Tìm kiếm",
+        "Sort": "Sắp xếp",
+        "EditFilter": "Chỉnh sửa bộ lọc"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Thuộc tính"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Tên tệp không được bắt đầu hoặc kết thúc bằng dấu chấm, hoặc chứa bất kỳ ký tự nào sau đây: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Đã hủy bởi"
+      }
+    }
+  }
+}
