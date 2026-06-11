@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Bạn có chắc chắn muốn thử đồng bộ lại người dùng không?"
+          }
+        }
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Cho phép sử dụng ứng dụng Omnia Entra ID thay vì ứng dụng Omnia Feed Entra ID."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Quản trị viên mở rộng"
+      }
+    }
+  }
+}
