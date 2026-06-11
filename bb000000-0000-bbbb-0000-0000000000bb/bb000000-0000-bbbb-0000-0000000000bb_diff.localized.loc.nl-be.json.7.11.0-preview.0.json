@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Dit bestandstype wordt niet ondersteund. Probeer het opnieuw met JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- of WEBP-bestanden."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankernaam mag alleen letters, cijfers, spaties en koppeltekens bevatten."
+          }
+        }
+      }
+    }
+  }
+}
