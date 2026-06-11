@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Add filter",
+        "ClearAllFilters": "Clear all filters",
+        "BroadenSearch": "+ broaden search",
+        "SelectRowsHint": "Select one or more rows to bulk-edit. An action bar will appear here.",
+        "NoDocumentsMatch": "No documents match this filter.",
+        "NoDocumentsMatchSub": "Try removing a filter, or change filter criteria.",
+        "SearchIndexingNotice": "Recently updated documents may not appear immediately — SharePoint search indexing can take a few minutes.",
+        "Field": "Field",
+        "From": "From",
+        "To": "To",
+        "Cancel": "Cancel",
+        "Apply": "Apply",
+        "UpdateProperty": "Update property",
+        "KqlPlaceholder": "KQL query (e.g. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Switch to criteria mode",
+        "SwitchToKqlMode": "Switch to KQL mode",
+        "StaleFilterBanner": "Filter may be stale.",
+        "StaleFilterSub": "was just bulk-changed",
+        "StaleFilterUpdate": "Update:",
+        "StaleFilterRemove": "Remove filter",
+        "StaleFilterKeep": "Keep as-is",
+        "StaleFilterKqlSub": "your KQL may reference a value that was just bulk-changed.",
+        "FilterMode": "Filter mode",
+        "HasValue": "Has value",
+        "NoValue": "Empty",
+        "AlwaysAppliedFilter": "Always apply filter",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, is always included in the query to ensure only published documents are listed.",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Pick value",
+        "TextSearch": "Text search",
+        "SelectedCount": "{{Count}} selected",
+        "Search": "Search",
+        "Sort": "Sort",
+        "EditFilter": "Edit filter"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Property"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "File names can't begin or end with a period, or contain any of these characters: / \\\\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Cancelled by"
+      }
+    }
+  }
+}
