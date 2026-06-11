@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Ajouter un filtre",
+        "ClearAllFilters": "Effacer tous les filtres",
+        "BroadenSearch": "+ élargir la recherche",
+        "SelectRowsHint": "Sélectionnez une ou plusieurs lignes pour modification en masse. Une barre d’action apparaîtra ici.",
+        "NoDocumentsMatch": "Aucun document ne correspond à ce filtre.",
+        "NoDocumentsMatchSub": "Essayez de supprimer un filtre ou de modifier les critères du filtre.",
+        "SearchIndexingNotice": "Les documents récemment mis à jour peuvent ne pas apparaître immédiatement — l’indexation de la recherche SharePoint peut prendre quelques minutes.",
+        "Field": "Champ",
+        "From": "De",
+        "To": "À",
+        "Cancel": "Annuler",
+        "Apply": "Appliquer",
+        "UpdateProperty": "Mettre à jour la propriété",
+        "KqlPlaceholder": "Requête KQL (ex. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Passer en mode critères",
+        "SwitchToKqlMode": "Passer en mode KQL",
+        "StaleFilterBanner": "Le filtre peut être périmé.",
+        "StaleFilterSub": "vient d’être modifié en masse",
+        "StaleFilterUpdate": "Mettre à jour :",
+        "StaleFilterRemove": "Supprimer le filtre",
+        "StaleFilterKeep": "Conserver tel quel",
+        "StaleFilterKqlSub": "votre KQL peut référencer une valeur qui vient d’être modifiée en masse.",
+        "FilterMode": "Mode filtre",
+        "HasValue": "A une valeur",
+        "NoValue": "Vide",
+        "AlwaysAppliedFilter": "Appliquer toujours le filtre",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, est toujours inclus dans la requête pour garantir que seuls les documents publiés sont listés.",
+        "FilterLabel": "Filtre",
+        "KqlMode": "KQL",
+        "PickValue": "Choisir une valeur",
+        "TextSearch": "Recherche textuelle",
+        "SelectedCount": "{{Count}} sélectionné(s)",
+        "Search": "Rechercher",
+        "Sort": "Trier",
+        "EditFilter": "Modifier le filtre"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Propriété"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Les noms de fichiers ne peuvent pas commencer ou se terminer par un point, ni contenir l’un des caractères suivants : / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Annulé par"
+      }
+    }
+  }
+}
