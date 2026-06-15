@@ -21,8 +21,8 @@
         "NoAdditionalFonts": "No additional fonts added.",
         "AdditionalFontsHelp": "Additional fonts are loaded on the page, but are not applied automatically.",
         "ApplyTo": "Apply to",
-        "ScopeOmniaAdmin": "Omnia Admin - will apply to Omnia Admin",
-        "ScopeEditorTools": "Editor tools - Will apply to the WCM editor, all block settings.",
+        "ScopeOmniaAdmin": "Omnia admin - will apply to Omnia admin",
+        "ScopeEditorTools": "Editor tools - Will apply to the WCM editor, all block settings",
         "ScopeReadMode": "Read mode - Will apply in all read mode",
         "PreviewTitle": "Preview",
         "DisplayText": "Display text",
@@ -43,32 +43,32 @@
       "DatetimePicker": {
         "SetAM": "Set AM",
         "SetPM": "Set PM",
-        "PreviousMonth": "Previous Month",
-        "NextMonth": "Next Month",
+        "PreviousMonth": "Previous month",
+        "NextMonth": "Next month",
         "ClickToSelectMonth": "Click to select month.",
         "ClickToSelectYear": "Click to select year.",
         "SelectedDatePrefix": "Selected date",
         "TodayPrefix": "Today",
-        "PreviousYear": "Previous Year",
-        "NextYear": "Next Year",
+        "PreviousYear": "Previous year",
+        "NextYear": "Next year",
         "CurrentYearIs": "Current year is",
         "SelectedMonthPrefix": "Selected month",
         "YearLabel": "Year",
         "PreviousYears": "Previous years",
         "NextYears": "Next years",
         "SelectedYearPrefix": "Selected year",
-        "IncreaseHour": "Increase Hour",
-        "DecreaseHour": "Decrease Hour",
-        "IncreaseMinute": "Increase Minute",
-        "DecreaseMinute": "Decrease Minute",
+        "IncreaseHour": "Increase hour",
+        "DecreaseHour": "Decrease hour",
+        "IncreaseMinute": "Increase minute",
+        "DecreaseMinute": "Decrease minute",
         "HourLabel": "Hour",
         "MinuteLabel": "Minute",
         "Cancel": "Cancel",
         "Add": "Add",
-        "MonthPicker": "Month Picker",
-        "YearPicker": "Year Picker",
-        "TimePicker": "Time Picker",
-        "CalendarPicker": "Calendar Picker"
+        "MonthPicker": "Month picker",
+        "YearPicker": "Year picker",
+        "TimePicker": "Time picker",
+        "CalendarPicker": "Calendar picker"
       },
       "DatetimeZonePicker": {
         "SetAM": "Set AM",
@@ -150,13 +150,13 @@
       },
       "Features": {
         "AIEngine": {
-          "Title": "Semantic Search",
-          "Description": "Enable this feature to give your system access to the Semantic Search"
+          "Title": "Semantic search",
+          "Description": "Enable this feature to give your system access to Semantic search"
         },
         "NextGenUI": {
           "Category": "System",
-          "Title": "Next Gen UI",
-          "Description": "Activate this feature to apply the new UI"
+          "Title": "Next gen UI",
+          "Description": "Activate this feature to apply the new UI."
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
@@ -191,7 +191,7 @@
             "ElementOptions": {
               "Default": "Default"
             },
-            "FontFamily": "Font Family",
+            "FontFamily": "Font family",
             "AlignLeft": "Align left",
             "AlignCenter": "Align center",
             "AlignRight": "Align right"
@@ -219,10 +219,10 @@
       },
       "RichTextEditor": {
         "Extensions": {
-          "NoTranslate": "No Translate"
+          "NoTranslate": "No translation"
         },
         "Tooltip": {
-          "NoTranslate": "No Translate"
+          "NoTranslate": "No translation"
         }
       },
       "Comment": {
@@ -243,13 +243,13 @@
       "Features": {
         "SPFxPerformanceEnhancement": {
           "Category": "System",
-          "Description": "Enhancement to load omnia faster in SPFx.",
+          "Description": "Enhancement to load Omnia faster in SPFx.",
           "Title": "SPFx performance enhancement"
         },
         "SharePointFont": {
           "Category": "System",
           "Description": "Enables Omnia SPFx webparts to align with the SharePoint site's configured font.",
-          "Title": "SharePoint Font"
+          "Title": "SharePoint font"
         }
       }
     },
@@ -258,14 +258,14 @@
         "TargetingPersonas": "Targeting personas",
         "TargetingPersonaTitle": "Targeting persona",
         "SelectPersona": "Select persona",
-        "ViewingAs": "Viewing As",
+        "ViewingAs": "Viewing as",
         "ViewingAsLabel": "Viewing as",
-        "TargetingPersonasAdministrators": "Targeting Personas Administrators",
-        "TargetingPersonasUsers": "Targeting Personas Users",
+        "TargetingPersonasAdministrators": "Targeting personas administrators",
+        "TargetingPersonasUsers": "Targeting personas users",
         "CreateTargetingPersona": "Create targeting persona",
         "EditTargetingPersona": "Edit targeting persona",
         "TargetingProperties": "Targeting properties",
-        "AddTargetingProperty": "Add Targeting property",
+        "AddTargetingProperty": "Add targeting property",
         "Delete": "Delete",
         "Save": "Save",
         "Create": "Create",
@@ -281,7 +281,7 @@
       }
     },
     "AuthenticationChecker": {
-      "Title": "Your session has expired",
+      "Title": "Your session has expired.",
       "Message": "We couldn't refresh your sign-in in the background. Reload Omnia to keep working - we'll do it for you shortly.",
       "Seconds": "seconds",
       "Skip": "Reload later"
