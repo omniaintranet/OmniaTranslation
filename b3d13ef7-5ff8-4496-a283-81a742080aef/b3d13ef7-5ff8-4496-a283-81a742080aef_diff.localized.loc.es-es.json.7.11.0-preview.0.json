@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Añadir filtro",
+        "ClearAllFilters": "Borrar todos los filtros",
+        "BroadenSearch": "+ ampliar búsqueda",
+        "SelectRowsHint": "Seleccione una o más filas para edición masiva. Aparecerá una barra de acciones aquí.",
+        "NoDocumentsMatch": "Ningún documento coincide con este filtro.",
+        "NoDocumentsMatchSub": "Intente eliminar un filtro o cambiar los criterios del filtro.",
+        "SearchIndexingNotice": "Los documentos actualizados recientemente pueden no aparecer de inmediato: la indexación de búsqueda de SharePoint puede tardar unos minutos.",
+        "Field": "Campo",
+        "From": "Desde",
+        "To": "Hasta",
+        "Cancel": "Cancelar",
+        "Apply": "Aplicar",
+        "UpdateProperty": "Actualizar propiedad",
+        "KqlPlaceholder": "Consulta KQL (p. ej. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Cambiar a modo criterios",
+        "SwitchToKqlMode": "Cambiar a modo KQL",
+        "StaleFilterBanner": "El filtro puede estar obsoleto.",
+        "StaleFilterSub": "acaba de cambiarse masivamente",
+        "StaleFilterUpdate": "Actualizar:",
+        "StaleFilterRemove": "Eliminar filtro",
+        "StaleFilterKeep": "Mantener tal cual",
+        "StaleFilterKqlSub": "su KQL puede hacer referencia a un valor que acaba de cambiarse masivamente.",
+        "FilterMode": "Modo filtro",
+        "HasValue": "Tiene valor",
+        "NoValue": "Vacío",
+        "AlwaysAppliedFilter": "Aplicar filtro siempre",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, siempre se incluye en la consulta para asegurar que solo se listan documentos publicados.",
+        "FilterLabel": "Filtro",
+        "KqlMode": "KQL",
+        "PickValue": "Seleccionar valor",
+        "TextSearch": "Búsqueda de texto",
+        "SelectedCount": "{{Count}} seleccionado(s)",
+        "Search": "Buscar",
+        "Sort": "Ordenar",
+        "EditFilter": "Editar filtro"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Propiedad"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Los nombres de archivo no pueden comenzar ni terminar con un punto, ni contener ninguno de estos caracteres: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Cancelado por"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Tiedostotyyppiä ei tueta. Yritä uudelleen JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- tai WEBP-tiedostojen kanssa."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Ankkurin nimi voi sisältää vain kirjaimia, numeroita, välilyöntejä ja yhdysmerkkejä."
+          }
+        }
+      }
+    }
+  }
+}

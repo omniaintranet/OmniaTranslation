@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "不支持此文件类型。请尝试使用 JPEG、PNG、BMP、GIF、SVG、ICO 或 WEBP 文件。"
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "锚点名称只能包含字母、数字、空格和连字符。"
+          }
+        }
+      }
+    }
+  }
+}

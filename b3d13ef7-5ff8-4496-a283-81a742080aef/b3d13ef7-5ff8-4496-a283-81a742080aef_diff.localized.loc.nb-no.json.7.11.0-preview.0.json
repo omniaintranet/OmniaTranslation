@@ -1,0 +1,56 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Legg til filter",
+        "ClearAllFilters": "Fjern alle filtre",
+        "BroadenSearch": "+ utvid søket",
+        "SelectRowsHint": "Velg én eller flere rader for masse-redigering. En handlingslinje vil vises her.",
+        "NoDocumentsMatch": "Ingen dokumenter samsvarer med dette filteret.",
+        "NoDocumentsMatchSub": "Prøv å fjerne et filter, eller endre filterkriteriene.",
+        "SearchIndexingNotice": "Nylig oppdaterte dokumenter kan ikke vises umiddelbart — SharePoint søkeindeksering kan ta noen minutter.",
+        "Field": "Felt",
+        "From": "Fra",
+        "To": "Til",
+        "Cancel": "Avbryt",
+        "Apply": "Bruk",
+        "UpdateProperty": "Oppdater egenskap",
+        "KqlPlaceholder": "KQL-spørring (f.eks. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Bytt til kriteriemodus",
+        "SwitchToKqlMode": "Bytt til KQL-modus",
+        "StaleFilterBanner": "Filteret kan være utdatert.",
+        "StaleFilterSub": "ble nettopp endret i bulk",
+        "StaleFilterUpdate": "Oppdater:",
+        "StaleFilterRemove": "Fjern filter",
+        "StaleFilterKeep": "Behold som det er",
+        "StaleFilterKqlSub": "din KQL kan referere til en verdi som nettopp ble endret i bulk.",
+        "FilterMode": "Filtermodus",
+        "HasValue": "Har verdi",
+        "NoValue": "Tom",
+        "AlwaysAppliedFilter": "Alltid bruk filter",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true, er alltid inkludert i spørringen for å sikre at kun publiserte dokumenter listes.",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Velg verdi",
+        "TextSearch": "Tekstsøk",
+        "SelectedCount": "{{Count}} valgt",
+        "Search": "Søk",
+        "Sort": "Sorter",
+        "EditFilter": "Rediger filter"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Egenskap"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Filnavn kan ikke begynne eller slutte med et punktum, eller inneholde noen av disse tegnene: / \\ < > : * \" ? |."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Avbrutt av"
+      }
+    }
+  }
+}

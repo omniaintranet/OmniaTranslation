@@ -1,0 +1,21 @@
+{
+  "Omnia": {
+    "Feed": {
+      "Settings": {
+        "ResyncUsers": {
+          "Dialog": {
+            "MessageRetryResyncAllUsers": "Er du virkelig sikker på, at du vil prøve at synkronisere brugere igen?"
+          }
+        }
+      },
+      "Features": {
+        "UseOmniaApp": {
+          "Description": "Muliggør brug af Omnia Entra ID-appen i stedet for Omnia Feed Entra ID-appen."
+        }
+      },
+      "OFMC": {
+        "PermissionBindingLabel": "Udvidelsesadministrator"
+      }
+    }
+  }
+}

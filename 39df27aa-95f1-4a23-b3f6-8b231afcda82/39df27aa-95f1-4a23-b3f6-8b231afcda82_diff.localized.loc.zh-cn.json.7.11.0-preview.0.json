@@ -1,0 +1,9 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "客户端密钥"
+      }
+    }
+  }
+}

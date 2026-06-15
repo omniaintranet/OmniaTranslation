@@ -1,0 +1,18 @@
+{
+  "Omnia": {
+    "Ux": {
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Dieser Dateityp wird nicht unterstützt. Bitte versuchen Sie es erneut mit JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- oder WEBP-Dateien."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "AnchorLink": {
+            "InvalidAnchorNameMessage": "Der Ankername darf nur Buchstaben, Zahlen, Leerzeichen und Bindestriche enthalten."
+          }
+        }
+      }
+    }
+  }
+}
