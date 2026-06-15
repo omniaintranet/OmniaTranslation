@@ -3,7 +3,7 @@
     "BusinessProfile": {
       "MediaPicker": {
         "InheritFromTenant": "Inherit from tenant",
-        "ImageScaling": "Image Scaling",
+        "ImageScaling": "Image scaling",
         "CropRatios": {
           "BusinessProfileOverrideNotSupported": "Overriding crop ratios on business profile level is not supported.",
           "SelectTenantRatios": "Select which tenant crop ratios to use in this business profile."
@@ -17,9 +17,9 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "SemanticSearchFullReindex": {
-          "Title": "Semantic Search Full Reindex",
-          "Disclaimer": "Semantic search will be unavailable while reindexing is in progress. This operation may take a significant amount of time depending on the amount of content.",
-          "StartButton": "Start Full Reindex",
+          "Title": "Semantic search full reindex",
+          "Disclaimer": "Semantic search will be unavailable while reindexing is in progress. This operation may take quite some time depending on the amount of content.",
+          "StartButton": "Start full reindex",
           "Running": "Reindexing in progress...",
           "ConfirmTitle": "Start full reindex",
           "ConfirmMessage": "Are you sure you want to start a full semantic search reindex?",
@@ -33,30 +33,30 @@
     },
     "TextStyles": {
       "FontWeight": "Font weight",
-      "FontWeightInvalid": "Enter a valid font weight (normal, bold, bolder, lighter or a number between 1 and 1000)",
+      "FontWeightInvalid": "Enter a valid font weight (normal, bold, bolder, lighter or a number between 1 and 1000).",
       "InheritFromTenant": "Inherit from tenant",
       "ApplyEverywhere": "Apply everywhere",
       "ApplyEverywhereDescription": "When enabled, the built-in text styles are applied to all matching elements across the solution. When disabled, they only affect rich text editor content. Custom text styles always remain scoped to the rich text editor."
     },
     "System": {
       "SPFxInstruction": {
-        "CreateAppCatalogScreenshotAlt": "Screenshot showing where to create a SharePoint app catalog site",
-        "UploadPackageScreenshotAlt": "Screenshot showing where to upload the SharePoint package in Apps for SharePoint",
-        "AvailableToAllSitesScreenshotAlt": "Screenshot showing the option to make the SharePoint package available to all sites"
+        "CreateAppCatalogScreenshotAlt": "Screenshot showing where to create a SharePoint app catalog site.",
+        "UploadPackageScreenshotAlt": "Screenshot showing where to upload the SharePoint package in Apps for SharePoint.",
+        "AvailableToAllSitesScreenshotAlt": "Screenshot showing the option to make the SharePoint package available to all sites."
       }
     }
   },
   "OmniaWorkplace": {
     "EnterpriseGlossary": {
-      "InvalidTaxonomyTitle": "Term set ID is missing or invalid for this taxonomy glossary",
+      "InvalidTaxonomyTitle": "Term set ID is missing or invalid for this taxonomy glossary.",
       "Default": "Default",
       "RemoveDefaultUISettingsConfirmation": {
-        "Title": "Remove Default Icon And Color",
+        "Title": "Remove default icon and color",
         "Message": "Are you sure you want to remove the default look and feel settings?"
       }
     },
     "HeaderSettings": {
-      "SearchBoxStyle": "Search Box Style",
+      "SearchBoxStyle": "Search box style",
       "SearchBoxStyleOptions": {
         "M365Style": "M365 Style",
         "WCAGCompliant": "WCAG compliant"
@@ -65,14 +65,14 @@
     "Workspace": {
       "Admin": {
         "NavigationBar": {
-          "LeftPanelLayouts": "Left Panel",
-          "LeftPanelLayoutsSettings": "Left Panel",
+          "LeftPanelLayouts": "Left panel",
+          "LeftPanelLayoutsSettings": "Left panel",
           "CustomFontFamily": "Custom font family",
-          "CenterMenu": "Center Menu",
-          "CenterMenuWidth": "Centered Width (px)",
-          "ForceUppercase": "Force Uppercase",
-          "ShowIcons": "Show Icons",
-          "HideText": "Hide Text"
+          "CenterMenu": "Center menu",
+          "CenterMenuWidth": "Centered width (px)",
+          "ForceUppercase": "Force uppercase",
+          "ShowIcons": "Show icons",
+          "HideText": "Hide text"
         }
       }
     },
@@ -89,36 +89,36 @@
         "Social": "Social",
         "Classic": "Classic",
         "DateFormat": "Date format",
-        "NoResultText": "No Result Text",
-        "ModernAnnoucement": "Modern Announcement"
+        "NoResultText": "No result text",
+        "ModernAnnoucement": "Modern announcement"
       },
       "CommentCount": "{0} comments"
     },
     "Core": {
       "Features": {
         "ShowLeftPanel": {
-          "Title": "Show Left Panel",
+          "Title": "Show left panel",
           "Category": "System",
           "Description": "Show the left panel on the current app instance."
         },
         "CopilotChat": {
-          "Title": "Copilot Chat"
+          "Title": "Copilot chat"
         },
         "AnalyticsForSpfx": {
           "Title": "Analytics for SPFx",
-          "Description": "Enables automated user activity tracking on SharePoint pages via Matomo",
+          "Description": "Enables automated user activity tracking on SharePoint pages via Matomo.",
           "Category": "System"
         }
       },
       "Accessibility": {
         "ActionMenu": {
-          "MainMenuLabel": "Action Menu"
+          "MainMenuLabel": "Action menu"
         }
       }
     },
     "ListRollup": {
       "ViewTitle": {
-        "List": "List View"
+        "List": "List view"
       },
       "Exporting": {
         "FileReadyForDownload": "Export file {0} is ready for download."
@@ -129,9 +129,9 @@
         "ManageLinks": "Manage links"
       },
       "MyLinks": {
-        "AddMyLinksAriaLabel": "Add link titled \"{LinkTitle}\" to My Links",
-        "DeleteMyLinksAriaLabel": "Delete link titled \"{LinkTitle}\" from My Links",
-        "RemoveMyLinksAriaLabel": "Remove link titled \"{LinkTitle}\" from My Links",
+        "AddMyLinksAriaLabel": "Add link titled \"{LinkTitle}\" to My links",
+        "DeleteMyLinksAriaLabel": "Delete link titled \"{LinkTitle}\" from My links",
+        "RemoveMyLinksAriaLabel": "Remove link titled \"{LinkTitle}\" from My links",
         "EditLinkAriaLabel": "Edit link titled \"{LinkTitle}\""
       },
       "AppLaunch": {
@@ -140,9 +140,9 @@
         "Document": "Document",
         "FindMicrosoft365Apps": "Find Microsoft 365 apps",
         "Presentation": "Presentation",
-        "SearchBoxAriaLabel": "Search box. Suggestions appear as you type",
+        "SearchBoxAriaLabel": "Search box. Suggestions appear as you type.",
         "SearchMicrosoft365Apps": "Search all your Microsoft 365 apps",
-        "SearchResults": "Search Results",
+        "SearchResults": "Search results",
         "Survey": "Survey",
         "Workbook": "Workbook"
       },
@@ -158,7 +158,7 @@
         "ShowMoreButton": "Show more button",
         "ShowMoreAriaLabel": "Show more button aria label",
         "ShowLessAriaLabel": "Show less button aria label",
-        "HideShowMoreButton": "Hide show more button",
+        "HideShowMoreButton": "Hide Show more button",
         "HideLinkTitle": "Hide link title",
         "SquareDesign": "Square design",
         "FontSize": "Font size",
@@ -181,7 +181,7 @@
       "Admin": {
         "SearchTemplatesOrderInfo": "Search templates are applied in the order listed. If a result matches multiple templates, the first match is used.",
         "LongDescription": "Long description",
-        "SearchFeedbackPosition": "Search Feedback Position",
+        "SearchFeedbackPosition": "Search feedback position",
         "UserProperties": "User properties",
         "FilterValueTypes": {
           "FilterValueType": "Filter value type",
@@ -191,7 +191,7 @@
       },
       "SemanticSearch": {
         "CertainResponseMessage": {
-          "UnableToGenerateResponse": "From the content I have access to, I couldn't infer an answer to your question.",
+          "UnableToGenerateResponse": "From the content I have access to, I couldn't determine an answer to your question.",
           "RequestMoreContext": "Can you please provide more context or clarify your question?"
         }
       },
@@ -239,25 +239,25 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "SharePoint Page Rollup",
+          "Title": "SharePoint page rollup",
           "Summary": "List SharePoint pages."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "SharePoint Page Rollup",
+      "SharePointPageControlTitle": "SharePoint page rollup",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
         },
         "FilterByExpirationTime": "Filter by expiration time",
         "QueryConfigurationTypes": {
-          "PickPages": "Pick Pages",
-          "UseQueryBuilder": "Use Query Builder"
+          "PickPages": "Pick pages",
+          "UseQueryBuilder": "Use query builder"
         },
         "QueryScope": {
-          "AllPages": "All Pages",
-          "SharePointLibrary": "SharePoint Library"
+          "AllPages": "All pages",
+          "SharePointLibrary": "SharePoint library"
         },
         "SiteUrl": "Site URL",
         "Operators": {
@@ -271,43 +271,43 @@
           "Manual": "Manual",
           "QueryParameter": "Query parameter",
           "UserLanguage": "User language",
-          "UserEmail": "User email",
+          "UserEmail": "User Email",
           "Today": "Today"
         },
-        "AddQueryFilter": "Add Query Filter",
+        "AddQueryFilter": "Add query filter",
         "Summary": "Summary",
         "Image": "Image",
         "Date": "Date",
         "Person": "Person",
         "Description": "Description",
-        "TermProperties": "Term Properties",
-        "CardsPerRow": "Cards Per Row",
-        "ShowLikesComments": "Show Likes/Comments",
-        "ShowLastActivity": "Show Last Activity",
-        "ShowRating": "Show Rating",
-        "OpenInNewTab": "Open In New Tab",
-        "AddColumn": "Add Column",
-        "FixedHeader": "Fixed Header",
+        "TermProperties": "Term properties",
+        "CardsPerRow": "Cards per row",
+        "ShowLikesComments": "Show likes/comments",
+        "ShowLastActivity": "Show last activity",
+        "ShowRating": "Show rating",
+        "OpenInNewTab": "Open in new tab",
+        "AddColumn": "Add column",
+        "FixedHeader": "Fixed header",
         "NoColumnSelected": "No columns selected. Please configure columns in the settings.",
         "Width": "Width",
         "ShowLabel": "Show label",
         "CustomLabel": "Custom label",
-        "InvalidUrl": "The URL must be a Page List",
+        "InvalidUrl": "The URL must be a page list.",
         "DeleteSpPageConfirmation": {
           "Title": "Remove page",
           "Message": "Are you sure you want to remove this page?"
         },
         "PickPages": {
-          "Title": "SharePoint Page Picker",
-          "AddPageLabel": "Add Page",
+          "Title": "SharePoint page picker",
+          "AddPageLabel": "Add page",
           "NoPagesFound": "No pages found",
           "Placeholder": "Search pages...",
           "PickInWriteMode": "Pick pages in write mode"
         }
       },
       "ViewTitle": {
-        "CustomView": "Custom View",
-        "CardView": "Card View"
+        "CustomView": "Custom view",
+        "CardView": "Card view"
       }
     }
   },
