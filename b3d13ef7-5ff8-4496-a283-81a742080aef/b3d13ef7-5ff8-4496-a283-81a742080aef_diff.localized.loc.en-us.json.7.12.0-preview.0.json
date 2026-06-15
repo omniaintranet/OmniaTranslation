@@ -2,7 +2,7 @@
   "ODM": {
     "Admin": {
       "SemanticSearchBulkReindex": {
-        "SemanticSearchReindex": "Semantic Search Reindex",
+        "SemanticSearchReindex": "Semantic search reindex",
         "HistoryMessage": {
           "DocumentReindexInSemanticSearch": "The document was reindexed in semantic search."
         },
@@ -28,12 +28,12 @@
     },
     "DocumentLibrary": {
       "DocumentStatuses": {
-        "FailedIndexToSemanticSearch": "Semantic search indexing failed",
+        "FailedIndexToSemanticSearch": "Semantic search indexing failed.",
         "SemanticSearchIndexing": "Semantic search indexing"
       },
       "SemanticSearchIndexingFailedDialog": {
-        "Title": "Semantic search indexing failed",
-        "Message": "This document has been published successfully, but an issue occurred while indexing it to Semantic Search.<br/>Do you want to trigger the indexing process again?"
+        "Title": "Semantic search indexing failed.",
+        "Message": "This document has been published successfully, but an issue occurred while indexing it to Semantic search.<br/>Do you want to trigger the indexing process again?"
       },
       "PublishErrorMessages": {
         "ErrorIndexingToSemanticSearchMessage": "Something went wrong while indexing to semantic search. Please try again."
