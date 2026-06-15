@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Inherit from tenant",
+        "ImageScaling": "Image Scaling",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Overriding crop ratios on business profile level is not supported.",
+          "SelectTenantRatios": "Select which tenant crop ratios to use in this business profile."
+        },
+        "ImageStyle": {
+          "Title": "Image style",
+          "BorderRadius": "Border radius"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Semantic Search Full Reindex",
+          "Disclaimer": "Semantic search will be unavailable while reindexing is in progress. This operation may take a significant amount of time depending on the amount of content.",
+          "StartButton": "Start Full Reindex",
+          "Running": "Reindexing in progress...",
+          "ConfirmTitle": "Start full reindex",
+          "ConfirmMessage": "Are you sure you want to start a full semantic search reindex?",
+          "StatusLoadError": "Could not load the current reindex status.",
+          "StartError": "Could not start the full reindex."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Font"
+    },
+    "TextStyles": {
+      "FontWeight": "Font weight",
+      "FontWeightInvalid": "Enter a valid font weight (normal, bold, bolder, lighter or a number between 1 and 1000)",
+      "InheritFromTenant": "Inherit from tenant",
+      "ApplyEverywhere": "Apply everywhere",
+      "ApplyEverywhereDescription": "When enabled, the built-in text styles are applied to all matching elements across the solution. When disabled, they only affect rich text editor content. Custom text styles always remain scoped to the rich text editor."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Screenshot showing where to create a SharePoint app catalog site",
+        "UploadPackageScreenshotAlt": "Screenshot showing where to upload the SharePoint package in Apps for SharePoint",
+        "AvailableToAllSitesScreenshotAlt": "Screenshot showing the option to make the SharePoint package available to all sites"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Term set ID is missing or invalid for this taxonomy glossary",
+      "Default": "Default",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Remove Default Icon And Color",
+        "Message": "Are you sure you want to remove the default look and feel settings?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Search Box Style",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365 Style",
+        "WCAGCompliant": "WCAG compliant"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Left Panel",
+          "LeftPanelLayoutsSettings": "Left Panel",
+          "CustomFontFamily": "Custom font family",
+          "CenterMenu": "Center Menu",
+          "CenterMenuWidth": "Centered Width (px)",
+          "ForceUppercase": "Force Uppercase",
+          "ShowIcons": "Show Icons",
+          "HideText": "Hide Text"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Display",
+        "HeadingElement": "Heading element",
+        "BorderRadius": "Border radius",
+        "Elevation": "Elevation",
+        "ShowStatusText": "Show status text",
+        "ShowTypeIcon": "Show type icon",
+        "ShowDate": "Show date",
+        "DateType": "Date type",
+        "Social": "Social",
+        "Classic": "Classic",
+        "DateFormat": "Date format",
+        "NoResultText": "No Result Text",
+        "ModernAnnoucement": "Modern Announcement"
+      },
+      "CommentCount": "{0} comments"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Show Left Panel",
+          "Category": "System",
+          "Description": "Show the left panel on the current app instance."
+        },
+        "CopilotChat": {
+          "Title": "Copilot Chat"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analytics for SPFx",
+          "Description": "Enables automated user activity tracking on SharePoint pages via Matomo",
+          "Category": "System"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Action Menu"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "List View"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Export file {0} is ready for download."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Manage links"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Add link titled \"{LinkTitle}\" to My Links",
+        "DeleteMyLinksAriaLabel": "Delete link titled \"{LinkTitle}\" from My Links",
+        "RemoveMyLinksAriaLabel": "Remove link titled \"{LinkTitle}\" from My Links",
+        "EditLinkAriaLabel": "Edit link titled \"{LinkTitle}\""
+      },
+      "AppLaunch": {
+        "Back": "Back",
+        "CreateMore": "Create more",
+        "Document": "Document",
+        "FindMicrosoft365Apps": "Find Microsoft 365 apps",
+        "Presentation": "Presentation",
+        "SearchBoxAriaLabel": "Search box. Suggestions appear as you type",
+        "SearchMicrosoft365Apps": "Search all your Microsoft 365 apps",
+        "SearchResults": "Search Results",
+        "Survey": "Survey",
+        "Workbook": "Workbook"
+      },
+      "Component": {
+        "ShowMoreLinks": "Show more links",
+        "ShowLessLinks": "Show less links"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Truncate label",
+        "IncludePersonalLinks": "Include personal links",
+        "IncludeFollowingLinks": "Include followed links",
+        "ShowManageLinks": "Show link management icon",
+        "ShowMoreButton": "Show more button",
+        "ShowMoreAriaLabel": "Show more button aria label",
+        "ShowLessAriaLabel": "Show less button aria label",
+        "HideShowMoreButton": "Hide show more button",
+        "HideLinkTitle": "Hide link title",
+        "SquareDesign": "Square design",
+        "FontSize": "Font size",
+        "IconSize": "Icon size",
+        "IconMargin": "Icon margin",
+        "IconPadding": "Icon padding"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} unread notifications in {0}",
+      "CategoryTabListLabel": "Notification categories"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Edit {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Use fixed properties per row"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Search templates are applied in the order listed. If a result matches multiple templates, the first match is used.",
+        "LongDescription": "Long description",
+        "SearchFeedbackPosition": "Search Feedback Position",
+        "UserProperties": "User properties",
+        "FilterValueTypes": {
+          "FilterValueType": "Filter value type",
+          "FixedValue": "Fixed value",
+          "CurrentUser": "Current user"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "From the content I have access to, I couldn't infer an answer to your question.",
+          "RequestMoreContext": "Can you please provide more context or clarify your question?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Refine search result",
+        "RefinerExpandedLabel": "{0}, expanded{1}",
+        "RefinerCollapsedLabel": "{0}, collapsed{1}",
+        "RefinerActiveFilterCount": ", {0} active refiners",
+        "RefinerOptionLabel": "{0}, {1} results",
+        "RefinerOptionSelectedLabel": "{0}, {1} results, selected",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, selected"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Title",
+          "Description": "Description",
+          "Date": "Date",
+          "FallbackDate": "Fallback date",
+          "User": "User",
+          "FallbackUser": "Fallback user",
+          "URL": "URL",
+          "ParentURL": "Parent URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint list item search template"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Person search template"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Tutorial dialog",
+        "RegionLabel": "Tutorial dialog. Use the keyboard navigation controls to move between tutorial steps.",
+        "PreviousStep": "Previous tutorial step",
+        "NextStep": "Next tutorial step",
+        "StepPickerLabel": "Tutorial steps",
+        "StepButtonLabel": "Show tutorial step {0} of {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint Page Rollup",
+          "Summary": "List SharePoint pages."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint Page Rollup",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Filter"
+        },
+        "FilterByExpirationTime": "Filter by expiration time",
+        "QueryConfigurationTypes": {
+          "PickPages": "Pick Pages",
+          "UseQueryBuilder": "Use Query Builder"
+        },
+        "QueryScope": {
+          "AllPages": "All Pages",
+          "SharePointLibrary": "SharePoint Library"
+        },
+        "SiteUrl": "Site URL",
+        "Operators": {
+          "Equals": "Equals",
+          "StartWith": "Starts with",
+          "Contains": "Contains",
+          "LessThan": "Less than",
+          "GreaterThan": "Greater than"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manual",
+          "QueryParameter": "Query parameter",
+          "UserLanguage": "User language",
+          "UserEmail": "User email",
+          "Today": "Today"
+        },
+        "AddQueryFilter": "Add Query Filter",
+        "Summary": "Summary",
+        "Image": "Image",
+        "Date": "Date",
+        "Person": "Person",
+        "Description": "Description",
+        "TermProperties": "Term Properties",
+        "CardsPerRow": "Cards Per Row",
+        "ShowLikesComments": "Show Likes/Comments",
+        "ShowLastActivity": "Show Last Activity",
+        "ShowRating": "Show Rating",
+        "OpenInNewTab": "Open In New Tab",
+        "AddColumn": "Add Column",
+        "FixedHeader": "Fixed Header",
+        "NoColumnSelected": "No columns selected. Please configure columns in the settings.",
+        "Width": "Width",
+        "ShowLabel": "Show label",
+        "CustomLabel": "Custom label",
+        "InvalidUrl": "The URL must be a Page List",
+        "DeleteSpPageConfirmation": {
+          "Title": "Remove page",
+          "Message": "Are you sure you want to remove this page?"
+        },
+        "PickPages": {
+          "Title": "SharePoint Page Picker",
+          "AddPageLabel": "Add Page",
+          "NoPagesFound": "No pages found",
+          "Placeholder": "Search pages...",
+          "PickInWriteMode": "Pick pages in write mode"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Custom View",
+        "CardView": "Card View"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "Email",
+      "StartChatAction": "Chat with",
+      "StartCallAction": "Call"
+    }
+  }
+}
