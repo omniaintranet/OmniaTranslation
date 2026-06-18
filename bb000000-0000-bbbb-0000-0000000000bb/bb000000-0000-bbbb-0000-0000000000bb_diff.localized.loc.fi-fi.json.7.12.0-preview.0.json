@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Fontti",
+        "Previewing": "Esikatsellaan...",
+        "InheritFromTenant": "Peri tenantilta",
+        "EnableCustomFont": "Ota käyttöön mukautettu fontti",
+        "FontFamilyName": "Fonttiperheen nimi",
+        "FontSource": "Fontin lähde",
+        "FileUpload": "Tiedoston lataus",
+        "CdnFileLink": "CDN-tiedostolinkki",
+        "ChooseFontFile": "Valitse fonttitiedosto",
+        "NoFileSelected": "Tiedostoa ei valittu",
+        "SupportedFontFilesHelp": "Tuetut fonttitiedostot: WOFF, WOFF2, TTF ja OTF. Maksimikoko on 10 Mt.",
+        "CdnFontFileUrl": "CDN-fonttitiedoston URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Lisäfontit",
+        "AddAdditionalFont": "Lisää fontti",
+        "EditAdditionalFont": "Muokkaa fonttia",
+        "NoAdditionalFonts": "Lisäfontteja ei ole lisätty.",
+        "AdditionalFontsHelp": "Lisäfontit ladataan sivulle, mutta niitä ei sovelleta automaattisesti.",
+        "ApplyTo": "Sovella kohteeseen",
+        "ScopeOmniaAdmin": "Omnia admin - sovelletaan Omnia adminiin",
+        "ScopeEditorTools": "Muokkaustyökalut - sovelletaan WCM-muokkaajaan, kaikkiin lohkoasetuksiin",
+        "ScopeReadMode": "Lukutila - sovelletaan kaikissa lukutiloissa",
+        "PreviewTitle": "Esikatselu",
+        "DisplayText": "Näyttöteksti",
+        "HeadlineText": "Otsikkoteksti",
+        "TitleText": "Otsikkoteksti",
+        "BodyText": "Leipätekstissä näytetään, miten tavallinen kappaleperintä käyttää määritettyä fonttia.",
+        "SmallAction": "Pieni toiminto",
+        "DefaultAction": "Oletustoiminto",
+        "LargeAction": "Suuri toiminto",
+        "FontFileTooLarge": "Fonttitiedosto on liian suuri. Suurin sallittu koko on 10 Mt.",
+        "UnsupportedFontFileType": "Fonttitiedostotyyppi ei ole tuettu. Tuetut tyypit ovat .woff, .woff2, .ttf ja .otf.",
+        "FontFamilyRequired": "Anna fonttiperheen nimi.",
+        "ValidFontFileRequired": "Valitse kelvollinen fonttitiedosto.",
+        "ValidCdnUrlRequired": "Anna kelvollinen julkinen CDN-fonttitiedoston URL, joka päättyy .woff, .woff2, .ttf tai .otf.",
+        "ValidFontSourceRequired": "Valitse kelvollinen fontin lähde esikatselua varten.",
+        "UnexpectedError": "Tapahtui odottamaton virhe."
+      },
+      "DatetimePicker": {
+        "SetAM": "Aseta AM",
+        "SetPM": "Aseta PM",
+        "PreviousMonth": "Edellinen kuukausi",
+        "NextMonth": "Seuraava kuukausi",
+        "ClickToSelectMonth": "Napsauta valitaksesi kuukauden.",
+        "ClickToSelectYear": "Napsauta valitaksesi vuoden.",
+        "SelectedDatePrefix": "Valittu päivämäärä",
+        "TodayPrefix": "Tänään",
+        "PreviousYear": "Edellinen vuosi",
+        "NextYear": "Seuraava vuosi",
+        "CurrentYearIs": "Nykyinen vuosi on",
+        "SelectedMonthPrefix": "Valittu kuukausi",
+        "YearLabel": "Vuosi",
+        "PreviousYears": "Edelliset vuodet",
+        "NextYears": "Seuraavat vuodet",
+        "SelectedYearPrefix": "Valittu vuosi",
+        "IncreaseHour": "Lisää tuntia",
+        "DecreaseHour": "Vähennä tuntia",
+        "IncreaseMinute": "Lisää minuuttia",
+        "DecreaseMinute": "Vähennä minuuttia",
+        "HourLabel": "Tunti",
+        "MinuteLabel": "Minuutti",
+        "Cancel": "Peruuta",
+        "Add": "Lisää",
+        "MonthPicker": "Kuukausivalitsin",
+        "YearPicker": "Vuoden valitsin",
+        "TimePicker": "Ajan valitsin",
+        "CalendarPicker": "Kalenterivalitsin"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Aseta AM",
+        "SetPM": "Aseta PM",
+        "PreviousMonth": "Edellinen kuukausi",
+        "NextMonth": "Seuraava kuukausi",
+        "ClickToSelectMonth": "Napsauta valitaksesi kuukauden",
+        "ClickToSelectYear": "Napsauta valitaksesi vuoden",
+        "SelectedDatePrefix": "Valittu:",
+        "TodayPrefix": "Tänään:",
+        "PreviousYear": "Edellinen vuosi",
+        "NextYear": "Seuraava vuosi",
+        "CurrentYearIs": "Nykyinen vuosi on",
+        "SelectedMonthPrefix": "Valittu:",
+        "YearLabel": "Vuosi",
+        "PreviousYears": "Edelliset vuodet",
+        "NextYears": "Seuraavat vuodet",
+        "SelectedYearPrefix": "Valittu:",
+        "IncreaseHour": "Lisää tuntia",
+        "DecreaseHour": "Vähennä tuntia",
+        "IncreaseMinute": "Lisää minuuttia",
+        "DecreaseMinute": "Vähennä minuuttia",
+        "HourLabel": "Tunti",
+        "MinuteLabel": "Minuutti",
+        "Cancel": "Peruuta",
+        "Ok": "OK",
+        "MonthPicker": "Kuukausivalitsin",
+        "YearPicker": "Vuoden valitsin",
+        "TimePicker": "Ajan valitsin",
+        "CalendarPicker": "Kalenterivalitsin"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Käyttäjien synkronointisuodattimet"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Käyttäjien synkronointisuodatin",
+            "UserSynchronizationFilterDescription": "Määritä suodatin käyttäjien sisällyttämiseksi tai poissulkemiseksi synkronoinnista",
+            "UserSynchronizationFilterNotConfigured": "Käyttäjien synkronointisuodatinta ei ole määritetty.",
+            "UserSynchronizationFilterConfigured": "Määritetty {0} suodattimella",
+            "Configure": "Määritä",
+            "RuleAction": "Säännön toiminto",
+            "IncludeInSync": "Sisällytä synkronointiin",
+            "IncludeInSyncDescription": "Alla olevia suodattimia vastaavat käyttäjät lisätään hakemistoon.",
+            "ExcludeFromSync": "Poissulje synkronoinnista",
+            "ExcludeFromSyncDescription": "Alla olevia suodattimia vastaavat käyttäjät ohitetaan synkronoinnin aikana.",
+            "MatchUsersWhere": "Vastaa käyttäjiä, joissa",
+            "MatchUsersWhereDescription": "Kaikkien suodattimien on täsmättävä (looginen JA). Suodattimen sisällä mikä tahansa arvo voi täsmätä (looginen TAI).",
+            "NoUserSynchronizationFilters": "Ei suodattimia vielä - ilman suodattimia tämä sääntö vastaa jokaista käyttäjää.",
+            "And": "JA",
+            "Where": "Missä",
+            "EnterValueWithWildcard": "Anna arvo. * jokerimerkkinä.",
+            "ExcludeWithoutFiltersNotAllowed": "Poissulkeminen synkronoinnista ilman suodattimia ei ole sallittua.",
+            "IncompleteFilterNotAllowed": "Suodattimella on oltava valittu ominaisuus ja vähintään yksi arvo."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar käyttäjälle {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Sivutus",
+          "PreviousPage": "Siirry edelliselle sivulle",
+          "NextPage": "Siirry seuraavalle sivulle",
+          "GoToPage": "Siirry sivulle {0}",
+          "CurrentPage": "Nykyinen sivu, sivu {0}",
+          "Status": "Sivu {0} / {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Näytä tunnistekuvake arvon kanssa",
+          "ShowLoginName": "Näytä kirjautumisnimi"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Semanttinen haku",
+          "Description": "Ota tämä ominaisuus käyttöön antaaksesi järjestelmällesi pääsyn semanttiseen hakuun"
+        },
+        "NextGenUI": {
+          "Category": "Järjestelmä",
+          "Title": "Seuraavan sukupolven käyttöliittymä",
+          "Description": "Aktivoi tämä ominaisuus käyttääksesi uutta käyttöliittymää."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "Järjestelmä",
+          "Title": "Työtilan kotisivun uusi käyttökokemus",
+          "Description": "Ota käyttöön uusi käyttökokemus työtilan kotisivulla"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "Järjestelmä",
+          "Title": "Sovellusinstanssin uusi käyttökokemus",
+          "Description": "Ota käyttöön uusi käyttökokemus sovellusinstanssissa"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Hakukentän ARIA-tunniste"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Haku suodattimissa"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Osion välilehdet"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Elementti",
+            "ElementOptions": {
+              "Default": "Oletus"
+            },
+            "FontFamily": "Fonttiperhe",
+            "AlignLeft": "Tasaa vasemmalle",
+            "AlignCenter": "Keskitä",
+            "AlignRight": "Tasaa oikealle"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Täydentävä tieto",
+            "ComplementaryInformationAriaLabel": "Aria-tunniste"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Käyttäjää ei löytynyt"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} on pakollinen"
+      },
+      "Post": {
+        "ValidatePostMessage": "Julkaisu on pakollinen.",
+        "PostFieldLabel": "Julkaisu"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ei käännöstä"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ei käännöstä"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "Kommentti on pakollinen.",
+        "CommentFieldLabel": "Kommentti",
+        "EditActionsButtonAriaLabel": "Toiminnot kommentille \"{CommentText}\"",
+        "EditCommentAriaLabel": "Muokkaa kommenttia \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Poista kommentti \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Lisää reaktio"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} on pakollinen"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "Järjestelmä",
+          "Description": "Parannus Omnian nopeampaan lataukseen SPFx:ssä.",
+          "Title": "SPFx-suorituskyvyn parannus"
+        },
+        "SharePointFont": {
+          "Category": "Järjestelmä",
+          "Description": "Mahdollistaa Omnia SPFx -webosien fontin kohdistamisen SharePoint-sivuston määritettyyn fonttiin.",
+          "Title": "SharePoint-fontti"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Kohdistuspersoonat",
+        "TargetingPersonaTitle": "Kohdistuspersoona",
+        "SelectPersona": "Valitse persoona",
+        "ViewingAs": "Katsotaan nimellä",
+        "ViewingAsLabel": "Katsotaan nimellä",
+        "TargetingPersonasAdministrators": "Kohdistuspersoonien ylläpitäjät",
+        "TargetingPersonasUsers": "Kohdistuspersoonien käyttäjät",
+        "CreateTargetingPersona": "Luo kohdistuspersoona",
+        "EditTargetingPersona": "Muokkaa kohdistuspersoonaa",
+        "TargetingProperties": "Kohdistusominaisuudet",
+        "AddTargetingProperty": "Lisää kohdistusominaisuus",
+        "Delete": "Poista",
+        "Save": "Tallenna",
+        "Create": "Luo",
+        "Cancel": "Peruuta",
+        "NoItems": "Kohdistuspersoonia ei löytynyt. Luo yksi aloittaaksesi.",
+        "ActivatedPersonaInfo": "Olet katsomassa nimellä",
+        "ActivatedPersonaDescription": "Sisältö ja navigointi heijastavat, mihin tällä persoonalla on pääsy. Muutokset tulevat voimaan kokonaan uudelleenlatauksen jälkeen.",
+        "DeactivatedInfo": "Olet poistamassa persoonasi käytöstä. Lataa sivu uudelleen palauttaaksesi normaalin näkymäsi.",
+        "ReloadNow": "Lataa nyt uudelleen",
+        "ViewAsPersonaInfo": "Olet katsomassa intranetiä nimellä",
+        "ViewAsPersonaDescription": "Tämä ei muuta oikeuksiasi tai pääsyäsi. Muutokset tulevat voimaan kokonaan sivun uudelleenlatauksen jälkeen.",
+        "ExitPersonaPreviewInfo": "Olet poistumassa kohdistuspersoonan esikatselusta. Normaalin näkymäsi palautuu sivun uudelleenlatauksen jälkeen."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Istuntosi on vanhentunut.",
+      "Message": "Emme voineet päivittää kirjautumistasi taustalla. Lataa Omnia uudelleen jatkaaksesi työskentelyä - teemme sen puolestasi pian.",
+      "Seconds": "sekuntia",
+      "Skip": "Lataa myöhemmin uudelleen"
+    }
+  }
+}
