@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantisk søk reindeksering",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Dokumentet ble reindeksert i semantisk søk."
+        },
+        "Completed": "Fullført",
+        "Find": "Finn",
+        "Reindex": "Reindekser",
+        "SearchPlaceholder": "Søk ...",
+        "SelectDocumentTypesPlaceholder": "Velg dokumenttyper"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "mer"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Dokumentsøk-mal"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Kunne ikke laste dokumentmalinformasjon."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Indeksering til semantisk søk mislyktes.",
+        "SemanticSearchIndexing": "Indeksering til semantisk søk"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Indeksering til semantisk søk mislyktes.",
+        "Message": "Dette dokumentet er publisert vellykket, men det oppstod et problem under indekseringen til semantisk søk.<br/>Vil du starte indekseringsprosessen på nytt?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Noe gikk galt under indeksering til semantisk søk. Vennligst prøv igjen."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Visning av dokumentbibliotek",
+      "BlockDescription": "Vis et valgt SharePoint dokumentbibliotek med mapper, filtre og eksport.",
+      "Common": {
+        "ConfigurePrompt": "Konfigurer nettsteds-URL, bibliotek og enten en visning eller valgte felt i innstillingene.",
+        "NoDataToShow": "Ingen data å vise.",
+        "LoadMore": "Last mer",
+        "Name": "Navn",
+        "RootFolder": "Rot",
+        "ExportToExcel": "Eksporter til Excel",
+        "Exporting": "Genererer Excel-fil...",
+        "PreviousPage": "Forrige side",
+        "NextPage": "Neste side",
+        "SortByColumn": "Sorter etter kolonne",
+        "ExpandGroup": "Utvid gruppe",
+        "CollapseGroup": "Skjul gruppe",
+        "ItemType": "Elementtype",
+        "FriendlyDates": {
+          "FewSecondsAgo": "For noen sekunder siden",
+          "AboutMinuteAgo": "For omtrent ett minutt siden",
+          "MinutesAgo": "{0} minutter siden",
+          "AboutHourAgo": "For omtrent en time siden",
+          "HoursAgo": "{0} timer siden",
+          "Yesterday": "I går",
+          "YesterdayAt": "I går kl.",
+          "WeekdayAt": "{0} kl.",
+          "DaysAgo": "{0} dager siden",
+          "DaysAgoAt": "{0} dager siden kl."
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Generelt",
+          "Query": "Forespørsel",
+          "Display": "Visning",
+          "Filter": "Filter",
+          "Export": "Eksport"
+        },
+        "SiteUrl": "Nettsteds-URL",
+        "PickLibrary": "Velg bibliotek",
+        "FieldSelectionMode": "Kolonnekilde",
+        "UseView": "Bruk SharePoint-visning",
+        "SelectFieldsDirectly": "Velg felt direkte",
+        "View": "Visning",
+        "Paging": "Sideinndeling",
+        "PagingType": {
+          "NoPaging": "Ingen sideinndeling",
+          "Classic": "Klassisk"
+        },
+        "ItemLimit": "Elementgrense",
+        "PageSize": "Rader per side",
+        "ShowBreadcrumb": "Vis brødsmulesti",
+        "DateDisplayMode": "Datotype",
+        "DateModeSource": "Kildeformatering (SharePoint-liste)",
+        "DateModeClassic": "Klassisk",
+        "DateModeSocial": "Sosial",
+        "DateFormat": "Datoformat",
+        "ShowExportToExcel": "Vis eksport til Excel",
+        "DisplayFields": "Visningsfelt",
+        "ColumnWidth": "Bredde (px)",
+        "ShowHeading": "Vis overskrift"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Eksportfilen {0} er klar for nedlasting."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Velg alle dokumenter på denne siden",
+        "SelectDocument": "Velg dokument",
+        "SelectDocumentWithTitle": "Velg dokument {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Prosessøk-mal"
+        }
+      }
+    }
+  }
+}
