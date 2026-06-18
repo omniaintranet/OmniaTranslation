@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semanttisen haun uudelleenindeksointi",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Asiakirja indeksoitiin uudelleen semanttisessa haussa."
+        },
+        "Completed": "Valmis",
+        "Find": "Etsi",
+        "Reindex": "Uudelleenindeksoi",
+        "SearchPlaceholder": "Haku ..."
+      },
+      "SelectDocumentTypesPlaceholder": "Valitse asiakirjatyyppi"
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "lisää"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Asiakirjahakumalli"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Asiakirjamallin tietojen lataaminen epäonnistui."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Semanttisen haun indeksointi epäonnistui.",
+        "SemanticSearchIndexing": "Semanttisen haun indeksointi"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Semanttisen haun indeksointi epäonnistui.",
+        "Message": "Tämä asiakirja on julkaistu onnistuneesti, mutta indeksoinnissa semanttiseen hakuun ilmeni ongelma.<br/>Haluatko käynnistää indeksointiprosessin uudelleen?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Jokin meni pieleen indeksoitaessa semanttiseen hakuun. Yritä uudelleen."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Asiakirjakirjaston näyttö",
+      "BlockDescription": "Näytä valittu SharePoint-asiakirjakirjaston näkymä kansioineen, suodattimineen ja viennillä.",
+      "Common": {
+        "ConfigurePrompt": "Määritä sivuston URL, kirjasto ja joko näkymä tai valitut kentät asetuksissa.",
+        "NoDataToShow": "Ei näytettäviä tietoja.",
+        "LoadMore": "Lataa lisää",
+        "Name": "Nimi",
+        "RootFolder": "Juuri",
+        "ExportToExcel": "Vie Exceliin",
+        "Exporting": "Luodaan Excel-tiedostoa...",
+        "PreviousPage": "Edellinen sivu",
+        "NextPage": "Seuraava sivu",
+        "SortByColumn": "Lajittele sarakkeen mukaan",
+        "ExpandGroup": "Laajenna ryhmä",
+        "CollapseGroup": "Tiivistä ryhmä",
+        "ItemType": "Kohdetyyppi",
+        "FriendlyDates": {
+          "FewSecondsAgo": "Muutama sekunti sitten",
+          "AboutMinuteAgo": "Noin minuutti sitten",
+          "MinutesAgo": "{0} minuuttia sitten",
+          "AboutHourAgo": "Noin tunti sitten",
+          "HoursAgo": "{0} tuntia sitten",
+          "Yesterday": "Eilen",
+          "YesterdayAt": "Eilen klo",
+          "WeekdayAt": "{0} klo",
+          "DaysAgo": "{0} päivää sitten",
+          "DaysAgoAt": "{0} päivää sitten klo"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Yleiset",
+          "Query": "Kysely",
+          "Display": "Näyttö",
+          "Filter": "Suodatin",
+          "Export": "Vienti"
+        },
+        "SiteUrl": "Sivuston URL",
+        "PickLibrary": "Valitse kirjasto",
+        "FieldSelectionMode": "Sarakkeen lähde",
+        "UseView": "Käytä SharePoint-näkymää",
+        "SelectFieldsDirectly": "Valitse kentät suoraan",
+        "View": "Näkymä",
+        "Paging": "Sivutus",
+        "PagingType": {
+          "NoPaging": "Ei sivutusta",
+          "Classic": "Perinteinen"
+        },
+        "ItemLimit": "Kohdemäärä",
+        "PageSize": "Rivejä per sivu",
+        "ShowBreadcrumb": "Näytä polku",
+        "DateDisplayMode": "Päivämäärän tyyppi",
+        "DateModeSource": "Lähteen muotoilu (SharePoint-lista)",
+        "DateModeClassic": "Perinteinen",
+        "DateModeSocial": "Sosiaalinen",
+        "DateFormat": "Päivämäärän muoto",
+        "ShowExportToExcel": "Näytä vienti Exceliin",
+        "DisplayFields": "Näytettävät kentät",
+        "ColumnWidth": "Leveys (px)",
+        "ShowHeading": "Näytä otsikko"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Vientitiedosto {0} on ladattavissa."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Valitse kaikki tämän sivun asiakirjat",
+        "SelectDocument": "Valitse asiakirja",
+        "SelectDocumentWithTitle": "Valitse asiakirja {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Prosessihakumalli"
+        }
+      }
+    }
+  }
+}
