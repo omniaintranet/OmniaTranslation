@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Réindexation de la recherche sémantique",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Le document a été réindexé dans la recherche sémantique."
+        },
+        "Completed": "Terminé",
+        "Find": "Trouver",
+        "Reindex": "Réindexer",
+        "SearchPlaceholder": "Rechercher ...",
+        "SelectDocumentTypesPlaceholder": "Sélectionnez les types de documents"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "plus"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Modèle de recherche de document"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Échec du chargement des informations du modèle de document."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Échec de l'indexation dans la recherche sémantique.",
+        "SemanticSearchIndexing": "Indexation dans la recherche sémantique"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Échec de l'indexation dans la recherche sémantique.",
+        "Message": "Ce document a été publié avec succès, mais un problème est survenu lors de son indexation dans la recherche sémantique.<br/>Voulez-vous relancer le processus d'indexation ?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Une erreur est survenue lors de l'indexation dans la recherche sémantique. Veuillez réessayer."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Affichage de la bibliothèque de documents",
+      "BlockDescription": "Affiche une vue sélectionnée de la bibliothèque de documents SharePoint avec dossiers, filtres et exportation.",
+      "Common": {
+        "ConfigurePrompt": "Configurez l'URL du site, la bibliothèque et soit une vue, soit des champs sélectionnés dans les paramètres.",
+        "NoDataToShow": "Aucune donnée à afficher.",
+        "LoadMore": "Charger plus",
+        "Name": "Nom",
+        "RootFolder": "Racine",
+        "ExportToExcel": "Exporter vers Excel",
+        "Exporting": "Génération du fichier Excel...",
+        "PreviousPage": "Page précédente",
+        "NextPage": "Page suivante",
+        "SortByColumn": "Trier par colonne",
+        "ExpandGroup": "Développer le groupe",
+        "CollapseGroup": "Réduire le groupe",
+        "ItemType": "Type d'élément",
+        "FriendlyDates": {
+          "FewSecondsAgo": "Il y a quelques secondes",
+          "AboutMinuteAgo": "Il y a environ une minute",
+          "MinutesAgo": "Il y a {0} minutes",
+          "AboutHourAgo": "Il y a environ une heure",
+          "HoursAgo": "Il y a {0} heures",
+          "Yesterday": "Hier",
+          "YesterdayAt": "Hier à",
+          "WeekdayAt": "{0} à",
+          "DaysAgo": "Il y a {0} jours",
+          "DaysAgoAt": "Il y a {0} jours à"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Général",
+          "Query": "Requête",
+          "Display": "Affichage",
+          "Filter": "Filtrer",
+          "Export": "Exporter"
+        },
+        "SiteUrl": "URL du site",
+        "PickLibrary": "Choisir la bibliothèque",
+        "FieldSelectionMode": "Source des colonnes",
+        "UseView": "Utiliser la vue SharePoint",
+        "SelectFieldsDirectly": "Sélectionner les champs directement",
+        "View": "Vue",
+        "Paging": "Pagination",
+        "PagingType": {
+          "NoPaging": "Pas de pagination",
+          "Classic": "Classique"
+        },
+        "ItemLimit": "Limite d'éléments",
+        "PageSize": "Lignes par page",
+        "ShowBreadcrumb": "Afficher le fil d'Ariane",
+        "DateDisplayMode": "Type de date",
+        "DateModeSource": "Format source (liste SharePoint)",
+        "DateModeClassic": "Classique",
+        "DateModeSocial": "Social",
+        "DateFormat": "Format de date",
+        "ShowExportToExcel": "Afficher l'export vers Excel",
+        "DisplayFields": "Champs affichés",
+        "ColumnWidth": "Largeur (px)",
+        "ShowHeading": "Afficher le titre"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Le fichier d'exportation {0} est prêt pour téléchargement."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Sélectionner tous les documents de cette page",
+        "SelectDocument": "Sélectionner le document",
+        "SelectDocumentWithTitle": "Sélectionner le document {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Modèle de recherche de processus"
+        }
+      }
+    }
+  }
+}
