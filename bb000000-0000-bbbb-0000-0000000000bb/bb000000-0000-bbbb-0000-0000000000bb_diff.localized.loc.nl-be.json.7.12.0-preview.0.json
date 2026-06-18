@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Lettertype",
+        "Previewing": "Voorbeeld wordt geladen...",
+        "InheritFromTenant": "Overnemen van tenant",
+        "EnableCustomFont": "Aangepast lettertype inschakelen",
+        "FontFamilyName": "Naam lettertypefamilie",
+        "FontSource": "Bron van het lettertype",
+        "FileUpload": "Bestand uploaden",
+        "CdnFileLink": "CDN-bestandslink",
+        "ChooseFontFile": "Kies lettertypebestand",
+        "NoFileSelected": "Geen bestand geselecteerd",
+        "SupportedFontFilesHelp": "Ondersteunde lettertypebestanden: WOFF, WOFF2, TTF en OTF. Maximale grootte is 10 MB.",
+        "CdnFontFileUrl": "CDN-lettertypebestand URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Extra lettertypen",
+        "AddAdditionalFont": "Lettertype toevoegen",
+        "EditAdditionalFont": "Lettertype bewerken",
+        "NoAdditionalFonts": "Geen extra lettertypen toegevoegd.",
+        "AdditionalFontsHelp": "Extra lettertypen worden op de pagina geladen, maar worden niet automatisch toegepast.",
+        "ApplyTo": "Toepassen op",
+        "ScopeOmniaAdmin": "Omnia admin - wordt toegepast op Omnia admin",
+        "ScopeEditorTools": "Editor tools - wordt toegepast op de WCM-editor, alle blokinstellingen",
+        "ScopeReadMode": "Leesmodus - wordt toegepast in alle leesmodi",
+        "PreviewTitle": "Voorbeeld",
+        "DisplayText": "Weergavetekst",
+        "HeadlineText": "Koptekst",
+        "TitleText": "Titeltekst",
+        "BodyText": "Hoofdtekst toont hoe gewone paragraafinhoud het geconfigureerde lettertype overneemt.",
+        "SmallAction": "Kleine actie",
+        "DefaultAction": "Standaardactie",
+        "LargeAction": "Grote actie",
+        "FontFileTooLarge": "Het lettertypebestand is te groot. Maximale toegestane grootte is 10 MB.",
+        "UnsupportedFontFileType": "Niet-ondersteund lettertypebestandstype. Ondersteunde types zijn .woff, .woff2, .ttf en .otf.",
+        "FontFamilyRequired": "Voer een naam van een lettertypefamilie in.",
+        "ValidFontFileRequired": "Kies een geldig lettertypebestand.",
+        "ValidCdnUrlRequired": "Voer een geldige openbare CDN-lettertypebestand-URL in die eindigt op .woff, .woff2, .ttf of .otf.",
+        "ValidFontSourceRequired": "Kies een geldige lettertypebron om een voorbeeld te tonen.",
+        "UnexpectedError": "Er is een onverwachte fout opgetreden."
+      },
+      "DatetimePicker": {
+        "SetAM": "AM instellen",
+        "SetPM": "PM instellen",
+        "PreviousMonth": "Vorige maand",
+        "NextMonth": "Volgende maand",
+        "ClickToSelectMonth": "Klik om maand te selecteren.",
+        "ClickToSelectYear": "Klik om jaar te selecteren.",
+        "SelectedDatePrefix": "Geselecteerde datum",
+        "TodayPrefix": "Vandaag",
+        "PreviousYear": "Vorig jaar",
+        "NextYear": "Volgend jaar",
+        "CurrentYearIs": "Huidig jaar is",
+        "SelectedMonthPrefix": "Geselecteerde maand",
+        "YearLabel": "Jaar",
+        "PreviousYears": "Vorige jaren",
+        "NextYears": "Volgende jaren",
+        "SelectedYearPrefix": "Geselecteerd jaar",
+        "IncreaseHour": "Uur verhogen",
+        "DecreaseHour": "Uur verlagen",
+        "IncreaseMinute": "Minuut verhogen",
+        "DecreaseMinute": "Minuut verlagen",
+        "HourLabel": "Uur",
+        "MinuteLabel": "Minuut",
+        "Cancel": "Annuleren",
+        "Add": "Toevoegen",
+        "MonthPicker": "Maandkiezer",
+        "YearPicker": "Jaar kiezer",
+        "TimePicker": "Tijdkiezer",
+        "CalendarPicker": "Kalenderkiezer"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "AM instellen",
+        "SetPM": "PM instellen",
+        "PreviousMonth": "Vorige maand",
+        "NextMonth": "Volgende maand",
+        "ClickToSelectMonth": "Klik om maand te selecteren",
+        "ClickToSelectYear": "Klik om jaar te selecteren",
+        "SelectedDatePrefix": "Geselecteerd:",
+        "TodayPrefix": "Vandaag:",
+        "PreviousYear": "Vorig jaar",
+        "NextYear": "Volgend jaar",
+        "CurrentYearIs": "Huidig jaar is",
+        "SelectedMonthPrefix": "Geselecteerd:",
+        "YearLabel": "Jaar",
+        "PreviousYears": "Vorige jaren",
+        "NextYears": "Volgende jaren",
+        "SelectedYearPrefix": "Geselecteerd:",
+        "IncreaseHour": "Uur verhogen",
+        "DecreaseHour": "Uur verlagen",
+        "IncreaseMinute": "Minuut verhogen",
+        "DecreaseMinute": "Minuut verlagen",
+        "HourLabel": "Uur",
+        "MinuteLabel": "Minuut",
+        "Cancel": "Annuleren",
+        "Ok": "OK",
+        "MonthPicker": "Maandkiezer",
+        "YearPicker": "Jaar kiezer",
+        "TimePicker": "Tijdkiezer",
+        "CalendarPicker": "Kalenderkiezer"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Gebruikerssynchronisatiefilters"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Gebruikerssynchronisatiefilter",
+            "UserSynchronizationFilterDescription": "Configureer filter om gebruikers in of uit te sluiten van synchronisatie",
+            "UserSynchronizationFilterNotConfigured": "Er is geen gebruikerssynchronisatiefilter geconfigureerd.",
+            "UserSynchronizationFilterConfigured": "Geconfigureerd met {0} filters",
+            "Configure": "Configureren",
+            "RuleAction": "Regelactie",
+            "IncludeInSync": "Opnemen in synchronisatie",
+            "IncludeInSyncDescription": "Gebruikers die aan onderstaande filters voldoen, worden toegevoegd aan de directory.",
+            "ExcludeFromSync": "Uitsluiten van synchronisatie",
+            "ExcludeFromSyncDescription": "Gebruikers die aan onderstaande filters voldoen, worden overgeslagen tijdens synchronisatie.",
+            "MatchUsersWhere": "Gebruikers matchen waar",
+            "MatchUsersWhereDescription": "Alle filters moeten overeenkomen (logische EN). Binnen een filter kan elke waarde overeenkomen (logische OF).",
+            "NoUserSynchronizationFilters": "Nog geen filters - zonder filters komt deze regel overeen met elke gebruiker.",
+            "And": "EN",
+            "Where": "Waar",
+            "EnterValueWithWildcard": "Voer waarde in. * als wildcard.",
+            "ExcludeWithoutFiltersNotAllowed": "Uitsluiten van synchronisatie zonder filters is niet toegestaan.",
+            "IncompleteFilterNotAllowed": "Een filter moet een geselecteerde eigenschap en ten minste één waarde hebben."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar voor {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Paginering",
+          "PreviousPage": "Ga naar vorige pagina",
+          "NextPage": "Ga naar volgende pagina",
+          "GoToPage": "Ga naar pagina {0}",
+          "CurrentPage": "Huidige pagina, pagina {0}",
+          "Status": "Pagina {0} van {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Labelpictogram met waarde tonen",
+          "ShowLoginName": "Loginnaam tonen"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Semantische zoekfunctie",
+          "Description": "Schakel deze functie in om uw systeem toegang te geven tot semantische zoekfunctie"
+        },
+        "NextGenUI": {
+          "Category": "Systeem",
+          "Title": "Next gen UI",
+          "Description": "Activeer deze functie om de nieuwe UI toe te passen."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "Systeem",
+          "Title": "Nieuwe ervaring op workspace home",
+          "Description": "Schakel nieuwe ervaring in op workspace home"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "Systeem",
+          "Title": "Nieuwe ervaring op app instance",
+          "Description": "Schakel nieuwe ervaring in op app instance"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "ARIA-label zoekvak"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Zoeken in filters"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Sectietabs"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Element",
+            "ElementOptions": {
+              "Default": "Standaard"
+            },
+            "FontFamily": "Lettertypefamilie",
+            "AlignLeft": "Links uitlijnen",
+            "AlignCenter": "Centreren",
+            "AlignRight": "Rechts uitlijnen"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Aanvullende informatie",
+            "ComplementaryInformationAriaLabel": "ARIA-label"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Gebruiker kon niet worden gevonden"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} is verplicht"
+      },
+      "Post": {
+        "ValidatePostMessage": "Een post is verplicht.",
+        "PostFieldLabel": "Post"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Geen vertaling"
+        },
+        "Tooltip": {
+          "NoTranslate": "Geen vertaling"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "Een opmerking is verplicht.",
+        "CommentFieldLabel": "Opmerking",
+        "EditActionsButtonAriaLabel": "Acties voor opmerking \"{CommentText}\"",
+        "EditCommentAriaLabel": "Opmerking bewerken \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Opmerking verwijderen \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Reactie toevoegen"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} is verplicht"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "Systeem",
+          "Description": "Verbetering om Omnia sneller te laden in SPFx.",
+          "Title": "SPFx prestatieverbetering"
+        },
+        "SharePointFont": {
+          "Category": "Systeem",
+          "Description": "Maakt het mogelijk dat Omnia SPFx webparts het lettertype gebruiken dat is ingesteld op de SharePoint-site.",
+          "Title": "SharePoint lettertype"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Targeting persona's",
+        "TargetingPersonaTitle": "Targeting persona",
+        "SelectPersona": "Selecteer persona",
+        "ViewingAs": "Bekijken als",
+        "ViewingAsLabel": "Bekijken als",
+        "TargetingPersonasAdministrators": "Beheerders van targeting persona's",
+        "TargetingPersonasUsers": "Gebruikers van targeting persona's",
+        "CreateTargetingPersona": "Targeting persona aanmaken",
+        "EditTargetingPersona": "Targeting persona bewerken",
+        "TargetingProperties": "Targeting eigenschappen",
+        "AddTargetingProperty": "Targeting eigenschap toevoegen",
+        "Delete": "Verwijderen",
+        "Save": "Opslaan",
+        "Create": "Aanmaken",
+        "Cancel": "Annuleren",
+        "NoItems": "Geen targeting persona's gevonden. Maak er een aan om te beginnen.",
+        "ActivatedPersonaInfo": "U staat op het punt te bekijken als",
+        "ActivatedPersonaDescription": "Inhoud en navigatie weerspiegelen waartoe deze persona toegang heeft. Wijzigingen zijn volledig van kracht na herladen.",
+        "DeactivatedInfo": "U staat op het punt uw persona te deactiveren. Herlaad om uw normale weergave te herstellen.",
+        "ReloadNow": "Nu herladen",
+        "ViewAsPersonaInfo": "U staat op het punt de intranet te bekijken als",
+        "ViewAsPersonaDescription": "Dit verandert uw machtigingen of toegang niet. Wijzigingen zijn volledig van kracht na het herladen van de pagina.",
+        "ExitPersonaPreviewInfo": "U staat op het punt de preview van de targeting persona te verlaten. Uw normale weergave wordt hersteld na het herladen."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Uw sessie is verlopen.",
+      "Message": "We konden uw aanmelding niet op de achtergrond vernieuwen. Herlaad Omnia om door te blijven werken - we doen het zo voor u.",
+      "Seconds": "seconden",
+      "Skip": "Later herladen"
+    }
+  }
+}
