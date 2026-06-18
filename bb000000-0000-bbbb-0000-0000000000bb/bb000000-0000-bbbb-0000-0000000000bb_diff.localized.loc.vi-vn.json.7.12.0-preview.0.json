@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Phông chữ",
+        "Previewing": "Đang xem trước...",
+        "InheritFromTenant": "Kế thừa từ tenant",
+        "EnableCustomFont": "Bật phông chữ tùy chỉnh",
+        "FontFamilyName": "Tên họ phông chữ",
+        "FontSource": "Nguồn phông chữ",
+        "FileUpload": "Tải lên tệp",
+        "CdnFileLink": "Liên kết tệp CDN",
+        "ChooseFontFile": "Chọn tệp phông chữ",
+        "NoFileSelected": "Chưa chọn tệp",
+        "SupportedFontFilesHelp": "Các tệp phông chữ được hỗ trợ: WOFF, WOFF2, TTF và OTF. Kích thước tối đa là 10 MB.",
+        "CdnFontFileUrl": "URL tệp phông chữ CDN",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Phông chữ bổ sung",
+        "AddAdditionalFont": "Thêm phông chữ",
+        "EditAdditionalFont": "Chỉnh sửa phông chữ",
+        "NoAdditionalFonts": "Chưa thêm phông chữ bổ sung nào.",
+        "AdditionalFontsHelp": "Phông chữ bổ sung được tải trên trang, nhưng không được áp dụng tự động.",
+        "ApplyTo": "Áp dụng cho",
+        "ScopeOmniaAdmin": "Quản trị Omnia - sẽ áp dụng cho quản trị Omnia",
+        "ScopeEditorTools": "Công cụ chỉnh sửa - sẽ áp dụng cho trình chỉnh sửa WCM, tất cả cài đặt khối",
+        "ScopeReadMode": "Chế độ đọc - sẽ áp dụng trong tất cả chế độ đọc",
+        "PreviewTitle": "Xem trước",
+        "DisplayText": "Văn bản hiển thị",
+        "HeadlineText": "Văn bản tiêu đề",
+        "TitleText": "Văn bản tiêu đề chính",
+        "BodyText": "Văn bản thân bài cho thấy cách nội dung đoạn văn thường kế thừa phông chữ đã cấu hình.",
+        "SmallAction": "Hành động nhỏ",
+        "DefaultAction": "Hành động mặc định",
+        "LargeAction": "Hành động lớn",
+        "FontFileTooLarge": "Tệp phông chữ quá lớn. Kích thước tối đa cho phép là 10 MB.",
+        "UnsupportedFontFileType": "Loại tệp phông chữ không được hỗ trợ. Các loại được hỗ trợ là .woff, .woff2, .ttf và .otf.",
+        "FontFamilyRequired": "Vui lòng nhập tên họ phông chữ.",
+        "ValidFontFileRequired": "Vui lòng chọn tệp phông chữ hợp lệ.",
+        "ValidCdnUrlRequired": "Vui lòng nhập URL tệp phông chữ CDN công khai hợp lệ kết thúc bằng .woff, .woff2, .ttf hoặc .otf.",
+        "ValidFontSourceRequired": "Vui lòng chọn nguồn phông chữ hợp lệ để xem trước.",
+        "UnexpectedError": "Đã xảy ra lỗi không mong muốn."
+      },
+      "DatetimePicker": {
+        "SetAM": "Đặt AM",
+        "SetPM": "Đặt PM",
+        "PreviousMonth": "Tháng trước",
+        "NextMonth": "Tháng sau",
+        "ClickToSelectMonth": "Nhấp để chọn tháng.",
+        "ClickToSelectYear": "Nhấp để chọn năm.",
+        "SelectedDatePrefix": "Ngày đã chọn",
+        "TodayPrefix": "Hôm nay",
+        "PreviousYear": "Năm trước",
+        "NextYear": "Năm sau",
+        "CurrentYearIs": "Năm hiện tại là",
+        "SelectedMonthPrefix": "Tháng đã chọn",
+        "YearLabel": "Năm",
+        "PreviousYears": "Các năm trước",
+        "NextYears": "Các năm sau",
+        "SelectedYearPrefix": "Năm đã chọn",
+        "IncreaseHour": "Tăng giờ",
+        "DecreaseHour": "Giảm giờ",
+        "IncreaseMinute": "Tăng phút",
+        "DecreaseMinute": "Giảm phút",
+        "HourLabel": "Giờ",
+        "MinuteLabel": "Phút",
+        "Cancel": "Hủy",
+        "Add": "Thêm",
+        "MonthPicker": "Bộ chọn tháng",
+        "YearPicker": "Bộ chọn năm",
+        "TimePicker": "Bộ chọn thời gian",
+        "CalendarPicker": "Bộ chọn lịch"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Đặt AM",
+        "SetPM": "Đặt PM",
+        "PreviousMonth": "Tháng trước",
+        "NextMonth": "Tháng sau",
+        "ClickToSelectMonth": "Nhấp để chọn tháng",
+        "ClickToSelectYear": "Nhấp để chọn năm",
+        "SelectedDatePrefix": "Đã chọn:",
+        "TodayPrefix": "Hôm nay:",
+        "PreviousYear": "Năm trước",
+        "NextYear": "Năm sau",
+        "CurrentYearIs": "Năm hiện tại là",
+        "SelectedMonthPrefix": "Đã chọn:",
+        "YearLabel": "Năm",
+        "PreviousYears": "Các năm trước",
+        "NextYears": "Các năm sau",
+        "SelectedYearPrefix": "Đã chọn:",
+        "IncreaseHour": "Tăng giờ",
+        "DecreaseHour": "Giảm giờ",
+        "IncreaseMinute": "Tăng phút",
+        "DecreaseMinute": "Giảm phút",
+        "HourLabel": "Giờ",
+        "MinuteLabel": "Phút",
+        "Cancel": "Hủy",
+        "Ok": "OK",
+        "MonthPicker": "Bộ chọn tháng",
+        "YearPicker": "Bộ chọn năm",
+        "TimePicker": "Bộ chọn thời gian",
+        "CalendarPicker": "Bộ chọn lịch"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Bộ lọc đồng bộ người dùng"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Bộ lọc đồng bộ người dùng",
+            "UserSynchronizationFilterDescription": "Cấu hình bộ lọc để bao gồm hoặc loại trừ người dùng khỏi việc đồng bộ",
+            "UserSynchronizationFilterNotConfigured": "Chưa cấu hình bộ lọc đồng bộ người dùng.",
+            "UserSynchronizationFilterConfigured": "Đã cấu hình sử dụng {0} bộ lọc",
+            "Configure": "Cấu hình",
+            "RuleAction": "Hành động quy tắc",
+            "IncludeInSync": "Bao gồm trong đồng bộ",
+            "IncludeInSyncDescription": "Người dùng phù hợp với các bộ lọc dưới đây sẽ được thêm vào thư mục.",
+            "ExcludeFromSync": "Loại trừ khỏi đồng bộ",
+            "ExcludeFromSyncDescription": "Người dùng phù hợp với các bộ lọc dưới đây sẽ bị bỏ qua trong quá trình đồng bộ.",
+            "MatchUsersWhere": "Khớp người dùng khi",
+            "MatchUsersWhereDescription": "Tất cả bộ lọc phải khớp (và logic). Trong một bộ lọc, bất kỳ giá trị nào cũng có thể khớp (hoặc logic).",
+            "NoUserSynchronizationFilters": "Chưa có bộ lọc nào - không có bộ lọc, quy tắc này khớp với mọi người dùng.",
+            "And": "VÀ",
+            "Where": "Nơi",
+            "EnterValueWithWildcard": "Nhập giá trị. * là ký tự đại diện.",
+            "ExcludeWithoutFiltersNotAllowed": "Không cho phép loại trừ khỏi đồng bộ khi không có bộ lọc.",
+            "IncompleteFilterNotAllowed": "Một bộ lọc phải có thuộc tính được chọn và ít nhất một giá trị."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Ảnh đại diện cho {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Phân trang",
+          "PreviousPage": "Đi đến trang trước",
+          "NextPage": "Đi đến trang tiếp theo",
+          "GoToPage": "Đi đến trang {0}",
+          "CurrentPage": "Trang hiện tại, trang {0}",
+          "Status": "Trang {0} trên {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Hiển thị biểu tượng nhãn với giá trị",
+          "ShowLoginName": "Hiển thị tên đăng nhập"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Tìm kiếm ngữ nghĩa",
+          "Description": "Bật tính năng này để hệ thống của bạn có quyền truy cập vào tìm kiếm ngữ nghĩa"
+        },
+        "NextGenUI": {
+          "Category": "Hệ thống",
+          "Title": "Giao diện thế hệ tiếp theo",
+          "Description": "Kích hoạt tính năng này để áp dụng giao diện người dùng mới."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "Hệ thống",
+          "Title": "Trải nghiệm mới trang chủ workspace",
+          "Description": "Bật trải nghiệm mới trên trang chủ workspace"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "Hệ thống",
+          "Title": "Trải nghiệm mới phiên bản ứng dụng",
+          "Description": "Bật trải nghiệm mới trên phiên bản ứng dụng"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Nhãn ARIA hộp tìm kiếm"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Tìm kiếm trong bộ lọc"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Tab phần"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Phần tử",
+            "ElementOptions": {
+              "Default": "Mặc định"
+            },
+            "FontFamily": "Họ phông chữ",
+            "AlignLeft": "Căn trái",
+            "AlignCenter": "Căn giữa",
+            "AlignRight": "Căn phải"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Thông tin bổ sung",
+            "ComplementaryInformationAriaLabel": "Nhãn Aria"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Không tìm thấy người dùng"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} là bắt buộc"
+      },
+      "Post": {
+        "ValidatePostMessage": "Bài đăng là bắt buộc.",
+        "PostFieldLabel": "Bài đăng"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Không dịch"
+        },
+        "Tooltip": {
+          "NoTranslate": "Không dịch"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "Bình luận là bắt buộc.",
+        "CommentFieldLabel": "Bình luận",
+        "EditActionsButtonAriaLabel": "Các hành động cho bình luận \"{CommentText}\"",
+        "EditCommentAriaLabel": "Chỉnh sửa bình luận \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Xóa bình luận \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Thêm phản ứng"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} là bắt buộc"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "Hệ thống",
+          "Description": "Cải tiến để tải Omnia nhanh hơn trong SPFx.",
+          "Title": "Cải tiến hiệu suất SPFx"
+        },
+        "SharePointFont": {
+          "Category": "Hệ thống",
+          "Description": "Cho phép các webpart Omnia SPFx đồng bộ với phông chữ được cấu hình của trang SharePoint.",
+          "Title": "Phông chữ SharePoint"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Nhân vật mục tiêu",
+        "TargetingPersonaTitle": "Nhân vật mục tiêu",
+        "SelectPersona": "Chọn nhân vật",
+        "ViewingAs": "Xem dưới vai trò",
+        "ViewingAsLabel": "Xem dưới vai trò",
+        "TargetingPersonasAdministrators": "Quản trị nhân vật mục tiêu",
+        "TargetingPersonasUsers": "Người dùng nhân vật mục tiêu",
+        "CreateTargetingPersona": "Tạo nhân vật mục tiêu",
+        "EditTargetingPersona": "Chỉnh sửa nhân vật mục tiêu",
+        "TargetingProperties": "Thuộc tính mục tiêu",
+        "AddTargetingProperty": "Thêm thuộc tính mục tiêu",
+        "Delete": "Xóa",
+        "Save": "Lưu",
+        "Create": "Tạo",
+        "Cancel": "Hủy",
+        "NoItems": "Không tìm thấy nhân vật mục tiêu nào. Tạo một nhân vật để bắt đầu.",
+        "ActivatedPersonaInfo": "Bạn sắp xem dưới vai trò",
+        "ActivatedPersonaDescription": "Nội dung và điều hướng phản ánh những gì nhân vật này có quyền truy cập. Thay đổi có hiệu lực đầy đủ sau khi tải lại.",
+        "DeactivatedInfo": "Bạn sắp hủy kích hoạt nhân vật của mình. Vui lòng tải lại để khôi phục chế độ xem bình thường.",
+        "ReloadNow": "Tải lại ngay",
+        "ViewAsPersonaInfo": "Bạn sắp xem intranet dưới vai trò",
+        "ViewAsPersonaDescription": "Điều này không thay đổi quyền hoặc truy cập của bạn. Thay đổi có hiệu lực đầy đủ sau khi tải lại trang.",
+        "ExitPersonaPreviewInfo": "Bạn sắp thoát xem trước nhân vật mục tiêu. Chế độ xem bình thường của bạn sẽ được khôi phục sau khi tải lại."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Phiên làm việc của bạn đã hết hạn.",
+      "Message": "Chúng tôi không thể làm mới đăng nhập của bạn trong nền. Tải lại Omnia để tiếp tục làm việc - chúng tôi sẽ thực hiện điều đó cho bạn ngay.",
+      "Seconds": "giây",
+      "Skip": "Tải lại sau"
+    }
+  }
+}
