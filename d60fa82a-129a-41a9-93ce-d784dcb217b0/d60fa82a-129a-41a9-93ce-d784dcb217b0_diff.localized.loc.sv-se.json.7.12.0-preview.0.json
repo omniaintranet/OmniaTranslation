@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Rubriknivå"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Endast text"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Kanalprenumerationer"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigeringsläge",
+        "DisableNavigate": "Inaktivera omdirigering till skapad sida",
+        "NavigateToOmnia": "Navigera till Omnia-sida",
+        "NavigateToSharePointFullPage": "Navigera till SharePoint helsida"
+      },
+      "OpenInDialog": "Öppna i dialogruta",
+      "DialogSummaryProperty": "Sammanfattningsegenskap",
+      "DialogContentProperty": "Innehållsegenskap",
+      "DialogImageProperty": "Bildegenskap",
+      "DialogDateProperty": "Datumeegenskap",
+      "DialogPropertyMappings": "Dialogegenskapsmappningar",
+      "OverrideDefaultSettings": "Åsidosätt standardinställningar",
+      "EnableRichText": "Aktivera formaterad text",
+      "EnableViewButtonOnDialog": "Aktivera visa-knapp i dialogruta",
+      "EnableMention": "Aktivera omnämnande"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint-sidfråga",
+        "SharepointPageQuery": "Basfråga",
+        "SharepointPageRollupQuery": "Basfråga för SharePoint-sidrollup"
+      },
+      "SemanticSearch": {
+        "Title": "Semantisk sökning",
+        "ReindexContent": "Indexera om innehåll",
+        "ReindexContentConfirmationTitle": "Kör fullständig indexering av innehåll",
+        "ReindexContentConfirmationDescription": "Är du säker på att du vill köra en fullständig innehållsindexering på Tenant?",
+        "ReindexContentMessage": "Indexera om {0} sidor (Lyckades: {1}, Misslyckades: {2})",
+        "Running": "Kör",
+        "ResumeFromLastSync": "Återuppta från senaste synk",
+        "ResumeFromLastSyncTitle": "Återuppta från senaste synk",
+        "ResumeFromLastSyncDescription": "Är du säker på att du vill återuppta från senaste synk på Tenant?",
+        "QueueReindex": "Köad för bearbetning…",
+        "Stopping": "Stoppar…",
+        "TerminateCurrentJob": "Avsluta pågående jobb",
+        "TerminateCurrentJobConfirmationTitle": "Avsluta pågående jobb",
+        "TerminateCurrentJobConfirmationDescription": "Är du säker på att du vill avsluta det pågående jobbet?"
+      },
+      "DefaultRendering": {
+        "Title": "Standardrendering",
+        "Description": "Definierar en standardrenderingsapp-instans som används som reserv när den aktuella webbplatsen inte har Full page experience aktiverad.",
+        "SelectLabel": "Välj standardrenderingsapp-instans",
+        "DialogSettingsTitle": "Standard dialogkonfiguration",
+        "EnableRichText": "Aktivera formaterad text",
+        "EnableViewButtonOnDialog": "Aktivera visa-knapp i dialogruta",
+        "EnableMention": "Aktivera omnämnande",
+        "DialogSummary": "Dialogsammanfattning",
+        "DialogContent": "Dialoginnehåll",
+        "DialogImage": "Dialogbild",
+        "DialogDate": "Dialogdatum"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Bild till vänster",
+        "ImageOnRight": "Bild till höger"
+      },
+      "Editor": {
+        "OnThisPage": "Sektioner",
+        "LivePreview": "Direktförhandsvisning",
+        "Menu": {
+          "Style": "Stil"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Bild/Text-förhållande",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Höjd",
+        "BorderRadius": "Rundade hörn",
+        "BorderWidth": "Kantbredd",
+        "BorderColor": "Kantfärg",
+        "AddMedia": "Lägg till media",
+        "ChangeMedia": "Byt media",
+        "RemoveMedia": "Ta bort media",
+        "TitleElement": "Titel-element",
+        "TitleElements": {
+          "Default": "Standard",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Stilförinställning",
+        "Query": "Fråga",
+        "CurrentNodeIndicator": "Aktuell nodindikator",
+        "Separator": "Avgränsare",
+        "FontSizeSpacing": "Teckenstorlek & avstånd",
+        "FontSize": "Teckenstorlek",
+        "Density": "Täthet",
+        "Compact": "Kompakt",
+        "Comfortable": "Bekväm",
+        "Spacious": "Rymlig",
+        "HoverState": "Hover-tillstånd",
+        "IndicatorColor": "Indikatorfärg",
+        "SeparatorColor": "Avgränsarfärg",
+        "HoverColor": "Hover-färg",
+        "LivePreview": "Direktförhandsvisning",
+        "OmniaClassic": "Omnia klassisk",
+        "OmniaClassicDescription": "Aktuell Omnia breadcrumb-stil",
+        "MinimalSlash": "Minimal snedstreck",
+        "MinimalSlashDescription": "Snedstrecksavgränsare - färgad hover",
+        "PillCurrent": "Piller aktuell",
+        "PillCurrentDescription": "Tonat piller på aktuell - tonad hover",
+        "BoldUnderline": "Fet aktuell",
+        "BoldUnderlineDescription": "Fet aktuell nod - understrykning vid hover",
+        "ArrowTrail": "Pilspår",
+        "ArrowTrailDescription": "Pilavgränsare - färgad aktuell",
+        "DotDivider": "Punktavgränsare",
+        "DotDividerDescription": "Punktavgränsare - färgad hover",
+        "Custom": "Anpassad",
+        "Plain": "Enkel",
+        "Bold": "Fet",
+        "Color": "Färg",
+        "Pill": "Piller",
+        "Chevron": "Chevron",
+        "Slash": "Snedstreck",
+        "Arrow": "Pil",
+        "Dot": "Punkt",
+        "Pipe": "Streck",
+        "Guillemet": "Vinkel",
+        "None": "Ingen",
+        "Underline": "Understrykning",
+        "Tint": "Ton"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Innehållsflöde",
+        "BlockSummary": "Skapa strukturerat sidinnehåll med text, media och citat.",
+        "Placeholder": "Rendering av Content Flow kommer att vara tillgängligt när blocklagring är implementerad.",
+        "Media": {
+          "AddImage": "Lägg till media",
+          "EditImage": "Redigera media",
+          "RemoveImage": "Ta bort media",
+          "ReplaceImage": "Byt media",
+          "PlaceholderTitle": "Lägg till media",
+          "PlaceholderDescription": "Välj en bild eller video från mediebiblioteket för detta Content flow media-block.",
+          "Width": {
+            "Label": "Mediabredd",
+            "Content": "Innehåll",
+            "Wide": "Bred",
+            "Full": "Full",
+            "FullBleed": "Full bleed"
+          }
+        },
+        "Text": {
+          "Placeholder": "Skriv något, eller tryck '/' för mallar...",
+          "QuotePlaceholder": "Lägg till citattext...",
+          "QuoteAttributionLabel": "Källa",
+          "QuoteSourceLabel": "Ursprung"
+        },
+        "Person": {
+          "PickerLabel": "Person",
+          "EmptyName": "Välj en person",
+          "TextPlaceholder": "Skriv en kort profil, citat eller spotlight-text..."
+        },
+        "Spacing": {
+          "Label": "Avstånd"
+        },
+        "Editor": {
+          "AddBlock": "Lägg till block",
+          "AddBelow": "Lägg till nedanför",
+          "AddFirstBlock": "Lägg till ditt första block",
+          "Convert": "Konvertera",
+          "ConvertTo": "Konvertera till",
+          "Delete": "Ta bort",
+          "DragToReorder": "Dra för att ändra ordning",
+          "Duplicate": "Duplicera",
+          "InheritedContent": "Detta block återanvänder mappat innehåll från Content flow.",
+          "InsertTemplate": "Infoga mall",
+          "MoveDown": "Flytta nedåt",
+          "MoveUp": "Flytta uppåt",
+          "PickTemplateToStart": "Välj en mall för att börja komponera.",
+          "Ratio": "Förhållande",
+          "SearchTemplates": "Sök efter mall...",
+          "SearchTemplatesShort": "Sök mallar...",
+          "Templates": "Mallar",
+          "KeyboardNavigate": "↑↓ Navigera",
+          "KeyboardInsert": "↵ Infoga",
+          "KeyboardCancel": "Esc avbryt",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Innehållsbredd",
+          "WidthWideTitle": "Bred",
+          "WidthFullTitle": "Full bleed",
+          "RatioEqualTitle": "Jämna kolumner",
+          "RatioNarrowWideTitle": "Smal vänster, bred höger",
+          "RatioWideNarrowTitle": "Bred vänster, smal höger",
+          "InnerDivider": "Växla inre avgränsare"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Text",
+            "Description": "Ett enda block med formaterad text."
+          },
+          "Media": {
+            "Title": "Media",
+            "Description": "Ett enda mediablock."
+          },
+          "MediaText": {
+            "Title": "Media + Text",
+            "Description": "Media till vänster, text till höger."
+          },
+          "MediaGallery": {
+            "Title": "Mediagalleri",
+            "Description": "Två rader med tre mediablock."
+          },
+          "TextMedia": {
+            "Title": "Text + Media",
+            "Description": "Text till vänster, media till höger."
+          },
+          "Person": {
+            "Title": "Person",
+            "Description": "Lyft fram en person med avatar, namn och intilliggande text."
+          },
+          "Quote": {
+            "Title": "Citat",
+            "Description": "Ett citatfokuserat block med formaterad text."
+          },
+          "Spacing": {
+            "Title": "Avstånd",
+            "Description": "Lägg till justerbart vertikalt utrymme mellan block."
+          },
+          "Divider": {
+            "Title": "Avgränsare",
+            "Description": "Lägg till en enkel horisontell avgränsningslinje."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Skapa med AI",
+          "AddWithAiPlaceholder": "Beskriv innehållet så lägger jag till det åt dig",
+          "ApplyPreview": "Tillämpa förhandsvisning",
+          "Cancel": "Avbryt",
+          "CurrentRowScope": "Aktuell rad",
+          "DialogTitle": "AI-assistans",
+          "DocumentScope": "Hela dokumentet",
+          "EmptyPromptError": "Ange en instruktion innan du genererar en förhandsvisning.",
+          "GeneratePreview": "Generera förhandsvisning",
+          "GeneratePage": "Generera sida",
+          "GenerationBlockComplete": "Blocket är klart.",
+          "GenerationBlockSelecting": "Väljer block",
+          "GenerationBlockTitle": "Genererar block",
+          "GenerationBlockWriting": "Skriver innehåll",
+          "GenerationComplete": "Sidan är klar.",
+          "GenerationOutline": "Skapar en sidöversikt från din instruktion.",
+          "GenerationRowGenerated": "Skriver rad {current} av {total}.",
+          "GenerationRowsInserted": "Infogade {total} platshållarrader och började fylla dem.",
+          "GenerationStepComplete": "Klar",
+          "GenerationStepContent": "Skriv innehåll",
+          "GenerationStepOutline": "Översikt",
+          "GenerationStepRows": "Placera rader",
+          "GenerationTitle": "Genererar sida",
+          "GenerateBlock": "Generera block",
+          "InvalidCurrentRowResponse": "Förhandsvisningen för en aktuell rad måste innehålla exakt en rad.",
+          "InvalidPreviewError": "Generera en giltig förhandsvisning innan ändringar tillämpas.",
+          "Open": "AI-assistans",
+          "PreviewJson": "Förhandsgranska JSON",
+          "PreviewReady": "Förhandsvisning genererad. Granska JSON innan du tillämpar.",
+          "PromptLabel": "Instruktion",
+          "PromptPlaceholder": "Beskriv vad AI ska skapa eller förbättra...",
+          "RawResponse": "Rå AI-svar",
+          "ScopeLabel": "Tillämpa AI på",
+          "SelectedRowRequired": "Välj en rad innan du använder AI för aktuell rad.",
+          "Send": "Skicka",
+          "ShortcutFallbackTitle": "AI-genväg",
+          "ValidationIssues": "Valideringsproblem"
+        },
+        "Settings": {
+          "Title": "Inställningar för innehållsflöde",
+          "Placeholder": "Inställningar för innehållsflöde kommer att vara tillgängliga när blocklagring är implementerad.",
+          "Categories": {
+            "General": "Allmänt",
+            "Layout": "Layout",
+            "Media": "Media",
+            "Divider": "Avgränsare",
+            "Editor": "Redigerare",
+            "AiAssistance": "AI-assistans"
+          },
+          "RowSpacing": "Radavstånd",
+          "RowSpacingHint": "Ställer in det vertikala avståndet mellan rader i innehållsflödet.",
+          "ColumnSpacing": "Kolumnavstånd",
+          "ColumnSpacingHint": "Ställer in avståndet mellan kolumner och galleriobjekt i innehållsflödesrader.",
+          "MediaBorderRadius": "Media rundade hörn",
+          "MediaBorderRadiusHint": "Ställer in rundade hörn för alla mediainnehållsblock i redigeraren.",
+          "DividerStyle": "Stil",
+          "DividerColor": "Färg",
+          "DividerOpacity": "Opacitet",
+          "DividerWeight": "Vikt",
+          "DividerWidth": "Bredd",
+          "DividerStyleLine": "Linje",
+          "DividerStyleDashed": "Streckad",
+          "DividerStyleDotted": "Prickad",
+          "DividerStyleDoubleLine": "Dubbel linje",
+          "DividerStyleDoubleDashed": "Dubbel streckad",
+          "DividerStyleDoubleDotted": "Dubbel prickad",
+          "ConfirmDelete": "Bekräfta borttagning",
+          "ConfirmDeleteHint": "Visa en bekräftelsepopup innan ett innehållsflödesblock tas bort.",
+          "ConfirmDeleteTitle": "Ta bort block?",
+          "ConfirmDeleteMessage": "Detta block kommer att tas bort från innehållsflödet.",
+          "EnableAiAssistance": "Aktivera AI-assistans",
+          "EnableAiAssistanceHint": "Aktiverar AI-åtgärden i verktygsfältet och fullständig sidgenerering.",
+          "AiMediaProvider": "AI-mediatjänst",
+          "AiMediaProviderHint": "Väljer hur genererade sidmedieblock fylls under fullständig AI-sidgenerering.",
+          "AiMediaProviderNone": "Ingen",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Mallvalsprompt för block",
+            "Cancel": "Avbryt",
+            "Description": "Konfigurera promptinstruktioner som används av Content flow AI för denna affärsprofil.",
+            "GlobalPostPrompt": "Global efterprompt",
+            "GlobalPrePrompt": "Global förprompt",
+            "LoadError": "De sparade promptinställningarna kunde inte laddas. Standard visas.",
+            "ResetToDefaults": "Återställ till standard",
+            "SaveError": "Promptinställningarna kunde inte sparas.",
+            "Saved": "Promptinställningar sparade.",
+            "TemplatePrompts": "Mallprompter",
+            "Title": "Content flow AI-prompter"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Ogiltig JSON ersattes med ett standarddokument.",
+          "MissingDocumentDefaultCreated": "Saknat dokument ersattes med ett standarddokument.",
+          "SchemaMigrated": "Dokumentet normaliserades till Content flow schema version 1.",
+          "SchemaInvalid": "Content flow-dokument måste använda schema version 1.",
+          "RowsEmpty": "Content flow-dokument måste innehålla minst en rad.",
+          "RowIdMissing": "Rad-ID krävs.",
+          "RowTemplateInvalid": "Radmallstyp stöds inte.",
+          "BlocksEmpty": "En rad måste innehålla minst ett block.",
+          "BlockIdMissing": "Block-ID krävs.",
+          "TextMissing": "Ett textblock måste innehålla textinnehåll.",
+          "MediaMissing": "Ett mediablock måste innehålla mediainnehåll.",
+          "QuoteMissing": "Ett citatblock måste innehålla formaterat textinnehåll.",
+          "SpacingMissing": "Ett avståndsblock måste innehålla avståndsinställningar.",
+          "RowInvalid": "Ogiltig rad ersattes med en textrad.",
+          "BlockInvalid": "Ogiltigt block ersattes med ett textblock.",
+          "LegacyTextMigrated": "Äldre textinnehåll migrerades till en textrad.",
+          "LegacyMediaMigrated": "Äldre mediainnehåll migrerades till en mediarad."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia full page experience",
+          "Summary": "Använd detta block för att lägga till en helsidesupplevelse på en sida."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "System",
+          "Description": "Tillhandahåll en systemssida till SharePoint webbplatsbibliotek.",
+          "Title": "Omnia full page experience"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Avgränsare",
+      "Title": "Avgränsare",
+      "Description": "Lägg till en avgränsare på sidan",
+      "Settings": {
+        "WelcomeTitle": "Avgränsare",
+        "Description": "Lägg till en avgränsare på sidan",
+        "Display": "Visning",
+        "StyleSection": "Stil",
+        "Style": "Stil",
+        "Color": "Färg",
+        "Opacity": "Opacitet",
+        "Weight": "Vikt",
+        "Width": "Bredd",
+        "Line": "Linje",
+        "Dashed": "Streckad",
+        "Dotted": "Prickad",
+        "DoubleLine": "Dubbel linje",
+        "DoubleDashed": "Dubbel streckad",
+        "DoubleDotted": "Dubbel prickad"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Visa detaljer"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame tillgänglig titel",
+        "CustomUrlTitle": "Anpassad URL",
+        "PropertyUrlTitle": "URL från egenskap"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Välj sidtyper"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Visa etikettikon med värde"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Stilförinställning",
+        "General": "Allmänt",
+        "CurrentNodeIndicator": "Aktuell nodindikator",
+        "OpenCollapse": "Öppna & kollapsa",
+        "OpenCollapseColor": "Färg för öppna & kollapsa",
+        "RowDensity": "Radtäthet",
+        "HoverState": "Hover-tillstånd",
+        "HoverColor": "Hover-färg",
+        "IndentGuide": "Indenteringsguide",
+        "IndicatorColor": "Indikatorfärg",
+        "RowFontSize": "Radteckenstorlek",
+        "LivePreview": "Direktförhandsvisning",
+        "OmniaClassic": "Omnia klassisk",
+        "OmniaClassicDescription": "Aktuell Omnia navigeringsstil",
+        "MaterialClassic": "Material klassisk",
+        "MaterialClassicDescription": "Fet primär text - chevron höger",
+        "LeftBarAccent": "Accent på vänsterfält",
+        "LeftBarAccentDescription": "Sidofältmarkör - chevron höger",
+        "TintedPill": "Tonat piller",
+        "TintedPillDescription": "Fylld aktiv rad - plus/minus kollaps",
+        "CompactRowClick": "Kompakt + radklick",
+        "CompactRowClickDescription": "Täta rader - hela raden växlar",
+        "TreePill": "Träd + piller",
+        "TreePillDescription": "Anslutande linjer - fylld piller-markör",
+        "Custom": "Anpassad",
+        "LeftBar": "Vänsterfält",
+        "FilledPill": "Fylld piller",
+        "BoldColor": "Fet färg",
+        "Dot": "Punkt",
+        "Outline": "Kontur",
+        "ChevronRight": "Chevron höger",
+        "ChevronLeft": "Chevron vänster",
+        "PlusMinus": "Plus/minus",
+        "PlusMinusLeft": "Plus/minus vänster",
+        "RowClick": "Radklick",
+        "Compact": "Kompakt",
+        "Comfortable": "Bekväm",
+        "Spacious": "Rymlig",
+        "Tint": "Ton",
+        "Underline": "Understrykning",
+        "Bold": "Fet",
+        "None": "Ingen",
+        "Dotted": "Prickad",
+        "Solid": "Solid",
+        "Tree": "Träd"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Denna sidvariant är låst på grund av maskinöversättning.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Lägg till bild",
+          "ImageDescription": "Möjlighet att lägga till en bild eller video på sidan."
+        },
+        "PageTitle150MaxLengthValidation": "Titeln har nått gränsen på 150 tecken och kan inte sparas."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Kolumnbredd"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia sid-sökmall"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint sid-sökmall"
+      },
+      "Fields": {
+        "Title": "Titel",
+        "Description": "Beskrivning",
+        "Date": "Datum",
+        "FallbackDate": "Reservdatum",
+        "User": "Användare",
+        "FallbackUser": "Reservanvändare",
+        "URL": "URL",
+        "ParentURL": "Föräldra-URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Öppna i SharePoint helsida"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Status",
+        "Success": "Lyckad",
+        "Error": "Fel",
+        "Running": "Kör",
+        "Stopping": "Stoppar"
+      },
+      "Started": "Startad",
+      "Ended": "Avslutad",
+      "CreatedBy": "Skapad av",
+      "Summary": "Sammanfattning",
+      "ReindexContentMessage": "Indexera om {0} sidor (Lyckad: {1}, Misslyckad: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint-sidor",
+      "SelectSharePointSite": "Välj SharePoint-webbplats",
+      "SearchPages": "Sök sidor",
+      "SPPageNotFound": "Denna SharePoint-sida kunde inte hittas",
+      "NoSPPagesFound": "Inga SharePoint-sidor hittades",
+      "LoadingSPPages": "Laddar SharePoint-sidor...",
+      "SelectAllPagesOnCurrentPage": "Välj alla sidor på aktuell sida",
+      "CurrentSPPage": "Aktuell SP-sida",
+      "SPPageProviderTableHeader": {
+        "FileName": "Filnamn",
+        "Title": "Titel",
+        "Modified": "Ändrad",
+        "ModifiedBy": "Ändrad av",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Dölj antal registrerade deltagare (läsare)",
+          "General": "Allmänt",
+          "Display": "Visning",
+          "StylePreset": "Stilförinställning",
+          "LivePreview": "Direktförhandsvisning",
+          "ShowIcon": "Visa ikon",
+          "ShowNumbers": "Visa siffror",
+          "Icon": "Ikon",
+          "Meter": "Mätare",
+          "Color": "Färg",
+          "Size": "Storlek",
+          "StatusBadge": "Statusmärke",
+          "None": "Ingen",
+          "Bar": "Stapeldiagram",
+          "SeatGrid": "Sittplatsnät",
+          "Neutral": "Neutral",
+          "Primary": "Primär",
+          "Semantic": "Semantisk",
+          "Custom": "Anpassad",
+          "CustomColor": "Anpassad färg",
+          "Compact": "Kompakt",
+          "Default": "Standard",
+          "Large": "Stor",
+          "PreviewRegistered": "Förhandsgranska registrerade",
+          "PreviewCapacity": "Förhandsgranska kapacitet"
+        },
+        "Presets": {
+          "Classic": "Klassisk",
+          "ClassicDescription": "Ikon och antal",
+          "Progress": "Framsteg",
+          "ProgressDescription": "Antal med mätare",
+          "BigNumber": "Stort nummer",
+          "BigNumberDescription": "Stort fokus på antal",
+          "SeatGrid": "Sittplatsnät",
+          "SeatGridDescription": "Visuella kapacitetsceller",
+          "Status": "Status",
+          "StatusDescription": "Semantisk mätare och märke",
+          "Minimal": "Minimal",
+          "MinimalDescription": "Endast kompakt antal"
+        },
+        "Status": {
+          "Available": "Tillgänglig",
+          "FillingUp": "Fylls upp",
+          "AlmostFull": "Nästan full",
+          "SoldOut": "Slutsåld"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Evenemangskort"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Call to action-stil",
+        "Description": "Konfigurera utseendet för Call to action-knappar i din applikation.",
+        "PreviewButton": "Förhandsgranska knapp"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Spårning",
+        "JoinTeamsMeeting": "Gå med",
+        "IconLabels": {
+          "DateTime": "Datum och tid",
+          "Location": "Plats",
+          "Description": "Beskrivning"
+        },
+        "ResponseMessage": {
+          "Accept": "Accepterad",
+          "Tentative": "Tentativ",
+          "Declined": "Avböjd"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Call to action"
+        },
+        "Extensions": {
+          "CallToAction": "Call to action"
+        }
+      },
+      "CallToAction": {
+        "Title": "Titel",
+        "Url": "URL",
+        "Save": "Spara",
+        "Cancel": "Avbryt",
+        "LinkNotSupported": "Den angivna länken stöds inte."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Öppna i klientapp",
+        "OpenInWeb": "Öppna i webbläsare",
+        "OpenInWebNewTab": "Öppna i webbläsare i ny flik",
+        "DocumentLinkHandlerNote": "Länkar hanteras globalt, detta kan påverka beteendet för ovanstående val.",
+        "NoDocumentPickers": "Inga dokumentväljare konfigurerade."
+      },
+      "User": {
+        "Label": "Användare",
+        "FindUser": "Hitta användare"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint-sidväljare",
+        "Name": "SharePoint-sida",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint-sidkategorier",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Ta bort kategori",
+            "Message": "Är du säker på att du vill ta bort denna SharePoint-sidkategori?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Lägg till filter",
+            "AdjustFilters": "Justera filter",
+            "Done": "Klar",
+            "TermSetNotFound": "Termuppsättning hittades inte",
+            "SearchBox": "Sökfält (Egenskaper)",
+            "SearchBoxProperties": "SharePoint-sidegenskaper",
+            "FullTextSearch": "Sökfält (Fulltext)",
+            "SearchOnSPPageTitleAnd": "Sök på SharePoint-sidtitel och",
+            "EnableWildcardSearch": "Aktivera delvis ordsökning",
+            "ShowSearchBox": "Visa sökfält",
+            "SearchTextLabel": "Söktext",
+            "AdjustWidthPlaceholder": "Bredd",
+            "CollapseFilter": "Dölj filter som standard"
+          },
+          "SearchCategories": "Sök kategorier",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint-bibliotek",
+            "SearchCategory": "Sökkategori"
+          },
+          "SharePointLibraryUrl": "URL till SharePoint-bibliotek",
+          "LibraryNotExistedMessage": "Kan inte hitta ett bibliotek på denna URL.",
+          "DateFilter": {
+            "From": "Från",
+            "To": "Till"
+          },
+          "Common": {
+            "Yes": "Ja",
+            "No": "Nej",
+            "All": "Alla"
+          }
+        },
+        "AddDocument": "Lägg till dokument",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Ta bort dokument",
+            "Message": "Är du säker på att du vill ta bort detta dokument?"
+          }
+        },
+        "NoSharePointPagePicker": "Inga SharePoint-sidväljare konfigurerade",
+        "NoResultMessage": "Ingen sida hittades",
+        "ResolveUserErrorMessage": "Fel vid filtrering av person"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Sidan hittades inte"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Visa i dialogruta"
+      },
+      "NodePicker": {
+        "Header": "Välj navigeringsnod"
+      },
+      "ListView": {
+        "TargetReached": "Mål uppnått",
+        "TargetNotReached": "Mål ej uppnått"
+      },
+      "CardView": {
+        "VisitPage": "Öppna sida",
+        "PageImage": "Sidbild",
+        "PlaceholderImageIfEmpty": "Platshållarbild om tom",
+        "CardType": {
+          "ImageRight": "Bild till höger",
+          "ImageLeft": "Bild till vänster"
+        },
+        "TitleElement": "Titel-element",
+        "TitleElements": {
+          "Custom": "Anpassad",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Bild/Text-förhållande",
+        "RatioImageNarrowTitle": "Bild 30%, text 70%",
+        "RatioEqualTitle": "Bild 50%, text 50%",
+        "RatioImageWideTitle": "Bild 70%, text 30%",
+        "ShowAsText": "Visa person som text"
+      },
+      "EventCard": {
+        "StartDate": "Evenemangets startdatum",
+        "EndDate": "Evenemangets slutdatum",
+        "Location": "Plats",
+        "EventDate": "Evenemangsdatum",
+        "EventStatus": "Evenemangsstatus",
+        "AllDayProperty": "Heldagsegenskap",
+        "ShowDateOnImage": "Visa evenemangsdatum på bild",
+        "ShowLocation": "Visa plats",
+        "ShowRegisteredCapacity": "Visa antal anmälda",
+        "ShowRegistrationStatus": "Visa registreringsstatus",
+        "ShowPastEventStatus": "Visa status för tidigare evenemang",
+        "ShowAllDayStatus": "Visa heldagsstatus",
+        "ShowTeamsMeetingStatus": "Visa Teams-mötesstatus",
+        "JoinTeamsMeeting": "Gå med i Teams-möte",
+        "MovePropertyUp": "Flytta upp {0}",
+        "MovePropertyDown": "Flytta ner {0}",
+        "RemoveTermProperty": "Ta bort {0}",
+        "DateSettings": "Datuminställningar",
+        "StartDateSettings": "Inställningar för evenemangets startdatum",
+        "EndDateSettings": "Inställningar för evenemangets slutdatum",
+        "RegistrationOpen": "Registrering öppen",
+        "RegistrationClosed": "Registrering stängd",
+        "FullyBooked": "Fullbokat",
+        "PastEvent": "Tidigare evenemang",
+        "AllDay": "Heldag",
+        "TeamsMeeting": "Teams-möte"
+      },
+      "ListingWithImage": {
+        "Properties": "Egenskaper",
+        "AddProperty": "Lägg till egenskap",
+        "PropertiesSeparator": "Egenskapsavgränsare",
+        "WhiteSpace": "Vitt utrymme",
+        "Property": "Egenskap",
+        "NoPropertySelected": "Ingen egenskap vald",
+        "DateModeDefault": "Standard",
+        "DateModeClassic": "Klassisk",
+        "DateModeSocial": "Social",
+        "HideAvatar": "Dölj avatar",
+        "ShowAsText": "Visa som text",
+        "SeparatorType": "Avgränsartyp",
+        "RightAlignLikesComments": "Högerjustera likes och kommentarer"
+      },
+      "Common": {
+        "ShowMetricDetails": "Visa detaljer",
+        "AllowLiking": "Tillåt gillande",
+        "FileReadyForDownload": "Exportfil {0} är redo för nedladdning.",
+        "OpenInSharePointFullPage": "Öppna i SharePoint helsida"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Kortvy (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Välj år",
+          "MonthSelector": "Välj månad",
+          "WeekSelector": "Välj vecka",
+          "DateSelector": "Välj datum"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semantisk sökning",
+          "SemanticSearchLogs": "Indexera om innehåll - Loggar",
+          "ReindexContent": "Indexera om innehåll",
+          "Logging": "Loggning",
+          "ReindexContentMessageProgress": "Slutfört {0} av {1} sidor (lyckad: {2}, misslyckad: {3}) på {4}",
+          "ReindexContentMessage": "Indexera om {0} sidor (lyckad: {1}, misslyckad: {2}) på {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Är du säker på att du vill indexera om innehåll för semantisk sökning?",
+          "QueueReindex": "Köad för bearbetning…",
+          "Stopping": "Stoppar…",
+          "TerminateCurrentJob": "Avsluta pågående jobb",
+          "TerminateCurrentJobConfirmationTitle": "Avsluta pågående jobb",
+          "TerminateCurrentJobConfirmationDescription": "Är du säker på att du vill avsluta det pågående jobbet?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Redigera i Omnia"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "Aktivera helsidvy",
+        "EnableEnhancedCopilotIntegration": "Aktivera förbättrad Copilot-integration",
+        "Copilot": {
+          "Headline": "Sidmetadata",
+          "PropertyTemplate": "{0} för denna sida är {1}",
+          "BusinessProfile": "Affärsprofilen för denna sida är {0}",
+          "PublishingApp": "Publiceringsappen för denna sida är {0}",
+          "PageCollection": "Sidsamlingen för denna sida är {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "Redigera sida"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Kommentarmall",
+        "CommentTemplateOptions": {
+          "Default": "Standard",
+          "Threaded": "Trådad"
+        },
+        "ThreadedComments": "Trådade kommentarer",
+        "CustomInputStyle": "Anpassad inmatningsstil",
+        "Elevation": "Höjd",
+        "BorderThickness": "Kanttjocklek",
+        "BorderRadius": "Rundade hörn",
+        "BorderColor": "Kantfärg",
+        "TextColor": "Textfärg",
+        "BackgroundColor": "Bakgrundsfärg",
+        "EnableRichTextPageFeedback": "Formatering",
+        "OverrideDefaultSettings": "Åsidosätt standardinställningar",
+        "DeletedCommentMessage": {
+          "Label": "Meddelande för borttagen kommentar",
+          "Always": "Alltid",
+          "Never": "Aldrig",
+          "WhenReferenced": "När refererad"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Tillåt delning"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia full page experience",
+        "Description": "En helsideskomponent för att visa innehåll över hela sidan."
+      },
+      "Settings": {
+        "AllowEdit": "Tillåt redigering",
+        "Title": "Titel",
+        "SelectedPage": "Vald sida"
+      }
+    }
+  }
+}
