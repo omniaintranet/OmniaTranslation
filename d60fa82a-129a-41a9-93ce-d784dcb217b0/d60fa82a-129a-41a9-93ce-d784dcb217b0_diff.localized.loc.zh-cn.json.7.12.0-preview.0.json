@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "标题级别"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "仅文本"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "频道订阅"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "导航模式",
+        "DisableNavigate": "禁用跳转到已创建页面",
+        "NavigateToOmnia": "跳转到 Omnia 页面",
+        "NavigateToSharePointFullPage": "跳转到 SharePoint 全页"
+      },
+      "OpenInDialog": "在对话框中打开",
+      "DialogSummaryProperty": "摘要属性",
+      "DialogContentProperty": "内容属性",
+      "DialogImageProperty": "图片属性",
+      "DialogDateProperty": "日期属性",
+      "DialogPropertyMappings": "对话框属性映射",
+      "OverrideDefaultSettings": "覆盖默认设置",
+      "EnableRichText": "启用富文本",
+      "EnableViewButtonOnDialog": "启用对话框查看按钮",
+      "EnableMention": "启用提及"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint 页面查询",
+        "SharepointPageQuery": "基础查询",
+        "SharepointPageRollupQuery": "SharePoint 页面汇总基础查询"
+      },
+      "SemanticSearch": {
+        "Title": "语义搜索",
+        "ReindexContent": "重新索引内容",
+        "ReindexContentConfirmationTitle": "运行完整内容索引",
+        "ReindexContentConfirmationDescription": "您确定要在租户上运行完整内容索引吗？",
+        "ReindexContentMessage": "重新索引 {0} 页（成功：{1}，失败：{2}）",
+        "Running": "运行中",
+        "ResumeFromLastSync": "从上次同步恢复",
+        "ResumeFromLastSyncTitle": "从上次同步恢复",
+        "ResumeFromLastSyncDescription": "您确定要在租户上从上次同步恢复吗？",
+        "QueueReindex": "已排队等待处理…",
+        "Stopping": "正在停止…",
+        "TerminateCurrentJob": "终止当前任务",
+        "TerminateCurrentJobConfirmationTitle": "终止当前任务",
+        "TerminateCurrentJobConfirmationDescription": "您确定要终止当前任务吗？"
+      },
+      "DefaultRendering": {
+        "Title": "默认渲染",
+        "Description": "定义默认渲染应用实例，当当前站点未启用全页体验时作为回退使用。",
+        "SelectLabel": "选择默认渲染应用实例",
+        "DialogSettingsTitle": "默认对话框配置",
+        "EnableRichText": "启用富文本",
+        "EnableViewButtonOnDialog": "启用对话框查看按钮",
+        "EnableMention": "启用提及",
+        "DialogSummary": "对话框摘要",
+        "DialogContent": "对话框内容",
+        "DialogImage": "对话框图片",
+        "DialogDate": "对话框日期"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "图片在左",
+        "ImageOnRight": "图片在右"
+      },
+      "Editor": {
+        "OnThisPage": "章节",
+        "LivePreview": "实时预览",
+        "Menu": {
+          "Style": "样式"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "图片/文本比例",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "阴影",
+        "BorderRadius": "边框圆角",
+        "BorderWidth": "边框宽度",
+        "BorderColor": "边框颜色",
+        "AddMedia": "添加媒体",
+        "ChangeMedia": "更改媒体",
+        "RemoveMedia": "移除媒体",
+        "TitleElement": "标题元素",
+        "TitleElements": {
+          "Default": "默认",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "样式预设",
+        "Query": "查询",
+        "CurrentNodeIndicator": "当前节点指示器",
+        "Separator": "分隔符",
+        "FontSizeSpacing": "字体大小与间距",
+        "FontSize": "字体大小",
+        "Density": "密度",
+        "Compact": "紧凑",
+        "Comfortable": "舒适",
+        "Spacious": "宽松",
+        "HoverState": "悬停状态",
+        "IndicatorColor": "指示器颜色",
+        "SeparatorColor": "分隔符颜色",
+        "HoverColor": "悬停颜色",
+        "LivePreview": "实时预览",
+        "OmniaClassic": "Omnia 经典",
+        "OmniaClassicDescription": "当前 Omnia 面包屑样式",
+        "MinimalSlash": "极简斜杠",
+        "MinimalSlashDescription": "斜杠分隔符 - 悬停着色",
+        "PillCurrent": "当前胶囊",
+        "PillCurrentDescription": "当前项着色胶囊 - 悬停着色",
+        "BoldUnderline": "加粗当前",
+        "BoldUnderlineDescription": "加粗当前节点 - 悬停下划线",
+        "ArrowTrail": "箭头轨迹",
+        "ArrowTrailDescription": "箭头分隔符 - 当前着色",
+        "DotDivider": "点分隔符",
+        "DotDividerDescription": "点分隔符 - 悬停着色",
+        "Custom": "自定义",
+        "Plain": "纯文本",
+        "Bold": "加粗",
+        "Color": "颜色",
+        "Pill": "胶囊",
+        "Chevron": "箭头",
+        "Slash": "斜杠",
+        "Arrow": "箭头",
+        "Dot": "点",
+        "Pipe": "竖线",
+        "Guillemet": "角标",
+        "None": "无",
+        "Underline": "下划线",
+        "Tint": "着色"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "内容流",
+        "BlockSummary": "使用文本、媒体和引用创建结构化页面内容。",
+        "Placeholder": "内容流渲染将在块存储实现后可用。",
+        "Media": {
+          "AddImage": "添加媒体",
+          "EditImage": "编辑媒体",
+          "RemoveImage": "移除媒体",
+          "ReplaceImage": "替换媒体",
+          "PlaceholderTitle": "添加媒体",
+          "PlaceholderDescription": "从媒体库中选择图片或视频，用于此内容流媒体块。",
+          "Width": {
+            "Label": "媒体宽度",
+            "Content": "内容宽度",
+            "Wide": "宽",
+            "Full": "全宽",
+            "FullBleed": "全幅"
+          }
+        },
+        "Text": {
+          "Placeholder": "写点什么，或按 '/' 选择模板…",
+          "QuotePlaceholder": "添加引用文本…",
+          "QuoteAttributionLabel": "出处",
+          "QuoteSourceLabel": "来源"
+        },
+        "Person": {
+          "PickerLabel": "人员",
+          "EmptyName": "选择人员",
+          "TextPlaceholder": "写简短的简介、引用或聚焦文本…"
+        },
+        "Spacing": {
+          "Label": "间距"
+        },
+        "Editor": {
+          "AddBlock": "添加块",
+          "AddBelow": "在下方添加",
+          "AddFirstBlock": "添加您的第一个块",
+          "Convert": "转换",
+          "ConvertTo": "转换为",
+          "Delete": "删除",
+          "DragToReorder": "拖动以重新排序",
+          "Duplicate": "复制",
+          "InheritedContent": "此块正在重用映射的内容流内容。",
+          "InsertTemplate": "插入模板",
+          "MoveDown": "下移",
+          "MoveUp": "上移",
+          "PickTemplateToStart": "选择模板开始创作。",
+          "Ratio": "比例",
+          "SearchTemplates": "搜索模板…",
+          "SearchTemplatesShort": "搜索模板…",
+          "Templates": "模板",
+          "KeyboardNavigate": "↑↓ 导航",
+          "KeyboardInsert": "↵ 插入",
+          "KeyboardCancel": "Esc 取消",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "内容宽度",
+          "WidthWideTitle": "宽",
+          "WidthFullTitle": "全幅",
+          "RatioEqualTitle": "等宽列",
+          "RatioNarrowWideTitle": "左窄右宽",
+          "RatioWideNarrowTitle": "左宽右窄",
+          "InnerDivider": "切换内部分隔线"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "文本",
+            "Description": "单个富文本块。"
+          },
+          "Media": {
+            "Title": "媒体",
+            "Description": "单个媒体块。"
+          },
+          "MediaText": {
+            "Title": "媒体 + 文本",
+            "Description": "左侧媒体，右侧文本。"
+          },
+          "MediaGallery": {
+            "Title": "媒体画廊",
+            "Description": "两行三列媒体块。"
+          },
+          "TextMedia": {
+            "Title": "文本 + 媒体",
+            "Description": "左侧文本，右侧媒体。"
+          },
+          "Person": {
+            "Title": "人员",
+            "Description": "突出显示人员头像、姓名及旁边文本。"
+          },
+          "Quote": {
+            "Title": "引用",
+            "Description": "以引用为重点的富文本块。"
+          },
+          "Spacing": {
+            "Title": "间距",
+            "Description": "在块之间添加可调节的垂直空间。"
+          },
+          "Divider": {
+            "Title": "分隔线",
+            "Description": "添加简单的水平分隔线。"
+          }
+        },
+        "Ai": {
+          "AddWithAi": "AI 创建",
+          "AddWithAiPlaceholder": "描述内容，我将为您添加",
+          "ApplyPreview": "应用预览",
+          "Cancel": "取消",
+          "CurrentRowScope": "当前行",
+          "DialogTitle": "AI 辅助",
+          "DocumentScope": "整个文档",
+          "EmptyPromptError": "生成预览前请输入指令。",
+          "GeneratePreview": "生成预览",
+          "GeneratePage": "生成页面",
+          "GenerationBlockComplete": "块已准备好。",
+          "GenerationBlockSelecting": "选择块",
+          "GenerationBlockTitle": "生成块",
+          "GenerationBlockWriting": "撰写内容",
+          "GenerationComplete": "页面已准备好。",
+          "GenerationOutline": "根据指令创建页面大纲。",
+          "GenerationRowGenerated": "撰写第 {current} 行，共 {total} 行。",
+          "GenerationRowsInserted": "插入 {total} 个占位行并开始填充。",
+          "GenerationStepComplete": "完成",
+          "GenerationStepContent": "撰写内容",
+          "GenerationStepOutline": "大纲",
+          "GenerationStepRows": "放置行",
+          "GenerationTitle": "生成页面",
+          "GenerateBlock": "生成块",
+          "InvalidCurrentRowResponse": "当前行的预览必须包含且仅包含一行。",
+          "InvalidPreviewError": "应用更改前请生成有效预览。",
+          "Open": "AI 辅助",
+          "PreviewJson": "预览 JSON",
+          "PreviewReady": "预览已生成。应用前请检查 JSON。",
+          "PromptLabel": "指令",
+          "PromptPlaceholder": "描述 AI 应创建或改进的内容…",
+          "RawResponse": "原始 AI 响应",
+          "ScopeLabel": "应用 AI 至",
+          "SelectedRowRequired": "使用当前行 AI 前请先选择一行。",
+          "Send": "发送",
+          "ShortcutFallbackTitle": "AI 快捷方式",
+          "ValidationIssues": "验证问题"
+        },
+        "Settings": {
+          "Title": "内容流设置",
+          "Placeholder": "块存储实现后内容流设置将可用。",
+          "Categories": {
+            "General": "常规",
+            "Layout": "布局",
+            "Media": "媒体",
+            "Divider": "分隔线",
+            "Editor": "编辑器",
+            "AiAssistance": "AI 辅助"
+          },
+          "RowSpacing": "行间距",
+          "RowSpacingHint": "设置内容流行之间的垂直间距。",
+          "ColumnSpacing": "列间距",
+          "ColumnSpacingHint": "设置内容流行中列与画廊项之间的间距。",
+          "MediaBorderRadius": "媒体边框圆角",
+          "MediaBorderRadiusHint": "设置编辑器中所有媒体内容块的边框圆角。",
+          "DividerStyle": "样式",
+          "DividerColor": "颜色",
+          "DividerOpacity": "透明度",
+          "DividerWeight": "粗细",
+          "DividerWidth": "宽度",
+          "DividerStyleLine": "实线",
+          "DividerStyleDashed": "虚线",
+          "DividerStyleDotted": "点线",
+          "DividerStyleDoubleLine": "双实线",
+          "DividerStyleDoubleDashed": "双虚线",
+          "DividerStyleDoubleDotted": "双点线",
+          "ConfirmDelete": "确认删除",
+          "ConfirmDeleteHint": "删除内容流块前显示确认弹窗。",
+          "ConfirmDeleteTitle": "删除块？",
+          "ConfirmDeleteMessage": "此块将从内容流中删除。",
+          "EnableAiAssistance": "启用 AI 辅助",
+          "EnableAiAssistanceHint": "启用工具栏中的 AI 操作和全页生成。",
+          "AiMediaProvider": "AI 媒体提供者",
+          "AiMediaProviderHint": "选择全页 AI 生成时填充页面媒体块的方式。",
+          "AiMediaProviderNone": "无",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT 图片",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "块模板选择提示",
+            "Cancel": "取消",
+            "Description": "配置内容流 AI 在此业务配置文件中使用的提示指令。",
+            "GlobalPostPrompt": "全局后置提示",
+            "GlobalPrePrompt": "全局前置提示",
+            "LoadError": "无法加载已保存的提示设置。显示默认值。",
+            "ResetToDefaults": "重置为默认",
+            "SaveError": "无法保存提示设置。",
+            "Saved": "提示设置已保存。",
+            "TemplatePrompts": "模板提示",
+            "Title": "内容流 AI 提示"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "无效 JSON 已被替换为默认文档。",
+          "MissingDocumentDefaultCreated": "缺失文档已被替换为默认文档。",
+          "SchemaMigrated": "文档已规范化为内容流架构版本 1。",
+          "SchemaInvalid": "内容流文档必须使用架构版本 1。",
+          "RowsEmpty": "内容流文档必须至少包含一行。",
+          "RowIdMissing": "行 ID 是必需的。",
+          "RowTemplateInvalid": "不支持的行模板类型。",
+          "BlocksEmpty": "行必须至少包含一个块。",
+          "BlockIdMissing": "块 ID 是必需的。",
+          "TextMissing": "文本块必须包含文本内容。",
+          "MediaMissing": "媒体块必须包含媒体内容。",
+          "QuoteMissing": "引用块必须包含富文本内容。",
+          "SpacingMissing": "间距块必须包含间距设置。",
+          "RowInvalid": "无效行已被替换为文本行。",
+          "BlockInvalid": "无效块已被替换为文本块。",
+          "LegacyTextMigrated": "旧版文本内容已迁移到文本行。",
+          "LegacyMediaMigrated": "旧版媒体内容已迁移到媒体行。"
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia 全页体验",
+          "Summary": "使用此块为页面添加全页体验。"
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "系统",
+          "Description": "为 SharePoint 站点页面库配置系统页面。",
+          "Title": "Omnia 全页体验"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "分隔线",
+      "Title": "分隔线",
+      "Description": "向页面添加分隔线",
+      "Settings": {
+        "WelcomeTitle": "分隔线",
+        "Description": "向页面添加分隔线",
+        "Display": "显示",
+        "StyleSection": "样式",
+        "Style": "样式",
+        "Color": "颜色",
+        "Opacity": "透明度",
+        "Weight": "粗细",
+        "Width": "宽度",
+        "Line": "实线",
+        "Dashed": "虚线",
+        "Dotted": "点线",
+        "DoubleLine": "双实线",
+        "DoubleDashed": "双虚线",
+        "DoubleDotted": "双点线"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "显示详情"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame 可访问标题",
+        "CustomUrlTitle": "自定义 URL",
+        "PropertyUrlTitle": "属性中的 URL"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "选择页面类型"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "显示带值的标签图标"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "样式预设",
+        "General": "常规",
+        "CurrentNodeIndicator": "当前节点指示器",
+        "OpenCollapse": "展开与折叠",
+        "OpenCollapseColor": "展开与折叠颜色",
+        "RowDensity": "行密度",
+        "HoverState": "悬停状态",
+        "HoverColor": "悬停颜色",
+        "IndentGuide": "缩进指示线",
+        "IndicatorColor": "指示器颜色",
+        "RowFontSize": "行字体大小",
+        "LivePreview": "实时预览",
+        "OmniaClassic": "Omnia 经典",
+        "OmniaClassicDescription": "当前 Omnia 导航样式",
+        "MaterialClassic": "Material 经典",
+        "MaterialClassicDescription": "加粗主文本 - 右箭头",
+        "LeftBarAccent": "左侧栏强调",
+        "LeftBarAccentDescription": "侧边栏标记 - 右箭头",
+        "TintedPill": "着色胶囊",
+        "TintedPillDescription": "填充的活动行 - 加号/减号折叠",
+        "CompactRowClick": "紧凑 + 行点击",
+        "CompactRowClickDescription": "密集行 - 整行切换",
+        "TreePill": "树形 + 胶囊",
+        "TreePillDescription": "连接线 - 填充胶囊标记",
+        "Custom": "自定义",
+        "LeftBar": "左侧栏",
+        "FilledPill": "填充胶囊",
+        "BoldColor": "加粗颜色",
+        "Dot": "点",
+        "Outline": "轮廓",
+        "ChevronRight": "右箭头",
+        "ChevronLeft": "左箭头",
+        "PlusMinus": "加号/减号",
+        "PlusMinusLeft": "左侧加号/减号",
+        "RowClick": "行点击",
+        "Compact": "紧凑",
+        "Comfortable": "舒适",
+        "Spacious": "宽松",
+        "Tint": "着色",
+        "Underline": "下划线",
+        "Bold": "加粗",
+        "None": "无",
+        "Dotted": "点状",
+        "Solid": "实线",
+        "Tree": "树形"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "此页面变体因机器翻译而被锁定。",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "添加图片",
+          "ImageDescription": "可以向页面添加图片或视频。"
+        },
+        "PageTitle150MaxLengthValidation": "标题已达到 150 字符限制，无法保存。"
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "列宽"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia 页面搜索模板"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint 页面搜索模板"
+      },
+      "Fields": {
+        "Title": "标题",
+        "Description": "描述",
+        "Date": "日期",
+        "FallbackDate": "备用日期",
+        "User": "用户",
+        "FallbackUser": "备用用户",
+        "URL": "URL",
+        "ParentURL": "父级 URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "在 SharePoint 全页中打开"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "状态",
+        "Success": "成功",
+        "Error": "错误",
+        "Running": "运行中",
+        "Stopping": "停止中"
+      },
+      "Started": "已开始",
+      "Ended": "已结束",
+      "CreatedBy": "创建者",
+      "Summary": "摘要",
+      "ReindexContentMessage": "重新索引 {0} 页（成功：{1}，失败：{2}）"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint 页面",
+      "SelectSharePointSite": "选择 SharePoint 站点",
+      "SearchPages": "搜索页面",
+      "SPPageNotFound": "未找到此 SharePoint 页面",
+      "NoSPPagesFound": "未找到 SharePoint 页面",
+      "LoadingSPPages": "正在加载 SharePoint 页面…",
+      "SelectAllPagesOnCurrentPage": "选择当前页上的所有页面",
+      "CurrentSPPage": "当前 SharePoint 页面",
+      "SPPageProviderTableHeader": {
+        "FileName": "文件名",
+        "Title": "标题",
+        "Modified": "修改时间",
+        "ModifiedBy": "修改者",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "隐藏已注册参与者数量（读者）",
+          "General": "常规",
+          "Display": "显示",
+          "StylePreset": "样式预设",
+          "LivePreview": "实时预览",
+          "ShowIcon": "显示图标",
+          "ShowNumbers": "显示数字",
+          "Icon": "图标",
+          "Meter": "计量器",
+          "Color": "颜色",
+          "Size": "大小",
+          "StatusBadge": "状态徽章",
+          "None": "无",
+          "Bar": "条形",
+          "SeatGrid": "座位网格",
+          "Neutral": "中性",
+          "Primary": "主要",
+          "Semantic": "语义",
+          "Custom": "自定义",
+          "CustomColor": "自定义颜色",
+          "Compact": "紧凑",
+          "Default": "默认",
+          "Large": "大",
+          "PreviewRegistered": "预览已注册",
+          "PreviewCapacity": "预览容量"
+        },
+        "Presets": {
+          "Classic": "经典",
+          "ClassicDescription": "图标和计数",
+          "Progress": "进度",
+          "ProgressDescription": "带计量器的计数",
+          "BigNumber": "大数字",
+          "BigNumberDescription": "突出显示大计数",
+          "SeatGrid": "座位网格",
+          "SeatGridDescription": "可视化容量单元",
+          "Status": "状态",
+          "StatusDescription": "语义计量器和徽章",
+          "Minimal": "极简",
+          "MinimalDescription": "仅紧凑计数"
+        },
+        "Status": {
+          "Available": "可用",
+          "FillingUp": "快满",
+          "AlmostFull": "几乎满",
+          "SoldOut": "售罄"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "活动卡片"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "号召性用语样式",
+        "Description": "配置应用中号召性用语按钮的外观。",
+        "PreviewButton": "预览按钮"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "跟踪",
+        "JoinTeamsMeeting": "加入",
+        "IconLabels": {
+          "DateTime": "日期和时间",
+          "Location": "地点",
+          "Description": "描述"
+        },
+        "ResponseMessage": {
+          "Accept": "已接受",
+          "Tentative": "暂定",
+          "Declined": "已拒绝"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "号召性用语"
+        },
+        "Extensions": {
+          "CallToAction": "号召性用语"
+        }
+      },
+      "CallToAction": {
+        "Title": "标题",
+        "Url": "URL",
+        "Save": "保存",
+        "Cancel": "取消",
+        "LinkNotSupported": "提供的链接不受支持。"
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "在客户端应用中打开",
+        "OpenInWeb": "在网页中打开",
+        "OpenInWebNewTab": "在新标签页中网页打开",
+        "DocumentLinkHandlerNote": "链接由全局处理，这可能影响上述选项的行为。",
+        "NoDocumentPickers": "未配置文档选择器。"
+      },
+      "User": {
+        "Label": "用户",
+        "FindUser": "查找用户"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint 页面选择器",
+        "Name": "SharePoint 页面",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint 页面类别",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "删除类别",
+            "Message": "您确定要删除此 SharePoint 页面类别吗？"
+          },
+          "SearchFilter": {
+            "AddFilter": "添加筛选器",
+            "AdjustFilters": "调整筛选器",
+            "Done": "完成",
+            "TermSetNotFound": "未找到术语集",
+            "SearchBox": "搜索框（属性）",
+            "SearchBoxProperties": "SharePoint 页面属性",
+            "FullTextSearch": "搜索框（全文）",
+            "SearchOnSPPageTitleAnd": "在 SharePoint 页面标题及",
+            "EnableWildcardSearch": "启用部分词搜索",
+            "ShowSearchBox": "显示搜索框",
+            "SearchTextLabel": "搜索文本",
+            "AdjustWidthPlaceholder": "宽度",
+            "CollapseFilter": "默认隐藏筛选器"
+          },
+          "SearchCategories": "搜索类别",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint 库",
+            "SearchCategory": "搜索类别"
+          },
+          "SharePointLibraryUrl": "SharePoint 库 URL",
+          "LibraryNotExistedMessage": "无法在此 URL 找到库。",
+          "DateFilter": {
+            "From": "起始",
+            "To": "结束"
+          },
+          "Common": {
+            "Yes": "是",
+            "No": "否",
+            "All": "全部"
+          }
+        },
+        "AddDocument": "添加文档",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "移除文档",
+            "Message": "您确定要移除此文档吗？"
+          }
+        },
+        "NoSharePointPagePicker": "未配置 SharePoint 页面选择器",
+        "NoResultMessage": "未找到页面",
+        "ResolveUserErrorMessage": "人员筛选错误"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "未找到页面"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "在对话框中显示"
+      },
+      "NodePicker": {
+        "Header": "选择导航节点"
+      },
+      "ListView": {
+        "TargetReached": "目标已达成",
+        "TargetNotReached": "目标未达成"
+      },
+      "CardView": {
+        "VisitPage": "打开页面",
+        "PageImage": "页面图片",
+        "PlaceholderImageIfEmpty": "空时占位图片",
+        "CardType": {
+          "ImageRight": "图片在右",
+          "ImageLeft": "图片在左"
+        },
+        "TitleElement": "标题元素",
+        "TitleElements": {
+          "Custom": "自定义",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "图片/文本比例",
+        "RatioImageNarrowTitle": "图片 30%，文本 70%",
+        "RatioEqualTitle": "图片 50%，文本 50%",
+        "RatioImageWideTitle": "图片 70%，文本 30%",
+        "ShowAsText": "以文本形式显示人员"
+      },
+      "EventCard": {
+        "StartDate": "活动开始日期",
+        "EndDate": "活动结束日期",
+        "Location": "地点",
+        "EventDate": "活动日期",
+        "EventStatus": "活动状态",
+        "AllDayProperty": "全天属性",
+        "ShowDateOnImage": "在图片上显示活动日期",
+        "ShowLocation": "显示地点",
+        "ShowRegisteredCapacity": "显示报名人数",
+        "ShowRegistrationStatus": "显示报名状态",
+        "ShowPastEventStatus": "显示过去活动状态",
+        "ShowAllDayStatus": "显示全天状态",
+        "ShowTeamsMeetingStatus": "显示 Teams 会议状态",
+        "JoinTeamsMeeting": "加入 Teams 会议",
+        "MovePropertyUp": "上移 {0}",
+        "MovePropertyDown": "下移 {0}",
+        "RemoveTermProperty": "移除 {0}",
+        "DateSettings": "日期设置",
+        "StartDateSettings": "活动开始日期设置",
+        "EndDateSettings": "活动结束日期设置",
+        "RegistrationOpen": "报名开放",
+        "RegistrationClosed": "报名关闭",
+        "FullyBooked": "已满员",
+        "PastEvent": "过去活动",
+        "AllDay": "全天",
+        "TeamsMeeting": "Teams 会议"
+      },
+      "ListingWithImage": {
+        "Properties": "属性",
+        "AddProperty": "添加属性",
+        "PropertiesSeparator": "属性分隔符",
+        "WhiteSpace": "空白",
+        "Property": "属性",
+        "NoPropertySelected": "未选择属性",
+        "DateModeDefault": "默认",
+        "DateModeClassic": "经典",
+        "DateModeSocial": "社交",
+        "HideAvatar": "隐藏头像",
+        "ShowAsText": "以文本形式显示",
+        "SeparatorType": "分隔符类型",
+        "RightAlignLikesComments": "点赞和评论右对齐"
+      },
+      "Common": {
+        "ShowMetricDetails": "显示详情",
+        "AllowLiking": "允许点赞",
+        "FileReadyForDownload": "导出文件 {0} 已准备好下载。",
+        "OpenInSharePointFullPage": "在 SharePoint 全页中打开"
+      },
+      "ViewTitle": {
+        "CardWCAG": "卡片视图（WCAG）"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "选择年份",
+          "MonthSelector": "选择月份",
+          "WeekSelector": "选择周",
+          "DateSelector": "选择日期"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "语义搜索",
+          "SemanticSearchLogs": "重新索引内容 - 日志",
+          "ReindexContent": "重新索引内容",
+          "Logging": "日志记录",
+          "ReindexContentMessageProgress": "已完成 {0} / {1} 页（成功：{2}，失败：{3}），耗时 {4}",
+          "ReindexContentMessage": "重新索引 {0} 页（成功：{1}，失败：{2}），耗时 {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "您确定要重新索引语义搜索内容吗？",
+          "QueueReindex": "已排队等待处理…",
+          "Stopping": "正在停止…",
+          "TerminateCurrentJob": "终止当前任务",
+          "TerminateCurrentJobConfirmationTitle": "终止当前任务",
+          "TerminateCurrentJobConfirmationDescription": "您确定要终止当前任务吗？"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "在 Omnia 中编辑"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "启用全页视图",
+        "EnableEnhancedCopilotIntegration": "启用增强型 Copilot 集成",
+        "Copilot": {
+          "Headline": "页面元数据",
+          "PropertyTemplate": "此页面的 {0} 是 {1}",
+          "BusinessProfile": "此页面的业务配置文件是 {0}",
+          "PublishingApp": "此页面的发布应用是 {0}",
+          "PageCollection": "此页面的页面集合是 {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "编辑页面"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "评论模板",
+        "CommentTemplateOptions": {
+          "Default": "默认",
+          "Threaded": "线程式"
+        },
+        "ThreadedComments": "线程式评论",
+        "CustomInputStyle": "自定义输入样式",
+        "Elevation": "阴影",
+        "BorderThickness": "边框厚度",
+        "BorderRadius": "边框圆角",
+        "BorderColor": "边框颜色",
+        "TextColor": "文本颜色",
+        "BackgroundColor": "背景颜色",
+        "EnableRichTextPageFeedback": "格式化",
+        "OverrideDefaultSettings": "覆盖默认设置",
+        "DeletedCommentMessage": {
+          "Label": "已删除评论消息",
+          "Always": "始终",
+          "Never": "从不",
+          "WhenReferenced": "被引用时"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "允许分享"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia 全页体验",
+        "Description": "用于在整个页面显示内容的全页体验组件。"
+      },
+      "Settings": {
+        "AllowEdit": "允许编辑",
+        "Title": "标题",
+        "SelectedPage": "已选页面"
+      }
+    }
+  }
+}
