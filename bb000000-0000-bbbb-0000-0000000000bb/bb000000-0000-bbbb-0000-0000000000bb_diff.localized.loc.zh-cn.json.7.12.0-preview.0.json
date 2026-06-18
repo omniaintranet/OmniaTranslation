@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "字体",
+        "Previewing": "预览中...",
+        "InheritFromTenant": "继承自租户",
+        "EnableCustomFont": "启用自定义字体",
+        "FontFamilyName": "字体系列名称",
+        "FontSource": "字体来源",
+        "FileUpload": "文件上传",
+        "CdnFileLink": "CDN 文件链接",
+        "ChooseFontFile": "选择字体文件",
+        "NoFileSelected": "未选择文件",
+        "SupportedFontFilesHelp": "支持的字体文件：WOFF、WOFF2、TTF 和 OTF。最大大小为 10 MB。",
+        "CdnFontFileUrl": "CDN 字体文件 URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "附加字体",
+        "AddAdditionalFont": "添加字体",
+        "EditAdditionalFont": "编辑字体",
+        "NoAdditionalFonts": "未添加附加字体。",
+        "AdditionalFontsHelp": "附加字体会加载到页面，但不会自动应用。",
+        "ApplyTo": "应用于",
+        "ScopeOmniaAdmin": "Omnia 管理员 - 将应用于 Omnia 管理员",
+        "ScopeEditorTools": "编辑器工具 - 将应用于 WCM 编辑器，所有区块设置",
+        "ScopeReadMode": "阅读模式 - 将应用于所有阅读模式",
+        "PreviewTitle": "预览",
+        "DisplayText": "显示文本",
+        "HeadlineText": "标题文本",
+        "TitleText": "标题文本",
+        "BodyText": "正文文本显示常规段落内容如何继承配置的字体。",
+        "SmallAction": "小型操作",
+        "DefaultAction": "默认操作",
+        "LargeAction": "大型操作",
+        "FontFileTooLarge": "字体文件过大。最大允许大小为 10 MB。",
+        "UnsupportedFontFileType": "不支持的字体文件类型。支持的类型为 .woff、.woff2、.ttf 和 .otf。",
+        "FontFamilyRequired": "请输入字体系列名称。",
+        "ValidFontFileRequired": "请选择有效的字体文件。",
+        "ValidCdnUrlRequired": "请输入以 .woff、.woff2、.ttf 或 .otf 结尾的有效公共 CDN 字体文件 URL。",
+        "ValidFontSourceRequired": "请选择有效的字体来源以预览。",
+        "UnexpectedError": "发生了意外错误。"
+      },
+      "DatetimePicker": {
+        "SetAM": "设置上午",
+        "SetPM": "设置下午",
+        "PreviousMonth": "上个月",
+        "NextMonth": "下个月",
+        "ClickToSelectMonth": "点击选择月份。",
+        "ClickToSelectYear": "点击选择年份。",
+        "SelectedDatePrefix": "选定日期",
+        "TodayPrefix": "今天",
+        "PreviousYear": "上一年",
+        "NextYear": "下一年",
+        "CurrentYearIs": "当前年份是",
+        "SelectedMonthPrefix": "选定月份",
+        "YearLabel": "年",
+        "PreviousYears": "往年",
+        "NextYears": "未来几年",
+        "SelectedYearPrefix": "选定年份",
+        "IncreaseHour": "增加小时",
+        "DecreaseHour": "减少小时",
+        "IncreaseMinute": "增加分钟",
+        "DecreaseMinute": "减少分钟",
+        "HourLabel": "小时",
+        "MinuteLabel": "分钟",
+        "Cancel": "取消",
+        "Add": "添加",
+        "MonthPicker": "月份选择器",
+        "YearPicker": "年份选择器",
+        "TimePicker": "时间选择器",
+        "CalendarPicker": "日历选择器"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "设置上午",
+        "SetPM": "设置下午",
+        "PreviousMonth": "上个月",
+        "NextMonth": "下个月",
+        "ClickToSelectMonth": "点击选择月份",
+        "ClickToSelectYear": "点击选择年份",
+        "SelectedDatePrefix": "选定：",
+        "TodayPrefix": "今天：",
+        "PreviousYear": "上一年",
+        "NextYear": "下一年",
+        "CurrentYearIs": "当前年份是",
+        "SelectedMonthPrefix": "选定：",
+        "YearLabel": "年",
+        "PreviousYears": "往年",
+        "NextYears": "未来几年",
+        "SelectedYearPrefix": "选定：",
+        "IncreaseHour": "增加小时",
+        "DecreaseHour": "减少小时",
+        "IncreaseMinute": "增加分钟",
+        "DecreaseMinute": "减少分钟",
+        "HourLabel": "小时",
+        "MinuteLabel": "分钟",
+        "Cancel": "取消",
+        "Ok": "确定",
+        "MonthPicker": "月份选择器",
+        "YearPicker": "年份选择器",
+        "TimePicker": "时间选择器",
+        "CalendarPicker": "日历选择器"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "用户同步筛选器"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "用户同步筛选器",
+            "UserSynchronizationFilterDescription": "配置筛选器以包含或排除同步的用户",
+            "UserSynchronizationFilterNotConfigured": "未配置用户同步筛选器。",
+            "UserSynchronizationFilterConfigured": "使用 {0} 个筛选器配置",
+            "Configure": "配置",
+            "RuleAction": "规则操作",
+            "IncludeInSync": "包含在同步中",
+            "IncludeInSyncDescription": "符合以下筛选条件的用户将被添加到目录中。",
+            "ExcludeFromSync": "排除在同步外",
+            "ExcludeFromSyncDescription": "符合以下筛选条件的用户将在同步时被跳过。",
+            "MatchUsersWhere": "匹配用户条件",
+            "MatchUsersWhereDescription": "所有筛选器必须匹配（逻辑与）。在单个筛选器内，任一值匹配即可（逻辑或）。",
+            "NoUserSynchronizationFilters": "尚无筛选器 - 无筛选器时此规则匹配所有用户。",
+            "And": "与",
+            "Where": "条件",
+            "EnterValueWithWildcard": "输入值。* 作为通配符。",
+            "ExcludeWithoutFiltersNotAllowed": "不允许无筛选器时排除同步。",
+            "IncompleteFilterNotAllowed": "筛选器必须选择属性且至少有一个值。"
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "{0} 的头像"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "分页导航",
+          "PreviousPage": "转到上一页",
+          "NextPage": "转到下一页",
+          "GoToPage": "转到第 {0} 页",
+          "CurrentPage": "当前页，第 {0} 页",
+          "Status": "第 {0} 页，共 {1} 页"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "显示带值的标签图标",
+          "ShowLoginName": "显示登录名"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "语义搜索",
+          "Description": "启用此功能以让系统访问语义搜索"
+        },
+        "NextGenUI": {
+          "Category": "系统",
+          "Title": "下一代 UI",
+          "Description": "激活此功能以应用新 UI。"
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "系统",
+          "Title": "工作区主页新体验",
+          "Description": "在工作区主页启用新体验"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "系统",
+          "Title": "应用实例新体验",
+          "Description": "在应用实例启用新体验"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "搜索框 ARIA 标签"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "筛选器中搜索"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "章节标签"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "元素",
+            "ElementOptions": {
+              "Default": "默认"
+            },
+            "FontFamily": "字体系列",
+            "AlignLeft": "左对齐",
+            "AlignCenter": "居中对齐",
+            "AlignRight": "右对齐"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "补充信息",
+            "ComplementaryInformationAriaLabel": "ARIA 标签"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "未找到用户"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* 需要填写 {0}"
+      },
+      "Post": {
+        "ValidatePostMessage": "帖子为必填项。",
+        "PostFieldLabel": "帖子"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "无翻译"
+        },
+        "Tooltip": {
+          "NoTranslate": "无翻译"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "评论为必填项。",
+        "CommentFieldLabel": "评论",
+        "EditActionsButtonAriaLabel": "评论 \"{CommentText}\" 的操作",
+        "EditCommentAriaLabel": "编辑评论 \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "删除评论 \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "添加反应"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* 需要填写 {0}"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "系统",
+          "Description": "提升 Omnia 在 SPFx 中的加载速度。",
+          "Title": "SPFx 性能提升"
+        },
+        "SharePointFont": {
+          "Category": "系统",
+          "Description": "使 Omnia SPFx Web 部件与 SharePoint 站点配置的字体保持一致。",
+          "Title": "SharePoint 字体"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "目标角色",
+        "TargetingPersonaTitle": "目标角色",
+        "SelectPersona": "选择角色",
+        "ViewingAs": "以...身份查看",
+        "ViewingAsLabel": "以...身份查看",
+        "TargetingPersonasAdministrators": "目标角色管理员",
+        "TargetingPersonasUsers": "目标角色用户",
+        "CreateTargetingPersona": "创建目标角色",
+        "EditTargetingPersona": "编辑目标角色",
+        "TargetingProperties": "目标属性",
+        "AddTargetingProperty": "添加目标属性",
+        "Delete": "删除",
+        "Save": "保存",
+        "Create": "创建",
+        "Cancel": "取消",
+        "NoItems": "未找到目标角色。创建一个以开始使用。",
+        "ActivatedPersonaInfo": "您即将以以下身份查看",
+        "ActivatedPersonaDescription": "内容和导航反映该角色的访问权限。更改在重新加载后生效。",
+        "DeactivatedInfo": "您即将停用您的角色。请重新加载以恢复正常视图。",
+        "ReloadNow": "立即重新加载",
+        "ViewAsPersonaInfo": "您即将以以下身份查看内联网",
+        "ViewAsPersonaDescription": "这不会更改您的权限或访问。更改在重新加载页面后生效。",
+        "ExitPersonaPreviewInfo": "您即将退出目标角色预览。重新加载后将恢复正常视图。"
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "您的会话已过期。",
+      "Message": "我们无法在后台刷新您的登录。请重新加载 Omnia 以继续工作——我们会很快为您完成。",
+      "Seconds": "秒",
+      "Skip": "稍后重新加载"
+    }
+  }
+}
