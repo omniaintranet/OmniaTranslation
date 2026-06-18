@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Font",
+        "Previewing": "Previewing...",
+        "InheritFromTenant": "Inherit from tenant",
+        "EnableCustomFont": "Enable custom font",
+        "FontFamilyName": "Font family name",
+        "FontSource": "Font source",
+        "FileUpload": "File upload",
+        "CdnFileLink": "CDN file link",
+        "ChooseFontFile": "Choose font file",
+        "NoFileSelected": "No file selected",
+        "SupportedFontFilesHelp": "Supported font files: WOFF, WOFF2, TTF and OTF. Maximum size is 10 MB.",
+        "CdnFontFileUrl": "CDN font file URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Additional fonts",
+        "AddAdditionalFont": "Add font",
+        "EditAdditionalFont": "Edit font",
+        "NoAdditionalFonts": "No additional fonts added.",
+        "AdditionalFontsHelp": "Additional fonts are loaded on the page, but are not applied automatically.",
+        "ApplyTo": "Apply to",
+        "ScopeOmniaAdmin": "Omnia admin - will apply to Omnia admin",
+        "ScopeEditorTools": "Editor tools - will apply to the WCM editor, all block settings",
+        "ScopeReadMode": "Read mode - will apply in all read mode",
+        "PreviewTitle": "Preview",
+        "DisplayText": "Display text",
+        "HeadlineText": "Headline text",
+        "TitleText": "Title text",
+        "BodyText": "Body text shows how regular paragraph content will inherit the configured font.",
+        "SmallAction": "Small action",
+        "DefaultAction": "Default action",
+        "LargeAction": "Large action",
+        "FontFileTooLarge": "The font file is too large. Maximum allowed size is 10 MB.",
+        "UnsupportedFontFileType": "Unsupported font file type. Supported types are .woff, .woff2, .ttf and .otf.",
+        "FontFamilyRequired": "Enter a font family name.",
+        "ValidFontFileRequired": "Choose a valid font file.",
+        "ValidCdnUrlRequired": "Enter a valid public CDN font file URL ending in .woff, .woff2, .ttf or .otf.",
+        "ValidFontSourceRequired": "Choose a valid font source to preview.",
+        "UnexpectedError": "An unexpected error occurred."
+      },
+      "DatetimePicker": {
+        "SetAM": "Set AM",
+        "SetPM": "Set PM",
+        "PreviousMonth": "Previous month",
+        "NextMonth": "Next month",
+        "ClickToSelectMonth": "Click to select month.",
+        "ClickToSelectYear": "Click to select year.",
+        "SelectedDatePrefix": "Selected date",
+        "TodayPrefix": "Today",
+        "PreviousYear": "Previous year",
+        "NextYear": "Next year",
+        "CurrentYearIs": "Current year is",
+        "SelectedMonthPrefix": "Selected month",
+        "YearLabel": "Year",
+        "PreviousYears": "Previous years",
+        "NextYears": "Next years",
+        "SelectedYearPrefix": "Selected year",
+        "IncreaseHour": "Increase hour",
+        "DecreaseHour": "Decrease hour",
+        "IncreaseMinute": "Increase minute",
+        "DecreaseMinute": "Decrease minute",
+        "HourLabel": "Hour",
+        "MinuteLabel": "Minute",
+        "Cancel": "Cancel",
+        "Add": "Add",
+        "MonthPicker": "Month picker",
+        "YearPicker": "Year picker",
+        "TimePicker": "Time picker",
+        "CalendarPicker": "Calendar picker"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Set AM",
+        "SetPM": "Set PM",
+        "PreviousMonth": "Previous month",
+        "NextMonth": "Next month",
+        "ClickToSelectMonth": "Click to select month",
+        "ClickToSelectYear": "Click to select year",
+        "SelectedDatePrefix": "Selected:",
+        "TodayPrefix": "Today:",
+        "PreviousYear": "Previous year",
+        "NextYear": "Next year",
+        "CurrentYearIs": "Current year is",
+        "SelectedMonthPrefix": "Selected:",
+        "YearLabel": "Year",
+        "PreviousYears": "Previous years",
+        "NextYears": "Next years",
+        "SelectedYearPrefix": "Selected:",
+        "IncreaseHour": "Increase hour",
+        "DecreaseHour": "Decrease hour",
+        "IncreaseMinute": "Increase minute",
+        "DecreaseMinute": "Decrease minute",
+        "HourLabel": "Hour",
+        "MinuteLabel": "Minute",
+        "Cancel": "Cancel",
+        "Ok": "OK",
+        "MonthPicker": "Month picker",
+        "YearPicker": "Year picker",
+        "TimePicker": "Time picker",
+        "CalendarPicker": "Calendar picker"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "User synchronisation filters"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "User synchronisation filter",
+            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronised",
+            "UserSynchronizationFilterNotConfigured": "No user synchronisation filter is configured.",
+            "UserSynchronizationFilterConfigured": "Configured using {0} filters",
+            "Configure": "Configure",
+            "RuleAction": "Rule action",
+            "IncludeInSync": "Include in sync",
+            "IncludeInSyncDescription": "Users matching the filters below are added to the directory.",
+            "ExcludeFromSync": "Exclude from sync",
+            "ExcludeFromSyncDescription": "Users matching the filters below are skipped during sync.",
+            "MatchUsersWhere": "Match users where",
+            "MatchUsersWhereDescription": "All filters must match (logical AND). Within a filter, any value can match (logical OR).",
+            "NoUserSynchronizationFilters": "No filters yet - without filters this rule matches every user.",
+            "And": "AND",
+            "Where": "Where",
+            "EnterValueWithWildcard": "Enter value. * as wildcard.",
+            "ExcludeWithoutFiltersNotAllowed": "Exclude from sync with no filters is not allowed.",
+            "IncompleteFilterNotAllowed": "A filter must have a selected property and at least one value."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar for {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Pagination",
+          "PreviousPage": "Go to previous page",
+          "NextPage": "Go to next page",
+          "GoToPage": "Go to page {0}",
+          "CurrentPage": "Current page, page {0}",
+          "Status": "Page {0} of {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Show label icon with value",
+          "ShowLoginName": "Show login name"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Semantic search",
+          "Description": "Enable this feature to give your system access to Semantic search"
+        },
+        "NextGenUI": {
+          "Category": "System",
+          "Title": "Next gen UI",
+          "Description": "Activate this feature to apply the new UI."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "System",
+          "Title": "Workspace home new experience",
+          "Description": "Enable new experience on workspace home"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "System",
+          "Title": "App instance new experience",
+          "Description": "Enable new experience on app instance"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Search box ARIA label"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Search in filters"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Section tabs"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Element",
+            "ElementOptions": {
+              "Default": "Default"
+            },
+            "FontFamily": "Font family",
+            "AlignLeft": "Align left",
+            "AlignCenter": "Align centre",
+            "AlignRight": "Align right"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Complementary information",
+            "ComplementaryInformationAriaLabel": "Aria label"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Could not find the user"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} is required"
+      },
+      "Post": {
+        "ValidatePostMessage": "A post is required.",
+        "PostFieldLabel": "Post"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "No translation"
+        },
+        "Tooltip": {
+          "NoTranslate": "No translation"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "A comment is required.",
+        "CommentFieldLabel": "Comment",
+        "EditActionsButtonAriaLabel": "Actions for comment \"{CommentText}\"",
+        "EditCommentAriaLabel": "Edit comment \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Delete comment \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Add reaction"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} is required"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "System",
+          "Description": "Enhancement to load Omnia faster in SPFx.",
+          "Title": "SPFx performance enhancement"
+        },
+        "SharePointFont": {
+          "Category": "System",
+          "Description": "Enables Omnia SPFx webparts to align with the SharePoint site's configured font.",
+          "Title": "SharePoint font"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Targeting personas",
+        "TargetingPersonaTitle": "Targeting persona",
+        "SelectPersona": "Select persona",
+        "ViewingAs": "Viewing as",
+        "ViewingAsLabel": "Viewing as",
+        "TargetingPersonasAdministrators": "Targeting personas administrators",
+        "TargetingPersonasUsers": "Targeting personas users",
+        "CreateTargetingPersona": "Create targeting persona",
+        "EditTargetingPersona": "Edit targeting persona",
+        "TargetingProperties": "Targeting properties",
+        "AddTargetingProperty": "Add targeting property",
+        "Delete": "Delete",
+        "Save": "Save",
+        "Create": "Create",
+        "Cancel": "Cancel",
+        "NoItems": "No targeting personas found. Create one to get started.",
+        "ActivatedPersonaInfo": "You are about to view as",
+        "ActivatedPersonaDescription": "Content and navigation reflects what this persona has access to. Changes take full effect after reload.",
+        "DeactivatedInfo": "You are about to deactivate your persona. Please reload to restore your normal view.",
+        "ReloadNow": "Reload now",
+        "ViewAsPersonaInfo": "You are about to view the intranet as",
+        "ViewAsPersonaDescription": "This does not change your permissions or access. Changes take full effect after reloading the page.",
+        "ExitPersonaPreviewInfo": "You are about to exit the targeting persona preview. Your normal view will be restored after reloading."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Your session has expired.",
+      "Message": "We couldn't refresh your sign-in in the background. Reload Omnia to keep working - we'll do it for you shortly.",
+      "Seconds": "seconds",
+      "Skip": "Reload later"
+    }
+  }
+}
