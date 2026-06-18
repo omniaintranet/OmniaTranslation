@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Teckensnitt",
+        "Previewing": "Förhandsgranskar...",
+        "InheritFromTenant": "Ärv från Tenant",
+        "EnableCustomFont": "Aktivera anpassat teckensnitt",
+        "FontFamilyName": "Teckensnittsnamn",
+        "FontSource": "Teckensnittskälla",
+        "FileUpload": "Filuppladdning",
+        "CdnFileLink": "CDN-fil länk",
+        "ChooseFontFile": "Välj teckensnittsfil",
+        "NoFileSelected": "Ingen fil vald",
+        "SupportedFontFilesHelp": "Stödda teckensnittsformat: WOFF, WOFF2, TTF och OTF. Maxstorlek är 10 MB.",
+        "CdnFontFileUrl": "CDN-teckensnittsfil URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Ytterligare teckensnitt",
+        "AddAdditionalFont": "Lägg till teckensnitt",
+        "EditAdditionalFont": "Redigera teckensnitt",
+        "NoAdditionalFonts": "Inga ytterligare teckensnitt tillagda.",
+        "AdditionalFontsHelp": "Ytterligare teckensnitt laddas på sidan men tillämpas inte automatiskt.",
+        "ApplyTo": "Tillämpa på",
+        "ScopeOmniaAdmin": "Omnia admin - kommer att tillämpas på Omnia admin",
+        "ScopeEditorTools": "Editorverktyg - kommer att tillämpas på WCM-redigeraren, alla blockinställningar",
+        "ScopeReadMode": "Läsläge - kommer att tillämpas i alla läslägen",
+        "PreviewTitle": "Förhandsgranskning",
+        "DisplayText": "Visningstext",
+        "HeadlineText": "Rubriktext",
+        "TitleText": "Titeltext",
+        "BodyText": "Brödtext visar hur vanlig styckeinnehåll ärvt det konfigurerade teckensnittet.",
+        "SmallAction": "Liten åtgärd",
+        "DefaultAction": "Standardåtgärd",
+        "LargeAction": "Stor åtgärd",
+        "FontFileTooLarge": "Teckensnittsfilen är för stor. Max tillåten storlek är 10 MB.",
+        "UnsupportedFontFileType": "Teckensnittsfilstypen stöds inte. Stödda typer är .woff, .woff2, .ttf och .otf.",
+        "FontFamilyRequired": "Ange ett teckensnittsnamn.",
+        "ValidFontFileRequired": "Välj en giltig teckensnittsfil.",
+        "ValidCdnUrlRequired": "Ange en giltig offentlig CDN-teckensnittsfil-URL som slutar med .woff, .woff2, .ttf eller .otf.",
+        "ValidFontSourceRequired": "Välj en giltig teckensnittskälla för förhandsgranskning.",
+        "UnexpectedError": "Ett oväntat fel inträffade."
+      },
+      "DatetimePicker": {
+        "SetAM": "Ställ in FM",
+        "SetPM": "Ställ in EM",
+        "PreviousMonth": "Föregående månad",
+        "NextMonth": "Nästa månad",
+        "ClickToSelectMonth": "Klicka för att välja månad.",
+        "ClickToSelectYear": "Klicka för att välja år.",
+        "SelectedDatePrefix": "Valt datum",
+        "TodayPrefix": "Idag",
+        "PreviousYear": "Föregående år",
+        "NextYear": "Nästa år",
+        "CurrentYearIs": "Nuvarande år är",
+        "SelectedMonthPrefix": "Vald månad",
+        "YearLabel": "År",
+        "PreviousYears": "Föregående år",
+        "NextYears": "Nästa år",
+        "SelectedYearPrefix": "Valt år",
+        "IncreaseHour": "Öka timme",
+        "DecreaseHour": "Minska timme",
+        "IncreaseMinute": "Öka minut",
+        "DecreaseMinute": "Minska minut",
+        "HourLabel": "Timme",
+        "MinuteLabel": "Minut",
+        "Cancel": "Avbryt",
+        "Add": "Lägg till",
+        "MonthPicker": "Månadsväljare",
+        "YearPicker": "Årsväljare",
+        "TimePicker": "Tidsväljare",
+        "CalendarPicker": "Kalenderväljare"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Ställ in FM",
+        "SetPM": "Ställ in EM",
+        "PreviousMonth": "Föregående månad",
+        "NextMonth": "Nästa månad",
+        "ClickToSelectMonth": "Klicka för att välja månad",
+        "ClickToSelectYear": "Klicka för att välja år",
+        "SelectedDatePrefix": "Vald:",
+        "TodayPrefix": "Idag:",
+        "PreviousYear": "Föregående år",
+        "NextYear": "Nästa år",
+        "CurrentYearIs": "Nuvarande år är",
+        "SelectedMonthPrefix": "Vald:",
+        "YearLabel": "År",
+        "PreviousYears": "Föregående år",
+        "NextYears": "Nästa år",
+        "SelectedYearPrefix": "Vald:",
+        "IncreaseHour": "Öka timme",
+        "DecreaseHour": "Minska timme",
+        "IncreaseMinute": "Öka minut",
+        "DecreaseMinute": "Minska minut",
+        "HourLabel": "Timme",
+        "MinuteLabel": "Minut",
+        "Cancel": "Avbryt",
+        "Ok": "OK",
+        "MonthPicker": "Månadsväljare",
+        "YearPicker": "Årsväljare",
+        "TimePicker": "Tidsväljare",
+        "CalendarPicker": "Kalenderväljare"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Användarsynkroniseringsfilter"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Användarsynkroniseringsfilter",
+            "UserSynchronizationFilterDescription": "Konfigurera filter för att inkludera eller exkludera användare från synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Inget användarsynkroniseringsfilter är konfigurerat.",
+            "UserSynchronizationFilterConfigured": "Konfigurerad med {0} filter",
+            "Configure": "Konfigurera",
+            "RuleAction": "Regelåtgärd",
+            "IncludeInSync": "Inkludera i synk",
+            "IncludeInSyncDescription": "Användare som matchar filtren nedan läggs till i katalogen.",
+            "ExcludeFromSync": "Exkludera från synk",
+            "ExcludeFromSyncDescription": "Användare som matchar filtren nedan hoppas över under synk.",
+            "MatchUsersWhere": "Matcha användare där",
+            "MatchUsersWhereDescription": "Alla filter måste matcha (logisk OCH). Inom ett filter kan vilket värde som helst matcha (logisk ELLER).",
+            "NoUserSynchronizationFilters": "Inga filter än - utan filter matchar denna regel varje användare.",
+            "And": "OCH",
+            "Where": "Där",
+            "EnterValueWithWildcard": "Ange värde. * som jokertecken.",
+            "ExcludeWithoutFiltersNotAllowed": "Exkludera från synk utan filter är inte tillåtet.",
+            "IncompleteFilterNotAllowed": "Ett filter måste ha en vald egenskap och minst ett värde."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar för {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Sidnavigering",
+          "PreviousPage": "Gå till föregående sida",
+          "NextPage": "Gå till nästa sida",
+          "GoToPage": "Gå till sida {0}",
+          "CurrentPage": "Aktuell sida, sida {0}",
+          "Status": "Sida {0} av {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Visa etikettikon med värde",
+          "ShowLoginName": "Visa inloggningsnamn"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Semantisk sökning",
+          "Description": "Aktivera denna funktion för att ge ditt system tillgång till semantisk sökning"
+        },
+        "NextGenUI": {
+          "Category": "System",
+          "Title": "Next gen UI",
+          "Description": "Aktivera denna funktion för att tillämpa det nya UI:et."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "System",
+          "Title": "Workspace home ny upplevelse",
+          "Description": "Aktivera ny upplevelse på workspace home"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "System",
+          "Title": "App instance ny upplevelse",
+          "Description": "Aktivera ny upplevelse på app instance"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Sökfält ARIA-etikett"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Sök i filter"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Sektionflikar"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Element",
+            "ElementOptions": {
+              "Default": "Standard"
+            },
+            "FontFamily": "Teckensnittsfamilj",
+            "AlignLeft": "Justera vänster",
+            "AlignCenter": "Centrera",
+            "AlignRight": "Justera höger"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Kompletterande information",
+            "ComplementaryInformationAriaLabel": "Aria-etikett"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Kunde inte hitta användaren"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} är obligatoriskt"
+      },
+      "Post": {
+        "ValidatePostMessage": "Ett inlägg är obligatoriskt.",
+        "PostFieldLabel": "Inlägg"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ingen översättning"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ingen översättning"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "En kommentar är obligatorisk.",
+        "CommentFieldLabel": "Kommentar",
+        "EditActionsButtonAriaLabel": "Åtgärder för kommentar \"{CommentText}\"",
+        "EditCommentAriaLabel": "Redigera kommentar \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Ta bort kommentar \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Lägg till reaktion"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} är obligatoriskt"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "System",
+          "Description": "Förbättring för att ladda Omnia snabbare i SPFx.",
+          "Title": "SPFx prestandaförbättring"
+        },
+        "SharePointFont": {
+          "Category": "System",
+          "Description": "Gör det möjligt för Omnia SPFx-webbdelar att anpassa sig till SharePoint-webbplatsens konfigurerade teckensnitt.",
+          "Title": "SharePoint-teckensnitt"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Målgruppspersonas",
+        "TargetingPersonaTitle": "Målgruppspersona",
+        "SelectPersona": "Välj persona",
+        "ViewingAs": "Visar som",
+        "ViewingAsLabel": "Visar som",
+        "TargetingPersonasAdministrators": "Administratörer för målgruppspersonas",
+        "TargetingPersonasUsers": "Användare av målgruppspersonas",
+        "CreateTargetingPersona": "Skapa målgruppspersona",
+        "EditTargetingPersona": "Redigera målgruppspersona",
+        "TargetingProperties": "Målgruppsegenskaper",
+        "AddTargetingProperty": "Lägg till målgruppsegenskap",
+        "Delete": "Ta bort",
+        "Save": "Spara",
+        "Create": "Skapa",
+        "Cancel": "Avbryt",
+        "NoItems": "Inga målgruppspersonas hittades. Skapa en för att komma igång.",
+        "ActivatedPersonaInfo": "Du är på väg att visa som",
+        "ActivatedPersonaDescription": "Innehåll och navigering speglar vad denna persona har tillgång till. Ändringar träder i kraft efter omladdning.",
+        "DeactivatedInfo": "Du är på väg att inaktivera din persona. Ladda om för att återställa din normala vy.",
+        "ReloadNow": "Ladda om nu",
+        "ViewAsPersonaInfo": "Du är på väg att visa intranätet som",
+        "ViewAsPersonaDescription": "Detta ändrar inte dina behörigheter eller åtkomst. Ändringar träder i kraft efter omladdning av sidan.",
+        "ExitPersonaPreviewInfo": "Du är på väg att avsluta förhandsgranskningen av målgruppspersona. Din normala vy återställs efter omladdning."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Din session har gått ut.",
+      "Message": "Vi kunde inte uppdatera din inloggning i bakgrunden. Ladda om Omnia för att fortsätta arbeta - vi gör det åt dig strax.",
+      "Seconds": "sekunder",
+      "Skip": "Ladda om senare"
+    }
+  }
+}
