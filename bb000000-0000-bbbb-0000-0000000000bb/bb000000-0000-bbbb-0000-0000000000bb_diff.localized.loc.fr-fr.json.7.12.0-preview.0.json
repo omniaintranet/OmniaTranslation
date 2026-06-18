@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Police",
+        "Previewing": "Aperçu en cours...",
+        "InheritFromTenant": "Hériter du tenant",
+        "EnableCustomFont": "Activer la police personnalisée",
+        "FontFamilyName": "Nom de la famille de polices",
+        "FontSource": "Source de la police",
+        "FileUpload": "Téléchargement de fichier",
+        "CdnFileLink": "Lien du fichier CDN",
+        "ChooseFontFile": "Choisir un fichier de police",
+        "NoFileSelected": "Aucun fichier sélectionné",
+        "SupportedFontFilesHelp": "Fichiers de police pris en charge : WOFF, WOFF2, TTF et OTF. Taille maximale de 10 Mo.",
+        "CdnFontFileUrl": "URL du fichier de police CDN",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Polices supplémentaires",
+        "AddAdditionalFont": "Ajouter une police",
+        "EditAdditionalFont": "Modifier la police",
+        "NoAdditionalFonts": "Aucune police supplémentaire ajoutée.",
+        "AdditionalFontsHelp": "Les polices supplémentaires sont chargées sur la page, mais ne sont pas appliquées automatiquement.",
+        "ApplyTo": "Appliquer à",
+        "ScopeOmniaAdmin": "Admin Omnia - s'appliquera à l'admin Omnia",
+        "ScopeEditorTools": "Outils d'édition - s'appliquera à l'éditeur WCM, tous les paramètres de bloc",
+        "ScopeReadMode": "Mode lecture - s'appliquera dans tous les modes lecture",
+        "PreviewTitle": "Aperçu",
+        "DisplayText": "Texte d'affichage",
+        "HeadlineText": "Texte du titre",
+        "TitleText": "Texte du titre",
+        "BodyText": "Le texte du corps montre comment le contenu de paragraphe régulier héritera de la police configurée.",
+        "SmallAction": "Petite action",
+        "DefaultAction": "Action par défaut",
+        "LargeAction": "Grande action",
+        "FontFileTooLarge": "Le fichier de police est trop volumineux. La taille maximale autorisée est de 10 Mo.",
+        "UnsupportedFontFileType": "Type de fichier de police non pris en charge. Les types pris en charge sont .woff, .woff2, .ttf et .otf.",
+        "FontFamilyRequired": "Entrez un nom de famille de polices.",
+        "ValidFontFileRequired": "Choisissez un fichier de police valide.",
+        "ValidCdnUrlRequired": "Entrez une URL publique valide de fichier de police CDN se terminant par .woff, .woff2, .ttf ou .otf.",
+        "ValidFontSourceRequired": "Choisissez une source de police valide pour l'aperçu.",
+        "UnexpectedError": "Une erreur inattendue est survenue."
+      },
+      "DatetimePicker": {
+        "SetAM": "Définir AM",
+        "SetPM": "Définir PM",
+        "PreviousMonth": "Mois précédent",
+        "NextMonth": "Mois suivant",
+        "ClickToSelectMonth": "Cliquez pour sélectionner le mois.",
+        "ClickToSelectYear": "Cliquez pour sélectionner l'année.",
+        "SelectedDatePrefix": "Date sélectionnée",
+        "TodayPrefix": "Aujourd'hui",
+        "PreviousYear": "Année précédente",
+        "NextYear": "Année suivante",
+        "CurrentYearIs": "L'année en cours est",
+        "SelectedMonthPrefix": "Mois sélectionné",
+        "YearLabel": "Année",
+        "PreviousYears": "Années précédentes",
+        "NextYears": "Années suivantes",
+        "SelectedYearPrefix": "Année sélectionnée",
+        "IncreaseHour": "Augmenter l'heure",
+        "DecreaseHour": "Diminuer l'heure",
+        "IncreaseMinute": "Augmenter la minute",
+        "DecreaseMinute": "Diminuer la minute",
+        "HourLabel": "Heure",
+        "MinuteLabel": "Minute",
+        "Cancel": "Annuler",
+        "Add": "Ajouter",
+        "MonthPicker": "Sélecteur de mois",
+        "YearPicker": "Sélecteur d'année",
+        "TimePicker": "Sélecteur d'heure",
+        "CalendarPicker": "Sélecteur de calendrier"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Définir AM",
+        "SetPM": "Définir PM",
+        "PreviousMonth": "Mois précédent",
+        "NextMonth": "Mois suivant",
+        "ClickToSelectMonth": "Cliquez pour sélectionner le mois",
+        "ClickToSelectYear": "Cliquez pour sélectionner l'année",
+        "SelectedDatePrefix": "Sélectionné :",
+        "TodayPrefix": "Aujourd'hui :",
+        "PreviousYear": "Année précédente",
+        "NextYear": "Année suivante",
+        "CurrentYearIs": "L'année en cours est",
+        "SelectedMonthPrefix": "Sélectionné :",
+        "YearLabel": "Année",
+        "PreviousYears": "Années précédentes",
+        "NextYears": "Années suivantes",
+        "SelectedYearPrefix": "Sélectionné :",
+        "IncreaseHour": "Augmenter l'heure",
+        "DecreaseHour": "Diminuer l'heure",
+        "IncreaseMinute": "Augmenter la minute",
+        "DecreaseMinute": "Diminuer la minute",
+        "HourLabel": "Heure",
+        "MinuteLabel": "Minute",
+        "Cancel": "Annuler",
+        "Ok": "OK",
+        "MonthPicker": "Sélecteur de mois",
+        "YearPicker": "Sélecteur d'année",
+        "TimePicker": "Sélecteur d'heure",
+        "CalendarPicker": "Sélecteur de calendrier"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Filtres de synchronisation des utilisateurs"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Filtre de synchronisation des utilisateurs",
+            "UserSynchronizationFilterDescription": "Configurez le filtre pour inclure ou exclure des utilisateurs de la synchronisation",
+            "UserSynchronizationFilterNotConfigured": "Aucun filtre de synchronisation des utilisateurs n'est configuré.",
+            "UserSynchronizationFilterConfigured": "Configuré avec {0} filtres",
+            "Configure": "Configurer",
+            "RuleAction": "Action de la règle",
+            "IncludeInSync": "Inclure dans la synchronisation",
+            "IncludeInSyncDescription": "Les utilisateurs correspondant aux filtres ci-dessous sont ajoutés à l'annuaire.",
+            "ExcludeFromSync": "Exclure de la synchronisation",
+            "ExcludeFromSyncDescription": "Les utilisateurs correspondant aux filtres ci-dessous sont ignorés lors de la synchronisation.",
+            "MatchUsersWhere": "Correspondre aux utilisateurs où",
+            "MatchUsersWhereDescription": "Tous les filtres doivent correspondre (ET logique). Dans un filtre, n'importe quelle valeur peut correspondre (OU logique).",
+            "NoUserSynchronizationFilters": "Pas encore de filtres - sans filtres, cette règle correspond à tous les utilisateurs.",
+            "And": "ET",
+            "Where": "Où",
+            "EnterValueWithWildcard": "Entrez une valeur. * comme caractère générique.",
+            "ExcludeWithoutFiltersNotAllowed": "Exclure de la synchronisation sans filtres n'est pas autorisé.",
+            "IncompleteFilterNotAllowed": "Un filtre doit avoir une propriété sélectionnée et au moins une valeur."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar pour {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Pagination",
+          "PreviousPage": "Aller à la page précédente",
+          "NextPage": "Aller à la page suivante",
+          "GoToPage": "Aller à la page {0}",
+          "CurrentPage": "Page actuelle, page {0}",
+          "Status": "Page {0} sur {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Afficher l'icône de l'étiquette avec la valeur",
+          "ShowLoginName": "Afficher le nom de connexion"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Recherche sémantique",
+          "Description": "Activez cette fonctionnalité pour donner à votre système l'accès à la recherche sémantique"
+        },
+        "NextGenUI": {
+          "Category": "Système",
+          "Title": "Interface utilisateur nouvelle génération",
+          "Description": "Activez cette fonctionnalité pour appliquer la nouvelle interface utilisateur."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "Système",
+          "Title": "Nouvelle expérience de la page d'accueil de l'espace de travail",
+          "Description": "Activez la nouvelle expérience sur la page d'accueil de l'espace de travail"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "Système",
+          "Title": "Nouvelle expérience de l'instance d'application",
+          "Description": "Activez la nouvelle expérience sur l'instance d'application"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Étiquette ARIA de la zone de recherche"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Rechercher dans les filtres"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Onglets de section"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Élément",
+            "ElementOptions": {
+              "Default": "Par défaut"
+            },
+            "FontFamily": "Famille de polices",
+            "AlignLeft": "Aligner à gauche",
+            "AlignCenter": "Centrer",
+            "AlignRight": "Aligner à droite"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Informations complémentaires",
+            "ComplementaryInformationAriaLabel": "Étiquette Aria"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Utilisateur introuvable"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} est requis"
+      },
+      "Post": {
+        "ValidatePostMessage": "Un post est requis.",
+        "PostFieldLabel": "Post"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Pas de traduction"
+        },
+        "Tooltip": {
+          "NoTranslate": "Pas de traduction"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "Un commentaire est requis.",
+        "CommentFieldLabel": "Commentaire",
+        "EditActionsButtonAriaLabel": "Actions pour le commentaire \"{CommentText}\"",
+        "EditCommentAriaLabel": "Modifier le commentaire \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Supprimer le commentaire \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Ajouter une réaction"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} est requis"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "Système",
+          "Description": "Amélioration pour charger Omnia plus rapidement dans SPFx.",
+          "Title": "Amélioration des performances SPFx"
+        },
+        "SharePointFont": {
+          "Category": "Système",
+          "Description": "Permet aux webparts Omnia SPFx de s'aligner sur la police configurée du site SharePoint.",
+          "Title": "Police SharePoint"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Personas de ciblage",
+        "TargetingPersonaTitle": "Persona de ciblage",
+        "SelectPersona": "Sélectionner un persona",
+        "ViewingAs": "Visualisation en tant que",
+        "ViewingAsLabel": "Visualisation en tant que",
+        "TargetingPersonasAdministrators": "Administrateurs des personas de ciblage",
+        "TargetingPersonasUsers": "Utilisateurs des personas de ciblage",
+        "CreateTargetingPersona": "Créer un persona de ciblage",
+        "EditTargetingPersona": "Modifier le persona de ciblage",
+        "TargetingProperties": "Propriétés de ciblage",
+        "AddTargetingProperty": "Ajouter une propriété de ciblage",
+        "Delete": "Supprimer",
+        "Save": "Enregistrer",
+        "Create": "Créer",
+        "Cancel": "Annuler",
+        "NoItems": "Aucun persona de ciblage trouvé. Créez-en un pour commencer.",
+        "ActivatedPersonaInfo": "Vous êtes sur le point de visualiser en tant que",
+        "ActivatedPersonaDescription": "Le contenu et la navigation reflètent ce à quoi ce persona a accès. Les modifications prennent effet complet après le rechargement.",
+        "DeactivatedInfo": "Vous êtes sur le point de désactiver votre persona. Veuillez recharger pour restaurer votre vue normale.",
+        "ReloadNow": "Recharger maintenant",
+        "ViewAsPersonaInfo": "Vous êtes sur le point de visualiser l'intranet en tant que",
+        "ViewAsPersonaDescription": "Cela ne modifie pas vos permissions ou accès. Les modifications prennent effet complet après le rechargement de la page.",
+        "ExitPersonaPreviewInfo": "Vous êtes sur le point de quitter l'aperçu du persona de ciblage. Votre vue normale sera restaurée après le rechargement."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Votre session a expiré.",
+      "Message": "Nous n'avons pas pu actualiser votre connexion en arrière-plan. Rechargez Omnia pour continuer à travailler - nous le ferons pour vous sous peu.",
+      "Seconds": "secondes",
+      "Skip": "Recharger plus tard"
+    }
+  }
+}
