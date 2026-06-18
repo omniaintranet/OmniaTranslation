@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Kế thừa từ tenant",
+        "ImageScaling": "Tỉ lệ hình ảnh",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Không hỗ trợ ghi đè tỉ lệ cắt ở cấp hồ sơ doanh nghiệp.",
+          "SelectTenantRatios": "Chọn tỉ lệ cắt của tenant để sử dụng trong hồ sơ doanh nghiệp này."
+        },
+        "ImageStyle": {
+          "Title": "Kiểu hình ảnh",
+          "BorderRadius": "Bán kính viền"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Tìm kiếm ngữ nghĩa lập chỉ mục lại toàn bộ",
+          "Disclaimer": "Tìm kiếm ngữ nghĩa sẽ không khả dụng trong khi đang lập chỉ mục lại. Thao tác này có thể mất khá nhiều thời gian tùy thuộc vào lượng nội dung.",
+          "StartButton": "Bắt đầu lập chỉ mục lại toàn bộ",
+          "Running": "Đang lập chỉ mục lại...",
+          "ConfirmTitle": "Bắt đầu lập chỉ mục lại toàn bộ",
+          "ConfirmMessage": "Bạn có chắc muốn bắt đầu lập chỉ mục lại toàn bộ tìm kiếm ngữ nghĩa không?",
+          "StatusLoadError": "Không thể tải trạng thái lập chỉ mục hiện tại.",
+          "StartError": "Không thể bắt đầu lập chỉ mục lại toàn bộ."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Phông chữ"
+    },
+    "TextStyles": {
+      "FontWeight": "Độ đậm phông chữ",
+      "FontWeightInvalid": "Nhập độ đậm phông chữ hợp lệ (normal, bold, bolder, lighter hoặc một số từ 1 đến 1000).",
+      "InheritFromTenant": "Kế thừa từ tenant",
+      "ApplyEverywhere": "Áp dụng mọi nơi",
+      "ApplyEverywhereDescription": "Khi bật, các kiểu chữ tích hợp sẽ được áp dụng cho tất cả các phần tử phù hợp trên toàn bộ giải pháp. Khi tắt, chúng chỉ ảnh hưởng đến nội dung trình soạn thảo văn bản phong phú. Các kiểu chữ tùy chỉnh luôn chỉ áp dụng trong trình soạn thảo văn bản phong phú."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Ảnh chụp màn hình hiển thị nơi tạo site danh mục ứng dụng SharePoint.",
+        "UploadPackageScreenshotAlt": "Ảnh chụp màn hình hiển thị nơi tải lên gói SharePoint trong Ứng dụng cho SharePoint.",
+        "AvailableToAllSitesScreenshotAlt": "Ảnh chụp màn hình hiển thị tùy chọn để làm cho gói SharePoint có sẵn cho tất cả các site."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "ID bộ thuật ngữ bị thiếu hoặc không hợp lệ cho bảng thuật ngữ phân loại này.",
+      "Default": "Mặc định",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Xóa biểu tượng và màu mặc định",
+        "Message": "Bạn có chắc muốn xóa các thiết lập giao diện mặc định không?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Kiểu hộp tìm kiếm",
+      "SearchBoxStyleOptions": {
+        "M365Style": "Kiểu M365",
+        "WCAGCompliant": "Tuân thủ WCAG"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Bảng điều khiển bên trái",
+          "LeftPanelLayoutsSettings": "Bảng điều khiển bên trái",
+          "CustomFontFamily": "Phông chữ tùy chỉnh",
+          "CenterMenu": "Menu căn giữa",
+          "CenterMenuWidth": "Chiều rộng căn giữa (px)",
+          "ForceUppercase": "Ép chữ hoa",
+          "ShowIcons": "Hiển thị biểu tượng",
+          "HideText": "Ẩn văn bản"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Hiển thị",
+        "HeadingElement": "Phần tử tiêu đề",
+        "BorderRadius": "Bán kính viền",
+        "Elevation": "Độ nổi",
+        "ShowStatusText": "Hiển thị văn bản trạng thái",
+        "ShowTypeIcon": "Hiển thị biểu tượng loại",
+        "ShowDate": "Hiển thị ngày",
+        "DateType": "Loại ngày",
+        "Social": "Xã hội",
+        "Classic": "Cổ điển",
+        "DateFormat": "Định dạng ngày",
+        "NoResultText": "Văn bản không có kết quả",
+        "ModernAnnoucement": "Thông báo hiện đại"
+      },
+      "CommentCount": "{0} bình luận"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Hiển thị bảng điều khiển bên trái",
+          "Category": "Hệ thống",
+          "Description": "Hiển thị bảng điều khiển bên trái trên phiên bản ứng dụng hiện tại."
+        },
+        "CopilotChat": {
+          "Title": "Trò chuyện Copilot"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Phân tích cho SPFx",
+          "Description": "Cho phép theo dõi hoạt động người dùng tự động trên các trang SharePoint qua Matomo.",
+          "Category": "Hệ thống"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Menu hành động"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Chế độ xem danh sách"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Tệp xuất {0} đã sẵn sàng để tải xuống."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Quản lý liên kết"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Thêm liên kết có tiêu đề \"{LinkTitle}\" vào Liên kết của tôi",
+        "DeleteMyLinksAriaLabel": "Xóa liên kết có tiêu đề \"{LinkTitle}\" khỏi Liên kết của tôi",
+        "RemoveMyLinksAriaLabel": "Gỡ liên kết có tiêu đề \"{LinkTitle}\" khỏi Liên kết của tôi",
+        "EditLinkAriaLabel": "Chỉnh sửa liên kết có tiêu đề \"{LinkTitle}\""
+      },
+      "AppLaunch": {
+        "Back": "Quay lại",
+        "CreateMore": "Tạo thêm",
+        "Document": "Tài liệu",
+        "FindMicrosoft365Apps": "Tìm ứng dụng Microsoft 365",
+        "Presentation": "Bài thuyết trình",
+        "SearchBoxAriaLabel": "Hộp tìm kiếm. Gợi ý xuất hiện khi bạn nhập.",
+        "SearchMicrosoft365Apps": "Tìm kiếm tất cả ứng dụng Microsoft 365 của bạn",
+        "SearchResults": "Kết quả tìm kiếm",
+        "Survey": "Khảo sát",
+        "Workbook": "Sổ làm việc"
+      },
+      "Component": {
+        "ShowMoreLinks": "Hiển thị thêm liên kết",
+        "ShowLessLinks": "Hiển thị ít liên kết hơn"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Rút ngắn nhãn",
+        "IncludePersonalLinks": "Bao gồm liên kết cá nhân",
+        "IncludeFollowingLinks": "Bao gồm liên kết đang theo dõi",
+        "ShowManageLinks": "Hiển thị biểu tượng quản lý liên kết",
+        "ShowMoreButton": "Hiển thị nút xem thêm",
+        "ShowMoreAriaLabel": "Nhãn aria nút xem thêm",
+        "ShowLessAriaLabel": "Nhãn aria nút xem ít hơn",
+        "HideShowMoreButton": "Ẩn nút xem thêm",
+        "HideLinkTitle": "Ẩn tiêu đề liên kết",
+        "SquareDesign": "Thiết kế vuông",
+        "FontSize": "Cỡ chữ",
+        "IconSize": "Kích thước biểu tượng",
+        "IconMargin": "Lề biểu tượng",
+        "IconPadding": "Đệm biểu tượng"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} thông báo chưa đọc trong {0}",
+      "CategoryTabListLabel": "Danh mục thông báo"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Chỉnh sửa {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Sử dụng số thuộc tính cố định mỗi hàng"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Các mẫu tìm kiếm được áp dụng theo thứ tự liệt kê. Nếu một kết quả khớp với nhiều mẫu, mẫu đầu tiên sẽ được sử dụng.",
+        "LongDescription": "Mô tả dài",
+        "SearchFeedbackPosition": "Vị trí phản hồi tìm kiếm",
+        "UserProperties": "Thuộc tính người dùng",
+        "FilterValueTypes": {
+          "FilterValueType": "Loại giá trị bộ lọc",
+          "FixedValue": "Giá trị cố định",
+          "CurrentUser": "Người dùng hiện tại"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Từ nội dung tôi có quyền truy cập, tôi không thể xác định câu trả lời cho câu hỏi của bạn.",
+          "RequestMoreContext": "Bạn có thể cung cấp thêm ngữ cảnh hoặc làm rõ câu hỏi không?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Tinh chỉnh kết quả tìm kiếm",
+        "RefinerExpandedLabel": "{0}, đã mở rộng{1}",
+        "RefinerCollapsedLabel": "{0}, đã thu gọn{1}",
+        "RefinerActiveFilterCount": ", {0} bộ lọc đang hoạt động",
+        "RefinerOptionLabel": "{0}, {1} kết quả",
+        "RefinerOptionSelectedLabel": "{0}, {1} kết quả, đã chọn",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, đã chọn"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Tiêu đề",
+          "Description": "Mô tả",
+          "Date": "Ngày",
+          "FallbackDate": "Ngày dự phòng",
+          "User": "Người dùng",
+          "FallbackUser": "Người dùng dự phòng",
+          "URL": "URL",
+          "ParentURL": "URL cha"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Mẫu tìm kiếm mục danh sách SharePoint"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Mẫu tìm kiếm người"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Hộp thoại hướng dẫn",
+        "RegionLabel": "Hộp thoại hướng dẫn. Sử dụng các điều khiển điều hướng bàn phím để di chuyển giữa các bước hướng dẫn.",
+        "PreviousStep": "Bước hướng dẫn trước",
+        "NextStep": "Bước hướng dẫn tiếp theo",
+        "StepPickerLabel": "Các bước hướng dẫn",
+        "StepButtonLabel": "Hiển thị bước hướng dẫn {0} trong {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "Tổng hợp trang SharePoint",
+          "Summary": "Liệt kê các trang SharePoint."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "Tổng hợp trang SharePoint",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Bộ lọc"
+        },
+        "FilterByExpirationTime": "Lọc theo thời gian hết hạn",
+        "QueryConfigurationTypes": {
+          "PickPages": "Chọn trang",
+          "UseQueryBuilder": "Sử dụng trình tạo truy vấn"
+        },
+        "QueryScope": {
+          "AllPages": "Tất cả trang",
+          "SharePointLibrary": "Thư viện SharePoint"
+        },
+        "SiteUrl": "URL site",
+        "Operators": {
+          "Equals": "Bằng",
+          "StartWith": "Bắt đầu với",
+          "Contains": "Chứa",
+          "LessThan": "Nhỏ hơn",
+          "GreaterThan": "Lớn hơn"
+        },
+        "QueryValueOptions": {
+          "Manual": "Thủ công",
+          "QueryParameter": "Tham số truy vấn",
+          "UserLanguage": "Ngôn ngữ người dùng",
+          "UserEmail": "Email người dùng",
+          "Today": "Hôm nay"
+        },
+        "AddQueryFilter": "Thêm bộ lọc truy vấn",
+        "Summary": "Tóm tắt",
+        "Image": "Hình ảnh",
+        "Date": "Ngày",
+        "Person": "Người",
+        "Description": "Mô tả",
+        "TermProperties": "Thuộc tính thuật ngữ",
+        "CardsPerRow": "Số thẻ mỗi hàng",
+        "ShowLikesComments": "Hiển thị lượt thích/bình luận",
+        "ShowLastActivity": "Hiển thị hoạt động cuối",
+        "ShowRating": "Hiển thị đánh giá",
+        "OpenInNewTab": "Mở trong tab mới",
+        "AddColumn": "Thêm cột",
+        "FixedHeader": "Tiêu đề cố định",
+        "NoColumnSelected": "Chưa chọn cột nào. Vui lòng cấu hình cột trong phần cài đặt.",
+        "Width": "Chiều rộng",
+        "ShowLabel": "Hiển thị nhãn",
+        "CustomLabel": "Nhãn tùy chỉnh",
+        "InvalidUrl": "URL phải là danh sách trang.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Xóa trang",
+          "Message": "Bạn có chắc muốn xóa trang này không?"
+        },
+        "PickPages": {
+          "Title": "Chọn trang SharePoint",
+          "AddPageLabel": "Thêm trang",
+          "NoPagesFound": "Không tìm thấy trang nào",
+          "Placeholder": "Tìm kiếm trang...",
+          "PickInWriteMode": "Chọn trang ở chế độ chỉnh sửa"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Chế độ xem tùy chỉnh",
+        "CardView": "Chế độ xem thẻ"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "Gửi email",
+      "StartChatAction": "Trò chuyện với",
+      "StartCallAction": "Gọi"
+    }
+  }
+}
