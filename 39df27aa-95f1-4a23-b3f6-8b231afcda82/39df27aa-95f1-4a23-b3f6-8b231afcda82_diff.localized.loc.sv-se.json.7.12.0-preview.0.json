@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Ärv från Tenant",
+        "ImageScaling": "Bildskalning",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Åsidosättning av beskärningsförhållanden på affärsprofilnivå stöds inte.",
+          "SelectTenantRatios": "Välj vilka Tenant-beskärningsförhållanden som ska användas i denna affärsprofil."
+        },
+        "ImageStyle": {
+          "Title": "Bildstil",
+          "BorderRadius": "Rundade hörn"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Fullständig omindexering av semantisk sökning",
+          "Disclaimer": "Semantisk sökning kommer att vara otillgänglig medan omindexeringen pågår. Denna operation kan ta ganska lång tid beroende på mängden innehåll.",
+          "StartButton": "Starta fullständig omindexering",
+          "Running": "Omindexering pågår...",
+          "ConfirmTitle": "Starta fullständig omindexering",
+          "ConfirmMessage": "Är du säker på att du vill starta en fullständig omindexering av den semantiska sökningen?",
+          "StatusLoadError": "Kunde inte ladda aktuell status för omindexering.",
+          "StartError": "Kunde inte starta fullständig omindexering."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Teckensnitt"
+    },
+    "TextStyles": {
+      "FontWeight": "Teckensnittsvikt",
+      "FontWeightInvalid": "Ange en giltig teckensnittsvikt (normal, fet, fetare, lättare eller ett nummer mellan 1 och 1000).",
+      "InheritFromTenant": "Ärv från Tenant",
+      "ApplyEverywhere": "Använd överallt",
+      "ApplyEverywhereDescription": "När aktiverat tillämpas de inbyggda textstilarna på alla matchande element i hela lösningen. När det är inaktiverat påverkar de endast innehåll i rik textredigeraren. Anpassade textstilar förblir alltid begränsade till rik textredigeraren."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Skärmdump som visar var man skapar en SharePoint appkatalogwebbplats.",
+        "UploadPackageScreenshotAlt": "Skärmdump som visar var man laddar upp SharePoint-paketet i Appar för SharePoint.",
+        "AvailableToAllSitesScreenshotAlt": "Skärmdump som visar alternativet att göra SharePoint-paketet tillgängligt för alla webbplatser."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Termuppsättnings-ID saknas eller är ogiltigt för denna taxonomiglossar.",
+      "Default": "Standard",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Ta bort standardikon och färg",
+        "Message": "Är du säker på att du vill ta bort standardutseende och känsla-inställningarna?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Sökfältets stil",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365-stil",
+        "WCAGCompliant": "WCAG-kompatibel"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Vänster panel",
+          "LeftPanelLayoutsSettings": "Vänster panel",
+          "CustomFontFamily": "Anpassad teckensnittsfamilj",
+          "CenterMenu": "Centrerat meny",
+          "CenterMenuWidth": "Centrerad bredd (px)",
+          "ForceUppercase": "Tvinga versaler",
+          "ShowIcons": "Visa ikoner",
+          "HideText": "Dölj text"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Visning",
+        "HeadingElement": "Rubrikelement",
+        "BorderRadius": "Rundade hörn",
+        "Elevation": "Höjd",
+        "ShowStatusText": "Visa statustext",
+        "ShowTypeIcon": "Visa typikon",
+        "ShowDate": "Visa datum",
+        "DateType": "Datumtyp",
+        "Social": "Social",
+        "Classic": "Klassisk",
+        "DateFormat": "Datumformat",
+        "NoResultText": "Ingen resultattext",
+        "ModernAnnoucement": "Modern tillkännagivande"
+      },
+      "CommentCount": "{0} kommentarer"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Visa vänster panel",
+          "Category": "System",
+          "Description": "Visa vänster panel i den aktuella appinstansen."
+        },
+        "CopilotChat": {
+          "Title": "Copilot-chatt"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analys för SPFx",
+          "Description": "Aktiverar automatiserad användaraktivitetsspårning på SharePoint-sidor via Matomo.",
+          "Category": "System"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Åtgärdsmeny"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Listvy"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Exportfilen {0} är redo för nedladdning."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Hantera länkar"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Lägg till länk med titeln \"{LinkTitle}\" till Mina länkar",
+        "DeleteMyLinksAriaLabel": "Ta bort länk med titeln \"{LinkTitle}\" från Mina länkar",
+        "RemoveMyLinksAriaLabel": "Ta bort länk med titeln \"{LinkTitle}\" från Mina länkar",
+        "EditLinkAriaLabel": "Redigera länk med titeln \"{LinkTitle}\""
+      },
+      "AppLaunch": {
+        "Back": "Tillbaka",
+        "CreateMore": "Skapa fler",
+        "Document": "Dokument",
+        "FindMicrosoft365Apps": "Hitta Microsoft 365-appar",
+        "Presentation": "Presentation",
+        "SearchBoxAriaLabel": "Sökfält. Förslag visas när du skriver.",
+        "SearchMicrosoft365Apps": "Sök alla dina Microsoft 365-appar",
+        "SearchResults": "Sökresultat",
+        "Survey": "Enkät",
+        "Workbook": "Arbetsbok"
+      },
+      "Component": {
+        "ShowMoreLinks": "Visa fler länkar",
+        "ShowLessLinks": "Visa färre länkar"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Förkorta etikett",
+        "IncludePersonalLinks": "Inkludera personliga länkar",
+        "IncludeFollowingLinks": "Inkludera följda länkar",
+        "ShowManageLinks": "Visa ikon för länkhantering",
+        "ShowMoreButton": "Visa mer-knapp",
+        "ShowMoreAriaLabel": "Visa mer-knapp aria-label",
+        "ShowLessAriaLabel": "Visa mindre-knapp aria-label",
+        "HideShowMoreButton": "Dölj Visa mer-knapp",
+        "HideLinkTitle": "Dölj länktitel",
+        "SquareDesign": "Kvadratisk design",
+        "FontSize": "Teckenstorlek",
+        "IconSize": "Ikonstorlek",
+        "IconMargin": "Ikonmarginal",
+        "IconPadding": "Ikonutfyllnad"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} olästa aviseringar i {0}",
+      "CategoryTabListLabel": "Aviseringskategorier"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Redigera {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Använd fasta egenskaper per rad"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Sök mallar tillämpas i den ordning de listas. Om ett resultat matchar flera mallar används den första matchningen.",
+        "LongDescription": "Lång beskrivning",
+        "SearchFeedbackPosition": "Position för sökfeedback",
+        "UserProperties": "Användaregenskaper",
+        "FilterValueTypes": {
+          "FilterValueType": "Filtervärdestyp",
+          "FixedValue": "Fast värde",
+          "CurrentUser": "Aktuell användare"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Utifrån det innehåll jag har tillgång till kunde jag inte hitta ett svar på din fråga.",
+          "RequestMoreContext": "Kan du vänligen ge mer kontext eller förtydliga din fråga?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Förfina sökresultat",
+        "RefinerExpandedLabel": "{0}, utvidgad{1}",
+        "RefinerCollapsedLabel": "{0}, kollapsad{1}",
+        "RefinerActiveFilterCount": ", {0} aktiva filter",
+        "RefinerOptionLabel": "{0}, {1} resultat",
+        "RefinerOptionSelectedLabel": "{0}, {1} resultat, vald",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, vald"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Titel",
+          "Description": "Beskrivning",
+          "Date": "Datum",
+          "FallbackDate": "Reservdatum",
+          "User": "Användare",
+          "FallbackUser": "Reservanvändare",
+          "URL": "URL",
+          "ParentURL": "Överordnad URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Sök mall för SharePoint-listobjekt"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Sök mall för person"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Handledningsdialog",
+        "RegionLabel": "Handledningsdialog. Använd tangentbordsnavigering för att flytta mellan handledningssteg.",
+        "PreviousStep": "Föregående handledningssteg",
+        "NextStep": "Nästa handledningssteg",
+        "StepPickerLabel": "Handledningssteg",
+        "StepButtonLabel": "Visa handledningssteg {0} av {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "Sammanställning av SharePoint-sidor",
+          "Summary": "Lista SharePoint-sidor."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "Sammanställning av SharePoint-sidor",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Filter"
+        },
+        "FilterByExpirationTime": "Filtrera efter utgångstid",
+        "QueryConfigurationTypes": {
+          "PickPages": "Välj sidor",
+          "UseQueryBuilder": "Använd frågebyggare"
+        },
+        "QueryScope": {
+          "AllPages": "Alla sidor",
+          "SharePointLibrary": "SharePoint-bibliotek"
+        },
+        "SiteUrl": "Webbplats-URL",
+        "Operators": {
+          "Equals": "Är lika med",
+          "StartWith": "Börjar med",
+          "Contains": "Innehåller",
+          "LessThan": "Mindre än",
+          "GreaterThan": "Större än"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuell",
+          "QueryParameter": "Frågeparameter",
+          "UserLanguage": "Användarspråk",
+          "UserEmail": "Användarens e-post",
+          "Today": "Idag"
+        },
+        "AddQueryFilter": "Lägg till frågefilter",
+        "Summary": "Sammanfattning",
+        "Image": "Bild",
+        "Date": "Datum",
+        "Person": "Person",
+        "Description": "Beskrivning",
+        "TermProperties": "Termegenskaper",
+        "CardsPerRow": "Kort per rad",
+        "ShowLikesComments": "Visa gilla/kommentarer",
+        "ShowLastActivity": "Visa senaste aktivitet",
+        "ShowRating": "Visa betyg",
+        "OpenInNewTab": "Öppna i ny flik",
+        "AddColumn": "Lägg till kolumn",
+        "FixedHeader": "Fast rubrik",
+        "NoColumnSelected": "Inga kolumner valda. Vänligen konfigurera kolumner i inställningarna.",
+        "Width": "Bredd",
+        "ShowLabel": "Visa etikett",
+        "CustomLabel": "Anpassad etikett",
+        "InvalidUrl": "URL måste vara en sidlista.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Ta bort sida",
+          "Message": "Är du säker på att du vill ta bort denna sida?"
+        },
+        "PickPages": {
+          "Title": "Välj SharePoint-sida",
+          "AddPageLabel": "Lägg till sida",
+          "NoPagesFound": "Inga sidor hittades",
+          "Placeholder": "Sök sidor...",
+          "PickInWriteMode": "Välj sidor i skrivläge"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Anpassad vy",
+        "CardView": "Kortvy"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "E-post",
+      "StartChatAction": "Chatta med",
+      "StartCallAction": "Ring"
+    }
+  }
+}
