@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Overnemen van tenant",
+        "ImageScaling": "Afbeeldingsschaling",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Het overschrijven van bijsnijdverhoudingen op bedrijfsprofielniveau wordt niet ondersteund.",
+          "SelectTenantRatios": "Selecteer welke tenant-bijsnijdverhoudingen in dit bedrijfsprofiel moeten worden gebruikt."
+        },
+        "ImageStyle": {
+          "Title": "Afbeeldingsstijl",
+          "BorderRadius": "Randradius"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Volledige herindexering semantische zoekopdracht",
+          "Disclaimer": "Semantisch zoeken is niet beschikbaar zolang de herindexering bezig is. Deze bewerking kan enige tijd duren, afhankelijk van de hoeveelheid inhoud.",
+          "StartButton": "Start volledige herindexering",
+          "Running": "Herindexering bezig...",
+          "ConfirmTitle": "Start volledige herindexering",
+          "ConfirmMessage": "Weet u zeker dat u een volledige herindexering van de semantische zoekopdracht wilt starten?",
+          "StatusLoadError": "Kon de huidige status van de herindexering niet laden.",
+          "StartError": "Kon de volledige herindexering niet starten."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Lettertype"
+    },
+    "TextStyles": {
+      "FontWeight": "Lettertypegewicht",
+      "FontWeightInvalid": "Voer een geldig lettertypegewicht in (normal, bold, bolder, lighter of een getal tussen 1 en 1000).",
+      "InheritFromTenant": "Overnemen van tenant",
+      "ApplyEverywhere": "Overal toepassen",
+      "ApplyEverywhereDescription": "Wanneer ingeschakeld, worden de ingebouwde tekststijlen toegepast op alle overeenkomende elementen in de oplossing. Wanneer uitgeschakeld, beïnvloeden ze alleen de inhoud van de rich text editor. Aangepaste tekststijlen blijven altijd beperkt tot de rich text editor."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Screenshot die toont waar een SharePoint app-catalogussite gemaakt kan worden.",
+        "UploadPackageScreenshotAlt": "Screenshot die toont waar het SharePoint-pakket geüpload kan worden in Apps voor SharePoint.",
+        "AvailableToAllSitesScreenshotAlt": "Screenshot die de optie toont om het SharePoint-pakket beschikbaar te maken voor alle sites."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Termenset-ID ontbreekt of is ongeldig voor deze taxonomie-woordenlijst.",
+      "Default": "Standaard",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Standaard pictogram en kleur verwijderen",
+        "Message": "Weet u zeker dat u de standaard uiterlijk- en gevoelinstellingen wilt verwijderen?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Stijl zoekvak",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365-stijl",
+        "WCAGCompliant": "WCAG-conform"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Linkerpaneel",
+          "LeftPanelLayoutsSettings": "Linkerpaneel",
+          "CustomFontFamily": "Aangepast lettertypefamilie",
+          "CenterMenu": "Gecentreerd menu",
+          "CenterMenuWidth": "Gecentreerde breedte (px)",
+          "ForceUppercase": "Forceer hoofdletters",
+          "ShowIcons": "Pictogrammen tonen",
+          "HideText": "Tekst verbergen"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Weergave",
+        "HeadingElement": "Koptekst element",
+        "BorderRadius": "Randradius",
+        "Elevation": "Elevatie",
+        "ShowStatusText": "Statustekst tonen",
+        "ShowTypeIcon": "Typepictogram tonen",
+        "ShowDate": "Datum tonen",
+        "DateType": "Datumtype",
+        "Social": "Sociaal",
+        "Classic": "Klassiek",
+        "DateFormat": "Datumformaat",
+        "NoResultText": "Geen resultaat tekst",
+        "ModernAnnoucement": "Moderne aankondiging"
+      },
+      "CommentCount": "{0} reacties"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Linkerpaneel tonen",
+          "Category": "Systeem",
+          "Description": "Toon het linker paneel in de huidige app-instantie."
+        },
+        "CopilotChat": {
+          "Title": "Copilot chat"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analytics voor SPFx",
+          "Description": "Maakt geautomatiseerde gebruikersactiviteitstracering op SharePoint-pagina's mogelijk via Matomo.",
+          "Category": "Systeem"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Actiemenu"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Lijstweergave"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Exportbestand {0} is klaar voor download."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Links beheren"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Link met titel \"{LinkTitle}\" toevoegen aan Mijn links",
+        "DeleteMyLinksAriaLabel": "Link met titel \"{LinkTitle}\" verwijderen uit Mijn links",
+        "RemoveMyLinksAriaLabel": "Link met titel \"{LinkTitle}\" verwijderen uit Mijn links",
+        "EditLinkAriaLabel": "Link met titel \"{LinkTitle}\" bewerken"
+      },
+      "AppLaunch": {
+        "Back": "Terug",
+        "CreateMore": "Meer maken",
+        "Document": "Document",
+        "FindMicrosoft365Apps": "Microsoft 365-apps zoeken",
+        "Presentation": "Presentatie",
+        "SearchBoxAriaLabel": "Zoekvak. Suggesties verschijnen tijdens het typen.",
+        "SearchMicrosoft365Apps": "Zoek al uw Microsoft 365-apps",
+        "SearchResults": "Zoekresultaten",
+        "Survey": "Enquête",
+        "Workbook": "Werkboek"
+      },
+      "Component": {
+        "ShowMoreLinks": "Meer links tonen",
+        "ShowLessLinks": "Minder links tonen"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Label afkappen",
+        "IncludePersonalLinks": "Persoonlijke links opnemen",
+        "IncludeFollowingLinks": "Gevolgde links opnemen",
+        "ShowManageLinks": "Pictogram linkbeheer tonen",
+        "ShowMoreButton": "Toon meer-knop",
+        "ShowMoreAriaLabel": "Aria-label voor toon meer-knop",
+        "ShowLessAriaLabel": "Aria-label voor toon minder-knop",
+        "HideShowMoreButton": "Toon meer-knop verbergen",
+        "HideLinkTitle": "Linktitel verbergen",
+        "SquareDesign": "Vierkant ontwerp",
+        "FontSize": "Lettergrootte",
+        "IconSize": "Pictogramgrootte",
+        "IconMargin": "Pictogrammarge",
+        "IconPadding": "Pictogramopvulling"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} ongelezen meldingen in {0}",
+      "CategoryTabListLabel": "Meldingscategorieën"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Bewerk {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Gebruik vaste eigenschappen per rij"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Zoeksjablonen worden toegepast in de vermelde volgorde. Als een resultaat op meerdere sjablonen van toepassing is, wordt de eerste match gebruikt.",
+        "LongDescription": "Lange beschrijving",
+        "SearchFeedbackPosition": "Positie zoekfeedback",
+        "UserProperties": "Gebruikerskenmerken",
+        "FilterValueTypes": {
+          "FilterValueType": "Type filterwaarde",
+          "FixedValue": "Vaste waarde",
+          "CurrentUser": "Huidige gebruiker"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Op basis van de inhoud waar ik toegang toe heb, kon ik geen antwoord op uw vraag bepalen.",
+          "RequestMoreContext": "Kunt u alstublieft meer context geven of uw vraag verduidelijken?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Zoekresultaat verfijnen",
+        "RefinerExpandedLabel": "{0}, uitgebreid{1}",
+        "RefinerCollapsedLabel": "{0}, samengevouwen{1}",
+        "RefinerActiveFilterCount": ", {0} actieve verfijners",
+        "RefinerOptionLabel": "{0}, {1} resultaten",
+        "RefinerOptionSelectedLabel": "{0}, {1} resultaten, geselecteerd",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, geselecteerd"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Titel",
+          "Description": "Beschrijving",
+          "Date": "Datum",
+          "FallbackDate": "Terugvaldatum",
+          "User": "Gebruiker",
+          "FallbackUser": "Terugvalgebruiker",
+          "URL": "URL",
+          "ParentURL": "Ouder-URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Zoeksjabloon SharePoint-lijstitem"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Zoeksjabloon persoon"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Tutorial dialoog",
+        "RegionLabel": "Tutorial dialoog. Gebruik de toetsenbordnavigatie om tussen tutorialstappen te navigeren.",
+        "PreviousStep": "Vorige tutorialstap",
+        "NextStep": "Volgende tutorialstap",
+        "StepPickerLabel": "Tutorialstappen",
+        "StepButtonLabel": "Toon tutorialstap {0} van {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint-pagina overzicht",
+          "Summary": "Lijst SharePoint-pagina's."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint-pagina overzicht",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Filter"
+        },
+        "FilterByExpirationTime": "Filter op vervaltijd",
+        "QueryConfigurationTypes": {
+          "PickPages": "Pagina's selecteren",
+          "UseQueryBuilder": "Query builder gebruiken"
+        },
+        "QueryScope": {
+          "AllPages": "Alle pagina's",
+          "SharePointLibrary": "SharePoint bibliotheek"
+        },
+        "SiteUrl": "Site-URL",
+        "Operators": {
+          "Equals": "Is gelijk aan",
+          "StartWith": "Begint met",
+          "Contains": "Bevat",
+          "LessThan": "Kleiner dan",
+          "GreaterThan": "Groter dan"
+        },
+        "QueryValueOptions": {
+          "Manual": "Handmatig",
+          "QueryParameter": "Queryparameter",
+          "UserLanguage": "Gebruikerstaal",
+          "UserEmail": "Gebruikers-e-mail",
+          "Today": "Vandaag"
+        },
+        "AddQueryFilter": "Queryfilter toevoegen",
+        "Summary": "Samenvatting",
+        "Image": "Afbeelding",
+        "Date": "Datum",
+        "Person": "Persoon",
+        "Description": "Beschrijving",
+        "TermProperties": "Term eigenschappen",
+        "CardsPerRow": "Kaarten per rij",
+        "ShowLikesComments": "Likes/reacties tonen",
+        "ShowLastActivity": "Laatste activiteit tonen",
+        "ShowRating": "Beoordeling tonen",
+        "OpenInNewTab": "Openen in nieuw tabblad",
+        "AddColumn": "Kolom toevoegen",
+        "FixedHeader": "Vaste kop",
+        "NoColumnSelected": "Geen kolommen geselecteerd. Configureer kolommen in de instellingen.",
+        "Width": "Breedte",
+        "ShowLabel": "Label tonen",
+        "CustomLabel": "Aangepast label",
+        "InvalidUrl": "De URL moet een paginalijst zijn.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Pagina verwijderen",
+          "Message": "Weet u zeker dat u deze pagina wilt verwijderen?"
+        },
+        "PickPages": {
+          "Title": "SharePoint-paginakeuze",
+          "AddPageLabel": "Pagina toevoegen",
+          "NoPagesFound": "Geen pagina's gevonden",
+          "Placeholder": "Pagina's zoeken...",
+          "PickInWriteMode": "Pagina's selecteren in schrijfmodus"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Aangepaste weergave",
+        "CardView": "Kaartweergave"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "E-mail",
+      "StartChatAction": "Chat met",
+      "StartCallAction": "Bellen"
+    }
+  }
+}
