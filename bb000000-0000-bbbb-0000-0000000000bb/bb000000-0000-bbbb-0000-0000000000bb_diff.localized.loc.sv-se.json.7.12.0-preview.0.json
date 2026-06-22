@@ -9,11 +9,11 @@
         "FontFamilyName": "Teckensnittsnamn",
         "FontSource": "Teckensnittskälla",
         "FileUpload": "Filuppladdning",
-        "CdnFileLink": "CDN-fil länk",
+        "CdnFileLink": "Länk till CDN-fil",
         "ChooseFontFile": "Välj teckensnittsfil",
         "NoFileSelected": "Ingen fil vald",
-        "SupportedFontFilesHelp": "Stödda teckensnittsformat: WOFF, WOFF2, TTF och OTF. Maxstorlek är 10 MB.",
-        "CdnFontFileUrl": "CDN-teckensnittsfil URL",
+        "SupportedFontFilesHelp": "Teckensnittsformat som stöds: WOFF, WOFF2, TTF och OTF. Maxstorlek är 10 MB.",
+        "CdnFontFileUrl": "URL till CDN-teckensnittsfil",
         "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
         "AdditionalFonts": "Ytterligare teckensnitt",
         "AddAdditionalFont": "Lägg till teckensnitt",
@@ -21,22 +21,22 @@
         "NoAdditionalFonts": "Inga ytterligare teckensnitt tillagda.",
         "AdditionalFontsHelp": "Ytterligare teckensnitt laddas på sidan men tillämpas inte automatiskt.",
         "ApplyTo": "Tillämpa på",
-        "ScopeOmniaAdmin": "Omnia admin - kommer att tillämpas på Omnia admin",
-        "ScopeEditorTools": "Editorverktyg - kommer att tillämpas på WCM-redigeraren, alla blockinställningar",
-        "ScopeReadMode": "Läsläge - kommer att tillämpas i alla läslägen",
+        "ScopeOmniaAdmin": "Omnia admin - tillämpas på Omnia admin",
+        "ScopeEditorTools": "Editorverktyg - tillämpas på WCM-redigeraren, alla blockinställningar.",
+        "ScopeReadMode": "Läsläge - tillämpas i alla läslägen",
         "PreviewTitle": "Förhandsgranskning",
         "DisplayText": "Visningstext",
         "HeadlineText": "Rubriktext",
         "TitleText": "Titeltext",
-        "BodyText": "Brödtext visar hur vanlig styckeinnehåll ärvt det konfigurerade teckensnittet.",
+        "BodyText": "Brödtext visar hur styckeinnehåll kan se ut med typsnitt ärvt från Tenant.",
         "SmallAction": "Liten åtgärd",
         "DefaultAction": "Standardåtgärd",
         "LargeAction": "Stor åtgärd",
         "FontFileTooLarge": "Teckensnittsfilen är för stor. Max tillåten storlek är 10 MB.",
-        "UnsupportedFontFileType": "Teckensnittsfilstypen stöds inte. Stödda typer är .woff, .woff2, .ttf och .otf.",
+        "UnsupportedFontFileType": "Filtypen för teckensnittet stöds inte. Filtyper som stöds är .woff, .woff2, .ttf och .otf.",
         "FontFamilyRequired": "Ange ett teckensnittsnamn.",
         "ValidFontFileRequired": "Välj en giltig teckensnittsfil.",
-        "ValidCdnUrlRequired": "Ange en giltig offentlig CDN-teckensnittsfil-URL som slutar med .woff, .woff2, .ttf eller .otf.",
+        "ValidCdnUrlRequired": "Ange en giltig CDN-teckensnittsfil-URL som slutar med .woff, .woff2, .ttf eller .otf.",
         "ValidFontSourceRequired": "Välj en giltig teckensnittskälla för förhandsgranskning.",
         "UnexpectedError": "Ett oväntat fel inträffade."
       },
@@ -104,27 +104,27 @@
         "Synchronization": {
           "Provider": {
             "AzureAd": {
-              "SyncUserFilterSetupTitle": "Användarsynkroniseringsfilter"
+              "SyncUserFilterSetupTitle": "Synkroniseringsfilter för användare"
             }
           },
           "Settings": {
-            "UserSynchronizationFilterBladeTitle": "Användarsynkroniseringsfilter",
+            "UserSynchronizationFilterBladeTitle": "Synkroniseringsfilter för användare",
             "UserSynchronizationFilterDescription": "Konfigurera filter för att inkludera eller exkludera användare från synkronisering",
             "UserSynchronizationFilterNotConfigured": "Inget användarsynkroniseringsfilter är konfigurerat.",
-            "UserSynchronizationFilterConfigured": "Konfigurerad med {0} filter",
+            "UserSynchronizationFilterConfigured": "Konfigurerat med {0} filter",
             "Configure": "Konfigurera",
             "RuleAction": "Regelåtgärd",
             "IncludeInSync": "Inkludera i synk",
             "IncludeInSyncDescription": "Användare som matchar filtren nedan läggs till i katalogen.",
             "ExcludeFromSync": "Exkludera från synk",
-            "ExcludeFromSyncDescription": "Användare som matchar filtren nedan hoppas över under synk.",
+            "ExcludeFromSyncDescription": "Användare som matchar filtren nedan kommer inte med.",
             "MatchUsersWhere": "Matcha användare där",
             "MatchUsersWhereDescription": "Alla filter måste matcha (logisk OCH). Inom ett filter kan vilket värde som helst matcha (logisk ELLER).",
             "NoUserSynchronizationFilters": "Inga filter än - utan filter matchar denna regel varje användare.",
             "And": "OCH",
             "Where": "Där",
             "EnterValueWithWildcard": "Ange värde. * som jokertecken.",
-            "ExcludeWithoutFiltersNotAllowed": "Exkludera från synk utan filter är inte tillåtet.",
+            "ExcludeWithoutFiltersNotAllowed": "Filter måste användas för exkludering från synk.",
             "IncompleteFilterNotAllowed": "Ett filter måste ha en vald egenskap och minst ett värde."
           }
         }
@@ -151,28 +151,28 @@
       "Features": {
         "AIEngine": {
           "Title": "Semantisk sökning",
-          "Description": "Aktivera denna funktion för att ge ditt system tillgång till semantisk sökning"
+          "Description": "Aktivera denna funktion för att ge ditt system tillgång till semantisk sökning."
         },
         "NextGenUI": {
           "Category": "System",
           "Title": "Next gen UI",
-          "Description": "Aktivera denna funktion för att tillämpa det nya UI:et."
+          "Description": "Aktivera denna funktion för att tillämpa det nya UI:t."
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
-          "Title": "Workspace home ny upplevelse",
-          "Description": "Aktivera ny upplevelse på workspace home"
+          "Title": "Ny upplevelse för arbetsytans startsida",
+          "Description": "Aktivera ny upplevelse för arbetsytans startsida"
         },
         "AppInstanceNextGenUI": {
           "Category": "System",
-          "Title": "App instance ny upplevelse",
-          "Description": "Aktivera ny upplevelse på app instance"
+          "Title": "Ny upplevelse för app-instans",
+          "Description": "Aktivera ny upplevelse för app-instans"
         }
       },
       "FilterEngine": {
         "Editor": {
           "SearchBoxSettings": {
-            "AriaLabel": "Sökfält ARIA-etikett"
+            "AriaLabel": "Sökfält med ARIA-etikett"
           }
         },
         "Renderer": {
@@ -183,7 +183,7 @@
       },
       "LayoutEngine": {
         "Accessibility": {
-          "SectionTabs": "Sektionflikar"
+          "SectionTabs": "Sektionsflikar"
         },
         "Panels": {
           "BlockTitleSettings": {
@@ -198,7 +198,7 @@
           },
           "ColumnSettings": {
             "ComplementaryInformation": "Kompletterande information",
-            "ComplementaryInformationAriaLabel": "Aria-etikett"
+            "ComplementaryInformationAriaLabel": "ARIA-etikett"
           }
         }
       },
@@ -255,13 +255,13 @@
     },
     "Targeting": {
       "Persona": {
-        "TargetingPersonas": "Målgruppspersonas",
+        "TargetingPersonas": "Målgruppspersona",
         "TargetingPersonaTitle": "Målgruppspersona",
         "SelectPersona": "Välj persona",
-        "ViewingAs": "Visar som",
-        "ViewingAsLabel": "Visar som",
-        "TargetingPersonasAdministrators": "Administratörer för målgruppspersonas",
-        "TargetingPersonasUsers": "Användare av målgruppspersonas",
+        "ViewingAs": "Visas som",
+        "ViewingAsLabel": "Visas som",
+        "TargetingPersonasAdministrators": "Administratörer för målgruppspersona",
+        "TargetingPersonasUsers": "Användare av målgruppspersona",
         "CreateTargetingPersona": "Skapa målgruppspersona",
         "EditTargetingPersona": "Redigera målgruppspersona",
         "TargetingProperties": "Målgruppsegenskaper",
@@ -270,12 +270,12 @@
         "Save": "Spara",
         "Create": "Skapa",
         "Cancel": "Avbryt",
-        "NoItems": "Inga målgruppspersonas hittades. Skapa en för att komma igång.",
-        "ActivatedPersonaInfo": "Du är på väg att visa som",
+        "NoItems": "Inga målgruppspersona hittades. Skapa en för att komma igång.",
+        "ActivatedPersonaInfo": "Du är på väg att visas som",
         "ActivatedPersonaDescription": "Innehåll och navigering speglar vad denna persona har tillgång till. Ändringar träder i kraft efter omladdning.",
         "DeactivatedInfo": "Du är på väg att inaktivera din persona. Ladda om för att återställa din normala vy.",
         "ReloadNow": "Ladda om nu",
-        "ViewAsPersonaInfo": "Du är på väg att visa intranätet som",
+        "ViewAsPersonaInfo": "Du är på väg att visas på intranätet som",
         "ViewAsPersonaDescription": "Detta ändrar inte dina behörigheter eller åtkomst. Ändringar träder i kraft efter omladdning av sidan.",
         "ExitPersonaPreviewInfo": "Du är på väg att avsluta förhandsgranskningen av målgruppspersona. Din normala vy återställs efter omladdning."
       }
