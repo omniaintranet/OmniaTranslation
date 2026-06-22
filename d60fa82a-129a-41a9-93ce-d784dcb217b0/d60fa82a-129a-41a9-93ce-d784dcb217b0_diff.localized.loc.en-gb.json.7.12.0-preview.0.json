@@ -528,7 +528,7 @@
       "NoSPPagesFound": "No SharePoint pages found",
       "LoadingSPPages": "Loading SharePoint pages...",
       "SelectAllPagesOnCurrentPage": "Select all pages on current page",
-      "CurrentSPPage": "Current SP page",
+      "CurrentSPPage": "Current SharePoint page",
       "SPPageProviderTableHeader": {
         "FileName": "File name",
         "Title": "Title",
