@@ -68,7 +68,7 @@
           "LeftPanelLayouts": "Vänster panel",
           "LeftPanelLayoutsSettings": "Vänster panel",
           "CustomFontFamily": "Anpassad teckensnittsfamilj",
-          "CenterMenu": "Centrerat meny",
+          "CenterMenu": "Centrerad meny",
           "CenterMenuWidth": "Centrerad bredd (px)",
           "ForceUppercase": "Tvinga versaler",
           "ShowIcons": "Visa ikoner",
@@ -90,7 +90,7 @@
         "Classic": "Klassisk",
         "DateFormat": "Datumformat",
         "NoResultText": "Ingen resultattext",
-        "ModernAnnoucement": "Modern tillkännagivande"
+        "ModernAnnoucement": "Modernt meddelande"
       },
       "CommentCount": "{0} kommentarer"
     },
@@ -106,7 +106,7 @@
         },
         "AnalyticsForSpfx": {
           "Title": "Analys för SPFx",
-          "Description": "Aktiverar automatiserad användaraktivitetsspårning på SharePoint-sidor via Matomo.",
+          "Description": "Aktiverar automatiserad spårning av användaraktivitet på SharePoint-sidor via Matomo.",
           "Category": "System"
         }
       },
@@ -138,10 +138,10 @@
         "Back": "Tillbaka",
         "CreateMore": "Skapa fler",
         "Document": "Dokument",
-        "FindMicrosoft365Apps": "Hitta Microsoft 365-appar",
+        "FindMicrosoft365Apps": "Sök Microsoft 365-appar",
         "Presentation": "Presentation",
         "SearchBoxAriaLabel": "Sökfält. Förslag visas när du skriver.",
-        "SearchMicrosoft365Apps": "Sök alla dina Microsoft 365-appar",
+        "SearchMicrosoft365Apps": "Sök alla Microsoft 365-appar",
         "SearchResults": "Sökresultat",
         "Survey": "Enkät",
         "Workbook": "Arbetsbok"
@@ -151,20 +151,20 @@
         "ShowLessLinks": "Visa färre länkar"
       },
       "ComponentSettingsForm": {
-        "TruncateText": "Förkorta etikett",
+        "TruncateText": "Korta etikett",
         "IncludePersonalLinks": "Inkludera personliga länkar",
         "IncludeFollowingLinks": "Inkludera följda länkar",
         "ShowManageLinks": "Visa ikon för länkhantering",
         "ShowMoreButton": "Visa mer-knapp",
-        "ShowMoreAriaLabel": "Visa mer-knapp aria-label",
-        "ShowLessAriaLabel": "Visa mindre-knapp aria-label",
+        "ShowMoreAriaLabel": "Visa mer-knapp med aria-etikett",
+        "ShowLessAriaLabel": "Visa mindre-knapp med aria-etikett",
         "HideShowMoreButton": "Dölj Visa mer-knapp",
         "HideLinkTitle": "Dölj länktitel",
         "SquareDesign": "Kvadratisk design",
         "FontSize": "Teckenstorlek",
         "IconSize": "Ikonstorlek",
-        "IconMargin": "Ikonmarginal",
-        "IconPadding": "Ikonutfyllnad"
+        "IconMargin": "marginal till ikon",
+        "IconPadding": "Utfyllnad runt ikon"
       }
     },
     "NotificationPanel": {
@@ -179,12 +179,12 @@
     },
     "Search": {
       "Admin": {
-        "SearchTemplatesOrderInfo": "Sök mallar tillämpas i den ordning de listas. Om ett resultat matchar flera mallar används den första matchningen.",
+        "SearchTemplatesOrderInfo": "Sökmallar tillämpas i den ordning de listas. Om ett resultat matchar flera mallar används den första matchningen.",
         "LongDescription": "Lång beskrivning",
-        "SearchFeedbackPosition": "Position för sökfeedback",
+        "SearchFeedbackPosition": "Position för feedback på sök",
         "UserProperties": "Användaregenskaper",
         "FilterValueTypes": {
-          "FilterValueType": "Filtervärdestyp",
+          "FilterValueType": "Typ av filtervärde",
           "FixedValue": "Fast värde",
           "CurrentUser": "Aktuell användare"
         }
@@ -192,13 +192,13 @@
       "SemanticSearch": {
         "CertainResponseMessage": {
           "UnableToGenerateResponse": "Utifrån det innehåll jag har tillgång till kunde jag inte hitta ett svar på din fråga.",
-          "RequestMoreContext": "Kan du vänligen ge mer kontext eller förtydliga din fråga?"
+          "RequestMoreContext": "Kan du ange mer kontext eller förtydliga din fråga?"
         }
       },
       "AdvancedSearch": {
         "RefineSearchResult": "Förfina sökresultat",
-        "RefinerExpandedLabel": "{0}, utvidgad{1}",
-        "RefinerCollapsedLabel": "{0}, kollapsad{1}",
+        "RefinerExpandedLabel": "{0}, öppnad{1}",
+        "RefinerCollapsedLabel": "{0}, stängd{1}",
         "RefinerActiveFilterCount": ", {0} aktiva filter",
         "RefinerOptionLabel": "{0}, {1} resultat",
         "RefinerOptionSelectedLabel": "{0}, {1} resultat, vald",
@@ -210,28 +210,28 @@
           "Title": "Titel",
           "Description": "Beskrivning",
           "Date": "Datum",
-          "FallbackDate": "Reservdatum",
+          "FallbackDate": "Fallback-datum",
           "User": "Användare",
-          "FallbackUser": "Reservanvändare",
+          "FallbackUser": "Fallback-användare",
           "URL": "URL",
           "ParentURL": "Överordnad URL"
         },
         "SpListItemSearchTemplate": {
-          "Title": "Sök mall för SharePoint-listobjekt"
+          "Title": "Sökmall för listobjekt i SharePoint"
         },
         "PersonSearchTemplate": {
-          "Title": "Sök mall för person"
+          "Title": "Sökmall för person"
         }
       }
     },
     "Tutorial": {
       "Accessibility": {
-        "DialogLabel": "Handledningsdialog",
-        "RegionLabel": "Handledningsdialog. Använd tangentbordsnavigering för att flytta mellan handledningssteg.",
-        "PreviousStep": "Föregående handledningssteg",
-        "NextStep": "Nästa handledningssteg",
-        "StepPickerLabel": "Handledningssteg",
-        "StepButtonLabel": "Visa handledningssteg {0} av {1}"
+        "DialogLabel": "Användarguide",
+        "RegionLabel": "Användarguide. Använd tangentbordsnavigering för att flytta mellan stegen.",
+        "PreviousStep": "Föregående steg",
+        "NextStep": "Nästa steg",
+        "StepPickerLabel": "Användarguide - steg",
+        "StepButtonLabel": "Visa steg för användarguide {0} av {1}"
       }
     }
   },
@@ -239,13 +239,13 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "Sammanställning av SharePoint-sidor",
+          "Title": "Upprullning av SharePoint-sidor",
           "Summary": "Lista SharePoint-sidor."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "Sammanställning av SharePoint-sidor",
+      "SharePointPageControlTitle": "Upprullning av SharePoint-sidor",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
@@ -300,7 +300,7 @@
         "PickPages": {
           "Title": "Välj SharePoint-sida",
           "AddPageLabel": "Lägg till sida",
-          "NoPagesFound": "Inga sidor hittades",
+          "NoPagesFound": "Hittade inga sidor",
           "Placeholder": "Sök sidor...",
           "PickInWriteMode": "Välj sidor i skrivläge"
         }
