@@ -28,7 +28,7 @@
         "DisplayText": "Visningstext",
         "HeadlineText": "Rubriktext",
         "TitleText": "Titeltext",
-        "BodyText": "Brödtext visar hur styckeinnehåll kan se ut med typsnitt ärvt från Tenant.",
+        "BodyText": "Brödtext som visar hur styckeinnehåll kan se ut med det aktiverade typsnittet.",
         "SmallAction": "Liten åtgärd",
         "DefaultAction": "Standardåtgärd",
         "LargeAction": "Stor åtgärd",
