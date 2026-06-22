@@ -40,7 +40,7 @@
     },
     "System": {
       "SPFxInstruction": {
-        "CreateAppCatalogScreenshotAlt": "Skärmdump som visar var man skapar en SharePoint appkatalogwebbplats.",
+        "CreateAppCatalogScreenshotAlt": "Skärmdump som visar var man skapar en appkatalogwebbplats i SharePoint.",
         "UploadPackageScreenshotAlt": "Skärmdump som visar var man laddar upp SharePoint-paketet i Appar för SharePoint.",
         "AvailableToAllSitesScreenshotAlt": "Skärmdump som visar alternativet att göra SharePoint-paketet tillgängligt för alla webbplatser."
       }
@@ -48,18 +48,18 @@
   },
   "OmniaWorkplace": {
     "EnterpriseGlossary": {
-      "InvalidTaxonomyTitle": "Termuppsättnings-ID saknas eller är ogiltigt för denna taxonomiglossar.",
+      "InvalidTaxonomyTitle": "Termuppsättnings-ID saknas eller är ogiltigt för denna taxonomi-ordlista.",
       "Default": "Standard",
       "RemoveDefaultUISettingsConfirmation": {
         "Title": "Ta bort standardikon och färg",
-        "Message": "Är du säker på att du vill ta bort standardutseende och känsla-inställningarna?"
+        "Message": "Är du säker på att du vill ta bort standardutseendet?"
       }
     },
     "HeaderSettings": {
-      "SearchBoxStyle": "Sökfältets stil",
+      "SearchBoxStyle": "Stil för sökfältet",
       "SearchBoxStyleOptions": {
         "M365Style": "M365-stil",
-        "WCAGCompliant": "WCAG-kompatibel"
+        "WCAGCompliant": "Följer WCAG"
       }
     },
     "Workspace": {
