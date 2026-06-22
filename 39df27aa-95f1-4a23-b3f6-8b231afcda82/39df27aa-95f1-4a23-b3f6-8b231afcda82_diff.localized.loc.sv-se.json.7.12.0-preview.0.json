@@ -174,7 +174,7 @@
     "Properties": {
       "EditPropertyAriaLabel": "Redigera {0}",
       "Settings": {
-        "UseFixedPropertiesPerRow": "Använd fasta egenskaper per rad"
+        "UseFixedPropertiesPerRow": "Använd fasta egenskapsfält per rad"
       }
     },
     "Search": {
