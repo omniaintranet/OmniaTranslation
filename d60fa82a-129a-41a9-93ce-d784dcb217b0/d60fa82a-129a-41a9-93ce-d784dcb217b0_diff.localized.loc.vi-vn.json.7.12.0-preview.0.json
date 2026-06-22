@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Cấp độ tiêu đề"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Chỉ văn bản"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Đăng ký kênh"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Chế độ điều hướng",
+        "DisableNavigate": "Tắt chuyển hướng đến trang đã tạo",
+        "NavigateToOmnia": "Đi đến trang Omnia",
+        "NavigateToSharePointFullPage": "Đi đến trang SharePoint toàn trang"
+      },
+      "OpenInDialog": "Mở trong hộp thoại",
+      "DialogSummaryProperty": "Thuộc tính tóm tắt",
+      "DialogContentProperty": "Thuộc tính nội dung",
+      "DialogImageProperty": "Thuộc tính hình ảnh",
+      "DialogDateProperty": "Thuộc tính ngày",
+      "DialogPropertyMappings": "Bản đồ thuộc tính hộp thoại",
+      "OverrideDefaultSettings": "Ghi đè cài đặt mặc định",
+      "EnableRichText": "Bật văn bản định dạng",
+      "EnableViewButtonOnDialog": "Bật nút xem trên hộp thoại",
+      "EnableMention": "Bật đề cập"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "Truy vấn trang SharePoint",
+        "SharepointPageQuery": "Truy vấn cơ bản",
+        "SharepointPageRollupQuery": "Truy vấn cơ bản tổng hợp trang SharePoint"
+      },
+      "SemanticSearch": {
+        "Title": "Tìm kiếm ngữ nghĩa",
+        "ReindexContent": "Tái lập chỉ mục nội dung",
+        "ReindexContentConfirmationTitle": "Chạy lập chỉ mục nội dung đầy đủ",
+        "ReindexContentConfirmationDescription": "Bạn có chắc muốn chạy lập chỉ mục nội dung đầy đủ trên tenant không?",
+        "ReindexContentMessage": "Tái lập chỉ mục {0} trang (Thành công: {1}, Thất bại: {2})",
+        "Running": "Đang chạy",
+        "ResumeFromLastSync": "Tiếp tục từ đồng bộ cuối",
+        "ResumeFromLastSyncTitle": "Tiếp tục từ đồng bộ cuối",
+        "ResumeFromLastSyncDescription": "Bạn có chắc muốn tiếp tục từ đồng bộ cuối trên tenant không?",
+        "QueueReindex": "Đang xếp hàng xử lý…",
+        "Stopping": "Đang dừng…",
+        "TerminateCurrentJob": "Kết thúc công việc hiện tại",
+        "TerminateCurrentJobConfirmationTitle": "Kết thúc công việc hiện tại",
+        "TerminateCurrentJobConfirmationDescription": "Bạn có chắc muốn kết thúc công việc hiện tại không?"
+      },
+      "DefaultRendering": {
+        "Title": "Kết xuất mặc định",
+        "Description": "Định nghĩa một phiên bản ứng dụng kết xuất mặc định được sử dụng làm dự phòng khi trang hiện tại không bật trải nghiệm toàn trang.",
+        "SelectLabel": "Chọn phiên bản ứng dụng kết xuất mặc định",
+        "DialogSettingsTitle": "Cấu hình hộp thoại mặc định",
+        "EnableRichText": "Bật văn bản định dạng",
+        "EnableViewButtonOnDialog": "Bật nút xem trên hộp thoại",
+        "EnableMention": "Bật đề cập",
+        "DialogSummary": "Tóm tắt hộp thoại",
+        "DialogContent": "Nội dung hộp thoại",
+        "DialogImage": "Hình ảnh hộp thoại",
+        "DialogDate": "Ngày hộp thoại"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Hình ảnh bên trái",
+        "ImageOnRight": "Hình ảnh bên phải"
+      },
+      "Editor": {
+        "OnThisPage": "Các phần",
+        "LivePreview": "Xem trước trực tiếp",
+        "Menu": {
+          "Style": "Kiểu"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Tỷ lệ hình ảnh/văn bản",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Độ cao",
+        "BorderRadius": "Bán kính viền",
+        "BorderWidth": "Độ rộng viền",
+        "BorderColor": "Màu viền",
+        "AddMedia": "Thêm phương tiện",
+        "ChangeMedia": "Thay đổi phương tiện",
+        "RemoveMedia": "Xóa phương tiện",
+        "TitleElement": "Phần tử tiêu đề",
+        "TitleElements": {
+          "Default": "Mặc định",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Kiểu đặt trước",
+        "Query": "Truy vấn",
+        "CurrentNodeIndicator": "Chỉ báo nút hiện tại",
+        "Separator": "Dấu phân cách",
+        "FontSizeSpacing": "Cỡ chữ & khoảng cách",
+        "FontSize": "Cỡ chữ",
+        "Density": "Mật độ",
+        "Compact": "Gọn gàng",
+        "Comfortable": "Thoải mái",
+        "Spacious": "Rộng rãi",
+        "HoverState": "Trạng thái di chuột",
+        "IndicatorColor": "Màu chỉ báo",
+        "SeparatorColor": "Màu dấu phân cách",
+        "HoverColor": "Màu khi di chuột",
+        "LivePreview": "Xem trước trực tiếp",
+        "OmniaClassic": "Omnia cổ điển",
+        "OmniaClassicDescription": "Kiểu breadcrumb Omnia hiện tại",
+        "MinimalSlash": "Gạch chéo tối giản",
+        "MinimalSlashDescription": "Dấu phân cách gạch chéo - màu khi di chuột",
+        "PillCurrent": "Viên hiện tại",
+        "PillCurrentDescription": "Viên màu trên mục hiện tại - màu khi di chuột",
+        "BoldUnderline": "Đậm hiện tại",
+        "BoldUnderlineDescription": "Nút hiện tại đậm - gạch chân khi di chuột",
+        "ArrowTrail": "Dấu mũi tên",
+        "ArrowTrailDescription": "Dấu phân cách mũi tên - màu mục hiện tại",
+        "DotDivider": "Dấu chấm phân cách",
+        "DotDividerDescription": "Dấu chấm phân cách - màu khi di chuột",
+        "Custom": "Tùy chỉnh",
+        "Plain": "Đơn giản",
+        "Bold": "Đậm",
+        "Color": "Màu",
+        "Pill": "Viên",
+        "Chevron": "Mũi tên",
+        "Slash": "Gạch chéo",
+        "Arrow": "Mũi tên",
+        "Dot": "Chấm",
+        "Pipe": "Dấu ống",
+        "Guillemet": "Góc",
+        "None": "Không",
+        "Underline": "Gạch chân",
+        "Tint": "Màu nhạt"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Dòng nội dung",
+        "BlockSummary": "Tạo nội dung trang có cấu trúc với văn bản, phương tiện và trích dẫn.",
+        "Placeholder": "Kết xuất Dòng nội dung sẽ khả dụng khi lưu trữ khối được triển khai.",
+        "Media": {
+          "AddImage": "Thêm phương tiện",
+          "EditImage": "Chỉnh sửa phương tiện",
+          "RemoveImage": "Xóa phương tiện",
+          "ReplaceImage": "Thay thế phương tiện",
+          "PlaceholderTitle": "Thêm phương tiện",
+          "PlaceholderDescription": "Chọn hình ảnh hoặc video từ thư viện phương tiện cho khối phương tiện Dòng nội dung này.",
+          "Width": {
+            "Label": "Chiều rộng phương tiện",
+            "Content": "Nội dung",
+            "Wide": "Rộng",
+            "Full": "Toàn bộ",
+            "FullBleed": "Tràn toàn bộ"
+          }
+        },
+        "Text": {
+          "Placeholder": "Viết gì đó, hoặc nhấn '/' để chọn mẫu...",
+          "QuotePlaceholder": "Thêm văn bản trích dẫn...",
+          "QuoteAttributionLabel": "Nguồn trích dẫn",
+          "QuoteSourceLabel": "Nguồn"
+        },
+        "Person": {
+          "PickerLabel": "Người",
+          "EmptyName": "Chọn một người",
+          "TextPlaceholder": "Viết hồ sơ ngắn, trích dẫn hoặc văn bản nổi bật..."
+        },
+        "Spacing": {
+          "Label": "Khoảng cách"
+        },
+        "Editor": {
+          "AddBlock": "Thêm khối",
+          "AddBelow": "Thêm bên dưới",
+          "AddFirstBlock": "Thêm khối đầu tiên của bạn",
+          "Convert": "Chuyển đổi",
+          "ConvertTo": "Chuyển đổi thành",
+          "Delete": "Xóa",
+          "DragToReorder": "Kéo để sắp xếp lại",
+          "Duplicate": "Nhân bản",
+          "InheritedContent": "Khối này đang tái sử dụng nội dung dòng nội dung được ánh xạ.",
+          "InsertTemplate": "Chèn mẫu",
+          "MoveDown": "Di chuyển xuống",
+          "MoveUp": "Di chuyển lên",
+          "PickTemplateToStart": "Chọn mẫu để bắt đầu soạn thảo.",
+          "Ratio": "Tỷ lệ",
+          "SearchTemplates": "Tìm kiếm mẫu...",
+          "SearchTemplatesShort": "Tìm mẫu...",
+          "Templates": "Mẫu",
+          "KeyboardNavigate": "↑↓ Điều hướng",
+          "KeyboardInsert": "↵ Chèn",
+          "KeyboardCancel": "Esc hủy",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Chiều rộng nội dung",
+          "WidthWideTitle": "Rộng",
+          "WidthFullTitle": "Tràn toàn bộ",
+          "RatioEqualTitle": "Cột bằng nhau",
+          "RatioNarrowWideTitle": "Hẹp trái, rộng phải",
+          "RatioWideNarrowTitle": "Rộng trái, hẹp phải",
+          "InnerDivider": "Bật/tắt dấu phân cách bên trong"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Văn bản",
+            "Description": "Một khối văn bản định dạng đơn."
+          },
+          "Media": {
+            "Title": "Phương tiện",
+            "Description": "Một khối phương tiện đơn."
+          },
+          "MediaText": {
+            "Title": "Phương tiện + Văn bản",
+            "Description": "Phương tiện bên trái, văn bản bên phải."
+          },
+          "MediaGallery": {
+            "Title": "Bộ sưu tập phương tiện",
+            "Description": "Hai hàng, mỗi hàng ba khối phương tiện."
+          },
+          "TextMedia": {
+            "Title": "Văn bản + Phương tiện",
+            "Description": "Văn bản bên trái, phương tiện bên phải."
+          },
+          "Person": {
+            "Title": "Người",
+            "Description": "Nổi bật một người với avatar, tên và văn bản kề bên."
+          },
+          "Quote": {
+            "Title": "Trích dẫn",
+            "Description": "Một khối văn bản định dạng tập trung vào trích dẫn."
+          },
+          "Spacing": {
+            "Title": "Khoảng cách",
+            "Description": "Thêm khoảng cách dọc có thể điều chỉnh giữa các khối."
+          },
+          "Divider": {
+            "Title": "Dấu phân cách",
+            "Description": "Thêm một đường phân cách ngang đơn giản."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Tạo với AI",
+          "AddWithAiPlaceholder": "Mô tả nội dung và tôi sẽ thêm cho bạn",
+          "ApplyPreview": "Áp dụng xem trước",
+          "Cancel": "Hủy",
+          "CurrentRowScope": "Hàng hiện tại",
+          "DialogTitle": "Hỗ trợ AI",
+          "DocumentScope": "Toàn bộ tài liệu",
+          "EmptyPromptError": "Nhập hướng dẫn trước khi tạo xem trước.",
+          "GeneratePreview": "Tạo xem trước",
+          "GeneratePage": "Tạo trang",
+          "GenerationBlockComplete": "Khối đã sẵn sàng.",
+          "GenerationBlockSelecting": "Đang chọn khối",
+          "GenerationBlockTitle": "Đang tạo khối",
+          "GenerationBlockWriting": "Đang viết nội dung",
+          "GenerationComplete": "Trang đã sẵn sàng.",
+          "GenerationOutline": "Tạo dàn ý trang từ hướng dẫn của bạn.",
+          "GenerationRowGenerated": "Đang viết hàng {current} trong {total}.",
+          "GenerationRowsInserted": "Đã chèn {total} hàng giữ chỗ và bắt đầu điền.",
+          "GenerationStepComplete": "Sẵn sàng",
+          "GenerationStepContent": "Viết nội dung",
+          "GenerationStepOutline": "Dàn ý",
+          "GenerationStepRows": "Đặt hàng",
+          "GenerationTitle": "Đang tạo trang",
+          "GenerateBlock": "Tạo khối",
+          "InvalidCurrentRowResponse": "Xem trước cho hàng hiện tại phải chứa đúng một hàng.",
+          "InvalidPreviewError": "Tạo xem trước hợp lệ trước khi áp dụng thay đổi.",
+          "Open": "Hỗ trợ AI",
+          "PreviewJson": "Xem trước JSON",
+          "PreviewReady": "Xem trước đã tạo. Xem lại JSON trước khi áp dụng.",
+          "PromptLabel": "Hướng dẫn",
+          "PromptPlaceholder": "Mô tả AI nên tạo hoặc cải thiện gì...",
+          "RawResponse": "Phản hồi thô của AI",
+          "ScopeLabel": "Áp dụng AI cho",
+          "SelectedRowRequired": "Chọn một hàng trước khi dùng AI cho hàng hiện tại.",
+          "Send": "Gửi",
+          "ShortcutFallbackTitle": "Phím tắt AI",
+          "ValidationIssues": "Vấn đề xác thực"
+        },
+        "Settings": {
+          "Title": "Cài đặt dòng nội dung",
+          "Placeholder": "Cài đặt dòng nội dung sẽ khả dụng khi lưu trữ khối được triển khai.",
+          "Categories": {
+            "General": "Chung",
+            "Layout": "Bố cục",
+            "Media": "Phương tiện",
+            "Divider": "Dấu phân cách",
+            "Editor": "Trình chỉnh sửa",
+            "AiAssistance": "Hỗ trợ AI"
+          },
+          "RowSpacing": "Khoảng cách hàng",
+          "RowSpacingHint": "Đặt khoảng cách dọc giữa các hàng dòng nội dung.",
+          "ColumnSpacing": "Khoảng cách cột",
+          "ColumnSpacingHint": "Đặt khoảng cách giữa các cột và mục trong bộ sưu tập dòng nội dung.",
+          "MediaBorderRadius": "Bán kính viền phương tiện",
+          "MediaBorderRadiusHint": "Đặt bán kính viền cho tất cả các khối phương tiện trong trình chỉnh sửa.",
+          "DividerStyle": "Kiểu",
+          "DividerColor": "Màu",
+          "DividerOpacity": "Độ mờ",
+          "DividerWeight": "Độ dày",
+          "DividerWidth": "Chiều rộng",
+          "DividerStyleLine": "Đường thẳng",
+          "DividerStyleDashed": "Đường nét đứt",
+          "DividerStyleDotted": "Đường chấm",
+          "DividerStyleDoubleLine": "Đường đôi",
+          "DividerStyleDoubleDashed": "Đường đôi nét đứt",
+          "DividerStyleDoubleDotted": "Đường đôi chấm",
+          "ConfirmDelete": "Xác nhận xóa",
+          "ConfirmDeleteHint": "Hiển thị hộp thoại xác nhận trước khi xóa khối dòng nội dung.",
+          "ConfirmDeleteTitle": "Xóa khối?",
+          "ConfirmDeleteMessage": "Khối này sẽ bị xóa khỏi dòng nội dung.",
+          "EnableAiAssistance": "Bật hỗ trợ AI",
+          "EnableAiAssistanceHint": "Bật hành động AI trên thanh công cụ và tạo trang toàn trang.",
+          "AiMediaProvider": "Nhà cung cấp phương tiện AI",
+          "AiMediaProviderHint": "Chọn cách các khối phương tiện trang được tạo trong quá trình tạo trang AI toàn trang.",
+          "AiMediaProviderNone": "Không",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Hướng dẫn chọn mẫu khối",
+            "Cancel": "Hủy",
+            "Description": "Cấu hình hướng dẫn được sử dụng bởi AI Dòng nội dung trên hồ sơ doanh nghiệp này.",
+            "GlobalPostPrompt": "Hướng dẫn toàn cục sau",
+            "GlobalPrePrompt": "Hướng dẫn toàn cục trước",
+            "LoadError": "Không thể tải cài đặt hướng dẫn đã lưu. Hiển thị mặc định.",
+            "ResetToDefaults": "Đặt lại về mặc định",
+            "SaveError": "Không thể lưu cài đặt hướng dẫn.",
+            "Saved": "Đã lưu cài đặt hướng dẫn.",
+            "TemplatePrompts": "Hướng dẫn mẫu",
+            "Title": "Hướng dẫn AI Dòng nội dung"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "JSON không hợp lệ đã được thay thế bằng tài liệu mặc định.",
+          "MissingDocumentDefaultCreated": "Tài liệu bị thiếu đã được thay thế bằng tài liệu mặc định.",
+          "SchemaMigrated": "Tài liệu đã được chuẩn hóa sang phiên bản 1 của sơ đồ Dòng nội dung.",
+          "SchemaInvalid": "Tài liệu Dòng nội dung phải sử dụng phiên bản sơ đồ 1.",
+          "RowsEmpty": "Tài liệu Dòng nội dung phải chứa ít nhất một hàng.",
+          "RowIdMissing": "Yêu cầu ID hàng.",
+          "RowTemplateInvalid": "Loại mẫu hàng không được hỗ trợ.",
+          "BlocksEmpty": "Một hàng phải chứa ít nhất một khối.",
+          "BlockIdMissing": "Yêu cầu ID khối.",
+          "TextMissing": "Khối văn bản phải chứa nội dung văn bản.",
+          "MediaMissing": "Khối phương tiện phải chứa nội dung phương tiện.",
+          "QuoteMissing": "Khối trích dẫn phải chứa nội dung văn bản định dạng.",
+          "SpacingMissing": "Khối khoảng cách phải chứa cài đặt khoảng cách.",
+          "RowInvalid": "Hàng không hợp lệ đã được thay thế bằng hàng văn bản.",
+          "BlockInvalid": "Khối không hợp lệ đã được thay thế bằng khối văn bản.",
+          "LegacyTextMigrated": "Nội dung văn bản cũ đã được chuyển sang hàng văn bản.",
+          "LegacyMediaMigrated": "Nội dung phương tiện cũ đã được chuyển sang hàng phương tiện."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Trải nghiệm toàn trang Omnia",
+          "Summary": "Sử dụng khối này để thêm trải nghiệm toàn trang vào một trang."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "Hệ thống",
+          "Description": "Cung cấp một trang hệ thống vào thư viện trang SharePoint site.",
+          "Title": "Trải nghiệm toàn trang Omnia"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Dấu phân cách",
+      "Title": "Dấu phân cách",
+      "Description": "Thêm dấu phân cách vào trang",
+      "Settings": {
+        "WelcomeTitle": "Dấu phân cách",
+        "Description": "Thêm dấu phân cách vào trang",
+        "Display": "Hiển thị",
+        "StyleSection": "Kiểu",
+        "Style": "Kiểu",
+        "Color": "Màu",
+        "Opacity": "Độ mờ",
+        "Weight": "Độ dày",
+        "Width": "Chiều rộng",
+        "Line": "Đường thẳng",
+        "Dashed": "Nét đứt",
+        "Dotted": "Chấm",
+        "DoubleLine": "Đường đôi",
+        "DoubleDashed": "Nét đứt đôi",
+        "DoubleDotted": "Chấm đôi"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Hiển thị chi tiết"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "Tiêu đề truy cập IFrame",
+        "CustomUrlTitle": "URL tùy chỉnh",
+        "PropertyUrlTitle": "URL từ thuộc tính"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Chọn loại trang"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Hiển thị biểu tượng nhãn với giá trị"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Kiểu đặt trước",
+        "General": "Chung",
+        "CurrentNodeIndicator": "Chỉ báo nút hiện tại",
+        "OpenCollapse": "Mở & thu gọn",
+        "OpenCollapseColor": "Màu mở & thu gọn",
+        "RowDensity": "Mật độ hàng",
+        "HoverState": "Trạng thái di chuột",
+        "HoverColor": "Màu khi di chuột",
+        "IndentGuide": "Hướng dẫn thụt lề",
+        "IndicatorColor": "Màu chỉ báo",
+        "RowFontSize": "Cỡ chữ hàng",
+        "LivePreview": "Xem trước trực tiếp",
+        "OmniaClassic": "Omnia cổ điển",
+        "OmniaClassicDescription": "Kiểu điều hướng Omnia hiện tại",
+        "MaterialClassic": "Material cổ điển",
+        "MaterialClassicDescription": "Văn bản chính đậm - mũi tên phải",
+        "LeftBarAccent": "Nét nhấn thanh bên trái",
+        "LeftBarAccentDescription": "Dấu bên thanh bên - mũi tên phải",
+        "TintedPill": "Viên màu nhạt",
+        "TintedPillDescription": "Hàng đang hoạt động được tô màu - thu gọn cộng/trừ",
+        "CompactRowClick": "Gọn + Nhấp hàng",
+        "CompactRowClickDescription": "Hàng dày đặc - toàn bộ hàng chuyển đổi",
+        "TreePill": "Cây + Viên",
+        "TreePillDescription": "Đường kết nối - dấu viên tô màu",
+        "Custom": "Tùy chỉnh",
+        "LeftBar": "Thanh bên trái",
+        "FilledPill": "Viên tô màu",
+        "BoldColor": "Màu đậm",
+        "Dot": "Chấm",
+        "Outline": "Viền ngoài",
+        "ChevronRight": "Mũi tên phải",
+        "ChevronLeft": "Mũi tên trái",
+        "PlusMinus": "Cộng/trừ",
+        "PlusMinusLeft": "Cộng/trừ bên trái",
+        "RowClick": "Nhấp hàng",
+        "Compact": "Gọn",
+        "Comfortable": "Thoải mái",
+        "Spacious": "Rộng rãi",
+        "Tint": "Màu nhạt",
+        "Underline": "Gạch chân",
+        "Bold": "Đậm",
+        "None": "Không",
+        "Dotted": "Chấm",
+        "Solid": "Đặc",
+        "Tree": "Cây"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Biến thể trang này bị khóa do dịch máy.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Thêm hình ảnh",
+          "ImageDescription": "Khả năng thêm hình ảnh hoặc video vào trang."
+        },
+        "PageTitle150MaxLengthValidation": "Tiêu đề đã đạt giới hạn 150 ký tự và không thể lưu."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Chiều rộng cột"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Mẫu tìm kiếm trang Omnia"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "Mẫu tìm kiếm trang SharePoint"
+      },
+      "Fields": {
+        "Title": "Tiêu đề",
+        "Description": "Mô tả",
+        "Date": "Ngày",
+        "FallbackDate": "Ngày dự phòng",
+        "User": "Người dùng",
+        "FallbackUser": "Người dùng dự phòng",
+        "URL": "URL",
+        "ParentURL": "URL cha"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Mở trong trang SharePoint toàn trang"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Trạng thái",
+        "Success": "Thành công",
+        "Error": "Lỗi",
+        "Running": "Đang chạy",
+        "Stopping": "Đang dừng"
+      },
+      "Started": "Đã bắt đầu",
+      "Ended": "Đã kết thúc",
+      "CreatedBy": "Tạo bởi",
+      "Summary": "Tóm tắt",
+      "ReindexContentMessage": "Tái lập chỉ mục {0} Trang (Thành công: {1}, Thất bại: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "Trang SharePoint",
+      "SelectSharePointSite": "Chọn site SharePoint",
+      "SearchPages": "Tìm kiếm trang",
+      "SPPageNotFound": "Không tìm thấy trang SharePoint này",
+      "NoSPPagesFound": "Không tìm thấy trang SharePoint nào",
+      "LoadingSPPages": "Đang tải trang SharePoint...",
+      "SelectAllPagesOnCurrentPage": "Chọn tất cả trang trên trang hiện tại",
+      "CurrentSPPage": "Trang SP hiện tại",
+      "SPPageProviderTableHeader": {
+        "FileName": "Tên tệp",
+        "Title": "Tiêu đề",
+        "Modified": "Đã sửa",
+        "ModifiedBy": "Sửa bởi",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Ẩn số người tham gia đã đăng ký (độc giả)",
+          "General": "Chung",
+          "Display": "Hiển thị",
+          "StylePreset": "Kiểu đặt trước",
+          "LivePreview": "Xem trước trực tiếp",
+          "ShowIcon": "Hiển thị biểu tượng",
+          "ShowNumbers": "Hiển thị số",
+          "Icon": "Biểu tượng",
+          "Meter": "Đồng hồ đo",
+          "Color": "Màu",
+          "Size": "Kích thước",
+          "StatusBadge": "Huy hiệu trạng thái",
+          "None": "Không",
+          "Bar": "Thanh",
+          "SeatGrid": "Lưới chỗ ngồi",
+          "Neutral": "Trung tính",
+          "Primary": "Chính",
+          "Semantic": "Ngữ nghĩa",
+          "Custom": "Tùy chỉnh",
+          "CustomColor": "Màu tùy chỉnh",
+          "Compact": "Gọn",
+          "Default": "Mặc định",
+          "Large": "Lớn",
+          "PreviewRegistered": "Xem trước số đăng ký",
+          "PreviewCapacity": "Xem trước sức chứa"
+        },
+        "Presets": {
+          "Classic": "Cổ điển",
+          "ClassicDescription": "Biểu tượng và số đếm",
+          "Progress": "Tiến trình",
+          "ProgressDescription": "Số đếm với đồng hồ đo",
+          "BigNumber": "Số lớn",
+          "BigNumberDescription": "Tập trung số đếm lớn",
+          "SeatGrid": "Lưới chỗ ngồi",
+          "SeatGridDescription": "Ô sức chứa trực quan",
+          "Status": "Trạng thái",
+          "StatusDescription": "Đồng hồ đo ngữ nghĩa và huy hiệu",
+          "Minimal": "Tối giản",
+          "MinimalDescription": "Chỉ số đếm gọn"
+        },
+        "Status": {
+          "Available": "Còn chỗ",
+          "FillingUp": "Đang đầy",
+          "AlmostFull": "Gần đầy",
+          "SoldOut": "Hết vé"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Thẻ sự kiện"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Kiểu gọi hành động",
+        "Description": "Cấu hình giao diện nút gọi hành động trong ứng dụng của bạn.",
+        "PreviewButton": "Xem trước nút"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Theo dõi",
+        "JoinTeamsMeeting": "Tham gia",
+        "IconLabels": {
+          "DateTime": "Ngày và giờ",
+          "Location": "Địa điểm",
+          "Description": "Mô tả"
+        },
+        "ResponseMessage": {
+          "Accept": "Đã chấp nhận",
+          "Tentative": "Tạm thời",
+          "Declined": "Từ chối"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Kêu gọi hành động"
+        },
+        "Extensions": {
+          "CallToAction": "Kêu gọi hành động"
+        }
+      },
+      "CallToAction": {
+        "Title": "Tiêu đề",
+        "Url": "URL",
+        "Save": "Lưu",
+        "Cancel": "Hủy",
+        "LinkNotSupported": "Liên kết được cung cấp không được hỗ trợ."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Mở trong ứng dụng khách",
+        "OpenInWeb": "Mở trên web",
+        "OpenInWebNewTab": "Mở trên web ở tab mới",
+        "DocumentLinkHandlerNote": "Liên kết được xử lý toàn cục, điều này có thể ảnh hưởng đến hành vi của các lựa chọn trên.",
+        "NoDocumentPickers": "Không có bộ chọn tài liệu nào được cấu hình."
+      },
+      "User": {
+        "Label": "Người dùng",
+        "FindUser": "Tìm người dùng"
+      },
+      "SharepointPagePicker": {
+        "Label": "Bộ chọn trang SharePoint",
+        "Name": "Trang SharePoint",
+        "Admin": {
+          "CategoryListingBladeTitle": "Danh mục trang SharePoint",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Xóa danh mục",
+            "Message": "Bạn có chắc muốn xóa danh mục trang SharePoint này không?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Thêm bộ lọc",
+            "AdjustFilters": "Điều chỉnh bộ lọc",
+            "Done": "Xong",
+            "TermSetNotFound": "Không tìm thấy bộ thuật ngữ",
+            "SearchBox": "Hộp tìm kiếm (Thuộc tính)",
+            "SearchBoxProperties": "Thuộc tính trang SharePoint",
+            "FullTextSearch": "Hộp tìm kiếm (Toàn văn)",
+            "SearchOnSPPageTitleAnd": "Tìm kiếm trên tiêu đề trang SharePoint và",
+            "EnableWildcardSearch": "Bật tìm kiếm từ một phần",
+            "ShowSearchBox": "Hiển thị hộp tìm kiếm",
+            "SearchTextLabel": "Văn bản tìm kiếm",
+            "AdjustWidthPlaceholder": "Chiều rộng",
+            "CollapseFilter": "Ẩn bộ lọc mặc định"
+          },
+          "SearchCategories": "Tìm kiếm danh mục",
+          "CategoryTypes": {
+            "SharePointLibrary": "Thư viện SharePoint",
+            "SearchCategory": "Danh mục tìm kiếm"
+          },
+          "SharePointLibraryUrl": "URL thư viện SharePoint",
+          "LibraryNotExistedMessage": "Không thể tìm thấy thư viện tại URL này.",
+          "DateFilter": {
+            "From": "Từ",
+            "To": "Đến"
+          },
+          "Common": {
+            "Yes": "Có",
+            "No": "Không",
+            "All": "Tất cả"
+          }
+        },
+        "AddDocument": "Thêm tài liệu",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Xóa tài liệu",
+            "Message": "Bạn có chắc muốn xóa tài liệu này không?"
+          }
+        },
+        "NoSharePointPagePicker": "Không có bộ chọn trang SharePoint nào được cấu hình",
+        "NoResultMessage": "Không tìm thấy trang",
+        "ResolveUserErrorMessage": "Lỗi lọc người"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Không tìm thấy trang"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Hiển thị trong hộp thoại"
+      },
+      "NodePicker": {
+        "Header": "Chọn nút điều hướng"
+      },
+      "ListView": {
+        "TargetReached": "Đã đạt mục tiêu",
+        "TargetNotReached": "Chưa đạt mục tiêu"
+      },
+      "CardView": {
+        "VisitPage": "Mở trang",
+        "PageImage": "Hình ảnh trang",
+        "PlaceholderImageIfEmpty": "Hình ảnh giữ chỗ nếu trống",
+        "CardType": {
+          "ImageRight": "Hình ảnh bên phải",
+          "ImageLeft": "Hình ảnh bên trái"
+        },
+        "TitleElement": "Phần tử tiêu đề",
+        "TitleElements": {
+          "Custom": "Tùy chỉnh",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Tỷ lệ hình ảnh/văn bản",
+        "RatioImageNarrowTitle": "Hình ảnh 30%, văn bản 70%",
+        "RatioEqualTitle": "Hình ảnh 50%, văn bản 50%",
+        "RatioImageWideTitle": "Hình ảnh 70%, văn bản 30%",
+        "ShowAsText": "Hiển thị người dưới dạng văn bản"
+      },
+      "EventCard": {
+        "StartDate": "Ngày bắt đầu sự kiện",
+        "EndDate": "Ngày kết thúc sự kiện",
+        "Location": "Địa điểm",
+        "EventDate": "Ngày sự kiện",
+        "EventStatus": "Trạng thái sự kiện",
+        "AllDayProperty": "Thuộc tính cả ngày",
+        "ShowDateOnImage": "Hiển thị ngày sự kiện trên hình ảnh",
+        "ShowLocation": "Hiển thị địa điểm",
+        "ShowRegisteredCapacity": "Hiển thị số đăng ký",
+        "ShowRegistrationStatus": "Hiển thị trạng thái đăng ký",
+        "ShowPastEventStatus": "Hiển thị trạng thái sự kiện đã qua",
+        "ShowAllDayStatus": "Hiển thị trạng thái cả ngày",
+        "ShowTeamsMeetingStatus": "Hiển thị trạng thái họp Teams",
+        "JoinTeamsMeeting": "Tham gia họp Teams",
+        "MovePropertyUp": "Di chuyển lên {0}",
+        "MovePropertyDown": "Di chuyển xuống {0}",
+        "RemoveTermProperty": "Xóa {0}",
+        "DateSettings": "Cài đặt ngày",
+        "StartDateSettings": "Cài đặt ngày bắt đầu sự kiện",
+        "EndDateSettings": "Cài đặt ngày kết thúc sự kiện",
+        "RegistrationOpen": "Mở đăng ký",
+        "RegistrationClosed": "Đóng đăng ký",
+        "FullyBooked": "Đã đặt hết",
+        "PastEvent": "Sự kiện đã qua",
+        "AllDay": "Cả ngày",
+        "TeamsMeeting": "Họp Teams"
+      },
+      "ListingWithImage": {
+        "Properties": "Thuộc tính",
+        "AddProperty": "Thêm thuộc tính",
+        "PropertiesSeparator": "Dấu phân cách thuộc tính",
+        "WhiteSpace": "Khoảng trắng",
+        "Property": "Thuộc tính",
+        "NoPropertySelected": "Chưa chọn thuộc tính",
+        "DateModeDefault": "Mặc định",
+        "DateModeClassic": "Cổ điển",
+        "DateModeSocial": "Xã hội",
+        "HideAvatar": "Ẩn avatar",
+        "ShowAsText": "Hiển thị dưới dạng văn bản",
+        "SeparatorType": "Loại dấu phân cách",
+        "RightAlignLikesComments": "Căn phải lượt thích và bình luận"
+      },
+      "Common": {
+        "ShowMetricDetails": "Hiển thị chi tiết",
+        "AllowLiking": "Cho phép thích",
+        "FileReadyForDownload": "Tệp xuất {0} đã sẵn sàng để tải xuống.",
+        "OpenInSharePointFullPage": "Mở trong trang SharePoint toàn trang"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Chế độ xem thẻ (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Chọn năm",
+          "MonthSelector": "Chọn tháng",
+          "WeekSelector": "Chọn tuần",
+          "DateSelector": "Chọn ngày"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Tìm kiếm ngữ nghĩa",
+          "SemanticSearchLogs": "Tái lập chỉ mục nội dung - Nhật ký",
+          "ReindexContent": "Tái lập chỉ mục nội dung",
+          "Logging": "Ghi nhật ký",
+          "ReindexContentMessageProgress": "Hoàn thành {0} trong {1} trang (thành công: {2}, thất bại: {3}) trong {4}",
+          "ReindexContentMessage": "Tái lập chỉ mục {0} trang (thành công: {1}, thất bại: {2}) trong {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Bạn có chắc muốn tái lập chỉ mục nội dung cho tìm kiếm ngữ nghĩa không?",
+          "QueueReindex": "Đang xếp hàng xử lý…",
+          "Stopping": "Đang dừng…",
+          "TerminateCurrentJob": "Kết thúc công việc hiện tại",
+          "TerminateCurrentJobConfirmationTitle": "Kết thúc công việc hiện tại",
+          "TerminateCurrentJobConfirmationDescription": "Bạn có chắc muốn kết thúc công việc hiện tại không?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Chỉnh sửa trong Omnia"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "Bật chế độ xem toàn trang",
+        "EnableEnhancedCopilotIntegration": "Bật tích hợp Copilot nâng cao",
+        "Copilot": {
+          "Headline": "Siêu dữ liệu trang",
+          "PropertyTemplate": "{0} của trang này là {1}",
+          "BusinessProfile": "Hồ sơ doanh nghiệp của trang này là {0}",
+          "PublishingApp": "Ứng dụng xuất bản của trang này là {0}",
+          "PageCollection": "Bộ sưu tập trang của trang này là {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "Chỉnh sửa trang"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Mẫu bình luận",
+        "CommentTemplateOptions": {
+          "Default": "Mặc định",
+          "Threaded": "Theo chủ đề"
+        },
+        "ThreadedComments": "Bình luận theo chủ đề",
+        "CustomInputStyle": "Kiểu nhập tùy chỉnh",
+        "Elevation": "Độ cao",
+        "BorderThickness": "Độ dày viền",
+        "BorderRadius": "Bán kính viền",
+        "BorderColor": "Màu viền",
+        "TextColor": "Màu văn bản",
+        "BackgroundColor": "Màu nền",
+        "EnableRichTextPageFeedback": "Định dạng",
+        "OverrideDefaultSettings": "Ghi đè cài đặt mặc định",
+        "DeletedCommentMessage": {
+          "Label": "Thông báo bình luận đã xóa",
+          "Always": "Luôn luôn",
+          "Never": "Không bao giờ",
+          "WhenReferenced": "Khi được tham chiếu"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Cho phép chia sẻ"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Trải nghiệm toàn trang Omnia",
+        "Description": "Một thành phần trải nghiệm toàn trang để hiển thị nội dung trên toàn bộ trang."
+      },
+      "Settings": {
+        "AllowEdit": "Cho phép chỉnh sửa",
+        "Title": "Tiêu đề",
+        "SelectedPage": "Trang đã chọn"
+      }
+    }
+  }
+}

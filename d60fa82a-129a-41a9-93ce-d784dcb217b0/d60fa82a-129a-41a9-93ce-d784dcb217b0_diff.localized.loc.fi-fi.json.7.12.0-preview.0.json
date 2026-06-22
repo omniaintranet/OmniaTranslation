@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Otsikkotaso"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Vain teksti"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Kanavan tilaukset"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigointitila",
+        "DisableNavigate": "Poista uudelleenohjaus luotuun sivuun käytöstä",
+        "NavigateToOmnia": "Siirry Omnia-sivulle",
+        "NavigateToSharePointFullPage": "Siirry SharePointin kokosivulle"
+      },
+      "OpenInDialog": "Avaa valintaikkunassa",
+      "DialogSummaryProperty": "Yhteenvetokenttä",
+      "DialogContentProperty": "Sisältökenttä",
+      "DialogImageProperty": "Kuvakenttä",
+      "DialogDateProperty": "Päivämääräkenttä",
+      "DialogPropertyMappings": "Valintaikkunan kenttien kartoitukset",
+      "OverrideDefaultSettings": "Ylikirjoita oletusasetukset",
+      "EnableRichText": "Ota käyttöön muotoiltu teksti",
+      "EnableViewButtonOnDialog": "Ota käyttöön Näytä-painike valintaikkunassa",
+      "EnableMention": "Ota käyttöön maininnat"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint-sivuhaku",
+        "SharepointPageQuery": "Perushaku",
+        "SharepointPageRollupQuery": "SharePoint-sivujen yhteenvetohaku"
+      },
+      "SemanticSearch": {
+        "Title": "Semanttinen haku",
+        "ReindexContent": "Uudelleenindeksoi sisältö",
+        "ReindexContentConfirmationTitle": "Suorita täydellinen sisällön indeksointi",
+        "ReindexContentConfirmationDescription": "Haluatko varmasti suorittaa täydellisen sisällön indeksoinnin tenantissa?",
+        "ReindexContentMessage": "Uudelleenindeksoidaan {0} sivua (Onnistui: {1}, Epäonnistui: {2})",
+        "Running": "Suoritetaan",
+        "ResumeFromLastSync": "Jatka viimeisestä synkronoinnista",
+        "ResumeFromLastSyncTitle": "Jatka viimeisestä synkronoinnista",
+        "ResumeFromLastSyncDescription": "Haluatko varmasti jatkaa viimeisestä synkronoinnista tenantissa?",
+        "QueueReindex": "Jonossa käsittelyä varten…",
+        "Stopping": "Pysäytetään…",
+        "TerminateCurrentJob": "Lopeta nykyinen tehtävä",
+        "TerminateCurrentJobConfirmationTitle": "Lopeta nykyinen tehtävä",
+        "TerminateCurrentJobConfirmationDescription": "Haluatko varmasti lopettaa nykyisen tehtävän?"
+      },
+      "DefaultRendering": {
+        "Title": "Oletusrenderöinti",
+        "Description": "Määrittää oletusrenderöintisovellusinstanssin, jota käytetään varalla, kun nykyisellä sivustolla ei ole käytössä kokosivukokemusta.",
+        "SelectLabel": "Valitse oletusrenderöintisovellusinstanssi",
+        "DialogSettingsTitle": "Oletusvalintaikkunan asetukset",
+        "EnableRichText": "Ota käyttöön muotoiltu teksti",
+        "EnableViewButtonOnDialog": "Ota käyttöön Näytä-painike valintaikkunassa",
+        "EnableMention": "Ota käyttöön maininnat",
+        "DialogSummary": "Valintaikkunan yhteenveto",
+        "DialogContent": "Valintaikkunan sisältö",
+        "DialogImage": "Valintaikkunan kuva",
+        "DialogDate": "Valintaikkunan päivämäärä"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Kuva vasemmalla",
+        "ImageOnRight": "Kuva oikealla"
+      },
+      "Editor": {
+        "OnThisPage": "Osat",
+        "LivePreview": "Esikatselu",
+        "Menu": {
+          "Style": "Tyyli"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Kuvan ja tekstin suhde",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Korkeus",
+        "BorderRadius": "Reunojen pyöristys",
+        "BorderWidth": "Reunan leveys",
+        "BorderColor": "Reunan väri",
+        "AddMedia": "Lisää media",
+        "ChangeMedia": "Vaihda media",
+        "RemoveMedia": "Poista media",
+        "TitleElement": "Otsikkoelementti",
+        "TitleElements": {
+          "Default": "Oletus",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Tyyliesiasetus",
+        "Query": "Haku",
+        "CurrentNodeIndicator": "Nykyisen solmun osoitin",
+        "Separator": "Erotin",
+        "FontSizeSpacing": "Fonttikoko ja väli",
+        "FontSize": "Fonttikoko",
+        "Density": "Tiiviys",
+        "Compact": "Tiivis",
+        "Comfortable": "Mukava",
+        "Spacious": "Tilava",
+        "HoverState": "Hover-tila",
+        "IndicatorColor": "Osoittimen väri",
+        "SeparatorColor": "Erotinväri",
+        "HoverColor": "Hover-väri",
+        "LivePreview": "Esikatselu",
+        "OmniaClassic": "Omnia klassinen",
+        "OmniaClassicDescription": "Nykyinen Omnia-murupolun tyyli",
+        "MinimalSlash": "Minimaalinen kauttaviiva",
+        "MinimalSlashDescription": "Kauttaviiva - värillinen hover",
+        "PillCurrent": "Värillinen nykyinen",
+        "PillCurrentDescription": "Värjätty pilleri nykyisellä - hover-värjäys",
+        "BoldUnderline": "Lihavoitu nykyinen",
+        "BoldUnderlineDescription": "Lihavoitu nykyinen solmu - hover-alleviivaus",
+        "ArrowTrail": "Nuolijälki",
+        "ArrowTrailDescription": "Nuolierotin - värillinen nykyinen",
+        "DotDivider": "Piste-erotin",
+        "DotDividerDescription": "Piste-erotin - värillinen hover",
+        "Custom": "Mukautettu",
+        "Plain": "Yksinkertainen",
+        "Bold": "Lihavoitu",
+        "Color": "Väri",
+        "Pill": "Pilleri",
+        "Chevron": "Nuoli",
+        "Slash": "Kauttaviiva",
+        "Arrow": "Nuoli",
+        "Dot": "Piste",
+        "Pipe": "Putki",
+        "Guillemet": "Kulma",
+        "None": "Ei mitään",
+        "Underline": "Alleviivaus",
+        "Tint": "Värjäys"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Sisältövirta",
+        "BlockSummary": "Luo jäsenneltyä sivusisältöä tekstillä, medialla ja lainauksilla.",
+        "Placeholder": "Sisältövirran renderöinti on käytettävissä, kun lohkon tallennus on toteutettu.",
+        "Media": {
+          "AddImage": "Lisää media",
+          "EditImage": "Muokkaa mediaa",
+          "RemoveImage": "Poista media",
+          "ReplaceImage": "Vaihda media",
+          "PlaceholderTitle": "Lisää media",
+          "PlaceholderDescription": "Valitse kuva tai video mediatietokannasta tähän sisältövirran media-lohkoon.",
+          "Width": {
+            "Label": "Median leveys",
+            "Content": "Sisältö",
+            "Wide": "Leveä",
+            "Full": "Kokoinen",
+            "FullBleed": "Koko leveys"
+          }
+        },
+        "Text": {
+          "Placeholder": "Kirjoita jotain tai paina '/' mallipohjia varten...",
+          "QuotePlaceholder": "Lisää lainauksen teksti...",
+          "QuoteAttributionLabel": "Lähde",
+          "QuoteSourceLabel": "Lähde"
+        },
+        "Person": {
+          "PickerLabel": "Henkilö",
+          "EmptyName": "Valitse henkilö",
+          "TextPlaceholder": "Kirjoita lyhyt profiili, lainaus tai esittelyteksti..."
+        },
+        "Spacing": {
+          "Label": "Väli"
+        },
+        "Editor": {
+          "AddBlock": "Lisää lohko",
+          "AddBelow": "Lisää alle",
+          "AddFirstBlock": "Lisää ensimmäinen lohkosi",
+          "Convert": "Muuta",
+          "ConvertTo": "Muuta muotoon",
+          "Delete": "Poista",
+          "DragToReorder": "Vedä järjestääksesi uudelleen",
+          "Duplicate": "Kopioi",
+          "InheritedContent": "Tämä lohko käyttää uudelleen kartoitettua sisältövirran sisältöä.",
+          "InsertTemplate": "Lisää mallipohja",
+          "MoveDown": "Siirrä alas",
+          "MoveUp": "Siirrä ylös",
+          "PickTemplateToStart": "Valitse mallipohja aloittaaksesi.",
+          "Ratio": "Suhde",
+          "SearchTemplates": "Etsi mallipohjaa...",
+          "SearchTemplatesShort": "Etsi mallipohjia...",
+          "Templates": "Mallipohjat",
+          "KeyboardNavigate": "↑↓ Navigoi",
+          "KeyboardInsert": "↵ Lisää",
+          "KeyboardCancel": "Esc peruuta",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Sisällön leveys",
+          "WidthWideTitle": "Leveä",
+          "WidthFullTitle": "Koko leveys",
+          "RatioEqualTitle": "Samat sarakkeet",
+          "RatioNarrowWideTitle": "Kapea vasen, leveä oikea",
+          "RatioWideNarrowTitle": "Leveä vasen, kapea oikea",
+          "InnerDivider": "Vaihda sisäinen erotin"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Teksti",
+            "Description": "Yksi muotoiltu tekstilohko."
+          },
+          "Media": {
+            "Title": "Media",
+            "Description": "Yksi medialohko."
+          },
+          "MediaText": {
+            "Title": "Media + Teksti",
+            "Description": "Media vasemmalla, teksti oikealla."
+          },
+          "MediaGallery": {
+            "Title": "Mediagalleria",
+            "Description": "Kaksi riviä, joissa kolme medialohkoa."
+          },
+          "TextMedia": {
+            "Title": "Teksti + Media",
+            "Description": "Teksti vasemmalla, media oikealla."
+          },
+          "Person": {
+            "Title": "Henkilö",
+            "Description": "Esittele henkilö avatarilla, nimellä ja viereisellä tekstillä."
+          },
+          "Quote": {
+            "Title": "Lainaus",
+            "Description": "Lainaukseen keskittyvä muotoiltu tekstilohko."
+          },
+          "Spacing": {
+            "Title": "Väli",
+            "Description": "Lisää säädettävää pystysuoraa tilaa lohkojen väliin."
+          },
+          "Divider": {
+            "Title": "Erotin",
+            "Description": "Lisää yksinkertainen vaakasuora erotinviiva."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Luo tekoälyn avulla",
+          "AddWithAiPlaceholder": "Kuvaile sisältöä, niin lisään sen puolestasi",
+          "ApplyPreview": "Käytä esikatselua",
+          "Cancel": "Peruuta",
+          "CurrentRowScope": "Nykyinen rivi",
+          "DialogTitle": "Tekoälyavustaja",
+          "DocumentScope": "Koko dokumentti",
+          "EmptyPromptError": "Anna ohje ennen esikatselun luomista.",
+          "GeneratePreview": "Luo esikatselu",
+          "GeneratePage": "Luo sivu",
+          "GenerationBlockComplete": "Lohko on valmis.",
+          "GenerationBlockSelecting": "Valitaan lohkoa",
+          "GenerationBlockTitle": "Lohkon luonti",
+          "GenerationBlockWriting": "Kirjoitetaan sisältöä",
+          "GenerationComplete": "Sivu on valmis.",
+          "GenerationOutline": "Luodaan sivun rakenne ohjeesi perusteella.",
+          "GenerationRowGenerated": "Kirjoitetaan riviä {current} / {total}.",
+          "GenerationRowsInserted": "Lisätty {total} paikkamerkkiriviä ja aloitettu täyttö.",
+          "GenerationStepComplete": "Valmis",
+          "GenerationStepContent": "Kirjoita sisältö",
+          "GenerationStepOutline": "Rakenne",
+          "GenerationStepRows": "Aseta rivit",
+          "GenerationTitle": "Sivun luonti",
+          "GenerateBlock": "Luo lohko",
+          "InvalidCurrentRowResponse": "Nykyisen rivin esikatselun on sisällettävä täsmälleen yksi rivi.",
+          "InvalidPreviewError": "Luo kelvollinen esikatselu ennen muutosten käyttöönottoa.",
+          "Open": "Tekoälyavustaja",
+          "PreviewJson": "Esikatsele JSON",
+          "PreviewReady": "Esikatselu luotu. Tarkista JSON ennen käyttöönottoa.",
+          "PromptLabel": "Ohje",
+          "PromptPlaceholder": "Kuvaile, mitä tekoälyn tulisi luoda tai parantaa...",
+          "RawResponse": "Raaka tekoälyvastaus",
+          "ScopeLabel": "Kohde tekoälylle",
+          "SelectedRowRequired": "Valitse rivi ennen nykyisen rivin tekoälyn käyttöä.",
+          "Send": "Lähetä",
+          "ShortcutFallbackTitle": "Tekoälyn pikakuvake",
+          "ValidationIssues": "Validointiongelmat"
+        },
+        "Settings": {
+          "Title": "Sisältövirran asetukset",
+          "Placeholder": "Sisältövirran asetukset ovat käytettävissä, kun lohkon tallennus on toteutettu.",
+          "Categories": {
+            "General": "Yleiset",
+            "Layout": "Asettelu",
+            "Media": "Media",
+            "Divider": "Erotin",
+            "Editor": "Muokkain",
+            "AiAssistance": "Tekoälyavustus"
+          },
+          "RowSpacing": "Riviväli",
+          "RowSpacingHint": "Asettaa pystysuoran välin sisältövirran rivien välille.",
+          "ColumnSpacing": "Sarakkeen väli",
+          "ColumnSpacingHint": "Asettaa sarakkeiden ja gallerian kohteiden välisen välin sisältövirran riveillä.",
+          "MediaBorderRadius": "Median reunojen pyöristys",
+          "MediaBorderRadiusHint": "Asettaa reunojen pyöristyksen kaikille median sisältölohkoille muokkaimessa.",
+          "DividerStyle": "Tyyli",
+          "DividerColor": "Väri",
+          "DividerOpacity": "Läpinäkyvyys",
+          "DividerWeight": "Paksuus",
+          "DividerWidth": "Leveys",
+          "DividerStyleLine": "Viiva",
+          "DividerStyleDashed": "Viivattu",
+          "DividerStyleDotted": "Pisteviiva",
+          "DividerStyleDoubleLine": "Kaksoisviiva",
+          "DividerStyleDoubleDashed": "Kaksoisviivattu",
+          "DividerStyleDoubleDotted": "Kaksoispisteviiva",
+          "ConfirmDelete": "Vahvista poisto",
+          "ConfirmDeleteHint": "Näytä vahvistusikkuna ennen sisältövirran lohkon poistamista.",
+          "ConfirmDeleteTitle": "Poistetaanko lohko?",
+          "ConfirmDeleteMessage": "Tämä lohko poistetaan sisältövirrasta.",
+          "EnableAiAssistance": "Ota tekoälyavustus käyttöön",
+          "EnableAiAssistanceHint": "Mahdollistaa tekoälytoiminnon työkalupalkissa ja kokosivun luonnissa.",
+          "AiMediaProvider": "Tekoälyn mediantoimittaja",
+          "AiMediaProviderHint": "Valitsee, miten luodut sivun medialohkot täytetään kokosivun tekoälyluonnin aikana.",
+          "AiMediaProviderNone": "Ei mitään",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT-kuva",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Lohkon mallipohjan valintaohje",
+            "Cancel": "Peruuta",
+            "Description": "Määritä ohjeet, joita Content flow AI käyttää tämän liiketoimintaprofiilin alueella.",
+            "GlobalPostPrompt": "Globaalinen jälkiohje",
+            "GlobalPrePrompt": "Globaalinen esiohje",
+            "LoadError": "Tallennettu ohjeasetuksia ei voitu ladata. Näytetään oletukset.",
+            "ResetToDefaults": "Palauta oletuksiin",
+            "SaveError": "Ohjeasetuksia ei voitu tallentaa.",
+            "Saved": "Ohjeasetukset tallennettu.",
+            "TemplatePrompts": "Mallipohjaohjeet",
+            "Title": "Sisältövirran tekoälyohjeet"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Virheellinen JSON korvattiin oletusdokumentilla.",
+          "MissingDocumentDefaultCreated": "Puuttuva dokumentti korvattiin oletusdokumentilla.",
+          "SchemaMigrated": "Dokumentti normalisoitiin Content flow -skeeman versioon 1.",
+          "SchemaInvalid": "Content flow -dokumenttien on käytettävä skeemaversiota 1.",
+          "RowsEmpty": "Content flow -dokumentissa on oltava vähintään yksi rivi.",
+          "RowIdMissing": "Rivin tunnus on pakollinen.",
+          "RowTemplateInvalid": "Rivin mallipohjan tyyppiä ei tueta.",
+          "BlocksEmpty": "Rivillä on oltava vähintään yksi lohko.",
+          "BlockIdMissing": "Lohkon tunnus on pakollinen.",
+          "TextMissing": "Tekstilohkossa on oltava tekstisisältöä.",
+          "MediaMissing": "Medialohkossa on oltava mediakohde.",
+          "QuoteMissing": "Lainauslohkon on sisällettävä muotoiltu tekstisisältö.",
+          "SpacingMissing": "Väli-lohkossa on oltava väliasetukset.",
+          "RowInvalid": "Virheellinen rivi korvattiin tekstirivillä.",
+          "BlockInvalid": "Virheellinen lohko korvattiin tekstilohkolla.",
+          "LegacyTextMigrated": "Perintötekstisisältö siirrettiin tekstiriville.",
+          "LegacyMediaMigrated": "Perintömediakohde siirrettiin mediariville."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia kokosivukokemus",
+          "Summary": "Käytä tätä lohkoa lisätäksesi kokosivukokemuksen sivulle."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "Järjestelmä",
+          "Description": "Tarjoaa järjestelmäsivun SharePoint-sivukirjastoon.",
+          "Title": "Omnia kokosivukokemus"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Erotin",
+      "Title": "Erotin",
+      "Description": "Lisää erotin sivulle",
+      "Settings": {
+        "WelcomeTitle": "Erotin",
+        "Description": "Lisää erotin sivulle",
+        "Display": "Näyttö",
+        "StyleSection": "Tyyli",
+        "Style": "Tyyli",
+        "Color": "Väri",
+        "Opacity": "Läpinäkyvyys",
+        "Weight": "Paksuus",
+        "Width": "Leveys",
+        "Line": "Viiva",
+        "Dashed": "Viivattu",
+        "Dotted": "Pisteviiva",
+        "DoubleLine": "Kaksoisviiva",
+        "DoubleDashed": "Kaksoisviivattu",
+        "DoubleDotted": "Kaksoispisteviiva"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Näytä tiedot"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame saavutettava otsikko",
+        "CustomUrlTitle": "Mukautettu URL",
+        "PropertyUrlTitle": "URL ominaisuudesta"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Valitse sivutyypit"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Näytä tunnisteikoni arvon kanssa"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Tyyliesiasetus",
+        "General": "Yleiset",
+        "CurrentNodeIndicator": "Nykyisen solmun osoitin",
+        "OpenCollapse": "Avaa & sulje",
+        "OpenCollapseColor": "Avaa & sulje väri",
+        "RowDensity": "Rivitiiviys",
+        "HoverState": "Hover-tila",
+        "HoverColor": "Hover-väri",
+        "IndentGuide": "Sisennysopas",
+        "IndicatorColor": "Osoittimen väri",
+        "RowFontSize": "Rivin fonttikoko",
+        "LivePreview": "Esikatselu",
+        "OmniaClassic": "Omnia klassinen",
+        "OmniaClassicDescription": "Nykyinen Omnia-navigoinnin tyyli",
+        "MaterialClassic": "Material klassinen",
+        "MaterialClassicDescription": "Lihavoitu pääteksti - nuoli oikealle",
+        "LeftBarAccent": "Vasen palkki korostus",
+        "LeftBarAccentDescription": "Sivupalkin merkki - nuoli oikealle",
+        "TintedPill": "Värjätty pilleri",
+        "TintedPillDescription": "Täytetty aktiivinen rivi - plus/miinus sulje",
+        "CompactRowClick": "Tiivis + rivin klikkaus",
+        "CompactRowClickDescription": "Tiiviit rivit - koko rivi vaihtaa tilaa",
+        "TreePill": "Puu + pilleri",
+        "TreePillDescription": "Yhdistävät viivat - täytetty pillerimerkki",
+        "Custom": "Mukautettu",
+        "LeftBar": "Vasen palkki",
+        "FilledPill": "Täytetty pilleri",
+        "BoldColor": "Lihavoitu väri",
+        "Dot": "Piste",
+        "Outline": "Reunaviiva",
+        "ChevronRight": "Nuoli oikealle",
+        "ChevronLeft": "Nuoli vasemmalle",
+        "PlusMinus": "Plus/miinus",
+        "PlusMinusLeft": "Plus/miinus vasemmalla",
+        "RowClick": "Rivin klikkaus",
+        "Compact": "Tiivis",
+        "Comfortable": "Mukava",
+        "Spacious": "Tilava",
+        "Tint": "Värjäys",
+        "Underline": "Alleviivaus",
+        "Bold": "Lihavoitu",
+        "None": "Ei mitään",
+        "Dotted": "Pisteviiva",
+        "Solid": "Yhtenäinen",
+        "Tree": "Puu"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Tämä sivun variaatio on lukittu konekäännöksen vuoksi.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Lisää kuva",
+          "ImageDescription": "Mahdollisuus lisätä kuva tai video sivulle."
+        },
+        "PageTitle150MaxLengthValidation": "Otsikko saavutti 150 merkin rajan eikä sitä voi tallentaa."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Sarakkeen leveys"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia-sivun hakumalli"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint-sivun hakumalli"
+      },
+      "Fields": {
+        "Title": "Otsikko",
+        "Description": "Kuvaus",
+        "Date": "Päivämäärä",
+        "FallbackDate": "Varapäivämäärä",
+        "User": "Käyttäjä",
+        "FallbackUser": "Varakäyttäjä",
+        "URL": "URL",
+        "ParentURL": "Ylä-URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Avaa SharePointin kokosivulla"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Tila",
+        "Success": "Onnistui",
+        "Error": "Virhe",
+        "Running": "Suoritetaan",
+        "Stopping": "Pysäytetään"
+      },
+      "Started": "Aloitettu",
+      "Ended": "Päättynyt",
+      "CreatedBy": "Luoja",
+      "Summary": "Yhteenveto",
+      "ReindexContentMessage": "Uudelleenindeksoi {0} sivua (Onnistui: {1}, Epäonnistui: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint-sivut",
+      "SelectSharePointSite": "Valitse SharePoint-sivusto",
+      "SearchPages": "Etsi sivuja",
+      "SPPageNotFound": "Tätä SharePoint-sivua ei löytynyt",
+      "NoSPPagesFound": "SharePoint-sivuja ei löytynyt",
+      "LoadingSPPages": "Ladataan SharePoint-sivuja...",
+      "SelectAllPagesOnCurrentPage": "Valitse kaikki sivut nykyisellä sivulla",
+      "CurrentSPPage": "Nykyinen SP-sivu",
+      "SPPageProviderTableHeader": {
+        "FileName": "Tiedostonimi",
+        "Title": "Otsikko",
+        "Modified": "Muokattu",
+        "ModifiedBy": "Muokannut",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Piilota rekisteröityneiden osallistujien määrä (lukija)",
+          "General": "Yleiset",
+          "Display": "Näyttö",
+          "StylePreset": "Tyyliesiasetus",
+          "LivePreview": "Esikatselu",
+          "ShowIcon": "Näytä kuvake",
+          "ShowNumbers": "Näytä numerot",
+          "Icon": "Kuvake",
+          "Meter": "Mittari",
+          "Color": "Väri",
+          "Size": "Koko",
+          "StatusBadge": "Tila-merkki",
+          "None": "Ei mitään",
+          "Bar": "Palkki",
+          "SeatGrid": "Istuinruudukko",
+          "Neutral": "Neutraali",
+          "Primary": "Ensisijainen",
+          "Semantic": "Semanttinen",
+          "Custom": "Mukautettu",
+          "CustomColor": "Mukautettu väri",
+          "Compact": "Tiivis",
+          "Default": "Oletus",
+          "Large": "Suuri",
+          "PreviewRegistered": "Esikatselu rekisteröity",
+          "PreviewCapacity": "Esikatselu kapasiteetti"
+        },
+        "Presets": {
+          "Classic": "Klassinen",
+          "ClassicDescription": "Kuvake ja laskuri",
+          "Progress": "Edistyminen",
+          "ProgressDescription": "Laskuri ja mittari",
+          "BigNumber": "Iso numero",
+          "BigNumberDescription": "Suuri laskuri",
+          "SeatGrid": "Istuinruudukko",
+          "SeatGridDescription": "Visuaaliset kapasiteettisolut",
+          "Status": "Tila",
+          "StatusDescription": "Semanttinen mittari ja merkki",
+          "Minimal": "Minimaalinen",
+          "MinimalDescription": "Vain tiivis laskuri"
+        },
+        "Status": {
+          "Available": "Saatavilla",
+          "FillingUp": "Täyttymässä",
+          "AlmostFull": "Melkein täynnä",
+          "SoldOut": "Loppuunmyyty"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Tapahtumakortti"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Toimintakehotteen tyyli",
+        "Description": "Määritä toimintakehotepainikkeiden ulkoasu sovelluksessasi.",
+        "PreviewButton": "Esikatselupainike"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Seuranta",
+        "JoinTeamsMeeting": "Liity",
+        "IconLabels": {
+          "DateTime": "Päivämäärä ja aika",
+          "Location": "Sijainti",
+          "Description": "Kuvaus"
+        },
+        "ResponseMessage": {
+          "Accept": "Hyväksytty",
+          "Tentative": "Ehdollinen",
+          "Declined": "Hylätty"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Toimintakehote"
+        },
+        "Extensions": {
+          "CallToAction": "Toimintakehote"
+        }
+      },
+      "CallToAction": {
+        "Title": "Otsikko",
+        "Url": "URL",
+        "Save": "Tallenna",
+        "Cancel": "Peruuta",
+        "LinkNotSupported": "Annettua linkkiä ei tueta."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Avaa asiakasohjelmassa",
+        "OpenInWeb": "Avaa verkossa",
+        "OpenInWebNewTab": "Avaa verkossa uudessa välilehdessä",
+        "DocumentLinkHandlerNote": "Linkkejä käsitellään globaalisti, mikä voi vaikuttaa yllä olevien valintojen toimintaan.",
+        "NoDocumentPickers": "Dokumenttivalitsimia ei ole määritetty."
+      },
+      "User": {
+        "Label": "Käyttäjä",
+        "FindUser": "Etsi käyttäjä"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint-sivun valitsin",
+        "Name": "SharePoint-sivu",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint-sivujen kategoriat",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Poista kategoria",
+            "Message": "Haluatko varmasti poistaa tämän SharePoint-sivukategorian?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Lisää suodatin",
+            "AdjustFilters": "Säädä suodattimia",
+            "Done": "Valmis",
+            "TermSetNotFound": "Termijoukkoa ei löytynyt",
+            "SearchBox": "Hakukenttä (Ominaisuudet)",
+            "SearchBoxProperties": "SharePoint-sivun ominaisuudet",
+            "FullTextSearch": "Hakukenttä (Kokoteksti)",
+            "SearchOnSPPageTitleAnd": "Hae SharePoint-sivun otsikosta ja",
+            "EnableWildcardSearch": "Ota käyttöön osittainen sanahaku",
+            "ShowSearchBox": "Näytä hakukenttä",
+            "SearchTextLabel": "Hakuteksti",
+            "AdjustWidthPlaceholder": "Leveys",
+            "CollapseFilter": "Piilota suodatin oletuksena"
+          },
+          "SearchCategories": "Hae kategorioita",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint-kirjasto",
+            "SearchCategory": "Hakukategoria"
+          },
+          "SharePointLibraryUrl": "SharePoint-kirjaston URL",
+          "LibraryNotExistedMessage": "Kirjastoa ei löydy tästä URL-osoitteesta.",
+          "DateFilter": {
+            "From": "Alkaen",
+            "To": "Päättyen"
+          },
+          "Common": {
+            "Yes": "Kyllä",
+            "No": "Ei",
+            "All": "Kaikki"
+          }
+        },
+        "AddDocument": "Lisää dokumentti",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Poista dokumentti",
+            "Message": "Haluatko varmasti poistaa tämän dokumentin?"
+          }
+        },
+        "NoSharePointPagePicker": "SharePoint-sivun valitsimia ei ole määritetty",
+        "NoResultMessage": "Sivua ei löytynyt",
+        "ResolveUserErrorMessage": "Henkilösuodatusvirhe"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Sivua ei löytynyt"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Näytä valintaikkunassa"
+      },
+      "NodePicker": {
+        "Header": "Valitse navigointisolmu"
+      },
+      "ListView": {
+        "TargetReached": "Tavoite saavutettu",
+        "TargetNotReached": "Tavoitetta ei saavutettu"
+      },
+      "CardView": {
+        "VisitPage": "Avaa sivu",
+        "PageImage": "Sivun kuva",
+        "PlaceholderImageIfEmpty": "Paikkamerkkikuva, jos tyhjä",
+        "CardType": {
+          "ImageRight": "Kuva oikealla",
+          "ImageLeft": "Kuva vasemmalla"
+        },
+        "TitleElement": "Otsikkoelementti",
+        "TitleElements": {
+          "Custom": "Mukautettu",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Kuvan ja tekstin suhde",
+        "RatioImageNarrowTitle": "Kuva 30 %, teksti 70 %",
+        "RatioEqualTitle": "Kuva 50 %, teksti 50 %",
+        "RatioImageWideTitle": "Kuva 70 %, teksti 30 %",
+        "ShowAsText": "Näytä henkilö tekstinä"
+      },
+      "EventCard": {
+        "StartDate": "Tapahtuman aloituspäivä",
+        "EndDate": "Tapahtuman lopetuspäivä",
+        "Location": "Sijainti",
+        "EventDate": "Tapahtuman päivämäärä",
+        "EventStatus": "Tapahtuman tila",
+        "AllDayProperty": "Koko päivän ominaisuus",
+        "ShowDateOnImage": "Näytä tapahtuman päivämäärät kuvassa",
+        "ShowLocation": "Näytä sijainti",
+        "ShowRegisteredCapacity": "Näytä ilmoittautuneiden määrä",
+        "ShowRegistrationStatus": "Näytä ilmoittautumistila",
+        "ShowPastEventStatus": "Näytä menneiden tapahtumien tila",
+        "ShowAllDayStatus": "Näytä koko päivän tila",
+        "ShowTeamsMeetingStatus": "Näytä Teams-kokoustila",
+        "JoinTeamsMeeting": "Liity Teams-kokoukseen",
+        "MovePropertyUp": "Siirrä ylös {0}",
+        "MovePropertyDown": "Siirrä alas {0}",
+        "RemoveTermProperty": "Poista {0}",
+        "DateSettings": "Päivämääräasetukset",
+        "StartDateSettings": "Tapahtuman aloituspäivän asetukset",
+        "EndDateSettings": "Tapahtuman lopetuspäivän asetukset",
+        "RegistrationOpen": "Ilmoittautuminen auki",
+        "RegistrationClosed": "Ilmoittautuminen suljettu",
+        "FullyBooked": "Täynnä",
+        "PastEvent": "Menneet tapahtumat",
+        "AllDay": "Koko päivä",
+        "TeamsMeeting": "Teams-kokous"
+      },
+      "ListingWithImage": {
+        "Properties": "Ominaisuudet",
+        "AddProperty": "Lisää ominaisuus",
+        "PropertiesSeparator": "Ominaisuuksien erotin",
+        "WhiteSpace": "Väli",
+        "Property": "Ominaisuus",
+        "NoPropertySelected": "Ominaisuutta ei valittu",
+        "DateModeDefault": "Oletus",
+        "DateModeClassic": "Klassinen",
+        "DateModeSocial": "Sosiaalinen",
+        "HideAvatar": "Piilota avatar",
+        "ShowAsText": "Näytä tekstinä",
+        "SeparatorType": "Erotintyypi",
+        "RightAlignLikesComments": "Tasaa tykkäykset ja kommentit oikealle"
+      },
+      "Common": {
+        "ShowMetricDetails": "Näytä tiedot",
+        "AllowLiking": "Salli tykkäykset",
+        "FileReadyForDownload": "Vientitiedosto {0} on ladattavissa.",
+        "OpenInSharePointFullPage": "Avaa SharePointin kokosivulla"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Korttinäkymä (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Valitse vuosi",
+          "MonthSelector": "Valitse kuukausi",
+          "WeekSelector": "Valitse viikko",
+          "DateSelector": "Valitse päivämäärä"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semanttinen haku",
+          "SemanticSearchLogs": "Uudelleenindeksoi sisältö - Lokit",
+          "ReindexContent": "Uudelleenindeksoi sisältö",
+          "Logging": "Lokitus",
+          "ReindexContentMessageProgress": "Valmis {0} / {1} sivusta (onnistui: {2}, epäonnistui: {3}) ajassa {4}",
+          "ReindexContentMessage": "Uudelleenindeksoi {0} sivua (onnistui: {1}, epäonnistui: {2}) ajassa {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Haluatko varmasti uudelleenindeksoida sisällön semanttista hakua varten?",
+          "QueueReindex": "Jonossa käsittelyä varten…",
+          "Stopping": "Pysäytetään…",
+          "TerminateCurrentJob": "Lopeta nykyinen tehtävä",
+          "TerminateCurrentJobConfirmationTitle": "Lopeta nykyinen tehtävä",
+          "TerminateCurrentJobConfirmationDescription": "Haluatko varmasti lopettaa nykyisen tehtävän?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Muokkaa Omniassa"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "Ota käyttöön kokosivunäkymä",
+        "EnableEnhancedCopilotIntegration": "Ota käyttöön parannettu Copilot-integraatio",
+        "Copilot": {
+          "Headline": "Sivun metatiedot",
+          "PropertyTemplate": "Sivun {0} on {1}",
+          "BusinessProfile": "Sivun liiketoimintaprofiili on {0}",
+          "PublishingApp": "Sivun julkaisusovellus on {0}",
+          "PageCollection": "Sivun sivukokoelma on {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "Muokkaa sivua"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Kommenttipohja",
+        "CommentTemplateOptions": {
+          "Default": "Oletus",
+          "Threaded": "Ketjutettu"
+        },
+        "ThreadedComments": "Ketjutetut kommentit",
+        "CustomInputStyle": "Mukautettu syötteen tyyli",
+        "Elevation": "Korkeus",
+        "BorderThickness": "Reunan paksuus",
+        "BorderRadius": "Reunan pyöristys",
+        "BorderColor": "Reunan väri",
+        "TextColor": "Tekstin väri",
+        "BackgroundColor": "Taustaväri",
+        "EnableRichTextPageFeedback": "Muotoilu",
+        "OverrideDefaultSettings": "Ylikirjoita oletusasetukset",
+        "DeletedCommentMessage": {
+          "Label": "Poistetun kommentin viesti",
+          "Always": "Aina",
+          "Never": "Ei koskaan",
+          "WhenReferenced": "Kun viitattu"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Salli jakaminen"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia kokosivukokemus",
+        "Description": "Kokosivukokemuksen komponentti sisällön näyttämiseen koko sivulla."
+      },
+      "Settings": {
+        "AllowEdit": "Salli muokkaus",
+        "Title": "Otsikko",
+        "SelectedPage": "Valittu sivu"
+      }
+    }
+  }
+}

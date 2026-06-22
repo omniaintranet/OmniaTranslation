@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Vom Tenant erben",
+        "ImageScaling": "Bildskalierung",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Das Überschreiben der Zuschneideverhältnisse auf Geschäftprofil-Ebene wird nicht unterstützt.",
+          "SelectTenantRatios": "Wählen Sie aus, welche Zuschneideverhältnisse des Tenants in diesem Geschäftprofil verwendet werden sollen."
+        },
+        "ImageStyle": {
+          "Title": "Bildstil",
+          "BorderRadius": "Randradius"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Semantische Suche Vollindexierung",
+          "Disclaimer": "Die semantische Suche ist während der Indexierung nicht verfügbar. Dieser Vorgang kann je nach Inhaltsmenge einige Zeit in Anspruch nehmen.",
+          "StartButton": "Vollindexierung starten",
+          "Running": "Indexierung läuft...",
+          "ConfirmTitle": "Vollindexierung starten",
+          "ConfirmMessage": "Möchten Sie wirklich eine vollständige semantische Suche-Indexierung starten?",
+          "StatusLoadError": "Der aktuelle Indexierungsstatus konnte nicht geladen werden.",
+          "StartError": "Die Vollindexierung konnte nicht gestartet werden."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Schriftart"
+    },
+    "TextStyles": {
+      "FontWeight": "Schriftstärke",
+      "FontWeightInvalid": "Geben Sie eine gültige Schriftstärke ein (normal, fett, fetter, leichter oder eine Zahl zwischen 1 und 1000).",
+      "InheritFromTenant": "Vom Tenant erben",
+      "ApplyEverywhere": "Überall anwenden",
+      "ApplyEverywhereDescription": "Wenn aktiviert, werden die integrierten Textstile auf alle passenden Elemente in der Lösung angewendet. Wenn deaktiviert, betreffen sie nur den Inhalt des Rich text editors. Benutzerdefinierte Textstile bleiben immer auf den Rich text editor beschränkt."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Screenshot, der zeigt, wo ein SharePoint App-Katalog-Site erstellt wird.",
+        "UploadPackageScreenshotAlt": "Screenshot, der zeigt, wo das SharePoint-Paket in Apps für SharePoint hochgeladen wird.",
+        "AvailableToAllSitesScreenshotAlt": "Screenshot, der die Option zeigt, das SharePoint-Paket für alle Sites verfügbar zu machen."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Termset-ID fehlt oder ist ungültig für dieses Taxonomie-Glossar.",
+      "Default": "Default",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Standard-Symbol und Farbe entfernen",
+        "Message": "Möchten Sie die Standard-Erscheinungsbild-Einstellungen wirklich entfernen?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Suchfeldstil",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365 Style",
+        "WCAGCompliant": "WCAG-konform"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Linkes Panel",
+          "LeftPanelLayoutsSettings": "Linkes Panel",
+          "CustomFontFamily": "Benutzerdefinierte Schriftfamilie",
+          "CenterMenu": "Zentriertes Menü",
+          "CenterMenuWidth": "Zentrierte Breite (px)",
+          "ForceUppercase": "Großschreibung erzwingen",
+          "ShowIcons": "Symbole anzeigen",
+          "HideText": "Text ausblenden"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Anzeige",
+        "HeadingElement": "Überschriftenelement",
+        "BorderRadius": "Randradius",
+        "Elevation": "Erhebung",
+        "ShowStatusText": "Status-Text anzeigen",
+        "ShowTypeIcon": "Typ-Symbol anzeigen",
+        "ShowDate": "Datum anzeigen",
+        "DateType": "Datumstyp",
+        "Social": "Sozial",
+        "Classic": "Klassisch",
+        "DateFormat": "Datumsformat",
+        "NoResultText": "Kein Ergebnis-Text",
+        "ModernAnnoucement": "Moderne Ankündigung"
+      },
+      "CommentCount": "{0} Kommentare"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Linkes Panel anzeigen",
+          "Category": "System",
+          "Description": "Zeigt das linke Panel in der aktuellen App-Instanz an."
+        },
+        "CopilotChat": {
+          "Title": "Copilot Chat"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analytics für SPFx",
+          "Description": "Ermöglicht automatisches Tracking der Benutzeraktivitäten auf SharePoint-Seiten via Matomo.",
+          "Category": "System"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Aktionsmenü"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Listenansicht"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Exportdatei {0} ist zum Download bereit."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Links verwalten"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Link mit dem Titel \"{LinkTitle}\" zu Meine Links hinzufügen",
+        "DeleteMyLinksAriaLabel": "Link mit dem Titel \"{LinkTitle}\" aus Meine Links löschen",
+        "RemoveMyLinksAriaLabel": "Link mit dem Titel \"{LinkTitle}\" aus Meine Links entfernen",
+        "EditLinkAriaLabel": "Link mit dem Titel \"{LinkTitle}\" bearbeiten"
+      },
+      "AppLaunch": {
+        "Back": "Zurück",
+        "CreateMore": "Mehr erstellen",
+        "Document": "Dokument",
+        "FindMicrosoft365Apps": "Microsoft 365 Apps finden",
+        "Presentation": "Präsentation",
+        "SearchBoxAriaLabel": "Suchfeld. Vorschläge erscheinen während der Eingabe.",
+        "SearchMicrosoft365Apps": "Alle Ihre Microsoft 365 Apps durchsuchen",
+        "SearchResults": "Suchergebnisse",
+        "Survey": "Umfrage",
+        "Workbook": "Arbeitsmappe"
+      },
+      "Component": {
+        "ShowMoreLinks": "Mehr Links anzeigen",
+        "ShowLessLinks": "Weniger Links anzeigen"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Beschriftung kürzen",
+        "IncludePersonalLinks": "Persönliche Links einbeziehen",
+        "IncludeFollowingLinks": "Gefolgte Links einbeziehen",
+        "ShowManageLinks": "Symbol zur Linkverwaltung anzeigen",
+        "ShowMoreButton": "Mehr-Button anzeigen",
+        "ShowMoreAriaLabel": "Aria-Label für Mehr-Button",
+        "ShowLessAriaLabel": "Aria-Label für Weniger-Button",
+        "HideShowMoreButton": "Mehr-Button ausblenden",
+        "HideLinkTitle": "Linktitel ausblenden",
+        "SquareDesign": "Quadratisches Design",
+        "FontSize": "Schriftgröße",
+        "IconSize": "Symbolgröße",
+        "IconMargin": "Symbolabstand",
+        "IconPadding": "Symbolpolster"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} ungelesene Benachrichtigungen in {0}",
+      "CategoryTabListLabel": "Benachrichtigungskategorien"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "{0} bearbeiten",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Feste Eigenschaften pro Zeile verwenden"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Suchvorlagen werden in der aufgelisteten Reihenfolge angewendet. Wenn ein Ergebnis mehreren Vorlagen entspricht, wird die erste Übereinstimmung verwendet.",
+        "LongDescription": "Lange Beschreibung",
+        "SearchFeedbackPosition": "Position des Suchfeedbacks",
+        "UserProperties": "Benutzereigenschaften",
+        "FilterValueTypes": {
+          "FilterValueType": "Filterwerttyp",
+          "FixedValue": "Fester Wert",
+          "CurrentUser": "Aktueller Benutzer"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Aus den mir zugänglichen Inhalten konnte ich keine Antwort auf Ihre Frage ermitteln.",
+          "RequestMoreContext": "Können Sie bitte mehr Kontext bereitstellen oder Ihre Frage präzisieren?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Suchergebnis verfeinern",
+        "RefinerExpandedLabel": "{0}, erweitert{1}",
+        "RefinerCollapsedLabel": "{0}, reduziert{1}",
+        "RefinerActiveFilterCount": ", {0} aktive Filter",
+        "RefinerOptionLabel": "{0}, {1} Ergebnisse",
+        "RefinerOptionSelectedLabel": "{0}, {1} Ergebnisse, ausgewählt",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, ausgewählt"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Titel",
+          "Description": "Beschreibung",
+          "Date": "Datum",
+          "FallbackDate": "Fallback-Datum",
+          "User": "Benutzer",
+          "FallbackUser": "Fallback-Benutzer",
+          "URL": "URL",
+          "ParentURL": "Übergeordnete URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "Suchvorlage für SharePoint-Listenelemente"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Suchvorlage für Personen"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Tutorial-Dialog",
+        "RegionLabel": "Tutorial-Dialog. Verwenden Sie die Tastaturnavigation, um zwischen den Tutorial-Schritten zu wechseln.",
+        "PreviousStep": "Vorheriger Tutorial-Schritt",
+        "NextStep": "Nächster Tutorial-Schritt",
+        "StepPickerLabel": "Tutorial-Schritte",
+        "StepButtonLabel": "Tutorial-Schritt {0} von {1} anzeigen"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint-Seitenübersicht",
+          "Summary": "SharePoint-Seiten auflisten."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint-Seitenübersicht",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Filter"
+        },
+        "FilterByExpirationTime": "Nach Ablaufzeit filtern",
+        "QueryConfigurationTypes": {
+          "PickPages": "Seiten auswählen",
+          "UseQueryBuilder": "Abfrage-Builder verwenden"
+        },
+        "QueryScope": {
+          "AllPages": "Alle Seiten",
+          "SharePointLibrary": "SharePoint-Bibliothek"
+        },
+        "SiteUrl": "Site-URL",
+        "Operators": {
+          "Equals": "Gleich",
+          "StartWith": "Beginnt mit",
+          "Contains": "Enthält",
+          "LessThan": "Kleiner als",
+          "GreaterThan": "Größer als"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuell",
+          "QueryParameter": "Abfrageparameter",
+          "UserLanguage": "Benutzersprache",
+          "UserEmail": "Benutzer-E-Mail",
+          "Today": "Heute"
+        },
+        "AddQueryFilter": "Abfragefilter hinzufügen",
+        "Summary": "Zusammenfassung",
+        "Image": "Bild",
+        "Date": "Datum",
+        "Person": "Person",
+        "Description": "Beschreibung",
+        "TermProperties": "Term-Eigenschaften",
+        "CardsPerRow": "Karten pro Reihe",
+        "ShowLikesComments": "Likes/Kommentare anzeigen",
+        "ShowLastActivity": "Letzte Aktivität anzeigen",
+        "ShowRating": "Bewertung anzeigen",
+        "OpenInNewTab": "In neuem Tab öffnen",
+        "AddColumn": "Spalte hinzufügen",
+        "FixedHeader": "Fixierte Kopfzeile",
+        "NoColumnSelected": "Keine Spalten ausgewählt. Bitte konfigurieren Sie die Spalten in den Einstellungen.",
+        "Width": "Breite",
+        "ShowLabel": "Beschriftung anzeigen",
+        "CustomLabel": "Benutzerdefinierte Beschriftung",
+        "InvalidUrl": "Die URL muss eine Seitenliste sein.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Seite entfernen",
+          "Message": "Möchten Sie diese Seite wirklich entfernen?"
+        },
+        "PickPages": {
+          "Title": "SharePoint-Seitenauswahl",
+          "AddPageLabel": "Seite hinzufügen",
+          "NoPagesFound": "Keine Seiten gefunden",
+          "Placeholder": "Seiten suchen...",
+          "PickInWriteMode": "Seiten im Schreibmodus auswählen"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Benutzerdefinierte Ansicht",
+        "CardView": "Kartenansicht"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "E-Mail",
+      "StartChatAction": "Chat mit",
+      "StartCallAction": "Anrufen"
+    }
+  }
+}

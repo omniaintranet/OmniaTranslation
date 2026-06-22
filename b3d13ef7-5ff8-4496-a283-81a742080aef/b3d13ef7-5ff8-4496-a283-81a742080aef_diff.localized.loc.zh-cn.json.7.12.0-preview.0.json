@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "语义搜索重新索引",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "文档已在语义搜索中重新索引。"
+        },
+        "Completed": "已完成",
+        "Find": "查找",
+        "Reindex": "重新索引",
+        "SearchPlaceholder": "搜索 ...",
+        "SelectDocumentTypesPlaceholder": "选择文档类型"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "更多"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "文档搜索模板"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "加载文档模板信息失败。"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "语义搜索索引失败。",
+        "SemanticSearchIndexing": "语义搜索索引中"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "语义搜索索引失败。",
+        "Message": "此文档已成功发布，但在索引到语义搜索时发生了问题。<br/>您想要重新触发索引过程吗？"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "索引到语义搜索时出现问题。请重试。"
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "文档库显示",
+      "BlockDescription": "显示选定的 SharePoint 文档库视图，包含文件夹、筛选器和导出功能。",
+      "Common": {
+        "ConfigurePrompt": "在设置中配置站点 URL、库以及视图或选定字段。",
+        "NoDataToShow": "无数据显示。",
+        "LoadMore": "加载更多",
+        "Name": "名称",
+        "RootFolder": "根目录",
+        "ExportToExcel": "导出到 Excel",
+        "Exporting": "正在生成 Excel 文件...",
+        "PreviousPage": "上一页",
+        "NextPage": "下一页",
+        "SortByColumn": "按列排序",
+        "ExpandGroup": "展开组",
+        "CollapseGroup": "折叠组",
+        "ItemType": "项目类型",
+        "FriendlyDates": {
+          "FewSecondsAgo": "几秒前",
+          "AboutMinuteAgo": "大约一分钟前",
+          "MinutesAgo": "{0} 分钟前",
+          "AboutHourAgo": "大约一小时前",
+          "HoursAgo": "{0} 小时前",
+          "Yesterday": "昨天",
+          "YesterdayAt": "昨天于",
+          "WeekdayAt": "{0} 于",
+          "DaysAgo": "{0} 天前",
+          "DaysAgoAt": "{0} 天前于"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "常规",
+          "Query": "查询",
+          "Display": "显示",
+          "Filter": "筛选",
+          "Export": "导出"
+        },
+        "SiteUrl": "站点 URL",
+        "PickLibrary": "选择库",
+        "FieldSelectionMode": "列来源",
+        "UseView": "使用 SharePoint 视图",
+        "SelectFieldsDirectly": "直接选择字段",
+        "View": "视图",
+        "Paging": "分页",
+        "PagingType": {
+          "NoPaging": "无分页",
+          "Classic": "经典"
+        },
+        "ItemLimit": "项目限制",
+        "PageSize": "每页行数",
+        "ShowBreadcrumb": "显示面包屑导航",
+        "DateDisplayMode": "日期类型",
+        "DateModeSource": "源格式（SharePoint 列表）",
+        "DateModeClassic": "经典",
+        "DateModeSocial": "社交",
+        "DateFormat": "日期格式",
+        "ShowExportToExcel": "显示导出到 Excel",
+        "DisplayFields": "显示字段",
+        "ColumnWidth": "宽度（像素）",
+        "ShowHeading": "显示标题"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "导出文件 {0} 已准备好下载。"
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "选择此页上的所有文档",
+        "SelectDocument": "选择文档",
+        "SelectDocumentWithTitle": "选择文档 {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "流程搜索模板"
+        }
+      }
+    }
+  }
+}

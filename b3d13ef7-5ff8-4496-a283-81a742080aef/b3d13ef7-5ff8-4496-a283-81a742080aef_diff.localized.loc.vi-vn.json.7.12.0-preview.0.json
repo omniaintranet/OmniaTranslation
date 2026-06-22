@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Đánh chỉ mục lại tìm kiếm ngữ nghĩa",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Tài liệu đã được đánh chỉ mục lại trong tìm kiếm ngữ nghĩa."
+        },
+        "Completed": "Hoàn thành",
+        "Find": "Tìm",
+        "Reindex": "Đánh chỉ mục lại",
+        "SearchPlaceholder": "Tìm kiếm ...",
+        "SelectDocumentTypesPlaceholder": "Chọn loại tài liệu"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "thêm"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Mẫu tìm kiếm tài liệu"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Không tải được thông tin mẫu tài liệu."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Đánh chỉ mục tìm kiếm ngữ nghĩa thất bại.",
+        "SemanticSearchIndexing": "Đang đánh chỉ mục tìm kiếm ngữ nghĩa"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Đánh chỉ mục tìm kiếm ngữ nghĩa thất bại.",
+        "Message": "Tài liệu này đã được xuất bản thành công, nhưng đã xảy ra sự cố khi đánh chỉ mục vào tìm kiếm ngữ nghĩa.<br/>Bạn có muốn kích hoạt lại quá trình đánh chỉ mục không?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Đã xảy ra lỗi khi đánh chỉ mục vào tìm kiếm ngữ nghĩa. Vui lòng thử lại."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Hiển thị thư viện tài liệu",
+      "BlockDescription": "Hiển thị một chế độ xem thư viện tài liệu SharePoint đã chọn với thư mục, bộ lọc và xuất dữ liệu.",
+      "Common": {
+        "ConfigurePrompt": "Cấu hình URL Site, thư viện và một chế độ xem hoặc các trường đã chọn trong cài đặt.",
+        "NoDataToShow": "Không có dữ liệu để hiển thị.",
+        "LoadMore": "Tải thêm",
+        "Name": "Tên",
+        "RootFolder": "Gốc",
+        "ExportToExcel": "Xuất ra Excel",
+        "Exporting": "Đang tạo file Excel...",
+        "PreviousPage": "Trang trước",
+        "NextPage": "Trang tiếp",
+        "SortByColumn": "Sắp xếp theo cột",
+        "ExpandGroup": "Mở rộng nhóm",
+        "CollapseGroup": "Thu gọn nhóm",
+        "ItemType": "Loại mục",
+        "FriendlyDates": {
+          "FewSecondsAgo": "Vài giây trước",
+          "AboutMinuteAgo": "Khoảng một phút trước",
+          "MinutesAgo": "{0} phút trước",
+          "AboutHourAgo": "Khoảng một giờ trước",
+          "HoursAgo": "{0} giờ trước",
+          "Yesterday": "Hôm qua",
+          "YesterdayAt": "Hôm qua lúc",
+          "WeekdayAt": "{0} lúc",
+          "DaysAgo": "{0} ngày trước",
+          "DaysAgoAt": "{0} ngày trước lúc"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Chung",
+          "Query": "Truy vấn",
+          "Display": "Hiển thị",
+          "Filter": "Bộ lọc",
+          "Export": "Xuất"
+        },
+        "SiteUrl": "URL Site",
+        "PickLibrary": "Chọn thư viện",
+        "FieldSelectionMode": "Nguồn cột",
+        "UseView": "Sử dụng chế độ xem SharePoint",
+        "SelectFieldsDirectly": "Chọn trường trực tiếp",
+        "View": "Chế độ xem",
+        "Paging": "Phân trang",
+        "PagingType": {
+          "NoPaging": "Không phân trang",
+          "Classic": "Cổ điển"
+        },
+        "ItemLimit": "Giới hạn mục",
+        "PageSize": "Số dòng mỗi trang",
+        "ShowBreadcrumb": "Hiển thị đường dẫn",
+        "DateDisplayMode": "Loại ngày",
+        "DateModeSource": "Định dạng nguồn (danh sách SharePoint)",
+        "DateModeClassic": "Cổ điển",
+        "DateModeSocial": "Xã hội",
+        "DateFormat": "Định dạng ngày",
+        "ShowExportToExcel": "Hiển thị xuất ra Excel",
+        "DisplayFields": "Trường hiển thị",
+        "ColumnWidth": "Chiều rộng (px)",
+        "ShowHeading": "Hiển thị tiêu đề"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Tệp xuất {0} đã sẵn sàng để tải xuống."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Chọn tất cả tài liệu trên trang này",
+        "SelectDocument": "Chọn tài liệu",
+        "SelectDocumentWithTitle": "Chọn tài liệu {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Mẫu tìm kiếm quy trình"
+        }
+      }
+    }
+  }
+}

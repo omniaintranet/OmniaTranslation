@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Kopniveau"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Alleen tekst"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Kanaalabonnementen"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigatiemodus",
+        "DisableNavigate": "Omleiden naar gemaakte pagina uitschakelen",
+        "NavigateToOmnia": "Navigeren naar Omnia-pagina",
+        "NavigateToSharePointFullPage": "Navigeren naar SharePoint volledige pagina"
+      },
+      "OpenInDialog": "Openen in dialoogvenster",
+      "DialogSummaryProperty": "Samenvattingsattribuut",
+      "DialogContentProperty": "Inhoudsattribuut",
+      "DialogImageProperty": "Afbeeldingsattribuut",
+      "DialogDateProperty": "Datumattribuut",
+      "DialogPropertyMappings": "Dialoog eigenschapskoppelingen",
+      "OverrideDefaultSettings": "Standaardinstellingen overschrijven",
+      "EnableRichText": "Rijke tekst inschakelen",
+      "EnableViewButtonOnDialog": "Bekijk-knop inschakelen in dialoogvenster",
+      "EnableMention": "Vermelding inschakelen"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint-paginaquery",
+        "SharepointPageQuery": "Basisquery",
+        "SharepointPageRollupQuery": "Basisquery voor SharePoint-pagina rollup"
+      },
+      "SemanticSearch": {
+        "Title": "Semantische zoekopdracht",
+        "ReindexContent": "Inhoud opnieuw indexeren",
+        "ReindexContentConfirmationTitle": "Volledige inhoudsindex uitvoeren",
+        "ReindexContentConfirmationDescription": "Weet u zeker dat u een volledige inhoudsindex op de tenant wilt uitvoeren?",
+        "ReindexContentMessage": "Herindexeer {0} pagina's (Geslaagd: {1}, Mislukt: {2})",
+        "Running": "Bezig",
+        "ResumeFromLastSync": "Doorgaan vanaf laatste synchronisatie",
+        "ResumeFromLastSyncTitle": "Doorgaan vanaf laatste synchronisatie",
+        "ResumeFromLastSyncDescription": "Weet u zeker dat u wilt doorgaan vanaf de laatste synchronisatie op de tenant?",
+        "QueueReindex": "In wachtrij voor verwerking…",
+        "Stopping": "Bezig met stoppen…",
+        "TerminateCurrentJob": "Huidige taak beëindigen",
+        "TerminateCurrentJobConfirmationTitle": "Huidige taak beëindigen",
+        "TerminateCurrentJobConfirmationDescription": "Weet u zeker dat u de huidige taak wilt beëindigen?"
+      },
+      "DefaultRendering": {
+        "Title": "Standaardweergave",
+        "Description": "Definieert een standaardweergave-applicatie-instantie die wordt gebruikt als fallback wanneer de huidige site geen volledige pagina-ervaring heeft ingeschakeld.",
+        "SelectLabel": "Selecteer standaardweergave-applicatie-instantie",
+        "DialogSettingsTitle": "Standaard dialoogconfiguratie",
+        "EnableRichText": "Rijke tekst inschakelen",
+        "EnableViewButtonOnDialog": "Bekijk-knop inschakelen in dialoogvenster",
+        "EnableMention": "Vermelding inschakelen",
+        "DialogSummary": "Dialoog samenvatting",
+        "DialogContent": "Dialoog inhoud",
+        "DialogImage": "Dialoog afbeelding",
+        "DialogDate": "Dialoog datum"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Afbeelding links",
+        "ImageOnRight": "Afbeelding rechts"
+      },
+      "Editor": {
+        "OnThisPage": "Secties",
+        "LivePreview": "Live voorbeeld",
+        "Menu": {
+          "Style": "Stijl"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Afbeelding/tekst verhouding",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Elevatie",
+        "BorderRadius": "Randradius",
+        "BorderWidth": "Randdikte",
+        "BorderColor": "Randkleur",
+        "AddMedia": "Media toevoegen",
+        "ChangeMedia": "Media wijzigen",
+        "RemoveMedia": "Media verwijderen",
+        "TitleElement": "Titel element",
+        "TitleElements": {
+          "Default": "Standaard",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Stijlvoorinstelling",
+        "Query": "Query",
+        "CurrentNodeIndicator": "Huidige knoop indicator",
+        "Separator": "Scheidingsteken",
+        "FontSizeSpacing": "Lettergrootte & afstand",
+        "FontSize": "Lettergrootte",
+        "Density": "Dichtheid",
+        "Compact": "Compact",
+        "Comfortable": "Comfortabel",
+        "Spacious": "Ruim",
+        "HoverState": "Hover status",
+        "IndicatorColor": "Indicator kleur",
+        "SeparatorColor": "Scheidingsteken kleur",
+        "HoverColor": "Hover kleur",
+        "LivePreview": "Live voorbeeld",
+        "OmniaClassic": "Omnia klassiek",
+        "OmniaClassicDescription": "Huidige Omnia breadcrumb-styling",
+        "MinimalSlash": "Minimale schuine streep",
+        "MinimalSlashDescription": "Scheidingsteken schuine streep - gekleurde hover",
+        "PillCurrent": "Huidige pil",
+        "PillCurrentDescription": "Getinte pil op huidige - tint hover",
+        "BoldUnderline": "Vetgedrukt huidig",
+        "BoldUnderlineDescription": "Vetgedrukte huidige knoop - onderstreping hover",
+        "ArrowTrail": "Pijlspoor",
+        "ArrowTrailDescription": "Pijlscheiding - gekleurd huidig",
+        "DotDivider": "Punt scheiding",
+        "DotDividerDescription": "Punt scheiding - gekleurde hover",
+        "Custom": "Aangepast",
+        "Plain": "Eenvoudig",
+        "Bold": "Vet",
+        "Color": "Kleur",
+        "Pill": "Pil",
+        "Chevron": "Chevron",
+        "Slash": "Schuine streep",
+        "Arrow": "Pijl",
+        "Dot": "Punt",
+        "Pipe": "Pijp",
+        "Guillemet": "Hoek",
+        "None": "Geen",
+        "Underline": "Onderstrepen",
+        "Tint": "Tint"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content flow",
+        "BlockSummary": "Maak gestructureerde paginainhoud met tekst, media en citaten.",
+        "Placeholder": "Content Flow-weergave is beschikbaar zodra blokopslag is geïmplementeerd.",
+        "Media": {
+          "AddImage": "Media toevoegen",
+          "EditImage": "Media bewerken",
+          "RemoveImage": "Media verwijderen",
+          "ReplaceImage": "Media vervangen",
+          "PlaceholderTitle": "Media toevoegen",
+          "PlaceholderDescription": "Selecteer een afbeelding of video uit de mediatheek voor dit Content flow media blok.",
+          "Width": {
+            "Label": "Media breedte",
+            "Content": "Inhoud",
+            "Wide": "Breed",
+            "Full": "Volledig",
+            "FullBleed": "Volledig doorlopend"
+          }
+        },
+        "Text": {
+          "Placeholder": "Schrijf iets, of druk op '/' voor sjablonen...",
+          "QuotePlaceholder": "Voeg citaattekst toe...",
+          "QuoteAttributionLabel": "Toeschrijving",
+          "QuoteSourceLabel": "Bron"
+        },
+        "Person": {
+          "PickerLabel": "Persoon",
+          "EmptyName": "Selecteer een persoon",
+          "TextPlaceholder": "Schrijf een korte profieltekst, citaat of spotlight-tekst..."
+        },
+        "Spacing": {
+          "Label": "Afstand"
+        },
+        "Editor": {
+          "AddBlock": "Blok toevoegen",
+          "AddBelow": "Toevoegen onder",
+          "AddFirstBlock": "Voeg uw eerste blok toe",
+          "Convert": "Converteren",
+          "ConvertTo": "Converteren naar",
+          "Delete": "Verwijderen",
+          "DragToReorder": "Slepen om te herschikken",
+          "Duplicate": "Dupliceren",
+          "InheritedContent": "Dit blok hergebruikt gekoppelde content flow-inhoud.",
+          "InsertTemplate": "Sjabloon invoegen",
+          "MoveDown": "Naar beneden verplaatsen",
+          "MoveUp": "Naar boven verplaatsen",
+          "PickTemplateToStart": "Kies een sjabloon om te beginnen met samenstellen.",
+          "Ratio": "Verhouding",
+          "SearchTemplates": "Zoek een sjabloon...",
+          "SearchTemplatesShort": "Zoek sjablonen...",
+          "Templates": "Sjablonen",
+          "KeyboardNavigate": "↑↓ Navigeren",
+          "KeyboardInsert": "↵ Invoegen",
+          "KeyboardCancel": "Esc annuleren",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Inhoudsbreedte",
+          "WidthWideTitle": "Breed",
+          "WidthFullTitle": "Volledig doorlopend",
+          "RatioEqualTitle": "Gelijke kolommen",
+          "RatioNarrowWideTitle": "Smalle links, brede rechts",
+          "RatioWideNarrowTitle": "Brede links, smalle rechts",
+          "InnerDivider": "Binnenste scheidingsteken aan/uit"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Tekst",
+            "Description": "Een enkel rijk tekstblok."
+          },
+          "Media": {
+            "Title": "Media",
+            "Description": "Een enkel mediablok."
+          },
+          "MediaText": {
+            "Title": "Media + Tekst",
+            "Description": "Media links, tekst rechts."
+          },
+          "MediaGallery": {
+            "Title": "Mediagalerij",
+            "Description": "Twee rijen van drie mediablokken."
+          },
+          "TextMedia": {
+            "Title": "Tekst + Media",
+            "Description": "Tekst links, media rechts."
+          },
+          "Person": {
+            "Title": "Persoon",
+            "Description": "Belicht een persoon met avatar, naam en aangrenzende tekst."
+          },
+          "Quote": {
+            "Title": "Citaat",
+            "Description": "Een citaatgerichte rijk tekstblok."
+          },
+          "Spacing": {
+            "Title": "Afstand",
+            "Description": "Voeg aanpasbare verticale ruimte toe tussen blokken."
+          },
+          "Divider": {
+            "Title": "Scheidingsteken",
+            "Description": "Voeg een eenvoudige horizontale scheidingslijn toe."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Maken met AI",
+          "AddWithAiPlaceholder": "Beschrijf de inhoud en ik voeg het voor je toe",
+          "ApplyPreview": "Voorbeeld toepassen",
+          "Cancel": "Annuleren",
+          "CurrentRowScope": "Huidige rij",
+          "DialogTitle": "AI assistentie",
+          "DocumentScope": "Hele document",
+          "EmptyPromptError": "Voer een instructie in voordat u een voorbeeld genereert.",
+          "GeneratePreview": "Voorbeeld genereren",
+          "GeneratePage": "Pagina genereren",
+          "GenerationBlockComplete": "Het blok is klaar.",
+          "GenerationBlockSelecting": "Blok selecteren",
+          "GenerationBlockTitle": "Blok genereren",
+          "GenerationBlockWriting": "Inhoud schrijven",
+          "GenerationComplete": "De pagina is klaar.",
+          "GenerationOutline": "Een pagina-overzicht maken op basis van uw instructie.",
+          "GenerationRowGenerated": "Schrijven rij {current} van {total}.",
+          "GenerationRowsInserted": "{total} tijdelijke rijen ingevoegd en begonnen met vullen.",
+          "GenerationStepComplete": "Klaar",
+          "GenerationStepContent": "Inhoud schrijven",
+          "GenerationStepOutline": "Overzicht",
+          "GenerationStepRows": "Rijen plaatsen",
+          "GenerationTitle": "Pagina genereren",
+          "GenerateBlock": "Blok genereren",
+          "InvalidCurrentRowResponse": "Het voorbeeld voor een huidige rij moet precies één rij bevatten.",
+          "InvalidPreviewError": "Genereer een geldig voorbeeld voordat u wijzigingen toepast.",
+          "Open": "AI assistentie",
+          "PreviewJson": "Voorbeeld JSON",
+          "PreviewReady": "Voorbeeld gegenereerd. Controleer de JSON voordat u toepast.",
+          "PromptLabel": "Instructie",
+          "PromptPlaceholder": "Beschrijf wat de AI moet maken of verbeteren...",
+          "RawResponse": "Ruwe AI-respons",
+          "ScopeLabel": "AI toepassen op",
+          "SelectedRowRequired": "Selecteer een rij voordat u AI voor huidige rij gebruikt.",
+          "Send": "Verzenden",
+          "ShortcutFallbackTitle": "AI snelkoppeling",
+          "ValidationIssues": "Validatieproblemen"
+        },
+        "Settings": {
+          "Title": "Content flow instellingen",
+          "Placeholder": "Content flow instellingen zijn beschikbaar zodra blokopslag is geïmplementeerd.",
+          "Categories": {
+            "General": "Algemeen",
+            "Layout": "Lay-out",
+            "Media": "Media",
+            "Divider": "Scheidingsteken",
+            "Editor": "Editor",
+            "AiAssistance": "AI assistentie"
+          },
+          "RowSpacing": "Rijafstand",
+          "RowSpacingHint": "Stelt de verticale afstand tussen content flow rijen in.",
+          "ColumnSpacing": "Kolomafstand",
+          "ColumnSpacingHint": "Stelt de afstand tussen kolommen en galerij-items in content flow rijen in.",
+          "MediaBorderRadius": "Media randradius",
+          "MediaBorderRadiusHint": "Stelt de randradius in voor alle mediablokken in de editor.",
+          "DividerStyle": "Stijl",
+          "DividerColor": "Kleur",
+          "DividerOpacity": "Doorzichtigheid",
+          "DividerWeight": "Dikte",
+          "DividerWidth": "Breedte",
+          "DividerStyleLine": "Lijn",
+          "DividerStyleDashed": "Gestreept",
+          "DividerStyleDotted": "Gepunt",
+          "DividerStyleDoubleLine": "Dubbele lijn",
+          "DividerStyleDoubleDashed": "Dubbel gestreept",
+          "DividerStyleDoubleDotted": "Dubbel gepunt",
+          "ConfirmDelete": "Verwijderen bevestigen",
+          "ConfirmDeleteHint": "Toon een bevestigingspop-up voordat een content flow blok wordt verwijderd.",
+          "ConfirmDeleteTitle": "Blok verwijderen?",
+          "ConfirmDeleteMessage": "Dit blok wordt verwijderd uit de content flow.",
+          "EnableAiAssistance": "AI assistentie inschakelen",
+          "EnableAiAssistanceHint": "Schakelt de AI-actie in de werkbalk en volledige paginageneratie in.",
+          "AiMediaProvider": "AI mediaprovider",
+          "AiMediaProviderHint": "Selecteert hoe gegenereerde paginamediablokken worden gevuld tijdens volledige pagina AI-generatie.",
+          "AiMediaProviderNone": "Geen",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Prompt voor selectie van bloksjabloon",
+            "Cancel": "Annuleren",
+            "Description": "Configureer de promptinstructies die Content flow AI gebruikt binnen dit bedrijfsprofiel.",
+            "GlobalPostPrompt": "Globale post-prompt",
+            "GlobalPrePrompt": "Globale pre-prompt",
+            "LoadError": "De opgeslagen promptinstellingen konden niet worden geladen. Standaardwaarden worden getoond.",
+            "ResetToDefaults": "Terugzetten naar standaardwaarden",
+            "SaveError": "De promptinstellingen konden niet worden opgeslagen.",
+            "Saved": "Promptinstellingen opgeslagen.",
+            "TemplatePrompts": "Sjabloon prompts",
+            "Title": "Content flow AI prompts"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Ongeldige JSON is vervangen door een standaarddocument.",
+          "MissingDocumentDefaultCreated": "Ontbrekend document is vervangen door een standaarddocument.",
+          "SchemaMigrated": "Document is genormaliseerd naar Content flow schema versie 1.",
+          "SchemaInvalid": "Content flow documenten moeten schema versie 1 gebruiken.",
+          "RowsEmpty": "Content flow documenten moeten ten minste één rij bevatten.",
+          "RowIdMissing": "Rij-ID is vereist.",
+          "RowTemplateInvalid": "Rij-sjabloontype wordt niet ondersteund.",
+          "BlocksEmpty": "Een rij moet ten minste één blok bevatten.",
+          "BlockIdMissing": "Blok-ID is vereist.",
+          "TextMissing": "Een tekstblok moet tekstinhoud bevatten.",
+          "MediaMissing": "Een mediablok moet mediainhoud bevatten.",
+          "QuoteMissing": "Een citaatblok moet rijke tekstinhoud bevatten.",
+          "SpacingMissing": "Een afstandsblok moet afstandsinstellingen bevatten.",
+          "RowInvalid": "Ongeldige rij is vervangen door een tekstrij.",
+          "BlockInvalid": "Ongeldig blok is vervangen door een tekstblok.",
+          "LegacyTextMigrated": "Legacy tekstinhoud is gemigreerd naar een tekstrij.",
+          "LegacyMediaMigrated": "Legacy mediainhoud is gemigreerd naar een mediarij."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia volledige pagina-ervaring",
+          "Summary": "Gebruik dit blok om een volledige pagina-ervaring aan een pagina toe te voegen."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "Systeem",
+          "Description": "Voorzie een systeem pagina in de SharePoint site paginabibliotheek.",
+          "Title": "Omnia volledige pagina-ervaring"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Scheidingsteken",
+      "Title": "Scheidingsteken",
+      "Description": "Voeg een scheidingsteken toe aan de pagina",
+      "Settings": {
+        "WelcomeTitle": "Scheidingsteken",
+        "Description": "Voeg een scheidingsteken toe aan de pagina",
+        "Display": "Weergave",
+        "StyleSection": "Stijl",
+        "Style": "Stijl",
+        "Color": "Kleur",
+        "Opacity": "Doorzichtigheid",
+        "Weight": "Dikte",
+        "Width": "Breedte",
+        "Line": "Lijn",
+        "Dashed": "Gestreept",
+        "Dotted": "Gepunt",
+        "DoubleLine": "Dubbele lijn",
+        "DoubleDashed": "Dubbel gestreept",
+        "DoubleDotted": "Dubbel gepunt"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Details tonen"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "Toegankelijke titel IFrame",
+        "CustomUrlTitle": "Aangepaste URL",
+        "PropertyUrlTitle": "URL van eigenschap"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Selecteer paginatypes"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Labelpictogram met waarde tonen"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Stijlvoorinstelling",
+        "General": "Algemeen",
+        "CurrentNodeIndicator": "Huidige knoop indicator",
+        "OpenCollapse": "Openen & inklappen",
+        "OpenCollapseColor": "Openen & inklappen kleur",
+        "RowDensity": "Rij dichtheid",
+        "HoverState": "Hover status",
+        "HoverColor": "Hover kleur",
+        "IndentGuide": "Inspringgids",
+        "IndicatorColor": "Indicator kleur",
+        "RowFontSize": "Rij lettergrootte",
+        "LivePreview": "Live voorbeeld",
+        "OmniaClassic": "Omnia klassiek",
+        "OmniaClassicDescription": "Huidige Omnia navigatiestijl",
+        "MaterialClassic": "Material klassiek",
+        "MaterialClassicDescription": "Vetgedrukte primaire tekst - chevron rechts",
+        "LeftBarAccent": "Linker balk accent",
+        "LeftBarAccentDescription": "Zijbalk markering - chevron rechts",
+        "TintedPill": "Getinte pil",
+        "TintedPillDescription": "Gevulde actieve rij - plus/minus inklappen",
+        "CompactRowClick": "Compact + rij-klik",
+        "CompactRowClickDescription": "Dichte rijen - hele rij schakelt",
+        "TreePill": "Boom + pil",
+        "TreePillDescription": "Verbindingslijnen - gevulde pilmarkering",
+        "Custom": "Aangepast",
+        "LeftBar": "Linker balk",
+        "FilledPill": "Gevulde pil",
+        "BoldColor": "Vette kleur",
+        "Dot": "Punt",
+        "Outline": "Omtrek",
+        "ChevronRight": "Chevron rechts",
+        "ChevronLeft": "Chevron links",
+        "PlusMinus": "Plus/min",
+        "PlusMinusLeft": "Plus/min links",
+        "RowClick": "Rij klik",
+        "Compact": "Compact",
+        "Comfortable": "Comfortabel",
+        "Spacious": "Ruim",
+        "Tint": "Tint",
+        "Underline": "Onderstrepen",
+        "Bold": "Vet",
+        "None": "Geen",
+        "Dotted": "Gepunt",
+        "Solid": "Vast",
+        "Tree": "Boom"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Deze paginavariatie is vergrendeld vanwege machinaal vertalen.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Afbeelding toevoegen",
+          "ImageDescription": "Mogelijkheid om een afbeelding of video aan de pagina toe te voegen."
+        },
+        "PageTitle150MaxLengthValidation": "De titel heeft de limiet van 150 tekens bereikt en kan niet worden opgeslagen."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Kolombreedte"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia pagina zoektemplate"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint pagina zoektemplate"
+      },
+      "Fields": {
+        "Title": "Titel",
+        "Description": "Beschrijving",
+        "Date": "Datum",
+        "FallbackDate": "Terugvaldatum",
+        "User": "Gebruiker",
+        "FallbackUser": "Terugvalgebruiker",
+        "URL": "URL",
+        "ParentURL": "Ouder-URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Openen in SharePoint volledige pagina"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Status",
+        "Success": "Succes",
+        "Error": "Fout",
+        "Running": "Bezig",
+        "Stopping": "Bezig met stoppen"
+      },
+      "Started": "Gestart",
+      "Ended": "Beëindigd",
+      "CreatedBy": "Gemaakt door",
+      "Summary": "Samenvatting",
+      "ReindexContentMessage": "Herindexeer {0} pagina's (Geslaagd: {1}, Mislukt: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint-pagina's",
+      "SelectSharePointSite": "Selecteer SharePoint-site",
+      "SearchPages": "Pagina's zoeken",
+      "SPPageNotFound": "Deze SharePoint-pagina kon niet worden gevonden",
+      "NoSPPagesFound": "Geen SharePoint-pagina's gevonden",
+      "LoadingSPPages": "SharePoint-pagina's laden...",
+      "SelectAllPagesOnCurrentPage": "Selecteer alle pagina's op de huidige pagina",
+      "CurrentSPPage": "Huidige SP-pagina",
+      "SPPageProviderTableHeader": {
+        "FileName": "Bestandsnaam",
+        "Title": "Titel",
+        "Modified": "Gewijzigd",
+        "ModifiedBy": "Gewijzigd door",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Aantal geregistreerde deelnemers verbergen (lezer)",
+          "General": "Algemeen",
+          "Display": "Weergave",
+          "StylePreset": "Stijlvoorinstelling",
+          "LivePreview": "Live voorbeeld",
+          "ShowIcon": "Pictogram tonen",
+          "ShowNumbers": "Nummers tonen",
+          "Icon": "Pictogram",
+          "Meter": "Meter",
+          "Color": "Kleur",
+          "Size": "Grootte",
+          "StatusBadge": "Statusbadge",
+          "None": "Geen",
+          "Bar": "Balk",
+          "SeatGrid": "Stoelrooster",
+          "Neutral": "Neutraal",
+          "Primary": "Primair",
+          "Semantic": "Semantisch",
+          "Custom": "Aangepast",
+          "CustomColor": "Aangepaste kleur",
+          "Compact": "Compact",
+          "Default": "Standaard",
+          "Large": "Groot",
+          "PreviewRegistered": "Voorbeeld geregistreerd",
+          "PreviewCapacity": "Voorbeeld capaciteit"
+        },
+        "Presets": {
+          "Classic": "Klassiek",
+          "ClassicDescription": "Pictogram en telling",
+          "Progress": "Voortgang",
+          "ProgressDescription": "Telling met meter",
+          "BigNumber": "Groot nummer",
+          "BigNumberDescription": "Focus op grote telling",
+          "SeatGrid": "Stoelrooster",
+          "SeatGridDescription": "Visuele capaciteit cellen",
+          "Status": "Status",
+          "StatusDescription": "Semantische meter en badge",
+          "Minimal": "Minimaal",
+          "MinimalDescription": "Alleen compacte telling"
+        },
+        "Status": {
+          "Available": "Beschikbaar",
+          "FillingUp": "Bezig met vullen",
+          "AlmostFull": "Bijna vol",
+          "SoldOut": "Uitverkocht"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Evenementenkaart"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Call to action stijl",
+        "Description": "Configureer het uiterlijk van Call to action knoppen in uw applicatie.",
+        "PreviewButton": "Voorbeeldknop"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Tracking",
+        "JoinTeamsMeeting": "Deelnemen",
+        "IconLabels": {
+          "DateTime": "Datum en tijd",
+          "Location": "Locatie",
+          "Description": "Beschrijving"
+        },
+        "ResponseMessage": {
+          "Accept": "Geaccepteerd",
+          "Tentative": "Voorlopig",
+          "Declined": "Afgewezen"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Call to action"
+        },
+        "Extensions": {
+          "CallToAction": "Call to action"
+        }
+      },
+      "CallToAction": {
+        "Title": "Titel",
+        "Url": "URL",
+        "Save": "Opslaan",
+        "Cancel": "Annuleren",
+        "LinkNotSupported": "De opgegeven link wordt niet ondersteund."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Openen in client-app",
+        "OpenInWeb": "Openen in web",
+        "OpenInWebNewTab": "Openen in web in nieuw tabblad",
+        "DocumentLinkHandlerNote": "Links worden globaal afgehandeld, dit kan het gedrag van bovenstaande keuzes beïnvloeden.",
+        "NoDocumentPickers": "Geen documentkiezer geconfigureerd."
+      },
+      "User": {
+        "Label": "Gebruiker",
+        "FindUser": "Gebruiker zoeken"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint pagina kiezer",
+        "Name": "SharePoint pagina",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint pagina categorieën",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Categorie verwijderen",
+            "Message": "Weet u zeker dat u deze SharePoint pagina categorie wilt verwijderen?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Filter toevoegen",
+            "AdjustFilters": "Filters aanpassen",
+            "Done": "Gereed",
+            "TermSetNotFound": "Termenset niet gevonden",
+            "SearchBox": "Zoekvak (Eigenschappen)",
+            "SearchBoxProperties": "SharePoint pagina eigenschappen",
+            "FullTextSearch": "Zoekvak (Volledige tekst)",
+            "SearchOnSPPageTitleAnd": "Zoeken op SharePoint paginatitel en",
+            "EnableWildcardSearch": "Deelwoord zoeken inschakelen",
+            "ShowSearchBox": "Zoekvak tonen",
+            "SearchTextLabel": "Zoektekst",
+            "AdjustWidthPlaceholder": "Breedte",
+            "CollapseFilter": "Filter standaard verbergen"
+          },
+          "SearchCategories": "Categorieën zoeken",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint bibliotheek",
+            "SearchCategory": "Zoekcategorie"
+          },
+          "SharePointLibraryUrl": "SharePoint bibliotheek URL",
+          "LibraryNotExistedMessage": "Kan geen bibliotheek vinden op deze URL.",
+          "DateFilter": {
+            "From": "Van",
+            "To": "Tot"
+          },
+          "Common": {
+            "Yes": "Ja",
+            "No": "Nee",
+            "All": "Alle"
+          }
+        },
+        "AddDocument": "Document toevoegen",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Document verwijderen",
+            "Message": "Weet u zeker dat u dit document wilt verwijderen?"
+          }
+        },
+        "NoSharePointPagePicker": "Geen SharePoint pagina kiezers geconfigureerd",
+        "NoResultMessage": "Geen pagina gevonden",
+        "ResolveUserErrorMessage": "Fout bij filteren persoon"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Pagina niet gevonden"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Tonen in dialoogvenster"
+      },
+      "NodePicker": {
+        "Header": "Selecteer navigatieknoop"
+      },
+      "ListView": {
+        "TargetReached": "Doel bereikt",
+        "TargetNotReached": "Doel niet bereikt"
+      },
+      "CardView": {
+        "VisitPage": "Pagina openen",
+        "PageImage": "Pagina afbeelding",
+        "PlaceholderImageIfEmpty": "Plaatsvervangende afbeelding indien leeg",
+        "CardType": {
+          "ImageRight": "Afbeelding rechts",
+          "ImageLeft": "Afbeelding links"
+        },
+        "TitleElement": "Titel element",
+        "TitleElements": {
+          "Custom": "Aangepast",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Afbeelding/tekst verhouding",
+        "RatioImageNarrowTitle": "Afbeelding 30%, tekst 70%",
+        "RatioEqualTitle": "Afbeelding 50%, tekst 50%",
+        "RatioImageWideTitle": "Afbeelding 70%, tekst 30%",
+        "ShowAsText": "Persoon als tekst tonen"
+      },
+      "EventCard": {
+        "StartDate": "Startdatum evenement",
+        "EndDate": "Einddatum evenement",
+        "Location": "Locatie",
+        "EventDate": "Evenementdatum",
+        "EventStatus": "Evenementstatus",
+        "AllDayProperty": "Hele dag eigenschap",
+        "ShowDateOnImage": "Evenementdata op afbeelding tonen",
+        "ShowLocation": "Locatie tonen",
+        "ShowRegisteredCapacity": "Aantal aanmeldingen tonen",
+        "ShowRegistrationStatus": "Registratiestatus tonen",
+        "ShowPastEventStatus": "Status van afgelopen evenement tonen",
+        "ShowAllDayStatus": "Hele dag status tonen",
+        "ShowTeamsMeetingStatus": "Teams-vergaderstatus tonen",
+        "JoinTeamsMeeting": "Deelnemen aan Teams-vergadering",
+        "MovePropertyUp": "Verplaats {0} omhoog",
+        "MovePropertyDown": "Verplaats {0} omlaag",
+        "RemoveTermProperty": "Verwijder {0}",
+        "DateSettings": "Datuminstellingen",
+        "StartDateSettings": "Startdatum evenement instellingen",
+        "EndDateSettings": "Einddatum evenement instellingen",
+        "RegistrationOpen": "Registratie open",
+        "RegistrationClosed": "Registratie gesloten",
+        "FullyBooked": "Volgeboekt",
+        "PastEvent": "Afgelopen evenement",
+        "AllDay": "Hele dag",
+        "TeamsMeeting": "Teams-vergadering"
+      },
+      "ListingWithImage": {
+        "Properties": "Eigenschappen",
+        "AddProperty": "Eigenschap toevoegen",
+        "PropertiesSeparator": "Eigenschappen scheidingsteken",
+        "WhiteSpace": "Witruimte",
+        "Property": "Eigenschap",
+        "NoPropertySelected": "Geen eigenschap geselecteerd",
+        "DateModeDefault": "Standaard",
+        "DateModeClassic": "Klassiek",
+        "DateModeSocial": "Sociaal",
+        "HideAvatar": "Avatar verbergen",
+        "ShowAsText": "Tonen als tekst",
+        "SeparatorType": "Type scheidingsteken",
+        "RightAlignLikesComments": "Likes en reacties rechts uitlijnen"
+      },
+      "Common": {
+        "ShowMetricDetails": "Details tonen",
+        "AllowLiking": "Liken toestaan",
+        "FileReadyForDownload": "Exportbestand {0} is klaar voor download.",
+        "OpenInSharePointFullPage": "Openen in SharePoint volledige pagina"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Kaartweergave (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Selecteer jaar",
+          "MonthSelector": "Selecteer maand",
+          "WeekSelector": "Selecteer week",
+          "DateSelector": "Selecteer datum"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semantische zoekopdracht",
+          "SemanticSearchLogs": "Inhoud opnieuw indexeren - Logs",
+          "ReindexContent": "Inhoud opnieuw indexeren",
+          "Logging": "Logboekregistratie",
+          "ReindexContentMessageProgress": "Voltooid {0} van {1} pagina's (geslaagd: {2}, mislukt: {3}) in {4}",
+          "ReindexContentMessage": "Herindexeer {0} pagina's (geslaagd: {1}, mislukt: {2}) in {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Weet u zeker dat u inhoud voor semantische zoekopdracht wilt herindexeren?",
+          "QueueReindex": "In wachtrij voor verwerking…",
+          "Stopping": "Bezig met stoppen…",
+          "TerminateCurrentJob": "Huidige taak beëindigen",
+          "TerminateCurrentJobConfirmationTitle": "Huidige taak beëindigen",
+          "TerminateCurrentJobConfirmationDescription": "Weet u zeker dat u de huidige taak wilt beëindigen?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Bewerken in Omnia"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "Volledige paginaweergave inschakelen",
+        "EnableEnhancedCopilotIntegration": "Verbeterde Copilot-integratie inschakelen",
+        "Copilot": {
+          "Headline": "Paginametadata",
+          "PropertyTemplate": "De {0} voor deze pagina is {1}",
+          "BusinessProfile": "Het bedrijfsprofiel voor deze pagina is {0}",
+          "PublishingApp": "De publicatie-app voor deze pagina is {0}",
+          "PageCollection": "De paginacollectie voor deze pagina is {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "Pagina bewerken"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Reactiesjabloon",
+        "CommentTemplateOptions": {
+          "Default": "Standaard",
+          "Threaded": "Gestructureerd"
+        },
+        "ThreadedComments": "Gestructureerde reacties",
+        "CustomInputStyle": "Aangepaste invoerstijl",
+        "Elevation": "Elevatie",
+        "BorderThickness": "Randdikte",
+        "BorderRadius": "Randradius",
+        "BorderColor": "Randkleur",
+        "TextColor": "Tekstkleur",
+        "BackgroundColor": "Achtergrondkleur",
+        "EnableRichTextPageFeedback": "Opmaak",
+        "OverrideDefaultSettings": "Standaardinstellingen overschrijven",
+        "DeletedCommentMessage": {
+          "Label": "Verwijderd reactiebericht",
+          "Always": "Altijd",
+          "Never": "Nooit",
+          "WhenReferenced": "Wanneer verwezen"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Delen toestaan"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia volledige pagina-ervaring",
+        "Description": "Een volledige pagina-ervaring component voor het weergeven van inhoud over de hele pagina."
+      },
+      "Settings": {
+        "AllowEdit": "Bewerken toestaan",
+        "Title": "Titel",
+        "SelectedPage": "Geselecteerde pagina"
+      }
+    }
+  }
+}

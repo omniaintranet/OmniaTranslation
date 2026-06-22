@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantic search reindex",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "The document was reindexed in semantic search."
+        },
+        "Completed": "Completed",
+        "Find": "Find",
+        "Reindex": "Reindex",
+        "SearchPlaceholder": "Search …",
+        "SelectDocumentTypesPlaceholder": "Select document types"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "more"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Document search template"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Failed to load document template information."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Semantic search indexing failed.",
+        "SemanticSearchIndexing": "Semantic search indexing"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Semantic search indexing failed.",
+        "Message": "This document has been published successfully, but an issue occurred while indexing it to Semantic search.<br/>Do you want to trigger the indexing process again?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Something went wrong while indexing to semantic search. Please try again."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Document library display",
+      "BlockDescription": "Display a selected SharePoint document library view with folders, filters and export.",
+      "Common": {
+        "ConfigurePrompt": "Configure Site URL, library and either a view or selected fields in settings.",
+        "NoDataToShow": "No data to show.",
+        "LoadMore": "Load more",
+        "Name": "Name",
+        "RootFolder": "Root",
+        "ExportToExcel": "Export to Excel",
+        "Exporting": "Generating Excel file…",
+        "PreviousPage": "Previous page",
+        "NextPage": "Next page",
+        "SortByColumn": "Sort by column",
+        "ExpandGroup": "Expand group",
+        "CollapseGroup": "Collapse group",
+        "ItemType": "Item type",
+        "FriendlyDates": {
+          "FewSecondsAgo": "A few seconds ago",
+          "AboutMinuteAgo": "About a minute ago",
+          "MinutesAgo": "{0} minutes ago",
+          "AboutHourAgo": "About an hour ago",
+          "HoursAgo": "{0} hours ago",
+          "Yesterday": "Yesterday",
+          "YesterdayAt": "Yesterday at",
+          "WeekdayAt": "{0} at",
+          "DaysAgo": "{0} days ago",
+          "DaysAgoAt": "{0} days ago at"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "General",
+          "Query": "Query",
+          "Display": "Display",
+          "Filter": "Filter",
+          "Export": "Export"
+        },
+        "SiteUrl": "Site URL",
+        "PickLibrary": "Pick library",
+        "FieldSelectionMode": "Column source",
+        "UseView": "Use SharePoint view",
+        "SelectFieldsDirectly": "Select fields directly",
+        "View": "View",
+        "Paging": "Paging",
+        "PagingType": {
+          "NoPaging": "No paging",
+          "Classic": "Classic"
+        },
+        "ItemLimit": "Item limit",
+        "PageSize": "Rows per page",
+        "ShowBreadcrumb": "Show breadcrumb",
+        "DateDisplayMode": "Date type",
+        "DateModeSource": "Source formatting (SharePoint list)",
+        "DateModeClassic": "Classic",
+        "DateModeSocial": "Social",
+        "DateFormat": "Date format",
+        "ShowExportToExcel": "Show export to Excel",
+        "DisplayFields": "Display fields",
+        "ColumnWidth": "Width (px)",
+        "ShowHeading": "Show heading"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Export file {0} is ready for download."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Select all documents on this page",
+        "SelectDocument": "Select document",
+        "SelectDocumentWithTitle": "Select document {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Process search template"
+        }
+      }
+    }
+  }
+}

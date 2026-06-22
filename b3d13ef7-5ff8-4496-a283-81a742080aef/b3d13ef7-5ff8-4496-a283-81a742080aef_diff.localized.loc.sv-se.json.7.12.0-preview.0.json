@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Omindexering för semantisk sökning",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Dokumentet omindexerades för semantisk sökning."
+        },
+        "Completed": "Slutförd",
+        "Find": "Hitta",
+        "Reindex": "Omindexera",
+        "SearchPlaceholder": "Sök ...",
+        "SelectDocumentTypesPlaceholder": "Välj dokumenttyper"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "mer"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Mall för dokumentsökning"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Misslyckades med att ladda dokumentmallinformation."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Indexering för semantisk sökning misslyckades.",
+        "SemanticSearchIndexing": "Indexering till semantisk sökning"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Indexering för semantisk sökning misslyckades.",
+        "Message": "Detta dokument har publicerats, men ett problem uppstod vid indexering för semantisk sökning. Vill du starta indexeringsprocessen igen?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Något gick fel vid indexering för semantisk sökning. Försök igen."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Visning av dokumentbibliotek",
+      "BlockDescription": "Visa en vald SharePoint-dokumentbiblioteksvy med mappar, filter och export.",
+      "Common": {
+        "ConfigurePrompt": "Konfigurera webbplats-URL, bibliotek och antingen en vy eller valda fält i inställningarna.",
+        "NoDataToShow": "Inga data att visa.",
+        "LoadMore": "Ladda mer",
+        "Name": "Namn",
+        "RootFolder": "Rotbibliotek",
+        "ExportToExcel": "Exportera till Excel",
+        "Exporting": "Skapar Excel-fil...",
+        "PreviousPage": "Föregående sida",
+        "NextPage": "Nästa sida",
+        "SortByColumn": "Sortera efter kolumn",
+        "ExpandGroup": "Expandera grupp",
+        "CollapseGroup": "Dölj grupp",
+        "ItemType": "Objekttyp",
+        "FriendlyDates": {
+          "FewSecondsAgo": "För några sekunder sedan",
+          "AboutMinuteAgo": "För ungefär en minut sedan",
+          "MinutesAgo": "{0} minuter sedan",
+          "AboutHourAgo": "För ungefär en timme sedan",
+          "HoursAgo": "{0} timmar sedan",
+          "Yesterday": "Igår",
+          "YesterdayAt": "Igår kl",
+          "WeekdayAt": "{0} kl",
+          "DaysAgo": "{0} dagar sedan",
+          "DaysAgoAt": "{0} dagar sedan kl"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Allmänt",
+          "Query": "Fråga",
+          "Display": "Visning",
+          "Filter": "Filter",
+          "Export": "Export"
+        },
+        "SiteUrl": "Webbplats-URL",
+        "PickLibrary": "Välj bibliotek",
+        "FieldSelectionMode": "Kolumnkälla",
+        "UseView": "Använd SharePoint-vy",
+        "SelectFieldsDirectly": "Välj fält direkt",
+        "View": "Vy",
+        "Paging": "Sidindelning",
+        "PagingType": {
+          "NoPaging": "Ingen sidindelning",
+          "Classic": "Klassisk"
+        },
+        "ItemLimit": "Objektgräns",
+        "PageSize": "Rader per sida",
+        "ShowBreadcrumb": "Visa brödsmulor",
+        "DateDisplayMode": "Datumtyp",
+        "DateModeSource": "Källformatering (SharePoint-lista)",
+        "DateModeClassic": "Klassisk",
+        "DateModeSocial": "Social",
+        "DateFormat": "Datumformat",
+        "ShowExportToExcel": "Visa Export till Excel",
+        "DisplayFields": "Visningsfält",
+        "ColumnWidth": "Bredd (px)",
+        "ShowHeading": "Visa rubrik"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Exportfilen {0} är redo för nedladdning."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Välj alla dokument på denna sida",
+        "SelectDocument": "Välj dokument",
+        "SelectDocumentWithTitle": "Välj dokument {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Mall för sökning av process"
+        }
+      }
+    }
+  }
+}

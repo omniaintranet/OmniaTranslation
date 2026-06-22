@@ -1,0 +1,865 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Überschriftsebene"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Nur Text"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Kanalabonnements"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigationsmodus",
+        "DisableNavigate": "Weiterleitung zur erstellten Seite deaktivieren",
+        "NavigateToOmnia": "Zur Omnia-Seite navigieren",
+        "NavigateToSharePointFullPage": "Zur SharePoint-Vollseite navigieren"
+      },
+      "OpenInDialog": "Im Dialog öffnen",
+      "DialogSummaryProperty": "Zusammenfassungseigenschaft",
+      "DialogContentProperty": "Inhaltseigenschaft",
+      "DialogImageProperty": "Bildeigenschaft",
+      "DialogDateProperty": "Datumeigenschaft",
+      "DialogPropertyMappings": "Dialog-Eigenschaftszuordnungen",
+      "OverrideDefaultSettings": "Standardeinstellungen überschreiben",
+      "EnableRichText": "Rich Text aktivieren",
+      "EnableViewButtonOnDialog": "Anzeigen-Schaltfläche im Dialog aktivieren",
+      "EnableMention": "Erwähnung aktivieren"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint-Seitenabfrage",
+        "SharepointPageQuery": "Basisabfrage",
+        "SharepointPageRollupQuery": "Basisabfrage für SharePoint-Seitenzusammenfassung"
+      },
+      "SemanticSearch": {
+        "Title": "Semantische Suche",
+        "ReindexContent": "Inhalte neu indexieren",
+        "ReindexContentConfirmationTitle": "Vollen Inhaltsindex ausführen",
+        "ReindexContentConfirmationDescription": "Sind Sie sicher, dass Sie einen vollständigen Inhaltsindex für den Tenant ausführen möchten?",
+        "ReindexContentMessage": "Indexiere {0} Seiten (Erfolgreich: {1}, Fehlgeschlagen: {2})",
+        "Running": "Wird ausgeführt",
+        "ResumeFromLastSync": "Von letzter Synchronisierung fortsetzen",
+        "ResumeFromLastSyncTitle": "Von letzter Synchronisierung fortsetzen",
+        "ResumeFromLastSyncDescription": "Sind Sie sicher, dass Sie die letzte Synchronisierung im Tenant fortsetzen möchten?",
+        "QueueReindex": "Zur Verarbeitung in Warteschlange…",
+        "Stopping": "Wird gestoppt…",
+        "TerminateCurrentJob": "Aktuellen Job beenden",
+        "TerminateCurrentJobConfirmationTitle": "Aktuellen Job beenden",
+        "TerminateCurrentJobConfirmationDescription": "Sind Sie sicher, dass Sie den aktuellen Job beenden möchten?"
+      },
+      "DefaultRendering": {
+        "Title": "Standarddarstellung",
+        "Description": "Definiert eine Standard-Rendering-App-Instanz, die als Fallback verwendet wird, wenn die aktuelle Website keine Vollseiten-Erfahrung aktiviert hat.",
+        "SelectLabel": "Standard-Rendering-App-Instanz auswählen",
+        "DialogSettingsTitle": "Standard-Dialogkonfiguration",
+        "EnableRichText": "Rich Text aktivieren",
+        "EnableViewButtonOnDialog": "Anzeigen-Schaltfläche im Dialog aktivieren",
+        "EnableMention": "Erwähnung aktivieren",
+        "DialogSummary": "Dialog-Zusammenfassung",
+        "DialogContent": "Dialog-Inhalt",
+        "DialogImage": "Dialog-Bild",
+        "DialogDate": "Dialog-Datum"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Bild links",
+        "ImageOnRight": "Bild rechts"
+      },
+      "Editor": {
+        "OnThisPage": "Abschnitte",
+        "LivePreview": "Live-Vorschau",
+        "Menu": {
+          "Style": "Stil"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Bild/Text-Verhältnis",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Erhebung",
+        "BorderRadius": "Eckenradius",
+        "BorderWidth": "Rahmenbreite",
+        "BorderColor": "Rahmenfarbe",
+        "AddMedia": "Medien hinzufügen",
+        "ChangeMedia": "Medien ändern",
+        "RemoveMedia": "Medien entfernen",
+        "TitleElement": "Titel-Element",
+        "TitleElements": {
+          "Default": "Standard",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Stilvorgabe",
+        "Query": "Abfrage",
+        "CurrentNodeIndicator": "Aktueller Knoten-Indikator",
+        "Separator": "Trennzeichen",
+        "FontSizeSpacing": "Schriftgröße & Abstand",
+        "FontSize": "Schriftgröße",
+        "Density": "Dichte",
+        "Compact": "Kompakt",
+        "Comfortable": "Komfortabel",
+        "Spacious": "Geräumig",
+        "HoverState": "Hover-Zustand",
+        "IndicatorColor": "Indikatorfarbe",
+        "SeparatorColor": "Trennzeichenfarbe",
+        "HoverColor": "Hover-Farbe",
+        "LivePreview": "Live-Vorschau",
+        "OmniaClassic": "Omnia klassisch",
+        "OmniaClassicDescription": "Aktuelle Omnia-Breadcrumb-Stilgebung",
+        "MinimalSlash": "Minimaler Schrägstrich",
+        "MinimalSlashDescription": "Schrägstrich-Trenner - farbiger Hover",
+        "PillCurrent": "Aktuelle Pill",
+        "PillCurrentDescription": "Getönte Pill beim aktuellen - getönter Hover",
+        "BoldUnderline": "Fett aktuell",
+        "BoldUnderlineDescription": "Fetter aktueller Knoten - Unterstreichung beim Hover",
+        "ArrowTrail": "Pfeilspur",
+        "ArrowTrailDescription": "Pfeil-Trenner - farbiger aktueller",
+        "DotDivider": "Punkt-Trenner",
+        "DotDividerDescription": "Punkt-Trenner - farbiger Hover",
+        "Custom": "Benutzerdefiniert",
+        "Plain": "Einfach",
+        "Bold": "Fett",
+        "Color": "Farbe",
+        "Pill": "Pill",
+        "Chevron": "Chevron",
+        "Slash": "Schrägstrich",
+        "Arrow": "Pfeil",
+        "Dot": "Punkt",
+        "Pipe": "Pipe",
+        "Guillemet": "Winkel",
+        "None": "Keine",
+        "Underline": "Unterstreichung",
+        "Tint": "Tönung"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content Flow",
+        "BlockSummary": "Erstellen Sie strukturierte Seiteninhalte mit Text, Medien und Zitaten.",
+        "Placeholder": "Content Flow-Darstellung wird verfügbar sein, wenn Blockspeicherung implementiert ist.",
+        "Media": {
+          "AddImage": "Medien hinzufügen",
+          "EditImage": "Medien bearbeiten",
+          "RemoveImage": "Medien entfernen",
+          "ReplaceImage": "Medien ersetzen",
+          "PlaceholderTitle": "Medien hinzufügen",
+          "PlaceholderDescription": "Wählen Sie ein Bild oder Video aus der Mediathek für diesen Content Flow Medienblock aus.",
+          "Width": {
+            "Label": "Medienbreite",
+            "Content": "Inhalt",
+            "Wide": "Breit",
+            "Full": "Voll",
+            "FullBleed": "Vollflächig"
+          }
+        },
+        "Text": {
+          "Placeholder": "Schreiben Sie etwas oder drücken Sie '/' für Vorlagen...",
+          "QuotePlaceholder": "Zitattext hinzufügen...",
+          "QuoteAttributionLabel": "Quelle",
+          "QuoteSourceLabel": "Quelle"
+        },
+        "Person": {
+          "PickerLabel": "Person",
+          "EmptyName": "Person auswählen",
+          "TextPlaceholder": "Schreiben Sie ein kurzes Profil, Zitat oder Spotlight-Text..."
+        },
+        "Spacing": {
+          "Label": "Abstand"
+        },
+        "Editor": {
+          "AddBlock": "Block hinzufügen",
+          "AddBelow": "Darunter hinzufügen",
+          "AddFirstBlock": "Fügen Sie Ihren ersten Block hinzu",
+          "Convert": "Konvertieren",
+          "ConvertTo": "Konvertieren zu",
+          "Delete": "Löschen",
+          "DragToReorder": "Zum Neuordnen ziehen",
+          "Duplicate": "Duplizieren",
+          "InheritedContent": "Dieser Block verwendet wiederverwendete Content Flow-Inhalte.",
+          "InsertTemplate": "Vorlage einfügen",
+          "MoveDown": "Nach unten verschieben",
+          "MoveUp": "Nach oben verschieben",
+          "PickTemplateToStart": "Wählen Sie eine Vorlage, um mit dem Erstellen zu beginnen.",
+          "Ratio": "Verhältnis",
+          "SearchTemplates": "Nach Vorlage suchen...",
+          "SearchTemplatesShort": "Vorlagen suchen...",
+          "Templates": "Vorlagen",
+          "KeyboardNavigate": "↑↓ Navigieren",
+          "KeyboardInsert": "↵ Einfügen",
+          "KeyboardCancel": "Esc abbrechen",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Inhaltsbreite",
+          "WidthWideTitle": "Breit",
+          "WidthFullTitle": "Vollflächig",
+          "RatioEqualTitle": "Gleiche Spalten",
+          "RatioNarrowWideTitle": "Schmal links, breit rechts",
+          "RatioWideNarrowTitle": "Breit links, schmal rechts",
+          "InnerDivider": "Inneren Trenner umschalten"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Text",
+            "Description": "Ein einzelner Rich-Text-Block."
+          },
+          "Media": {
+            "Title": "Medien",
+            "Description": "Ein einzelner Medienblock."
+          },
+          "MediaText": {
+            "Title": "Medien + Text",
+            "Description": "Medien links, Text rechts."
+          },
+          "MediaGallery": {
+            "Title": "Mediengalerie",
+            "Description": "Zwei Reihen mit je drei Medienblöcken."
+          },
+          "TextMedia": {
+            "Title": "Text + Medien",
+            "Description": "Text links, Medien rechts."
+          },
+          "Person": {
+            "Title": "Person",
+            "Description": "Hebt eine Person mit Avatar, Name und angrenzendem Text hervor."
+          },
+          "Quote": {
+            "Title": "Zitat",
+            "Description": "Ein auf Zitate fokussierter Rich-Text-Block."
+          },
+          "Spacing": {
+            "Title": "Abstand",
+            "Description": "Fügen Sie anpassbaren vertikalen Abstand zwischen Blöcken hinzu."
+          },
+          "Divider": {
+            "Title": "Trenner",
+            "Description": "Fügen Sie eine einfache horizontale Trennlinie hinzu."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Mit KI erstellen",
+          "AddWithAiPlaceholder": "Beschreiben Sie den Inhalt und ich füge ihn für Sie hinzu",
+          "ApplyPreview": "Vorschau übernehmen",
+          "Cancel": "Abbrechen",
+          "CurrentRowScope": "Aktuelle Zeile",
+          "DialogTitle": "KI-Unterstützung",
+          "DocumentScope": "Gesamtes Dokument",
+          "EmptyPromptError": "Geben Sie eine Anweisung ein, bevor Sie eine Vorschau generieren.",
+          "GeneratePreview": "Vorschau generieren",
+          "GeneratePage": "Seite generieren",
+          "GenerationBlockComplete": "Der Block ist fertig.",
+          "GenerationBlockSelecting": "Block wird ausgewählt",
+          "GenerationBlockTitle": "Block wird generiert",
+          "GenerationBlockWriting": "Inhalt wird geschrieben",
+          "GenerationComplete": "Die Seite ist fertig.",
+          "GenerationOutline": "Erstelle eine Seitenübersicht basierend auf Ihrer Anweisung.",
+          "GenerationRowGenerated": "Schreibe Zeile {current} von {total}.",
+          "GenerationRowsInserted": "{total} Platzhalterzeilen eingefügt und beginne mit dem Ausfüllen.",
+          "GenerationStepComplete": "Fertig",
+          "GenerationStepContent": "Inhalt schreiben",
+          "GenerationStepOutline": "Übersicht",
+          "GenerationStepRows": "Zeilen platzieren",
+          "GenerationTitle": "Seite wird generiert",
+          "GenerateBlock": "Block generieren",
+          "InvalidCurrentRowResponse": "Die Vorschau für eine aktuelle Zeile muss genau eine Zeile enthalten.",
+          "InvalidPreviewError": "Generieren Sie eine gültige Vorschau, bevor Sie Änderungen übernehmen.",
+          "Open": "KI-Unterstützung",
+          "PreviewJson": "JSON-Vorschau",
+          "PreviewReady": "Vorschau generiert. Überprüfen Sie das JSON, bevor Sie es übernehmen.",
+          "PromptLabel": "Anweisung",
+          "PromptPlaceholder": "Beschreiben Sie, was die KI erstellen oder verbessern soll...",
+          "RawResponse": "Roh-Antwort der KI",
+          "ScopeLabel": "KI anwenden auf",
+          "SelectedRowRequired": "Wählen Sie eine Zeile aus, bevor Sie KI für die aktuelle Zeile verwenden.",
+          "Send": "Senden",
+          "ShortcutFallbackTitle": "KI-Verknüpfung",
+          "ValidationIssues": "Validierungsprobleme"
+        },
+        "Settings": {
+          "Title": "Content Flow-Einstellungen",
+          "Placeholder": "Content Flow-Einstellungen werden verfügbar sein, wenn Blockspeicherung implementiert ist.",
+          "Categories": {
+            "General": "Allgemein",
+            "Layout": "Layout",
+            "Media": "Medien",
+            "Divider": "Trenner",
+            "Editor": "Editor",
+            "AiAssistance": "KI-Unterstützung"
+          },
+          "RowSpacing": "Zeilenabstand",
+          "RowSpacingHint": "Legt den vertikalen Abstand zwischen Content Flow-Zeilen fest.",
+          "ColumnSpacing": "Spaltenabstand",
+          "ColumnSpacingHint": "Legt den Abstand zwischen Spalten und Galerieelementen in Content Flow-Zeilen fest.",
+          "MediaBorderRadius": "Medien-Eckenradius",
+          "MediaBorderRadiusHint": "Legt den Eckenradius für alle Medieninhaltsblöcke im Editor fest.",
+          "DividerStyle": "Stil",
+          "DividerColor": "Farbe",
+          "DividerOpacity": "Deckkraft",
+          "DividerWeight": "Stärke",
+          "DividerWidth": "Breite",
+          "DividerStyleLine": "Linie",
+          "DividerStyleDashed": "Gestrichelt",
+          "DividerStyleDotted": "Gepunktet",
+          "DividerStyleDoubleLine": "Doppellinie",
+          "DividerStyleDoubleDashed": "Doppelt gestrichelt",
+          "DividerStyleDoubleDotted": "Doppelt gepunktet",
+          "ConfirmDelete": "Löschung bestätigen",
+          "ConfirmDeleteHint": "Zeigt ein Bestätigungs-Popup an, bevor ein Content Flow-Block gelöscht wird.",
+          "ConfirmDeleteTitle": "Block löschen?",
+          "ConfirmDeleteMessage": "Dieser Block wird aus dem Content Flow gelöscht.",
+          "EnableAiAssistance": "KI-Unterstützung aktivieren",
+          "EnableAiAssistanceHint": "Aktiviert die KI-Aktion in der Symbolleiste und die Vollseiten-Generierung.",
+          "AiMediaProvider": "KI-Medienanbieter",
+          "AiMediaProviderHint": "Legt fest, wie generierte Seiten-Medienblöcke während der Vollseiten-KI-Generierung befüllt werden.",
+          "AiMediaProviderNone": "Keine",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Blockvorlagen-Auswahlaufforderung",
+            "Cancel": "Abbrechen",
+            "Description": "Konfigurieren Sie die Eingabeaufforderungen, die von Content Flow KI in diesem Geschäftsprofil verwendet werden.",
+            "GlobalPostPrompt": "Globale Nachaufforderung",
+            "GlobalPrePrompt": "Globale Voraufforderung",
+            "LoadError": "Die gespeicherten Eingabeaufforderungseinstellungen konnten nicht geladen werden. Standardwerte werden angezeigt.",
+            "ResetToDefaults": "Auf Standard zurücksetzen",
+            "SaveError": "Die Eingabeaufforderungseinstellungen konnten nicht gespeichert werden.",
+            "Saved": "Eingabeaufforderungseinstellungen gespeichert.",
+            "TemplatePrompts": "Vorlagen-Eingabeaufforderungen",
+            "Title": "Content Flow KI-Eingabeaufforderungen"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Ungültiges JSON wurde durch ein Standarddokument ersetzt.",
+          "MissingDocumentDefaultCreated": "Fehlendes Dokument wurde durch ein Standarddokument ersetzt.",
+          "SchemaMigrated": "Dokument wurde auf Content Flow Schema Version 1 normalisiert.",
+          "SchemaInvalid": "Content Flow-Dokumente müssen Schema Version 1 verwenden.",
+          "RowsEmpty": "Content Flow-Dokumente müssen mindestens eine Zeile enthalten.",
+          "RowIdMissing": "Zeilen-ID ist erforderlich.",
+          "RowTemplateInvalid": "Zeilenvorlagenart wird nicht unterstützt.",
+          "BlocksEmpty": "Eine Zeile muss mindestens einen Block enthalten.",
+          "BlockIdMissing": "Block-ID ist erforderlich.",
+          "TextMissing": "Ein Textblock muss Textinhalt enthalten.",
+          "MediaMissing": "Ein Medienblock muss Medieninhalt enthalten.",
+          "QuoteMissing": "Ein Zitatblock muss Rich-Text-Inhalt enthalten.",
+          "SpacingMissing": "Ein Abstandblock muss Abstandseinstellungen enthalten.",
+          "RowInvalid": "Ungültige Zeile wurde durch eine Textzeile ersetzt.",
+          "BlockInvalid": "Ungültiger Block wurde durch einen Textblock ersetzt.",
+          "LegacyTextMigrated": "Alte Textinhalte wurden in eine Textzeile migriert.",
+          "LegacyMediaMigrated": "Alte Medieninhalte wurden in eine Medienzeile migriert."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia Vollseiten-Erfahrung",
+          "Summary": "Verwenden Sie diesen Block, um einer Seite eine Vollseiten-Erfahrung hinzuzufügen."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "System",
+          "Description": "Stellt eine Systemseite in der SharePoint-Seitenbibliothek bereit.",
+          "Title": "Omnia Vollseiten-Erfahrung"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Trenner",
+      "Title": "Trenner",
+      "Description": "Fügen Sie der Seite einen Trenner hinzu",
+      "Settings": {
+        "WelcomeTitle": "Trenner",
+        "Description": "Fügen Sie der Seite einen Trenner hinzu",
+        "Display": "Anzeige",
+        "StyleSection": "Stil",
+        "Style": "Stil",
+        "Color": "Farbe",
+        "Opacity": "Deckkraft",
+        "Weight": "Stärke",
+        "Width": "Breite",
+        "Line": "Linie",
+        "Dashed": "Gestrichelt",
+        "Dotted": "Gepunktet",
+        "DoubleLine": "Doppellinie",
+        "DoubleDashed": "Doppelt gestrichelt",
+        "DoubleDotted": "Doppelt gepunktet"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Details anzeigen"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame zugänglicher Titel",
+        "CustomUrlTitle": "Benutzerdefinierte URL",
+        "PropertyUrlTitle": "URL aus Eigenschaft"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Seitentypen auswählen"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Label-Symbol mit Wert anzeigen"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Stilvorgabe",
+        "General": "Allgemein",
+        "CurrentNodeIndicator": "Aktueller Knoten-Indikator",
+        "OpenCollapse": "Öffnen & Zusammenklappen",
+        "OpenCollapseColor": "Farbe für Öffnen & Zusammenklappen",
+        "RowDensity": "Zeilendichte",
+        "HoverState": "Hover-Zustand",
+        "HoverColor": "Hover-Farbe",
+        "IndentGuide": "Einzugsführung",
+        "IndicatorColor": "Indikatorfarbe",
+        "RowFontSize": "Zeilenschriftgröße",
+        "LivePreview": "Live-Vorschau",
+        "OmniaClassic": "Omnia klassisch",
+        "OmniaClassicDescription": "Aktuelle Omnia-Navigationsgestaltung",
+        "MaterialClassic": "Material klassisch",
+        "MaterialClassicDescription": "Fetter Primärtext - Chevron rechts",
+        "LeftBarAccent": "Linke Leistenakzent",
+        "LeftBarAccentDescription": "Seitenleistenmarker - Chevron rechts",
+        "TintedPill": "Getönte Pill",
+        "TintedPillDescription": "Gefüllte aktive Zeile - Plus/Minus zum Zusammenklappen",
+        "CompactRowClick": "Kompakt + Zeilenklick",
+        "CompactRowClickDescription": "Dichte Zeilen - ganze Zeile toggelt",
+        "TreePill": "Baum + Pill",
+        "TreePillDescription": "Verbindungslinien - gefüllter Pill-Marker",
+        "Custom": "Benutzerdefiniert",
+        "LeftBar": "Linke Leiste",
+        "FilledPill": "Gefüllte Pill",
+        "BoldColor": "Fette Farbe",
+        "Dot": "Punkt",
+        "Outline": "Umriss",
+        "ChevronRight": "Chevron rechts",
+        "ChevronLeft": "Chevron links",
+        "PlusMinus": "Plus/Minus",
+        "PlusMinusLeft": "Plus/Minus links",
+        "RowClick": "Zeilenklick",
+        "Compact": "Kompakt",
+        "Comfortable": "Komfortabel",
+        "Spacious": "Geräumig",
+        "Tint": "Tönung",
+        "Underline": "Unterstreichung",
+        "Bold": "Fett",
+        "None": "Keine",
+        "Dotted": "Gepunktet",
+        "Solid": "Durchgezogen",
+        "Tree": "Baum"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Diese Seitenvariante ist aufgrund maschineller Übersetzung gesperrt.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Bild hinzufügen",
+          "ImageDescription": "Möglichkeit, ein Bild oder Video zur Seite hinzuzufügen."
+        },
+        "PageTitle150MaxLengthValidation": "Der Titel hat die Grenze von 150 Zeichen erreicht und kann nicht gespeichert werden."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Spaltenbreite"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia-Seitensuchvorlage"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint-Seitensuchvorlage"
+      },
+      "Fields": {
+        "Title": "Titel",
+        "Description": "Beschreibung",
+        "Date": "Datum",
+        "FallbackDate": "Fallback-Datum",
+        "User": "Benutzer",
+        "FallbackUser": "Fallback-Benutzer",
+        "URL": "URL",
+        "ParentURL": "Übergeordnete URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "In SharePoint-Vollseite öffnen"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Status",
+        "Success": "Erfolg",
+        "Error": "Fehler",
+        "Running": "Wird ausgeführt",
+        "Stopping": "Wird gestoppt"
+      },
+      "Started": "Gestartet",
+      "Ended": "Beendet",
+      "CreatedBy": "Erstellt von",
+      "Summary": "Zusammenfassung",
+      "ReindexContentMessage": "Indexiere {0} Seiten (Erfolgreich: {1}, Fehlgeschlagen: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint-Seiten",
+      "SelectSharePointSite": "SharePoint-Website auswählen",
+      "SearchPages": "Seiten suchen",
+      "SPPageNotFound": "Diese SharePoint-Seite konnte nicht gefunden werden",
+      "NoSPPagesFound": "Keine SharePoint-Seiten gefunden",
+      "LoadingSPPages": "Lade SharePoint-Seiten...",
+      "SelectAllPagesOnCurrentPage": "Alle Seiten auf der aktuellen Seite auswählen",
+      "CurrentSPPage": "Aktuelle SP-Seite",
+      "SPPageProviderTableHeader": {
+        "FileName": "Dateiname",
+        "Title": "Titel",
+        "Modified": "Geändert",
+        "ModifiedBy": "Geändert von",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Anzahl der registrierten Teilnehmer verbergen (Leser)",
+          "General": "Allgemein",
+          "Display": "Anzeige",
+          "StylePreset": "Stilvorgabe",
+          "LivePreview": "Live-Vorschau",
+          "ShowIcon": "Symbol anzeigen",
+          "ShowNumbers": "Zahlen anzeigen",
+          "Icon": "Symbol",
+          "Meter": "Messgerät",
+          "Color": "Farbe",
+          "Size": "Größe",
+          "StatusBadge": "Statusabzeichen",
+          "None": "Keine",
+          "Bar": "Balken",
+          "SeatGrid": "Sitzraster",
+          "Neutral": "Neutral",
+          "Primary": "Primär",
+          "Semantic": "Semantisch",
+          "Custom": "Benutzerdefiniert",
+          "CustomColor": "Benutzerdefinierte Farbe",
+          "Compact": "Kompakt",
+          "Default": "Standard",
+          "Large": "Groß",
+          "PreviewRegistered": "Vorschau registriert",
+          "PreviewCapacity": "Vorschau Kapazität"
+        },
+        "Presets": {
+          "Classic": "Klassisch",
+          "ClassicDescription": "Symbol und Anzahl",
+          "Progress": "Fortschritt",
+          "ProgressDescription": "Anzahl mit Messgerät",
+          "BigNumber": "Große Zahl",
+          "BigNumberDescription": "Großer Fokus auf Anzahl",
+          "SeatGrid": "Sitzraster",
+          "SeatGridDescription": "Visuelle Kapazitätszellen",
+          "Status": "Status",
+          "StatusDescription": "Semantisches Messgerät und Abzeichen",
+          "Minimal": "Minimal",
+          "MinimalDescription": "Nur kompakte Anzahl"
+        },
+        "Status": {
+          "Available": "Verfügbar",
+          "FillingUp": "Füllt sich",
+          "AlmostFull": "Fast voll",
+          "SoldOut": "Ausverkauft"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Event-Karte"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Call-to-Action-Stil",
+        "Description": "Konfigurieren Sie das Erscheinungsbild von Call-to-Action-Schaltflächen in Ihrer Anwendung.",
+        "PreviewButton": "Schaltfläche Vorschau"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Verfolgung",
+        "JoinTeamsMeeting": "Beitreten",
+        "IconLabels": {
+          "DateTime": "Datum und Uhrzeit",
+          "Location": "Ort",
+          "Description": "Beschreibung"
+        },
+        "ResponseMessage": {
+          "Accept": "Akzeptiert",
+          "Tentative": "Vorläufig",
+          "Declined": "Abgelehnt"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Call to action"
+        },
+        "Extensions": {
+          "CallToAction": "Call to action"
+        }
+      },
+      "CallToAction": {
+        "Title": "Titel",
+        "Url": "URL",
+        "Save": "Speichern",
+        "Cancel": "Abbrechen",
+        "LinkNotSupported": "Der angegebene Link wird nicht unterstützt."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "In Client-App öffnen",
+        "OpenInWeb": "Im Web öffnen",
+        "OpenInWebNewTab": "Im Web in neuem Tab öffnen",
+        "DocumentLinkHandlerNote": "Links werden global behandelt, dies kann das Verhalten der obigen Optionen beeinflussen.",
+        "NoDocumentPickers": "Keine Dokumentauswähler konfiguriert."
+      },
+      "User": {
+        "Label": "Benutzer",
+        "FindUser": "Benutzer finden"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint-Seitenauswahl",
+        "Name": "SharePoint-Seite",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint-Seitenkategorien",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Kategorie löschen",
+            "Message": "Sind Sie sicher, dass Sie diese SharePoint-Seitenkategorie löschen möchten?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Filter hinzufügen",
+            "AdjustFilters": "Filter anpassen",
+            "Done": "Fertig",
+            "TermSetNotFound": "Begriffssatz nicht gefunden",
+            "SearchBox": "Suchfeld (Eigenschaften)",
+            "SearchBoxProperties": "SharePoint-Seiteneigenschaften",
+            "FullTextSearch": "Suchfeld (Volltext)",
+            "SearchOnSPPageTitleAnd": "Suche im SharePoint-Seitentitel und",
+            "EnableWildcardSearch": "Teilwortsuche aktivieren",
+            "ShowSearchBox": "Suchfeld anzeigen",
+            "SearchTextLabel": "Suchtext",
+            "AdjustWidthPlaceholder": "Breite",
+            "CollapseFilter": "Filter standardmäßig ausblenden"
+          },
+          "SearchCategories": "Kategorien suchen",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint-Bibliothek",
+            "SearchCategory": "Suchkategorie"
+          },
+          "SharePointLibraryUrl": "URL der SharePoint-Bibliothek",
+          "LibraryNotExistedMessage": "Bibliothek unter dieser URL nicht gefunden.",
+          "DateFilter": {
+            "From": "Von",
+            "To": "Bis"
+          },
+          "Common": {
+            "Yes": "Ja",
+            "No": "Nein",
+            "All": "Alle"
+          }
+        },
+        "AddDocument": "Dokument hinzufügen",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Dokument entfernen",
+            "Message": "Sind Sie sicher, dass Sie dieses Dokument entfernen möchten?"
+          }
+        },
+        "NoSharePointPagePicker": "Keine SharePoint-Seitenauswähler konfiguriert",
+        "NoResultMessage": "Keine Seite gefunden",
+        "ResolveUserErrorMessage": "Fehler bei der Personenfilterung"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Seite nicht gefunden"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Im Dialog anzeigen"
+      },
+      "NodePicker": {
+        "Header": "Navigationsknoten auswählen"
+      },
+      "ListView": {
+        "TargetReached": "Ziel erreicht",
+        "TargetNotReached": "Ziel nicht erreicht"
+      },
+      "CardView": {
+        "VisitPage": "Seite öffnen",
+        "PageImage": "Seitenbild",
+        "PlaceholderImageIfEmpty": "Platzhalterbild, wenn leer",
+        "CardType": {
+          "ImageRight": "Bild rechts",
+          "ImageLeft": "Bild links"
+        },
+        "TitleElement": "Titel-Element",
+        "TitleElements": {
+          "Custom": "Benutzerdefiniert",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Bild/Text-Verhältnis",
+        "RatioImageNarrowTitle": "Bild 30 %, Text 70 %",
+        "RatioEqualTitle": "Bild 50 %, Text 50 %",
+        "RatioImageWideTitle": "Bild 70 %, Text 30 %",
+        "ShowAsText": "Person als Text anzeigen"
+      },
+      "EventCard": {
+        "StartDate": "Veranstaltungsbeginn",
+        "EndDate": "Veranstaltungsende",
+        "Location": "Ort",
+        "EventDate": "Veranstaltungsdatum",
+        "EventStatus": "Veranstaltungsstatus",
+        "AllDayProperty": "Ganztägige Eigenschaft",
+        "ShowDateOnImage": "Veranstaltungsdaten auf Bild anzeigen",
+        "ShowLocation": "Ort anzeigen",
+        "ShowRegisteredCapacity": "Anzahl der Anmeldungen anzeigen",
+        "ShowRegistrationStatus": "Anmeldestatus anzeigen",
+        "ShowPastEventStatus": "Status vergangener Veranstaltungen anzeigen",
+        "ShowAllDayStatus": "Ganztägigen Status anzeigen",
+        "ShowTeamsMeetingStatus": "Teams-Meeting-Status anzeigen",
+        "JoinTeamsMeeting": "Teams-Meeting beitreten",
+        "MovePropertyUp": "{0} nach oben verschieben",
+        "MovePropertyDown": "{0} nach unten verschieben",
+        "RemoveTermProperty": "{0} entfernen",
+        "DateSettings": "Datumseinstellungen",
+        "StartDateSettings": "Einstellungen für Veranstaltungsbeginn",
+        "EndDateSettings": "Einstellungen für Veranstaltungsende",
+        "RegistrationOpen": "Anmeldung geöffnet",
+        "RegistrationClosed": "Anmeldung geschlossen",
+        "FullyBooked": "Ausgebucht",
+        "PastEvent": "Vergangene Veranstaltung",
+        "AllDay": "Ganztägig",
+        "TeamsMeeting": "Teams-Meeting"
+      },
+      "ListingWithImage": {
+        "Properties": "Eigenschaften",
+        "AddProperty": "Eigenschaft hinzufügen",
+        "PropertiesSeparator": "Eigenschaftstrenner",
+        "WhiteSpace": "Leerraum",
+        "Property": "Eigenschaft",
+        "NoPropertySelected": "Keine Eigenschaft ausgewählt",
+        "DateModeDefault": "Standard",
+        "DateModeClassic": "Klassisch",
+        "DateModeSocial": "Sozial",
+        "HideAvatar": "Avatar verbergen",
+        "ShowAsText": "Als Text anzeigen",
+        "SeparatorType": "Trennertyp",
+        "RightAlignLikesComments": "Likes und Kommentare rechts ausrichten"
+      },
+      "Common": {
+        "ShowMetricDetails": "Details anzeigen",
+        "AllowLiking": "Gefällt mir erlauben",
+        "FileReadyForDownload": "Exportdatei {0} ist zum Download bereit.",
+        "OpenInSharePointFullPage": "In SharePoint-Vollseite öffnen"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Kartenansicht (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Jahr auswählen",
+          "MonthSelector": "Monat auswählen",
+          "WeekSelector": "Woche auswählen",
+          "DateSelector": "Datum auswählen"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semantische Suche",
+          "SemanticSearchLogs": "Inhalte neu indexieren - Protokolle",
+          "ReindexContent": "Inhalte neu indexieren",
+          "Logging": "Protokollierung",
+          "ReindexContentMessageProgress": "Abgeschlossen {0} von {1} Seiten (erfolgreich: {2}, fehlgeschlagen: {3}) in {4}",
+          "ReindexContentMessage": "Indexiere {0} Seiten (erfolgreich: {1}, fehlgeschlagen: {2}) in {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Sind Sie sicher, dass Sie Inhalte für die semantische Suche neu indexieren möchten?",
+          "QueueReindex": "Zur Verarbeitung in Warteschlange…",
+          "Stopping": "Wird gestoppt…",
+          "TerminateCurrentJob": "Aktuellen Job beenden",
+          "TerminateCurrentJobConfirmationTitle": "Aktuellen Job beenden",
+          "TerminateCurrentJobConfirmationDescription": "Sind Sie sicher, dass Sie den aktuellen Job beenden möchten?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "In Omnia bearbeiten"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Kommentarvorlage",
+        "CommentTemplateOptions": {
+          "Default": "Standard",
+          "Threaded": "Verschachtelt"
+        },
+        "ThreadedComments": "Verschachtelte Kommentare",
+        "CustomInputStyle": "Benutzerdefinierte Eingabestil",
+        "Elevation": "Erhebung",
+        "BorderThickness": "Rahmenstärke",
+        "BorderRadius": "Eckenradius",
+        "BorderColor": "Rahmenfarbe",
+        "TextColor": "Textfarbe",
+        "BackgroundColor": "Hintergrundfarbe",
+        "EnableRichTextPageFeedback": "Formatierung",
+        "OverrideDefaultSettings": "Standardeinstellungen überschreiben",
+        "DeletedCommentMessage": {
+          "Label": "Gelöschte Kommentar-Nachricht",
+          "Always": "Immer",
+          "Never": "Nie",
+          "WhenReferenced": "Wenn referenziert"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Teilen erlauben"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia Vollseiten-Erfahrung",
+        "Description": "Eine Vollseiten-Erfahrungs-Komponente zur Anzeige von Inhalten über die gesamte Seite."
+      },
+      "Settings": {
+        "AllowEdit": "Bearbeitung erlauben",
+        "Title": "Titel",
+        "SelectedPage": "Ausgewählte Seite"
+      }
+    }
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Overskriftsnivå"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Kun tekst"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Kanalabonnementer"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigasjonsmodus",
+        "DisableNavigate": "Deaktiver omdirigering til opprettet side",
+        "NavigateToOmnia": "Naviger til Omnia-side",
+        "NavigateToSharePointFullPage": "Naviger til SharePoint full side"
+      },
+      "OpenInDialog": "Åpne i dialog",
+      "DialogSummaryProperty": "Sammendragsegenskap",
+      "DialogContentProperty": "Innholdsegenskap",
+      "DialogImageProperty": "Bildeegenskap",
+      "DialogDateProperty": "Datoegenskap",
+      "DialogPropertyMappings": "Dialog egenskapstilordninger",
+      "OverrideDefaultSettings": "Overstyr standardinnstillinger",
+      "EnableRichText": "Aktiver rik tekst",
+      "EnableViewButtonOnDialog": "Aktiver visningsknapp i dialog",
+      "EnableMention": "Aktiver omtale"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint sideforespørsel",
+        "SharepointPageQuery": "Grunnleggende forespørsel",
+        "SharepointPageRollupQuery": "SharePoint sideoppsummeringsgrunnlag"
+      },
+      "SemanticSearch": {
+        "Title": "Semantisk søk",
+        "ReindexContent": "Reindekser innhold",
+        "ReindexContentConfirmationTitle": "Kjør full innholdsindeksering",
+        "ReindexContentConfirmationDescription": "Er du sikker på at du vil kjøre full innholdsindeksering på tenant?",
+        "ReindexContentMessage": "Reindekserer {0} sider (Vellykket: {1}, Feilet: {2})",
+        "Running": "Kjører",
+        "ResumeFromLastSync": "Gjenoppta fra siste synkronisering",
+        "ResumeFromLastSyncTitle": "Gjenoppta fra siste synkronisering",
+        "ResumeFromLastSyncDescription": "Er du sikker på at du vil gjenoppta fra siste synkronisering på tenant?",
+        "QueueReindex": "Køet for behandling…",
+        "Stopping": "Stopper…",
+        "TerminateCurrentJob": "Avslutt gjeldende jobb",
+        "TerminateCurrentJobConfirmationTitle": "Avslutt gjeldende jobb",
+        "TerminateCurrentJobConfirmationDescription": "Er du sikker på at du vil avslutte gjeldende jobb?"
+      },
+      "DefaultRendering": {
+        "Title": "Standard gjengivelse",
+        "Description": "Definerer en standard gjengivelsesapp-instans som brukes som reserve når gjeldende nettsted ikke har Full side-opplevelse aktivert.",
+        "SelectLabel": "Velg standard gjengivelsesapp-instans",
+        "DialogSettingsTitle": "Standard dialogkonfigurasjon",
+        "EnableRichText": "Aktiver rik tekst",
+        "EnableViewButtonOnDialog": "Aktiver visningsknapp i dialog",
+        "EnableMention": "Aktiver omtale",
+        "DialogSummary": "Dialog sammendrag",
+        "DialogContent": "Dialog innhold",
+        "DialogImage": "Dialog bilde",
+        "DialogDate": "Dialog dato"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Bilde til venstre",
+        "ImageOnRight": "Bilde til høyre"
+      },
+      "Editor": {
+        "OnThisPage": "Seksjoner",
+        "LivePreview": "Direkte forhåndsvisning",
+        "Menu": {
+          "Style": "Stil"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Bilde/Tekst-forhold",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Høyde",
+        "BorderRadius": "Kant radius",
+        "BorderWidth": "Kant bredde",
+        "BorderColor": "Kant farge",
+        "AddMedia": "Legg til media",
+        "ChangeMedia": "Endre media",
+        "RemoveMedia": "Fjern media",
+        "TitleElement": "Titelelement",
+        "TitleElements": {
+          "Default": "Standard",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Stil forhåndsinnstilling",
+        "Query": "Forespørsel",
+        "CurrentNodeIndicator": "Indikator for gjeldende node",
+        "Separator": "Skiller",
+        "FontSizeSpacing": "Skriftstørrelse og avstand",
+        "FontSize": "Skriftstørrelse",
+        "Density": "Tetthet",
+        "Compact": "Kompakt",
+        "Comfortable": "Behagelig",
+        "Spacious": "Romslig",
+        "HoverState": "Hover-tilstand",
+        "IndicatorColor": "Indikatorfarge",
+        "SeparatorColor": "Skillerfarge",
+        "HoverColor": "Hover-farge",
+        "LivePreview": "Direkte forhåndsvisning",
+        "OmniaClassic": "Omnia klassisk",
+        "OmniaClassicDescription": "Nåværende Omnia brødsmulestil",
+        "MinimalSlash": "Minimal skråstrek",
+        "MinimalSlashDescription": "Skråstrek skiller - farget hover",
+        "PillCurrent": "Pille gjeldende",
+        "PillCurrentDescription": "Tonet pille på gjeldende - tone hover",
+        "BoldUnderline": "Fet gjeldende",
+        "BoldUnderlineDescription": "Fet gjeldende node - understrek hover",
+        "ArrowTrail": "Pilspor",
+        "ArrowTrailDescription": "Pil skiller - farget gjeldende",
+        "DotDivider": "Punkt skiller",
+        "DotDividerDescription": "Punkt skiller - farget hover",
+        "Custom": "Tilpasset",
+        "Plain": "Enkel",
+        "Bold": "Fet",
+        "Color": "Farge",
+        "Pill": "Pille",
+        "Chevron": "Chevron",
+        "Slash": "Skråstrek",
+        "Arrow": "Pil",
+        "Dot": "Punkt",
+        "Pipe": "Pipe",
+        "Guillemet": "Vinkel",
+        "None": "Ingen",
+        "Underline": "Understrek",
+        "Tint": "Tone"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Innholdsstrøm",
+        "BlockSummary": "Lag strukturert sideinnhold med tekst, media og sitater.",
+        "Placeholder": "Innholdsstrøm-gjengivelse vil være tilgjengelig når blokk-lagring er implementert.",
+        "Media": {
+          "AddImage": "Legg til media",
+          "EditImage": "Rediger media",
+          "RemoveImage": "Fjern media",
+          "ReplaceImage": "Bytt media",
+          "PlaceholderTitle": "Legg til media",
+          "PlaceholderDescription": "Velg et bilde eller video fra mediebiblioteket for denne Innholdsstrøm media-blokken.",
+          "Width": {
+            "Label": "Media bredde",
+            "Content": "Innhold",
+            "Wide": "Bred",
+            "Full": "Full",
+            "FullBleed": "Full kant"
+          }
+        },
+        "Text": {
+          "Placeholder": "Skriv noe, eller trykk '/' for maler...",
+          "QuotePlaceholder": "Legg til sitattekst...",
+          "QuoteAttributionLabel": "Kreditering",
+          "QuoteSourceLabel": "Kilde"
+        },
+        "Person": {
+          "PickerLabel": "Person",
+          "EmptyName": "Velg en person",
+          "TextPlaceholder": "Skriv en kort profil, sitat eller spotlight-tekst..."
+        },
+        "Spacing": {
+          "Label": "Avstand"
+        },
+        "Editor": {
+          "AddBlock": "Legg til blokk",
+          "AddBelow": "Legg til under",
+          "AddFirstBlock": "Legg til din første blokk",
+          "Convert": "Konverter",
+          "ConvertTo": "Konverter til",
+          "Delete": "Slett",
+          "DragToReorder": "Dra for å endre rekkefølge",
+          "Duplicate": "Dupliser",
+          "InheritedContent": "Denne blokken gjenbruker tilordnet innholdsstrøm-innhold.",
+          "InsertTemplate": "Sett inn mal",
+          "MoveDown": "Flytt ned",
+          "MoveUp": "Flytt opp",
+          "PickTemplateToStart": "Velg en mal for å starte komposisjonen.",
+          "Ratio": "Forhold",
+          "SearchTemplates": "Søk etter mal...",
+          "SearchTemplatesShort": "Søk maler...",
+          "Templates": "Maler",
+          "KeyboardNavigate": "↑↓ Naviger",
+          "KeyboardInsert": "↵ Sett inn",
+          "KeyboardCancel": "Esc avbryt",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Innholds bredde",
+          "WidthWideTitle": "Bred",
+          "WidthFullTitle": "Full kant",
+          "RatioEqualTitle": "Like kolonner",
+          "RatioNarrowWideTitle": "Smal venstre, bred høyre",
+          "RatioWideNarrowTitle": "Bred venstre, smal høyre",
+          "InnerDivider": "Bytt indre skiller"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Tekst",
+            "Description": "En enkelt rik tekst-blokk."
+          },
+          "Media": {
+            "Title": "Media",
+            "Description": "En enkelt media-blokk."
+          },
+          "MediaText": {
+            "Title": "Media + Tekst",
+            "Description": "Media til venstre, tekst til høyre."
+          },
+          "MediaGallery": {
+            "Title": "Mediagalleri",
+            "Description": "To rader med tre mediablokker."
+          },
+          "TextMedia": {
+            "Title": "Tekst + Media",
+            "Description": "Tekst til venstre, media til høyre."
+          },
+          "Person": {
+            "Title": "Person",
+            "Description": "Fremhev en person med avatar, navn og tilstøtende tekst."
+          },
+          "Quote": {
+            "Title": "Sitat",
+            "Description": "En sitatfokusert rik tekst-blokk."
+          },
+          "Spacing": {
+            "Title": "Avstand",
+            "Description": "Legg til justerbar vertikal plass mellom blokker."
+          },
+          "Divider": {
+            "Title": "Skiller",
+            "Description": "Legg til en enkel horisontal skillelinje."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Opprett med AI",
+          "AddWithAiPlaceholder": "Beskriv innholdet så legger jeg det til for deg",
+          "ApplyPreview": "Bruk forhåndsvisning",
+          "Cancel": "Avbryt",
+          "CurrentRowScope": "Gjeldende rad",
+          "DialogTitle": "AI assistent",
+          "DocumentScope": "Hele dokumentet",
+          "EmptyPromptError": "Skriv inn en instruksjon før du genererer en forhåndsvisning.",
+          "GeneratePreview": "Generer forhåndsvisning",
+          "GeneratePage": "Generer side",
+          "GenerationBlockComplete": "Blokken er klar.",
+          "GenerationBlockSelecting": "Velger blokk",
+          "GenerationBlockTitle": "Genererer blokk",
+          "GenerationBlockWriting": "Skriver innhold",
+          "GenerationComplete": "Siden er klar.",
+          "GenerationOutline": "Oppretter sideoversikt fra instruksjonen din.",
+          "GenerationRowGenerated": "Skriver rad {current} av {total}.",
+          "GenerationRowsInserted": "Innsatte {total} plassholderrader og startet å fylle dem.",
+          "GenerationStepComplete": "Klar",
+          "GenerationStepContent": "Skriv innhold",
+          "GenerationStepOutline": "Oversikt",
+          "GenerationStepRows": "Plasser rader",
+          "GenerationTitle": "Genererer side",
+          "GenerateBlock": "Generer blokk",
+          "InvalidCurrentRowResponse": "Forhåndsvisningen for en gjeldende rad må inneholde nøyaktig én rad.",
+          "InvalidPreviewError": "Generer en gyldig forhåndsvisning før du bruker endringer.",
+          "Open": "AI assistent",
+          "PreviewJson": "Forhåndsvis JSON",
+          "PreviewReady": "Forhåndsvisning generert. Gå gjennom JSON før du bruker.",
+          "PromptLabel": "Instruksjon",
+          "PromptPlaceholder": "Beskriv hva AI skal lage eller forbedre...",
+          "RawResponse": "Rå AI-respons",
+          "ScopeLabel": "Bruk AI på",
+          "SelectedRowRequired": "Velg en rad før du bruker AI på gjeldende rad.",
+          "Send": "Send",
+          "ShortcutFallbackTitle": "AI snarvei",
+          "ValidationIssues": "Valideringsproblemer"
+        },
+        "Settings": {
+          "Title": "Innholdsstrøm-innstillinger",
+          "Placeholder": "Innholdsstrøm-innstillinger vil være tilgjengelig når blokk-lagring er implementert.",
+          "Categories": {
+            "General": "Generelt",
+            "Layout": "Oppsett",
+            "Media": "Media",
+            "Divider": "Skiller",
+            "Editor": "Redigerer",
+            "AiAssistance": "AI assistanse"
+          },
+          "RowSpacing": "Radavstand",
+          "RowSpacingHint": "Setter vertikal avstand mellom innholdsstrøm-rader.",
+          "ColumnSpacing": "Kolonneavstand",
+          "ColumnSpacingHint": "Setter avstand mellom kolonner og galleri-elementer i innholdsstrøm-rader.",
+          "MediaBorderRadius": "Media kant radius",
+          "MediaBorderRadiusHint": "Setter kant radius for alle media-innholdsblokker i redigereren.",
+          "DividerStyle": "Stil",
+          "DividerColor": "Farge",
+          "DividerOpacity": "Gjennomsiktighet",
+          "DividerWeight": "Vekt",
+          "DividerWidth": "Bredde",
+          "DividerStyleLine": "Linje",
+          "DividerStyleDashed": "Stiplet",
+          "DividerStyleDotted": "Prikket",
+          "DividerStyleDoubleLine": "Dobbel linje",
+          "DividerStyleDoubleDashed": "Dobbel stiplet",
+          "DividerStyleDoubleDotted": "Dobbel prikket",
+          "ConfirmDelete": "Bekreft sletting",
+          "ConfirmDeleteHint": "Vis en bekreftelses-popup før sletting av en innholdsstrøm-blokk.",
+          "ConfirmDeleteTitle": "Slett blokk?",
+          "ConfirmDeleteMessage": "Denne blokken vil bli slettet fra innholdsstrømmen.",
+          "EnableAiAssistance": "Aktiver AI assistanse",
+          "EnableAiAssistanceHint": "Aktiverer AI-handling i verktøylinjen og full side-generering.",
+          "AiMediaProvider": "AI medieleverandør",
+          "AiMediaProviderHint": "Velger hvordan genererte side-mediablokker fylles under full side AI-generering.",
+          "AiMediaProviderNone": "Ingen",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Malvalg for blokk",
+            "Cancel": "Avbryt",
+            "Description": "Konfigurer instruksjonene som brukes av Innholdsstrøm AI på tvers av denne forretningsprofilen.",
+            "GlobalPostPrompt": "Global post-instruksjon",
+            "GlobalPrePrompt": "Global pre-instruksjon",
+            "LoadError": "De lagrede instruksjonsinnstillingene kunne ikke lastes. Standardverdier vises.",
+            "ResetToDefaults": "Tilbakestill til standard",
+            "SaveError": "Instruksjonsinnstillingene kunne ikke lagres.",
+            "Saved": "Instruksjonsinnstillinger lagret.",
+            "TemplatePrompts": "Mal-instruksjoner",
+            "Title": "Innholdsstrøm AI instruksjoner"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Ugyldig JSON ble erstattet med et standarddokument.",
+          "MissingDocumentDefaultCreated": "Manglende dokument ble erstattet med et standarddokument.",
+          "SchemaMigrated": "Dokumentet ble normalisert til Innholdsstrøm skjema versjon 1.",
+          "SchemaInvalid": "Innholdsstrøm-dokumenter må bruke skjema versjon 1.",
+          "RowsEmpty": "Innholdsstrøm-dokumenter må inneholde minst én rad.",
+          "RowIdMissing": "Rad-ID er påkrevd.",
+          "RowTemplateInvalid": "Radmal-type støttes ikke.",
+          "BlocksEmpty": "En rad må inneholde minst én blokk.",
+          "BlockIdMissing": "Blokk-ID er påkrevd.",
+          "TextMissing": "En tekstblokk må inneholde tekstinnhold.",
+          "MediaMissing": "En mediablokk må inneholde mediainnhold.",
+          "QuoteMissing": "En sitatblokk må inneholde rik tekst-innhold.",
+          "SpacingMissing": "En avstandsblokk må inneholde avstandsinnstillinger.",
+          "RowInvalid": "Ugyldig rad ble erstattet med en tekst-rad.",
+          "BlockInvalid": "Ugyldig blokk ble erstattet med en tekstblokk.",
+          "LegacyTextMigrated": "Eldre tekstinnhold ble migrert til en tekst-rad.",
+          "LegacyMediaMigrated": "Eldre mediainnhold ble migrert til en media-rad."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia full side-opplevelse",
+          "Summary": "Bruk denne blokken for å legge til en full side-opplevelse på en side."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "System",
+          "Description": "Tilrettelegg en systemside til SharePoint sidebibliotek.",
+          "Title": "Omnia full side-opplevelse"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Skiller",
+      "Title": "Skiller",
+      "Description": "Legg til en skiller på siden",
+      "Settings": {
+        "WelcomeTitle": "Skiller",
+        "Description": "Legg til en skiller på siden",
+        "Display": "Visning",
+        "StyleSection": "Stil",
+        "Style": "Stil",
+        "Color": "Farge",
+        "Opacity": "Gjennomsiktighet",
+        "Weight": "Vekt",
+        "Width": "Bredde",
+        "Line": "Linje",
+        "Dashed": "Stiplet",
+        "Dotted": "Prikket",
+        "DoubleLine": "Dobbel linje",
+        "DoubleDashed": "Dobbel stiplet",
+        "DoubleDotted": "Dobbel prikket"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Vis detaljer"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame tilgjengelig tittel",
+        "CustomUrlTitle": "Egendefinert URL",
+        "PropertyUrlTitle": "URL fra egenskap"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Velg sidetyper"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Vis etikettikon med verdi"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Stil forhåndsinnstilling",
+        "General": "Generelt",
+        "CurrentNodeIndicator": "Indikator for gjeldende node",
+        "OpenCollapse": "Åpne & skjul",
+        "OpenCollapseColor": "Åpne & skjul farge",
+        "RowDensity": "Rad tetthet",
+        "HoverState": "Hover-tilstand",
+        "HoverColor": "Hover-farge",
+        "IndentGuide": "Innrykk guide",
+        "IndicatorColor": "Indikatorfarge",
+        "RowFontSize": "Rad skriftstørrelse",
+        "LivePreview": "Direkte forhåndsvisning",
+        "OmniaClassic": "Omnia klassisk",
+        "OmniaClassicDescription": "Nåværende Omnia navigasjonsstil",
+        "MaterialClassic": "Material klassisk",
+        "MaterialClassicDescription": "Fet primærtekst - chevron høyre",
+        "LeftBarAccent": "Venstre stolpe aksent",
+        "LeftBarAccentDescription": "Sidefelt markør - chevron høyre",
+        "TintedPill": "Tonet pille",
+        "TintedPillDescription": "Fylt aktiv rad - pluss/minus skjul",
+        "CompactRowClick": "Kompakt + rad-klikk",
+        "CompactRowClickDescription": "Tette rader - hele raden veksler",
+        "TreePill": "Tre + pille",
+        "TreePillDescription": "Koblingslinjer - fylt pillemarkør",
+        "Custom": "Tilpasset",
+        "LeftBar": "Venstre stolpe",
+        "FilledPill": "Fylt pille",
+        "BoldColor": "Fet farge",
+        "Dot": "Punkt",
+        "Outline": "Omriss",
+        "ChevronRight": "Chevron høyre",
+        "ChevronLeft": "Chevron venstre",
+        "PlusMinus": "Pluss/minus",
+        "PlusMinusLeft": "Pluss/minus venstre",
+        "RowClick": "Rad-klikk",
+        "Compact": "Kompakt",
+        "Comfortable": "Behagelig",
+        "Spacious": "Romslig",
+        "Tint": "Tone",
+        "Underline": "Understrek",
+        "Bold": "Fet",
+        "None": "Ingen",
+        "Dotted": "Prikket",
+        "Solid": "Solid",
+        "Tree": "Tre"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "Denne sidevarianten er låst på grunn av maskinoversettelse.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Legg til bilde",
+          "ImageDescription": "Mulighet til å legge til et bilde eller video på siden."
+        },
+        "PageTitle150MaxLengthValidation": "Tittelen nådde grensen på 150 tegn og kan ikke lagres."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Kolonnebredde"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia side søk mal"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint side søk mal"
+      },
+      "Fields": {
+        "Title": "Tittel",
+        "Description": "Beskrivelse",
+        "Date": "Dato",
+        "FallbackDate": "Reserve dato",
+        "User": "Bruker",
+        "FallbackUser": "Reserve bruker",
+        "URL": "URL",
+        "ParentURL": "Foreldre URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Åpne i SharePoint full side"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Status",
+        "Success": "Vellykket",
+        "Error": "Feil",
+        "Running": "Kjører",
+        "Stopping": "Stopper"
+      },
+      "Started": "Startet",
+      "Ended": "Avsluttet",
+      "CreatedBy": "Opprettet av",
+      "Summary": "Sammendrag",
+      "ReindexContentMessage": "Reindekserer {0} sider (Vellykket: {1}, Feilet: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint sider",
+      "SelectSharePointSite": "Velg SharePoint-nettsted",
+      "SearchPages": "Søk sider",
+      "SPPageNotFound": "Denne SharePoint-siden kunne ikke bli funnet",
+      "NoSPPagesFound": "Ingen SharePoint-sider funnet",
+      "LoadingSPPages": "Laster SharePoint-sider...",
+      "SelectAllPagesOnCurrentPage": "Velg alle sider på gjeldende side",
+      "CurrentSPPage": "Gjeldende SP-side",
+      "SPPageProviderTableHeader": {
+        "FileName": "Filnavn",
+        "Title": "Tittel",
+        "Modified": "Endret",
+        "ModifiedBy": "Endret av",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Skjul antall registrerte deltakere (leser)",
+          "General": "Generelt",
+          "Display": "Visning",
+          "StylePreset": "Stil forhåndsinnstilling",
+          "LivePreview": "Direkte forhåndsvisning",
+          "ShowIcon": "Vis ikon",
+          "ShowNumbers": "Vis tall",
+          "Icon": "Ikon",
+          "Meter": "Måler",
+          "Color": "Farge",
+          "Size": "Størrelse",
+          "StatusBadge": "Statusmerke",
+          "None": "Ingen",
+          "Bar": "Stolpe",
+          "SeatGrid": "Seterutenett",
+          "Neutral": "Nøytral",
+          "Primary": "Primær",
+          "Semantic": "Semantisk",
+          "Custom": "Tilpasset",
+          "CustomColor": "Tilpasset farge",
+          "Compact": "Kompakt",
+          "Default": "Standard",
+          "Large": "Stor",
+          "PreviewRegistered": "Forhåndsvis registrerte",
+          "PreviewCapacity": "Forhåndsvis kapasitet"
+        },
+        "Presets": {
+          "Classic": "Klassisk",
+          "ClassicDescription": "Ikon og antall",
+          "Progress": "Fremdrift",
+          "ProgressDescription": "Antall med måler",
+          "BigNumber": "Stort tall",
+          "BigNumberDescription": "Stor fokus på antall",
+          "SeatGrid": "Seterutenett",
+          "SeatGridDescription": "Visuelle kapasitetsceller",
+          "Status": "Status",
+          "StatusDescription": "Semantisk måler og merke",
+          "Minimal": "Minimal",
+          "MinimalDescription": "Kun kompakt antall"
+        },
+        "Status": {
+          "Available": "Tilgjengelig",
+          "FillingUp": "Fylles opp",
+          "AlmostFull": "Nesten full",
+          "SoldOut": "Utsolgt"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Arrangementskort"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Call to action stil",
+        "Description": "Konfigurer utseendet til Call to action-knapper i applikasjonen din.",
+        "PreviewButton": "Forhåndsvis knapp"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Sporing",
+        "JoinTeamsMeeting": "Bli med",
+        "IconLabels": {
+          "DateTime": "Dato og tid",
+          "Location": "Sted",
+          "Description": "Beskrivelse"
+        },
+        "ResponseMessage": {
+          "Accept": "Akseptert",
+          "Tentative": "Foreløpig",
+          "Declined": "Avvist"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Call to action"
+        },
+        "Extensions": {
+          "CallToAction": "Call to action"
+        }
+      },
+      "CallToAction": {
+        "Title": "Tittel",
+        "Url": "URL",
+        "Save": "Lagre",
+        "Cancel": "Avbryt",
+        "LinkNotSupported": "Den oppgitte lenken støttes ikke."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Åpne i klientapp",
+        "OpenInWeb": "Åpne i nettleser",
+        "OpenInWebNewTab": "Åpne i nettleser i ny fane",
+        "DocumentLinkHandlerNote": "Lenker håndteres globalt, dette kan påvirke oppførselen til valgene ovenfor.",
+        "NoDocumentPickers": "Ingen dokumentvelgere konfigurert."
+      },
+      "User": {
+        "Label": "Bruker",
+        "FindUser": "Finn bruker"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint sidevelger",
+        "Name": "SharePoint side",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint sidekategorier",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Slett kategori",
+            "Message": "Er du sikker på at du vil slette denne SharePoint sidekategorien?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Legg til filter",
+            "AdjustFilters": "Juster filtre",
+            "Done": "Ferdig",
+            "TermSetNotFound": "Termsett ikke funnet",
+            "SearchBox": "Søkeboks (Egenskaper)",
+            "SearchBoxProperties": "SharePoint sideegenskaper",
+            "FullTextSearch": "Søkeboks (Fulltekst)",
+            "SearchOnSPPageTitleAnd": "Søk på SharePoint sidetittel og",
+            "EnableWildcardSearch": "Aktiver delvis ordsøk",
+            "ShowSearchBox": "Vis søkeboks",
+            "SearchTextLabel": "Søketekst",
+            "AdjustWidthPlaceholder": "Bredde",
+            "CollapseFilter": "Skjul filter som standard"
+          },
+          "SearchCategories": "Søk kategorier",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint bibliotek",
+            "SearchCategory": "Søk kategori"
+          },
+          "SharePointLibraryUrl": "SharePoint bibliotek URL",
+          "LibraryNotExistedMessage": "Kan ikke finne et bibliotek på denne URL-en.",
+          "DateFilter": {
+            "From": "Fra",
+            "To": "Til"
+          },
+          "Common": {
+            "Yes": "Ja",
+            "No": "Nei",
+            "All": "Alle"
+          }
+        },
+        "AddDocument": "Legg til dokument",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Fjern dokument",
+            "Message": "Er du sikker på at du vil fjerne dette dokumentet?"
+          }
+        },
+        "NoSharePointPagePicker": "Ingen SharePoint sidevelgere konfigurert",
+        "NoResultMessage": "Ingen side funnet",
+        "ResolveUserErrorMessage": "Feil ved filtrering av person"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Side ikke funnet"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Vis i dialog"
+      },
+      "NodePicker": {
+        "Header": "Velg navigasjonsnode"
+      },
+      "ListView": {
+        "TargetReached": "Mål nådd",
+        "TargetNotReached": "Mål ikke nådd"
+      },
+      "CardView": {
+        "VisitPage": "Åpne side",
+        "PageImage": "Sidebilde",
+        "PlaceholderImageIfEmpty": "Plassholderbilde hvis tom",
+        "CardType": {
+          "ImageRight": "Bilde til høyre",
+          "ImageLeft": "Bilde til venstre"
+        },
+        "TitleElement": "Titelelement",
+        "TitleElements": {
+          "Custom": "Tilpasset",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Bilde/Tekst-forhold",
+        "RatioImageNarrowTitle": "Bilde 30%, tekst 70%",
+        "RatioEqualTitle": "Bilde 50%, tekst 50%",
+        "RatioImageWideTitle": "Bilde 70%, tekst 30%",
+        "ShowAsText": "Vis person som tekst"
+      },
+      "EventCard": {
+        "StartDate": "Arrangement startdato",
+        "EndDate": "Arrangement sluttdato",
+        "Location": "Sted",
+        "EventDate": "Arrangementdato",
+        "EventStatus": "Arrangementstatus",
+        "AllDayProperty": "Hele dagen-egenskap",
+        "ShowDateOnImage": "Vis arrangementsdatoer på bilde",
+        "ShowLocation": "Vis sted",
+        "ShowRegisteredCapacity": "Vis antall påmeldte",
+        "ShowRegistrationStatus": "Vis påmeldingsstatus",
+        "ShowPastEventStatus": "Vis status for tidligere arrangement",
+        "ShowAllDayStatus": "Vis status for hele dagen",
+        "ShowTeamsMeetingStatus": "Vis Teams møte status",
+        "JoinTeamsMeeting": "Bli med i Teams møte",
+        "MovePropertyUp": "Flytt opp {0}",
+        "MovePropertyDown": "Flytt ned {0}",
+        "RemoveTermProperty": "Fjern {0}",
+        "DateSettings": "Datoinnstillinger",
+        "StartDateSettings": "Innstillinger for arrangements startdato",
+        "EndDateSettings": "Innstillinger for arrangements sluttdato",
+        "RegistrationOpen": "Påmelding åpen",
+        "RegistrationClosed": "Påmelding lukket",
+        "FullyBooked": "Fullt booket",
+        "PastEvent": "Tidligere arrangement",
+        "AllDay": "Hele dagen",
+        "TeamsMeeting": "Teams møte"
+      },
+      "ListingWithImage": {
+        "Properties": "Egenskaper",
+        "AddProperty": "Legg til egenskap",
+        "PropertiesSeparator": "Egenskapsseparator",
+        "WhiteSpace": "Hvitt rom",
+        "Property": "Egenskap",
+        "NoPropertySelected": "Ingen egenskap valgt",
+        "DateModeDefault": "Standard",
+        "DateModeClassic": "Klassisk",
+        "DateModeSocial": "Sosial",
+        "HideAvatar": "Skjul avatar",
+        "ShowAsText": "Vis som tekst",
+        "SeparatorType": "Separator type",
+        "RightAlignLikesComments": "Høyrejuster liker og kommentarer"
+      },
+      "Common": {
+        "ShowMetricDetails": "Vis detaljer",
+        "AllowLiking": "Tillat liking",
+        "FileReadyForDownload": "Eksportfil {0} er klar for nedlasting.",
+        "OpenInSharePointFullPage": "Åpne i SharePoint full side"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Kortvisning (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Velg år",
+          "MonthSelector": "Velg måned",
+          "WeekSelector": "Velg uke",
+          "DateSelector": "Velg dato"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semantisk søk",
+          "SemanticSearchLogs": "Reindekser innhold - logger",
+          "ReindexContent": "Reindekser innhold",
+          "Logging": "Logging",
+          "ReindexContentMessageProgress": "Fullført {0} av {1} sider (vellykket: {2}, feilet: {3}) i {4}",
+          "ReindexContentMessage": "Reindekserer {0} sider (vellykket: {1}, feilet: {2}) i {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Er du sikker på at du vil reindeksere innhold for semantisk søk?",
+          "QueueReindex": "Køet for behandling…",
+          "Stopping": "Stopper…",
+          "TerminateCurrentJob": "Avslutt gjeldende jobb",
+          "TerminateCurrentJobConfirmationTitle": "Avslutt gjeldende jobb",
+          "TerminateCurrentJobConfirmationDescription": "Er du sikker på at du vil avslutte gjeldende jobb?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Rediger i Omnia"
+      }
+    },
+    "SharepointSync": {
+      "EnableFullPageView": "Aktiver full sidevisning",
+      "EnableEnhancedCopilotIntegration": "Aktiver forbedret Copilot-integrasjon",
+      "Copilot": {
+        "Headline": "Sidens metadata",
+        "PropertyTemplate": "{0} for denne siden er {1}",
+        "BusinessProfile": "Forretningsprofilen for denne siden er {0}",
+        "PublishingApp": "Publiseringsappen for denne siden er {0}",
+        "PageCollection": "Sidesamlingen for denne siden er {0}"
+      }
+    },
+    "PageManagement": {
+      "EditPage": "Rediger side"
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Kommentarmal",
+        "CommentTemplateOptions": {
+          "Default": "Standard",
+          "Threaded": "Trådet"
+        },
+        "ThreadedComments": "Trådede kommentarer",
+        "CustomInputStyle": "Egendefinert inndatastil",
+        "Elevation": "Høyde",
+        "BorderThickness": "Kant tykkelse",
+        "BorderRadius": "Kant radius",
+        "BorderColor": "Kant farge",
+        "TextColor": "Tekstfarge",
+        "BackgroundColor": "Bakgrunnsfarge",
+        "EnableRichTextPageFeedback": "Formatering",
+        "OverrideDefaultSettings": "Overstyr standardinnstillinger",
+        "DeletedCommentMessage": {
+          "Label": "Melding for slettet kommentar",
+          "Always": "Alltid",
+          "Never": "Aldri",
+          "WhenReferenced": "Når referert"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Tillat deling"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia full side-opplevelse",
+        "Description": "En full side-opplevelseskomponent for visning av innhold over hele siden."
+      },
+      "Settings": {
+        "AllowEdit": "Tillat redigering",
+        "Title": "Tittel",
+        "SelectedPage": "Valgt side"
+      }
+    }
+  }
+}

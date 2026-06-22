@@ -1,0 +1,126 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantische Suche neu indexieren",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Das Dokument wurde in der semantischen Suche neu indexiert."
+        },
+        "Completed": "Abgeschlossen",
+        "Find": "Finden",
+        "Reindex": "Neu indexieren",
+        "SearchPlaceholder": "Suchen ..."
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "mehr"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Dokument-Suchvorlage"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Laden der Dokumentvorlageninformationen fehlgeschlagen."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Indexierung in der semantischen Suche fehlgeschlagen.",
+        "SemanticSearchIndexing": "Indexierung in der semantischen Suche"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Indexierung in der semantischen Suche fehlgeschlagen.",
+        "Message": "Dieses Dokument wurde erfolgreich veröffentlicht, aber es gab ein Problem bei der Indexierung in der semantischen Suche.<br/>Möchten Sie den Indexierungsprozess erneut auslösen?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Beim Indexieren in der semantischen Suche ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Dokumentenbibliotheksanzeige",
+      "BlockDescription": "Zeigt eine ausgewählte SharePoint-Dokumentenbibliotheksansicht mit Ordnern, Filtern und Export an.",
+      "Common": {
+        "ConfigurePrompt": "Konfigurieren Sie die Site-URL, Bibliothek und entweder eine Ansicht oder ausgewählte Felder in den Einstellungen.",
+        "NoDataToShow": "Keine Daten zum Anzeigen.",
+        "LoadMore": "Mehr laden",
+        "Name": "Name",
+        "RootFolder": "Root",
+        "ExportToExcel": "Exportieren nach Excel",
+        "Exporting": "Excel-Datei wird erstellt...",
+        "PreviousPage": "Vorherige Seite",
+        "NextPage": "Nächste Seite",
+        "SortByColumn": "Nach Spalte sortieren",
+        "ExpandGroup": "Gruppe erweitern",
+        "CollapseGroup": "Gruppe reduzieren",
+        "ItemType": "Elementtyp",
+        "FriendlyDates": {
+          "FewSecondsAgo": "Vor ein paar Sekunden",
+          "AboutMinuteAgo": "Vor etwa einer Minute",
+          "MinutesAgo": "Vor {0} Minuten",
+          "AboutHourAgo": "Vor etwa einer Stunde",
+          "HoursAgo": "Vor {0} Stunden",
+          "Yesterday": "Gestern",
+          "YesterdayAt": "Gestern um",
+          "WeekdayAt": "{0} um",
+          "DaysAgo": "Vor {0} Tagen",
+          "DaysAgoAt": "Vor {0} Tagen um"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Allgemein",
+          "Query": "Abfrage",
+          "Display": "Anzeige",
+          "Filter": "Filter",
+          "Export": "Export"
+        },
+        "SiteUrl": "Site-URL",
+        "PickLibrary": "Bibliothek auswählen",
+        "FieldSelectionMode": "Spaltenquelle",
+        "UseView": "SharePoint-Ansicht verwenden",
+        "SelectFieldsDirectly": "Felder direkt auswählen",
+        "View": "Ansicht",
+        "Paging": "Seitennavigation",
+        "PagingType": {
+          "NoPaging": "Keine Seitennavigation",
+          "Classic": "Klassisch"
+        },
+        "ItemLimit": "Elementlimit",
+        "PageSize": "Zeilen pro Seite",
+        "ShowBreadcrumb": "Breadcrumb anzeigen",
+        "DateDisplayMode": "Datentyp",
+        "DateModeSource": "Quellformatierung (SharePoint-Liste)",
+        "DateModeClassic": "Klassisch",
+        "DateModeSocial": "Sozial",
+        "DateFormat": "Datumsformat",
+        "ShowExportToExcel": "Export nach Excel anzeigen",
+        "DisplayFields": "Anzeigefelder",
+        "ColumnWidth": "Breite (px)",
+        "ShowHeading": "Überschrift anzeigen"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Exportdatei {0} ist zum Download bereit."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Alle Dokumente auf dieser Seite auswählen",
+        "SelectDocument": "Dokument auswählen",
+        "SelectDocumentWithTitle": "Dokument {0} auswählen"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Prozess-Suchvorlage"
+        }
+      }
+    }
+  }
+}

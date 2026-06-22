@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Arv fra tenant",
+        "ImageScaling": "Billedskalering",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Overskrivning af beskæringsforhold på forretningsprofilniveau understøttes ikke.",
+          "SelectTenantRatios": "Vælg hvilke tenant beskæringsforhold der skal bruges i denne forretningsprofil."
+        },
+        "ImageStyle": {
+          "Title": "Billedstil",
+          "BorderRadius": "Kantens radius"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Semantisk søgning fuld reindeksering",
+          "Disclaimer": "Semantisk søgning vil være utilgængelig, mens reindeksering er i gang. Denne operation kan tage ret lang tid afhængigt af mængden af indhold.",
+          "StartButton": "Start fuld reindeksering",
+          "Running": "Reindeksering i gang...",
+          "ConfirmTitle": "Start fuld reindeksering",
+          "ConfirmMessage": "Er du sikker på, at du vil starte en fuld semantisk søgningsreindeksering?",
+          "StatusLoadError": "Kunne ikke indlæse den aktuelle reindekseringsstatus.",
+          "StartError": "Kunne ikke starte den fulde reindeksering."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Skrifttype"
+    },
+    "TextStyles": {
+      "FontWeight": "Skriftvægt",
+      "FontWeightInvalid": "Indtast en gyldig skriftvægt (normal, fed, kraftigere, lettere eller et tal mellem 1 og 1000).",
+      "InheritFromTenant": "Arv fra tenant",
+      "ApplyEverywhere": "Anvend overalt",
+      "ApplyEverywhereDescription": "Når aktiveret, anvendes de indbyggede tekststile på alle matchende elementer i hele løsningen. Når deaktiveret, påvirker de kun indhold i rich text editoren. Tilpassede tekststile forbliver altid begrænset til rich text editoren."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Skærmbillede, der viser hvor man opretter et SharePoint app-katalog site.",
+        "UploadPackageScreenshotAlt": "Skærmbillede, der viser hvor man uploader SharePoint-pakken i Apps for SharePoint.",
+        "AvailableToAllSitesScreenshotAlt": "Skærmbillede, der viser muligheden for at gøre SharePoint-pakken tilgængelig for alle sites."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Term sæt ID mangler eller er ugyldigt for denne taksonomiordbog.",
+      "Default": "Standard",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Fjern standard ikon og farve",
+        "Message": "Er du sikker på, at du vil fjerne standard udseende og føl indstillinger?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Søgefeltstil",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365 stil",
+        "WCAGCompliant": "WCAG-kompatibel"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Venstre panel",
+          "LeftPanelLayoutsSettings": "Venstre panel",
+          "CustomFontFamily": "Brugerdefineret skrifttypefamilie",
+          "CenterMenu": "Centreret menu",
+          "CenterMenuWidth": "Centreret bredde (px)",
+          "ForceUppercase": "Tving store bogstaver",
+          "ShowIcons": "Vis ikoner",
+          "HideText": "Skjul tekst"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Visning",
+        "HeadingElement": "Overskriftselement",
+        "BorderRadius": "Kantens radius",
+        "Elevation": "Højde",
+        "ShowStatusText": "Vis statustekst",
+        "ShowTypeIcon": "Vis typeikon",
+        "ShowDate": "Vis dato",
+        "DateType": "Datotype",
+        "Social": "Social",
+        "Classic": "Klassisk",
+        "DateFormat": "Datoformat",
+        "NoResultText": "Ingen resultattekst",
+        "ModernAnnoucement": "Moderne meddelelse"
+      },
+      "CommentCount": "{0} kommentarer"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Vis venstre panel",
+          "Category": "System",
+          "Description": "Vis venstre panel i den aktuelle app-instans."
+        },
+        "CopilotChat": {
+          "Title": "Copilot chat"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analytics for SPFx",
+          "Description": "Aktiverer automatiseret brugeraktivitetssporing på SharePoint-sider via Matomo.",
+          "Category": "System"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Handlingsmenu"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Listevisning"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Eksportfil {0} er klar til download."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Administrer links"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Tilføj link med titlen \"{LinkTitle}\" til Mine links",
+        "DeleteMyLinksAriaLabel": "Slet link med titlen \"{LinkTitle}\" fra Mine links",
+        "RemoveMyLinksAriaLabel": "Fjern link med titlen \"{LinkTitle}\" fra Mine links",
+        "EditLinkAriaLabel": "Rediger link med titlen \"{LinkTitle}\""
+      },
+      "AppLaunch": {
+        "Back": "Tilbage",
+        "CreateMore": "Opret flere",
+        "Document": "Dokument",
+        "FindMicrosoft365Apps": "Find Microsoft 365 apps",
+        "Presentation": "Præsentation",
+        "SearchBoxAriaLabel": "Søgefelt. Forslag vises mens du skriver.",
+        "SearchMicrosoft365Apps": "Søg i alle dine Microsoft 365 apps",
+        "SearchResults": "Søgeresultater",
+        "Survey": "Undersøgelse",
+        "Workbook": "Arbejdsbog"
+      },
+      "Component": {
+        "ShowMoreLinks": "Vis flere links",
+        "ShowLessLinks": "Vis færre links"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Forkort label",
+        "IncludePersonalLinks": "Inkluder personlige links",
+        "IncludeFollowingLinks": "Inkluder fulgte links",
+        "ShowManageLinks": "Vis ikon til linkadministration",
+        "ShowMoreButton": "Vis mere knap",
+        "ShowMoreAriaLabel": "Vis mere knap aria label",
+        "ShowLessAriaLabel": "Vis mindre knap aria label",
+        "HideShowMoreButton": "Skjul Vis mere knap",
+        "HideLinkTitle": "Skjul linktitel",
+        "SquareDesign": "Firkantet design",
+        "FontSize": "Skriftstørrelse",
+        "IconSize": "Ikonstørrelse",
+        "IconMargin": "Ikonmargin",
+        "IconPadding": "Ikonpolstring"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} ulæste notifikationer i {0}",
+      "CategoryTabListLabel": "Notifikationskategorier"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Rediger {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Brug faste egenskaber pr. række"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Søgeskabeloner anvendes i den angivne rækkefølge. Hvis et resultat matcher flere skabeloner, bruges det første match.",
+        "LongDescription": "Lang beskrivelse",
+        "SearchFeedbackPosition": "Position for søgefeedback",
+        "UserProperties": "Brugeregenskaber",
+        "FilterValueTypes": {
+          "FilterValueType": "Filterværdi type",
+          "FixedValue": "Fast værdi",
+          "CurrentUser": "Aktuel bruger"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Ud fra det indhold, jeg har adgang til, kunne jeg ikke finde et svar på dit spørgsmål.",
+          "RequestMoreContext": "Kan du venligst give mere kontekst eller præcisere dit spørgsmål?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Forfin søgning",
+        "RefinerExpandedLabel": "{0}, udvidet{1}",
+        "RefinerCollapsedLabel": "{0}, skjult{1}",
+        "RefinerActiveFilterCount": ", {0} aktive filtre",
+        "RefinerOptionLabel": "{0}, {1} resultater",
+        "RefinerOptionSelectedLabel": "{0}, {1} resultater, valgt",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, valgt"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Titel",
+          "Description": "Beskrivelse",
+          "Date": "Dato",
+          "FallbackDate": "Backup dato",
+          "User": "Bruger",
+          "FallbackUser": "Backup bruger",
+          "URL": "URL",
+          "ParentURL": "Overordnet URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint listeelement søgeskabelon"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Person søgeskabelon"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Vejledningsdialog",
+        "RegionLabel": "Vejledningsdialog. Brug tastaturnavigation til at bevæge dig mellem vejledningsskridtene.",
+        "PreviousStep": "Forrige vejledningsskridt",
+        "NextStep": "Næste vejledningsskridt",
+        "StepPickerLabel": "Vejledningsskridt",
+        "StepButtonLabel": "Vis vejledningsskridt {0} af {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint side tilknytning",
+          "Summary": "List SharePoint sider."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint side tilknytning",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Filter"
+        },
+        "FilterByExpirationTime": "Filtrer efter udløbstid",
+        "QueryConfigurationTypes": {
+          "PickPages": "Vælg sider",
+          "UseQueryBuilder": "Brug forespørgselsbygger"
+        },
+        "QueryScope": {
+          "AllPages": "Alle sider",
+          "SharePointLibrary": "SharePoint bibliotek"
+        },
+        "SiteUrl": "Site URL",
+        "Operators": {
+          "Equals": "Er lig med",
+          "StartWith": "Starter med",
+          "Contains": "Indeholder",
+          "LessThan": "Mindre end",
+          "GreaterThan": "Større end"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuel",
+          "QueryParameter": "Forespørgselsparameter",
+          "UserLanguage": "Brugersprog",
+          "UserEmail": "Bruger Email",
+          "Today": "I dag"
+        },
+        "AddQueryFilter": "Tilføj forespørgselsfilter",
+        "Summary": "Resumé",
+        "Image": "Billede",
+        "Date": "Dato",
+        "Person": "Person",
+        "Description": "Beskrivelse",
+        "TermProperties": "Term egenskaber",
+        "CardsPerRow": "Kort pr. række",
+        "ShowLikesComments": "Vis likes/kommentarer",
+        "ShowLastActivity": "Vis sidste aktivitet",
+        "ShowRating": "Vis vurdering",
+        "OpenInNewTab": "Åbn i ny fane",
+        "AddColumn": "Tilføj kolonne",
+        "FixedHeader": "Fast header",
+        "NoColumnSelected": "Ingen kolonner valgt. Konfigurer venligst kolonner i indstillingerne.",
+        "Width": "Bredde",
+        "ShowLabel": "Vis label",
+        "CustomLabel": "Brugerdefineret label",
+        "InvalidUrl": "URL'en skal være en sideliste.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Fjern side",
+          "Message": "Er du sikker på, at du vil fjerne denne side?"
+        },
+        "PickPages": {
+          "Title": "SharePoint sidevælger",
+          "AddPageLabel": "Tilføj side",
+          "NoPagesFound": "Ingen sider fundet",
+          "Placeholder": "Søg sider...",
+          "PickInWriteMode": "Vælg sider i skrive-tilstand"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Brugerdefineret visning",
+        "CardView": "Kortvisning"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "Email",
+      "StartChatAction": "Chat med",
+      "StartCallAction": "Ring"
+    }
+  }
+}

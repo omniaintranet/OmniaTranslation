@@ -1,0 +1,879 @@
+{
+  "WCM": {
+    "Accordion": {
+      "AccordionSettings": {
+        "HeadingLevel": "Heading level"
+      }
+    },
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Text only"
+      }
+    },
+    "ChannelSubscriptionsButton": {
+      "ButtonText": "Channel subscriptions"
+    },
+    "CreatePageButton": {
+      "NavigationMode": {
+        "Label": "Navigation mode",
+        "DisableNavigate": "Disable redirect to created page",
+        "NavigateToOmnia": "Navigate to Omnia page",
+        "NavigateToSharePointFullPage": "Navigate to SharePoint full page"
+      },
+      "OpenInDialog": "Open in dialog",
+      "DialogSummaryProperty": "Summary property",
+      "DialogContentProperty": "Content property",
+      "DialogImageProperty": "Image property",
+      "DialogDateProperty": "Date property",
+      "DialogPropertyMappings": "Dialog property mappings",
+      "OverrideDefaultSettings": "Override default settings",
+      "EnableRichText": "Enable rich text",
+      "EnableViewButtonOnDialog": "Enable view button on dialog",
+      "EnableMention": "Enable mention"
+    },
+    "Admin": {
+      "Settings": {
+        "SharepointPageQueryLabel": "SharePoint page query",
+        "SharepointPageQuery": "Base query",
+        "SharepointPageRollupQuery": "SharePoint page rollup base query"
+      },
+      "SemanticSearch": {
+        "Title": "Semantic search",
+        "ReindexContent": "Reindex content",
+        "ReindexContentConfirmationTitle": "Run full index content",
+        "ReindexContentConfirmationDescription": "Are you sure you want to run a full content index on the tenant?",
+        "ReindexContentMessage": "Reindex {0} pages (Succeed: {1}, Failed: {2})",
+        "Running": "Running",
+        "ResumeFromLastSync": "Resume from last dync",
+        "ResumeFromLastSyncTitle": "Resume from last sync",
+        "ResumeFromLastSyncDescription": "Are you sure you want to resume from last sync on tenant?",
+        "QueueReindex": "Queued for processing…",
+        "Stopping": "Stopping…",
+        "TerminateCurrentJob": "Terminate current job",
+        "TerminateCurrentJobConfirmationTitle": "Terminate current job",
+        "TerminateCurrentJobConfirmationDescription": "Are you sure you want to terminate the current job?"
+      },
+      "DefaultRendering": {
+        "Title": "Default rendering",
+        "Description": "Defines a default rendering app instance used as a fallback when the current site does not have Full page experience enabled.",
+        "SelectLabel": "Select default rendering app instance",
+        "DialogSettingsTitle": "Default dialog configuration",
+        "EnableRichText": "Enable rich text",
+        "EnableViewButtonOnDialog": "Enable view button on dialog",
+        "EnableMention": "Enable mention",
+        "DialogSummary": "Dialog summary",
+        "DialogContent": "Dialog content",
+        "DialogImage": "Dialog image",
+        "DialogDate": "Dialog Date"
+      }
+    },
+    "BannerBlock": {
+      "Layout": {
+        "ImageOnLeft": "Image on left",
+        "ImageOnRight": "Image on right"
+      },
+      "Editor": {
+        "OnThisPage": "Sections",
+        "LivePreview": "Live preview",
+        "Menu": {
+          "Style": "Style"
+        }
+      },
+      "Settings": {
+        "ImageTextRatio": "Image/Text ratio",
+        "RatioImageNarrowTitle": "30/70",
+        "RatioEqualTitle": "50/50",
+        "RatioImageWideTitle": "70/30",
+        "Elevation": "Elevation",
+        "BorderRadius": "Border radius",
+        "BorderWidth": "Border width",
+        "BorderColor": "Border color",
+        "AddMedia": "Add media",
+        "ChangeMedia": "Change media",
+        "RemoveMedia": "Remove media",
+        "TitleElement": "Title element",
+        "TitleElements": {
+          "Default": "Default",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "Settings": {
+        "StylePreset": "Style preset",
+        "Query": "Query",
+        "CurrentNodeIndicator": "Current node indicator",
+        "Separator": "Separator",
+        "FontSizeSpacing": "Font size & spacing",
+        "FontSize": "Font size",
+        "Density": "Density",
+        "Compact": "Compact",
+        "Comfortable": "Comfortable",
+        "Spacious": "Spacious",
+        "HoverState": "Hover state",
+        "IndicatorColor": "Indicator color",
+        "SeparatorColor": "Separator color",
+        "HoverColor": "Hover color",
+        "LivePreview": "Live preview",
+        "OmniaClassic": "Omnia classic",
+        "OmniaClassicDescription": "Current Omnia breadcrumb styling",
+        "MinimalSlash": "Minimal slash",
+        "MinimalSlashDescription": "Slash divider - colored hover",
+        "PillCurrent": "Pill current",
+        "PillCurrentDescription": "Tinted pill on current - tint hover",
+        "BoldUnderline": "Bold current",
+        "BoldUnderlineDescription": "Bold current node - underline hover",
+        "ArrowTrail": "Arrow trail",
+        "ArrowTrailDescription": "Arrow divider - colored current",
+        "DotDivider": "Dot divider",
+        "DotDividerDescription": "Dot divider - colored hover",
+        "Custom": "Custom",
+        "Plain": "Plain",
+        "Bold": "Bold",
+        "Color": "Color",
+        "Pill": "Pill",
+        "Chevron": "Chevron",
+        "Slash": "Slash",
+        "Arrow": "Arrow",
+        "Dot": "Dot",
+        "Pipe": "Pipe",
+        "Guillemet": "Angle",
+        "None": "None",
+        "Underline": "Underline",
+        "Tint": "Tint"
+      }
+    },
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content flow",
+        "BlockSummary": "Create structured page content with text, media, and quotes.",
+        "Placeholder": "Content Flow rendering will be available when block storage is implemented.",
+        "Media": {
+          "AddImage": "Add media",
+          "EditImage": "Edit media",
+          "RemoveImage": "Remove media",
+          "ReplaceImage": "Replace media",
+          "PlaceholderTitle": "Add media",
+          "PlaceholderDescription": "Select an image or video from the media library for this Content flow media block.",
+          "Width": {
+            "Label": "Media width",
+            "Content": "Content",
+            "Wide": "Wide",
+            "Full": "Full",
+            "FullBleed": "Full bleed"
+          }
+        },
+        "Text": {
+          "Placeholder": "Write something, or press '/' for templates...",
+          "QuotePlaceholder": "Add quote text...",
+          "QuoteAttributionLabel": "Attribution",
+          "QuoteSourceLabel": "Source"
+        },
+        "Person": {
+          "PickerLabel": "Person",
+          "EmptyName": "Select a person",
+          "TextPlaceholder": "Write a short profile, quote, or spotlight text..."
+        },
+        "Spacing": {
+          "Label": "Spacing"
+        },
+        "Editor": {
+          "AddBlock": "Add block",
+          "AddBelow": "Add below",
+          "AddFirstBlock": "Add your first block",
+          "Convert": "Convert",
+          "ConvertTo": "Convert to",
+          "Delete": "Delete",
+          "DragToReorder": "Drag to reorder",
+          "Duplicate": "Duplicate",
+          "InheritedContent": "This block is reusing mapped content flow content.",
+          "InsertTemplate": "Insert template",
+          "MoveDown": "Move down",
+          "MoveUp": "Move up",
+          "PickTemplateToStart": "Pick a template to start composing.",
+          "Ratio": "Ratio",
+          "SearchTemplates": "Search for a template...",
+          "SearchTemplatesShort": "Search templates...",
+          "Templates": "Templates",
+          "KeyboardNavigate": "↑↓ Navigate",
+          "KeyboardInsert": "↵ Insert",
+          "KeyboardCancel": "Esc cancel",
+          "EscapeShortcut": "Esc",
+          "WidthContentTitle": "Content width",
+          "WidthWideTitle": "Wide",
+          "WidthFullTitle": "Full bleed",
+          "RatioEqualTitle": "Equal columns",
+          "RatioNarrowWideTitle": "Narrow left, wide right",
+          "RatioWideNarrowTitle": "Wide left, narrow right",
+          "InnerDivider": "Toggle inner divider"
+        },
+        "Templates": {
+          "Text": {
+            "Title": "Text",
+            "Description": "A single rich text block."
+          },
+          "Media": {
+            "Title": "Media",
+            "Description": "A single media block."
+          },
+          "MediaText": {
+            "Title": "Media + Text",
+            "Description": "Media on the left, text on the right."
+          },
+          "MediaGallery": {
+            "Title": "Media gallery",
+            "Description": "Two rows of three media blocks."
+          },
+          "TextMedia": {
+            "Title": "Text + Media",
+            "Description": "Text on the left, media on the right."
+          },
+          "Person": {
+            "Title": "Person",
+            "Description": "Spotlight a person with avatar, name, and adjacent text."
+          },
+          "Quote": {
+            "Title": "Quote",
+            "Description": "A quote-focused rich text block."
+          },
+          "Spacing": {
+            "Title": "Spacing",
+            "Description": "Add adjustable vertical space between blocks."
+          },
+          "Divider": {
+            "Title": "Divider",
+            "Description": "Add a simple horizontal divider line."
+          }
+        },
+        "Ai": {
+          "AddWithAi": "Create with AI",
+          "AddWithAiPlaceholder": "Describe the content and I will add it for you",
+          "ApplyPreview": "Apply preview",
+          "Cancel": "Cancel",
+          "CurrentRowScope": "Current row",
+          "DialogTitle": "AI assist",
+          "DocumentScope": "Whole document",
+          "EmptyPromptError": "Enter an instruction before generating a preview.",
+          "GeneratePreview": "Generate preview",
+          "GeneratePage": "Generate page",
+          "GenerationBlockComplete": "The block is ready.",
+          "GenerationBlockSelecting": "Selecting block",
+          "GenerationBlockTitle": "Generating block",
+          "GenerationBlockWriting": "Writing content",
+          "GenerationComplete": "The page is ready.",
+          "GenerationOutline": "Creating a page outline from your instruction.",
+          "GenerationRowGenerated": "Writing row {current} of {total}.",
+          "GenerationRowsInserted": "Inserted {total} placeholder rows and started filling them.",
+          "GenerationStepComplete": "Ready",
+          "GenerationStepContent": "Write content",
+          "GenerationStepOutline": "Outline",
+          "GenerationStepRows": "Place rows",
+          "GenerationTitle": "Generating page",
+          "GenerateBlock": "Generate block",
+          "InvalidCurrentRowResponse": "The preview for a current row must contain exactly one row.",
+          "InvalidPreviewError": "Generate a valid preview before applying changes.",
+          "Open": "AI assist",
+          "PreviewJson": "Preview JSON",
+          "PreviewReady": "Preview generated. Review the JSON before applying.",
+          "PromptLabel": "Instruction",
+          "PromptPlaceholder": "Describe what the AI should create or improve...",
+          "RawResponse": "Raw AI response",
+          "ScopeLabel": "Apply AI to",
+          "SelectedRowRequired": "Select a row before using current-row AI.",
+          "Send": "Send",
+          "ShortcutFallbackTitle": "AI shortcut",
+          "ValidationIssues": "Validation issues"
+        },
+        "Settings": {
+          "Title": "Content flow settings",
+          "Placeholder": "Content flow settings will be available when block storage is implemented.",
+          "Categories": {
+            "General": "General",
+            "Layout": "Layout",
+            "Media": "Media",
+            "Divider": "Divider",
+            "Editor": "Editor",
+            "AiAssistance": "AI assistance"
+          },
+          "RowSpacing": "Row spacing",
+          "RowSpacingHint": "Sets the vertical spacing between content flow rows.",
+          "ColumnSpacing": "Column spacing",
+          "ColumnSpacingHint": "Sets the spacing between columns and gallery items in content flow rows.",
+          "MediaBorderRadius": "Media border radius",
+          "MediaBorderRadiusHint": "Sets the border radius for all media content blocks in the editor.",
+          "DividerStyle": "Style",
+          "DividerColor": "Color",
+          "DividerOpacity": "Opacity",
+          "DividerWeight": "Weight",
+          "DividerWidth": "Width",
+          "DividerStyleLine": "Line",
+          "DividerStyleDashed": "Dashed",
+          "DividerStyleDotted": "Dotted",
+          "DividerStyleDoubleLine": "Double line",
+          "DividerStyleDoubleDashed": "Double dashed",
+          "DividerStyleDoubleDotted": "Double dotted",
+          "ConfirmDelete": "Confirm delete",
+          "ConfirmDeleteHint": "Show a confirmation popup before deleting a content flow block.",
+          "ConfirmDeleteTitle": "Delete block?",
+          "ConfirmDeleteMessage": "This block will be deleted from the content flow.",
+          "EnableAiAssistance": "Enable AI assistance",
+          "EnableAiAssistanceHint": "Enables the AI action in the toolbar and full page generation.",
+          "AiMediaProvider": "AI media provider",
+          "AiMediaProviderHint": "Selects how generated page media blocks are populated during full page AI generation.",
+          "AiMediaProviderNone": "None",
+          "AiMediaProviderPexels": "Pexels",
+          "AiMediaProviderBing": "Bing",
+          "AiMediaProviderGptImage": "GPT Image",
+          "AiPromptSettings": {
+            "BlockTemplateSelectionPrompt": "Block template selection prompt",
+            "Cancel": "Cancel",
+            "Description": "Configure the prompt instructions used by Content flow AI across this business profile.",
+            "GlobalPostPrompt": "Global post prompt",
+            "GlobalPrePrompt": "Global pre prompt",
+            "LoadError": "The saved prompt settings could not be loaded. Defaults are shown.",
+            "ResetToDefaults": "Reset to defaults",
+            "SaveError": "The prompt settings could not be saved.",
+            "Saved": "Prompt settings saved.",
+            "TemplatePrompts": "Template prompts",
+            "Title": "Content flow AI prompts"
+          }
+        },
+        "Errors": {
+          "InvalidJsonDefaultCreated": "Invalid JSON was replaced with a default document.",
+          "MissingDocumentDefaultCreated": "Missing document was replaced with a default document.",
+          "SchemaMigrated": "Document was normalized to Content flow schema version 1.",
+          "SchemaInvalid": "Content flow documents must use schema version 1.",
+          "RowsEmpty": "Content flow documents must contain at least one row.",
+          "RowIdMissing": "Row ID is required.",
+          "RowTemplateInvalid": "Row template kind is not supported.",
+          "BlocksEmpty": "A row must contain at least one block.",
+          "BlockIdMissing": "Block ID is required.",
+          "TextMissing": "A text block must contain text content.",
+          "MediaMissing": "A media block must contain media content.",
+          "QuoteMissing": "A quote block must contain rich text content.",
+          "SpacingMissing": "A spacing block must contain spacing settings.",
+          "RowInvalid": "Invalid row was replaced with a text row.",
+          "BlockInvalid": "Invalid block was replaced with a text block.",
+          "LegacyTextMigrated": "Legacy text content was migrated into a text row.",
+          "LegacyMediaMigrated": "Legacy media content was migrated into a media row."
+        }
+      }
+    },
+    "Core": {
+      "Blocks": {
+        "OmniaFullPageExperience": {
+          "Title": "Omnia full page experience",
+          "Summary": "Use this block to add a full page experience to a page."
+        }
+      },
+      "Features": {
+        "OmniaFullPageExperience": {
+          "Category": "System",
+          "Description": "Provision a system page to SharePoint site page library.",
+          "Title": "Omnia full page experience"
+        }
+      }
+    },
+    "DividerBlock": {
+      "ControlTitle": "Divider",
+      "Title": "Divider",
+      "Description": "Add a divider to the page",
+      "Settings": {
+        "WelcomeTitle": "Divider",
+        "Description": "Add a divider to the page",
+        "Display": "Display",
+        "StyleSection": "Style",
+        "Style": "Style",
+        "Color": "Color",
+        "Opacity": "Opacity",
+        "Weight": "Weight",
+        "Width": "Width",
+        "Line": "Line",
+        "Dashed": "Dashed",
+        "Dotted": "Dotted",
+        "DoubleLine": "Double line",
+        "DoubleDashed": "Double dashed",
+        "DoubleDotted": "Double dotted"
+      }
+    },
+    "GovernanceDashboard": {
+      "Pages": {
+        "ShowDetails": "Show details"
+      }
+    },
+    "IFrameBlock": {
+      "Settings": {
+        "Title": "IFrame accessible title",
+        "CustomUrlTitle": "Custom URL",
+        "PropertyUrlTitle": "URL from property"
+      }
+    },
+    "CreatePage": {
+      "SelectPageTypes": "Select page types"
+    },
+    "PageProperties": {
+      "Settings": {
+        "ShowLabelIconWithValue": "Show label icon with value"
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "StylePreset": "Style preset",
+        "General": "General",
+        "CurrentNodeIndicator": "Current node indicator",
+        "OpenCollapse": "Open & collapse",
+        "OpenCollapseColor": "Open & collapse color",
+        "RowDensity": "Row density",
+        "HoverState": "Hover state",
+        "HoverColor": "Hover color",
+        "IndentGuide": "Indent guide",
+        "IndicatorColor": "Indicator color",
+        "RowFontSize": "Row font size",
+        "LivePreview": "Live preview",
+        "OmniaClassic": "Omnia classic",
+        "OmniaClassicDescription": "Current Omnia navigation styling",
+        "MaterialClassic": "Material classic",
+        "MaterialClassicDescription": "Bold primary text - chevron right",
+        "LeftBarAccent": "Left bar accent",
+        "LeftBarAccentDescription": "Side bar marker - chevron right",
+        "TintedPill": "Tinted pill",
+        "TintedPillDescription": "Filled active row - plus/minus collapse",
+        "CompactRowClick": "Compact + Row-click",
+        "CompactRowClickDescription": "Dense rows - whole row toggles",
+        "TreePill": "Tree + Pill",
+        "TreePillDescription": "Connecting lines - filled pill marker",
+        "Custom": "Custom",
+        "LeftBar": "Left bar",
+        "FilledPill": "Filled pill",
+        "BoldColor": "Bold color",
+        "Dot": "Dot",
+        "Outline": "Outline",
+        "ChevronRight": "Chevron right",
+        "ChevronLeft": "Chevron left",
+        "PlusMinus": "Plus/minus",
+        "PlusMinusLeft": "Plus/minus left",
+        "RowClick": "Row click",
+        "Compact": "Compact",
+        "Comfortable": "Comfortable",
+        "Spacious": "Spacious",
+        "Tint": "Tint",
+        "Underline": "Underline",
+        "Bold": "Bold",
+        "None": "None",
+        "Dotted": "Dotted",
+        "Solid": "Solid",
+        "Tree": "Tree"
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "PageVariationLockedDueToMachineTranslated": "This page variation is locked due to machine translation.",
+        "MediaImageNoValuePlaceHolder": {
+          "AddImage": "Add image",
+          "ImageDescription": "Possibility to add an image or video to the page."
+        },
+        "PageTitle150MaxLengthValidation": "The title reached the limit of 150 characters and can not be saved."
+      }
+    },
+    "MegaMenu": {
+      "Settings": {
+        "MinWidthOfColumn": "Column width"
+      }
+    },
+    "SearchTemplate": {
+      "OmniaPageSearchTemplate": {
+        "Title": "Omnia page search template"
+      },
+      "SharePointPageSearchTemplate": {
+        "Title": "SharePoint page search template"
+      },
+      "Fields": {
+        "Title": "Title",
+        "Description": "Description",
+        "Date": "Date",
+        "FallbackDate": "Fallback date",
+        "User": "User",
+        "FallbackUser": "Fallback user",
+        "URL": "URL",
+        "ParentURL": "Parent URL"
+      },
+      "TemplateSettings": {
+        "OpenInSharePointFullPage": "Open in SharePoint full page"
+      }
+    },
+    "SemanticSearchLogging": {
+      "Status": {
+        "Title": "Status",
+        "Success": "Success",
+        "Error": "Error",
+        "Running": "Running",
+        "Stopping": "Stopping"
+      },
+      "Started": "Started",
+      "Ended": "Ended",
+      "CreatedBy": "Created by",
+      "Summary": "Summary",
+      "ReindexContentMessage": "Reindex {0} Pages (Succeed: {1}, Failed: {2})"
+    },
+    "SignOffRequest": {
+      "SharePointPages": "SharePoint pages",
+      "SelectSharePointSite": "Select SharePoint site",
+      "SearchPages": "Search pages",
+      "SPPageNotFound": "This SharePoint page could not be found",
+      "NoSPPagesFound": "No SharePoint pages found",
+      "LoadingSPPages": "Loading SharePoint pages...",
+      "SelectAllPagesOnCurrentPage": "Select all pages on current page",
+      "CurrentSPPage": "Current SharePoint page",
+      "SPPageProviderTableHeader": {
+        "FileName": "File name",
+        "Title": "Title",
+        "Modified": "Modified",
+        "ModifiedBy": "Modified by",
+        "Id": "ID"
+      }
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantCounter": {
+        "Settings": {
+          "HideNumberOfRegisteredParticipants": "Hide number of registered participants (reader)",
+          "General": "General",
+          "Display": "Display",
+          "StylePreset": "Style preset",
+          "LivePreview": "Live preview",
+          "ShowIcon": "Show icon",
+          "ShowNumbers": "Show numbers",
+          "Icon": "Icon",
+          "Meter": "Meter",
+          "Color": "Color",
+          "Size": "Size",
+          "StatusBadge": "Status badge",
+          "None": "None",
+          "Bar": "Bar",
+          "SeatGrid": "Seat grid",
+          "Neutral": "Neutral",
+          "Primary": "Primary",
+          "Semantic": "Semantic",
+          "Custom": "Custom",
+          "CustomColor": "Custom color",
+          "Compact": "Compact",
+          "Default": "Default",
+          "Large": "Large",
+          "PreviewRegistered": "Preview registered",
+          "PreviewCapacity": "Preview capacity"
+        },
+        "Presets": {
+          "Classic": "Classic",
+          "ClassicDescription": "Icon and count",
+          "Progress": "Progress",
+          "ProgressDescription": "Count with meter",
+          "BigNumber": "Big number",
+          "BigNumberDescription": "Large count focus",
+          "SeatGrid": "Seat grid",
+          "SeatGridDescription": "Visual capacity cells",
+          "Status": "Status",
+          "StatusDescription": "Semantic meter and badge",
+          "Minimal": "Minimal",
+          "MinimalDescription": "Compact count only"
+        },
+        "Status": {
+          "Available": "Available",
+          "FillingUp": "Filling up",
+          "AlmostFull": "Almost full",
+          "SoldOut": "Sold out"
+        }
+      },
+      "PageRollupViews": {
+        "ViewTitle": {
+          "Card": "Event card"
+        }
+      }
+    },
+    "ActionButton": {
+      "AdminSettings": {
+        "Title": "Call to action style",
+        "Description": "Configure the appearance of Call to action buttons in your application.",
+        "PreviewButton": "Preview button"
+      }
+    }
+  },
+  "OWCM": {
+    "CalendarRollup": {
+      "Dialog": {
+        "Tracking": "Tracking",
+        "JoinTeamsMeeting": "Join",
+        "IconLabels": {
+          "DateTime": "Date and time",
+          "Location": "Location",
+          "Description": "Description"
+        },
+        "ResponseMessage": {
+          "Accept": "Accepted",
+          "Tentative": "Tentative",
+          "Declined": "Declined"
+        }
+      }
+    },
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "CallToAction": "Call to action"
+        },
+        "Extensions": {
+          "CallToAction": "Call to action"
+        }
+      },
+      "CallToAction": {
+        "Title": "Title",
+        "Url": "URL",
+        "Save": "Save",
+        "Cancel": "Cancel",
+        "LinkNotSupported": "The provided link is not supported."
+      }
+    },
+    "LinkPicker": {
+      "Document": {
+        "OpenInClientApp": "Open in client app",
+        "OpenInWeb": "Open in web",
+        "OpenInWebNewTab": "Open in web on new tab",
+        "DocumentLinkHandlerNote": "Links are handled globally, this can impact the behavior of the above choices.",
+        "NoDocumentPickers": "No document pickers configured."
+      },
+      "User": {
+        "Label": "User",
+        "FindUser": "Find user"
+      },
+      "SharepointPagePicker": {
+        "Label": "SharePoint page picker",
+        "Name": "SharePoint page",
+        "Admin": {
+          "CategoryListingBladeTitle": "SharePoint page categories",
+          "DeleteCategoryConfirmation": {
+            "DialogTitle": "Delete category",
+            "Message": "Are you sure you want to delete this SharePoint page category?"
+          },
+          "SearchFilter": {
+            "AddFilter": "Add filter",
+            "AdjustFilters": "Adjust filters",
+            "Done": "Done",
+            "TermSetNotFound": "Term set not found",
+            "SearchBox": "Search box (Properties)",
+            "SearchBoxProperties": "SharePoint page properties",
+            "FullTextSearch": "Search box (Full text)",
+            "SearchOnSPPageTitleAnd": "Search on SharePoint page title and",
+            "EnableWildcardSearch": "Enable partial word search",
+            "ShowSearchBox": "Show search box",
+            "SearchTextLabel": "Search text",
+            "AdjustWidthPlaceholder": "Width",
+            "CollapseFilter": "Hide filter by default"
+          },
+          "SearchCategories": "Search categories",
+          "CategoryTypes": {
+            "SharePointLibrary": "SharePoint library",
+            "SearchCategory": "Search category"
+          },
+          "SharePointLibraryUrl": "SharePoint library URL",
+          "LibraryNotExistedMessage": "Cannot find a library on this URL.",
+          "DateFilter": {
+            "From": "From",
+            "To": "To"
+          },
+          "Common": {
+            "Yes": "Yes",
+            "No": "No",
+            "All": "All"
+          }
+        },
+        "AddDocument": "Add document",
+        "Listing": {
+          "DeleteDocumentConfirmation": {
+            "Title": "Remove document",
+            "Message": "Are you sure you want to remove this document?"
+          }
+        },
+        "NoSharePointPagePicker": "No SharePoint page pickers configured",
+        "NoResultMessage": "No page found",
+        "ResolveUserErrorMessage": "Person filtering error"
+      }
+    },
+    "PagePicker": {
+      "PageNotFound": "Page not found"
+    },
+    "PageRollup": {
+      "Settings": {
+        "ShowInDialog": "Show in dialog"
+      },
+      "NodePicker": {
+        "Header": "Select navigation node"
+      },
+      "ListView": {
+        "TargetReached": "Target reached",
+        "TargetNotReached": "Target not reached"
+      },
+      "CardView": {
+        "VisitPage": "Open page",
+        "PageImage": "Page image",
+        "PlaceholderImageIfEmpty": "Placeholder image if empty",
+        "CardType": {
+          "ImageRight": "Image to right",
+          "ImageLeft": "Image to left"
+        },
+        "TitleElement": "Title element",
+        "TitleElements": {
+          "Custom": "Custom",
+          "H1": "h1",
+          "H2": "h2",
+          "H3": "h3",
+          "H4": "h4",
+          "H5": "h5",
+          "H6": "h6"
+        },
+        "ImageTextRatio": "Image/Text ratio",
+        "RatioImageNarrowTitle": "Image 30%, text 70%",
+        "RatioEqualTitle": "Image 50%, text 50%",
+        "RatioImageWideTitle": "Image 70%, text 30%",
+        "ShowAsText": "Show person as text"
+      },
+      "EventCard": {
+        "StartDate": "Event start date",
+        "EndDate": "Event end date",
+        "Location": "Location",
+        "EventDate": "Event date",
+        "EventStatus": "Event status",
+        "AllDayProperty": "All day property",
+        "ShowDateOnImage": "Show event dates on image",
+        "ShowLocation": "Show location",
+        "ShowRegisteredCapacity": "Show signed-up count",
+        "ShowRegistrationStatus": "Show registration status",
+        "ShowPastEventStatus": "Show past event status",
+        "ShowAllDayStatus": "Show all day status",
+        "ShowTeamsMeetingStatus": "Show Teams meeting status",
+        "JoinTeamsMeeting": "Join Teams meeting",
+        "MovePropertyUp": "Move up {0}",
+        "MovePropertyDown": "Move down {0}",
+        "RemoveTermProperty": "Remove {0}",
+        "DateSettings": "Date settings",
+        "StartDateSettings": "Event start date settings",
+        "EndDateSettings": "Event end date settings",
+        "RegistrationOpen": "Registration open",
+        "RegistrationClosed": "Registration closed",
+        "FullyBooked": "Fully booked",
+        "PastEvent": "Past event",
+        "AllDay": "All day",
+        "TeamsMeeting": "Teams meeting"
+      },
+      "ListingWithImage": {
+        "Properties": "Properties",
+        "AddProperty": "Add Property",
+        "PropertiesSeparator": "Properties separator",
+        "WhiteSpace": "White space",
+        "Property": "Property",
+        "NoPropertySelected": "No property selected",
+        "DateModeDefault": "Default",
+        "DateModeClassic": "Classic",
+        "DateModeSocial": "Social",
+        "HideAvatar": "Hide avatar",
+        "ShowAsText": "Show as text",
+        "SeparatorType": "Separator type",
+        "RightAlignLikesComments": "Right align likes and comments"
+      },
+      "Common": {
+        "ShowMetricDetails": "Show details",
+        "AllowLiking": "Allow liking",
+        "FileReadyForDownload": "Export file {0} is ready for download.",
+        "OpenInSharePointFullPage": "Open in SharePoint full page"
+      },
+      "ViewTitle": {
+        "CardWCAG": "Card view (WCAG)"
+      },
+      "CalendarView": {
+        "Accessibility": {
+          "YearSelector": "Select year",
+          "MonthSelector": "Select month",
+          "WeekSelector": "Select week",
+          "DateSelector": "Select date"
+        }
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "Title": "Semantic search",
+          "SemanticSearchLogs": "Reindex content - Logs",
+          "ReindexContent": "Reindex content",
+          "Logging": "Logging",
+          "ReindexContentMessageProgress": "Completed {0} of {1} pages (succeed: {2}, failed: {3}) in {4}",
+          "ReindexContentMessage": "Reindex {0} pages (succeed: {1}, failed: {2}) in {3}",
+          "ConfirmReindexContentSemanticSearchMessage": "Are you sure you want to reindex content fornsemantic search?",
+          "QueueReindex": "Queued for processing…",
+          "Stopping": "Stopping…",
+          "TerminateCurrentJob": "Terminate current job",
+          "TerminateCurrentJobConfirmationTitle": "Terminate current job",
+          "TerminateCurrentJobConfirmationDescription": "Are you sure you want to terminate the current job?"
+        }
+      },
+      "SpeedDialButtons": {
+        "EditInOmnia": "Edit in Omnia"
+      },
+      "SharepointSync": {
+        "EnableFullPageView": "Enable Full page view",
+        "EnableEnhancedCopilotIntegration": "Enable Enhanced Copilot integration",
+        "Copilot": {
+          "Headline": "Page metadata",
+          "PropertyTemplate": "The {0} for this page is {1}",
+          "BusinessProfile": "The business profile for this page is {0}",
+          "PublishingApp": "The publishing app for this page is {0}",
+          "PageCollection": "The page collection for this page is {0}"
+        }
+      },
+      "PageManagement": {
+        "EditPage": "Edit page"
+      }
+    },
+    "PageSocial": {
+      "Settings": {
+        "CommentTemplate": "Comment template",
+        "CommentTemplateOptions": {
+          "Default": "Default",
+          "Threaded": "Threaded"
+        },
+        "ThreadedComments": "Threaded comments",
+        "CustomInputStyle": "Custom input styling",
+        "Elevation": "Elevation",
+        "BorderThickness": "Border thickness",
+        "BorderRadius": "Border radius",
+        "BorderColor": "Border color",
+        "TextColor": "Text color",
+        "BackgroundColor": "Background color",
+        "EnableRichTextPageFeedback": "Formatting",
+        "OverrideDefaultSettings": "Override default settings",
+        "DeletedCommentMessage": {
+          "Label": "Deleted comment message",
+          "Always": "Always",
+          "Never": "Never",
+          "WhenReferenced": "When referenced"
+        }
+      },
+      "SocialComponent": {
+        "EnableShare": "Allow sharing"
+      }
+    },
+    "OmniaFullPage": {
+      "OmniaFullPage": {
+        "Name": "Omnia full page experience",
+        "Description": "A full page experience component for displaying content across the entire page."
+      },
+      "Settings": {
+        "AllowEdit": "Allow edit",
+        "Title": "Title",
+        "SelectedPage": "Selected page"
+      }
+    }
+  }
+}

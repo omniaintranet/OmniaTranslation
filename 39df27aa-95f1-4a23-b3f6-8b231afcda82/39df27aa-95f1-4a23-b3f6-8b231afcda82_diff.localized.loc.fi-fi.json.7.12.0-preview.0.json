@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "Peri tenantilta",
+        "ImageScaling": "Kuvan skaalaus",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "Variaatioiden ohittaminen liiketoimintaprofiilin tasolla ei ole tuettu.",
+          "SelectTenantRatios": "Valitse, mitä tenantin variaatioita käytetään tässä liiketoimintaprofiilissa."
+        },
+        "ImageStyle": {
+          "Title": "Kuvan tyyli",
+          "BorderRadius": "Reunojen pyöristys"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "Semanttisen haun täydellinen uudelleenindeksointi",
+          "Disclaimer": "Semanttinen haku ei ole käytettävissä uudelleenindeksoinnin aikana. Tämä toimenpide voi kestää jonkin aikaa sisällön määrästä riippuen.",
+          "StartButton": "Aloita täydellinen uudelleenindeksointi",
+          "Running": "Uudelleenindeksointi käynnissä...",
+          "ConfirmTitle": "Aloita täydellinen uudelleenindeksointi",
+          "ConfirmMessage": "Haluatko varmasti aloittaa täydellisen semanttisen haun uudelleenindeksoinnin?",
+          "StatusLoadError": "Nykyisen uudelleenindeksoinnin tilaa ei voitu ladata.",
+          "StartError": "Täydellistä uudelleenindeksointia ei voitu aloittaa."
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "Fontti"
+    },
+    "TextStyles": {
+      "FontWeight": "Fontin paksuus",
+      "FontWeightInvalid": "Anna kelvollinen fontin paksuus (normal, bold, bolder, lighter tai luku välillä 1–1000).",
+      "InheritFromTenant": "Peri tenantilta",
+      "ApplyEverywhere": "Käytä kaikkialla",
+      "ApplyEverywhereDescription": "Kun käytössä, sisäänrakennetut tekstityylit sovelletaan kaikkiin vastaaviin elementteihin ratkaisussa. Kun pois käytöstä, ne vaikuttavat vain rich text -editorin sisältöön. Mukautetut tekstityylit pysyvät aina rajattuina rich text -editoriin."
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "Kuvakaappaus, joka näyttää, missä SharePoint-sovelluskatalogisivusto luodaan.",
+        "UploadPackageScreenshotAlt": "Kuvakaappaus, joka näyttää, missä SharePoint-paketti ladataan SharePoint-sovelluksiin.",
+        "AvailableToAllSitesScreenshotAlt": "Kuvakaappaus, joka näyttää vaihtoehdon tehdä SharePoint-paketti saataville kaikille sivustoille."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "Termijoukon tunnus puuttuu tai on virheellinen tässä taksonomiasanastossa.",
+      "Default": "Oletus",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "Poista oletuskuvake ja väri",
+        "Message": "Haluatko varmasti poistaa oletusulkoasun asetukset?"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "Hakukentän tyyli",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365-tyyli",
+        "WCAGCompliant": "WCAG-yhteensopiva"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "Vasen paneeli",
+          "LeftPanelLayoutsSettings": "Vasen paneeli",
+          "CustomFontFamily": "Mukautettu fonttiperhe",
+          "CenterMenu": "Keskitetty valikko",
+          "CenterMenuWidth": "Keskitetty leveys (px)",
+          "ForceUppercase": "Pakota isot kirjaimet",
+          "ShowIcons": "Näytä kuvakkeet",
+          "HideText": "Piilota teksti"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "Näyttö",
+        "HeadingElement": "Otsikkoelementti",
+        "BorderRadius": "Reunojen pyöristys",
+        "Elevation": "Kohotus",
+        "ShowStatusText": "Näytä tilateksti",
+        "ShowTypeIcon": "Näytä tyyppikuvake",
+        "ShowDate": "Näytä päivämäärä",
+        "DateType": "Päivämäärän tyyppi",
+        "Social": "Sosiaalinen",
+        "Classic": "Klassinen",
+        "DateFormat": "Päivämäärän muoto",
+        "NoResultText": "Ei tulostekstiä",
+        "ModernAnnoucement": "Moderni ilmoitus"
+      },
+      "CommentCount": "{0} kommenttia"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "Näytä vasen paneeli",
+          "Category": "Järjestelmä",
+          "Description": "Näytä vasen paneeli nykyisessä sovellusinstanssissa."
+        },
+        "CopilotChat": {
+          "Title": "Copilot-keskustelu"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "Analytiikka SPFx:lle",
+          "Description": "Mahdollistaa automatisoidun käyttäjätoiminnan seurannan SharePoint-sivuilla Matomon kautta.",
+          "Category": "Järjestelmä"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "Toimintavalikko"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "Listanäkymä"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "Vientitiedosto {0} on ladattavissa."
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "Hallitse linkkejä"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "Lisää linkki nimeltä \"{LinkTitle}\" Omiin linkkeihin",
+        "DeleteMyLinksAriaLabel": "Poista linkki nimeltä \"{LinkTitle}\" Omistasi linkeistä",
+        "RemoveMyLinksAriaLabel": "Poista linkki nimeltä \"{LinkTitle}\" Omistasi linkeistä",
+        "EditLinkAriaLabel": "Muokkaa linkkiä nimeltä \"{LinkTitle}\""
+      },
+      "AppLaunch": {
+        "Back": "Takaisin",
+        "CreateMore": "Luo lisää",
+        "Document": "Asiakirja",
+        "FindMicrosoft365Apps": "Etsi Microsoft 365 -sovelluksia",
+        "Presentation": "Esitys",
+        "SearchBoxAriaLabel": "Hakukenttä. Ehdotuksia ilmestyy kirjoittaessasi.",
+        "SearchMicrosoft365Apps": "Hae kaikista Microsoft 365 -sovelluksistasi",
+        "SearchResults": "Hakutulokset",
+        "Survey": "Kysely",
+        "Workbook": "Työkirja"
+      },
+      "Component": {
+        "ShowMoreLinks": "Näytä lisää linkkejä",
+        "ShowLessLinks": "Näytä vähemmän linkkejä"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "Katkaise otsikko",
+        "IncludePersonalLinks": "Sisällytä henkilökohtaiset linkit",
+        "IncludeFollowingLinks": "Sisällytä seuratut linkit",
+        "ShowManageLinks": "Näytä linkkien hallintakuvake",
+        "ShowMoreButton": "Näytä lisää -painike",
+        "ShowMoreAriaLabel": "Näytä lisää -painikkeen aria-merkintä",
+        "ShowLessAriaLabel": "Näytä vähemmän -painikkeen aria-merkintä",
+        "HideShowMoreButton": "Piilota Näytä lisää -painike",
+        "HideLinkTitle": "Piilota linkin otsikko",
+        "SquareDesign": "Neliömuotoilu",
+        "FontSize": "Fonttikoko",
+        "IconSize": "Kuvakkeen koko",
+        "IconMargin": "Kuvakkeen marginaali",
+        "IconPadding": "Kuvakkeen täyte"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{1} lukematonta ilmoitusta kategoriassa {0}",
+      "CategoryTabListLabel": "Ilmoituskategoriat"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "Muokkaa {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "Käytä kiinteää määrää ominaisuuksia rivillä"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "Hakupohjat sovelletaan listassa mainitussa järjestyksessä. Jos tulos vastaa useampaa pohjaa, käytetään ensimmäistä osumaa.",
+        "LongDescription": "Pitkä kuvaus",
+        "SearchFeedbackPosition": "Hakupalauteasettelu",
+        "UserProperties": "Käyttäjäominaisuudet",
+        "FilterValueTypes": {
+          "FilterValueType": "Suodattimen arvotyyppi",
+          "FixedValue": "Kiinteä arvo",
+          "CurrentUser": "Nykyinen käyttäjä"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Sisällön perusteella, johon minulla on pääsy, en pystynyt määrittämään vastausta kysymykseesi.",
+          "RequestMoreContext": "Voisitko antaa lisää kontekstia tai tarkentaa kysymystäsi?"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "Tarkenna hakutulosta",
+        "RefinerExpandedLabel": "{0}, laajennettu{1}",
+        "RefinerCollapsedLabel": "{0}, supistettu{1}",
+        "RefinerActiveFilterCount": ", {0} aktiivista suodatinta",
+        "RefinerOptionLabel": "{0}, {1} tulosta",
+        "RefinerOptionSelectedLabel": "{0}, {1} tulosta, valittu",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}, valittu"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "Otsikko",
+          "Description": "Kuvaus",
+          "Date": "Päivämäärä",
+          "FallbackDate": "Varapäivämäärä",
+          "User": "Käyttäjä",
+          "FallbackUser": "Varakäyttäjä",
+          "URL": "URL",
+          "ParentURL": "Ylätason URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint-listakohteen hakupohja"
+        },
+        "PersonSearchTemplate": {
+          "Title": "Henkilöhakupohja"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "Opastusdialogi",
+        "RegionLabel": "Opastusdialogi. Käytä näppäimistön navigointikontrolleja siirtyäksesi opastusvaiheiden välillä.",
+        "PreviousStep": "Edellinen opastusvaihe",
+        "NextStep": "Seuraava opastusvaihe",
+        "StepPickerLabel": "Opastusvaiheet",
+        "StepButtonLabel": "Näytä opastusvaihe {0} / {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint-sivujen yhteenveto",
+          "Summary": "Listaa SharePoint-sivut."
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint-sivujen yhteenveto",
+      "Settings": {
+        "Tabs": {
+          "Filter": "Suodatin"
+        },
+        "FilterByExpirationTime": "Suodata vanhenemisajan mukaan",
+        "QueryConfigurationTypes": {
+          "PickPages": "Valitse sivut",
+          "UseQueryBuilder": "Käytä kyselyrakentajaa"
+        },
+        "QueryScope": {
+          "AllPages": "Kaikki sivut",
+          "SharePointLibrary": "SharePoint-kirjasto"
+        },
+        "SiteUrl": "Sivuston URL",
+        "Operators": {
+          "Equals": "On yhtä kuin",
+          "StartWith": "Alkaa merkillä",
+          "Contains": "Sisältää",
+          "LessThan": "Pienempi kuin",
+          "GreaterThan": "Suurempi kuin"
+        },
+        "QueryValueOptions": {
+          "Manual": "Manuaalinen",
+          "QueryParameter": "Kyselyparametri",
+          "UserLanguage": "Käyttäjän kieli",
+          "UserEmail": "Käyttäjän sähköposti",
+          "Today": "Tänään"
+        },
+        "AddQueryFilter": "Lisää kyselysuodatin",
+        "Summary": "Yhteenveto",
+        "Image": "Kuva",
+        "Date": "Päivämäärä",
+        "Person": "Henkilö",
+        "Description": "Kuvaus",
+        "TermProperties": "Termiominaisuudet",
+        "CardsPerRow": "Kortteja per rivi",
+        "ShowLikesComments": "Näytä tykkäykset/kommentit",
+        "ShowLastActivity": "Näytä viimeisin toiminta",
+        "ShowRating": "Näytä arviointi",
+        "OpenInNewTab": "Avaa uudessa välilehdessä",
+        "AddColumn": "Lisää sarake",
+        "FixedHeader": "Kiinteä otsikko",
+        "NoColumnSelected": "Sarakkeita ei ole valittu. Määritä sarakkeet asetuksissa.",
+        "Width": "Leveys",
+        "ShowLabel": "Näytä tunniste",
+        "CustomLabel": "Mukautettu tunniste",
+        "InvalidUrl": "URL:n on oltava sivulista.",
+        "DeleteSpPageConfirmation": {
+          "Title": "Poista sivu",
+          "Message": "Haluatko varmasti poistaa tämän sivun?"
+        },
+        "PickPages": {
+          "Title": "SharePoint-sivujen valitsin",
+          "AddPageLabel": "Lisää sivu",
+          "NoPagesFound": "Sivuja ei löytynyt",
+          "Placeholder": "Etsi sivuja...",
+          "PickInWriteMode": "Valitse sivut kirjoitustilassa"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "Mukautettu näkymä",
+        "CardView": "Korttinäkymä"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "Sähköposti",
+      "StartChatAction": "Keskustele henkilön kanssa",
+      "StartCallAction": "Soita"
+    }
+  }
+}

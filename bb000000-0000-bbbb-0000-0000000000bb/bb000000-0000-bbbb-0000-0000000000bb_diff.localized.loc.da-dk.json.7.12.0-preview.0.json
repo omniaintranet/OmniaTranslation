@@ -1,0 +1,290 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "BladeTitle": "Skrifttype",
+        "Previewing": "Forhåndsvisning...",
+        "InheritFromTenant": "Arv fra tenant",
+        "EnableCustomFont": "Aktivér brugerdefineret skrifttype",
+        "FontFamilyName": "Skrifttypefamilie navn",
+        "FontSource": "Skrifttype kilde",
+        "FileUpload": "Filupload",
+        "CdnFileLink": "CDN fil link",
+        "ChooseFontFile": "Vælg skrifttypefil",
+        "NoFileSelected": "Ingen fil valgt",
+        "SupportedFontFilesHelp": "Understøttede skrifttypefiler: WOFF, WOFF2, TTF og OTF. Maksimal størrelse er 10 MB.",
+        "CdnFontFileUrl": "CDN skrifttypefil URL",
+        "CdnFontFileUrlPlaceholder": "https://cdn.example.com/font.woff2",
+        "AdditionalFonts": "Yderligere skrifttyper",
+        "AddAdditionalFont": "Tilføj skrifttype",
+        "EditAdditionalFont": "Rediger skrifttype",
+        "NoAdditionalFonts": "Ingen yderligere skrifttyper tilføjet.",
+        "AdditionalFontsHelp": "Yderligere skrifttyper indlæses på siden, men anvendes ikke automatisk.",
+        "ApplyTo": "Anvend på",
+        "ScopeOmniaAdmin": "Omnia admin - vil blive anvendt på Omnia admin",
+        "ScopeEditorTools": "Editor værktøjer - Vil blive anvendt på WCM editor, alle blokindstillinger",
+        "ScopeReadMode": "Læsningstilstand - Vil blive anvendt i alle læsetilstande",
+        "PreviewTitle": "Forhåndsvisning",
+        "DisplayText": "Vis tekst",
+        "HeadlineText": "Overskriftstekst",
+        "TitleText": "Titeltekst",
+        "BodyText": "Brødtekst viser, hvordan almindeligt afsnitsindhold arver den konfigurerede skrifttype.",
+        "SmallAction": "Lille handling",
+        "DefaultAction": "Standard handling",
+        "LargeAction": "Stor handling",
+        "FontFileTooLarge": "Skrifttypefilen er for stor. Maksimal tilladt størrelse er 10 MB.",
+        "UnsupportedFontFileType": "Ikke-understøttet skrifttypefiltype. Understøttede typer er .woff, .woff2, .ttf og .otf.",
+        "FontFamilyRequired": "Indtast et navn på skrifttypefamilie.",
+        "ValidFontFileRequired": "Vælg en gyldig skrifttypefil.",
+        "ValidCdnUrlRequired": "Indtast en gyldig offentlig CDN skrifttypefil-URL, der ender på .woff, .woff2, .ttf eller .otf.",
+        "ValidFontSourceRequired": "Vælg en gyldig skrifttypekilde til forhåndsvisning.",
+        "UnexpectedError": "Der opstod en uventet fejl."
+      },
+      "DatetimePicker": {
+        "SetAM": "Indstil AM",
+        "SetPM": "Indstil PM",
+        "PreviousMonth": "Forrige måned",
+        "NextMonth": "Næste måned",
+        "ClickToSelectMonth": "Klik for at vælge måned.",
+        "ClickToSelectYear": "Klik for at vælge år.",
+        "SelectedDatePrefix": "Valgt dato",
+        "TodayPrefix": "I dag",
+        "PreviousYear": "Forrige år",
+        "NextYear": "Næste år",
+        "CurrentYearIs": "Nuværende år er",
+        "SelectedMonthPrefix": "Valgt måned",
+        "YearLabel": "År",
+        "PreviousYears": "Forrige år",
+        "NextYears": "Næste år",
+        "SelectedYearPrefix": "Valgt år",
+        "IncreaseHour": "Forøg time",
+        "DecreaseHour": "Formindsk time",
+        "IncreaseMinute": "Forøg minut",
+        "DecreaseMinute": "Formindsk minut",
+        "HourLabel": "Time",
+        "MinuteLabel": "Minut",
+        "Cancel": "Annuller",
+        "Add": "Tilføj",
+        "MonthPicker": "Månedsvælger",
+        "YearPicker": "Årsvælger",
+        "TimePicker": "Tidsvælger",
+        "CalendarPicker": "Kalendervælger"
+      },
+      "DatetimeZonePicker": {
+        "SetAM": "Indstil AM",
+        "SetPM": "Indstil PM",
+        "PreviousMonth": "Forrige måned",
+        "NextMonth": "Næste måned",
+        "ClickToSelectMonth": "Klik for at vælge måned",
+        "ClickToSelectYear": "Klik for at vælge år",
+        "SelectedDatePrefix": "Valgt:",
+        "TodayPrefix": "I dag:",
+        "PreviousYear": "Forrige år",
+        "NextYear": "Næste år",
+        "CurrentYearIs": "Nuværende år er",
+        "SelectedMonthPrefix": "Valgt:",
+        "YearLabel": "År",
+        "PreviousYears": "Forrige år",
+        "NextYears": "Næste år",
+        "SelectedYearPrefix": "Valgt:",
+        "IncreaseHour": "Forøg time",
+        "DecreaseHour": "Formindsk time",
+        "IncreaseMinute": "Forøg minut",
+        "DecreaseMinute": "Formindsk minut",
+        "HourLabel": "Time",
+        "MinuteLabel": "Minut",
+        "Cancel": "Annuller",
+        "Ok": "OK",
+        "MonthPicker": "Månedsvælger",
+        "YearPicker": "Årsvælger",
+        "TimePicker": "Tidsvælger",
+        "CalendarPicker": "Kalendervælger"
+      },
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Brugersynkroniseringsfiltre"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Brugersynkroniseringsfilter",
+            "UserSynchronizationFilterDescription": "Konfigurer filter til at inkludere eller udelukke brugere fra synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Intet brugersynkroniseringsfilter er konfigureret.",
+            "UserSynchronizationFilterConfigured": "Konfigureret med {0} filtre",
+            "Configure": "Konfigurer",
+            "RuleAction": "Regelhandling",
+            "IncludeInSync": "Inkluder i synkronisering",
+            "IncludeInSyncDescription": "Brugere, der matcher nedenstående filtre, tilføjes til kataloget.",
+            "ExcludeFromSync": "Udeluk fra synkronisering",
+            "ExcludeFromSyncDescription": "Brugere, der matcher nedenstående filtre, springes over under synkronisering.",
+            "MatchUsersWhere": "Match brugere hvor",
+            "MatchUsersWhereDescription": "Alle filtre skal matche (logisk OG). Inden for et filter kan enhver værdi matche (logisk ELLER).",
+            "NoUserSynchronizationFilters": "Ingen filtre endnu - uden filtre matcher denne regel alle brugere.",
+            "And": "OG",
+            "Where": "Hvor",
+            "EnterValueWithWildcard": "Indtast værdi. * som jokertegn.",
+            "ExcludeWithoutFiltersNotAllowed": "Udeluk fra synkronisering uden filtre er ikke tilladt.",
+            "IncompleteFilterNotAllowed": "Et filter skal have en valgt egenskab og mindst én værdi."
+          }
+        }
+      },
+      "IdentityPicker": {
+        "AvatarForUser": "Avatar for {0}"
+      },
+      "Common": {
+        "Pagination": {
+          "Navigation": "Sideinddeling",
+          "PreviousPage": "Gå til forrige side",
+          "NextPage": "Gå til næste side",
+          "GoToPage": "Gå til side {0}",
+          "CurrentPage": "Nuværende side, side {0}",
+          "Status": "Side {0} af {1}"
+        }
+      },
+      "Properties": {
+        "Settings": {
+          "ShowLabelIconWithValue": "Vis etiketikon med værdi",
+          "ShowLoginName": "Vis login-navn"
+        }
+      },
+      "Features": {
+        "AIEngine": {
+          "Title": "Semantisk søgning",
+          "Description": "Aktivér denne funktion for at give dit system adgang til semantisk søgning"
+        },
+        "NextGenUI": {
+          "Category": "System",
+          "Title": "Next gen UI",
+          "Description": "Aktivér denne funktion for at anvende det nye UI."
+        },
+        "WorkspaceNextGenUI": {
+          "Category": "System",
+          "Title": "Workspace hjem ny oplevelse",
+          "Description": "Aktivér ny oplevelse på workspace hjem"
+        },
+        "AppInstanceNextGenUI": {
+          "Category": "System",
+          "Title": "App instans ny oplevelse",
+          "Description": "Aktivér ny oplevelse på app instans"
+        }
+      },
+      "FilterEngine": {
+        "Editor": {
+          "SearchBoxSettings": {
+            "AriaLabel": "Søgefelt ARIA etiket"
+          }
+        },
+        "Renderer": {
+          "SearchTextBox": {
+            "AriaLabel": "Søg i filtre"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Accessibility": {
+          "SectionTabs": "Sektion faner"
+        },
+        "Panels": {
+          "BlockTitleSettings": {
+            "Element": "Element",
+            "ElementOptions": {
+              "Default": "Standard"
+            },
+            "FontFamily": "Skrifttypefamilie",
+            "AlignLeft": "Venstrejuster",
+            "AlignCenter": "Centrer",
+            "AlignRight": "Højrejuster"
+          },
+          "ColumnSettings": {
+            "ComplementaryInformation": "Supplerende information",
+            "ComplementaryInformationAriaLabel": "Aria etiket"
+          }
+        }
+      },
+      "UserTypeLayout": {
+        "ErrorMessages": {
+          "NoUserFound": "Kunne ikke finde brugeren"
+        }
+      },
+      "MediaflowProvider": {
+        "Title": "Mediaflow"
+      },
+      "MultilingualInput": {
+        "SingleLanguageRequiredMessageWithFieldName": "* {0} er påkrævet"
+      },
+      "Post": {
+        "ValidatePostMessage": "Et opslag er påkrævet.",
+        "PostFieldLabel": "Opslag"
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ingen oversættelse"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ingen oversættelse"
+        }
+      },
+      "Comment": {
+        "ValidateCommentMessage": "En kommentar er påkrævet.",
+        "CommentFieldLabel": "Kommentar",
+        "EditActionsButtonAriaLabel": "Handlinger for kommentar \"{CommentText}\"",
+        "EditCommentAriaLabel": "Rediger kommentar \"{CommentText}\"",
+        "DeleteCommentAriaLabel": "Slet kommentar \"{CommentText}\"",
+        "SocialReactions": {
+          "AddReaction": "Tilføj reaktion"
+        }
+      },
+      "FieldValidation": {
+        "RequiredMessageWithFieldName": "* {0} er påkrævet"
+      }
+    },
+    "SharePoint": {
+      "Features": {
+        "SPFxPerformanceEnhancement": {
+          "Category": "System",
+          "Description": "Forbedring for at indlæse Omnia hurtigere i SPFx.",
+          "Title": "SPFx ydeevneforbedring"
+        },
+        "SharePointFont": {
+          "Category": "System",
+          "Description": "Muliggør, at Omnia SPFx webdele tilpasser sig SharePoint sitets konfigurerede skrifttype.",
+          "Title": "SharePoint skrifttype"
+        }
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "TargetingPersonas": "Tilknytning personas",
+        "TargetingPersonaTitle": "Tilknytning persona",
+        "SelectPersona": "Vælg persona",
+        "ViewingAs": "Viser som",
+        "ViewingAsLabel": "Viser som",
+        "TargetingPersonasAdministrators": "Tilknytning personas administratorer",
+        "TargetingPersonasUsers": "Tilknytning personas brugere",
+        "CreateTargetingPersona": "Opret tilknytning persona",
+        "EditTargetingPersona": "Rediger tilknytning persona",
+        "TargetingProperties": "Tilknytning egenskaber",
+        "AddTargetingProperty": "Tilføj tilknytning egenskab",
+        "Delete": "Slet",
+        "Save": "Gem",
+        "Create": "Opret",
+        "Cancel": "Annuller",
+        "NoItems": "Ingen tilknytning personas fundet. Opret en for at komme i gang.",
+        "ActivatedPersonaInfo": "Du er ved at se som",
+        "ActivatedPersonaDescription": "Indhold og navigation afspejler, hvad denne persona har adgang til. Ændringer træder fuldt i kraft efter genindlæsning.",
+        "DeactivatedInfo": "Du er ved at deaktivere din persona. Genindlæs venligst for at gendanne din normale visning.",
+        "ReloadNow": "Genindlæs nu",
+        "ViewAsPersonaInfo": "Du er ved at se intranettet som",
+        "ViewAsPersonaDescription": "Dette ændrer ikke dine tilladelser eller adgang. Ændringer træder fuldt i kraft efter genindlæsning af siden.",
+        "ExitPersonaPreviewInfo": "Du er ved at afslutte tilknytning persona forhåndsvisning. Din normale visning vil blive gendannet efter genindlæsning."
+      }
+    },
+    "AuthenticationChecker": {
+      "Title": "Din session er udløbet.",
+      "Message": "Vi kunne ikke opdatere din login i baggrunden. Genindlæs Omnia for at fortsætte arbejdet - vi gør det for dig om lidt.",
+      "Seconds": "sekunder",
+      "Skip": "Genindlæs senere"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantic søgning reindeksering",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Dokumentet blev reindekseret i semantic søgning."
+        },
+        "Completed": "Fuldført",
+        "Find": "Find",
+        "Reindex": "Reindekser",
+        "SearchPlaceholder": "Søg ...",
+        "SelectDocumentTypesPlaceholder": "Vælg dokumenttyper"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "mere"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Dokumentsøgning skabelon"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Indlæsning af dokument skabelon information mislykkedes."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Indeksering til semantic søgning mislykkedes.",
+        "SemanticSearchIndexing": "Indeksering til semantic søgning"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Indeksering til semantic søgning mislykkedes.",
+        "Message": "Dette dokument er blevet publiceret succesfuldt, men der opstod et problem under indekseringen til Semantic søgning.<br/>Vil du starte indekseringsprocessen igen?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Noget gik galt under indeksering til semantic søgning. Prøv venligst igen."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Visning af dokumentbibliotek",
+      "BlockDescription": "Vis et valgt SharePoint dokumentbibliotek med mapper, filtre og eksport.",
+      "Common": {
+        "ConfigurePrompt": "Konfigurer Site URL, bibliotek og enten en visning eller valgte felter i indstillinger.",
+        "NoDataToShow": "Ingen data at vise.",
+        "LoadMore": "Indlæs mere",
+        "Name": "Navn",
+        "RootFolder": "Rod",
+        "ExportToExcel": "Eksporter til Excel",
+        "Exporting": "Genererer Excel-fil...",
+        "PreviousPage": "Forrige side",
+        "NextPage": "Næste side",
+        "SortByColumn": "Sorter efter kolonne",
+        "ExpandGroup": "Udvid gruppe",
+        "CollapseGroup": "Skjul gruppe",
+        "ItemType": "Elementtype",
+        "FriendlyDates": {
+          "FewSecondsAgo": "For få sekunder siden",
+          "AboutMinuteAgo": "For cirka et minut siden",
+          "MinutesAgo": "{0} minutter siden",
+          "AboutHourAgo": "For cirka en time siden",
+          "HoursAgo": "{0} timer siden",
+          "Yesterday": "I går",
+          "YesterdayAt": "I går kl.",
+          "WeekdayAt": "{0} kl.",
+          "DaysAgo": "{0} dage siden",
+          "DaysAgoAt": "{0} dage siden kl."
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Generelt",
+          "Query": "Forespørgsel",
+          "Display": "Visning",
+          "Filter": "Filter",
+          "Export": "Eksport"
+        },
+        "SiteUrl": "Site URL",
+        "PickLibrary": "Vælg bibliotek",
+        "FieldSelectionMode": "Kolonnekilde",
+        "UseView": "Brug SharePoint visning",
+        "SelectFieldsDirectly": "Vælg felter direkte",
+        "View": "Visning",
+        "Paging": "Sideinddeling",
+        "PagingType": {
+          "NoPaging": "Ingen sideinddeling",
+          "Classic": "Klassisk"
+        },
+        "ItemLimit": "Elementgrænse",
+        "PageSize": "Rækker pr. side",
+        "ShowBreadcrumb": "Vis brødkrumme",
+        "DateDisplayMode": "Dato type",
+        "DateModeSource": "Kildeformatering (SharePoint liste)",
+        "DateModeClassic": "Klassisk",
+        "DateModeSocial": "Social",
+        "DateFormat": "Datoformat",
+        "ShowExportToExcel": "Vis eksport til Excel",
+        "DisplayFields": "Vis felter",
+        "ColumnWidth": "Bredde (px)",
+        "ShowHeading": "Vis overskrift"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Eksportfil {0} er klar til download."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Vælg alle dokumenter på denne side",
+        "SelectDocument": "Vælg dokument",
+        "SelectDocumentWithTitle": "Vælg dokument {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Proces søgning skabelon"
+        }
+      }
+    }
+  }
+}

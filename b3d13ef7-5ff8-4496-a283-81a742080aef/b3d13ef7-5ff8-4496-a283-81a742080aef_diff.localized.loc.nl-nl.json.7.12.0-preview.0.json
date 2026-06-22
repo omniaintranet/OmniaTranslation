@@ -1,0 +1,127 @@
+{
+  "ODM": {
+    "Admin": {
+      "SemanticSearchBulkReindex": {
+        "SemanticSearchReindex": "Semantische zoekherindexering",
+        "HistoryMessage": {
+          "DocumentReindexInSemanticSearch": "Het document is opnieuw geïndexeerd in de semantische zoekfunctie."
+        },
+        "Completed": "Voltooid",
+        "Find": "Zoeken",
+        "Reindex": "Herindexeren",
+        "SearchPlaceholder": "Zoeken ...",
+        "SelectDocumentTypesPlaceholder": "Selecteer documenttypen"
+      }
+    },
+    "DocumentTypeTreePicker": {
+      "MoreItems": "meer"
+    },
+    "Core": {
+      "SearchTemplates": {
+        "DocumentSearchTemplate": {
+          "Title": "Documentzoektemplate"
+        }
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Het laden van documenttemplate-informatie is mislukt."
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "FailedIndexToSemanticSearch": "Indexering naar semantische zoekfunctie mislukt.",
+        "SemanticSearchIndexing": "Indexeren voor semantische zoekfunctie"
+      },
+      "SemanticSearchIndexingFailedDialog": {
+        "Title": "Indexering voor semantische zoekfunctie mislukt.",
+        "Message": "Dit document is succesvol gepubliceerd, maar er is een probleem opgetreden bij het indexeren naar de semantische zoekfunctie.<br/>Wilt u het indexeringsproces opnieuw starten?"
+      },
+      "PublishErrorMessages": {
+        "ErrorIndexingToSemanticSearchMessage": "Er is iets misgegaan bij het indexeren naar de semantische zoekfunctie. Probeer het alstublieft opnieuw."
+      }
+    },
+    "DocumentLibraryDisplay": {
+      "BlockTitle": "Documentbibliotheekweergave",
+      "BlockDescription": "Toon een geselecteerde SharePoint-documentbibliotheekweergave met mappen, filters en export.",
+      "Common": {
+        "ConfigurePrompt": "Configureer Site-URL, bibliotheek en een weergave of geselecteerde velden in de instellingen.",
+        "NoDataToShow": "Geen gegevens om te tonen.",
+        "LoadMore": "Meer laden",
+        "Name": "Naam",
+        "RootFolder": "Hoofdmap",
+        "ExportToExcel": "Exporteren naar Excel",
+        "Exporting": "Excel-bestand genereren...",
+        "PreviousPage": "Vorige pagina",
+        "NextPage": "Volgende pagina",
+        "SortByColumn": "Sorteren op kolom",
+        "ExpandGroup": "Groep uitvouwen",
+        "CollapseGroup": "Groep samenvouwen",
+        "ItemType": "Itemtype",
+        "FriendlyDates": {
+          "FewSecondsAgo": "Een paar seconden geleden",
+          "AboutMinuteAgo": "Ongeveer een minuut geleden",
+          "MinutesAgo": "{0} minuten geleden",
+          "AboutHourAgo": "Ongeveer een uur geleden",
+          "HoursAgo": "{0} uur geleden",
+          "Yesterday": "Gisteren",
+          "YesterdayAt": "Gisteren om",
+          "WeekdayAt": "{0} om",
+          "DaysAgo": "{0} dagen geleden",
+          "DaysAgoAt": "{0} dagen geleden om"
+        }
+      },
+      "Settings": {
+        "Tabs": {
+          "General": "Algemeen",
+          "Query": "Query",
+          "Display": "Weergave",
+          "Filter": "Filter",
+          "Export": "Exporteren"
+        },
+        "SiteUrl": "Site-URL",
+        "PickLibrary": "Selecteer bibliotheek",
+        "FieldSelectionMode": "Kolombron",
+        "UseView": "Gebruik SharePoint-weergave",
+        "SelectFieldsDirectly": "Selecteer velden direct",
+        "View": "Weergave",
+        "Paging": "Paginering",
+        "PagingType": {
+          "NoPaging": "Geen paginering",
+          "Classic": "Klassiek"
+        },
+        "ItemLimit": "Itemlimiet",
+        "PageSize": "Rijen per pagina",
+        "ShowBreadcrumb": "Toon breadcrumb",
+        "DateDisplayMode": "Datumtype",
+        "DateModeSource": "Bronopmaak (SharePoint-lijst)",
+        "DateModeClassic": "Klassiek",
+        "DateModeSocial": "Sociaal",
+        "DateFormat": "Datumformaat",
+        "ShowExportToExcel": "Toon exporteren naar Excel",
+        "DisplayFields": "Weergavevelden",
+        "ColumnWidth": "Breedte (px)",
+        "ShowHeading": "Toon koptekst"
+      }
+    },
+    "DocumentRollup": {
+      "Exporting": {
+        "FileReadyForDownload": "Exportbestand {0} is klaar voor download."
+      }
+    },
+    "Features": {
+      "PublishedDocumentPicker": {
+        "SelectAllDocumentsOnPage": "Selecteer alle documenten op deze pagina",
+        "SelectDocument": "Selecteer document",
+        "SelectDocumentWithTitle": "Selecteer document {0}"
+      }
+    }
+  },
+  "OPM": {
+    "Core": {
+      "SearchTemplates": {
+        "ProcessSearchTemplate": {
+          "Title": "Proceszoektemplate"
+        }
+      }
+    }
+  }
+}

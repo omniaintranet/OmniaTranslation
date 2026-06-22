@@ -1,0 +1,321 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "InheritFromTenant": "继承自租户",
+        "ImageScaling": "图像缩放",
+        "CropRatios": {
+          "BusinessProfileOverrideNotSupported": "不支持在业务配置文件级别覆盖裁剪比例。",
+          "SelectTenantRatios": "选择在此业务配置文件中使用的租户裁剪比例。"
+        },
+        "ImageStyle": {
+          "Title": "图像样式",
+          "BorderRadius": "边框半径"
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "Title": "语义搜索完全重新索引",
+          "Disclaimer": "重新索引进行时，语义搜索将不可用。此操作可能根据内容量耗时较长。",
+          "StartButton": "开始完全重新索引",
+          "Running": "重新索引进行中...",
+          "ConfirmTitle": "开始完全重新索引",
+          "ConfirmMessage": "您确定要开始完全语义搜索重新索引吗？",
+          "StatusLoadError": "无法加载当前重新索引状态。",
+          "StartError": "无法启动完全重新索引。"
+        }
+      }
+    },
+    "CustomFont": {
+      "NavigationLabel": "字体"
+    },
+    "TextStyles": {
+      "FontWeight": "字体粗细",
+      "FontWeightInvalid": "请输入有效的字体粗细（normal、bold、bolder、lighter 或 1 到 1000 之间的数字）。",
+      "InheritFromTenant": "继承自租户",
+      "ApplyEverywhere": "全局应用",
+      "ApplyEverywhereDescription": "启用时，内置文本样式将应用于解决方案中所有匹配元素。禁用时，仅影响富文本编辑器内容。自定义文本样式始终仅限于富文本编辑器。"
+    },
+    "System": {
+      "SPFxInstruction": {
+        "CreateAppCatalogScreenshotAlt": "显示创建 SharePoint 应用目录站点位置的截图。",
+        "UploadPackageScreenshotAlt": "显示在 SharePoint 应用中上传 SharePoint 包位置的截图。",
+        "AvailableToAllSitesScreenshotAlt": "显示将 SharePoint 包设置为对所有站点可用选项的截图。"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "EnterpriseGlossary": {
+      "InvalidTaxonomyTitle": "此分类词汇表缺少或无效的术语集 ID。",
+      "Default": "默认",
+      "RemoveDefaultUISettingsConfirmation": {
+        "Title": "移除默认图标和颜色",
+        "Message": "您确定要移除默认外观设置吗？"
+      }
+    },
+    "HeaderSettings": {
+      "SearchBoxStyle": "搜索框样式",
+      "SearchBoxStyleOptions": {
+        "M365Style": "M365 样式",
+        "WCAGCompliant": "符合 WCAG"
+      }
+    },
+    "Workspace": {
+      "Admin": {
+        "NavigationBar": {
+          "LeftPanelLayouts": "左侧面板",
+          "LeftPanelLayoutsSettings": "左侧面板",
+          "CustomFontFamily": "自定义字体系列",
+          "CenterMenu": "居中菜单",
+          "CenterMenuWidth": "居中宽度（像素）",
+          "ForceUppercase": "强制大写",
+          "ShowIcons": "显示图标",
+          "HideText": "隐藏文本"
+        }
+      }
+    },
+    "Announcements": {
+      "Settings": {
+        "Display": "显示",
+        "HeadingElement": "标题元素",
+        "BorderRadius": "边框半径",
+        "Elevation": "层级",
+        "ShowStatusText": "显示状态文本",
+        "ShowTypeIcon": "显示类型图标",
+        "ShowDate": "显示日期",
+        "DateType": "日期类型",
+        "Social": "社交",
+        "Classic": "经典",
+        "DateFormat": "日期格式",
+        "NoResultText": "无结果文本",
+        "ModernAnnoucement": "现代公告"
+      },
+      "CommentCount": "{0} 条评论"
+    },
+    "Core": {
+      "Features": {
+        "ShowLeftPanel": {
+          "Title": "显示左侧面板",
+          "Category": "系统",
+          "Description": "在当前应用实例中显示左侧面板。"
+        },
+        "CopilotChat": {
+          "Title": "Copilot 聊天"
+        },
+        "AnalyticsForSpfx": {
+          "Title": "SPFx 分析",
+          "Description": "通过 Matomo 启用对 SharePoint 页面用户活动的自动跟踪。",
+          "Category": "系统"
+        }
+      },
+      "Accessibility": {
+        "ActionMenu": {
+          "MainMenuLabel": "操作菜单"
+        }
+      }
+    },
+    "ListRollup": {
+      "ViewTitle": {
+        "List": "列表视图"
+      },
+      "Exporting": {
+        "FileReadyForDownload": "导出文件 {0} 已准备好下载。"
+      }
+    },
+    "LinksManagement": {
+      "ManageLinks": {
+        "ManageLinks": "管理链接"
+      },
+      "MyLinks": {
+        "AddMyLinksAriaLabel": "将标题为“{LinkTitle}”的链接添加到我的链接",
+        "DeleteMyLinksAriaLabel": "从我的链接中删除标题为“{LinkTitle}”的链接",
+        "RemoveMyLinksAriaLabel": "从我的链接中移除标题为“{LinkTitle}”的链接",
+        "EditLinkAriaLabel": "编辑标题为“{LinkTitle}”的链接"
+      },
+      "AppLaunch": {
+        "Back": "返回",
+        "CreateMore": "创建更多",
+        "Document": "文档",
+        "FindMicrosoft365Apps": "查找 Microsoft 365 应用",
+        "Presentation": "演示文稿",
+        "SearchBoxAriaLabel": "搜索框。输入时显示建议。",
+        "SearchMicrosoft365Apps": "搜索所有 Microsoft 365 应用",
+        "SearchResults": "搜索结果",
+        "Survey": "调查",
+        "Workbook": "工作簿"
+      },
+      "Component": {
+        "ShowMoreLinks": "显示更多链接",
+        "ShowLessLinks": "显示更少链接"
+      },
+      "ComponentSettingsForm": {
+        "TruncateText": "截断标签",
+        "IncludePersonalLinks": "包含个人链接",
+        "IncludeFollowingLinks": "包含关注的链接",
+        "ShowManageLinks": "显示链接管理图标",
+        "ShowMoreButton": "显示更多按钮",
+        "ShowMoreAriaLabel": "显示更多按钮的 aria 标签",
+        "ShowLessAriaLabel": "显示更少按钮的 aria 标签",
+        "HideShowMoreButton": "隐藏显示更多按钮",
+        "HideLinkTitle": "隐藏链接标题",
+        "SquareDesign": "方形设计",
+        "FontSize": "字体大小",
+        "IconSize": "图标大小",
+        "IconMargin": "图标边距",
+        "IconPadding": "图标内边距"
+      }
+    },
+    "NotificationPanel": {
+      "CategoryNotificationBadgeMessage": "{0} 中有 {1} 条未读通知",
+      "CategoryTabListLabel": "通知类别"
+    },
+    "Properties": {
+      "EditPropertyAriaLabel": "编辑 {0}",
+      "Settings": {
+        "UseFixedPropertiesPerRow": "每行使用固定属性数"
+      }
+    },
+    "Search": {
+      "Admin": {
+        "SearchTemplatesOrderInfo": "搜索模板按列表顺序应用。如果结果匹配多个模板，则使用第一个匹配项。",
+        "LongDescription": "详细描述",
+        "SearchFeedbackPosition": "搜索反馈位置",
+        "UserProperties": "用户属性",
+        "FilterValueTypes": {
+          "FilterValueType": "筛选值类型",
+          "FixedValue": "固定值",
+          "CurrentUser": "当前用户"
+        }
+      },
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "根据我能访问的内容，无法确定您的问题答案。",
+          "RequestMoreContext": "请提供更多上下文或澄清您的问题。"
+        }
+      },
+      "AdvancedSearch": {
+        "RefineSearchResult": "细化搜索结果",
+        "RefinerExpandedLabel": "{0}，已展开{1}",
+        "RefinerCollapsedLabel": "{0}，已折叠{1}",
+        "RefinerActiveFilterCount": "，{0} 个活动筛选器",
+        "RefinerOptionLabel": "{0}，{1} 个结果",
+        "RefinerOptionSelectedLabel": "{0}，{1} 个结果，已选中",
+        "RefinerOptionNoCountLabel": "{0}",
+        "RefinerOptionNoCountSelectedLabel": "{0}，已选中"
+      },
+      "TemplateRegistrations": {
+        "Fields": {
+          "Title": "标题",
+          "Description": "描述",
+          "Date": "日期",
+          "FallbackDate": "备用日期",
+          "User": "用户",
+          "FallbackUser": "备用用户",
+          "URL": "URL",
+          "ParentURL": "父级 URL"
+        },
+        "SpListItemSearchTemplate": {
+          "Title": "SharePoint 列表项搜索模板"
+        },
+        "PersonSearchTemplate": {
+          "Title": "人员搜索模板"
+        }
+      }
+    },
+    "Tutorial": {
+      "Accessibility": {
+        "DialogLabel": "教程对话框",
+        "RegionLabel": "教程对话框。使用键盘导航控件在教程步骤间切换。",
+        "PreviousStep": "上一步教程",
+        "NextStep": "下一步教程",
+        "StepPickerLabel": "教程步骤",
+        "StepButtonLabel": "显示教程步骤 {0} / {1}"
+      }
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "Core": {
+      "Blocks": {
+        "SharePointPageRollup": {
+          "Title": "SharePoint 页面汇总",
+          "Summary": "列出 SharePoint 页面。"
+        }
+      }
+    },
+    "TeamNewsRollup": {
+      "SharePointPageControlTitle": "SharePoint 页面汇总",
+      "Settings": {
+        "Tabs": {
+          "Filter": "筛选"
+        },
+        "FilterByExpirationTime": "按过期时间筛选",
+        "QueryConfigurationTypes": {
+          "PickPages": "选择页面",
+          "UseQueryBuilder": "使用查询构建器"
+        },
+        "QueryScope": {
+          "AllPages": "所有页面",
+          "SharePointLibrary": "SharePoint 库"
+        },
+        "SiteUrl": "站点 URL",
+        "Operators": {
+          "Equals": "等于",
+          "StartWith": "以…开头",
+          "Contains": "包含",
+          "LessThan": "小于",
+          "GreaterThan": "大于"
+        },
+        "QueryValueOptions": {
+          "Manual": "手动",
+          "QueryParameter": "查询参数",
+          "UserLanguage": "用户语言",
+          "UserEmail": "用户邮箱",
+          "Today": "今天"
+        },
+        "AddQueryFilter": "添加查询筛选器",
+        "Summary": "摘要",
+        "Image": "图片",
+        "Date": "日期",
+        "Person": "人员",
+        "Description": "描述",
+        "TermProperties": "术语属性",
+        "CardsPerRow": "每行卡片数",
+        "ShowLikesComments": "显示点赞/评论",
+        "ShowLastActivity": "显示最后活动",
+        "ShowRating": "显示评分",
+        "OpenInNewTab": "在新标签页打开",
+        "AddColumn": "添加列",
+        "FixedHeader": "固定标题",
+        "NoColumnSelected": "未选择列。请在设置中配置列。",
+        "Width": "宽度",
+        "ShowLabel": "显示标签",
+        "CustomLabel": "自定义标签",
+        "InvalidUrl": "URL 必须是页面列表。",
+        "DeleteSpPageConfirmation": {
+          "Title": "移除页面",
+          "Message": "您确定要移除此页面吗？"
+        },
+        "PickPages": {
+          "Title": "SharePoint 页面选择器",
+          "AddPageLabel": "添加页面",
+          "NoPagesFound": "未找到页面",
+          "Placeholder": "搜索页面...",
+          "PickInWriteMode": "在写入模式下选择页面"
+        }
+      },
+      "ViewTitle": {
+        "CustomView": "自定义视图",
+        "CardView": "卡片视图"
+      }
+    }
+  },
+  "PAN": {
+    "People": {
+      "SendEmailAction": "发送邮件",
+      "StartChatAction": "开始聊天",
+      "StartCallAction": "拨打电话"
+    }
+  }
+}
