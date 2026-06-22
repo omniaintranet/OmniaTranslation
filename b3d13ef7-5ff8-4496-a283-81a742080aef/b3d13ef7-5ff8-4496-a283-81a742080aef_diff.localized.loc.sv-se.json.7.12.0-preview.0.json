@@ -2,9 +2,9 @@
   "ODM": {
     "Admin": {
       "SemanticSearchBulkReindex": {
-        "SemanticSearchReindex": "Semantisk sökning omindexering",
+        "SemanticSearchReindex": "Omindexering för semantisk sökning",
         "HistoryMessage": {
-          "DocumentReindexInSemanticSearch": "Dokumentet omindexerades i semantisk sökning."
+          "DocumentReindexInSemanticSearch": "Dokumentet omindexerades för semantisk sökning."
         },
         "Completed": "Slutförd",
         "Find": "Hitta",
@@ -19,7 +19,7 @@
     "Core": {
       "SearchTemplates": {
         "DocumentSearchTemplate": {
-          "Title": "Dokumentsökning mall"
+          "Title": "Mall för dokumentsökning"
         }
       },
       "TemplateMerge": {
@@ -28,15 +28,15 @@
     },
     "DocumentLibrary": {
       "DocumentStatuses": {
-        "FailedIndexToSemanticSearch": "Indexering till semantisk sökning misslyckades.",
+        "FailedIndexToSemanticSearch": "Indexering för semantisk sökning misslyckades.",
         "SemanticSearchIndexing": "Indexering till semantisk sökning"
       },
       "SemanticSearchIndexingFailedDialog": {
-        "Title": "Indexering till semantisk sökning misslyckades.",
-        "Message": "Detta dokument har publicerats framgångsrikt, men ett problem uppstod vid indexering till semantisk sökning.<br/>Vill du starta indexeringsprocessen igen?"
+        "Title": "Indexering för semantisk sökning misslyckades.",
+        "Message": "Detta dokument har publicerats, men ett problem uppstod vid indexering för semantisk sökning. Vill du starta indexeringsprocessen igen?"
       },
       "PublishErrorMessages": {
-        "ErrorIndexingToSemanticSearchMessage": "Något gick fel vid indexering till semantisk sökning. Försök igen."
+        "ErrorIndexingToSemanticSearchMessage": "Något gick fel vid indexering för semantisk sökning. Försök igen."
       }
     },
     "DocumentLibraryDisplay": {
@@ -47,9 +47,9 @@
         "NoDataToShow": "Inga data att visa.",
         "LoadMore": "Ladda mer",
         "Name": "Namn",
-        "RootFolder": "Rot",
+        "RootFolder": "Rotbibliotek",
         "ExportToExcel": "Exportera till Excel",
-        "Exporting": "Genererar Excel-fil...",
+        "Exporting": "Skapar Excel-fil...",
         "PreviousPage": "Föregående sida",
         "NextPage": "Nästa sida",
         "SortByColumn": "Sortera efter kolumn",
@@ -96,7 +96,7 @@
         "DateModeClassic": "Klassisk",
         "DateModeSocial": "Social",
         "DateFormat": "Datumformat",
-        "ShowExportToExcel": "Visa export till Excel",
+        "ShowExportToExcel": "Visa Export till Excel",
         "DisplayFields": "Visningsfält",
         "ColumnWidth": "Bredd (px)",
         "ShowHeading": "Visa rubrik"
@@ -119,7 +119,7 @@
     "Core": {
       "SearchTemplates": {
         "ProcessSearchTemplate": {
-          "Title": "Processökning mall"
+          "Title": "Mall för sökning av process"
         }
       }
     }
