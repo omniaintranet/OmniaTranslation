@@ -24,26 +24,26 @@
       "DialogSummaryProperty": "Sammanfattningsegenskap",
       "DialogContentProperty": "Innehållsegenskap",
       "DialogImageProperty": "Bildegenskap",
-      "DialogDateProperty": "Datumeegenskap",
-      "DialogPropertyMappings": "Dialogegenskapsmappningar",
-      "OverrideDefaultSettings": "Åsidosätt standardinställningar",
+      "DialogDateProperty": "Datumegenskap",
+      "DialogPropertyMappings": "Mappningar för dialogegenskap",
+      "OverrideDefaultSettings": "Ersätt standardinställningar",
       "EnableRichText": "Aktivera formaterad text",
-      "EnableViewButtonOnDialog": "Aktivera visa-knapp i dialogruta",
+      "EnableViewButtonOnDialog": "Aktivera Visa-knapp i dialogruta",
       "EnableMention": "Aktivera omnämnande"
     },
     "Admin": {
       "Settings": {
-        "SharepointPageQueryLabel": "SharePoint-sidfråga",
+        "SharepointPageQueryLabel": "Sidfråga för SharePoint-sida",
         "SharepointPageQuery": "Basfråga",
-        "SharepointPageRollupQuery": "Basfråga för SharePoint-sidrollup"
+        "SharepointPageRollupQuery": "Basfråga för upprullning av SharePoint-sidor"
       },
       "SemanticSearch": {
         "Title": "Semantisk sökning",
         "ReindexContent": "Indexera om innehåll",
-        "ReindexContentConfirmationTitle": "Kör fullständig indexering av innehåll",
-        "ReindexContentConfirmationDescription": "Är du säker på att du vill köra en fullständig innehållsindexering på Tenant?",
+        "ReindexContentConfirmationTitle": "Genomför fullständig indexering av innehåll",
+        "ReindexContentConfirmationDescription": "Är du säker på att du vill genomföra en fullständig innehållsindexering på Tenant?",
         "ReindexContentMessage": "Indexera om {0} sidor (Lyckades: {1}, Misslyckades: {2})",
-        "Running": "Kör",
+        "Running": "Utför",
         "ResumeFromLastSync": "Återuppta från senaste synk",
         "ResumeFromLastSyncTitle": "Återuppta från senaste synk",
         "ResumeFromLastSyncDescription": "Är du säker på att du vill återuppta från senaste synk på Tenant?",
@@ -55,11 +55,11 @@
       },
       "DefaultRendering": {
         "Title": "Standardrendering",
-        "Description": "Definierar en standardrenderingsapp-instans som används som reserv när den aktuella webbplatsen inte har Full page experience aktiverad.",
+        "Description": "Definierar en standardrenderingsapp-instans som används som reserv när den aktuella webbplatsen inte har Full sidupplevelse aktiverad.",
         "SelectLabel": "Välj standardrenderingsapp-instans",
         "DialogSettingsTitle": "Standard dialogkonfiguration",
         "EnableRichText": "Aktivera formaterad text",
-        "EnableViewButtonOnDialog": "Aktivera visa-knapp i dialogruta",
+        "EnableViewButtonOnDialog": "Aktivera Visa-knapp i dialogruta",
         "EnableMention": "Aktivera omnämnande",
         "DialogSummary": "Dialogsammanfattning",
         "DialogContent": "Dialoginnehåll",
@@ -74,7 +74,7 @@
       },
       "Editor": {
         "OnThisPage": "Sektioner",
-        "LivePreview": "Direktförhandsvisning",
+        "LivePreview": "Direkt förhandsvisning",
         "Menu": {
           "Style": "Stil"
         }
@@ -105,7 +105,7 @@
     },
     "Breadcrumb": {
       "Settings": {
-        "StylePreset": "Stilförinställning",
+        "StylePreset": "Förinställning för stil",
         "Query": "Fråga",
         "CurrentNodeIndicator": "Aktuell nodindikator",
         "Separator": "Avgränsare",
@@ -115,29 +115,29 @@
         "Compact": "Kompakt",
         "Comfortable": "Bekväm",
         "Spacious": "Rymlig",
-        "HoverState": "Hover-tillstånd",
+        "HoverState": "Hovringstillstånd",
         "IndicatorColor": "Indikatorfärg",
         "SeparatorColor": "Avgränsarfärg",
-        "HoverColor": "Hover-färg",
-        "LivePreview": "Direktförhandsvisning",
+        "HoverColor": "Hovringsfärg",
+        "LivePreview": "Direkt förhandsvisning",
         "OmniaClassic": "Omnia klassisk",
-        "OmniaClassicDescription": "Aktuell Omnia breadcrumb-stil",
-        "MinimalSlash": "Minimal snedstreck",
-        "MinimalSlashDescription": "Snedstrecksavgränsare - färgad hover",
-        "PillCurrent": "Piller aktuell",
-        "PillCurrentDescription": "Tonat piller på aktuell - tonad hover",
+        "OmniaClassicDescription": "Aktuell Omnia-stil för brödsmula",
+        "MinimalSlash": "Minimalt snedstreck",
+        "MinimalSlashDescription": "Snedstrecksavgränsare - färgad hovring",
+        "PillCurrent": "Pill aktuell",
+        "PillCurrentDescription": "Tonad pill på aktuell - tonad hovring",
         "BoldUnderline": "Fet aktuell",
-        "BoldUnderlineDescription": "Fet aktuell nod - understrykning vid hover",
+        "BoldUnderlineDescription": "Fet aktuell nod - understrykning vid hovring",
         "ArrowTrail": "Pilspår",
         "ArrowTrailDescription": "Pilavgränsare - färgad aktuell",
         "DotDivider": "Punktavgränsare",
-        "DotDividerDescription": "Punktavgränsare - färgad hover",
+        "DotDividerDescription": "Punktavgränsare - färgad hovring",
         "Custom": "Anpassad",
         "Plain": "Enkel",
         "Bold": "Fet",
         "Color": "Färg",
         "Pill": "Piller",
-        "Chevron": "Chevron",
+        "Chevron": "Vinkel",
         "Slash": "Snedstreck",
         "Arrow": "Pil",
         "Dot": "Punkt",
@@ -152,20 +152,20 @@
       "Block": {
         "BlockTitle": "Innehållsflöde",
         "BlockSummary": "Skapa strukturerat sidinnehåll med text, media och citat.",
-        "Placeholder": "Rendering av Content Flow kommer att vara tillgängligt när blocklagring är implementerad.",
+        "Placeholder": "Rendering av innehållsflöde kommer att vara tillgängligt när blocklagring är implementerad.",
         "Media": {
           "AddImage": "Lägg till media",
           "EditImage": "Redigera media",
           "RemoveImage": "Ta bort media",
           "ReplaceImage": "Byt media",
           "PlaceholderTitle": "Lägg till media",
-          "PlaceholderDescription": "Välj en bild eller video från mediebiblioteket för detta Content flow media-block.",
+          "PlaceholderDescription": "Välj en bild eller video från mediabiblioteket för detta media-block med innehållsflöde.",
           "Width": {
             "Label": "Mediabredd",
             "Content": "Innehåll",
             "Wide": "Bred",
             "Full": "Full",
-            "FullBleed": "Full bleed"
+            "FullBleed": "Kant till kant"
           }
         },
         "Text": {
