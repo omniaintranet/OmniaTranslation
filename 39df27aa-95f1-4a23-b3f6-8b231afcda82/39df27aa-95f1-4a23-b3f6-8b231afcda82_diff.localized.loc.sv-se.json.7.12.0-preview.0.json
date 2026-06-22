@@ -5,8 +5,8 @@
         "InheritFromTenant": "Ärv från Tenant",
         "ImageScaling": "Bildskalning",
         "CropRatios": {
-          "BusinessProfileOverrideNotSupported": "Åsidosättning av beskärningsförhållanden på affärsprofilnivå stöds inte.",
-          "SelectTenantRatios": "Välj vilka Tenant-beskärningsförhållanden som ska användas i denna affärsprofil."
+          "BusinessProfileOverrideNotSupported": "Redigering av beskärningsförhållanden på affärsprofilnivå stöds inte.",
+          "SelectTenantRatios": "Välj vilka beskärningsförhållanden från Tenant som ska användas i denna affärsprofil."
         },
         "ImageStyle": {
           "Title": "Bildstil",
@@ -18,11 +18,11 @@
       "GeneralSetting": {
         "SemanticSearchFullReindex": {
           "Title": "Fullständig omindexering av semantisk sökning",
-          "Disclaimer": "Semantisk sökning kommer att vara otillgänglig medan omindexeringen pågår. Denna operation kan ta ganska lång tid beroende på mängden innehåll.",
+          "Disclaimer": "Semantisk sökning är inte tillgänglig medan omindexeringen pågår. Denna åtgärd kan ta ganska lång tid beroende på mängden innehåll.",
           "StartButton": "Starta fullständig omindexering",
           "Running": "Omindexering pågår...",
           "ConfirmTitle": "Starta fullständig omindexering",
-          "ConfirmMessage": "Är du säker på att du vill starta en fullständig omindexering av den semantiska sökningen?",
+          "ConfirmMessage": "Är du säker på att du vill starta en fullständig omindexering av semantisk sökning?",
           "StatusLoadError": "Kunde inte ladda aktuell status för omindexering.",
           "StartError": "Kunde inte starta fullständig omindexering."
         }
@@ -36,7 +36,7 @@
       "FontWeightInvalid": "Ange en giltig teckensnittsvikt (normal, fet, fetare, lättare eller ett nummer mellan 1 och 1000).",
       "InheritFromTenant": "Ärv från Tenant",
       "ApplyEverywhere": "Använd överallt",
-      "ApplyEverywhereDescription": "När aktiverat tillämpas de inbyggda textstilarna på alla matchande element i hela lösningen. När det är inaktiverat påverkar de endast innehåll i rik textredigeraren. Anpassade textstilar förblir alltid begränsade till rik textredigeraren."
+      "ApplyEverywhereDescription": "När aktiverat tillämpas de inbyggda textstilarna på alla matchande element i hela lösningen. När inaktiverat påverkar de endast innehåll i RTF-redigeraren. Anpassade textstilar gäller alltid endast i RTF-redigeraren."
     },
     "System": {
       "SPFxInstruction": {
