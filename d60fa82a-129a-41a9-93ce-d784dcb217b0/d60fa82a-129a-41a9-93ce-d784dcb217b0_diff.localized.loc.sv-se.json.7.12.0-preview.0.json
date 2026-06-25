@@ -348,7 +348,7 @@
           "MissingDocumentDefaultCreated": "Saknat dokument ersattes med ett standarddokument.",
           "SchemaMigrated": "Dokumentet standardiserades till schema version 1 för innehållsflöde.",
           "SchemaInvalid": "Dokument för innehållsflöde måste använda schema version 1.",
-          "RowsEmpty": Dokument fört innehållsflöde måste innehålla minst en rad.",
+          "RowsEmpty": "Dokument fört innehållsflöde måste innehålla minst en rad.",
           "RowIdMissing": "Rad-ID krävs.",
           "RowTemplateInvalid": "Radmallstypen stöds inte.",
           "BlocksEmpty": "En rad måste innehålla minst ett block.",
