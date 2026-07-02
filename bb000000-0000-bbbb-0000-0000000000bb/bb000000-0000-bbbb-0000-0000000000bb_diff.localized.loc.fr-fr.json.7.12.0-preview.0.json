@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Police du navigateur (web-safe)",
+        "SystemFontHelp": "Utilise une police déjà disponible dans le navigateur. Il suffit d'entrer le nom de la famille de polices, aucun fichier ou lien n'est nécessaire."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Styles personnalisés"
+          }
+        }
+      }
+    }
+  }
+}
