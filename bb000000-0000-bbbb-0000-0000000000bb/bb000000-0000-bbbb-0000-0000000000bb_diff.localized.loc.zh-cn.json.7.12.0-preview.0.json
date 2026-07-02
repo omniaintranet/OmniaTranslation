@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "浏览器字体（网页安全字体）",
+        "SystemFontHelp": "使用浏览器中已有的字体。只需输入字体系列名称，无需文件或链接。"
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "自定义样式"
+          }
+        }
+      }
+    }
+  }
+}
