@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Godkendelse omgået"
+          },
+          "Approval": {
+            "UsersAndGroups": "Brugere og Grupper",
+            "AllowApprovalBypass": "Tillad omgåelse af godkendelse",
+            "ApprovalBypassUsersOrGroups": "Brugere eller grupper, der har tilladelse til at omgå godkendelse."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Til godkendelse",
+        "PublishNow": "Udgiv nu",
+        "BypassApproval": "Omgå godkendelse",
+        "ScheduleNow": "Planlæg nu"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Din rolle giver dig mulighed for at udgive uden godkendelse.",
+        "ApprovalDescription": "Sendes til den valgte godkender, før det udgives.",
+        "ContinueApprovalDescription": "Fortsæt den aktuelle godkendelsesworkflow uden at omgå den.",
+        "ContinueApprovalButton": "Fortsæt godkendelse",
+        "PublishDescription": "Din rolle giver dig mulighed for at udgive direkte uden godkendelse.",
+        "PublishWarning": "Dette omgår godkendelsesflowet og vil være tilgængeligt med det samme.",
+        "ScheduleDescription": "Din rolle giver dig mulighed for at planlægge uden godkendelse.",
+        "ScheduleWarning": "Dette omgår godkendelsesflowet og planlægger siden til udgivelse på den konfigurerede dato.",
+        "SchedulePropertyDescription": "Den konfigurerede planlægningsdato vil blive brugt i planlægningsworkflowet.",
+        "PublishAction": "Udgivelseshandling",
+        "PublishAndSendEmailDisabledDescription": "Email er ikke aktiveret for denne side.",
+        "CommentOptional": "Kommentar (valgfri)",
+        "ApprovalBypassedLabel": "Godkendelse omgået",
+        "CurrentUserCouldNotBeResolved": "Nuværende bruger kunne ikke identificeres. Prøv venligst igen."
+      }
+    }
+  }
+}
