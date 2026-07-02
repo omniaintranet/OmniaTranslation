@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Yes": "Kyllä",
+        "No": "Ei"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Asiakirja ei ole ominaisuusjoukossa."
+      }
+    }
+  }
+}
