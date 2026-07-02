@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Browser font (web-safe)",
+        "SystemFontHelp": "Uses a font already available in the browser. Simply enter the font family name; no file or link is required."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Custom styles"
+          }
+        }
+      }
+    }
+  }
+}
