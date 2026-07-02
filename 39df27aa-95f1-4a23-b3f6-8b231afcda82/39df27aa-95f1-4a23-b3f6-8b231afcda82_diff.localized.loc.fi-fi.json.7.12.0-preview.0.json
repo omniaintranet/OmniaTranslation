@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Poista"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Anna kelvollinen fonttikoko, esimerkiksi 16px, 1.5em tai 100%",
+      "LineHeightInvalid": "Anna kelvollinen riviväli, esimerkiksi 1.5, 24px tai normaali",
+      "FontFamilyInvalid": "Anna kelvollinen fonttiperhelista, esimerkiksi Arial, \"Open Sans\", sans-serif. Vältä sulkemattomia lainausmerkkejä ja merkkejä kuten ; { } ( ) < >",
+      "RichTextEditorTab": "Rich text -editori",
+      "ApplyEverywhereEnable": "Ota käyttöön",
+      "ApplyEverywhereDescription": "Kun otettu käyttöön, nämä sisäänrakennetut tekstityylit sovelletaan kaikkiin vastaaviin elementteihin ratkaisussa, paitsi rich text -editorin sisältöön. Kun pois käytöstä, käytetään järjestelmän oletustyylejä. Mukautetut tekstityylit pysyvät aina rajattuina rich text -editoriin."
+    }
+  }
+}
