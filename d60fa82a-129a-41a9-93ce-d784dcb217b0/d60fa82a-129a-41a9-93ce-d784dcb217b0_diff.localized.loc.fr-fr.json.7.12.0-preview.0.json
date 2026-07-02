@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Approbation contournée"
+          },
+          "Approval": {
+            "UsersAndGroups": "Utilisateurs et groupes",
+            "AllowApprovalBypass": "Autoriser le contournement de l’approbation",
+            "ApprovalBypassUsersOrGroups": "Utilisateurs ou groupes autorisés à contourner l’approbation."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Pour approbation",
+        "PublishNow": "Publier maintenant",
+        "BypassApproval": "Contourner l’approbation",
+        "ScheduleNow": "Planifier maintenant"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Votre rôle vous permet de publier sans approbation.",
+        "ApprovalDescription": "Envoyé à l’approbateur choisi avant publication.",
+        "ContinueApprovalDescription": "Poursuivre le flux d’approbation actuel sans le contourner.",
+        "ContinueApprovalButton": "Continuer l’approbation",
+        "PublishDescription": "Votre rôle vous permet de publier directement sans approbation.",
+        "PublishWarning": "Cela contourne le flux d’approbation et sera disponible immédiatement.",
+        "ScheduleDescription": "Votre rôle vous permet de planifier sans approbation.",
+        "ScheduleWarning": "Cela contourne le flux d’approbation et planifie la page pour publication à la date configurée.",
+        "SchedulePropertyDescription": "La date de planification configurée sera utilisée dans le flux de planification.",
+        "PublishAction": "Action de publication",
+        "PublishAndSendEmailDisabledDescription": "L’email n’est pas activé pour cette page.",
+        "CommentOptional": "Commentaire (optionnel)",
+        "ApprovalBypassedLabel": "Approbation contournée",
+        "CurrentUserCouldNotBeResolved": "Impossible de résoudre l’utilisateur actuel. Veuillez réessayer."
+      }
+    }
+  }
+}
