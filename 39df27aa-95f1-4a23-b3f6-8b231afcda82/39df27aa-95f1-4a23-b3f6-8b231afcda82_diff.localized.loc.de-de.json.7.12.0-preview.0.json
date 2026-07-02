@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Löschen"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Geben Sie eine gültige Schriftgröße ein, zum Beispiel 16px, 1,5em oder 100%",
+      "LineHeightInvalid": "Geben Sie eine gültige Zeilenhöhe ein, zum Beispiel 1,5, 24px oder normal",
+      "FontFamilyInvalid": "Geben Sie eine gültige Schriftfamilienliste ein, zum Beispiel Arial, \"Open Sans\", sans-serif. Vermeiden Sie ungeschlossene Anführungszeichen und Zeichen wie ; { } ( ) < >",
+      "RichTextEditorTab": "Rich text editor",
+      "ApplyEverywhereEnable": "Aktivieren",
+      "ApplyEverywhereDescription": "Wenn aktiviert, werden diese integrierten Textstile auf alle passenden Elemente in der gesamten Lösung angewendet, außer auf Inhalte des Rich text editors. Wenn deaktiviert, werden die systemeigenen Standardstile verwendet. Benutzerdefinierte Textstile bleiben immer auf den Rich text editor beschränkt."
+    }
+  }
+}
