@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Hyväksyntä ohitettu"
+          },
+          "Approval": {
+            "UsersAndGroups": "Käyttäjät ja ryhmät",
+            "AllowApprovalBypass": "Salli hyväksynnän ohitus",
+            "ApprovalBypassUsersOrGroups": "Käyttäjät tai ryhmät, joilla on lupa ohittaa hyväksyntä."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Hyväksyttäväksi",
+        "PublishNow": "Julkaise nyt",
+        "BypassApproval": "Ohita hyväksyntä",
+        "ScheduleNow": "Aikatauluta nyt"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Roolisi sallii julkaisemisen ilman hyväksyntää.",
+        "ApprovalDescription": "Lähetetään valitulle hyväksyjälle ennen julkaisua.",
+        "ContinueApprovalDescription": "Jatka nykyistä hyväksyntätyönkulkua ohittamatta sitä.",
+        "ContinueApprovalButton": "Jatka hyväksyntää",
+        "PublishDescription": "Roolisi sallii suoran julkaisemisen ilman hyväksyntää.",
+        "PublishWarning": "Tämä ohittaa hyväksyntäprosessin ja sivu on heti saatavilla.",
+        "ScheduleDescription": "Roolisi sallii aikataulutuksen ilman hyväksyntää.",
+        "ScheduleWarning": "Tämä ohittaa hyväksyntäprosessin ja aikatauluttaa sivun julkaistavaksi määritellyn päivämäärän mukaan.",
+        "SchedulePropertyDescription": "Määritelty aikataulupäivä käytetään aikataulutustyönkulussa.",
+        "PublishAction": "Julkaisutoiminto",
+        "PublishAndSendEmailDisabledDescription": "Sähköposti ei ole käytössä tälle sivulle.",
+        "CommentOptional": "Kommentti (valinnainen)",
+        "ApprovalBypassedLabel": "Hyväksyntä ohitettu",
+        "CurrentUserCouldNotBeResolved": "Nykyistä käyttäjää ei voitu tunnistaa. Yritä uudelleen."
+      }
+    }
+  }
+}
