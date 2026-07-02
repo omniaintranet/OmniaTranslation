@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Verwijderen"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Voer een geldige lettergrootte in, bijvoorbeeld 16px, 1.5em of 100%",
+      "LineHeightInvalid": "Voer een geldige regelhoogte in, bijvoorbeeld 1.5, 24px of normaal",
+      "FontFamilyInvalid": "Voer een geldige lettertypefamilielijst in, bijvoorbeeld Arial, \"Open Sans\", sans-serif. Vermijd niet-afgesloten aanhalingstekens en tekens zoals ; { } ( ) < >",
+      "RichTextEditorTab": "Rich text editor",
+      "ApplyEverywhereEnable": "Inschakelen",
+      "ApplyEverywhereDescription": "Wanneer ingeschakeld, worden deze ingebouwde tekststijlen toegepast op alle overeenkomende elementen in de oplossing, behalve de inhoud van de rich text editor. Wanneer uitgeschakeld, worden de systeemstandaardstijlen gebruikt. Aangepaste tekststijlen blijven altijd beperkt tot de rich text editor."
+    }
+  }
+}
