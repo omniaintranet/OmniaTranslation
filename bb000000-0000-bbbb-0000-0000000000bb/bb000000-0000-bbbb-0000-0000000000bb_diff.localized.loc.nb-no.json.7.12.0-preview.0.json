@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Nettleserfont (web-sikker)",
+        "SystemFontHelp": "Bruker en font som allerede er tilgjengelig i nettleseren. Skriv bare inn fontfamilienavnet, ingen fil eller lenke er nødvendig."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Egendefinerte stiler"
+          }
+        }
+      }
+    }
+  }
+}
