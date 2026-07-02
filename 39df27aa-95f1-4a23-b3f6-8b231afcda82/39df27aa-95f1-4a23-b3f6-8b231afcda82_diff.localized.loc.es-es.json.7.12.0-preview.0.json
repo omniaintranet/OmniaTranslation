@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Eliminar"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Introduce un tamaño de fuente válido, por ejemplo 16px, 1.5em o 100%",
+      "LineHeightInvalid": "Introduce una altura de línea válida, por ejemplo 1.5, 24px o normal",
+      "FontFamilyInvalid": "Introduce una lista de familias tipográficas válida, por ejemplo Arial, \"Open Sans\", sans-serif. Evita comillas sin cerrar y caracteres como ; { } ( ) < >",
+      "RichTextEditorTab": "Editor de texto enriquecido",
+      "ApplyEverywhereEnable": "Activar",
+      "ApplyEverywhereDescription": "Cuando está activado, estos estilos de texto integrados se aplican a todos los elementos coincidentes en toda la solución, excepto el contenido del editor de texto enriquecido. Cuando está desactivado, se usan los estilos predeterminados del sistema. Los estilos de texto personalizados siempre permanecen limitados al editor de texto enriquecido."
+    }
+  }
+}
