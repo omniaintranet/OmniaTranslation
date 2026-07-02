@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Yes": "Ja",
+        "No": "Nee"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Het document bevindt zich niet in de eigenschapset."
+      }
+    }
+  }
+}
