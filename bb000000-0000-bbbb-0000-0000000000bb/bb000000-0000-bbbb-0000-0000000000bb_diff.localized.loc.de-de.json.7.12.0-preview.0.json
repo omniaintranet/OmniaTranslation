@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Browser-Schriftart (web-sicher)",
+        "SystemFontHelp": "Verwendet eine Schriftart, die bereits im Browser verfügbar ist. Geben Sie einfach den Schriftfamiliennamen ein, keine Datei oder Link ist erforderlich."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Benutzerdefinierte Stile"
+          }
+        }
+      }
+    }
+  }
+}
