@@ -4,7 +4,7 @@
       "Editor": {
         "Panels": {
           "Versions": {
-            "ApprovalBypassed": "Godkännande kringgått"
+            "ApprovalBypassed": "Utan godkännande"
           },
           "Approval": {
             "UsersAndGroups": "Användare och grupper",
