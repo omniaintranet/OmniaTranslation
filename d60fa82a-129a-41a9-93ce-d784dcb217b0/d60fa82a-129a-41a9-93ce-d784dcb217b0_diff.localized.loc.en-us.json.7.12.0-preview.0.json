@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Approval bypassed"
+          },
+          "Approval": {
+            "UsersAndGroups": "Users and Groups",
+            "AllowApprovalBypass": "Allow approval bypass",
+            "ApprovalBypassUsersOrGroups": "Users or groups allowed to bypass approval"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "For Approval",
+        "PublishNow": "Publish Now",
+        "BypassApproval": "Bypass Approval",
+        "ScheduleNow": "Schedule Now"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Your role lets you publish without approval.",
+        "ApprovalDescription": "Goes to the chosen approver before it is published.",
+        "ContinueApprovalDescription": "Continue the current approval workflow without bypassing it.",
+        "ContinueApprovalButton": "Continue approval",
+        "PublishDescription": "Your role lets you publish directly without approval.",
+        "PublishWarning": "This bypasses the approval flow and goes live immediately.",
+        "ScheduleDescription": "Your role lets you schedule without approval.",
+        "ScheduleWarning": "This bypasses the approval flow and schedules the page using the configured date.",
+        "SchedulePropertyDescription": "The configured schedule date will be used in the scheduling workflow.",
+        "PublishAction": "Publish action",
+        "PublishAndSendEmailDisabledDescription": "Email isn't enabled for this page.",
+        "CommentOptional": "Comment (optional)",
+        "ApprovalBypassedLabel": "Approval bypassed",
+        "CurrentUserCouldNotBeResolved": "Current user could not be resolved. Please try again."
+      }
+    }
+  }
+}
