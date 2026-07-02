@@ -8,7 +8,7 @@
     },
     "DocumentLibrary": {
       "DocumentStatuses": {
-        "NotInPropertySetError": "The document is not in the property set"
+        "NotInPropertySetError": "The document is not in the property set."
       }
     }
   }
