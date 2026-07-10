@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Yes": "Sí",
+        "No": "No"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "NotInPropertySetError": "El documento no está en el conjunto de propiedades."
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Yes": "Ja",
+        "No": "Nej"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Dokumentet finns inte i egenskapsuppsättningen."
+      }
+    }
+  }
+}

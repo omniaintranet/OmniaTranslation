@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "删除"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "请输入有效的字体大小，例如 16px、1.5em 或 100%",
+      "LineHeightInvalid": "请输入有效的行高，例如 1.5、24px 或 normal",
+      "FontFamilyInvalid": "请输入有效的字体系列列表，例如 Arial、\"Open Sans\"、sans-serif。避免未闭合的引号和字符，如 ; { } ( ) < >",
+      "RichTextEditorTab": "富文本编辑器",
+      "ApplyEverywhereEnable": "启用",
+      "ApplyEverywhereDescription": "启用后，这些内置文本样式将应用于解决方案中所有匹配的元素，富文本编辑器内容除外。禁用时，使用系统默认样式。自定义文本样式始终仅限于富文本编辑器范围内。"
+    }
+  }
+}

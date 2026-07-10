@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Bỏ qua phê duyệt"
+          },
+          "Approval": {
+            "UsersAndGroups": "Người dùng và Nhóm",
+            "AllowApprovalBypass": "Cho phép bỏ qua phê duyệt",
+            "ApprovalBypassUsersOrGroups": "Người dùng hoặc nhóm được phép bỏ qua phê duyệt."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Để phê duyệt",
+        "PublishNow": "Xuất bản ngay",
+        "BypassApproval": "Bỏ qua phê duyệt",
+        "ScheduleNow": "Lên lịch ngay"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Vai trò của bạn cho phép bạn xuất bản mà không cần phê duyệt.",
+        "ApprovalDescription": "Gửi đến người phê duyệt được chọn trước khi xuất bản.",
+        "ContinueApprovalDescription": "Tiếp tục quy trình phê duyệt hiện tại mà không bỏ qua.",
+        "ContinueApprovalButton": "Tiếp tục phê duyệt",
+        "PublishDescription": "Vai trò của bạn cho phép bạn xuất bản trực tiếp mà không cần phê duyệt.",
+        "PublishWarning": "Điều này bỏ qua quy trình phê duyệt và sẽ có hiệu lực ngay lập tức.",
+        "ScheduleDescription": "Vai trò của bạn cho phép bạn lên lịch mà không cần phê duyệt.",
+        "ScheduleWarning": "Điều này bỏ qua quy trình phê duyệt và lên lịch trang để xuất bản theo ngày đã cấu hình.",
+        "SchedulePropertyDescription": "Ngày lên lịch đã cấu hình sẽ được sử dụng trong quy trình lên lịch.",
+        "PublishAction": "Hành động xuất bản",
+        "PublishAndSendEmailDisabledDescription": "Email không được bật cho trang này.",
+        "CommentOptional": "Bình luận (tùy chọn)",
+        "ApprovalBypassedLabel": "Bỏ qua phê duyệt",
+        "CurrentUserCouldNotBeResolved": "Không thể xác định người dùng hiện tại. Vui lòng thử lại."
+      }
+    }
+  }
+}

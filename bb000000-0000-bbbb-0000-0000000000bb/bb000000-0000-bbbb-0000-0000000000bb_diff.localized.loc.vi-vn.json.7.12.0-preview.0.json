@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Phông chữ trình duyệt (an toàn cho web)",
+        "SystemFontHelp": "Sử dụng phông chữ đã có sẵn trong trình duyệt. Chỉ cần nhập tên họ phông chữ, không cần tệp hoặc liên kết."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Kiểu tùy chỉnh"
+          }
+        }
+      }
+    }
+  }
+}

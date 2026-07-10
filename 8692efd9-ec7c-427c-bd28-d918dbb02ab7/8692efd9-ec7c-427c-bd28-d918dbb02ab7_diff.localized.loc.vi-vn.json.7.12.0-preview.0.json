@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "Validation": {
+          "FiltersMustHaveValue": "Tất cả bộ lọc phải có ít nhất một giá trị được chọn."
+        }
+      },
+      "Layout": {
+        "DeleteDefaultLayoutTooltip": "Đây là bố cục mặc định cho tab(s) {tabNames}."
+      },
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Quay lại",
+          "navHeaderForward": "Tiến tới",
+          "pageShare": "Chia sẻ trang",
+          "pageReact": "Thêm phản ứng cho trang",
+          "pageRemoveReact": "Xóa phản ứng của bạn khỏi trang",
+          "pageComment": "Thêm bình luận cho trang",
+          "pageOpenInBrowser": "Mở trang trong trình duyệt",
+          "pageCommentCount": "{count} bình luận",
+          "pageCommentCountSingular": "{count} bình luận",
+          "commentMenu": "Mở menu cho bình luận",
+          "commentReact": "Thêm phản ứng cho bình luận",
+          "commentRemoveReact": "Xóa phản ứng của bạn khỏi bình luận",
+          "commentChangeOrRemoveReact": "Thay đổi hoặc xóa phản ứng của bạn khỏi bình luận",
+          "pageMenu": "Mở menu cho trang",
+          "pageLike": "Thích trang",
+          "pageRemoveLike": "Xóa lượt thích của bạn khỏi trang",
+          "pageChangeOrRemoveReact": "Thay đổi hoặc xóa phản ứng của bạn khỏi trang",
+          "commentLike": "Thích bình luận",
+          "commentRemoveLike": "Xóa lượt thích của bạn khỏi bình luận",
+          "compactLike": "{count} người dùng thích",
+          "compactLikeSingular": "{count} người dùng thích",
+          "compactReaction": "{count} phản ứng của người dùng",
+          "compactReactionSingular": "{count} phản ứng của người dùng",
+          "noUserReactions": "Không có phản ứng của người dùng",
+          "noUserLikes": "Không có lượt thích của người dùng",
+          "noUserComments": "Không có bình luận của người dùng",
+          "youReacted": "Bạn đã phản ứng",
+          "youAndOthersReacted": "Bạn và {count} người khác đã phản ứng",
+          "youLiked": "Bạn đã thích điều này",
+          "youAndOthersLiked": "Bạn và {count} người khác đã thích điều này"
+        }
+      }
+    }
+  }
+}

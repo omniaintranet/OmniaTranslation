@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Xóa"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Nhập kích thước phông chữ hợp lệ, ví dụ 16px, 1.5em hoặc 100%",
+      "LineHeightInvalid": "Nhập chiều cao dòng hợp lệ, ví dụ 1.5, 24px hoặc normal",
+      "FontFamilyInvalid": "Nhập danh sách phông chữ hợp lệ, ví dụ Arial, \"Open Sans\", sans-serif. Tránh dấu ngoặc kép chưa đóng và các ký tự như ; { } ( ) < >",
+      "RichTextEditorTab": "Trình soạn thảo văn bản phong phú",
+      "ApplyEverywhereEnable": "Bật",
+      "ApplyEverywhereDescription": "Khi bật, các kiểu văn bản tích hợp này sẽ được áp dụng cho tất cả các phần tử phù hợp trên toàn bộ giải pháp, ngoại trừ nội dung trình soạn thảo văn bản phong phú. Khi tắt, các kiểu mặc định của hệ thống sẽ được sử dụng. Các kiểu văn bản tùy chỉnh luôn chỉ áp dụng trong trình soạn thảo văn bản phong phú."
+    }
+  }
+}

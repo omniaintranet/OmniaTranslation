@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Goedkeuring overgeslagen"
+          },
+          "Approval": {
+            "UsersAndGroups": "Gebruikers en groepen",
+            "AllowApprovalBypass": "Goedkeuring overslaan toestaan",
+            "ApprovalBypassUsersOrGroups": "Gebruikers of groepen die goedkeuring mogen overslaan."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Ter goedkeuring",
+        "PublishNow": "Nu publiceren",
+        "BypassApproval": "Goedkeuring overslaan",
+        "ScheduleNow": "Nu plannen"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Je rol stelt je in staat om te publiceren zonder goedkeuring.",
+        "ApprovalDescription": "Verzonden naar de gekozen goedkeurder voordat het wordt gepubliceerd.",
+        "ContinueApprovalDescription": "Ga door met de huidige goedkeuringsworkflow zonder deze over te slaan.",
+        "ContinueApprovalButton": "Goedkeuring voortzetten",
+        "PublishDescription": "Je rol stelt je in staat om direct te publiceren zonder goedkeuring.",
+        "PublishWarning": "Dit slaat de goedkeuringsstroom over en is direct beschikbaar.",
+        "ScheduleDescription": "Je rol stelt je in staat om te plannen zonder goedkeuring.",
+        "ScheduleWarning": "Dit slaat de goedkeuringsstroom over en plant de pagina voor publicatie op de geconfigureerde datum.",
+        "SchedulePropertyDescription": "De geconfigureerde planningsdatum wordt gebruikt in de planningsworkflow.",
+        "PublishAction": "Publicatieactie",
+        "PublishAndSendEmailDisabledDescription": "E-mail is niet ingeschakeld voor deze pagina.",
+        "CommentOptional": "Opmerking (optioneel)",
+        "ApprovalBypassedLabel": "Goedkeuring overgeslagen",
+        "CurrentUserCouldNotBeResolved": "Huidige gebruiker kon niet worden vastgesteld. Probeer het opnieuw."
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Ta bort"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Ange en giltig teckenstorlek, till exempel 16px, 1.5em eller 100%",
+      "LineHeightInvalid": "Ange en giltig radavstånd, till exempel 1.5, 24px eller normal",
+      "FontFamilyInvalid": "Ange en giltig teckensnittsfamiljlista, till exempel Arial, \"Open Sans\", sans-serif. Undvik oavslutade citattecken och tecken som ; { } ( ) < >",
+      "RichTextEditorTab": "Rich text editor",
+      "ApplyEverywhereEnable": "Aktivera",
+      "ApplyEverywhereDescription": "När aktiverat tillämpas dessa inbyggda textstilar på alla matchande element i hela lösningen, förutom innehåll i RTF-redigeraren. När det är inaktiverat används systemets standardstilar. Anpassade textstilar förblir alltid begränsade till RTF-redigeraren."
+    }
+  }
+}

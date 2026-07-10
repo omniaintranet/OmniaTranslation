@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Slett"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Skriv inn en gyldig skriftstørrelse, for eksempel 16px, 1.5em eller 100%",
+      "LineHeightInvalid": "Skriv inn en gyldig linjehøyde, for eksempel 1.5, 24px eller normal",
+      "FontFamilyInvalid": "Skriv inn en gyldig liste over skrifttyper, for eksempel Arial, \"Open Sans\", sans-serif. Unngå uavsluttede anførselstegn og tegn som ; { } ( ) < >",
+      "RichTextEditorTab": "Rik tekstredigerer",
+      "ApplyEverywhereEnable": "Aktiver",
+      "ApplyEverywhereDescription": "Når aktivert, brukes disse innebygde tekststilene på alle matchende elementer i hele løsningen, unntatt innhold i rik tekstredigerer. Når deaktivert, brukes systemets standardstiler. Egne tekststiler forblir alltid begrenset til rik tekstredigerer."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Yes": "Ja",
+        "No": "Nein"
+      }
+    },
+    "DocumentLibrary": {
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Das Dokument befindet sich nicht im Eigenschaftensatz."
+      }
+    }
+  }
+}

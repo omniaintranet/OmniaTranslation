@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Goedkeuring overgeslagen"
+          },
+          "Approval": {
+            "UsersAndGroups": "Gebruikers en Groepen",
+            "AllowApprovalBypass": "Goedkeuring overslaan toestaan",
+            "ApprovalBypassUsersOrGroups": "Gebruikers of groepen die goedkeuring mogen overslaan."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Ter goedkeuring",
+        "PublishNow": "Nu publiceren",
+        "BypassApproval": "Goedkeuring overslaan",
+        "ScheduleNow": "Nu plannen"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Uw rol laat u toe te publiceren zonder goedkeuring.",
+        "ApprovalDescription": "Verzonden naar de gekozen goedkeurder voordat het wordt gepubliceerd.",
+        "ContinueApprovalDescription": "Ga door met de huidige goedkeuringsworkflow zonder deze over te slaan.",
+        "ContinueApprovalButton": "Goedkeuring voortzetten",
+        "PublishDescription": "Uw rol laat u toe direct te publiceren zonder goedkeuring.",
+        "PublishWarning": "Dit slaat de goedkeuringsstroom over en zal onmiddellijk beschikbaar zijn.",
+        "ScheduleDescription": "Uw rol laat u toe te plannen zonder goedkeuring.",
+        "ScheduleWarning": "Dit slaat de goedkeuringsstroom over en plant de pagina in voor publicatie op de geconfigureerde datum.",
+        "SchedulePropertyDescription": "De geconfigureerde planningsdatum wordt gebruikt in de planningsworkflow.",
+        "PublishAction": "Publicatieactie",
+        "PublishAndSendEmailDisabledDescription": "E-mail is niet ingeschakeld voor deze pagina.",
+        "CommentOptional": "Opmerking (optioneel)",
+        "ApprovalBypassedLabel": "Goedkeuring overgeslagen",
+        "CurrentUserCouldNotBeResolved": "Huidige gebruiker kon niet worden vastgesteld. Probeer het opnieuw."
+      }
+    }
+  }
+}

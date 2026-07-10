@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Fuente del navegador (web segura)",
+        "SystemFontHelp": "Utiliza una fuente ya disponible en el navegador. Solo introduce el nombre de la familia de fuentes, no se necesita archivo ni enlace."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Estilos personalizados"
+          }
+        }
+      }
+    }
+  }
+}

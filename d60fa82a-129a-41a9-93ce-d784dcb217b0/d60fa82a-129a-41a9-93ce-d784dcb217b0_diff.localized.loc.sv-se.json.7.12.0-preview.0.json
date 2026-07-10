@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Utan godkännande"
+          },
+          "Approval": {
+            "UsersAndGroups": "Användare och grupper",
+            "AllowApprovalBypass": "Tillåt att publicera utan godkännande",
+            "ApprovalBypassUsersOrGroups": "Användare eller grupper som tillåts publicera utan godkännande."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "För godkännande",
+        "PublishNow": "Publicera nu",
+        "BypassApproval": "Utan godkännande",
+        "ScheduleNow": "Schemalägg nu"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Din roll tillåter dig att publicera utan godkännande.",
+        "ApprovalDescription": "Skickas till vald godkännare innan publicering.",
+        "ContinueApprovalDescription": "Fortsätt den aktuella publceringsprocessen med godkännande.",
+        "ContinueApprovalButton": "Fortsätt med godkännande",
+        "PublishDescription": "Din roll tillåter dig att publicera direkt utan godkännande.",
+        "PublishWarning": "Detta kringgår godkännandeprocessen och blir tillgängligt omedelbart.",
+        "ScheduleDescription": "Din roll tillåter dig att schemalägga utan godkännande.",
+        "ScheduleWarning": "Detta kringgår godkännandeprocessen och schemalägger sidan för publicering med det konfigurerade datumet.",
+        "SchedulePropertyDescription": "Det konfigurerade datumet kommer att användas i schemaläggningsprocessen.",
+        "PublishAction": "Publiceringsåtgärd",
+        "PublishAndSendEmailDisabledDescription": "E-post är inte aktiverat för denna sida.",
+        "CommentOptional": "Kommentar (valfritt)",
+        "ApprovalBypassedLabel": "Utan godkännande",
+        "CurrentUserCouldNotBeResolved": "Aktuell användare kunde inte identifieras. Vänligen försök igen."
+      }
+    }
+  }
+}

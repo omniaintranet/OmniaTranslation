@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Selaimen fontti (web-turvallinen)",
+        "SystemFontHelp": "Käyttää selaimessa jo saatavilla olevaa fonttia. Syötä vain fonttiperheen nimi, tiedostoa tai linkkiä ei tarvita."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Mukautetut tyylit"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "Validation": {
+          "FiltersMustHaveValue": "Tous les filtres doivent avoir au moins une valeur sélectionnée."
+        }
+      },
+      "Layout": {
+        "DeleteDefaultLayoutTooltip": "Ceci est la mise en page par défaut pour l'onglet(s) {tabNames}."
+      },
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Retourner",
+          "navHeaderForward": "Avancer",
+          "pageShare": "Partager la page",
+          "pageReact": "Ajouter une réaction à la page",
+          "pageRemoveReact": "Supprimer votre réaction de la page",
+          "pageComment": "Ajouter un commentaire à la page",
+          "pageOpenInBrowser": "Ouvrir la page dans le navigateur",
+          "pageCommentCount": "{count} commentaires",
+          "pageCommentCountSingular": "{count} commentaire",
+          "commentMenu": "Ouvrir le menu pour le commentaire",
+          "commentReact": "Ajouter une réaction au commentaire",
+          "commentRemoveReact": "Supprimer votre réaction du commentaire",
+          "commentChangeOrRemoveReact": "Modifier ou supprimer votre réaction du commentaire",
+          "pageMenu": "Ouvrir le menu pour la page",
+          "pageLike": "Aimer la page",
+          "pageRemoveLike": "Retirer votre like de la page",
+          "pageChangeOrRemoveReact": "Modifier ou supprimer votre réaction de la page",
+          "commentLike": "Aimer le commentaire",
+          "commentRemoveLike": "Retirer votre like du commentaire",
+          "compactLike": "{count} utilisateurs aiment",
+          "compactLikeSingular": "{count} utilisateur aime",
+          "compactReaction": "{count} réactions d'utilisateurs",
+          "compactReactionSingular": "{count} réaction d'utilisateur",
+          "noUserReactions": "Aucune réaction d'utilisateur",
+          "noUserLikes": "Aucun like d'utilisateur",
+          "noUserComments": "Aucun commentaire d'utilisateur",
+          "youReacted": "Vous avez réagi",
+          "youAndOthersReacted": "Vous et {count} autres ont réagi",
+          "youLiked": "Vous avez aimé ceci",
+          "youAndOthersLiked": "Vous et {count} autres avez aimé ceci"
+        }
+      }
+    }
+  }
+}

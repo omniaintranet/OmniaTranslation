@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "已绕过审批"
+          },
+          "Approval": {
+            "UsersAndGroups": "用户和组",
+            "AllowApprovalBypass": "允许绕过审批",
+            "ApprovalBypassUsersOrGroups": "允许绕过审批的用户或组。"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "提交审批",
+        "PublishNow": "立即发布",
+        "BypassApproval": "绕过审批",
+        "ScheduleNow": "立即排程"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "您的角色允许您无需审批即可发布。",
+        "ApprovalDescription": "发布前发送给选定的审批人。",
+        "ContinueApprovalDescription": "继续当前审批流程，不绕过审批。",
+        "ContinueApprovalButton": "继续审批",
+        "PublishDescription": "您的角色允许您直接发布，无需审批。",
+        "PublishWarning": "此操作将绕过审批流程，内容将立即生效。",
+        "ScheduleDescription": "您的角色允许您无需审批即可排程发布。",
+        "ScheduleWarning": "此操作将绕过审批流程，并使用配置的日期安排页面发布。",
+        "SchedulePropertyDescription": "排程工作流将使用配置的排程日期。",
+        "PublishAction": "发布操作",
+        "PublishAndSendEmailDisabledDescription": "此页面未启用电子邮件功能。",
+        "CommentOptional": "评论（可选）",
+        "ApprovalBypassedLabel": "已绕过审批",
+        "CurrentUserCouldNotBeResolved": "无法识别当前用户。请重试。"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Abzeichnung umgangen"
+          },
+          "Approval": {
+            "UsersAndGroups": "Benutzer und Gruppen",
+            "AllowApprovalBypass": "Abzeichnung umgehen erlauben",
+            "ApprovalBypassUsersOrGroups": "Benutzer oder Gruppen, die die Abzeichnung umgehen dürfen."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Zur Abzeichnung",
+        "PublishNow": "Jetzt veröffentlichen",
+        "BypassApproval": "Abzeichnung umgehen",
+        "ScheduleNow": "Jetzt planen"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Ihre Rolle erlaubt es Ihnen, ohne Abzeichnung zu veröffentlichen.",
+        "ApprovalDescription": "Wird vor der Veröffentlichung an den ausgewählten Abzeichner gesendet.",
+        "ContinueApprovalDescription": "Den aktuellen Abzeichnungsworkflow ohne Umgehung fortsetzen.",
+        "ContinueApprovalButton": "Abzeichnung fortsetzen",
+        "PublishDescription": "Ihre Rolle erlaubt es Ihnen, direkt ohne Abzeichnung zu veröffentlichen.",
+        "PublishWarning": "Dies umgeht den Abzeichnungsprozess und wird sofort verfügbar sein.",
+        "ScheduleDescription": "Ihre Rolle erlaubt es Ihnen, ohne Abzeichnung zu planen.",
+        "ScheduleWarning": "Dies umgeht den Abzeichnungsprozess und plant die Seite zur Veröffentlichung am konfigurierten Datum.",
+        "SchedulePropertyDescription": "Das konfigurierte Planungsdatum wird im Planungsworkflow verwendet.",
+        "PublishAction": "Veröffentlichungsaktion",
+        "PublishAndSendEmailDisabledDescription": "E-Mail ist für diese Seite nicht aktiviert.",
+        "CommentOptional": "Kommentar (optional)",
+        "ApprovalBypassedLabel": "Abzeichnung umgangen",
+        "CurrentUserCouldNotBeResolved": "Der aktuelle Benutzer konnte nicht ermittelt werden. Bitte versuchen Sie es erneut."
+      }
+    }
+  }
+}

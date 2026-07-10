@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "SystemFont": "Webbläsarens typsnitt (webbsäkert)",
+        "SystemFontHelp": "Använder ett typsnitt som redan finns i webbläsaren. Ange bara typsnittsnamnet, ingen fil eller länk behövs."
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "BlockTitleSettings": {
+            "CustomStyles": "Anpassade stilar"
+          }
+        }
+      }
+    }
+  }
+}

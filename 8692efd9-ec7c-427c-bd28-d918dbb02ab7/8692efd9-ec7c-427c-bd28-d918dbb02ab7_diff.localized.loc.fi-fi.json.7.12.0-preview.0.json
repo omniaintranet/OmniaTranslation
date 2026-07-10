@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Feed": {
+      "MultipleQuery": {
+        "Validation": {
+          "FiltersMustHaveValue": "Kaikilla suodattimilla on oltava vähintään yksi valittu arvo."
+        }
+      },
+      "Layout": {
+        "DeleteDefaultLayoutTooltip": "Tämä on oletusasettelu välilehdelle(t) {tabNames}."
+      },
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Siirry takaisin",
+          "navHeaderForward": "Siirry eteenpäin",
+          "pageShare": "Jaa sivu",
+          "pageReact": "Lisää reaktio sivulle",
+          "pageRemoveReact": "Poista reaktiosi sivulta",
+          "pageComment": "Lisää kommentti sivulle",
+          "pageOpenInBrowser": "Avaa sivu selaimessa",
+          "pageCommentCount": "{count} kommenttia",
+          "pageCommentCountSingular": "{count} kommentti",
+          "commentMenu": "Avaa valikko kommentille",
+          "commentReact": "Lisää reaktio kommenttiin",
+          "commentRemoveReact": "Poista reaktiosi kommentista",
+          "commentChangeOrRemoveReact": "Vaihda tai poista reaktiosi kommentista",
+          "pageMenu": "Avaa valikko sivulle",
+          "pageLike": "Tykkää sivusta",
+          "pageRemoveLike": "Poista tykkäyksesi sivulta",
+          "pageChangeOrRemoveReact": "Vaihda tai poista reaktiosi sivulta",
+          "commentLike": "Tykkää kommentista",
+          "commentRemoveLike": "Poista tykkäyksesi kommentista",
+          "compactLike": "{count} käyttäjän tykkäystä",
+          "compactLikeSingular": "{count} käyttäjän tykkäys",
+          "compactReaction": "{count} käyttäjän reaktiota",
+          "compactReactionSingular": "{count} käyttäjän reaktio",
+          "noUserReactions": "Ei käyttäjien reaktioita",
+          "noUserLikes": "Ei käyttäjien tykkäyksiä",
+          "noUserComments": "Ei käyttäjien kommentteja",
+          "youReacted": "Sinä reagoit",
+          "youAndOthersReacted": "Sinä ja {count} muuta reagoitte",
+          "youLiked": "Tykkäsit tästä",
+          "youAndOthersLiked": "Sinä ja {count} muuta tykkäsitte tästä"
+        }
+      }
+    }
+  }
+}

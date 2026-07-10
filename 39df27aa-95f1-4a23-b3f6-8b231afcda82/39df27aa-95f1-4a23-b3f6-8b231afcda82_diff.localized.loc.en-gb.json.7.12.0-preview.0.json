@@ -1,0 +1,17 @@
+{
+  "OTAD": {
+    "BusinessProfile": {
+      "MediaPicker": {
+        "Delete": "Delete"
+      }
+    },
+    "TextStyles": {
+      "FontSizeInvalid": "Enter a valid font size, for example 16px, 1.5em or 100%",
+      "LineHeightInvalid": "Enter a valid line height, for example 1.5, 24px or normal",
+      "FontFamilyInvalid": "Enter a valid font family list, for example Arial, \"Open Sans\", sans-serif. Avoid unclosed quotes and characters such as ; { } ( ) < >",
+      "RichTextEditorTab": "Rich text editor",
+      "ApplyEverywhereEnable": "Enable",
+      "ApplyEverywhereDescription": "When enabled, these built-in text styles are applied to all matching elements across the solution, except rich text editor content. When disabled, the system default styles are used. Custom text styles always remain scoped to the rich text editor."
+    }
+  }
+}

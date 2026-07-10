@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Aprobación omitida"
+          },
+          "Approval": {
+            "UsersAndGroups": "Usuarios y grupos",
+            "AllowApprovalBypass": "Permitir omitir la aprobación",
+            "ApprovalBypassUsersOrGroups": "Usuarios o grupos permitidos para omitir la aprobación."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "Para aprobación",
+        "PublishNow": "Publicar ahora",
+        "BypassApproval": "Omitir aprobación",
+        "ScheduleNow": "Programar ahora"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Tu rol te permite publicar sin aprobación.",
+        "ApprovalDescription": "Enviado al aprobador elegido antes de que se publique.",
+        "ContinueApprovalDescription": "Continuar el flujo de aprobación actual sin omitirlo.",
+        "ContinueApprovalButton": "Continuar aprobación",
+        "PublishDescription": "Tu rol te permite publicar directamente sin aprobación.",
+        "PublishWarning": "Esto omite el flujo de aprobación y estará disponible inmediatamente.",
+        "ScheduleDescription": "Tu rol te permite programar sin aprobación.",
+        "ScheduleWarning": "Esto omite el flujo de aprobación y programa la página para su publicación en la fecha configurada.",
+        "SchedulePropertyDescription": "La fecha de programación configurada se usará en el flujo de trabajo de programación.",
+        "PublishAction": "Acción de publicación",
+        "PublishAndSendEmailDisabledDescription": "El correo electrónico no está habilitado para esta página.",
+        "CommentOptional": "Comentario (opcional)",
+        "ApprovalBypassedLabel": "Aprobación omitida",
+        "CurrentUserCouldNotBeResolved": "No se pudo resolver el usuario actual. Por favor, inténtalo de nuevo."
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Panels": {
+          "Versions": {
+            "ApprovalBypassed": "Godkjenning omgått"
+          },
+          "Approval": {
+            "UsersAndGroups": "Brukere og grupper",
+            "AllowApprovalBypass": "Tillat omgåelse av godkjenning",
+            "ApprovalBypassUsersOrGroups": "Brukere eller grupper som har tillatelse til å omgå godkjenning."
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "ActionButtons": {
+        "ForApproval": "For godkjenning",
+        "PublishNow": "Publiser nå",
+        "BypassApproval": "Omgå godkjenning",
+        "ScheduleNow": "Planlegg nå"
+      },
+      "ApprovalBypassDialog": {
+        "BypassPermissionMessage": "Din rolle lar deg publisere uten godkjenning.",
+        "ApprovalDescription": "Sendes til den valgte godkjenneren før publisering.",
+        "ContinueApprovalDescription": "Fortsett den nåværende godkjenningsflyten uten å omgå den.",
+        "ContinueApprovalButton": "Fortsett godkjenning",
+        "PublishDescription": "Din rolle lar deg publisere direkte uten godkjenning.",
+        "PublishWarning": "Dette omgår godkjenningsflyten og vil være tilgjengelig umiddelbart.",
+        "ScheduleDescription": "Din rolle lar deg planlegge uten godkjenning.",
+        "ScheduleWarning": "Dette omgår godkjenningsflyten og planlegger siden for publisering på den konfigurerte datoen.",
+        "SchedulePropertyDescription": "Den konfigurerte planleggingsdatoen vil bli brukt i planleggingsflyten.",
+        "PublishAction": "Publiseringshandling",
+        "PublishAndSendEmailDisabledDescription": "E-post er ikke aktivert for denne siden.",
+        "CommentOptional": "Kommentar (valgfritt)",
+        "ApprovalBypassedLabel": "Godkjenning omgått",
+        "CurrentUserCouldNotBeResolved": "Nåværende bruker kunne ikke identifiseres. Vennligst prøv igjen."
+      }
+    }
+  }
+}
