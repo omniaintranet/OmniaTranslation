@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "LinksManagement": {
+      "MyLinks": {
+        "SearchButtonAriaLabel": "Links zoeken",
+        "SearchResultsMessage": "{0} links gevonden",
+        "NoSearchResultsMessage": "Geen links gevonden"
+      }
+    },
+    "Search": {
+      "SearchBlock": {
+        "EnableCustomAriaLabel": "Aangepaste aria-label"
+      }
+    }
+  }
+}

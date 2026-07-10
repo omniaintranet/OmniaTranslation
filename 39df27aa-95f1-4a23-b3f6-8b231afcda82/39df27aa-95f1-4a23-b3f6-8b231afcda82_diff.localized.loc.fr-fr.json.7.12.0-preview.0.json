@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "LinksManagement": {
+      "MyLinks": {
+        "SearchButtonAriaLabel": "Rechercher des liens",
+        "SearchResultsMessage": "{0} liens trouvés",
+        "NoSearchResultsMessage": "Aucun lien trouvé"
+      }
+    },
+    "Search": {
+      "SearchBlock": {
+        "EnableCustomAriaLabel": "Étiquette aria personnalisée"
+      }
+    }
+  }
+}
