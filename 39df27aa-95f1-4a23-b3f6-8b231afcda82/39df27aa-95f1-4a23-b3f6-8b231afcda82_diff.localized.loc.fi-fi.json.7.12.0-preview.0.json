@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "LinksManagement": {
+      "MyLinks": {
+        "SearchButtonAriaLabel": "Etsi linkkejä",
+        "SearchResultsMessage": "{0} linkkiä löytyi",
+        "NoSearchResultsMessage": "Linkkejä ei löytynyt"
+      }
+    },
+    "Search": {
+      "SearchBlock": {
+        "EnableCustomAriaLabel": "Mukautettu aria-tunniste"
+      }
+    }
+  }
+}
