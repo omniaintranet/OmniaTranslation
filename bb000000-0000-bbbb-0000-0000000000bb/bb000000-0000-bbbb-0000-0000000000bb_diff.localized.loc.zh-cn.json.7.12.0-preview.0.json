@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "ScopeEverywhere": "全局 - 将应用于 Omnia 的所有地方（管理员、编辑工具和阅读模式）"
+      }
+    }
+  }
+}
