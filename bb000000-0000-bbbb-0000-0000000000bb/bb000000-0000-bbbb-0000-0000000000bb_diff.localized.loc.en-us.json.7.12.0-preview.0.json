@@ -1,0 +1,9 @@
+{
+  "Omnia": {
+    "Ux": {
+      "CustomFont": {
+        "ScopeEverywhere": "Everywhere - Will be applied everywhere in Omnia (admin, editor tools and read mode)"
+      }
+    }
+  }
+}
