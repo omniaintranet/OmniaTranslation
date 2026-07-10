@@ -1,0 +1,16 @@
+{
+  "OmniaWorkplace": {
+    "LinksManagement": {
+      "MyLinks": {
+        "SearchButtonAriaLabel": "Sök länkar",
+        "SearchResultsMessage": "{0} länkar hittades",
+        "NoSearchResultsMessage": "Inga länkar hittades"
+      }
+    },
+    "Search": {
+      "SearchBlock": {
+        "EnableCustomAriaLabel": "Anpassad aria-etikett"
+      }
+    }
+  }
+}
