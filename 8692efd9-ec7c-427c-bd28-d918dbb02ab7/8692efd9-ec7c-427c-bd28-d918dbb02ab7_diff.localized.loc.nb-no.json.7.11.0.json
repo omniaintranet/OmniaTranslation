@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Gå tilbake",
+          "navHeaderForward": "Gå fremover",
+          "pageShare": "Del siden",
+          "pageReact": "Legg til en reaksjon på siden",
+          "pageRemoveReact": "Fjern din reaksjon fra siden",
+          "pageComment": "Legg til en kommentar på siden",
+          "pageOpenInBrowser": "Åpne siden i nettleser",
+          "pageCommentCount": "{count} kommentarer",
+          "pageCommentCountSingular": "{count} kommentar",
+          "commentMenu": "Åpne meny for kommentar",
+          "commentReact": "Legg til en reaksjon på kommentaren",
+          "commentRemoveReact": "Fjern din reaksjon fra kommentaren",
+          "commentChangeOrRemoveReact": "Endre eller fjern din reaksjon fra kommentaren",
+          "pageMenu": "Åpne meny for side",
+          "pageLike": "Liker siden",
+          "pageRemoveLike": "Fjern din like fra siden",
+          "pageChangeOrRemoveReact": "Endre eller fjern din reaksjon fra siden",
+          "commentLike": "Liker kommentaren",
+          "commentRemoveLike": "Fjern din like fra kommentaren",
+          "compactLike": "{count} brukere liker",
+          "compactLikeSingular": "{count} bruker liker",
+          "compactReaction": "{count} brukerreaksjoner",
+          "compactReactionSingular": "{count} brukerreaksjon",
+          "noUserReactions": "Ingen brukerreaksjoner",
+          "noUserLikes": "Ingen brukere liker",
+          "noUserComments": "Ingen brukere har kommentert",
+          "youReacted": "Du reagerte",
+          "youAndOthersReacted": "Du og {count} andre reagerte",
+          "youLiked": "Du likte dette",
+          "youAndOthersLiked": "Du og {count} andre likte dette"
+        }
+      }
+    }
+  }
+}
