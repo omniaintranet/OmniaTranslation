@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Gebruikersynchronisatiefilters"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Gebruikersynchronisatiefilter",
+            "UserSynchronizationFilterDescription": "Configureer filter om gebruikers op te nemen of uit te sluiten van synchronisatie",
+            "UserSynchronizationFilterNotConfigured": "Er is geen gebruikersynchronisatiefilter geconfigureerd.",
+            "UserSynchronizationFilterConfigured": "Geconfigureerd met {0} filters",
+            "Configure": "Configureren",
+            "RuleAction": "Regelactie",
+            "IncludeInSync": "Opnemen in sync",
+            "IncludeInSyncDescription": "Gebruikers die aan onderstaande filters voldoen, worden toegevoegd aan de directory.",
+            "ExcludeFromSync": "Uitsluiten van sync",
+            "ExcludeFromSyncDescription": "Gebruikers die aan onderstaande filters voldoen, worden overgeslagen tijdens synchronisatie.",
+            "MatchUsersWhere": "Gebruikers matchen waar",
+            "MatchUsersWhereDescription": "Alle filters moeten overeenkomen (logische EN). Binnen een filter kan elke waarde overeenkomen (logische OF).",
+            "NoUserSynchronizationFilters": "Nog geen filters - zonder filters komt deze regel overeen met elke gebruiker.",
+            "And": "EN",
+            "Where": "Waar",
+            "EnterValueWithWildcard": "Voer waarde in. * als wildcard.",
+            "ExcludeWithoutFiltersNotAllowed": "Je moet filters toevoegen om uit te sluiten van synchronisatie.",
+            "IncompleteFilterNotAllowed": "Een filter moet een geselecteerde eigenschap en ten minste één waarde hebben."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Dit bestandstype wordt niet ondersteund. Probeer het opnieuw met JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- of WEBP-bestanden."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Niet vertalen"
+        },
+        "Tooltip": {
+          "NoTranslate": "Niet vertalen"
+        }
+      }
+    }
+  }
+}
