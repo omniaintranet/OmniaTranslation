@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Brukersynkroniseringsfiltre"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Brukersynkroniseringsfilter",
+            "UserSynchronizationFilterDescription": "Konfigurer filter for å inkludere eller ekskludere brukere fra synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Ingen brukersynkroniseringsfilter er konfigurert.",
+            "UserSynchronizationFilterConfigured": "Konfigurert med {0} filtre",
+            "Configure": "Konfigurer",
+            "RuleAction": "Regelhandling",
+            "IncludeInSync": "Inkluder i synkronisering",
+            "IncludeInSyncDescription": "Brukere som samsvarer med filtrene nedenfor legges til i katalogen.",
+            "ExcludeFromSync": "Ekskluder fra synkronisering",
+            "ExcludeFromSyncDescription": "Brukere som samsvarer med filtrene nedenfor hoppes over under synkronisering.",
+            "MatchUsersWhere": "Match brukere hvor",
+            "MatchUsersWhereDescription": "Alle filtre må samsvare (logisk OG). Innenfor et filter kan hvilken som helst verdi samsvare (logisk ELLER).",
+            "NoUserSynchronizationFilters": "Ingen filtre ennå - uten filtre samsvarer denne regelen med alle brukere.",
+            "And": "OG",
+            "Where": "Hvor",
+            "EnterValueWithWildcard": "Skriv inn verdi. * som jokertegn.",
+            "ExcludeWithoutFiltersNotAllowed": "Du må legge til filtre for å ekskludere fra synkronisering.",
+            "IncompleteFilterNotAllowed": "Et filter må ha en valgt egenskap og minst én verdi."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Denne filtypen støttes ikke. Vennligst prøv igjen med JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- eller WEBP-filer."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ikke oversett"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ikke oversett"
+        }
+      }
+    }
+  }
+}
