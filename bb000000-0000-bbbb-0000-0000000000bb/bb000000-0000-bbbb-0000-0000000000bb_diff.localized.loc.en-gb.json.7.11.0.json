@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "User synchronisation filters"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "User synchronisation filter",
+            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronised",
+            "UserSynchronizationFilterNotConfigured": "No user synchronisation filter is configured.",
+            "UserSynchronizationFilterConfigured": "Configured using {0} filters",
+            "Configure": "Configure",
+            "RuleAction": "Rule action",
+            "IncludeInSync": "Include in sync",
+            "IncludeInSyncDescription": "Users matching the filters below are added to the directory.",
+            "ExcludeFromSync": "Exclude from sync",
+            "ExcludeFromSyncDescription": "Users matching the filters below are skipped during sync.",
+            "MatchUsersWhere": "Match users where",
+            "MatchUsersWhereDescription": "All filters must match (logical AND). Within a filter, any value can match (logical OR).",
+            "NoUserSynchronizationFilters": "No filters yet - without filters this rule matches every user.",
+            "And": "AND",
+            "Where": "Where",
+            "EnterValueWithWildcard": "Enter value. * as wildcard.",
+            "ExcludeWithoutFiltersNotAllowed": "You must add filters to exclude from sync.",
+            "IncompleteFilterNotAllowed": "A filter must have a selected property and at least one value."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "This file type is not supported. Please try again with JPEG, PNG, BMP, GIF, SVG, ICO, or WEBP files."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "No translate"
+        },
+        "Tooltip": {
+          "NoTranslate": "No translate"
+        }
+      }
+    }
+  }
+}
