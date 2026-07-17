@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Gå tilbage",
+          "navHeaderForward": "Gå frem",
+          "pageShare": "Del siden",
+          "pageReact": "Tilføj en reaktion til siden",
+          "pageRemoveReact": "Fjern din reaktion fra siden",
+          "pageComment": "Tilføj en kommentar til siden",
+          "pageOpenInBrowser": "Åbn side i browser",
+          "pageCommentCount": "{count} kommentarer",
+          "pageCommentCountSingular": "{count} kommentar",
+          "commentMenu": "Åbn menu for kommentar",
+          "commentReact": "Tilføj en reaktion til kommentaren",
+          "commentRemoveReact": "Fjern din reaktion fra kommentaren",
+          "commentChangeOrRemoveReact": "Ændr eller fjern din reaktion fra kommentaren",
+          "pageMenu": "Åbn menu for side",
+          "pageLike": "Synes godt om siden",
+          "pageRemoveLike": "Fjern dit like fra siden",
+          "pageChangeOrRemoveReact": "Ændr eller fjern din reaktion fra siden",
+          "commentLike": "Synes godt om kommentaren",
+          "commentRemoveLike": "Fjern dit like fra kommentaren",
+          "compactLike": "{count} brugere kan lide",
+          "compactLikeSingular": "{count} bruger kan lide",
+          "compactReaction": "{count} brugerreaktioner",
+          "compactReactionSingular": "{count} brugerreaktion",
+          "noUserReactions": "Ingen brugerreaktioner",
+          "noUserLikes": "Ingen brugere kan lide",
+          "noUserComments": "Ingen brugerkommentarer",
+          "youReacted": "Du reagerede",
+          "youAndOthersReacted": "Du og {count} andre reagerede",
+          "youLiked": "Du kan lide dette",
+          "youAndOthersLiked": "Du og {count} andre kan lide dette"
+        }
+      }
+    }
+  }
+}
