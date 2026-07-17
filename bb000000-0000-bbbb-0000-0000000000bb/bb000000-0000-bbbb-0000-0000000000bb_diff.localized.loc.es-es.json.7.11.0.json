@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Filtros de sincronización de usuarios"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Filtro de sincronización de usuarios",
+            "UserSynchronizationFilterDescription": "Configura el filtro para incluir o excluir usuarios de la sincronización",
+            "UserSynchronizationFilterNotConfigured": "No se ha configurado ningún filtro de sincronización de usuarios.",
+            "UserSynchronizationFilterConfigured": "Configurado usando {0} filtros",
+            "Configure": "Configurar",
+            "RuleAction": "Acción de la regla",
+            "IncludeInSync": "Incluir en la sincronización",
+            "IncludeInSyncDescription": "Los usuarios que coincidan con los filtros siguientes se añadirán al directorio.",
+            "ExcludeFromSync": "Excluir de la sincronización",
+            "ExcludeFromSyncDescription": "Los usuarios que coincidan con los filtros siguientes se omitirán durante la sincronización.",
+            "MatchUsersWhere": "Coincidir usuarios donde",
+            "MatchUsersWhereDescription": "Todos los filtros deben coincidir (AND lógico). Dentro de un filtro, cualquier valor puede coincidir (OR lógico).",
+            "NoUserSynchronizationFilters": "Aún no hay filtros - sin filtros esta regla coincide con todos los usuarios.",
+            "And": "Y",
+            "Where": "Donde",
+            "EnterValueWithWildcard": "Introduce un valor. * como comodín.",
+            "ExcludeWithoutFiltersNotAllowed": "Debe añadir filtros para excluir de la sincronización.",
+            "IncompleteFilterNotAllowed": "Un filtro debe tener una propiedad seleccionada y al menos un valor."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Este tipo de archivo no está soportado. Por favor, inténtelo de nuevo con archivos JPEG, PNG, BMP, GIF, SVG, ICO o WEBP."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "No traducir"
+        },
+        "Tooltip": {
+          "NoTranslate": "No traducir"
+        }
+      }
+    }
+  }
+}
