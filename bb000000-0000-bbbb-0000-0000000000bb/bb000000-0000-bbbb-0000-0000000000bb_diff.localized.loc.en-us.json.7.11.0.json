@@ -10,7 +10,7 @@
           },
           "Settings": {
             "UserSynchronizationFilterBladeTitle": "User synchronization filter",
-            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronized",
+            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronized.",
             "UserSynchronizationFilterNotConfigured": "No user synchronization filter is configured.",
             "UserSynchronizationFilterConfigured": "Configured using {0} filters",
             "Configure": "Configure",
@@ -25,7 +25,7 @@
             "And": "AND",
             "Where": "Where",
             "EnterValueWithWildcard": "Enter value. * as wildcard.",
-            "ExcludeWithoutFiltersNotAllowed": "Exclude from sync with no filters is not allowed.",
+            "ExcludeWithoutFiltersNotAllowed": "You must add filters to exclude from sync.",
             "IncompleteFilterNotAllowed": "A filter must have a selected property and at least one value."
           }
         }
@@ -37,10 +37,10 @@
       },
       "RichTextEditor": {
         "Extensions": {
-          "NoTranslate": "No Translate"
+          "NoTranslate": "No translate"
         },
         "Tooltip": {
-          "NoTranslate": "No Translate"
+          "NoTranslate": "No translate"
         }
       }
     }
