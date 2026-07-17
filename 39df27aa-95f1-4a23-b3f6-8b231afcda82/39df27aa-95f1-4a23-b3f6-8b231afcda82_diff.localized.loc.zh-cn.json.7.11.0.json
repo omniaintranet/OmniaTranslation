@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "客户端密钥"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "根据我能访问的内容，我无法推断出您问题的答案。",
+          "RequestMoreContext": "您能否提供更多上下文或澄清您的问题？"
+        }
+      }
+    }
+  }
+}
