@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "Client Secret"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "From the content I have access to, I couldn't infer an answer to your question.",
+          "RequestMoreContext": "Can you please provide more context or clarify your question?"
+        }
+      }
+    }
+  }
+}
