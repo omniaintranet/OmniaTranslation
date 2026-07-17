@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "Asiakkaan salaisuus"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Sisällöstä, johon minulla on pääsy, en pystynyt päättelemään vastausta kysymykseesi.",
+          "RequestMoreContext": "Voisitko antaa lisää kontekstia tai tarkentaa kysymystäsi?"
+        }
+      }
+    }
+  }
+}
