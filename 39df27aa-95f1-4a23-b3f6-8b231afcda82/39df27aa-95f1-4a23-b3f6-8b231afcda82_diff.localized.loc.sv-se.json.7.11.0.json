@@ -10,8 +10,8 @@
     "Search": {
       "SemanticSearch": {
         "CertainResponseMessage": {
-          "UnableToGenerateResponse": "Utifrån det innehåll jag har tillgång till kunde jag inte dra någon slutsats för din fråga.",
-          "RequestMoreContext": "Kan du vänligen ge mer kontext eller förtydliga din fråga?"
+          "UnableToGenerateResponse": "Utifrån det innehåll jag har tillgång till kunde jag inte hitta något svar på din fråga.",
+          "RequestMoreContext": "Kan du ange mer kontext eller förtydliga din fråga?"
         }
       }
     }
