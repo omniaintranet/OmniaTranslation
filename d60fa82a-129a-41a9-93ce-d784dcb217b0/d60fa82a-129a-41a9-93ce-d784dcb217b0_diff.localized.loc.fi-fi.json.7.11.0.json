@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Vain teksti"
+      }
+    }
+  }
+}
