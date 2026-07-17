@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "Bí mật khách hàng"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Từ nội dung tôi có quyền truy cập, tôi không thể suy ra câu trả lời cho câu hỏi của bạn.",
+          "RequestMoreContext": "Bạn có thể cung cấp thêm ngữ cảnh hoặc làm rõ câu hỏi của mình không?"
+        }
+      }
+    }
+  }
+}
