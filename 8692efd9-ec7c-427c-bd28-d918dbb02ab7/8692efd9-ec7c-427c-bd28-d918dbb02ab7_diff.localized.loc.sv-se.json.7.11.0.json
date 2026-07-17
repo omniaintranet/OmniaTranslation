@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Gå tillbaka",
+          "navHeaderForward": "Gå framåt",
+          "pageShare": "Dela sidan",
+          "pageReact": "Lägg till en reaktion på sidan",
+          "pageRemoveReact": "Ta bort din reaktion från sidan",
+          "pageComment": "Lägg till en kommentar på sidan",
+          "pageOpenInBrowser": "Öppna sidan i webbläsaren",
+          "pageCommentCount": "{count} kommentarer",
+          "pageCommentCountSingular": "{count} kommentar",
+          "commentMenu": "Öppna menyn för kommentaren",
+          "commentReact": "Lägg till en reaktion på kommentaren",
+          "commentRemoveReact": "Ta bort din reaktion från kommentaren",
+          "commentChangeOrRemoveReact": "Ändra eller ta bort din reaktion från kommentaren",
+          "pageMenu": "Öppna menyn för sidan",
+          "pageLike": "Gilla sidan",
+          "pageRemoveLike": "Ta bort din gilla-markering från sidan",
+          "pageChangeOrRemoveReact": "Ändra eller ta bort din reaktion från sidan",
+          "commentLike": "Gilla kommentaren",
+          "commentRemoveLike": "Ta bort din gilla-markering från kommentaren",
+          "compactLike": "{count} användare gillar",
+          "compactLikeSingular": "{count} användare gillar",
+          "compactReaction": "{count} användarreaktioner",
+          "compactReactionSingular": "{count} användarreaktion",
+          "noUserReactions": "Inga användarreaktioner",
+          "noUserLikes": "Inga gilla-markeringar",
+          "noUserComments": "Inga användarkommentarer",
+          "youReacted": "Du reagerade",
+          "youAndOthersReacted": "Du och {count} andra reagerade",
+          "youLiked": "Du gillade detta",
+          "youAndOthersLiked": "Du och {count} andra gillade detta"
+        }
+      }
+    }
+  }
+}
