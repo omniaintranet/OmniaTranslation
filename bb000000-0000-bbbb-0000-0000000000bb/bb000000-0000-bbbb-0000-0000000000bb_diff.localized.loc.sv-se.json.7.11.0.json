@@ -5,14 +5,14 @@
         "Synchronization": {
           "Provider": {
             "AzureAd": {
-              "SyncUserFilterSetupTitle": "Användarsynkroniseringsfilter"
+              "SyncUserFilterSetupTitle": "Filter för användarsynkronisering"
             }
           },
           "Settings": {
-            "UserSynchronizationFilterBladeTitle": "Användarsynkroniseringsfilter",
+            "UserSynchronizationFilterBladeTitle": "Filter för användarsynkronisering",
             "UserSynchronizationFilterDescription": "Konfigurera filter för att inkludera eller exkludera användare från synkronisering",
-            "UserSynchronizationFilterNotConfigured": "Inget användarsynkroniseringsfilter är konfigurerat.",
-            "UserSynchronizationFilterConfigured": "Konfigurerad med {0} filter",
+            "UserSynchronizationFilterNotConfigured": "Inget filter för användarsynkronisering konfigurerat.",
+            "UserSynchronizationFilterConfigured": "Konfigurerat med {0} filter",
             "Configure": "Konfigurera",
             "RuleAction": "Regelåtgärd",
             "IncludeInSync": "Inkludera i synk",
