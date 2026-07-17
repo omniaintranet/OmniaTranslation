@@ -10,7 +10,7 @@
           },
           "Settings": {
             "UserSynchronizationFilterBladeTitle": "User synchronization filter",
-            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronized.",
+            "UserSynchronizationFilterDescription": "Configure filter to include or exclude users from being synchronized",
             "UserSynchronizationFilterNotConfigured": "No user synchronization filter is configured.",
             "UserSynchronizationFilterConfigured": "Configured using {0} filters",
             "Configure": "Configure",
