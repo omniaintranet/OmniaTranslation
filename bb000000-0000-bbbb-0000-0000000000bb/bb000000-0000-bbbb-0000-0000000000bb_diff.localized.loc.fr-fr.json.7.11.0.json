@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Filtres de synchronisation des utilisateurs"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Filtre de synchronisation des utilisateurs",
+            "UserSynchronizationFilterDescription": "Configurez le filtre pour inclure ou exclure des utilisateurs de la synchronisation",
+            "UserSynchronizationFilterNotConfigured": "Aucun filtre de synchronisation des utilisateurs n'est configuré.",
+            "UserSynchronizationFilterConfigured": "Configuré avec {0} filtres",
+            "Configure": "Configurer",
+            "RuleAction": "Action de la règle",
+            "IncludeInSync": "Inclure dans la synchronisation",
+            "IncludeInSyncDescription": "Les utilisateurs correspondant aux filtres ci-dessous sont ajoutés à l'annuaire.",
+            "ExcludeFromSync": "Exclure de la synchronisation",
+            "ExcludeFromSyncDescription": "Les utilisateurs correspondant aux filtres ci-dessous sont ignorés lors de la synchronisation.",
+            "MatchUsersWhere": "Correspondre aux utilisateurs où",
+            "MatchUsersWhereDescription": "Tous les filtres doivent correspondre (ET logique). Dans un filtre, n'importe quelle valeur peut correspondre (OU logique).",
+            "NoUserSynchronizationFilters": "Pas encore de filtres - sans filtres, cette règle correspond à tous les utilisateurs.",
+            "And": "ET",
+            "Where": "Où",
+            "EnterValueWithWildcard": "Entrez une valeur. * comme caractère générique.",
+            "ExcludeWithoutFiltersNotAllowed": "Vous devez ajouter des filtres pour exclure de la synchronisation.",
+            "IncompleteFilterNotAllowed": "Un filtre doit avoir une propriété sélectionnée et au moins une valeur."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Ce type de fichier n'est pas pris en charge. Veuillez réessayer avec des fichiers JPEG, PNG, BMP, GIF, SVG, ICO ou WEBP."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ne pas traduire"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ne pas traduire"
+        }
+      }
+    }
+  }
+}

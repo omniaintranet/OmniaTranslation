@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Ga terug",
+          "navHeaderForward": "Ga vooruit",
+          "pageShare": "Deel de pagina",
+          "pageReact": "Voeg een reactie toe aan de pagina",
+          "pageRemoveReact": "Verwijder je reactie van de pagina",
+          "pageComment": "Voeg een opmerking toe aan de pagina",
+          "pageOpenInBrowser": "Open pagina in browser",
+          "pageCommentCount": "{count} opmerkingen",
+          "pageCommentCountSingular": "{count} opmerking",
+          "commentMenu": "Open menu voor opmerking",
+          "commentReact": "Voeg een reactie toe aan de opmerking",
+          "commentRemoveReact": "Verwijder je reactie van de opmerking",
+          "commentChangeOrRemoveReact": "Wijzig of verwijder je reactie van de opmerking",
+          "pageMenu": "Open menu voor pagina",
+          "pageLike": "Vind de pagina leuk",
+          "pageRemoveLike": "Verwijder je like van de pagina",
+          "pageChangeOrRemoveReact": "Wijzig of verwijder je reactie van de pagina",
+          "commentLike": "Vind de opmerking leuk",
+          "commentRemoveLike": "Verwijder je like van de opmerking",
+          "compactLike": "{count} gebruiker vindt dit leuk",
+          "compactLikeSingular": "{count} gebruiker vindt dit leuk",
+          "compactReaction": "{count} gebruikersreacties",
+          "compactReactionSingular": "{count} gebruikersreactie",
+          "noUserReactions": "Geen gebruikersreacties",
+          "noUserLikes": "Geen likes van gebruikers",
+          "noUserComments": "Geen gebruikersopmerkingen",
+          "youReacted": "Je hebt gereageerd",
+          "youAndOthersReacted": "Jij en {count} anderen hebben gereageerd",
+          "youLiked": "Je vindt dit leuk",
+          "youAndOthersLiked": "Jij en {count} anderen vinden dit leuk"
+        }
+      }
+    }
+  }
+}

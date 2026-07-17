@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "返回",
+          "navHeaderForward": "前进",
+          "pageShare": "分享页面",
+          "pageReact": "为页面添加反应",
+          "pageRemoveReact": "移除您对页面的反应",
+          "pageComment": "为页面添加评论",
+          "pageOpenInBrowser": "在浏览器中打开页面",
+          "pageCommentCount": "{count} 条评论",
+          "pageCommentCountSingular": "{count} 条评论",
+          "commentMenu": "打开评论菜单",
+          "commentReact": "为评论添加反应",
+          "commentRemoveReact": "移除您对评论的反应",
+          "commentChangeOrRemoveReact": "更改或移除您对评论的反应",
+          "pageMenu": "打开页面菜单",
+          "pageLike": "点赞页面",
+          "pageRemoveLike": "取消点赞页面",
+          "pageChangeOrRemoveReact": "更改或移除您对页面的反应",
+          "commentLike": "点赞评论",
+          "commentRemoveLike": "取消点赞评论",
+          "compactLike": "{count} 位用户点赞",
+          "compactLikeSingular": "{count} 位用户点赞",
+          "compactReaction": "{count} 位用户反应",
+          "compactReactionSingular": "{count} 位用户反应",
+          "noUserReactions": "暂无用户反应",
+          "noUserLikes": "暂无用户点赞",
+          "noUserComments": "暂无用户评论",
+          "youReacted": "您已反应",
+          "youAndOthersReacted": "您和另外 {count} 位用户已反应",
+          "youLiked": "您已点赞",
+          "youAndOthersLiked": "您和另外 {count} 位用户已点赞"
+        }
+      }
+    }
+  }
+}

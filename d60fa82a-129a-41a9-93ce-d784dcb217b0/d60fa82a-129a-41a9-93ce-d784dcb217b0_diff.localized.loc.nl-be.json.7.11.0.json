@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "ActionButton": {
+      "ButtonStyle": {
+        "TextOnly": "Alleen tekst"
+      }
+    }
+  }
+}

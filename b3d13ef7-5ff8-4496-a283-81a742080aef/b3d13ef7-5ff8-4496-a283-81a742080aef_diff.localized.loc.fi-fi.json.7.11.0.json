@@ -1,0 +1,64 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Lisää suodatin",
+        "ClearAllFilters": "Tyhjennä kaikki suodattimet",
+        "BroadenSearch": "+ laajenna hakua",
+        "SelectRowsHint": "Valitse yksi tai useampi rivi muokattavaksi massana. Toimintopalkki ilmestyy tähän.",
+        "NoDocumentsMatch": "Yksikään asiakirja ei vastaa tätä suodatinta",
+        "NoDocumentsMatchSub": "Kokeile poistaa suodatin tai muuttaa suodatuskriteerejä.",
+        "SearchIndexingNotice": "Äskettäin päivitetyt asiakirjat eivät välttämättä näy heti — SharePointin hakemistointi voi kestää muutaman minuutin muutosten heijastumiseksi.",
+        "Field": "Kenttä",
+        "From": "Alkaen",
+        "To": "Päättyen",
+        "Cancel": "Peruuta",
+        "Apply": "Käytä",
+        "UpdateProperty": "Päivitä ominaisuus",
+        "KqlPlaceholder": "KQL-kysely (esim. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Vaihda kriteeritilaan",
+        "SwitchToKqlMode": "Vaihda KQL-tilaan",
+        "StaleFilterBanner": "Suodatin saattaa olla vanhentunut",
+        "StaleFilterSub": "muutettiin juuri massana",
+        "StaleFilterUpdate": "Päivitä:",
+        "StaleFilterRemove": "Poista suodatin",
+        "StaleFilterKeep": "Pidä ennallaan",
+        "StaleFilterKqlSub": "KQL-viittauksesi saattaa sisältää arvon, jota muutettiin juuri massana.",
+        "FilterMode": "Suodatustila",
+        "HasValue": "Sisältää arvon",
+        "NoValue": "Tyhjä",
+        "AlwaysAppliedFilter": "Aina käytössä oleva suodatin",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true sisältyy aina kyselyyn, jotta palautetaan vain julkaistut asiakirjat.",
+        "FilterLabel": "Suodatin",
+        "KqlMode": "KQL",
+        "PickValue": "Valitse arvo",
+        "TextSearch": "Tekstihaku",
+        "SelectedCount": "{{Count}} valittu",
+        "Search": "Haku",
+        "Sort": "Lajittele",
+        "EditFilter": "Muokkaa suodatinta",
+        "Yes": "Kyllä",
+        "No": "Ei"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Ominaisuus"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Tiedostonimet eivät voi alkaa tai päättyä pisteeseen, eivätkä sisältää seuraavia merkkejä: / \\ < > : * \" ? |."
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Asiakirjamallin tietojen lataaminen epäonnistui."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Peruutettu henkilön toimesta"
+      },
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Asiakirja ei ole ominaisuussarjassa."
+      }
+    }
+  }
+}

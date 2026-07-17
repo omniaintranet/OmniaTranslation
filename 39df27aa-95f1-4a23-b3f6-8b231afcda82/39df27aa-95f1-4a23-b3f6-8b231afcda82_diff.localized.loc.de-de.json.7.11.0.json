@@ -1,0 +1,19 @@
+{
+  "OTAD": {
+    "System": {
+      "OAuth2": {
+        "ClientSecret": "Client-Geheimnis"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "SemanticSearch": {
+        "CertainResponseMessage": {
+          "UnableToGenerateResponse": "Aus den Inhalten, auf die ich Zugriff habe, konnte ich keine Antwort auf Ihre Frage ableiten.",
+          "RequestMoreContext": "Können Sie bitte mehr Kontext bereitstellen oder Ihre Frage präzisieren?"
+        }
+      }
+    }
+  }
+}

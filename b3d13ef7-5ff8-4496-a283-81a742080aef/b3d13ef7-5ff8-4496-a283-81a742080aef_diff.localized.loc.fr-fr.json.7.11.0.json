@@ -1,0 +1,64 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Ajouter un filtre",
+        "ClearAllFilters": "Effacer tous les filtres",
+        "BroadenSearch": "+ élargir la recherche",
+        "SelectRowsHint": "Sélectionnez une ou plusieurs lignes pour une modification en masse. La barre d'action apparaîtra ici.",
+        "NoDocumentsMatch": "Aucun document ne correspond à ce filtre",
+        "NoDocumentsMatchSub": "Essayez de supprimer un filtre ou de modifier les critères du filtre.",
+        "SearchIndexingNotice": "Les documents récemment mis à jour peuvent ne pas apparaître immédiatement — l'indexation de recherche SharePoint peut prendre quelques minutes pour refléter les modifications.",
+        "Field": "Champ",
+        "From": "De",
+        "To": "À",
+        "Cancel": "Annuler",
+        "Apply": "Appliquer",
+        "UpdateProperty": "Mettre à jour la propriété",
+        "KqlPlaceholder": "Requête KQL (ex. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Passer en mode critères",
+        "SwitchToKqlMode": "Passer en mode KQL",
+        "StaleFilterBanner": "Le filtre peut être obsolète",
+        "StaleFilterSub": "vient d'être modifié en masse",
+        "StaleFilterUpdate": "Mettre à jour :",
+        "StaleFilterRemove": "Supprimer le filtre",
+        "StaleFilterKeep": "Conserver tel quel",
+        "StaleFilterKqlSub": "votre KQL peut référencer une valeur qui vient d'être modifiée en masse.",
+        "FilterMode": "Mode filtre",
+        "HasValue": "A une valeur",
+        "NoValue": "Vide",
+        "AlwaysAppliedFilter": "Filtre toujours appliqué",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true est toujours inclus dans la requête pour garantir que seuls les documents publiés sont retournés.",
+        "FilterLabel": "Filtre",
+        "KqlMode": "KQL",
+        "PickValue": "Choisir une valeur",
+        "TextSearch": "Recherche textuelle",
+        "SelectedCount": "{{Count}} sélectionné(s)",
+        "Search": "Rechercher",
+        "Sort": "Trier",
+        "EditFilter": "Modifier le filtre",
+        "Yes": "Oui",
+        "No": "Non"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Propriété"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Les noms de fichiers ne peuvent pas commencer ou se terminer par un point, ni contenir l'un de ces caractères : / \\ < > : * \" ? |."
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Échec du chargement des informations du modèle de document."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Annulé par"
+      },
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Le document ne fait pas partie de l'ensemble de propriétés."
+      }
+    }
+  }
+}

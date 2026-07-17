@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Brugersynkroniseringsfiltre"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Brugersynkroniseringsfilter",
+            "UserSynchronizationFilterDescription": "Konfigurer filter til at inkludere eller ekskludere brugere fra synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Intet brugersynkroniseringsfilter er konfigureret.",
+            "UserSynchronizationFilterConfigured": "Konfigureret med {0} filtre",
+            "Configure": "Konfigurer",
+            "RuleAction": "Regelhandling",
+            "IncludeInSync": "Inkluder i synkronisering",
+            "IncludeInSyncDescription": "Brugere, der matcher nedenstående filtre, tilføjes til kataloget.",
+            "ExcludeFromSync": "Ekskluder fra synkronisering",
+            "ExcludeFromSyncDescription": "Brugere, der matcher nedenstående filtre, springes over under synkronisering.",
+            "MatchUsersWhere": "Match brugere hvor",
+            "MatchUsersWhereDescription": "Alle filtre skal matche (logisk OG). Inden for et filter kan enhver værdi matche (logisk ELLER).",
+            "NoUserSynchronizationFilters": "Ingen filtre endnu - uden filtre matcher denne regel alle brugere.",
+            "And": "OG",
+            "Where": "Hvor",
+            "EnterValueWithWildcard": "Indtast værdi. * som jokertegn.",
+            "ExcludeWithoutFiltersNotAllowed": "Du skal tilføje filtre for at ekskludere fra synkronisering.",
+            "IncompleteFilterNotAllowed": "Et filter skal have en valgt egenskab og mindst én værdi."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Denne filtype understøttes ikke. Prøv venligst igen med JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- eller WEBP-filer."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ingen oversættelse"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ingen oversættelse"
+        }
+      }
+    }
+  }
+}

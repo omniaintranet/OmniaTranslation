@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Käyttäjien synkronointisuodattimet"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Käyttäjien synkronointisuodatin",
+            "UserSynchronizationFilterDescription": "Määritä suodatin käyttäjien synkronoinnin sisällyttämiseksi tai poissulkemiseksi",
+            "UserSynchronizationFilterNotConfigured": "Käyttäjien synkronointisuodatinta ei ole määritetty.",
+            "UserSynchronizationFilterConfigured": "Määritetty käyttäen {0} suodatinta",
+            "Configure": "Määritä",
+            "RuleAction": "Säännön toiminto",
+            "IncludeInSync": "Sisällytä synkronointiin",
+            "IncludeInSyncDescription": "Alla olevia suodattimia vastaavat käyttäjät lisätään hakemistoon.",
+            "ExcludeFromSync": "Poissulje synkronoinnista",
+            "ExcludeFromSyncDescription": "Alla olevia suodattimia vastaavat käyttäjät ohitetaan synkronoinnin aikana.",
+            "MatchUsersWhere": "Vastaa käyttäjiä, joissa",
+            "MatchUsersWhereDescription": "Kaikkien suodattimien on täsmättävä (looginen JA). Suodattimen sisällä mikä tahansa arvo voi täsmätä (looginen TAI).",
+            "NoUserSynchronizationFilters": "Ei suodattimia vielä – ilman suodattimia tämä sääntö vastaa jokaista käyttäjää.",
+            "And": "JA",
+            "Where": "Missä",
+            "EnterValueWithWildcard": "Anna arvo. * jokerimerkkinä.",
+            "ExcludeWithoutFiltersNotAllowed": "Poissulkemiseksi synkronoinnista on lisättävä suodattimia.",
+            "IncompleteFilterNotAllowed": "Suodattimella on oltava valittu ominaisuus ja vähintään yksi arvo."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Tiedostotyyppiä ei tueta. Yritä uudelleen JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- tai WEBP-tiedostojen kanssa."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ei käännetä"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ei käännetä"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Zurück",
+          "navHeaderForward": "Vorwärts",
+          "pageShare": "Seite teilen",
+          "pageReact": "Fügen Sie eine Reaktion zur Seite hinzu",
+          "pageRemoveReact": "Entfernen Sie Ihre Reaktion von der Seite",
+          "pageComment": "Fügen Sie einen Kommentar zur Seite hinzu",
+          "pageOpenInBrowser": "Seite im Browser öffnen",
+          "pageCommentCount": "{count} Kommentare",
+          "pageCommentCountSingular": "{count} Kommentar",
+          "commentMenu": "Menü für Kommentar öffnen",
+          "commentReact": "Fügen Sie eine Reaktion zum Kommentar hinzu",
+          "commentRemoveReact": "Entfernen Sie Ihre Reaktion vom Kommentar",
+          "commentChangeOrRemoveReact": "Ändern oder entfernen Sie Ihre Reaktion vom Kommentar",
+          "pageMenu": "Menü für Seite öffnen",
+          "pageLike": "Seite liken",
+          "pageRemoveLike": "Entfernen Sie Ihr Like von der Seite",
+          "pageChangeOrRemoveReact": "Ändern oder entfernen Sie Ihre Reaktion von der Seite",
+          "commentLike": "Kommentar liken",
+          "commentRemoveLike": "Entfernen Sie Ihr Like vom Kommentar",
+          "compactLike": "{count} Nutzer mögen das",
+          "compactLikeSingular": "{count} Nutzer mag das",
+          "compactReaction": "{count} Nutzerreaktionen",
+          "compactReactionSingular": "{count} Nutzerreaktion",
+          "noUserReactions": "Keine Nutzerreaktionen",
+          "noUserLikes": "Keine Nutzer-Likes",
+          "noUserComments": "Keine Nutzerkommentare",
+          "youReacted": "Sie haben reagiert",
+          "youAndOthersReacted": "Sie und {count} andere haben reagiert",
+          "youLiked": "Sie haben das geliked",
+          "youAndOthersLiked": "Sie und {count} andere haben das geliked"
+        }
+      }
+    }
+  }
+}

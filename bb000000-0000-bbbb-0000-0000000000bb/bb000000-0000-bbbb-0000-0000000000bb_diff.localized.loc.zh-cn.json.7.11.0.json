@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "用户同步筛选器"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "用户同步筛选器",
+            "UserSynchronizationFilterDescription": "配置筛选器以包含或排除同步的用户",
+            "UserSynchronizationFilterNotConfigured": "未配置用户同步筛选器。",
+            "UserSynchronizationFilterConfigured": "使用 {0} 个筛选器配置",
+            "Configure": "配置",
+            "RuleAction": "规则操作",
+            "IncludeInSync": "包含在同步中",
+            "IncludeInSyncDescription": "符合以下筛选条件的用户将被添加到目录中。",
+            "ExcludeFromSync": "排除在同步外",
+            "ExcludeFromSyncDescription": "符合以下筛选条件的用户将在同步时被跳过。",
+            "MatchUsersWhere": "匹配用户条件",
+            "MatchUsersWhereDescription": "所有筛选条件必须匹配（逻辑与）。在单个筛选条件内，任一值匹配即可（逻辑或）。",
+            "NoUserSynchronizationFilters": "尚无筛选器 - 无筛选器时此规则匹配所有用户。",
+            "And": "且",
+            "Where": "条件",
+            "EnterValueWithWildcard": "输入值。* 作为通配符。",
+            "ExcludeWithoutFiltersNotAllowed": "必须添加筛选器才能排除同步。",
+            "IncompleteFilterNotAllowed": "筛选器必须选择属性且至少包含一个值。"
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "不支持此文件类型。请尝试使用 JPEG、PNG、BMP、GIF、SVG、ICO 或 WEBP 文件。"
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "不翻译"
+        },
+        "Tooltip": {
+          "NoTranslate": "不翻译"
+        }
+      }
+    }
+  }
+}
