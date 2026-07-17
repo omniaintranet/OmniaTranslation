@@ -1,0 +1,64 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "添加筛选器",
+        "ClearAllFilters": "清除所有筛选器",
+        "BroadenSearch": "+ 扩大搜索范围",
+        "SelectRowsHint": "选择一行或多行进行批量编辑。操作栏将显示在此处。",
+        "NoDocumentsMatch": "没有文档符合此筛选条件",
+        "NoDocumentsMatchSub": "尝试移除筛选器，或更改筛选条件。",
+        "SearchIndexingNotice": "最近更新的文档可能不会立即显示 — SharePoint 搜索索引可能需要几分钟才能反映更改。",
+        "Field": "字段",
+        "From": "从",
+        "To": "到",
+        "Cancel": "取消",
+        "Apply": "应用",
+        "UpdateProperty": "更新属性",
+        "KqlPlaceholder": "KQL 查询（例如 RefinableString10:Medicinsk*）",
+        "SwitchToCriteriaMode": "切换到条件模式",
+        "SwitchToKqlMode": "切换到 KQL 模式",
+        "StaleFilterBanner": "筛选器可能已过期",
+        "StaleFilterSub": "刚刚进行了批量更改",
+        "StaleFilterUpdate": "更新：",
+        "StaleFilterRemove": "移除筛选器",
+        "StaleFilterKeep": "保持不变",
+        "StaleFilterKqlSub": "您的 KQL 可能引用了刚刚批量更改的值。",
+        "FilterMode": "筛选模式",
+        "HasValue": "有值",
+        "NoValue": "空",
+        "AlwaysAppliedFilter": "始终应用的筛选器",
+        "AlwaysAppliedFilterTooltip": "查询中始终包含 ODMIsPublished = true，以确保仅返回已发布的文档。",
+        "FilterLabel": "筛选器",
+        "KqlMode": "KQL",
+        "PickValue": "选择值",
+        "TextSearch": "文本搜索",
+        "SelectedCount": "已选择 {{Count}} 项",
+        "Search": "搜索",
+        "Sort": "排序",
+        "EditFilter": "编辑筛选器",
+        "Yes": "是",
+        "No": "否"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "属性"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "文件名不能以句点开头或结尾，且不能包含以下字符：/ \\ < > : * \" ? |。"
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "加载文档模板信息失败。"
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "取消者"
+      },
+      "DocumentStatuses": {
+        "NotInPropertySetError": "文档不在属性集中。"
+      }
+    }
+  }
+}
