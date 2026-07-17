@@ -8,17 +8,17 @@
         "SelectRowsHint": "Välj en eller flera rader för att redigera i bulk. Aktionsfältet visas här.",
         "NoDocumentsMatch": "Inga dokument matchar detta filter",
         "NoDocumentsMatchSub": "Försök ta bort ett filter eller ändra filterkriterier.",
-        "SearchIndexingNotice": "Nyligen uppdaterade dokument kan dröja innan de visas – SharePoint-sökindexering kan ta några minuter att uppdatera ändringar.",
+        "SearchIndexingNotice": "Det kan dröja innan nyligen uppdaterade dokument kan visas – det kan ta några minuter innan SharePoint-sökindexeringen har uppdaterat ändringar.",
         "Field": "Fält",
         "From": "Från",
         "To": "Till",
         "Cancel": "Avbryt",
         "Apply": "Verkställ",
         "UpdateProperty": "Uppdatera egenskap",
-        "KqlPlaceholder": "KQL-fråga (t.ex. RefinableString10:Medicinsk*)",
+        "KqlPlaceholder": "KQL-fråga (t ex RefinableString10:Medicinsk*)",
         "SwitchToCriteriaMode": "Byt till kriterieläge",
         "SwitchToKqlMode": "Byt till KQL-läge",
-        "StaleFilterBanner": "Filtret kan vara föråldrat",
+        "StaleFilterBanner": "Filtret kan vara för gammalt",
         "StaleFilterSub": "ändrades just i bulk",
         "StaleFilterUpdate": "Uppdatera:",
         "StaleFilterRemove": "Ta bort filter",
@@ -27,8 +27,8 @@
         "FilterMode": "Filterläge",
         "HasValue": "Har värde",
         "NoValue": "Tomt",
-        "AlwaysAppliedFilter": "Alltid tillämpat filter",
-        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true ingår alltid i frågan för att säkerställa att endast publicerade dokument returneras.",
+        "AlwaysAppliedFilter": "Filter som alltid tillämpas",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true ingår alltid i frågan för att säkerställa att endast publicerade dokument listas.",
         "FilterLabel": "Filter",
         "KqlMode": "KQL",
         "PickValue": "Välj värde",
@@ -46,7 +46,7 @@
         "Property": "Egenskap"
       },
       "Messages": {
-        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, eller innehålla någon av dessa tecken: / \\ < > : * \" ? |."
+        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, eller innehålla något av dessa tecken: / \\ < > : * \" ? |."
       },
       "TemplateMerge": {
         "LoadTemplateFailed": "Misslyckades med att ladda dokumentmallinformation."
