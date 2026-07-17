@@ -14,7 +14,7 @@
         "To": "To",
         "Cancel": "Cancel",
         "Apply": "Apply",
-        "UpdateProperty": "Update Property",
+        "UpdateProperty": "Update property",
         "KqlPlaceholder": "KQL query (e.g. RefinableString10:Medicinsk*)",
         "SwitchToCriteriaMode": "Switch to criteria mode",
         "SwitchToKqlMode": "Switch to KQL mode",
@@ -23,12 +23,12 @@
         "StaleFilterUpdate": "Update:",
         "StaleFilterRemove": "Remove filter",
         "StaleFilterKeep": "Keep as-is",
-        "StaleFilterKqlSub": "your KQL may reference a value that was just bulk-changed",
+        "StaleFilterKqlSub": "your KQL may reference a value that was just bulk-changed.",
         "FilterMode": "Filter mode",
         "HasValue": "Has value",
         "NoValue": "Empty",
         "AlwaysAppliedFilter": "Always applied filter",
-        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true is always included in the query to ensure only published documents are returned",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true is always included in the query to ensure only published documents are returned.",
         "FilterLabel": "Filter",
         "KqlMode": "KQL",
         "PickValue": "Pick value",
@@ -54,10 +54,10 @@
     },
     "DocumentLibrary": {
       "FieldNames": {
-        "CancelledBy": "Cancelled By"
+        "CancelledBy": "Cancelled by"
       },
       "DocumentStatuses": {
-        "NotInPropertySetError": "The document is not in the property set"
+        "NotInPropertySetError": "The document is not in the property set."
       }
     }
   }
