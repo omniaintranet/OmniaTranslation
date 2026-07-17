@@ -1,0 +1,64 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "AddFilter": "Lägg till filter",
+        "ClearAllFilters": "Rensa alla filter",
+        "BroadenSearch": "+ utöka sökningen",
+        "SelectRowsHint": "Välj en eller flera rader för att redigera i bulk. Aktionsfältet visas här.",
+        "NoDocumentsMatch": "Inga dokument matchar detta filter",
+        "NoDocumentsMatchSub": "Försök ta bort ett filter eller ändra filterkriterier.",
+        "SearchIndexingNotice": "Nyligen uppdaterade dokument kan dröja innan de visas – SharePoint-sökindexering kan ta några minuter att uppdatera ändringar.",
+        "Field": "Fält",
+        "From": "Från",
+        "To": "Till",
+        "Cancel": "Avbryt",
+        "Apply": "Verkställ",
+        "UpdateProperty": "Uppdatera egenskap",
+        "KqlPlaceholder": "KQL-fråga (t.ex. RefinableString10:Medicinsk*)",
+        "SwitchToCriteriaMode": "Byt till kriterieläge",
+        "SwitchToKqlMode": "Byt till KQL-läge",
+        "StaleFilterBanner": "Filtret kan vara föråldrat",
+        "StaleFilterSub": "ändrades just i bulk",
+        "StaleFilterUpdate": "Uppdatera:",
+        "StaleFilterRemove": "Ta bort filter",
+        "StaleFilterKeep": "Behåll som det är",
+        "StaleFilterKqlSub": "din KQL kan referera till ett värde som just ändrades i bulk.",
+        "FilterMode": "Filterläge",
+        "HasValue": "Har värde",
+        "NoValue": "Tomt",
+        "AlwaysAppliedFilter": "Alltid tillämpat filter",
+        "AlwaysAppliedFilterTooltip": "ODMIsPublished = true ingår alltid i frågan för att säkerställa att endast publicerade dokument returneras.",
+        "FilterLabel": "Filter",
+        "KqlMode": "KQL",
+        "PickValue": "Välj värde",
+        "TextSearch": "Textsökning",
+        "SelectedCount": "{{Count}} valda",
+        "Search": "Sök",
+        "Sort": "Sortera",
+        "EditFilter": "Redigera filter",
+        "Yes": "Ja",
+        "No": "Nej"
+      }
+    },
+    "Core": {
+      "Common": {
+        "Property": "Egenskap"
+      },
+      "Messages": {
+        "MessageInvalidFileNameChars": "Filnamn kan inte börja eller sluta med en punkt, eller innehålla någon av dessa tecken: / \\ < > : * \" ? |."
+      },
+      "TemplateMerge": {
+        "LoadTemplateFailed": "Misslyckades med att ladda dokumentmallinformation."
+      }
+    },
+    "DocumentLibrary": {
+      "FieldNames": {
+        "CancelledBy": "Avbruten av"
+      },
+      "DocumentStatuses": {
+        "NotInPropertySetError": "Dokumentet finns inte i egenskapsuppsättningen."
+      }
+    }
+  }
+}
