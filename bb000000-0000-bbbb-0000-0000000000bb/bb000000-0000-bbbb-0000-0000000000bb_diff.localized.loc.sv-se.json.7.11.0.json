@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Användarsynkroniseringsfilter"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Användarsynkroniseringsfilter",
+            "UserSynchronizationFilterDescription": "Konfigurera filter för att inkludera eller exkludera användare från synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Inget användarsynkroniseringsfilter är konfigurerat.",
+            "UserSynchronizationFilterConfigured": "Konfigurerad med {0} filter",
+            "Configure": "Konfigurera",
+            "RuleAction": "Regelåtgärd",
+            "IncludeInSync": "Inkludera i synk",
+            "IncludeInSyncDescription": "Användare som matchar filtren nedan läggs till i katalogen.",
+            "ExcludeFromSync": "Exkludera från synk",
+            "ExcludeFromSyncDescription": "Användare som matchar filtren nedan hoppas över under synk.",
+            "MatchUsersWhere": "Matcha användare där",
+            "MatchUsersWhereDescription": "Alla filter måste matcha (logisk OCH). Inom ett filter kan vilket värde som helst matcha (logisk ELLER).",
+            "NoUserSynchronizationFilters": "Inga filter än - utan filter matchar denna regel varje användare.",
+            "And": "OCH",
+            "Where": "Där",
+            "EnterValueWithWildcard": "Ange värde. * som jokertecken.",
+            "ExcludeWithoutFiltersNotAllowed": "Du måste lägga till filter för att exkludera från synk.",
+            "IncompleteFilterNotAllowed": "Ett filter måste ha en vald egenskap och minst ett värde."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Denna filtyp stöds inte. Försök igen med JPEG-, PNG-, BMP-, GIF-, SVG-, ICO- eller WEBP-filer."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Ingen översättning"
+        },
+        "Tooltip": {
+          "NoTranslate": "Ingen översättning"
+        }
+      }
+    }
+  }
+}
