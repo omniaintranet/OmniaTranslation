@@ -1,0 +1,40 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "navHeaderBack": "Volver",
+          "navHeaderForward": "Adelante",
+          "pageShare": "Compartir la página",
+          "pageReact": "Añadir una reacción a la página",
+          "pageRemoveReact": "Quitar tu reacción de la página",
+          "pageComment": "Añadir un comentario a la página",
+          "pageOpenInBrowser": "Abrir página en el navegador",
+          "pageCommentCount": "{count} comentarios",
+          "pageCommentCountSingular": "{count} comentario",
+          "commentMenu": "Abrir menú para el comentario",
+          "commentReact": "Añadir una reacción al comentario",
+          "commentRemoveReact": "Quitar tu reacción del comentario",
+          "commentChangeOrRemoveReact": "Cambiar o quitar tu reacción del comentario",
+          "pageMenu": "Abrir menú para la página",
+          "pageLike": "Me gusta la página",
+          "pageRemoveLike": "Quitar tu me gusta de la página",
+          "pageChangeOrRemoveReact": "Cambiar o quitar tu reacción de la página",
+          "commentLike": "Me gusta el comentario",
+          "commentRemoveLike": "Quitar tu me gusta del comentario",
+          "compactLike": "{count} usuarios han dado me gusta",
+          "compactLikeSingular": "{count} usuario ha dado me gusta",
+          "compactReaction": "{count} usuarios han reaccionado",
+          "compactReactionSingular": "{count} usuario ha reaccionado",
+          "noUserReactions": "Sin reacciones de usuarios",
+          "noUserLikes": "Sin me gustas de usuarios",
+          "noUserComments": "Sin comentarios de usuarios",
+          "youReacted": "Has reaccionado",
+          "youAndOthersReacted": "Tú y {count} más han reaccionado",
+          "youLiked": "Te ha gustado esto",
+          "youAndOthersLiked": "A ti y a {count} más les ha gustado esto"
+        }
+      }
+    }
+  }
+}
