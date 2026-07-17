@@ -1,0 +1,48 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Identities": {
+        "Synchronization": {
+          "Provider": {
+            "AzureAd": {
+              "SyncUserFilterSetupTitle": "Bộ lọc đồng bộ người dùng"
+            }
+          },
+          "Settings": {
+            "UserSynchronizationFilterBladeTitle": "Bộ lọc đồng bộ người dùng",
+            "UserSynchronizationFilterDescription": "Cấu hình bộ lọc để bao gồm hoặc loại trừ người dùng khỏi việc đồng bộ",
+            "UserSynchronizationFilterNotConfigured": "Chưa cấu hình bộ lọc đồng bộ người dùng.",
+            "UserSynchronizationFilterConfigured": "Đã cấu hình sử dụng {0} bộ lọc",
+            "Configure": "Cấu hình",
+            "RuleAction": "Hành động quy tắc",
+            "IncludeInSync": "Bao gồm trong đồng bộ",
+            "IncludeInSyncDescription": "Người dùng phù hợp với các bộ lọc dưới đây sẽ được thêm vào thư mục.",
+            "ExcludeFromSync": "Loại trừ khỏi đồng bộ",
+            "ExcludeFromSyncDescription": "Người dùng phù hợp với các bộ lọc dưới đây sẽ bị bỏ qua trong quá trình đồng bộ.",
+            "MatchUsersWhere": "Khớp người dùng khi",
+            "MatchUsersWhereDescription": "Tất cả bộ lọc phải khớp (và logic). Trong một bộ lọc, bất kỳ giá trị nào cũng có thể khớp (hoặc logic).",
+            "NoUserSynchronizationFilters": "Chưa có bộ lọc nào - không có bộ lọc, quy tắc này sẽ khớp với mọi người dùng.",
+            "And": "VÀ",
+            "Where": "Nơi",
+            "EnterValueWithWildcard": "Nhập giá trị. * làm ký tự đại diện.",
+            "ExcludeWithoutFiltersNotAllowed": "Bạn phải thêm bộ lọc để loại trừ khỏi đồng bộ.",
+            "IncompleteFilterNotAllowed": "Một bộ lọc phải có thuộc tính được chọn và ít nhất một giá trị."
+          }
+        }
+      },
+      "MediaProviderBase": {
+        "FileTypeIsNotSupportedDialog": {
+          "UnsupportedFileTypeMessage": "Loại tệp này không được hỗ trợ. Vui lòng thử lại với các tệp JPEG, PNG, BMP, GIF, SVG, ICO hoặc WEBP."
+        }
+      },
+      "RichTextEditor": {
+        "Extensions": {
+          "NoTranslate": "Không dịch"
+        },
+        "Tooltip": {
+          "NoTranslate": "Không dịch"
+        }
+      }
+    }
+  }
+}
