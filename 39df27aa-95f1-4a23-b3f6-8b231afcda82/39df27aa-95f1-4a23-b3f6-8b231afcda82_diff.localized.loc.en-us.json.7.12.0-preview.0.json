@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "User sync",
+        "BladeTitle": "Run logs",
+        "BladeSubtitle": "Signer assignment sync — scheduled & manual runs",
+        "SearchPlaceholder": "Search run logs",
+        "NoLogsYet": "No run logs yet.",
+        "NoChanges": "No changes",
+        "SyncSuccessMessage": "No membership changes detected. All signer assignments are up to date.",
+        "SectionReassigned": "Re-assigned sign-off requests",
+        "MembershipChanged": "{0} security group{1} changed membership — {2} sign-off request{3} re-assigned.",
+        "QueuedForExecution": "Queued for execution",
+        "Processed": "{0} of {1} processed",
+        "RequestsUpdated": "{0} requests updated · {1} signers added · {2} removed",
+        "Processing": "Processing — {0} of {1} sign-off requests evaluated",
+        "Evaluated": "EVALUATED",
+        "RequestsUpdatedLabel": "REQUESTS UPDATED",
+        "SignersAddedLabel": "SIGNERS ADDED",
+        "SignersRemovedLabel": "SIGNERS REMOVED",
+        "DurationLabel": "DURATION",
+        "ManualRunTitle": "Manual run",
+        "ManualRunConfirmTitle": "Run Sync Manually",
+        "ManualRunConfirm": "This will update signer assignments to reflect the latest group memberships. Do you want to continue?",
+        "ManualRunDesc": "Update sign-off request assignments to reflect the latest group memberships.",
+        "ScheduleTitle": "User sync schedule",
+        "EnableDailySync": "Enable daily user sync",
+        "RunHour": "Run hour",
+        "QuarterHour": "Quarter-hour",
+        "NotifyAdmins": "Notify these administrators",
+        "RunNow": "Run now",
+        "PillReady": "Ready",
+        "PillRunning": "Running",
+        "PillScheduled": "Scheduled",
+        "Status": {
+          "Queued": "QUEUED",
+          "Running": "RUNNING",
+          "Completed": "COMPLETED",
+          "Failed": "FAILED",
+          "Unknown": "UNKNOWN"
+        },
+        "Trigger": {
+          "Manual": "Manual",
+          "Scheduled": "Scheduled"
+        },
+        "RunTitle": "Run #{0}",
+        "UpdatedBadge": "{0} updated"
+      }
+    }
+  }
+}
