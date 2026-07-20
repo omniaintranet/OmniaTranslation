@@ -1,0 +1,29 @@
+{
+  "Omnia": {
+    "WCM": {
+      "Layout": {
+        "Templates": {
+          "Registration": {
+            "StartPages": {
+              "Omnia": "Omnia startside"
+            },
+            "NewsCenters": {
+              "Omnia": "Omnia nyhetssenter"
+            },
+            "EventCenters": {
+              "Omnia": "Omnia arrangementsenter"
+            },
+            "Pages": {
+              "NewsPages": {
+                "Omnia": "Omnia nyhetsartikkel"
+              },
+              "ContentPages": {
+                "Omnia": "Omnia nettside"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
