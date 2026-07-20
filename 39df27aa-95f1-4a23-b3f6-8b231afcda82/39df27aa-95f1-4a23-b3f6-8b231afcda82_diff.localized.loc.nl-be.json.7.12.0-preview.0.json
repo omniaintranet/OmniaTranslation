@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "User sync",
+        "BladeTitle": "Run logs",
+        "BladeSubtitle": "Synchronisatie van ondertekenaars toewijzing — geplande & handmatige uitvoeringen",
+        "SearchPlaceholder": "Zoek in uitvoeringslogboeken",
+        "NoLogsYet": "Nog geen uitvoeringslogboeken.",
+        "NoChanges": "Geen wijzigingen",
+        "SyncSuccessMessage": "Geen lidmaatschapswijzigingen gedetecteerd. Alle ondertekenaars toewijzingen zijn up-to-date.",
+        "SectionReassigned": "Opnieuw toegewezen sign-off verzoeken",
+        "MembershipChanged": "{0} beveiligingsgroep{1} lidmaatschap gewijzigd — {2} sign-off verzoek{3} opnieuw toegewezen.",
+        "QueuedForExecution": "In wachtrij voor uitvoering",
+        "Processed": "{0} van {1} verwerkt",
+        "RequestsUpdated": "{0} verzoeken bijgewerkt · {1} ondertekenaars toegevoegd · {2} verwijderd",
+        "Processing": "Bezig met verwerken — {0} van {1} sign-off verzoeken geëvalueerd",
+        "Evaluated": "GEËVALUEERD",
+        "RequestsUpdatedLabel": "VERZOEKEN BIJGEWERKT",
+        "SignersAddedLabel": "ONDERTEKENAARS TOEGEVOEGD",
+        "SignersRemovedLabel": "ONDERTEKENAARS VERWIJDERD",
+        "DurationLabel": "DUUR",
+        "ManualRunTitle": "Handmatige uitvoering",
+        "ManualRunConfirmTitle": "Synchronisatie handmatig uitvoeren",
+        "ManualRunConfirm": "Dit zal de toewijzingen van ondertekenaars bijwerken om de laatste groepslidmaatschappen weer te geven. Wilt u doorgaan?",
+        "ManualRunDesc": "Werk sign-off verzoek toewijzingen bij om de laatste groepslidmaatschappen weer te geven.",
+        "ScheduleTitle": "User sync schema",
+        "EnableDailySync": "Dagelijkse user sync inschakelen",
+        "RunHour": "Uitvoeringsuur",
+        "QuarterHour": "Kwartier",
+        "NotifyAdmins": "Deze beheerders op de hoogte stellen",
+        "RunNow": "Nu uitvoeren",
+        "PillReady": "Klaar",
+        "PillRunning": "Bezig",
+        "PillScheduled": "Gepland",
+        "Status": {
+          "Queued": "IN WACHTRIJ",
+          "Running": "BEZIG",
+          "Completed": "VOLTOOID",
+          "Failed": "GEFAALD",
+          "Unknown": "ONBEKEND"
+        },
+        "Trigger": {
+          "Manual": "Handmatig",
+          "Scheduled": "Gepland"
+        },
+        "RunTitle": "Uitvoering #{0}",
+        "UpdatedBadge": "{0} bijgewerkt"
+      }
+    }
+  }
+}
