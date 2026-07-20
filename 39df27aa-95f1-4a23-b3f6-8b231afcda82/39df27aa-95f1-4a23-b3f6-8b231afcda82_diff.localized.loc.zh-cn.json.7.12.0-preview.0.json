@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "用户同步",
+        "BladeTitle": "运行日志",
+        "BladeSubtitle": "签署人分配同步 — 定时与手动运行",
+        "SearchPlaceholder": "搜索运行日志",
+        "NoLogsYet": "暂无运行日志。",
+        "NoChanges": "无更改",
+        "SyncSuccessMessage": "未检测到成员变更。所有签署人分配均为最新。",
+        "SectionReassigned": "重新分配的签署请求",
+        "MembershipChanged": "{0} 个安全组{1}成员变更 — {2} 个签署请求{3}重新分配。",
+        "QueuedForExecution": "已排队等待执行",
+        "Processed": "已处理 {0} / {1}",
+        "RequestsUpdated": "更新了 {0} 个请求 · 添加了 {1} 个签署人 · 移除了 {2} 个",
+        "Processing": "处理中 — 已评估 {0} / {1} 个签署请求",
+        "Evaluated": "已评估",
+        "RequestsUpdatedLabel": "请求已更新",
+        "SignersAddedLabel": "签署人已添加",
+        "SignersRemovedLabel": "签署人已移除",
+        "DurationLabel": "持续时间",
+        "ManualRunTitle": "手动运行",
+        "ManualRunConfirmTitle": "手动运行同步",
+        "ManualRunConfirm": "这将更新签署人分配以反映最新的组成员身份。是否继续？",
+        "ManualRunDesc": "更新签署请求分配以反映最新的组成员身份。",
+        "ScheduleTitle": "用户同步计划",
+        "EnableDailySync": "启用每日用户同步",
+        "RunHour": "运行小时",
+        "QuarterHour": "15分钟",
+        "NotifyAdmins": "通知这些管理员",
+        "RunNow": "立即运行",
+        "PillReady": "准备就绪",
+        "PillRunning": "运行中",
+        "PillScheduled": "已计划",
+        "Status": {
+          "Queued": "排队中",
+          "Running": "运行中",
+          "Completed": "已完成",
+          "Failed": "失败",
+          "Unknown": "未知"
+        },
+        "Trigger": {
+          "Manual": "手动",
+          "Scheduled": "定时"
+        },
+        "RunTitle": "运行 #{0}",
+        "UpdatedBadge": "已更新 {0}"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Brugersynkronisering",
+        "BladeTitle": "Kørsel logs",
+        "BladeSubtitle": "Synkronisering af tilknytning af signaturansvarlige — planlagte & manuelle kørsel",
+        "SearchPlaceholder": "Søg i kørsel logs",
+        "NoLogsYet": "Ingen kørsel logs endnu.",
+        "NoChanges": "Ingen ændringer",
+        "SyncSuccessMessage": "Ingen medlemskabsændringer registreret. Alle tilknytninger af signaturansvarlige er opdaterede.",
+        "SectionReassigned": "Gen-tilknyttede sign-off anmodninger",
+        "MembershipChanged": "{0} sikkerhedsgruppe{1} ændrede medlemskab — {2} sign-off anmodning{3} gen-tilknyttet.",
+        "QueuedForExecution": "Sat i kø til udførelse",
+        "Processed": "{0} af {1} behandlet",
+        "RequestsUpdated": "{0} anmodninger opdateret · {1} signaturansvarlige tilføjet · {2} fjernet",
+        "Processing": "Behandler — {0} af {1} sign-off anmodninger evalueret",
+        "Evaluated": "EVALUERET",
+        "RequestsUpdatedLabel": "ANMODNINGER OPDATERET",
+        "SignersAddedLabel": "SIGNATURANSVARLIGE TILFØJET",
+        "SignersRemovedLabel": "SIGNATURANSVARLIGE FJERNET",
+        "DurationLabel": "VARIGHED",
+        "ManualRunTitle": "Manuel kørsel",
+        "ManualRunConfirmTitle": "Kør synkronisering manuelt",
+        "ManualRunConfirm": "Dette vil opdatere tilknytninger af signaturansvarlige for at afspejle de nyeste gruppemedlemskaber. Vil du fortsætte?",
+        "ManualRunDesc": "Opdater tilknytninger af sign-off anmodninger for at afspejle de nyeste gruppemedlemskaber.",
+        "ScheduleTitle": "Brugersynkroniseringsplan",
+        "EnableDailySync": "Aktivér daglig brugersynkronisering",
+        "RunHour": "Kørselstime",
+        "QuarterHour": "Kvart time",
+        "NotifyAdmins": "Underret disse administratorer",
+        "RunNow": "Kør nu",
+        "PillReady": "Klar",
+        "PillRunning": "Kører",
+        "PillScheduled": "Planlagt",
+        "Status": {
+          "Queued": "SAT I KØ",
+          "Running": "KØRER",
+          "Completed": "FULDFØRT",
+          "Failed": "MISLYKKEDES",
+          "Unknown": "UKENDT"
+        },
+        "Trigger": {
+          "Manual": "Manuel",
+          "Scheduled": "Planlagt"
+        },
+        "RunTitle": "Kørsel #{0}",
+        "UpdatedBadge": "{0} opdateret"
+      }
+    }
+  }
+}

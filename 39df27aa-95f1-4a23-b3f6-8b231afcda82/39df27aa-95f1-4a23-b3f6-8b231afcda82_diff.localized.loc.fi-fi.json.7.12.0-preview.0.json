@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Käyttäjäsynkronointi",
+        "BladeTitle": "Suorituslokit",
+        "BladeSubtitle": "Allekirjoittajan tehtävien synkronointi — aikataulutetut ja manuaaliset suoritukset",
+        "SearchPlaceholder": "Etsi suorituslokkeja",
+        "NoLogsYet": "Ei suorituslokkeja vielä.",
+        "NoChanges": "Ei muutoksia",
+        "SyncSuccessMessage": "Jäsenyysmuutoksia ei havaittu. Kaikki allekirjoittajatehtävät ovat ajan tasalla.",
+        "SectionReassigned": "Uudelleen määritetyt allekirjoituspyynnöt",
+        "MembershipChanged": "{0} suojausryhmä{1} jäsenyys muuttui — {2} allekirjoituspyyntö{3} uudelleen määritetty.",
+        "QueuedForExecution": "Jonossa suoritettavaksi",
+        "Processed": "{0} / {1} käsitelty",
+        "RequestsUpdated": "{0} pyyntöä päivitetty · {1} allekirjoittajaa lisätty · {2} poistettu",
+        "Processing": "Käsittelyssä — {0} / {1} allekirjoituspyyntöä arvioitu",
+        "Evaluated": "ARVIOITU",
+        "RequestsUpdatedLabel": "PÄIVITETYT PYNNÖT",
+        "SignersAddedLabel": "LISÄTYT ALLEKIRJOITTAJAT",
+        "SignersRemovedLabel": "POISTETUT ALLEKIRJOITTAJAT",
+        "DurationLabel": "KESTO",
+        "ManualRunTitle": "Manuaalinen suoritus",
+        "ManualRunConfirmTitle": "Suorita synkronointi manuaalisesti",
+        "ManualRunConfirm": "Tämä päivittää allekirjoittajatehtävät vastaamaan uusimpia ryhmän jäsenyyksiä. Haluatko jatkaa?",
+        "ManualRunDesc": "Päivitä allekirjoituspyyntöjen tehtävät vastaamaan uusimpia ryhmän jäsenyyksiä.",
+        "ScheduleTitle": "Käyttäjäsynkronoinnin aikataulu",
+        "EnableDailySync": "Ota käyttöön päivittäinen käyttäjäsynkronointi",
+        "RunHour": "Suoritusaika",
+        "QuarterHour": "Neljänneksen tunti",
+        "NotifyAdmins": "Ilmoita näille ylläpitäjille",
+        "RunNow": "Suorita nyt",
+        "PillReady": "Valmis",
+        "PillRunning": "Suoritetaan",
+        "PillScheduled": "Aikataulutettu",
+        "Status": {
+          "Queued": "JONOSSA",
+          "Running": "SUORITETAAN",
+          "Completed": "VALMIS",
+          "Failed": "EPÄONNISTUI",
+          "Unknown": "TUNNEMATON"
+        },
+        "Trigger": {
+          "Manual": "Manuaalinen",
+          "Scheduled": "Aikataulutettu"
+        },
+        "RunTitle": "Suoritus #{0}",
+        "UpdatedBadge": "{0} päivitetty"
+      }
+    }
+  }
+}

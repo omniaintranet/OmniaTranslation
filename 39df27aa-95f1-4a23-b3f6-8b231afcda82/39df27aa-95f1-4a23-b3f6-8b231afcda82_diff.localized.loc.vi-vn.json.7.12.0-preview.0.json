@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Đồng bộ người dùng",
+        "BladeTitle": "Nhật ký chạy",
+        "BladeSubtitle": "Đồng bộ phân công người ký — chạy theo lịch & thủ công",
+        "SearchPlaceholder": "Tìm kiếm nhật ký chạy",
+        "NoLogsYet": "Chưa có nhật ký chạy.",
+        "NoChanges": "Không có thay đổi",
+        "SyncSuccessMessage": "Không phát hiện thay đổi thành viên. Tất cả phân công người ký đều được cập nhật.",
+        "SectionReassigned": "Yêu cầu ký được phân công lại",
+        "MembershipChanged": "{0} nhóm bảo mật{1} thay đổi thành viên — {2} yêu cầu ký{3} được phân công lại.",
+        "QueuedForExecution": "Đang chờ thực thi",
+        "Processed": "{0} trên {1} đã xử lý",
+        "RequestsUpdated": "{0} yêu cầu đã cập nhật · {1} người ký được thêm · {2} người bị loại bỏ",
+        "Processing": "Đang xử lý — {0} trên {1} yêu cầu ký được đánh giá",
+        "Evaluated": "ĐÃ ĐÁNH GIÁ",
+        "RequestsUpdatedLabel": "YÊU CẦU ĐÃ CẬP NHẬT",
+        "SignersAddedLabel": "NGƯỜI KÝ ĐƯỢC THÊM",
+        "SignersRemovedLabel": "NGƯỜI KÝ BỊ LOẠI BỎ",
+        "DurationLabel": "THỜI GIAN",
+        "ManualRunTitle": "Chạy thủ công",
+        "ManualRunConfirmTitle": "Chạy đồng bộ thủ công",
+        "ManualRunConfirm": "Việc này sẽ cập nhật phân công người ký để phản ánh thành viên nhóm mới nhất. Bạn có muốn tiếp tục không?",
+        "ManualRunDesc": "Cập nhật phân công yêu cầu ký để phản ánh thành viên nhóm mới nhất.",
+        "ScheduleTitle": "Lịch đồng bộ người dùng",
+        "EnableDailySync": "Bật đồng bộ người dùng hàng ngày",
+        "RunHour": "Giờ chạy",
+        "QuarterHour": "Mỗi 15 phút",
+        "NotifyAdmins": "Thông báo cho các quản trị viên này",
+        "RunNow": "Chạy ngay",
+        "PillReady": "Sẵn sàng",
+        "PillRunning": "Đang chạy",
+        "PillScheduled": "Đã lên lịch",
+        "Status": {
+          "Queued": "ĐANG CHỜ",
+          "Running": "ĐANG CHẠY",
+          "Completed": "HOÀN THÀNH",
+          "Failed": "THẤT BẠI",
+          "Unknown": "KHÔNG XÁC ĐỊNH"
+        },
+        "Trigger": {
+          "Manual": "Thủ công",
+          "Scheduled": "Theo lịch"
+        },
+        "RunTitle": "Chạy #{0}",
+        "UpdatedBadge": "{0} đã cập nhật"
+      }
+    }
+  }
+}

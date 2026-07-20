@@ -1,0 +1,29 @@
+{
+  "Omnia": {
+    "WCM": {
+      "Layout": {
+        "Templates": {
+          "Registration": {
+            "StartPages": {
+              "Omnia": "Omnia startpagina"
+            },
+            "NewsCenters": {
+              "Omnia": "Omnia nieuwscampus"
+            },
+            "EventCenters": {
+              "Omnia": "Omnia evenementencentrum"
+            },
+            "Pages": {
+              "NewsPages": {
+                "Omnia": "Omnia nieuwsartikel"
+              },
+              "ContentPages": {
+                "Omnia": "Omnia webpagina"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

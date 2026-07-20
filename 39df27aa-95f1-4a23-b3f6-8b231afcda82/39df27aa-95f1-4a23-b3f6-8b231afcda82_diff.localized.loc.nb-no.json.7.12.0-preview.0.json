@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Brukersynkronisering",
+        "BladeTitle": "Kjøringslogger",
+        "BladeSubtitle": "Signeringsforespørsel synkronisering — planlagte og manuelle kjøringer",
+        "SearchPlaceholder": "Søk i kjøringslogger",
+        "NoLogsYet": "Ingen kjøringslogger ennå.",
+        "NoChanges": "Ingen endringer",
+        "SyncSuccessMessage": "Ingen medlemskapsendringer oppdaget. Alle signeringsforespørsler er oppdatert.",
+        "SectionReassigned": "Omtildelte signeringsforespørsler",
+        "MembershipChanged": "{0} sikkerhetsgruppe{1} endret medlemskap — {2} signeringsforespørsel{3} omtildelt.",
+        "QueuedForExecution": "Køet for utførelse",
+        "Processed": "{0} av {1} behandlet",
+        "RequestsUpdated": "{0} forespørsler oppdatert · {1} signatarer lagt til · {2} fjernet",
+        "Processing": "Behandler — {0} av {1} signeringsforespørsler evaluert",
+        "Evaluated": "EVALUERT",
+        "RequestsUpdatedLabel": "FORESPØRSLER OPPDATERT",
+        "SignersAddedLabel": "SIGNATARER LAGT TIL",
+        "SignersRemovedLabel": "SIGNATARER FJERNET",
+        "DurationLabel": "VARIGHET",
+        "ManualRunTitle": "Manuell kjøring",
+        "ManualRunConfirmTitle": "Kjør synkronisering manuelt",
+        "ManualRunConfirm": "Dette vil oppdatere signeringsforespørsler for å gjenspeile siste gruppemedlemskap. Vil du fortsette?",
+        "ManualRunDesc": "Oppdater signeringsforespørsler for å gjenspeile siste gruppemedlemskap.",
+        "ScheduleTitle": "Plan for brukersynkronisering",
+        "EnableDailySync": "Aktiver daglig brukersynkronisering",
+        "RunHour": "Kjøringstime",
+        "QuarterHour": "Kvarttime",
+        "NotifyAdmins": "Varsle disse administratorene",
+        "RunNow": "Kjør nå",
+        "PillReady": "Klar",
+        "PillRunning": "Kjører",
+        "PillScheduled": "Planlagt",
+        "Status": {
+          "Queued": "KØET",
+          "Running": "KJØRER",
+          "Completed": "FULLFØRT",
+          "Failed": "MISLYKTES",
+          "Unknown": "UKJENT"
+        },
+        "Trigger": {
+          "Manual": "Manuell",
+          "Scheduled": "Planlagt"
+        },
+        "RunTitle": "Kjøring #{0}",
+        "UpdatedBadge": "{0} oppdatert"
+      }
+    }
+  }
+}

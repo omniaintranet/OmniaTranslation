@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Benutzersynchronisation",
+        "BladeTitle": "Ausführungsprotokolle",
+        "BladeSubtitle": "Synchronisierung der Abzeichnerzuweisungen — geplante & manuelle Ausführungen",
+        "SearchPlaceholder": "Ausführungsprotokolle durchsuchen",
+        "NoLogsYet": "Noch keine Ausführungsprotokolle.",
+        "NoChanges": "Keine Änderungen",
+        "SyncSuccessMessage": "Keine Mitgliedschaftsänderungen festgestellt. Alle Abzeichnerzuweisungen sind aktuell.",
+        "SectionReassigned": "Neu zugewiesene Abzeichnungsanfragen",
+        "MembershipChanged": "{0} Sicherheitsgruppe{1} hat die Mitgliedschaft geändert — {2} Abzeichnungsanfrage{3} neu zugewiesen.",
+        "QueuedForExecution": "Zur Ausführung in Warteschlange",
+        "Processed": "{0} von {1} verarbeitet",
+        "RequestsUpdated": "{0} Anfragen aktualisiert · {1} Abzeichner hinzugefügt · {2} entfernt",
+        "Processing": "Verarbeitung — {0} von {1} Abzeichnungsanfragen ausgewertet",
+        "Evaluated": "AUSGEWERTET",
+        "RequestsUpdatedLabel": "ANFRAGEN AKTUALISIERT",
+        "SignersAddedLabel": "ABZEICHNER HINZUGEFÜGT",
+        "SignersRemovedLabel": "ABZEICHNER ENTFERNT",
+        "DurationLabel": "DAUER",
+        "ManualRunTitle": "Manuelle Ausführung",
+        "ManualRunConfirmTitle": "Synchronisation manuell ausführen",
+        "ManualRunConfirm": "Dies aktualisiert die Abzeichnerzuweisungen, um die neuesten Gruppenmitgliedschaften widerzuspiegeln. Möchten Sie fortfahren?",
+        "ManualRunDesc": "Aktualisieren Sie die Abzeichnungsanfragezuweisungen, um die neuesten Gruppenmitgliedschaften widerzuspiegeln.",
+        "ScheduleTitle": "Benutzersynchronisationsplan",
+        "EnableDailySync": "Tägliche Benutzersynchronisation aktivieren",
+        "RunHour": "Ausführungsstunde",
+        "QuarterHour": "Viertelstunde",
+        "NotifyAdmins": "Diese Administratoren benachrichtigen",
+        "RunNow": "Jetzt ausführen",
+        "PillReady": "Bereit",
+        "PillRunning": "Wird ausgeführt",
+        "PillScheduled": "Geplant",
+        "Status": {
+          "Queued": "IN WARTESCHLANGE",
+          "Running": "WIRD AUSGEFÜHRT",
+          "Completed": "ABGESCHLOSSEN",
+          "Failed": "FEHLGESCHLAGEN",
+          "Unknown": "UNBEKANNT"
+        },
+        "Trigger": {
+          "Manual": "Manuell",
+          "Scheduled": "Geplant"
+        },
+        "RunTitle": "Ausführung #{0}",
+        "UpdatedBadge": "{0} aktualisiert"
+      }
+    }
+  }
+}

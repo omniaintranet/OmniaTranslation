@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Användarsynk",
+        "BladeTitle": "Loggar",
+        "BladeSubtitle": "Synkronisering av signeringstilldelning — schemalagda och manuella körningar",
+        "SearchPlaceholder": "Sök i loggar",
+        "NoLogsYet": "Inga loggar än.",
+        "NoChanges": "Inga ändringar",
+        "SyncSuccessMessage": "Inga medlemskapsändringar upptäckta. Alla signeringstilldelningar är uppdaterade.",
+        "SectionReassigned": "Omfördelade signeringsförfrågningar",
+        "MembershipChanged": "{0} säkerhetsgrupp{1} ändrade medlemskap — {2} signeringsförfrågan{3} om omfördelad.",
+        "QueuedForExecution": "Köad",
+        "Processed": "{0} av {1} bearbetade",
+        "RequestsUpdated": "{0} förfrågningar uppdaterade · {1} signerare tillagda · {2} borttagna",
+        "Processing": "Bearbetar — {0} av {1} signeringsförfrågningar utvärderade",
+        "Evaluated": "UTVÄRDERADE",
+        "RequestsUpdatedLabel": "FÖRFRÅGNINGAR UPPDATERADE",
+        "SignersAddedLabel": "SIGNERARE TILLAGDA",
+        "SignersRemovedLabel": "SIGNERARE BORTTAGNA",
+        "DurationLabel": "VARAKTIGHET",
+        "ManualRunTitle": "Manuell körning",
+        "ManualRunConfirmTitle": "Kör synkronisering manuellt",
+        "ManualRunConfirm": "Detta kommer att uppdatera signeringstilldelningar för att spegla de senaste gruppmedlemskapen. Vill du fortsätta?",
+        "ManualRunDesc": "Uppdatera signeringsförfrågningars tilldelningar för att spegla de senaste gruppmedlemskapen.",
+        "ScheduleTitle": "Schema för användarsynk",
+        "EnableDailySync": "Aktivera daglig användarsynk",
+        "RunHour": "Körtimme",
+        "QuarterHour": "Kvart",
+        "NotifyAdmins": "Meddela dessa administratörer",
+        "RunNow": "Kör nu",
+        "PillReady": "Klar",
+        "PillRunning": "Kör",
+        "PillScheduled": "Schemalagd",
+        "Status": {
+          "Queued": "KÖAD",
+          "Running": "KÖR",
+          "Completed": "KLAR",
+          "Failed": "MISSLYCKADES",
+          "Unknown": "OKÄND"
+        },
+        "Trigger": {
+          "Manual": "Manuell",
+          "Scheduled": "Schemalagd"
+        },
+        "RunTitle": "Körning #{0}",
+        "UpdatedBadge": "{0} uppdaterad"
+      }
+    }
+  }
+}
