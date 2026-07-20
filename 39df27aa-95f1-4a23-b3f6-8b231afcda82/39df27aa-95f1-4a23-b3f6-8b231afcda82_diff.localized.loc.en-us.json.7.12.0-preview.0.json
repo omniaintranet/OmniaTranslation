@@ -21,7 +21,7 @@
         "SignersRemovedLabel": "SIGNERS REMOVED",
         "DurationLabel": "DURATION",
         "ManualRunTitle": "Manual run",
-        "ManualRunConfirmTitle": "Run Sync Manually",
+        "ManualRunConfirmTitle": "Run sync manually",
         "ManualRunConfirm": "This will update signer assignments to reflect the latest group memberships. Do you want to continue?",
         "ManualRunDesc": "Update sign-off request assignments to reflect the latest group memberships.",
         "ScheduleTitle": "User sync schedule",
