@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Synchronisation des utilisateurs",
+        "BladeTitle": "Journaux d'exécution",
+        "BladeSubtitle": "Synchronisation des affectations de signataires — exécutions planifiées et manuelles",
+        "SearchPlaceholder": "Rechercher dans les journaux d'exécution",
+        "NoLogsYet": "Aucun journal d'exécution pour le moment.",
+        "NoChanges": "Aucun changement",
+        "SyncSuccessMessage": "Aucun changement d'appartenance détecté. Toutes les affectations de signataires sont à jour.",
+        "SectionReassigned": "Demandes de validation réaffectées",
+        "MembershipChanged": "{0} groupe de sécurité{1} a modifié son appartenance — {2} demande de validation{3} réaffectée.",
+        "QueuedForExecution": "En attente d'exécution",
+        "Processed": "{0} sur {1} traités",
+        "RequestsUpdated": "{0} demandes mises à jour · {1} signataires ajoutés · {2} supprimés",
+        "Processing": "Traitement — {0} sur {1} demandes de validation évaluées",
+        "Evaluated": "ÉVALUÉ",
+        "RequestsUpdatedLabel": "DEMANDES MISES À JOUR",
+        "SignersAddedLabel": "SIGNATAIRES AJOUTÉS",
+        "SignersRemovedLabel": "SIGNATAIRES SUPPRIMÉS",
+        "DurationLabel": "DURÉE",
+        "ManualRunTitle": "Exécution manuelle",
+        "ManualRunConfirmTitle": "Exécuter la synchronisation manuellement",
+        "ManualRunConfirm": "Cela mettra à jour les affectations des signataires pour refléter les dernières appartenances aux groupes. Voulez-vous continuer ?",
+        "ManualRunDesc": "Mettre à jour les affectations des demandes de validation pour refléter les dernières appartenances aux groupes.",
+        "ScheduleTitle": "Planification de la synchronisation des utilisateurs",
+        "EnableDailySync": "Activer la synchronisation quotidienne des utilisateurs",
+        "RunHour": "Heure d'exécution",
+        "QuarterHour": "Quart d'heure",
+        "NotifyAdmins": "Notifier ces administrateurs",
+        "RunNow": "Exécuter maintenant",
+        "PillReady": "Prêt",
+        "PillRunning": "En cours",
+        "PillScheduled": "Planifié",
+        "Status": {
+          "Queued": "EN ATTENTE",
+          "Running": "EN COURS",
+          "Completed": "TERMINÉ",
+          "Failed": "ÉCHOUÉ",
+          "Unknown": "INCONNU"
+        },
+        "Trigger": {
+          "Manual": "Manuel",
+          "Scheduled": "Planifié"
+        },
+        "RunTitle": "Exécution n°{0}",
+        "UpdatedBadge": "{0} mis à jour"
+      }
+    }
+  }
+}
