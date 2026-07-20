@@ -1,0 +1,29 @@
+{
+  "Omnia": {
+    "WCM": {
+      "Layout": {
+        "Templates": {
+          "Registration": {
+            "StartPages": {
+              "Omnia": "Trang bắt đầu Omnia"
+            },
+            "NewsCenters": {
+              "Omnia": "Trung tâm tin tức Omnia"
+            },
+            "EventCenters": {
+              "Omnia": "Trung tâm sự kiện Omnia"
+            },
+            "Pages": {
+              "NewsPages": {
+                "Omnia": "Bài viết tin tức Omnia"
+              },
+              "ContentPages": {
+                "Omnia": "Trang web Omnia"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
