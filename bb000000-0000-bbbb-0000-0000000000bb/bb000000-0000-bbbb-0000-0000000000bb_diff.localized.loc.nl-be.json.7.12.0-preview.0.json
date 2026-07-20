@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "EventCenters": "Evenementencentra"
+          }
+        }
+      },
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Multi-geo zoeken",
+          "Category": "Systeem",
+          "Description": "Toon resultaten van alle geolocaties"
+        }
+      }
+    }
+  }
+}
