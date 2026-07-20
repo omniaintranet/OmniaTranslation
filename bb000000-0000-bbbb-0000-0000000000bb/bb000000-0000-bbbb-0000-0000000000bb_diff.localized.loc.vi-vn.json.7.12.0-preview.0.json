@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "EventCenters": "Trung tâm sự kiện"
+          }
+        }
+      },
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Tìm kiếm đa vị trí địa lý",
+          "Category": "Hệ thống",
+          "Description": "Hiển thị kết quả từ tất cả các vị trí địa lý"
+        }
+      }
+    }
+  }
+}
