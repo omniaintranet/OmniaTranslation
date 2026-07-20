@@ -1,0 +1,29 @@
+{
+  "Omnia": {
+    "WCM": {
+      "Layout": {
+        "Templates": {
+          "Registration": {
+            "StartPages": {
+              "Omnia": "Omnia 起始页"
+            },
+            "NewsCenters": {
+              "Omnia": "Omnia 新闻中心"
+            },
+            "EventCenters": {
+              "Omnia": "Omnia 活动中心"
+            },
+            "Pages": {
+              "NewsPages": {
+                "Omnia": "Omnia 新闻文章"
+              },
+              "ContentPages": {
+                "Omnia": "Omnia 网页"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
