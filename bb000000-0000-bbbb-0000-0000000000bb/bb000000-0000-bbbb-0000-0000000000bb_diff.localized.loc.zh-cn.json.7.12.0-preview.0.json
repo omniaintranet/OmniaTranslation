@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "EventCenters": "活动中心"
+          }
+        }
+      },
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "多地理位置搜索",
+          "Category": "系统",
+          "Description": "显示所有地理位置的结果"
+        }
+      }
+    }
+  }
+}
