@@ -4,13 +4,13 @@
       "Layout": {
         "Templates": {
           "Categories": {
-            "EventCenters": "Event Centers"
+            "EventCenters": "Event centers"
           }
         }
       },
       "Features": {
         "MultiGeoSearch": {
-          "Title": "Multi-Geo Search",
+          "Title": "Multi-geo search",
           "Category": "System",
           "Description": "Show results from all geolocations"
         }
