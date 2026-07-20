@@ -1,0 +1,52 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "UserSync": {
+        "MenuTitle": "Sincronización de usuarios",
+        "BladeTitle": "Registros de ejecución",
+        "BladeSubtitle": "Sincronización de asignación de firmantes — ejecuciones programadas y manuales",
+        "SearchPlaceholder": "Buscar registros de ejecución",
+        "NoLogsYet": "Aún no hay registros de ejecución.",
+        "NoChanges": "Sin cambios",
+        "SyncSuccessMessage": "No se detectaron cambios en la membresía. Todas las asignaciones de firmantes están actualizadas.",
+        "SectionReassigned": "Solicitudes de firma reasignadas",
+        "MembershipChanged": "Se cambió la membresía de {0} grupo de seguridad{1} — {2} solicitud de firma{3} reasignada.",
+        "QueuedForExecution": "En cola para ejecución",
+        "Processed": "{0} de {1} procesados",
+        "RequestsUpdated": "{0} solicitudes actualizadas · {1} firmantes añadidos · {2} eliminados",
+        "Processing": "Procesando — {0} de {1} solicitudes de firma evaluadas",
+        "Evaluated": "EVALUADO",
+        "RequestsUpdatedLabel": "SOLICITUDES ACTUALIZADAS",
+        "SignersAddedLabel": "FIRMANTES AÑADIDOS",
+        "SignersRemovedLabel": "FIRMANTES ELIMINADOS",
+        "DurationLabel": "DURACIÓN",
+        "ManualRunTitle": "Ejecución manual",
+        "ManualRunConfirmTitle": "Ejecutar sincronización manualmente",
+        "ManualRunConfirm": "Esto actualizará las asignaciones de firmantes para reflejar las membresías de grupo más recientes. ¿Desea continuar?",
+        "ManualRunDesc": "Actualizar las asignaciones de solicitudes de firma para reflejar las membresías de grupo más recientes.",
+        "ScheduleTitle": "Programación de sincronización de usuarios",
+        "EnableDailySync": "Habilitar sincronización diaria de usuarios",
+        "RunHour": "Hora de ejecución",
+        "QuarterHour": "Cuarto de hora",
+        "NotifyAdmins": "Notificar a estos administradores",
+        "RunNow": "Ejecutar ahora",
+        "PillReady": "Listo",
+        "PillRunning": "En ejecución",
+        "PillScheduled": "Programado",
+        "Status": {
+          "Queued": "EN COLA",
+          "Running": "EN EJECUCIÓN",
+          "Completed": "COMPLETADO",
+          "Failed": "FALLIDO",
+          "Unknown": "DESCONOCIDO"
+        },
+        "Trigger": {
+          "Manual": "Manual",
+          "Scheduled": "Programado"
+        },
+        "RunTitle": "Ejecución nº {0}",
+        "UpdatedBadge": "{0} actualizado"
+      }
+    }
+  }
+}
