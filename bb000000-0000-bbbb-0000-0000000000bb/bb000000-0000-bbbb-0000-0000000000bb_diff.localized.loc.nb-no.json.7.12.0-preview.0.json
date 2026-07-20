@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "EventCenters": "Arrangementssentre"
+          }
+        }
+      },
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Søk på flere geografiske steder",
+          "Category": "System",
+          "Description": "Vis resultater fra alle geografiske steder"
+        }
+      }
+    }
+  }
+}
