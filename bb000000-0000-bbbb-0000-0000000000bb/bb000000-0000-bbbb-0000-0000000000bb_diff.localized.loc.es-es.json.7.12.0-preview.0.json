@@ -1,0 +1,20 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Layout": {
+        "Templates": {
+          "Categories": {
+            "EventCenters": "Centros de eventos"
+          }
+        }
+      },
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Búsqueda multigeográfica",
+          "Category": "Sistema",
+          "Description": "Mostrar resultados de todas las ubicaciones geográficas"
+        }
+      }
+    }
+  }
+}
