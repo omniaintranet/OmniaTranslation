@@ -5,20 +5,20 @@
         "Templates": {
           "Registration": {
             "StartPages": {
-              "Omnia": "Omnia Start Page"
+              "Omnia": "Omnia start page"
             },
             "NewsCenters": {
-              "Omnia": "Omnia News Center"
+              "Omnia": "Omnia news center"
             },
             "EventCenters": {
-              "Omnia": "Omnia Event Center"
+              "Omnia": "Omnia event center"
             },
             "Pages": {
               "NewsPages": {
-                "Omnia": "Omnia News Article"
+                "Omnia": "Omnia news article"
               },
               "ContentPages": {
-                "Omnia": "Omnia Web Page"
+                "Omnia": "Omnia web page"
               }
             }
           }
