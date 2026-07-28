@@ -8,7 +8,7 @@
         "SelectRowsHint": "Valitse yksi tai useampi rivi muokattavaksi massana. Toimintopalkki ilmestyy tähän.",
         "NoDocumentsMatch": "Yksikään asiakirja ei vastaa tätä suodatinta",
         "NoDocumentsMatchSub": "Kokeile poistaa suodatin tai muuttaa suodatuskriteerejä.",
-        "SearchIndexingNotice": "Äskettäin päivitetyt asiakirjat eivät välttämättä näy heti — SharePointin hakemistointi voi kestää muutaman minuutin muutosten heijastumiseksi.",
+        "SearchIndexingNotice": "Äskettäin päivitetyt asiakirjat eivät välttämättä näy heti — SharePointin indeksointi voi kestää muutamia minuutteja.",
         "Field": "Kenttä",
         "From": "Alkaen",
         "To": "Päättyen",
@@ -57,7 +57,7 @@
         "CancelledBy": "Peruutettu henkilön toimesta"
       },
       "DocumentStatuses": {
-        "NotInPropertySetError": "Asiakirja ei ole ominaisuussarjassa."
+        "NotInPropertySetError": "Asiakirja ei ole ominaisuusjoukossa."
       }
     }
   }
