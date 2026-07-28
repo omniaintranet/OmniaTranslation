@@ -5,8 +5,8 @@
         "InheritFromTenant": "Arv fra tenant",
         "ImageScaling": "Billedskalering",
         "CropRatios": {
-          "BusinessProfileOverrideNotSupported": "Overskrivning af beskæringsforhold på forretningsprofilniveau understøttes ikke.",
-          "SelectTenantRatios": "Vælg hvilke tenant beskæringsforhold der skal bruges i denne forretningsprofil."
+          "BusinessProfileOverrideNotSupported": "Beskæringsforhold defineret på virksomhedsprofil-niveau kan ikke overskrives.",
+          "SelectTenantRatios": "Vælg hvilke beskæringsforhold, der skal bruges i denne virksomhedsprofil."
         },
         "ImageStyle": {
           "Title": "Billedstil",
@@ -17,14 +17,14 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "SemanticSearchFullReindex": {
-          "Title": "Semantisk søgning fuld reindeksering",
-          "Disclaimer": "Semantisk søgning vil være utilgængelig, mens reindeksering er i gang. Denne operation kan tage ret lang tid afhængigt af mængden af indhold.",
+          "Title": "Reindeksering af semantisk søgning",
+          "Disclaimer": "Semantisk søgning vil være utilgængelig, mens reindeksering er i gang. Denne operation kan tage lang tid afhængigt af mængden af indhold.",
           "StartButton": "Start fuld reindeksering",
           "Running": "Reindeksering i gang...",
           "ConfirmTitle": "Start fuld reindeksering",
-          "ConfirmMessage": "Er du sikker på, at du vil starte en fuld semantisk søgningsreindeksering?",
+          "ConfirmMessage": "Er du sikker på, at du vil starte en fuld reindeksering af den semantiske søgning?",
           "StatusLoadError": "Kunne ikke indlæse den aktuelle reindekseringsstatus.",
-          "StartError": "Kunne ikke starte den fulde reindeksering."
+          "StartError": "Kunne ikke starte reindeksering."
         }
       }
     },
@@ -40,15 +40,15 @@
     },
     "System": {
       "SPFxInstruction": {
-        "CreateAppCatalogScreenshotAlt": "Skærmbillede, der viser hvor man opretter et SharePoint app-katalog site.",
-        "UploadPackageScreenshotAlt": "Skærmbillede, der viser hvor man uploader SharePoint-pakken i Apps for SharePoint.",
-        "AvailableToAllSitesScreenshotAlt": "Skærmbillede, der viser muligheden for at gøre SharePoint-pakken tilgængelig for alle sites."
+        "CreateAppCatalogScreenshotAlt": "Skærmbillede, der viser, hvor man opretter et SharePoint appkatalog site.",
+        "UploadPackageScreenshotAlt": "Skærmbillede, der viser, hvor man uploader spfx-pakken.",
+        "AvailableToAllSitesScreenshotAlt": "Skærmbillede, der viser muligheden for at gøre spfx-pakken tilgængelig for alle SharePoint sites."
       }
     }
   },
   "OmniaWorkplace": {
     "EnterpriseGlossary": {
-      "InvalidTaxonomyTitle": "Term sæt ID mangler eller er ugyldigt for denne taksonomiordbog.",
+      "InvalidTaxonomyTitle": "Ordsættets ID mangler eller er ugyldigt.",
       "Default": "Standard",
       "RemoveDefaultUISettingsConfirmation": {
         "Title": "Fjern standard ikon og farve",
