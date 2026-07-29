@@ -52,11 +52,11 @@
       "Default": "Standard",
       "RemoveDefaultUISettingsConfirmation": {
         "Title": "Fjern standard ikon og farve",
-        "Message": "Er du sikker på, at du vil fjerne standard udseende og føl indstillinger?"
+        "Message": "Er du sikker på, at du vil fjerne standardindstillingerne for 'look and feel'?"
       }
     },
     "HeaderSettings": {
-      "SearchBoxStyle": "Søgefeltstil",
+      "SearchBoxStyle": "Søgefeltets stil",
       "SearchBoxStyleOptions": {
         "M365Style": "M365 stil",
         "WCAGCompliant": "WCAG-kompatibel"
@@ -67,10 +67,10 @@
         "NavigationBar": {
           "LeftPanelLayouts": "Venstre panel",
           "LeftPanelLayoutsSettings": "Venstre panel",
-          "CustomFontFamily": "Brugerdefineret skrifttypefamilie",
+          "CustomFontFamily": "Brugerdefineret skrifttype",
           "CenterMenu": "Centreret menu",
-          "CenterMenuWidth": "Centreret bredde (px)",
-          "ForceUppercase": "Tving store bogstaver",
+          "CenterMenuWidth": "Bredde (px)",
+          "ForceUppercase": "Store bogstaver",
           "ShowIcons": "Vis ikoner",
           "HideText": "Skjul tekst"
         }
@@ -83,13 +83,13 @@
         "BorderRadius": "Kantens radius",
         "Elevation": "Højde",
         "ShowStatusText": "Vis statustekst",
-        "ShowTypeIcon": "Vis typeikon",
+        "ShowTypeIcon": "Vis ikon for meddelsestypen",
         "ShowDate": "Vis dato",
         "DateType": "Datotype",
         "Social": "Social",
         "Classic": "Klassisk",
         "DateFormat": "Datoformat",
-        "NoResultText": "Ingen resultattekst",
+        "NoResultText": "Tekst ved ingen resultater",
         "ModernAnnoucement": "Moderne meddelelse"
       },
       "CommentCount": "{0} kommentarer"
@@ -105,8 +105,8 @@
           "Title": "Copilot chat"
         },
         "AnalyticsForSpfx": {
-          "Title": "Analytics for SPFx",
-          "Description": "Aktiverer automatiseret brugeraktivitetssporing på SharePoint-sider via Matomo.",
+          "Title": "Statistik for SPFx",
+          "Description": "Aktiverer automatiseret sporing af brugeraktivitet på SharePoint-sider via Matomo.",
           "Category": "System"
         }
       },
@@ -140,7 +140,7 @@
         "Document": "Dokument",
         "FindMicrosoft365Apps": "Find Microsoft 365 apps",
         "Presentation": "Præsentation",
-        "SearchBoxAriaLabel": "Søgefelt. Forslag vises mens du skriver.",
+        "SearchBoxAriaLabel": "Søgefelt. Forslag vises, mens du skriver.",
         "SearchMicrosoft365Apps": "Søg i alle dine Microsoft 365 apps",
         "SearchResults": "Søgeresultater",
         "Survey": "Undersøgelse",
@@ -151,20 +151,20 @@
         "ShowLessLinks": "Vis færre links"
       },
       "ComponentSettingsForm": {
-        "TruncateText": "Forkort label",
+        "TruncateText": "Forkort linktekst",
         "IncludePersonalLinks": "Inkluder personlige links",
-        "IncludeFollowingLinks": "Inkluder fulgte links",
+        "IncludeFollowingLinks": "Inkluder links, brugeren følger",
         "ShowManageLinks": "Vis ikon til linkadministration",
         "ShowMoreButton": "Vis mere knap",
         "ShowMoreAriaLabel": "Vis mere knap aria label",
         "ShowLessAriaLabel": "Vis mindre knap aria label",
-        "HideShowMoreButton": "Skjul Vis mere knap",
+        "HideShowMoreButton": "Skjul 'Vis mere' knap",
         "HideLinkTitle": "Skjul linktitel",
         "SquareDesign": "Firkantet design",
         "FontSize": "Skriftstørrelse",
         "IconSize": "Ikonstørrelse",
-        "IconMargin": "Ikonmargin",
-        "IconPadding": "Ikonpolstring"
+        "IconMargin": "Ydre margen",
+        "IconPadding": "Indre margen"
       }
     },
     "NotificationPanel": {
@@ -181,10 +181,10 @@
       "Admin": {
         "SearchTemplatesOrderInfo": "Søgeskabeloner anvendes i den angivne rækkefølge. Hvis et resultat matcher flere skabeloner, bruges det første match.",
         "LongDescription": "Lang beskrivelse",
-        "SearchFeedbackPosition": "Position for søgefeedback",
+        "SearchFeedbackPosition": "Placering af søgefeedback",
         "UserProperties": "Brugeregenskaber",
         "FilterValueTypes": {
-          "FilterValueType": "Filterværdi type",
+          "FilterValueType": "Værditype",
           "FixedValue": "Fast værdi",
           "CurrentUser": "Aktuel bruger"
         }
@@ -210,28 +210,28 @@
           "Title": "Titel",
           "Description": "Beskrivelse",
           "Date": "Dato",
-          "FallbackDate": "Backup dato",
+          "FallbackDate": "Backupdato",
           "User": "Bruger",
-          "FallbackUser": "Backup bruger",
+          "FallbackUser": "Backupbruger",
           "URL": "URL",
           "ParentURL": "Overordnet URL"
         },
         "SpListItemSearchTemplate": {
-          "Title": "SharePoint listeelement søgeskabelon"
+          "Title": "SharePoint listeelementer"
         },
         "PersonSearchTemplate": {
-          "Title": "Person søgeskabelon"
+          "Title": "Personer"
         }
       }
     },
     "Tutorial": {
       "Accessibility": {
         "DialogLabel": "Vejledningsdialog",
-        "RegionLabel": "Vejledningsdialog. Brug tastaturnavigation til at bevæge dig mellem vejledningsskridtene.",
-        "PreviousStep": "Forrige vejledningsskridt",
-        "NextStep": "Næste vejledningsskridt",
-        "StepPickerLabel": "Vejledningsskridt",
-        "StepButtonLabel": "Vis vejledningsskridt {0} af {1}"
+        "RegionLabel": "Vejledningsdialog. Brug tastaturnavigation til at bevæge dig mellem vejledningens trin.",
+        "PreviousStep": "Forrige trin",
+        "NextStep": "Næste trin",
+        "StepPickerLabel": "Trin",
+        "StepButtonLabel": "Vis trin {0} af {1}"
       }
     }
   },
@@ -239,13 +239,13 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "SharePoint side tilknytning",
-          "Summary": "List SharePoint sider."
+          "Title": "SharePoint sider",
+          "Summary": "Viser en liste med SharePoint sider."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "SharePoint side tilknytning",
+      "SharePointPageControlTitle": "SharePoint sider",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
@@ -253,11 +253,11 @@
         "FilterByExpirationTime": "Filtrer efter udløbstid",
         "QueryConfigurationTypes": {
           "PickPages": "Vælg sider",
-          "UseQueryBuilder": "Brug forespørgselsbygger"
+          "UseQueryBuilder": "Brug forespørgsel"
         },
         "QueryScope": {
           "AllPages": "Alle sider",
-          "SharePointLibrary": "SharePoint bibliotek"
+          "SharePointLibrary": "SharePointbibliotek"
         },
         "SiteUrl": "Site URL",
         "Operators": {
@@ -270,28 +270,28 @@
         "QueryValueOptions": {
           "Manual": "Manuel",
           "QueryParameter": "Forespørgselsparameter",
-          "UserLanguage": "Brugersprog",
-          "UserEmail": "Bruger Email",
+          "UserLanguage": "Brugerns sprog",
+          "UserEmail": "Brugerens email",
           "Today": "I dag"
         },
-        "AddQueryFilter": "Tilføj forespørgselsfilter",
+        "AddQueryFilter": "Tilføj filter",
         "Summary": "Resumé",
         "Image": "Billede",
         "Date": "Dato",
         "Person": "Person",
         "Description": "Beskrivelse",
-        "TermProperties": "Term egenskaber",
+        "TermProperties": "Egenskaber (ordsæt)",
         "CardsPerRow": "Kort pr. række",
         "ShowLikesComments": "Vis likes/kommentarer",
-        "ShowLastActivity": "Vis sidste aktivitet",
+        "ShowLastActivity": "Vis seneste aktivitet",
         "ShowRating": "Vis vurdering",
         "OpenInNewTab": "Åbn i ny fane",
         "AddColumn": "Tilføj kolonne",
-        "FixedHeader": "Fast header",
-        "NoColumnSelected": "Ingen kolonner valgt. Konfigurer venligst kolonner i indstillingerne.",
+        "FixedHeader": "Fast titelstørrelse",
+        "NoColumnSelected": "Ingen kolonner valgt.",
         "Width": "Bredde",
-        "ShowLabel": "Vis label",
-        "CustomLabel": "Brugerdefineret label",
+        "ShowLabel": "Vis etiket",
+        "CustomLabel": "Tilpasset etiket",
         "InvalidUrl": "URL'en skal være en sideliste.",
         "DeleteSpPageConfirmation": {
           "Title": "Fjern side",
