@@ -210,9 +210,9 @@
           "Title": "Titel",
           "Description": "Beskrivelse",
           "Date": "Dato",
-          "FallbackDate": "Backupdato",
+          "FallbackDate": "Fallback-dato",
           "User": "Bruger",
-          "FallbackUser": "Backupbruger",
+          "FallbackUser": "Fallback-bruger",
           "URL": "URL",
           "ParentURL": "Overordnet URL"
         },
