@@ -257,7 +257,7 @@
         },
         "QueryScope": {
           "AllPages": "Alle sider",
-          "SharePointLibrary": "SharePointbibliotek"
+          "SharePointLibrary": "SharePoint-bibliotek"
         },
         "SiteUrl": "Site URL",
         "Operators": {
@@ -306,7 +306,7 @@
         }
       },
       "ViewTitle": {
-        "CustomView": "Brugerdefineret visning",
+        "CustomView": "Tilpasset visning",
         "CardView": "Kortvisning"
       }
     }
