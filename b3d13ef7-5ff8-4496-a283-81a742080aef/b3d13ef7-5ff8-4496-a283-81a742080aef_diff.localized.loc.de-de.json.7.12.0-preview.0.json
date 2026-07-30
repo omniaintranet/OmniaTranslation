@@ -39,7 +39,7 @@
       }
     },
     "DocumentLibraryDisplay": {
-      "BlockTitle": "Dokumentenbibliotheksanzeige",
+      "BlockTitle": "Dokumentenbibliothek",
       "BlockDescription": "Zeigt eine ausgewählte SharePoint-Dokumentenbibliotheksansicht mit Ordnern, Filtern und Export an.",
       "Common": {
         "ConfigurePrompt": "Konfigurieren Sie die Site-URL, Bibliothek und entweder eine Ansicht oder ausgewählte Felder in den Einstellungen.",
