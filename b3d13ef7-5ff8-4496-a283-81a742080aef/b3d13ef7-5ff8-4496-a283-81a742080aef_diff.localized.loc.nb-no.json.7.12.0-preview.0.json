@@ -40,8 +40,8 @@
       }
     },
     "DocumentLibraryDisplay": {
-      "BlockTitle": "Visning av dokumentbibliotek",
-      "BlockDescription": "Vis et valgt SharePoint dokumentbibliotek med mapper, filtre og eksport.",
+      "BlockTitle": "Dokumentbibliotek",
+      "BlockDescription": "Vis et SharePoint dokumentbibliotek med mapper, filtre og eksport.",
       "Common": {
         "ConfigurePrompt": "Konfigurer nettsteds-URL, bibliotek og enten en visning eller valgte felt i innstillingene.",
         "NoDataToShow": "Ingen data å vise.",
