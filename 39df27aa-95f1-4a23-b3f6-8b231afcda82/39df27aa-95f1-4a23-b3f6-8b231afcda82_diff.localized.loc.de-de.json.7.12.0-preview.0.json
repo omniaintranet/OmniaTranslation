@@ -160,11 +160,11 @@
         "ShowLessAriaLabel": "Aria-Label für Weniger-Button",
         "HideShowMoreButton": "Mehr-Button ausblenden",
         "HideLinkTitle": "Linktitel ausblenden",
-        "SquareDesign": "Quadratisches Design",
+        "SquareDesign": "Eckige Form",
         "FontSize": "Schriftgröße",
         "IconSize": "Symbolgröße",
-        "IconMargin": "Symbolabstand",
-        "IconPadding": "Symbolpolster"
+        "IconMargin": "Icon Außenabstand",
+        "IconPadding": "Icon Innenabstand"
       }
     },
     "NotificationPanel": {
@@ -239,13 +239,13 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "SharePoint-Seitenübersicht",
+          "Title": "SharePoint-Seitenrollup",
           "Summary": "SharePoint-Seiten auflisten."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "SharePoint-Seitenübersicht",
+      "SharePointPageControlTitle": "SharePoint-Seitenrollup",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
@@ -306,7 +306,7 @@
         }
       },
       "ViewTitle": {
-        "CustomView": "Benutzerdefinierte Ansicht",
+        "CustomView": "Benutzerdefinierte Bezeichnung",
         "CardView": "Kartenansicht"
       }
     }
