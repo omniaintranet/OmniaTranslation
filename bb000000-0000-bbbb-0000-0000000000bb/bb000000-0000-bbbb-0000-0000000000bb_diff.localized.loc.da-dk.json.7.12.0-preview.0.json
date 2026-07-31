@@ -3,11 +3,11 @@
     "Ux": {
       "CustomFont": {
         "BladeTitle": "Skrifttype",
-        "Previewing": "Forhåndsvisning...",
+        "Previewing": "Preview...",
         "InheritFromTenant": "Arv fra tenant",
         "EnableCustomFont": "Aktivér brugerdefineret skrifttype",
-        "FontFamilyName": "Skrifttypefamilie navn",
-        "FontSource": "Skrifttype kilde",
+        "FontFamilyName": "Skrifttypenavn",
+        "FontSource": "Skrifttype-kilde",
         "FileUpload": "Filupload",
         "CdnFileLink": "CDN fil link",
         "ChooseFontFile": "Vælg skrifttypefil",
@@ -22,27 +22,27 @@
         "AdditionalFontsHelp": "Yderligere skrifttyper indlæses på siden, men anvendes ikke automatisk.",
         "ApplyTo": "Anvend på",
         "ScopeOmniaAdmin": "Omnia admin - vil blive anvendt på Omnia admin",
-        "ScopeEditorTools": "Editor værktøjer - Vil blive anvendt på WCM editor, alle blokindstillinger",
+        "ScopeEditorTools": "Editor værktøjer - Vil blive anvendt på WCM editor og alle blokindstillinger",
         "ScopeReadMode": "Læsningstilstand - Vil blive anvendt i alle læsetilstande",
-        "PreviewTitle": "Forhåndsvisning",
+        "PreviewTitle": "Preview",
         "DisplayText": "Vis tekst",
         "HeadlineText": "Overskriftstekst",
         "TitleText": "Titeltekst",
-        "BodyText": "Brødtekst viser, hvordan almindeligt afsnitsindhold arver den konfigurerede skrifttype.",
+        "BodyText": "Brødtekst viser, hvordan almindeligt indhold arver den konfigurerede skrifttype.",
         "SmallAction": "Lille handling",
         "DefaultAction": "Standard handling",
         "LargeAction": "Stor handling",
         "FontFileTooLarge": "Skrifttypefilen er for stor. Maksimal tilladt størrelse er 10 MB.",
-        "UnsupportedFontFileType": "Ikke-understøttet skrifttypefiltype. Understøttede typer er .woff, .woff2, .ttf og .otf.",
-        "FontFamilyRequired": "Indtast et navn på skrifttypefamilie.",
+        "UnsupportedFontFileType": "Ikke-understøttet filtype. Understøttede typer er .woff, .woff2, .ttf og .otf.",
+        "FontFamilyRequired": "Indtast et navn på skrifttype.",
         "ValidFontFileRequired": "Vælg en gyldig skrifttypefil.",
         "ValidCdnUrlRequired": "Indtast en gyldig offentlig CDN skrifttypefil-URL, der ender på .woff, .woff2, .ttf eller .otf.",
         "ValidFontSourceRequired": "Vælg en gyldig skrifttypekilde til forhåndsvisning.",
         "UnexpectedError": "Der opstod en uventet fejl."
       },
       "DatetimePicker": {
-        "SetAM": "Indstil AM",
-        "SetPM": "Indstil PM",
+        "SetAM": "AM",
+        "SetPM": "PM",
         "PreviousMonth": "Forrige måned",
         "NextMonth": "Næste måned",
         "ClickToSelectMonth": "Klik for at vælge måned.",
@@ -54,8 +54,8 @@
         "CurrentYearIs": "Nuværende år er",
         "SelectedMonthPrefix": "Valgt måned",
         "YearLabel": "År",
-        "PreviousYears": "Forrige år",
-        "NextYears": "Næste år",
+        "PreviousYears": "Forrige årrække",
+        "NextYears": "Næste årrække",
         "SelectedYearPrefix": "Valgt år",
         "IncreaseHour": "Forøg time",
         "DecreaseHour": "Formindsk time",
@@ -104,27 +104,27 @@
         "Synchronization": {
           "Provider": {
             "AzureAd": {
-              "SyncUserFilterSetupTitle": "Brugersynkroniseringsfiltre"
+              "SyncUserFilterSetupTitle": "Filtre til brugersynkronisering"
             }
           },
           "Settings": {
-            "UserSynchronizationFilterBladeTitle": "Brugersynkroniseringsfilter",
+            "UserSynchronizationFilterBladeTitle": "Filter til brugersynkronisering",
             "UserSynchronizationFilterDescription": "Konfigurer filter til at inkludere eller udelukke brugere fra synkronisering",
             "UserSynchronizationFilterNotConfigured": "Intet brugersynkroniseringsfilter er konfigureret.",
             "UserSynchronizationFilterConfigured": "Konfigureret med {0} filtre",
             "Configure": "Konfigurer",
             "RuleAction": "Regelhandling",
             "IncludeInSync": "Inkluder i synkronisering",
-            "IncludeInSyncDescription": "Brugere, der matcher nedenstående filtre, tilføjes til kataloget.",
+            "IncludeInSyncDescription": "Brugere, der matcher nedenstående filtre, inkluderes i synkroniseringen.",
             "ExcludeFromSync": "Udeluk fra synkronisering",
             "ExcludeFromSyncDescription": "Brugere, der matcher nedenstående filtre, springes over under synkronisering.",
             "MatchUsersWhere": "Match brugere hvor",
-            "MatchUsersWhereDescription": "Alle filtre skal matche (logisk OG). Inden for et filter kan enhver værdi matche (logisk ELLER).",
+            "MatchUsersWhereDescription": "Alle filtre skal matche (logik OG). Inden for et filter kan enhver værdi matche (logik ELLER).",
             "NoUserSynchronizationFilters": "Ingen filtre endnu - uden filtre matcher denne regel alle brugere.",
             "And": "OG",
             "Where": "Hvor",
             "EnterValueWithWildcard": "Indtast værdi. * som jokertegn.",
-            "ExcludeWithoutFiltersNotAllowed": "Udeluk fra synkronisering uden filtre er ikke tilladt.",
+            "ExcludeWithoutFiltersNotAllowed": "Det er ikke muligt at udelukke fra synkronisering uden filtre.",
             "IncompleteFilterNotAllowed": "Et filter skal have en valgt egenskab og mindst én værdi."
           }
         }
@@ -144,8 +144,8 @@
       },
       "Properties": {
         "Settings": {
-          "ShowLabelIconWithValue": "Vis etiketikon med værdi",
-          "ShowLoginName": "Vis login-navn"
+          "ShowLabelIconWithValue": "Vis ikon og værdi på én linje",
+          "ShowLoginName": "Vis brugerens login-navn"
         }
       },
       "Features": {
@@ -155,18 +155,18 @@
         },
         "NextGenUI": {
           "Category": "System",
-          "Title": "Next gen UI",
-          "Description": "Aktivér denne funktion for at anvende det nye UI."
+          "Title": "Next gen Omnia UI",
+          "Description": "Aktivér denne funktion for at anvende det nye Omnia UI."
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
-          "Title": "Workspace hjem ny oplevelse",
-          "Description": "Aktivér ny oplevelse på workspace hjem"
+          "Title": "Startside, ny UI",
+          "Description": "Aktivér ny oplevelse for konfiguration af startsiden i Omnia admin under 'Arbejdsområde'"
         },
         "AppInstanceNextGenUI": {
           "Category": "System",
-          "Title": "App instans ny oplevelse",
-          "Description": "Aktivér ny oplevelse på app instans"
+          "Title": "App instans, ny UI",
+          "Description": "Aktivér ny oplevelse for publicerings-apps"
         }
       },
       "FilterEngine": {
