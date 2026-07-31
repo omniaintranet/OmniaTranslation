@@ -25,7 +25,7 @@
       "DialogContentProperty": "Indholdsegenskab",
       "DialogImageProperty": "Billedeegenskab",
       "DialogDateProperty": "Datoegenskab",
-      "DialogPropertyMappings": "Dialog egenskabstilknytninger",
+      "DialogPropertyMappings": "Dialog egenskaber",
       "OverrideDefaultSettings": "Overskriv standardindstillinger",
       "EnableRichText": "Aktivér rich text",
       "EnableViewButtonOnDialog": "Aktivér visningsknap i dialog",
@@ -35,13 +35,13 @@
       "Settings": {
         "SharepointPageQueryLabel": "SharePoint sideforespørgsel",
         "SharepointPageQuery": "Basisforespørgsel",
-        "SharepointPageRollupQuery": "SharePoint side rollup basisforespørgsel"
+        "SharepointPageRollupQuery": "Basisforespørgsel for oprulning af SharePoint sider"
       },
       "SemanticSearch": {
         "Title": "Semantisk søgning",
         "ReindexContent": "Genindekser indhold",
         "ReindexContentConfirmationTitle": "Kør fuld indeksering af indhold",
-        "ReindexContentConfirmationDescription": "Er du sikker på, at du vil køre en fuld indeksering af indhold på tenant?",
+        "ReindexContentConfirmationDescription": "Er du sikker på, at du vil køre en fuld indeksering af indhold på tenantniveau?",
         "ReindexContentMessage": "Genindekserer {0} sider (Succes: {1}, Fejl: {2})",
         "Running": "Kører",
         "ResumeFromLastSync": "Genoptag fra sidste synkronisering",
@@ -55,8 +55,8 @@
       },
       "DefaultRendering": {
         "Title": "Standard gengivelse",
-        "Description": "Definerer en standard gengivelsesapp-instans, der bruges som fallback, når det aktuelle site ikke har fuld sideoplevelse aktiveret.",
-        "SelectLabel": "Vælg standard gengivelsesapp-instans",
+        "Description": "Definerer den app der skal bruges som fallback, når det aktuelle site ikke har fuld sideoplevelse aktiveret.",
+        "SelectLabel": "Vælg standard gengivelsesapp",
         "DialogSettingsTitle": "Standard dialogkonfiguration",
         "EnableRichText": "Aktivér rich text",
         "EnableViewButtonOnDialog": "Aktivér visningsknap i dialog",
@@ -74,7 +74,7 @@
       },
       "Editor": {
         "OnThisPage": "Sektioner",
-        "LivePreview": "Live forhåndsvisning",
+        "LivePreview": "Live preview",
         "Menu": {
           "Style": "Stil"
         }
@@ -105,43 +105,43 @@
     },
     "Breadcrumb": {
       "Settings": {
-        "StylePreset": "Stil forudindstilling",
+        "StylePreset": "Stil",
         "Query": "Forespørgsel",
         "CurrentNodeIndicator": "Indikator for aktuel node",
-        "Separator": "Separator",
-        "FontSizeSpacing": "Skriftstørrelse & afstand",
+        "Separator": "Skilletegn",
+        "FontSizeSpacing": "Skriftstørrelse og afstand",
         "FontSize": "Skriftstørrelse",
         "Density": "Tæthed",
         "Compact": "Kompakt",
-        "Comfortable": "Behagelig",
+        "Comfortable": "Mellem",
         "Spacious": "Rummelig",
         "HoverState": "Hover-tilstand",
         "IndicatorColor": "Indikatorfarve",
-        "SeparatorColor": "Separatorfarve",
+        "SeparatorColor": "Skilletegnsfarve",
         "HoverColor": "Hover-farve",
-        "LivePreview": "Live forhåndsvisning",
-        "OmniaClassic": "Omnia klassisk",
-        "OmniaClassicDescription": "Nuværende Omnia breadcrumb styling",
-        "MinimalSlash": "Minimal skråstreg",
-        "MinimalSlashDescription": "Skråstregsseparator - farvet hover",
-        "PillCurrent": "Pille aktuel",
-        "PillCurrentDescription": "Farvet pille på aktuel - farvet hover",
-        "BoldUnderline": "Fed aktuel",
+        "LivePreview": "Preview",
+        "OmniaClassic": "Klassisk",
+        "OmniaClassicDescription": "Klassisk stil",
+        "MinimalSlash": "Skråstreg",
+        "MinimalSlashDescription": "Skråstreg som adskiller - farvet hover",
+        "PillCurrent": "Pill",
+        "PillCurrentDescription": "Farvet pill på aktuel node - farvet hover",
+        "BoldUnderline": "Fed",
         "BoldUnderlineDescription": "Fed aktuel node - understregning ved hover",
-        "ArrowTrail": "Pil spor",
-        "ArrowTrailDescription": "Pil separator - farvet aktuel",
-        "DotDivider": "Punkt separator",
-        "DotDividerDescription": "Punkt separator - farvet hover",
+        "ArrowTrail": "Pil",
+        "ArrowTrailDescription": "Pil som adskiller - farvet aktuel node",
+        "DotDivider": "Prik",
+        "DotDividerDescription": "Prik som adskiller - farvet hover",
         "Custom": "Brugerdefineret",
         "Plain": "Simpel",
         "Bold": "Fed",
         "Color": "Farve",
-        "Pill": "Pille",
+        "Pill": "Pill",
         "Chevron": "Chevron",
         "Slash": "Skråstreg",
         "Arrow": "Pil",
-        "Dot": "Punkt",
-        "Pipe": "Rør",
+        "Dot": "Prik",
+        "Pipe": "Lodret streg",
         "Guillemet": "Vinkel",
         "None": "Ingen",
         "Underline": "Understregning",
@@ -150,18 +150,18 @@
     },
     "ContentFlow": {
       "Block": {
-        "BlockTitle": "Content flow",
+        "BlockTitle": "Indholdsflow",
         "BlockSummary": "Opret struktureret sideindhold med tekst, media og citater.",
-        "Placeholder": "Content Flow gengivelse vil være tilgængelig, når bloklagring er implementeret.",
+        "Placeholder": "Visning af indholdsflowet vil være tilgængelig, når bloklagring er implementeret.",
         "Media": {
-          "AddImage": "Tilføj media",
-          "EditImage": "Rediger media",
-          "RemoveImage": "Fjern media",
-          "ReplaceImage": "Udskift media",
-          "PlaceholderTitle": "Tilføj media",
-          "PlaceholderDescription": "Vælg et billede eller video fra mediebiblioteket til denne Content flow media blok.",
+          "AddImage": "Tilføj medie",
+          "EditImage": "Rediger medie",
+          "RemoveImage": "Fjern medie",
+          "ReplaceImage": "Udskift medie",
+          "PlaceholderTitle": "Tilføj medie",
+          "PlaceholderDescription": "Vælg et billede eller video fra mediebiblioteket til denne blok.",
           "Width": {
-            "Label": "Media bredde",
+            "Label": "Mediebredde",
             "Content": "Indhold",
             "Wide": "Bred",
             "Full": "Fuld",
@@ -177,7 +177,7 @@
         "Person": {
           "PickerLabel": "Person",
           "EmptyName": "Vælg en person",
-          "TextPlaceholder": "Skriv en kort profil, citat eller spotlight tekst..."
+          "TextPlaceholder": "Skriv en kort profiltekst, citat eller spotlight tekst..."
         },
         "Spacing": {
           "Label": "Afstand"
@@ -191,11 +191,11 @@
           "Delete": "Slet",
           "DragToReorder": "Træk for at omarrangere",
           "Duplicate": "Dupliker",
-          "InheritedContent": "Denne blok genbruger tilknyttet content flow indhold.",
+          "InheritedContent": "Denne blok genbruger tilknyttet indhold fra indholdsflowet.",
           "InsertTemplate": "Indsæt skabelon",
           "MoveDown": "Flyt ned",
           "MoveUp": "Flyt op",
-          "PickTemplateToStart": "Vælg en skabelon for at starte komposition.",
+          "PickTemplateToStart": "Vælg en skabelon for at starte opbygning.",
           "Ratio": "Forhold",
           "SearchTemplates": "Søg efter en skabelon...",
           "SearchTemplatesShort": "Søg skabeloner...",
@@ -219,23 +219,23 @@
           },
           "Media": {
             "Title": "Media",
-            "Description": "En enkelt media blok."
+            "Description": "En enkelt medieblok."
           },
           "MediaText": {
-            "Title": "Media + Tekst",
+            "Title": "Medie og tekst",
             "Description": "Media til venstre, tekst til højre."
           },
           "MediaGallery": {
-            "Title": "Media galleri",
-            "Description": "To rækker med tre media blokke."
+            "Title": "Mediegalleri",
+            "Description": "To rækker med tre medieblokke."
           },
           "TextMedia": {
-            "Title": "Tekst + Media",
+            "Title": "Tekst og media",
             "Description": "Tekst til venstre, media til højre."
           },
           "Person": {
             "Title": "Person",
-            "Description": "Fremhæv en person med avatar, navn og tilstødende tekst."
+            "Description": "Fremhæv en person med avatar, navn og tekst."
           },
           "Quote": {
             "Title": "Citat",
@@ -243,23 +243,23 @@
           },
           "Spacing": {
             "Title": "Afstand",
-            "Description": "Tilføj justerbar lodret plads mellem blokke."
+            "Description": "Tilføj lodret og justerbar plads mellem blokke."
           },
           "Divider": {
             "Title": "Separator",
-            "Description": "Tilføj en simpel horisontal separatorlinje."
+            "Description": "Tilføj en simpel horisontal separator."
           }
         },
         "Ai": {
           "AddWithAi": "Opret med AI",
           "AddWithAiPlaceholder": "Beskriv indholdet, så tilføjer jeg det for dig",
-          "ApplyPreview": "Anvend forhåndsvisning",
+          "ApplyPreview": "Anvend preview",
           "Cancel": "Annuller",
           "CurrentRowScope": "Aktuel række",
           "DialogTitle": "AI assistent",
           "DocumentScope": "Hele dokumentet",
-          "EmptyPromptError": "Indtast en instruktion før generering af forhåndsvisning.",
-          "GeneratePreview": "Generer forhåndsvisning",
+          "EmptyPromptError": "Indtast en instruktion før generering af preview.",
+          "GeneratePreview": "Generer preview",
           "GeneratePage": "Generer side",
           "GenerationBlockComplete": "Blokken er klar.",
           "GenerationBlockSelecting": "Vælger blok",
@@ -268,18 +268,18 @@
           "GenerationComplete": "Siden er klar.",
           "GenerationOutline": "Opretter sideoversigt ud fra din instruktion.",
           "GenerationRowGenerated": "Skriver række {current} af {total}.",
-          "GenerationRowsInserted": "Indsat {total} pladsholderrækker og begyndt at udfylde dem.",
+          "GenerationRowsInserted": "Indsat {total} rækker og begyndt at udfylde dem.",
           "GenerationStepComplete": "Klar",
           "GenerationStepContent": "Skriv indhold",
           "GenerationStepOutline": "Oversigt",
           "GenerationStepRows": "Placer rækker",
           "GenerationTitle": "Genererer side",
           "GenerateBlock": "Generer blok",
-          "InvalidCurrentRowResponse": "Forhåndsvisningen for en aktuel række skal indeholde præcis én række.",
-          "InvalidPreviewError": "Generer en gyldig forhåndsvisning før anvendelse af ændringer.",
+          "InvalidCurrentRowResponse": "Preview for en aktuel række skal indeholde præcis én række.",
+          "InvalidPreviewError": "Generer et gyldig preview før anvendelse af ændringer.",
           "Open": "AI assistent",
-          "PreviewJson": "Forhåndsvis JSON",
-          "PreviewReady": "Forhåndsvisning genereret. Gennemgå JSON før anvendelse.",
+          "PreviewJson": "Preview JSON",
+          "PreviewReady": "Preview genereret. Gennemgå JSON før anvendelse.",
           "PromptLabel": "Instruktion",
           "PromptPlaceholder": "Beskriv hvad AI skal skabe eller forbedre...",
           "RawResponse": "Rå AI svar",
@@ -290,22 +290,22 @@
           "ValidationIssues": "Valideringsproblemer"
         },
         "Settings": {
-          "Title": "Content flow indstillinger",
-          "Placeholder": "Content flow indstillinger vil være tilgængelige, når bloklagring er implementeret.",
+          "Title": "Indstillinger for indholdsflow",
+          "Placeholder": "Indstillinger for indholdsflow vil være tilgængelige, når bloklagring er implementeret.",
           "Categories": {
             "General": "Generelt",
             "Layout": "Layout",
-            "Media": "Media",
+            "Media": "Medie",
             "Divider": "Separator",
             "Editor": "Editor",
             "AiAssistance": "AI assistance"
           },
           "RowSpacing": "Rækkeafstand",
-          "RowSpacingHint": "Indstiller den lodrette afstand mellem content flow rækker.",
+          "RowSpacingHint": "Indstiller den lodrette afstand mellem rækkerne.",
           "ColumnSpacing": "Kolonneafstand",
-          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer i content flow rækker.",
-          "MediaBorderRadius": "Media kantens radius",
-          "MediaBorderRadiusHint": "Indstiller kantens radius for alle media indholdsblokke i editoren.",
+          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer.",
+          "MediaBorderRadius": "Mediekantens radius",
+          "MediaBorderRadiusHint": "Indstiller kantens radius for alle medieblokke i editoren.",
           "DividerStyle": "Stil",
           "DividerColor": "Farve",
           "DividerOpacity": "Gennemsigtighed",
@@ -318,28 +318,28 @@
           "DividerStyleDoubleDashed": "Dobbelt stiplet",
           "DividerStyleDoubleDotted": "Dobbelt prikket",
           "ConfirmDelete": "Bekræft sletning",
-          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en content flow blok.",
+          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en blok i indholdsflowet.",
           "ConfirmDeleteTitle": "Slet blok?",
-          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra content flow.",
+          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra indholdsflowet.",
           "EnableAiAssistance": "Aktivér AI assistance",
           "EnableAiAssistanceHint": "Aktiverer AI-handlingen i værktøjslinjen og fuld sidegenerering.",
-          "AiMediaProvider": "AI media udbyder",
-          "AiMediaProviderHint": "Vælger hvordan genererede side media blokke udfyldes under fuld side AI generering.",
+          "AiMediaProvider": "AI medieudbyder",
+          "AiMediaProviderHint": "Vælger hvordan genererede medieblokke udfyldes under fuld AI sidegenerering.",
           "AiMediaProviderNone": "Ingen",
           "AiMediaProviderPexels": "Pexels",
           "AiMediaProviderBing": "Bing",
           "AiMediaProviderGptImage": "GPT Image",
           "AiPromptSettings": {
-            "BlockTemplateSelectionPrompt": "Blok skabelon valg prompt",
+            "BlockTemplateSelectionPrompt": "Prompt til valg af blokskabelon",
             "Cancel": "Annuller",
-            "Description": "Konfigurer prompt instruktioner brugt af Content flow AI på tværs af denne forretningsprofil.",
-            "GlobalPostPrompt": "Global post prompt",
-            "GlobalPrePrompt": "Global pre prompt",
+            "Description": "Konfigurer promptinstruktioner brugt af infholdsflow AI på tværs af denne virksomhedsprofil.",
+            "GlobalPostPrompt": "Global post-prompt",
+            "GlobalPrePrompt": "Global pre-prompt",
             "LoadError": "De gemte prompt indstillinger kunne ikke indlæses. Standard vises.",
             "ResetToDefaults": "Nulstil til standard",
-            "SaveError": "Prompt indstillingerne kunne ikke gemmes.",
-            "Saved": "Prompt indstillinger gemt.",
-            "TemplatePrompts": "Skabelon prompts",
+            "SaveError": "Prompt-indstillingerne kunne ikke gemmes.",
+            "Saved": "Prompt-indstillinger gemt.",
+            "TemplatePrompts": "Promptskabeloner",
             "Title": "Content flow AI prompts"
           }
         },
