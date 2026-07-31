@@ -160,13 +160,13 @@
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
-          "Title": "Startside, ny UI",
-          "Description": "Aktivér ny oplevelse for konfiguration af startsiden i Omnia admin under 'Arbejdsområde'"
+          "Title": "Next gen Omnia UI for startside / hjem,",
+          "Description": "Aktivér ny UI-oplevelse for konfiguration af startsiden / hjem i Omnia admin under 'Arbejdsområde'"
         },
         "AppInstanceNextGenUI": {
           "Category": "System",
-          "Title": "App instans, ny UI",
-          "Description": "Aktivér ny oplevelse for publicerings-apps"
+          "Title": "Next gen Omnia UI for app-instanser",
+          "Description": "Aktivér ny UI-oplevelse for publicerings-apps"
         }
       },
       "FilterEngine": {
@@ -183,7 +183,7 @@
       },
       "LayoutEngine": {
         "Accessibility": {
-          "SectionTabs": "Sektion faner"
+          "SectionTabs": "Sektionsfaner"
         },
         "Panels": {
           "BlockTitleSettings": {
@@ -191,7 +191,7 @@
             "ElementOptions": {
               "Default": "Standard"
             },
-            "FontFamily": "Skrifttypefamilie",
+            "FontFamily": "Skrifttype",
             "AlignLeft": "Venstrejuster",
             "AlignCenter": "Centrer",
             "AlignRight": "Højrejuster"
@@ -243,46 +243,46 @@
       "Features": {
         "SPFxPerformanceEnhancement": {
           "Category": "System",
-          "Description": "Forbedring for at indlæse Omnia hurtigere i SPFx.",
-          "Title": "SPFx ydeevneforbedring"
+          "Description": "Optimerer indlæsning af Omnia i SPFx.",
+          "Title": "Optimeret SPFx-indlæsning"
         },
         "SharePointFont": {
           "Category": "System",
-          "Description": "Muliggør, at Omnia SPFx webdele tilpasser sig SharePoint sitets konfigurerede skrifttype.",
+          "Description": "Muliggør, at Omnias SPFx-webdele tilpasser sig skrifttypen, der er konfigureret på SharePoint-sitet.",
           "Title": "SharePoint skrifttype"
         }
       }
     },
     "Targeting": {
       "Persona": {
-        "TargetingPersonas": "Tilknytning personas",
-        "TargetingPersonaTitle": "Tilknytning persona",
+        "TargetingPersonas": "Målgruppepersonas",
+        "TargetingPersonaTitle": "Målgruppepersona",
         "SelectPersona": "Vælg persona",
         "ViewingAs": "Viser som",
         "ViewingAsLabel": "Viser som",
-        "TargetingPersonasAdministrators": "Tilknytning personas administratorer",
-        "TargetingPersonasUsers": "Tilknytning personas brugere",
-        "CreateTargetingPersona": "Opret tilknytning persona",
-        "EditTargetingPersona": "Rediger tilknytning persona",
-        "TargetingProperties": "Tilknytning egenskaber",
-        "AddTargetingProperty": "Tilføj tilknytning egenskab",
+        "TargetingPersonasAdministrators": "Administratorer for målgruppepersonas",
+        "TargetingPersonasUsers": "Brugere af målgruppepersonas",
+        "CreateTargetingPersona": "Opret målgruppepersona",
+        "EditTargetingPersona": "Rediger målgruppepersona",
+        "TargetingProperties": "Målgruppeegenskaber",
+        "AddTargetingProperty": "Tilføj egenskab",
         "Delete": "Slet",
         "Save": "Gem",
         "Create": "Opret",
         "Cancel": "Annuller",
-        "NoItems": "Ingen tilknytning personas fundet. Opret en for at komme i gang.",
+        "NoItems": "Ingen målgruppepersonas fundet. Opret en persona for at komme i gang.",
         "ActivatedPersonaInfo": "Du er ved at se som",
         "ActivatedPersonaDescription": "Indhold og navigation afspejler, hvad denne persona har adgang til. Ændringer træder fuldt i kraft efter genindlæsning.",
         "DeactivatedInfo": "Du er ved at deaktivere din persona. Genindlæs venligst for at gendanne din normale visning.",
         "ReloadNow": "Genindlæs nu",
         "ViewAsPersonaInfo": "Du er ved at se intranettet som",
         "ViewAsPersonaDescription": "Dette ændrer ikke dine tilladelser eller adgang. Ændringer træder fuldt i kraft efter genindlæsning af siden.",
-        "ExitPersonaPreviewInfo": "Du er ved at afslutte tilknytning persona forhåndsvisning. Din normale visning vil blive gendannet efter genindlæsning."
+        "ExitPersonaPreviewInfo": "Du er ved at afslutte visningen som målgruppepersonaen. Din normale visning vil blive gendannet efter genindlæsning."
       }
     },
     "AuthenticationChecker": {
       "Title": "Din session er udløbet.",
-      "Message": "Vi kunne ikke opdatere din login i baggrunden. Genindlæs Omnia for at fortsætte arbejdet - vi gør det for dig om lidt.",
+      "Message": "Vi kunne ikke opdatere dit login i baggrunden. Genindlæs Omnia for at fortsætte arbejdet.",
       "Seconds": "sekunder",
       "Skip": "Genindlæs senere"
     }
