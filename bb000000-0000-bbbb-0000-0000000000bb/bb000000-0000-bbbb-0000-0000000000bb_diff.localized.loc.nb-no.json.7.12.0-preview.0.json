@@ -6,8 +6,8 @@
         "Previewing": "Forhåndsviser...",
         "InheritFromTenant": "Arv fra tenant",
         "EnableCustomFont": "Aktiver egendefinert skrift",
-        "FontFamilyName": "Skrifttype navn",
-        "FontSource": "Skriftkilde",
+        "FontFamilyName": "Skrifttype",
+        "FontSource": "Skrifttypekilde",
         "FileUpload": "Filopplasting",
         "CdnFileLink": "CDN filkobling",
         "ChooseFontFile": "Velg skriftfil",
@@ -41,8 +41,8 @@
         "UnexpectedError": "En uventet feil oppstod."
       },
       "DatetimePicker": {
-        "SetAM": "Sett AM",
-        "SetPM": "Sett PM",
+        "SetAM": "AM",
+        "SetPM": "PM",
         "PreviousMonth": "Forrige måned",
         "NextMonth": "Neste måned",
         "ClickToSelectMonth": "Klikk for å velge måned.",
@@ -54,8 +54,8 @@
         "CurrentYearIs": "Nåværende år er",
         "SelectedMonthPrefix": "Valgt måned",
         "YearLabel": "År",
-        "PreviousYears": "Forrige år",
-        "NextYears": "Neste år",
+        "PreviousYears": "Forrige årrekke",
+        "NextYears": "Neste årrekke",
         "SelectedYearPrefix": "Valgt år",
         "IncreaseHour": "Øk time",
         "DecreaseHour": "Reduser time",
@@ -71,8 +71,8 @@
         "CalendarPicker": "Kalendervelger"
       },
       "DatetimeZonePicker": {
-        "SetAM": "Sett AM",
-        "SetPM": "Sett PM",
+        "SetAM": "AM",
+        "SetPM": "PM",
         "PreviousMonth": "Forrige måned",
         "NextMonth": "Neste måned",
         "ClickToSelectMonth": "Klikk for å velge måned",
@@ -84,8 +84,8 @@
         "CurrentYearIs": "Nåværende år er",
         "SelectedMonthPrefix": "Valgt:",
         "YearLabel": "År",
-        "PreviousYears": "Forrige år",
-        "NextYears": "Neste år",
+        "PreviousYears": "Forrige årrekke",
+        "NextYears": "Neste årrekke",
         "SelectedYearPrefix": "Valgt:",
         "IncreaseHour": "Øk time",
         "DecreaseHour": "Reduser time",
@@ -115,11 +115,11 @@
             "Configure": "Konfigurer",
             "RuleAction": "Regelhandling",
             "IncludeInSync": "Inkluder i synkronisering",
-            "IncludeInSyncDescription": "Brukere som matcher filtrene nedenfor legges til i katalogen.",
+            "IncludeInSyncDescription": "Brukere som matcher filtrene nedenfor legges til i synkroniseringen.",
             "ExcludeFromSync": "Ekskluder fra synkronisering",
             "ExcludeFromSyncDescription": "Brukere som matcher filtrene nedenfor hoppes over under synkronisering.",
             "MatchUsersWhere": "Match brukere hvor",
-            "MatchUsersWhereDescription": "Alle filtre må matche (logisk OG). Innenfor et filter kan hvilken som helst verdi matche (logisk ELLER).",
+            "MatchUsersWhereDescription": "Alle filtre må matche (logik OG). Innenfor et filter kan hvilken som helst verdi matche (logik ELLER).",
             "NoUserSynchronizationFilters": "Ingen filtre ennå - uten filtre matcher denne regelen alle brukere.",
             "And": "OG",
             "Where": "Hvor",
@@ -144,7 +144,7 @@
       },
       "Properties": {
         "Settings": {
-          "ShowLabelIconWithValue": "Vis etikettikon med verdi",
+          "ShowLabelIconWithValue": "Etikettikon og verdi på en rekke",
           "ShowLoginName": "Vis påloggingsnavn"
         }
       },
@@ -155,18 +155,18 @@
         },
         "NextGenUI": {
           "Category": "System",
-          "Title": "Neste generasjons UI",
-          "Description": "Aktiver denne funksjonen for å bruke det nye UI-et."
+          "Title": "Neste generasjons Omnia UI",
+          "Description": "Aktiver denne funksjonen for å ta i bruk det nye Omnia UI."
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
-          "Title": "Ny opplevelse på arbeidsområdehjem",
-          "Description": "Aktiver ny opplevelse på arbeidsområdehjem"
+          "Title": "Next gen Omnia UI for startside / hjem",
+          "Description": "Aktiver ny UI-opplevelse for konfigurasjon av startsiden / hjem i Omnia admin under Arbeidsområde."
         },
         "AppInstanceNextGenUI": {
           "Category": "System",
-          "Title": "Ny opplevelse for app-instans",
-          "Description": "Aktiver ny opplevelse for app-instans"
+          "Title": "Next gen Omnia UI for app-instanser",
+          "Description": "Aktiver ny UI-opplevelse for publiseringsapper."
         }
       },
       "FilterEngine": {
@@ -243,12 +243,12 @@
       "Features": {
         "SPFxPerformanceEnhancement": {
           "Category": "System",
-          "Description": "Forbedring for å laste Omnia raskere i SPFx.",
-          "Title": "SPFx ytelsesforbedring"
+          "Description": "Optimerer innlasting av Omnia i SPFx.",
+          "Title": "Optimert SPFx-innlasting"
         },
         "SharePointFont": {
           "Category": "System",
-          "Description": "Aktiverer Omnia SPFx webdeler til å tilpasse seg SharePoint-nettstedets konfigurerte skrift.",
+          "Description": "Gjør det mulig for Omnias SPFx-webdeler å tilpasse seg skrifttypen som er konfigurert på SharePoint-sitet.",
           "Title": "SharePoint-skrift"
         }
       }
@@ -272,12 +272,12 @@
         "Cancel": "Avbryt",
         "NoItems": "Ingen målrettingspersonas funnet. Opprett en for å komme i gang.",
         "ActivatedPersonaInfo": "Du er i ferd med å vise som",
-        "ActivatedPersonaDescription": "Innhold og navigasjon reflekterer hva denne personaen har tilgang til. Endringer trer i kraft etter oppdatering.",
+        "ActivatedPersonaDescription": "Innhold og navigasjon reflekterer, hva denne personaen har tilgang til. Endringer trer i kraft etter oppdatering.",
         "DeactivatedInfo": "Du er i ferd med å deaktivere din persona. Vennligst oppdater for å gjenopprette normal visning.",
         "ReloadNow": "Oppdater nå",
         "ViewAsPersonaInfo": "Du er i ferd med å vise intranettet som",
         "ViewAsPersonaDescription": "Dette endrer ikke dine tillatelser eller tilgang. Endringer trer i kraft etter oppdatering av siden.",
-        "ExitPersonaPreviewInfo": "Du er i ferd med å avslutte forhåndsvisning av målrettingspersona. Din normale visning vil bli gjenopprettet etter oppdatering."
+        "ExitPersonaPreviewInfo": "Du er i ferd med å avslutte forhåndsvisning med denne målrettingspersona. Din normale visning vil bli gjenopprettet etter oppdatering."
       }
     },
     "AuthenticationChecker": {
