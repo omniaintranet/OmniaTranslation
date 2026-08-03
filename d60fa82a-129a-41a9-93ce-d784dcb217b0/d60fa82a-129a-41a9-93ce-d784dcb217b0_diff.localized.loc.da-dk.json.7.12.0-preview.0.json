@@ -18,7 +18,7 @@
         "Label": "Navigationsmetode",
         "DisableNavigate": "Deaktiver omdirigering til oprettet side",
         "NavigateToOmnia": "Naviger til Omnia-side",
-        "NavigateToSharePointFullPage": "Naviger til SharePoint fuld side"
+        "NavigateToSharePointFullPage": "Naviger til fuld visning af Omnia-side i SharePoint"
       },
       "OpenInDialog": "Åbn i dialog",
       "DialogSummaryProperty": "Resumé-egenskab",
@@ -55,7 +55,7 @@
       },
       "DefaultRendering": {
         "Title": "Standard gengivelse",
-        "Description": "Definerer den app der skal bruges som fallback, når det aktuelle site ikke har fuld sideoplevelse aktiveret.",
+        "Description": "Definerer den app der skal bruges som fallback, når det aktuelle site ikke har fuld Omnia-sidevisning aktiveret.",
         "SelectLabel": "Vælg standard gengivelsesapp",
         "DialogSettingsTitle": "Standard dialogkonfiguration",
         "EnableRichText": "Aktivér rich text",
@@ -150,9 +150,9 @@
     },
     "ContentFlow": {
       "Block": {
-        "BlockTitle": "Indholdsflow",
+        "BlockTitle": "Indholdsbygger",
         "BlockSummary": "Opret struktureret sideindhold med tekst, media og citater.",
-        "Placeholder": "Visning af indholdsflowet vil være tilgængelig, når bloklagring er implementeret.",
+        "Placeholder": "Visning af Indholdsbygger vil være tilgængelig, når bloklagring er implementeret.",
         "Media": {
           "AddImage": "Tilføj medie",
           "EditImage": "Rediger medie",
@@ -191,7 +191,7 @@
           "Delete": "Slet",
           "DragToReorder": "Træk for at omarrangere",
           "Duplicate": "Dupliker",
-          "InheritedContent": "Denne blok genbruger tilknyttet indhold fra indholdsflowet.",
+          "InheritedContent": "Denne blok genbruger tilknyttet indhold.",
           "InsertTemplate": "Indsæt skabelon",
           "MoveDown": "Flyt ned",
           "MoveUp": "Flyt op",
@@ -303,7 +303,7 @@
           "RowSpacing": "Rækkeafstand",
           "RowSpacingHint": "Indstiller den lodrette afstand mellem rækkerne.",
           "ColumnSpacing": "Kolonneafstand",
-          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer.",
+          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner.",
           "MediaBorderRadius": "Mediekantens radius",
           "MediaBorderRadiusHint": "Indstiller kantens radius for alle medieblokke i editoren.",
           "DividerStyle": "Stil",
@@ -318,9 +318,9 @@
           "DividerStyleDoubleDashed": "Dobbelt stiplet",
           "DividerStyleDoubleDotted": "Dobbelt prikket",
           "ConfirmDelete": "Bekræft sletning",
-          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en blok i indholdsflowet.",
+          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en blok i indholdsbyggeren.",
           "ConfirmDeleteTitle": "Slet blok?",
-          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra indholdsflowet.",
+          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra indholdsbyggeren.",
           "EnableAiAssistance": "Aktivér AI assistance",
           "EnableAiAssistanceHint": "Aktiverer AI-handlingen i værktøjslinjen og fuld sidegenerering.",
           "AiMediaProvider": "AI medieudbyder",
@@ -332,25 +332,25 @@
           "AiPromptSettings": {
             "BlockTemplateSelectionPrompt": "Prompt til valg af blokskabelon",
             "Cancel": "Annuller",
-            "Description": "Konfigurer promptinstruktioner brugt af infholdsflow AI på tværs af denne virksomhedsprofil.",
+            "Description": "Konfigurer promptinstruktioner brugt af AI knyttet til indholdsbyggeren på tværs af denne virksomhedsprofil.",
             "GlobalPostPrompt": "Global post-prompt",
             "GlobalPrePrompt": "Global pre-prompt",
-            "LoadError": "De gemte prompt indstillinger kunne ikke indlæses. Standard vises.",
+            "LoadError": "De gemte prompt-indstillinger kunne ikke indlæses. Standard vises.",
             "ResetToDefaults": "Nulstil til standard",
             "SaveError": "Prompt-indstillingerne kunne ikke gemmes.",
             "Saved": "Prompt-indstillinger gemt.",
-            "TemplatePrompts": "Promptskabeloner",
-            "Title": "Content flow AI prompts"
+            "TemplatePrompts": "Prompt-skabeloner",
+            "Title": "Indholdsbygger AI prompts"
           }
         },
         "Errors": {
           "InvalidJsonDefaultCreated": "Ugyldig JSON blev erstattet med et standarddokument.",
           "MissingDocumentDefaultCreated": "Manglende dokument blev erstattet med et standarddokument.",
-          "SchemaMigrated": "Dokumentet blev normaliseret til Content flow skema version 1.",
-          "SchemaInvalid": "Content flow dokumenter skal bruge skema version 1.",
-          "RowsEmpty": "Content flow dokumenter skal indeholde mindst én række.",
+          "SchemaMigrated": "Dokumentet blev normaliseret til indholdsbygger-skema version 1.",
+          "SchemaInvalid": "Dokumenter skal bruge skema version 1.",
+          "RowsEmpty": "Dokumenter skal indeholde mindst én række.",
           "RowIdMissing": "Række ID er påkrævet.",
-          "RowTemplateInvalid": "Række skabelontype understøttes ikke.",
+          "RowTemplateInvalid": "Række-skabelonen understøttes ikke.",
           "BlocksEmpty": "En række skal indeholde mindst én blok.",
           "BlockIdMissing": "Blok ID er påkrævet.",
           "TextMissing": "En tekstblok skal indeholde tekstindhold.",
@@ -367,15 +367,15 @@
     "Core": {
       "Blocks": {
         "OmniaFullPageExperience": {
-          "Title": "Omnia fuld sideoplevelse",
-          "Summary": "Brug denne blok til at tilføje en fuld sideoplevelse til en side."
+          "Title": "Fuld visning af Omnia-side",
+          "Summary": "Brug denne blok til at vise en hel Omnia-side på en SharePoint-side.."
         }
       },
       "Features": {
         "OmniaFullPageExperience": {
           "Category": "System",
           "Description": "Provisioner en systemside til SharePoint site sidebibliotek.",
-          "Title": "Omnia fuld sideoplevelse"
+          "Title": "Fuld visning af Omnia-side"
         }
       }
     },
@@ -408,7 +408,7 @@
     },
     "IFrameBlock": {
       "Settings": {
-        "Title": "IFrame tilgængelig titel",
+        "Title": "IFrame skjult titel",
         "CustomUrlTitle": "Brugerdefineret URL",
         "PropertyUrlTitle": "URL fra egenskab"
       }
@@ -423,43 +423,43 @@
     },
     "CurrentNavigation": {
       "Settings": {
-        "StylePreset": "Stil forudindstilling",
+        "StylePreset": "Forudindstilling",
         "General": "Generelt",
-        "CurrentNodeIndicator": "Indikator for aktuel node",
-        "OpenCollapse": "Åbn & kollaps",
-        "OpenCollapseColor": "Åbn & kollaps farve",
-        "RowDensity": "Række tæthed",
+        "CurrentNodeIndicator": "Markering af aktuel node",
+        "OpenCollapse": "Åbn og luk",
+        "OpenCollapseColor": "Åbn og luk farve",
+        "RowDensity": "Rækkeafstand",
         "HoverState": "Hover-tilstand",
         "HoverColor": "Hover-farve",
         "IndentGuide": "Indrykningsguide",
-        "IndicatorColor": "Indikatorfarve",
-        "RowFontSize": "Række skrifttype størrelse",
-        "LivePreview": "Live forhåndsvisning",
-        "OmniaClassic": "Omnia klassisk",
-        "OmniaClassicDescription": "Nuværende Omnia navigation styling",
-        "MaterialClassic": "Material klassisk",
-        "MaterialClassicDescription": "Fed primær tekst - chevron højre",
-        "LeftBarAccent": "Venstre bjælke accent",
-        "LeftBarAccentDescription": "Sidebjælke markør - chevron højre",
-        "TintedPill": "Farvet pille",
-        "TintedPillDescription": "Fyldt aktiv række - plus/minus kollaps",
-        "CompactRowClick": "Kompakt + række-klik",
-        "CompactRowClickDescription": "Tætte rækker - hele rækken skifter",
-        "TreePill": "Træ + pille",
-        "TreePillDescription": "Forbindelseslinjer - fyldt pille markør",
+        "IndicatorColor": "Markeringsfarve",
+        "RowFontSize": "Rækkeskriftstørrelse",
+        "LivePreview": "Preview",
+        "OmniaClassic": "Klassisk",
+        "OmniaClassicDescription": "Klassisk",
+        "MaterialClassic": "Material Classic",
+        "MaterialClassicDescription": "Fed primær tekst og chevron til højre",
+        "LeftBarAccent": "Venstre bjælkeaccent",
+        "LeftBarAccentDescription": "Markør til venstre og chevron til højre",
+        "TintedPill": "Tonet pill",
+        "TintedPillDescription": "Fyldt aktiv række og plus/minus",
+        "CompactRowClick": "Kompakt og klik på række",
+        "CompactRowClickDescription": "Tætte rækker og klik på række",
+        "TreePill": "Pill og linjer",
+        "TreePillDescription": "Fyldt pill og forbindelseslinjer",
         "Custom": "Brugerdefineret",
         "LeftBar": "Venstre bjælke",
-        "FilledPill": "Fyldt pille",
+        "FilledPill": "Fyldt pill",
         "BoldColor": "Fed farve",
-        "Dot": "Punkt",
+        "Dot": "Prik",
         "Outline": "Omrids",
         "ChevronRight": "Chevron højre",
         "ChevronLeft": "Chevron venstre",
         "PlusMinus": "Plus/minus",
         "PlusMinusLeft": "Plus/minus venstre",
-        "RowClick": "Række klik",
+        "RowClick": "Klik på række",
         "Compact": "Kompakt",
-        "Comfortable": "Behagelig",
+        "Comfortable": "Mellem",
         "Spacious": "Rummelig",
         "Tint": "Farvetone",
         "Underline": "Understregning",
@@ -472,7 +472,7 @@
     },
     "Editor": {
       "Editor": {
-        "PageVariationLockedDueToMachineTranslated": "Denne sidevariation er låst på grund af maskinoversættelse.",
+        "PageVariationLockedDueToMachineTranslated": "Denne sidevariation er låst, da den er indstillet til maskinoversættelse.",
         "MediaImageNoValuePlaceHolder": {
           "AddImage": "Tilføj billede",
           "ImageDescription": "Mulighed for at tilføje et billede eller video til siden."
@@ -496,14 +496,14 @@
         "Title": "Titel",
         "Description": "Beskrivelse",
         "Date": "Dato",
-        "FallbackDate": "Backup dato",
+        "FallbackDate": "Fallback dato",
         "User": "Bruger",
-        "FallbackUser": "Backup bruger",
+        "FallbackUser": "Fallback bruger",
         "URL": "URL",
         "ParentURL": "Overordnet URL"
       },
       "TemplateSettings": {
-        "OpenInSharePointFullPage": "Åbn i SharePoint fuld side"
+        "OpenInSharePointFullPage": "Åbn fuld side i SharePoint"
       }
     },
     "SemanticSearchLogging": {
@@ -542,21 +542,21 @@
     "EM": {
       "EventParticipantCounter": {
         "Settings": {
-          "HideNumberOfRegisteredParticipants": "Skjul antal registrerede deltagere (læser)",
+          "HideNumberOfRegisteredParticipants": "Skjul antal registrerede deltagere for læsere",
           "General": "Generelt",
           "Display": "Visning",
-          "StylePreset": "Stil forudindstilling",
-          "LivePreview": "Live forhåndsvisning",
+          "StylePreset": "Stil",
+          "LivePreview": "Preview",
           "ShowIcon": "Vis ikon",
           "ShowNumbers": "Vis tal",
           "Icon": "Ikon",
-          "Meter": "Måler",
+          "Meter": "Visualisering",
           "Color": "Farve",
           "Size": "Størrelse",
           "StatusBadge": "Statusmærke",
           "None": "Ingen",
           "Bar": "Bar",
-          "SeatGrid": "Sædegrid",
+          "SeatGrid": "Kapacitetsgitter",
           "Neutral": "Neutral",
           "Primary": "Primær",
           "Semantic": "Semantisk",
@@ -565,41 +565,41 @@
           "Compact": "Kompakt",
           "Default": "Standard",
           "Large": "Stor",
-          "PreviewRegistered": "Forhåndsvis registrerede",
-          "PreviewCapacity": "Forhåndsvis kapacitet"
+          "PreviewRegistered": "Preview registrerede",
+          "PreviewCapacity": "Preview kapacitet"
         },
         "Presets": {
           "Classic": "Klassisk",
           "ClassicDescription": "Ikon og antal",
           "Progress": "Fremdrift",
-          "ProgressDescription": "Antal med måler",
+          "ProgressDescription": "Antal med bjælke",
           "BigNumber": "Stort tal",
-          "BigNumberDescription": "Stor fokus på antal",
-          "SeatGrid": "Sædegrid",
-          "SeatGridDescription": "Visuelle kapacitetsceller",
+          "BigNumberDescription": "Stor skrift for fremhævelse af antal",
+          "SeatGrid": "Kapacitetsgitter",
+          "SeatGridDescription": "Visualisering med kapacitetsceller",
           "Status": "Status",
           "StatusDescription": "Semantisk måler og mærke",
           "Minimal": "Minimal",
-          "MinimalDescription": "Kun kompakt antal"
+          "MinimalDescription": "Kun antal"
         },
         "Status": {
           "Available": "Tilgængelig",
           "FillingUp": "Fyldes op",
           "AlmostFull": "Næsten fuld",
-          "SoldOut": "Udsolgt"
+          "SoldOut": "Fuld"
         }
       },
       "PageRollupViews": {
         "ViewTitle": {
-          "Card": "Event kort"
+          "Card": "Event-kort"
         }
       }
     },
     "ActionButton": {
       "AdminSettings": {
-        "Title": "Call to action stil",
-        "Description": "Konfigurer udseendet af Call to action knapper i din applikation.",
-        "PreviewButton": "Forhåndsvis knap"
+        "Title": "Stil for handlingsknapper",
+        "Description": "Konfigurer en standardstil for handlingsknapper.",
+        "PreviewButton": "Preview knap"
       }
     }
   },
@@ -623,10 +623,10 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "CallToAction": "Call to action"
+          "CallToAction": "Handling"
         },
         "Extensions": {
-          "CallToAction": "Call to action"
+          "CallToAction": "Handling"
         }
       },
       "CallToAction": {
@@ -643,7 +643,7 @@
         "OpenInWeb": "Åbn i web",
         "OpenInWebNewTab": "Åbn i web i ny fane",
         "DocumentLinkHandlerNote": "Links håndteres globalt, dette kan påvirke adfærden for ovenstående valg.",
-        "NoDocumentPickers": "Ingen dokumentvælgere konfigureret."
+        "NoDocumentPickers": "Der er ikke konfigureret en dokumentvælger."
       },
       "User": {
         "Label": "Bruger",
@@ -662,11 +662,11 @@
             "AddFilter": "Tilføj filter",
             "AdjustFilters": "Juster filtre",
             "Done": "Færdig",
-            "TermSetNotFound": "Term sæt ikke fundet",
+            "TermSetNotFound": "Ordsæt ikke fundet",
             "SearchBox": "Søgefelt (Egenskaber)",
-            "SearchBoxProperties": "SharePoint side egenskaber",
+            "SearchBoxProperties": "SharePoint side-egenskaber",
             "FullTextSearch": "Søgefelt (Fuld tekst)",
-            "SearchOnSPPageTitleAnd": "Søg på SharePoint side titel og",
+            "SearchOnSPPageTitleAnd": "Søg på SharePoint sidetitel og",
             "EnableWildcardSearch": "Aktivér delvis ordsøgning",
             "ShowSearchBox": "Vis søgefelt",
             "SearchTextLabel": "Søgetekst",
@@ -697,7 +697,7 @@
             "Message": "Er du sikker på, at du vil fjerne dette dokument?"
           }
         },
-        "NoSharePointPagePicker": "Ingen SharePoint sidevælgere konfigureret",
+        "NoSharePointPagePicker": "Der er ikke konfigureret en SharePoint-sidevælger",
         "NoResultMessage": "Ingen side fundet",
         "ResolveUserErrorMessage": "Fejl ved filtrering af person"
       }
@@ -719,7 +719,7 @@
       "CardView": {
         "VisitPage": "Åbn side",
         "PageImage": "Sidebillede",
-        "PlaceholderImageIfEmpty": "Pladsholderbillede hvis tom",
+        "PlaceholderImageIfEmpty": "Placeholder-billede, hvis tom",
         "CardType": {
           "ImageRight": "Billede til højre",
           "ImageLeft": "Billede til venstre"
@@ -744,35 +744,35 @@
         "StartDate": "Event startdato",
         "EndDate": "Event slutdato",
         "Location": "Sted",
-        "EventDate": "Event dato",
-        "EventStatus": "Event status",
-        "AllDayProperty": "Heldags egenskab",
-        "ShowDateOnImage": "Vis event datoer på billede",
+        "EventDate": "Eventdato",
+        "EventStatus": "Eventstatus",
+        "AllDayProperty": "Egenskab for heldagsevent",
+        "ShowDateOnImage": "Vis eventdatoer på billede",
         "ShowLocation": "Vis sted",
-        "ShowRegisteredCapacity": "Vis tilmeldt antal",
+        "ShowRegisteredCapacity": "Vis antal tilmeldinger",
         "ShowRegistrationStatus": "Vis tilmeldingsstatus",
-        "ShowPastEventStatus": "Vis tidligere event status",
-        "ShowAllDayStatus": "Vis heldagsstatus",
-        "ShowTeamsMeetingStatus": "Vis Teams mødestatus",
+        "ShowPastEventStatus": "Vis tag for tidligere event",
+        "ShowAllDayStatus": "Vis tag for heldagsevent",
+        "ShowTeamsMeetingStatus": "Vis tag for Teams-møde",
         "JoinTeamsMeeting": "Deltag i Teams møde",
         "MovePropertyUp": "Flyt op {0}",
         "MovePropertyDown": "Flyt ned {0}",
         "RemoveTermProperty": "Fjern {0}",
         "DateSettings": "Datoindstillinger",
-        "StartDateSettings": "Event startdato indstillinger",
-        "EndDateSettings": "Event slutdato indstillinger",
+        "StartDateSettings": "Indstillinger for event-startdato",
+        "EndDateSettings": "Indstillinger for event-slutdato",
         "RegistrationOpen": "Tilmelding åben",
         "RegistrationClosed": "Tilmelding lukket",
         "FullyBooked": "Fuld booket",
         "PastEvent": "Tidligere event",
-        "AllDay": "Heldag",
-        "TeamsMeeting": "Teams møde"
+        "AllDay": "Heldags",
+        "TeamsMeeting": "Teams-møde"
       },
       "ListingWithImage": {
         "Properties": "Egenskaber",
         "AddProperty": "Tilføj egenskab",
-        "PropertiesSeparator": "Egenskab separator",
-        "WhiteSpace": "Hvidt rum",
+        "PropertiesSeparator": "Egenskab adskiller",
+        "WhiteSpace": "Mellemrum",
         "Property": "Egenskab",
         "NoPropertySelected": "Ingen egenskab valgt",
         "DateModeDefault": "Standard",
@@ -780,14 +780,14 @@
         "DateModeSocial": "Social",
         "HideAvatar": "Skjul avatar",
         "ShowAsText": "Vis som tekst",
-        "SeparatorType": "Separator type",
+        "SeparatorType": "Adskiller",
         "RightAlignLikesComments": "Højrestil likes og kommentarer"
       },
       "Common": {
         "ShowMetricDetails": "Vis detaljer",
-        "AllowLiking": "Tillad liking",
+        "AllowLiking": "Tillad 'like'",
         "FileReadyForDownload": "Eksportfil {0} er klar til download.",
-        "OpenInSharePointFullPage": "Åbn i SharePoint fuld side"
+        "OpenInSharePointFullPage": "Åbn som fuld side i SharePoint"
       },
       "ViewTitle": {
         "CardWCAG": "Kortvisning (WCAG)"
@@ -822,14 +822,14 @@
         "EditInOmnia": "Rediger i Omnia"
       },
       "SharepointSync": {
-        "EnableFullPageView": "Aktivér fuld sidevisning",
+        "EnableFullPageView": "Aktivér fuld visning af Omnia-sider ",
         "EnableEnhancedCopilotIntegration": "Aktivér forbedret Copilot integration",
         "Copilot": {
-          "Headline": "Side metadata",
+          "Headline": "Sideegenskaber",
           "PropertyTemplate": "{0} for denne side er {1}",
-          "BusinessProfile": "Forretningsprofilen for denne side er {0}",
+          "BusinessProfile": "Virksomhedsprofilen for denne side er {0}",
           "PublishingApp": "Publiceringsappen for denne side er {0}",
-          "PageCollection": "Sidesamlingen for denne side er {0}"
+          "PageCollection": "Sidebiblioteket for denne side er {0}"
         }
       },
       "PageManagement": {
@@ -844,17 +844,17 @@
           "Threaded": "Trådet"
         },
         "ThreadedComments": "Trådede kommentarer",
-        "CustomInputStyle": "Brugerdefineret input styling",
+        "CustomInputStyle": "Tilpasset stil",
         "Elevation": "Højde",
         "BorderThickness": "Kanttykkelse",
-        "BorderRadius": "Kantens radius",
+        "BorderRadius": "Kantradius",
         "BorderColor": "Kantfarve",
         "TextColor": "Tekstfarve",
         "BackgroundColor": "Baggrundsfarve",
         "EnableRichTextPageFeedback": "Formatering",
         "OverrideDefaultSettings": "Overskriv standardindstillinger",
         "DeletedCommentMessage": {
-          "Label": "Slettet kommentarmeddelelse",
+          "Label": "Slettet kommentar",
           "Always": "Altid",
           "Never": "Aldrig",
           "WhenReferenced": "Når refereret"
@@ -866,8 +866,8 @@
     },
     "OmniaFullPage": {
       "OmniaFullPage": {
-        "Name": "Omnia fuld sideoplevelse",
-        "Description": "En fuld sideoplevelseskomponent til visning af indhold på hele siden."
+        "Name": "Fuld visning af Omnia-side",
+        "Description": "En kompotent til at vise en hel Omnia-side i SharePoint."
       },
       "Settings": {
         "AllowEdit": "Tillad redigering",
