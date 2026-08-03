@@ -23,7 +23,7 @@
       "OpenInDialog": "Åbn i dialog",
       "DialogSummaryProperty": "Resumé-egenskab",
       "DialogContentProperty": "Indholdsegenskab",
-      "DialogImageProperty": "Billedeegenskab",
+      "DialogImageProperty": "Billedegenskab",
       "DialogDateProperty": "Datoegenskab",
       "DialogPropertyMappings": "Andre egenskaber",
       "OverrideDefaultSettings": "Overskriv standardindstillinger",
@@ -55,7 +55,7 @@
       },
       "DefaultRendering": {
         "Title": "Standard gengivelse",
-        "Description": "Definerer den app der skal bruges som fallback, når det aktuelle site ikke har fuld Omnia-sidevisning aktiveret.",
+        "Description": "Definerer den app der skal bruges som fallback, når det aktuelle websted ikke har fuld Omnia-sidevisning aktiveret.",
         "SelectLabel": "Vælg standard gengivelsesapp",
         "DialogSettingsTitle": "Standard dialogkonfiguration",
         "EnableRichText": "Aktivér rich text",
@@ -374,7 +374,7 @@
       "Features": {
         "OmniaFullPageExperience": {
           "Category": "System",
-          "Description": "Provisioner en systemside til et SharePoint site sidebibliotek.",
+          "Description": "Provisioner en systemside til et SharePoint-websted sidebibliotek.",
           "Title": "Fuld visning af Omnia-side"
         }
       }
@@ -418,7 +418,7 @@
     },
     "PageProperties": {
       "Settings": {
-        "ShowLabelIconWithValue": "Vis etiketikon med værdi"
+        "ShowLabelIconWithValue": "Vis ikon og værdi på én linje"
       }
     },
     "CurrentNavigation": {
@@ -487,10 +487,10 @@
     },
     "SearchTemplate": {
       "OmniaPageSearchTemplate": {
-        "Title": "Omnia side søgeskabelon"
+        "Title": "Omnia-side søgeskabelon"
       },
       "SharePointPageSearchTemplate": {
-        "Title": "SharePoint side søgeskabelon"
+        "Title": "SharePoint-side søgeskabelon"
       },
       "Fields": {
         "Title": "Titel",
@@ -521,14 +521,14 @@
       "ReindexContentMessage": "Genindekser {0} sider (Succes: {1}, Fejl: {2})"
     },
     "SignOffRequest": {
-      "SharePointPages": "SharePoint sider",
-      "SelectSharePointSite": "Vælg SharePoint site",
+      "SharePointPages": "SharePoint-sider",
+      "SelectSharePointSite": "Vælg SharePoint-websted",
       "SearchPages": "Søg sider",
-      "SPPageNotFound": "Denne SharePoint side kunne ikke findes",
-      "NoSPPagesFound": "Ingen SharePoint sider fundet",
-      "LoadingSPPages": "Indlæser SharePoint sider...",
+      "SPPageNotFound": "Denne SharePoint-side kunne ikke findes",
+      "NoSPPagesFound": "Ingen SharePoint-sider fundet",
+      "LoadingSPPages": "Indlæser SharePoint-sider...",
       "SelectAllPagesOnCurrentPage": "Vælg alle sider på nuværende side",
-      "CurrentSPPage": "Nuværende SP side",
+      "CurrentSPPage": "Nuværende SharePoint-side",
       "SPPageProviderTableHeader": {
         "FileName": "Filnavn",
         "Title": "Titel",
@@ -555,7 +555,7 @@
           "Size": "Størrelse",
           "StatusBadge": "Statusmærke",
           "None": "Ingen",
-          "Bar": "Bar",
+          "Bar": "Bjælke",
           "SeatGrid": "Kapacitetsgitter",
           "Neutral": "Neutral",
           "Primary": "Primær",
@@ -565,8 +565,8 @@
           "Compact": "Kompakt",
           "Default": "Standard",
           "Large": "Stor",
-          "PreviewRegistered": "Preview registrerede",
-          "PreviewCapacity": "Preview kapacitet"
+          "PreviewRegistered": "Preview - antal tilmeldinger",
+          "PreviewCapacity": "Preview - kapacitet"
         },
         "Presets": {
           "Classic": "Klassisk",
@@ -586,7 +586,7 @@
           "Available": "Tilgængelig",
           "FillingUp": "Fyldes op",
           "AlmostFull": "Næsten fuld",
-          "SoldOut": "Fuld"
+          "SoldOut": "Fuldt"
         }
       },
       "PageRollupViews": {
@@ -599,7 +599,7 @@
       "AdminSettings": {
         "Title": "Stil for handlingsknapper",
         "Description": "Konfigurer en standardstil for handlingsknapper.",
-        "PreviewButton": "Preview knap"
+        "PreviewButton": "Preview handlingsknap"
       }
     }
   },
@@ -763,15 +763,15 @@
         "EndDateSettings": "Indstillinger for event-slutdato",
         "RegistrationOpen": "Tilmelding åben",
         "RegistrationClosed": "Tilmelding lukket",
-        "FullyBooked": "Fuld booket",
-        "PastEvent": "Tidligere event",
+        "FullyBooked": "Fuldt",
+        "PastEvent": "Er afholdt",
         "AllDay": "Heldags",
         "TeamsMeeting": "Teams-møde"
       },
       "ListingWithImage": {
         "Properties": "Egenskaber",
         "AddProperty": "Tilføj egenskab",
-        "PropertiesSeparator": "Egenskab adskiller",
+        "PropertiesSeparator": "Adskiller mellem egenskaber",
         "WhiteSpace": "Mellemrum",
         "Property": "Egenskab",
         "NoPropertySelected": "Ingen egenskab valgt",
@@ -822,8 +822,8 @@
         "EditInOmnia": "Rediger i Omnia"
       },
       "SharepointSync": {
-        "EnableFullPageView": "Aktivér fuld visning af Omnia-sider ",
-        "EnableEnhancedCopilotIntegration": "Aktivér forbedret Copilot integration",
+        "EnableFullPageView": "Aktivér fuld visning af Omnia-sider",
+        "EnableEnhancedCopilotIntegration": "Aktivér forbedret Copilot-integration",
         "Copilot": {
           "Headline": "Sideegenskaber",
           "PropertyTemplate": "{0} for denne side er {1}",
@@ -845,7 +845,7 @@
         },
         "ThreadedComments": "Trådede kommentarer",
         "CustomInputStyle": "Tilpasset stil",
-        "Elevation": "Højde",
+        "Elevation": "Forhøjelse",
         "BorderThickness": "Kanttykkelse",
         "BorderRadius": "Kantradius",
         "BorderColor": "Kantfarve",
@@ -867,7 +867,7 @@
     "OmniaFullPage": {
       "OmniaFullPage": {
         "Name": "Fuld visning af Omnia-side",
-        "Description": "En kompotent til at vise en hel Omnia-side i SharePoint."
+        "Description": "En komponent til at vise en hel Omnia-side i SharePoint."
       },
       "Settings": {
         "AllowEdit": "Tillad redigering",
