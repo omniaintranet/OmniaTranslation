@@ -25,17 +25,17 @@
       "DialogContentProperty": "Indholdsegenskab",
       "DialogImageProperty": "Billedeegenskab",
       "DialogDateProperty": "Datoegenskab",
-      "DialogPropertyMappings": "Dialog egenskaber",
+      "DialogPropertyMappings": "Andre egenskaber",
       "OverrideDefaultSettings": "Overskriv standardindstillinger",
       "EnableRichText": "Aktivér rich text",
-      "EnableViewButtonOnDialog": "Aktivér visningsknap i dialog",
+      "EnableViewButtonOnDialog": "Vis link til side",
       "EnableMention": "Aktivér omtale"
     },
     "Admin": {
       "Settings": {
-        "SharepointPageQueryLabel": "SharePoint sideforespørgsel",
+        "SharepointPageQueryLabel": "SharePoint-sideforespørgsel",
         "SharepointPageQuery": "Basisforespørgsel",
-        "SharepointPageRollupQuery": "Basisforespørgsel for oprulning af SharePoint sider"
+        "SharepointPageRollupQuery": "Basisforespørgsel for oprulning af SharePoint-sider"
       },
       "SemanticSearch": {
         "Title": "Semantisk søgning",
@@ -74,24 +74,24 @@
       },
       "Editor": {
         "OnThisPage": "Sektioner",
-        "LivePreview": "Live preview",
+        "LivePreview": "Preview",
         "Menu": {
           "Style": "Stil"
         }
       },
       "Settings": {
-        "ImageTextRatio": "Billede/Tekst forhold",
+        "ImageTextRatio": "Billede/tekst-forhold",
         "RatioImageNarrowTitle": "30/70",
         "RatioEqualTitle": "50/50",
         "RatioImageWideTitle": "70/30",
         "Elevation": "Højde",
-        "BorderRadius": "Kantens radius",
-        "BorderWidth": "Kantens bredde",
-        "BorderColor": "Kantens farve",
+        "BorderRadius": "Kantradius",
+        "BorderWidth": "Kantbredde",
+        "BorderColor": "Kantfarve",
         "AddMedia": "Tilføj media",
         "ChangeMedia": "Skift media",
         "RemoveMedia": "Fjern media",
-        "TitleElement": "Titel element",
+        "TitleElement": "Titelelement",
         "TitleElements": {
           "Default": "Standard",
           "H1": "h1",
@@ -142,7 +142,7 @@
         "Arrow": "Pil",
         "Dot": "Prik",
         "Pipe": "Lodret streg",
-        "Guillemet": "Vinkel",
+        "Guillemet": "Chevron",
         "None": "Ingen",
         "Underline": "Understregning",
         "Tint": "Farvetone"
@@ -151,7 +151,7 @@
     "ContentFlow": {
       "Block": {
         "BlockTitle": "Indholdsbygger",
-        "BlockSummary": "Opret struktureret sideindhold med tekst, media og citater.",
+        "BlockSummary": "Opret struktureret sideindhold med tekst, medier og citater.",
         "Placeholder": "Visning af Indholdsbygger vil være tilgængelig, når bloklagring er implementeret.",
         "Media": {
           "AddImage": "Tilføj medie",
@@ -218,7 +218,7 @@
             "Description": "En enkelt rich text blok."
           },
           "Media": {
-            "Title": "Media",
+            "Title": "Medie",
             "Description": "En enkelt medieblok."
           },
           "MediaText": {
@@ -230,8 +230,8 @@
             "Description": "To rækker med tre medieblokke."
           },
           "TextMedia": {
-            "Title": "Tekst og media",
-            "Description": "Tekst til venstre, media til højre."
+            "Title": "Tekst og medie",
+            "Description": "Tekst til venstre, medie til højre."
           },
           "Person": {
             "Title": "Person",
@@ -354,13 +354,13 @@
           "BlocksEmpty": "En række skal indeholde mindst én blok.",
           "BlockIdMissing": "Blok ID er påkrævet.",
           "TextMissing": "En tekstblok skal indeholde tekstindhold.",
-          "MediaMissing": "En mediablok skal indeholde mediaindhold.",
+          "MediaMissing": "En medieblok skal indeholde et billede eller video.",
           "QuoteMissing": "En citatblok skal indeholde rich text indhold.",
           "SpacingMissing": "En afstandsblok skal indeholde afstandsindstillinger.",
           "RowInvalid": "Ugyldig række blev erstattet med en tekst række.",
           "BlockInvalid": "Ugyldig blok blev erstattet med en tekstblok.",
-          "LegacyTextMigrated": "Legacy tekstindhold blev migreret til en tekst række.",
-          "LegacyMediaMigrated": "Legacy mediaindhold blev migreret til en media række."
+          "LegacyTextMigrated": "Originalt tekstindhold blev migreret til en tekst række.",
+          "LegacyMediaMigrated": "Originalt medieindhold blev migreret til en medierække."
         }
       }
     },
@@ -368,13 +368,13 @@
       "Blocks": {
         "OmniaFullPageExperience": {
           "Title": "Fuld visning af Omnia-side",
-          "Summary": "Brug denne blok til at vise en hel Omnia-side på en SharePoint-side.."
+          "Summary": "Brug denne blok til at vise en hel Omnia-side på en SharePoint-side."
         }
       },
       "Features": {
         "OmniaFullPageExperience": {
           "Category": "System",
-          "Description": "Provisioner en systemside til SharePoint site sidebibliotek.",
+          "Description": "Provisioner en systemside til et SharePoint site sidebibliotek.",
           "Title": "Fuld visning af Omnia-side"
         }
       }
@@ -408,7 +408,7 @@
     },
     "IFrameBlock": {
       "Settings": {
-        "Title": "IFrame skjult titel",
+        "Title": "IFrame titel (vises ikke)",
         "CustomUrlTitle": "Brugerdefineret URL",
         "PropertyUrlTitle": "URL fra egenskab"
       }
@@ -423,7 +423,7 @@
     },
     "CurrentNavigation": {
       "Settings": {
-        "StylePreset": "Forudindstilling",
+        "StylePreset": "Stil",
         "General": "Generelt",
         "CurrentNodeIndicator": "Markering af aktuel node",
         "OpenCollapse": "Åbn og luk",
