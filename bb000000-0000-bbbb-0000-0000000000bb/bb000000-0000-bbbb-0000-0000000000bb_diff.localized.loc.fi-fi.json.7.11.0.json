@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Monipaikkahaku",
+          "Category": "Järjestelmä",
+          "Description": "Näytä tulokset kaikista maantieteellisistä sijainneista"
+        }
+      }
+    }
+  }
+}
