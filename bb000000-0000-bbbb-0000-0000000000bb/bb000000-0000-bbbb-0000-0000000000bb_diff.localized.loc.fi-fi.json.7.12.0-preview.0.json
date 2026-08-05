@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Omnian sisältö"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "Oma Microsoft 365 -profiilini"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "Haluatko varmasti poistaa tämän kohdennuspersoonan?",
+          "Title": "Poista kohdennuspersoonan"
+        }
+      }
+    }
+  }
+}
