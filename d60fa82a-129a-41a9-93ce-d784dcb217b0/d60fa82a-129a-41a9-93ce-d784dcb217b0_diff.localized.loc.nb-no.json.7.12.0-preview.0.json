@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Kunne ikke lagre sidens tilstand før bytte til forhåndsvisningsmodus."
+          "SaveStateBeforePreviewFailed": "Vi kunne ikke lagre de gjeldende endringene dine før forhåndsvisningen ble åpnet. Prøv igjen."
         }
       }
     }
