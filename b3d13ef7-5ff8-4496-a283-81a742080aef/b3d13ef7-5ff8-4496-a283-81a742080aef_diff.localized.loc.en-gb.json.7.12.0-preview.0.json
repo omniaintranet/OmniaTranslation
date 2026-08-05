@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "The scheduled publishing date cannot be in the past."
+      }
+    }
+  }
+}
