@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Det gick inte att spara sidans tillstånd innan förhandsgranskningsläge byttes."
+          "SaveStateBeforePreviewFailed": "Det gick inte att fullt ut spara sidan före förhandsgranskning."
         }
       }
     }
