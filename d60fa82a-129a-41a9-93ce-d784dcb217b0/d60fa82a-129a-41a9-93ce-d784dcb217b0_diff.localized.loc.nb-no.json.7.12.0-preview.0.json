@@ -26,7 +26,7 @@
       "ApprovalBypassDialog": {
         "BypassPermissionMessage": "Din rolle lar deg publisere uten godkjenning.",
         "ApprovalDescription": "Sendes til den valgte godkjenneren før publisering.",
-        "ContinueApprovalDescription": "Fortsett den nåværende godkjenningsflyten uten å omgå den.",
+        "ContinueApprovalDescription": "Fortsett den nåværende godkjenningsflyten uten å omgå godkjenningen.",
         "ContinueApprovalButton": "Fortsett godkjenning",
         "PublishDescription": "Din rolle lar deg publisere direkte uten godkjenning.",
         "PublishWarning": "Dette omgår godkjenningsflyten og vil være tilgjengelig umiddelbart.",
