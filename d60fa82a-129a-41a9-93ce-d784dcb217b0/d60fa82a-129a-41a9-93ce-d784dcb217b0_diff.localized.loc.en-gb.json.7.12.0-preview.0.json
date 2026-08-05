@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Failed to save page state before switching to preview mode."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Remove call to action"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Start",
+          "EventEndTime": "End"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "There was an error while processing emails. Please try again.",
+        "ErrorDetails": "Details",
+        "Retry": "Retry"
+      }
+    }
+  }
+}
