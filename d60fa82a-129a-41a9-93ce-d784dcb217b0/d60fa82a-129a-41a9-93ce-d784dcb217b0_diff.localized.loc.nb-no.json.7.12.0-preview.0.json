@@ -85,13 +85,13 @@
         "RatioEqualTitle": "50/50",
         "RatioImageWideTitle": "70/30",
         "Elevation": "Høyde",
-        "BorderRadius": "Kant radius",
-        "BorderWidth": "Kant bredde",
-        "BorderColor": "Kant farge",
-        "AddMedia": "Legg til media",
-        "ChangeMedia": "Endre media",
-        "RemoveMedia": "Fjern media",
-        "TitleElement": "Titelelement",
+        "BorderRadius": "Kantradius",
+        "BorderWidth": "Kantbredde",
+        "BorderColor": "Kantfarge",
+        "AddMedia": "Legg til medie",
+        "ChangeMedia": "Endre medie",
+        "RemoveMedia": "Fjern medie",
+        "TitleElement": "Tittelelement",
         "TitleElements": {
           "Default": "Standard",
           "H1": "h1",
@@ -142,7 +142,7 @@
         "Arrow": "Pil",
         "Dot": "Punkt",
         "Pipe": "Pipe",
-        "Guillemet": "Vinkel",
+        "Guillemet": "Chevron",
         "None": "Ingen",
         "Underline": "Understrek",
         "Tint": "Tone"
@@ -150,18 +150,18 @@
     },
     "ContentFlow": {
       "Block": {
-        "BlockTitle": "Innholdsstrøm",
-        "BlockSummary": "Lag strukturert sideinnhold med tekst, media og sitater.",
-        "Placeholder": "Innholdsstrøm-gjengivelse vil være tilgjengelig når blokk-lagring er implementert.",
+        "BlockTitle": "Innholdsbygger",
+        "BlockSummary": "Lag strukturert sideinnhold med tekst, medie og sitater.",
+        "Placeholder": "Innholdsbygger-gjengivelse vil være tilgjengelig når blokk-lagring er implementert.",
         "Media": {
-          "AddImage": "Legg til media",
-          "EditImage": "Rediger media",
-          "RemoveImage": "Fjern media",
-          "ReplaceImage": "Bytt media",
-          "PlaceholderTitle": "Legg til media",
-          "PlaceholderDescription": "Velg et bilde eller video fra mediebiblioteket for denne Innholdsstrøm media-blokken.",
+          "AddImage": "Legg til medie",
+          "EditImage": "Rediger medie",
+          "RemoveImage": "Fjern medie",
+          "ReplaceImage": "Bytt medie",
+          "PlaceholderTitle": "Legg til medie",
+          "PlaceholderDescription": "Velg et bilde eller video fra mediebiblioteket for denne innholdsbygger medie-blokken.",
           "Width": {
-            "Label": "Media bredde",
+            "Label": "Mediebredde",
             "Content": "Innhold",
             "Wide": "Bred",
             "Full": "Full",
@@ -191,7 +191,7 @@
           "Delete": "Slett",
           "DragToReorder": "Dra for å endre rekkefølge",
           "Duplicate": "Dupliser",
-          "InheritedContent": "Denne blokken gjenbruker tilordnet innholdsstrøm-innhold.",
+          "InheritedContent": "Denne blokken gjenbruker tilordnet innhold.",
           "InsertTemplate": "Sett inn mal",
           "MoveDown": "Flytt ned",
           "MoveUp": "Flytt opp",
@@ -218,20 +218,20 @@
             "Description": "En enkelt rik tekst-blokk."
           },
           "Media": {
-            "Title": "Media",
-            "Description": "En enkelt media-blokk."
+            "Title": "Medie",
+            "Description": "En enkelt medie-blokk."
           },
           "MediaText": {
-            "Title": "Media + Tekst",
-            "Description": "Media til venstre, tekst til høyre."
+            "Title": "Medie + Tekst",
+            "Description": "Medie til venstre, tekst til høyre."
           },
           "MediaGallery": {
-            "Title": "Mediagalleri",
-            "Description": "To rader med tre mediablokker."
+            "Title": "Mediegalleri",
+            "Description": "To rader med tre medieblokker."
           },
           "TextMedia": {
-            "Title": "Tekst + Media",
-            "Description": "Tekst til venstre, media til høyre."
+            "Title": "Tekst + Medie",
+            "Description": "Tekst til venstre, medie til høyre."
           },
           "Person": {
             "Title": "Person",
@@ -290,22 +290,22 @@
           "ValidationIssues": "Valideringsproblemer"
         },
         "Settings": {
-          "Title": "Innholdsstrøm-innstillinger",
-          "Placeholder": "Innholdsstrøm-innstillinger vil være tilgjengelig når blokk-lagring er implementert.",
+          "Title": "Innholdsbygger-innstillinger",
+          "Placeholder": "Innholdsbygger-innstillinger vil være tilgjengelig når blokk-lagring er implementert.",
           "Categories": {
             "General": "Generelt",
             "Layout": "Oppsett",
-            "Media": "Media",
+            "Media": "Medie",
             "Divider": "Skiller",
             "Editor": "Redigerer",
             "AiAssistance": "AI assistanse"
           },
           "RowSpacing": "Radavstand",
-          "RowSpacingHint": "Setter vertikal avstand mellom innholdsstrøm-rader.",
+          "RowSpacingHint": "Setter vertikal avstand mellom innholdsbygger-rader.",
           "ColumnSpacing": "Kolonneavstand",
-          "ColumnSpacingHint": "Setter avstand mellom kolonner og galleri-elementer i innholdsstrøm-rader.",
-          "MediaBorderRadius": "Media kant radius",
-          "MediaBorderRadiusHint": "Setter kant radius for alle media-innholdsblokker i redigereren.",
+          "ColumnSpacingHint": "Setter avstand mellom kolonner og galleri-elementer i innholdsbygger-rader.",
+          "MediaBorderRadius": "Medie-kantradius",
+          "MediaBorderRadiusHint": "Setter kant radius for alle medie-innholdsblokker i redigereren.",
           "DividerStyle": "Stil",
           "DividerColor": "Farge",
           "DividerOpacity": "Gjennomsiktighet",
@@ -318,13 +318,13 @@
           "DividerStyleDoubleDashed": "Dobbel stiplet",
           "DividerStyleDoubleDotted": "Dobbel prikket",
           "ConfirmDelete": "Bekreft sletting",
-          "ConfirmDeleteHint": "Vis en bekreftelses-popup før sletting av en innholdsstrøm-blokk.",
+          "ConfirmDeleteHint": "Vis en bekreftelses-popup før sletting av en innholdsbygger-blokk.",
           "ConfirmDeleteTitle": "Slett blokk?",
-          "ConfirmDeleteMessage": "Denne blokken vil bli slettet fra innholdsstrømmen.",
+          "ConfirmDeleteMessage": "Denne blokken vil bli slettet fra innholdsbyggeren.",
           "EnableAiAssistance": "Aktiver AI assistanse",
           "EnableAiAssistanceHint": "Aktiverer AI-handling i verktøylinjen og full side-generering.",
           "AiMediaProvider": "AI medieleverandør",
-          "AiMediaProviderHint": "Velger hvordan genererte side-mediablokker fylles under full side AI-generering.",
+          "AiMediaProviderHint": "Velger hvordan genererte side-medieblokker fylles under full side AI-generering.",
           "AiMediaProviderNone": "Ingen",
           "AiMediaProviderPexels": "Pexels",
           "AiMediaProviderBing": "Bing",
@@ -332,7 +332,7 @@
           "AiPromptSettings": {
             "BlockTemplateSelectionPrompt": "Malvalg for blokk",
             "Cancel": "Avbryt",
-            "Description": "Konfigurer instruksjonene som brukes av Innholdsstrøm AI på tvers av denne forretningsprofilen.",
+            "Description": "Konfigurer instruksjonene som brukes av AI knyttet til innholdsbyggeren på tvers av denne forretningsprofilen.",
             "GlobalPostPrompt": "Global post-instruksjon",
             "GlobalPrePrompt": "Global pre-instruksjon",
             "LoadError": "De lagrede instruksjonsinnstillingene kunne ikke lastes. Standardverdier vises.",
@@ -340,27 +340,27 @@
             "SaveError": "Instruksjonsinnstillingene kunne ikke lagres.",
             "Saved": "Instruksjonsinnstillinger lagret.",
             "TemplatePrompts": "Mal-instruksjoner",
-            "Title": "Innholdsstrøm AI instruksjoner"
+            "Title": "Innholdsbygger AI instruksjoner"
           }
         },
         "Errors": {
           "InvalidJsonDefaultCreated": "Ugyldig JSON ble erstattet med et standarddokument.",
           "MissingDocumentDefaultCreated": "Manglende dokument ble erstattet med et standarddokument.",
-          "SchemaMigrated": "Dokumentet ble normalisert til Innholdsstrøm skjema versjon 1.",
-          "SchemaInvalid": "Innholdsstrøm-dokumenter må bruke skjema versjon 1.",
-          "RowsEmpty": "Innholdsstrøm-dokumenter må inneholde minst én rad.",
+          "SchemaMigrated": "Dokumentet ble normalisert til innholdsbygger skjemaversjon 1.",
+          "SchemaInvalid": "Innholdsbygger-dokumenter må bruke skjemaversjon 1.",
+          "RowsEmpty": "Innholdsbygger-dokumenter må inneholde minst én rad.",
           "RowIdMissing": "Rad-ID er påkrevd.",
           "RowTemplateInvalid": "Radmal-type støttes ikke.",
           "BlocksEmpty": "En rad må inneholde minst én blokk.",
           "BlockIdMissing": "Blokk-ID er påkrevd.",
           "TextMissing": "En tekstblokk må inneholde tekstinnhold.",
-          "MediaMissing": "En mediablokk må inneholde mediainnhold.",
+          "MediaMissing": "En medieblokk må inneholde medieinnhold.",
           "QuoteMissing": "En sitatblokk må inneholde rik tekst-innhold.",
           "SpacingMissing": "En avstandsblokk må inneholde avstandsinnstillinger.",
           "RowInvalid": "Ugyldig rad ble erstattet med en tekst-rad.",
           "BlockInvalid": "Ugyldig blokk ble erstattet med en tekstblokk.",
           "LegacyTextMigrated": "Eldre tekstinnhold ble migrert til en tekst-rad.",
-          "LegacyMediaMigrated": "Eldre mediainnhold ble migrert til en media-rad."
+          "LegacyMediaMigrated": "Eldre medieinnhold ble migrert til en medie-rad."
         }
       }
     },
@@ -428,18 +428,18 @@
         "CurrentNodeIndicator": "Indikator for gjeldende node",
         "OpenCollapse": "Åpne & skjul",
         "OpenCollapseColor": "Åpne & skjul farge",
-        "RowDensity": "Rad tetthet",
+        "RowDensity": "Radtetthet",
         "HoverState": "Hover-tilstand",
         "HoverColor": "Hover-farge",
-        "IndentGuide": "Innrykk guide",
+        "IndentGuide": "Innrykkguide",
         "IndicatorColor": "Indikatorfarge",
-        "RowFontSize": "Rad skriftstørrelse",
+        "RowFontSize": "Radskriftstørrelse",
         "LivePreview": "Direkte forhåndsvisning",
         "OmniaClassic": "Omnia klassisk",
         "OmniaClassicDescription": "Nåværende Omnia navigasjonsstil",
         "MaterialClassic": "Material klassisk",
         "MaterialClassicDescription": "Fet primærtekst - chevron høyre",
-        "LeftBarAccent": "Venstre stolpe aksent",
+        "LeftBarAccent": "Venstre stolpeaksent",
         "LeftBarAccentDescription": "Sidefelt markør - chevron høyre",
         "TintedPill": "Tonet pille",
         "TintedPillDescription": "Fylt aktiv rad - pluss/minus skjul",
@@ -673,10 +673,10 @@
             "AdjustWidthPlaceholder": "Bredde",
             "CollapseFilter": "Skjul filter som standard"
           },
-          "SearchCategories": "Søk kategorier",
+          "SearchCategories": "Søkkategorier",
           "CategoryTypes": {
             "SharePointLibrary": "SharePoint bibliotek",
-            "SearchCategory": "Søk kategori"
+            "SearchCategory": "Søkkategori"
           },
           "SharePointLibraryUrl": "SharePoint bibliotek URL",
           "LibraryNotExistedMessage": "Kan ikke finne et bibliotek på denne URL-en.",
@@ -724,7 +724,7 @@
           "ImageRight": "Bilde til høyre",
           "ImageLeft": "Bilde til venstre"
         },
-        "TitleElement": "Titelelement",
+        "TitleElement": "Tittelelement",
         "TitleElements": {
           "Custom": "Tilpasset",
           "H1": "h1",
@@ -772,7 +772,7 @@
         "Properties": "Egenskaper",
         "AddProperty": "Legg til egenskap",
         "PropertiesSeparator": "Egenskapsseparator",
-        "WhiteSpace": "Hvitt rom",
+        "WhiteSpace": "Luft",
         "Property": "Egenskap",
         "NoPropertySelected": "Ingen egenskap valgt",
         "DateModeDefault": "Standard",
@@ -780,7 +780,7 @@
         "DateModeSocial": "Sosial",
         "HideAvatar": "Skjul avatar",
         "ShowAsText": "Vis som tekst",
-        "SeparatorType": "Separator type",
+        "SeparatorType": "Separatortype",
         "RightAlignLikesComments": "Høyrejuster liker og kommentarer"
       },
       "Common": {
@@ -846,9 +846,9 @@
         "ThreadedComments": "Trådede kommentarer",
         "CustomInputStyle": "Egendefinert inndatastil",
         "Elevation": "Høyde",
-        "BorderThickness": "Kant tykkelse",
-        "BorderRadius": "Kant radius",
-        "BorderColor": "Kant farge",
+        "BorderThickness": "Kanttykkelse",
+        "BorderRadius": "Kantradius",
+        "BorderColor": "Kantfarge",
         "TextColor": "Tekstfarge",
         "BackgroundColor": "Bakgrunnsfarge",
         "EnableRichTextPageFeedback": "Formatering",
