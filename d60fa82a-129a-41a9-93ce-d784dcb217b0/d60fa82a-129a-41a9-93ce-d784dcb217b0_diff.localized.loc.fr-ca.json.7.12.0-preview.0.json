@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Échec de l’enregistrement de l’état de la page avant de passer en mode aperçu."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Supprimer l’appel à l’action"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Début",
+          "EventEndTime": "Fin"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Une erreur est survenue lors du traitement des courriels. Veuillez réessayer.",
+        "ErrorDetails": "Détails",
+        "Retry": "Réessayer"
+      }
+    }
+  }
+}
