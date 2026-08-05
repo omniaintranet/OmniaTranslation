@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "切换预览模式前保存页面状态失败。"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "移除号召性用语"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "开始",
+          "EventEndTime": "结束"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "处理电子邮件时发生错误。请重试。",
+        "ErrorDetails": "详细信息",
+        "Retry": "重试"
+      }
+    }
+  }
+}
