@@ -13,8 +13,8 @@
     "Targeting": {
       "Persona": {
         "DeleteDialog": {
-          "Message": "Är du säker på att du vill ta bort denna targeting-persona?",
-          "Title": "Ta bort targeting-persona"
+          "Message": "Är du säker på att du vill ta bort denna målgrupp-persona?",
+          "Title": "Ta bort målgrupp-persona"
         }
       }
     }
