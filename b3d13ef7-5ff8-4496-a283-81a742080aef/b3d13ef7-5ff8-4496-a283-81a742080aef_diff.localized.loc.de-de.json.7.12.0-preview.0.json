@@ -8,7 +8,7 @@
     },
     "DocumentLibrary": {
       "DocumentStatuses": {
-        "NotInPropertySetError": "Das Dokument befindet sich nicht im Eigenschaftensatz."
+        "NotInPropertySetError": "Das Dokument befindet sich nicht im Eigenschaftengruppe."
       }
     }
   }
