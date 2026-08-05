@@ -7,9 +7,9 @@
         "InheritFromTenant": "Arv fra tenant",
         "EnableCustomFont": "Aktivér brugerdefineret skrifttype",
         "FontFamilyName": "Skrifttypenavn",
-        "FontSource": "Skrifttype-kilde",
+        "FontSource": "Skrifttypekilde",
         "FileUpload": "Filupload",
-        "CdnFileLink": "CDN fil link",
+        "CdnFileLink": "CDN-fillink",
         "ChooseFontFile": "Vælg skrifttypefil",
         "NoFileSelected": "Ingen fil valgt",
         "SupportedFontFilesHelp": "Understøttede skrifttypefiler: WOFF, WOFF2, TTF og OTF. Maksimal størrelse er 10 MB.",
@@ -84,7 +84,7 @@
         "CurrentYearIs": "Nuværende år er",
         "SelectedMonthPrefix": "Valgt:",
         "YearLabel": "År",
-        "PreviousYears": "Forrige år",
+        "PreviousYears": "Forrige årrække",
         "NextYears": "Næste år",
         "SelectedYearPrefix": "Valgt:",
         "IncreaseHour": "Forøg time",
@@ -119,7 +119,7 @@
             "ExcludeFromSync": "Udeluk fra synkronisering",
             "ExcludeFromSyncDescription": "Brugere, der matcher nedenstående filtre, springes over under synkronisering.",
             "MatchUsersWhere": "Match brugere hvor",
-            "MatchUsersWhereDescription": "Alle filtre skal matche (logik OG). Inden for et filter kan enhver værdi matche (logik ELLER).",
+            "MatchUsersWhereDescription": "Alle filtre skal matche (logisk OG). Inden for et filter kan enhver værdi matche (logisk ELLER).",
             "NoUserSynchronizationFilters": "Ingen filtre endnu - uden filtre matcher denne regel alle brugere.",
             "And": "OG",
             "Where": "Hvor",
@@ -160,7 +160,7 @@
         },
         "WorkspaceNextGenUI": {
           "Category": "System",
-          "Title": "Next gen Omnia UI for startside / hjem,",
+          "Title": "Next gen Omnia UI for startside / hjem",
           "Description": "Aktivér ny UI-oplevelse for konfiguration af startsiden / hjem i Omnia admin under 'Arbejdsområde'"
         },
         "AppInstanceNextGenUI": {
@@ -172,7 +172,7 @@
       "FilterEngine": {
         "Editor": {
           "SearchBoxSettings": {
-            "AriaLabel": "Søgefelt ARIA etiket"
+            "AriaLabel": "ARIA-etiket for søgefelt"
           }
         },
         "Renderer": {
@@ -198,7 +198,7 @@
           },
           "ColumnSettings": {
             "ComplementaryInformation": "Supplerende information",
-            "ComplementaryInformationAriaLabel": "Aria etiket"
+            "ComplementaryInformationAriaLabel": "Aria-etiket"
           }
         }
       },
