@@ -2,13 +2,13 @@
   "Omnia": {
     "Ux": {
       "CustomFont": {
-        "SystemFont": "Browser font (web-sikker)",
-        "SystemFontHelp": "Bruger en skrifttype, der allerede er tilgængelig i browseren. Indtast blot skrifttypefamilienavnet, ingen fil eller link er nødvendigt."
+        "SystemFont": "Browser-skrifttype (web-sikker)",
+        "SystemFontHelp": "Bruger en skrifttype, der allerede er tilgængelig i browseren. Indtast blot skrifttypen. Ingen fil eller link er nødvendigt."
       },
       "LayoutEngine": {
         "Panels": {
           "BlockTitleSettings": {
-            "CustomStyles": "Brugerdefinerede stilarter"
+            "CustomStyles": "Brugerdefinerede stile"
           }
         }
       }
