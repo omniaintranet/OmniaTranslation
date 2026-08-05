@@ -3,7 +3,7 @@
     "Ux": {
       "CustomFont": {
         "SystemFont": "Nettleserfont (web-sikker)",
-        "SystemFontHelp": "Bruker en font som allerede er tilgjengelig i nettleseren. Skriv bare inn fontfamilienavnet, ingen fil eller lenke er nødvendig."
+        "SystemFontHelp": "Bruker en font som allerede er tilgjengelig i nettleseren. Skriv bare inn fonten. Ingen fil eller lenke er nødvendig."
       },
       "LayoutEngine": {
         "Panels": {
