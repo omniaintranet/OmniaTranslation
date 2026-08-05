@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "Aikataulutettu julkaisupäivä ei voi olla menneisyydessä."
+      }
+    }
+  }
+}
