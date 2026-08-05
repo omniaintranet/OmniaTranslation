@@ -3,7 +3,7 @@
     "Feed": {
       "App": {
         "Notification": {
-          "ACommentYouWereMentionedIsEdited": "A comment you were mentioned in was edited"
+          "ACommentYouWereMentionedIsEdited": "A comment you were mentioned in was edited."
         }
       }
     }
