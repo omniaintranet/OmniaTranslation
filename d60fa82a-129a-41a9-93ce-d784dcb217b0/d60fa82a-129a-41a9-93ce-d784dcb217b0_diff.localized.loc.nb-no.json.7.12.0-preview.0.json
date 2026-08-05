@@ -753,8 +753,8 @@
         "ShowRegistrationStatus": "Vis påmeldingsstatus",
         "ShowPastEventStatus": "Vis status for tidligere arrangement",
         "ShowAllDayStatus": "Vis status for hele dagen",
-        "ShowTeamsMeetingStatus": "Vis Teams møte status",
-        "JoinTeamsMeeting": "Bli med i Teams møte",
+        "ShowTeamsMeetingStatus": "Vis Teams-møtestatus",
+        "JoinTeamsMeeting": "Bli med i Teamsmøte",
         "MovePropertyUp": "Flytt opp {0}",
         "MovePropertyDown": "Flytt ned {0}",
         "RemoveTermProperty": "Fjern {0}",
@@ -766,7 +766,7 @@
         "FullyBooked": "Fullt booket",
         "PastEvent": "Tidligere arrangement",
         "AllDay": "Hele dagen",
-        "TeamsMeeting": "Teams møte"
+        "TeamsMeeting": "Teamsmøte"
       },
       "ListingWithImage": {
         "Properties": "Egenskaper",
