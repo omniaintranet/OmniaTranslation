@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "切换预览模式前保存页面状态失败。"
+          "SaveStateBeforePreviewFailed": "我们无法在打开预览之前保存您当前的更改。请重试。"
         }
       }
     }
