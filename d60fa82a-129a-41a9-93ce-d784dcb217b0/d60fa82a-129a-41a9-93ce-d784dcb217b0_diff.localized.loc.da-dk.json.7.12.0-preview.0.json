@@ -4,12 +4,12 @@
       "Editor": {
         "Panels": {
           "Versions": {
-            "ApprovalBypassed": "Godkendelse omgået"
+            "ApprovalBypassed": "Godkendelse er sprunget over"
           },
           "Approval": {
             "UsersAndGroups": "Brugere og Grupper",
-            "AllowApprovalBypass": "Tillad omgåelse af godkendelse",
-            "ApprovalBypassUsersOrGroups": "Brugere eller grupper, der har tilladelse til at omgå godkendelse."
+            "AllowApprovalBypass": "Tillad til at springe godkendelse over",
+            "ApprovalBypassUsersOrGroups": "Brugere eller grupper, der må springe godkendelse iver."
           }
         }
       }
@@ -20,23 +20,23 @@
       "ActionButtons": {
         "ForApproval": "Til godkendelse",
         "PublishNow": "Udgiv nu",
-        "BypassApproval": "Omgå godkendelse",
+        "BypassApproval": "Spring godkendelse over",
         "ScheduleNow": "Planlæg nu"
       },
       "ApprovalBypassDialog": {
         "BypassPermissionMessage": "Din rolle giver dig mulighed for at udgive uden godkendelse.",
         "ApprovalDescription": "Sendes til den valgte godkender, før det udgives.",
-        "ContinueApprovalDescription": "Fortsæt den aktuelle godkendelsesworkflow uden at omgå den.",
+        "ContinueApprovalDescription": "Fortsæt den aktuelle godkendelsesproces uden at springe godkendelse over.",
         "ContinueApprovalButton": "Fortsæt godkendelse",
         "PublishDescription": "Din rolle giver dig mulighed for at udgive direkte uden godkendelse.",
-        "PublishWarning": "Dette omgår godkendelsesflowet og vil være tilgængeligt med det samme.",
+        "PublishWarning": "Dette omgår godkendelsesprocessen og vil være tilgængeligt med det samme.",
         "ScheduleDescription": "Din rolle giver dig mulighed for at planlægge uden godkendelse.",
-        "ScheduleWarning": "Dette omgår godkendelsesflowet og planlægger siden til udgivelse på den konfigurerede dato.",
-        "SchedulePropertyDescription": "Den konfigurerede planlægningsdato vil blive brugt i planlægningsworkflowet.",
+        "ScheduleWarning": "Dette omgår godkendelsesprocessen og planlægger siden til udgivelse på den angivne dato.",
+        "SchedulePropertyDescription": "Den angivne udgivelsesdato vil blive brugt til planlagt udgivelse.",
         "PublishAction": "Udgivelseshandling",
         "PublishAndSendEmailDisabledDescription": "Email er ikke aktiveret for denne side.",
         "CommentOptional": "Kommentar (valgfri)",
-        "ApprovalBypassedLabel": "Godkendelse omgået",
+        "ApprovalBypassedLabel": "Godkendelse er sprunget over",
         "CurrentUserCouldNotBeResolved": "Nuværende bruger kunne ikke identificeres. Prøv venligst igen."
       }
     }
