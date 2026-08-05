@@ -5,7 +5,7 @@
         "MultiGeoSearch": {
           "Title": "Multi-Geo Search",
           "Category": "System",
-          "Description": "Display results from all geolocations"
+          "Description": "Display results from all geolocations."
         }
       }
     }
