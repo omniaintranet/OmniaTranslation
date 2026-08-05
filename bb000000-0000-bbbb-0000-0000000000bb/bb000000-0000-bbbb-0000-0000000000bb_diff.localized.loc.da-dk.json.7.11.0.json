@@ -5,16 +5,16 @@
         "Synchronization": {
           "Provider": {
             "AzureAd": {
-              "SyncUserFilterSetupTitle": "Brugersynkroniseringsfiltre"
+              "SyncUserFilterSetupTitle": "Filtre til brugersynkronisering"
             }
           },
           "Settings": {
-            "UserSynchronizationFilterBladeTitle": "Brugersynkroniseringsfilter",
-            "UserSynchronizationFilterDescription": "Konfigurer filter til at inkludere eller ekskludere brugere fra synkronisering",
-            "UserSynchronizationFilterNotConfigured": "Intet brugersynkroniseringsfilter er konfigureret.",
+            "UserSynchronizationFilterBladeTitle": "Filtre til brugersynkronisering",
+            "UserSynchronizationFilterDescription": "Konfigurer filtre til at inkludere eller ekskludere brugere fra synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Intet brugersynkroniseringsfiltre er konfigureret.",
             "UserSynchronizationFilterConfigured": "Konfigureret med {0} filtre",
             "Configure": "Konfigurer",
-            "RuleAction": "Regelhandling",
+            "RuleAction": "Regel",
             "IncludeInSync": "Inkluder i synkronisering",
             "IncludeInSyncDescription": "Brugere, der matcher nedenstående filtre, tilføjes til kataloget.",
             "ExcludeFromSync": "Ekskluder fra synkronisering",
