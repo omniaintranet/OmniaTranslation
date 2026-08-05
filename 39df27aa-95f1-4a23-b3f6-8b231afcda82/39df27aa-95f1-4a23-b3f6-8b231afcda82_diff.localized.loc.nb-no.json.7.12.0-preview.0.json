@@ -3,7 +3,7 @@
     "BusinessProfile": {
       "MediaPicker": {
         "InheritFromTenant": "Arv fra tenant",
-        "ImageScaling": "Bilde skalering",
+        "ImageScaling": "Bildeskalering",
         "CropRatios": {
           "BusinessProfileOverrideNotSupported": "Overstyring av beskjæringsforhold på bedriftsprofilnivå støttes ikke.",
           "SelectTenantRatios": "Velg hvilke tenant-beskjæringsforhold som skal brukes i denne bedriftsprofilen."
@@ -40,7 +40,7 @@
     },
     "System": {
       "SPFxInstruction": {
-        "CreateAppCatalogScreenshotAlt": "Skjermbilde som viser hvor du oppretter et SharePoint app-katalognettsted.",
+        "CreateAppCatalogScreenshotAlt": "Skjermbilde som viser hvor du oppretter et SharePoint app-katalog.",
         "UploadPackageScreenshotAlt": "Skjermbilde som viser hvor du laster opp SharePoint-pakken i Apper for SharePoint.",
         "AvailableToAllSitesScreenshotAlt": "Skjermbilde som viser valget for å gjøre SharePoint-pakken tilgjengelig for alle nettsteder."
       }
@@ -89,7 +89,7 @@
         "Social": "Sosial",
         "Classic": "Klassisk",
         "DateFormat": "Datoformat",
-        "NoResultText": "Ingen resultat tekst",
+        "NoResultText": "Tekst for ingen resultat",
         "ModernAnnoucement": "Moderne kunngjøring"
       },
       "CommentCount": "{0} kommentarer"
@@ -151,7 +151,7 @@
         "ShowLessLinks": "Vis færre lenker"
       },
       "ComponentSettingsForm": {
-        "TruncateText": "Forkort etikett",
+        "TruncateText": "Forkort lenketittel",
         "IncludePersonalLinks": "Inkluder personlige lenker",
         "IncludeFollowingLinks": "Inkluder fulgte lenker",
         "ShowManageLinks": "Vis ikon for lenkeadministrasjon",
@@ -163,8 +163,8 @@
         "SquareDesign": "Firkantet design",
         "FontSize": "Skriftstørrelse",
         "IconSize": "Ikonstørrelse",
-        "IconMargin": "Ikon marg",
-        "IconPadding": "Ikon polstring"
+        "IconMargin": "Ikon-marg",
+        "IconPadding": "Ikon-padding"
       }
     },
     "NotificationPanel": {
@@ -239,13 +239,13 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "SharePoint sideoppsummering",
+          "Title": "SharePointside-opprulling",
           "Summary": "List opp SharePoint-sider."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "SharePoint sideoppsummering",
+      "SharePointPageControlTitle": "SharePointside-opprulling",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
@@ -292,13 +292,13 @@
         "Width": "Bredde",
         "ShowLabel": "Vis etikett",
         "CustomLabel": "Egendefinert etikett",
-        "InvalidUrl": "URL-en må være en sideliste.",
+        "InvalidUrl": "URL-en må peke på en SharePoint-side.",
         "DeleteSpPageConfirmation": {
           "Title": "Fjern side",
           "Message": "Er du sikker på at du vil fjerne denne siden?"
         },
         "PickPages": {
-          "Title": "SharePoint sidevelger",
+          "Title": "SharePoint-sidevelger",
           "AddPageLabel": "Legg til side",
           "NoPagesFound": "Ingen sider funnet",
           "Placeholder": "Søk etter sider...",
