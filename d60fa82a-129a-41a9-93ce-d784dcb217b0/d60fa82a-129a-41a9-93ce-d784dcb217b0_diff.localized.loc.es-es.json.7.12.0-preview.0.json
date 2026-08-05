@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Error al guardar el estado de la página antes de cambiar al modo de vista previa."
+          "SaveStateBeforePreviewFailed": "No se han podido guardar los cambios actuales antes de abrir la vista previa. Inténtelo de nuevo."
         }
       }
     }
