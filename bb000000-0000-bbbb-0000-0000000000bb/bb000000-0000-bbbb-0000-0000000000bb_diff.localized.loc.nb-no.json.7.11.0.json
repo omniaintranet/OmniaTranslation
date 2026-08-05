@@ -9,9 +9,9 @@
             }
           },
           "Settings": {
-            "UserSynchronizationFilterBladeTitle": "Brukersynkroniseringsfilter",
-            "UserSynchronizationFilterDescription": "Konfigurer filter for å inkludere eller ekskludere brukere fra synkronisering",
-            "UserSynchronizationFilterNotConfigured": "Ingen brukersynkroniseringsfilter er konfigurert.",
+            "UserSynchronizationFilterBladeTitle": "Brukersynkroniseringsfiltre",
+            "UserSynchronizationFilterDescription": "Konfigurer filtre for å inkludere eller ekskludere brukere fra synkronisering",
+            "UserSynchronizationFilterNotConfigured": "Ingen brukersynkroniseringsfiltre er konfigurert.",
             "UserSynchronizationFilterConfigured": "Konfigurert med {0} filtre",
             "Configure": "Konfigurer",
             "RuleAction": "Regelhandling",
