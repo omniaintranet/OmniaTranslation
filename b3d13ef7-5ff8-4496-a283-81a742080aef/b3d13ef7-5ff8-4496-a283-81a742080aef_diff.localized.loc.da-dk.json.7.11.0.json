@@ -8,7 +8,7 @@
         "SelectRowsHint": "Vælg en eller flere rækker for at masseopdatere. Handlingslinjen vises her.",
         "NoDocumentsMatch": "Ingen dokumenter matcher dette filter",
         "NoDocumentsMatchSub": "Prøv at fjerne et filter eller ændre filterkriterier.",
-        "SearchIndexingNotice": "Nyligt opdaterede dokumenter vises muligvis ikke med det samme — SharePoint søgeindeksering kan tage et par minutter at opdatere ændringer.",
+        "SearchIndexingNotice": "Nyligt opdaterede dokumenter vises muligvis ikke med det samme. Ændringerne vil blive vist, når SharePoint-søgeindeksering er gennemført. Det kan tage et par minutter.",
         "Field": "Felt",
         "From": "Fra",
         "To": "Til",
@@ -19,11 +19,11 @@
         "SwitchToCriteriaMode": "Skift til kriterietilstand",
         "SwitchToKqlMode": "Skift til KQL-tilstand",
         "StaleFilterBanner": "Filter kan være forældet",
-        "StaleFilterSub": "blev netop masseændret",
+        "StaleFilterSub": "blev netop ændret",
         "StaleFilterUpdate": "Opdater:",
         "StaleFilterRemove": "Fjern filter",
         "StaleFilterKeep": "Behold som det er",
-        "StaleFilterKqlSub": "din KQL kan referere til en værdi, der netop blev masseændret.",
+        "StaleFilterKqlSub": "din KQL kan referere til en værdi, der netop blev ændret.",
         "FilterMode": "Filtertilstand",
         "HasValue": "Har værdi",
         "NoValue": "Tom",
@@ -49,7 +49,7 @@
         "MessageInvalidFileNameChars": "Filnavne kan ikke starte eller slutte med et punktum eller indeholde nogen af disse tegn: / \\ < > : * \" ? |."
       },
       "TemplateMerge": {
-        "LoadTemplateFailed": "Indlæsning af dokument skabelonoplysninger mislykkedes."
+        "LoadTemplateFailed": "Indlæsning af dokumentskabelonen mislykkedes."
       }
     },
     "DocumentLibrary": {
@@ -57,7 +57,7 @@
         "CancelledBy": "Annulleret af"
       },
       "DocumentStatuses": {
-        "NotInPropertySetError": "Dokumentet er ikke i ejendomssættet."
+        "NotInPropertySetError": "Dokumentet er ikke i egenskabssættet."
       }
     }
   }
