@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Fehler beim Speichern des Seitenstatus vor dem Wechsel in den Vorschaumodus."
+          "SaveStateBeforePreviewFailed": "Ihre aktuellen Änderungen konnten vor dem Öffnen der Vorschau nicht gespeichert werden. Bitte versuchen Sie es erneut."
         }
       }
     }
