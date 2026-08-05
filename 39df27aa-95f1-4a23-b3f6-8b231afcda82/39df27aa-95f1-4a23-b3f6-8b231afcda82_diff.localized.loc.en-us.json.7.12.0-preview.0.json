@@ -8,9 +8,9 @@
     "Core": {
       "Features": {
         "TeamsTemplate": {
-          "Title": "Teams Template",
+          "Title": "Teams template",
           "Category": "Integration",
-          "Description": "Enables support for localized nonstandard custom Microsoft Teams templates when creating new teamwork.",
+          "Description": "Enables support for localized non standard custom Microsoft Teams templates when creating a new teamwork.",
           "ConsentInformation": "Allows the app to read all available Microsoft Teams templates in the organization, without a signed-in user."
         }
       }
