@@ -10,7 +10,7 @@
         },
         "ImageStyle": {
           "Title": "Billedstil",
-          "BorderRadius": "Kantens radius"
+          "BorderRadius": "Kantradius"
         }
       }
     },
@@ -80,7 +80,7 @@
       "Settings": {
         "Display": "Visning",
         "HeadingElement": "Overskriftselement",
-        "BorderRadius": "Kantens radius",
+        "BorderRadius": "Kantradius",
         "Elevation": "Højde",
         "ShowStatusText": "Vis statustekst",
         "ShowTypeIcon": "Vis ikon for meddelsestypen",
