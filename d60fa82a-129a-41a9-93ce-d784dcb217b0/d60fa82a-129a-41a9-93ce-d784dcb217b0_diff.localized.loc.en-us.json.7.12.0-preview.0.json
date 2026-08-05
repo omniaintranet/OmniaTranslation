@@ -12,7 +12,7 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "RemoveCallToAction": "Remove Call to Action"
+          "RemoveCallToAction": "Remove call to action"
         }
       }
     },
@@ -26,7 +26,7 @@
     },
     "PublishingApp": {
       "SendingEmailHandler": {
-        "EmailProcessingErrorOccurred": "There was an error while processing email. Please try again.",
+        "EmailProcessingErrorOccurred": "There was an error while processing Emails. Please try again.",
         "ErrorDetails": "Details",
         "Retry": "Retry"
       }
