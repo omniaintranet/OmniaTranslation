@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Recherche Multi-Géo",
+          "Category": "Système",
+          "Description": "Afficher les résultats de toutes les géolocalisations"
+        }
+      }
+    }
+  }
+}
