@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Emme voineet tallentaa tekemiäsi muutoksia ennen esikatselun avaamista. Yritä uudelleen."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Poista toimintakehotus"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Alku",
+          "EventEndTime": "Loppu"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Sähköpostien käsittelyssä tapahtui virhe. Yritä uudelleen.",
+        "ErrorDetails": "Tiedot",
+        "Retry": "Yritä uudelleen"
+      }
+    }
+  }
+}

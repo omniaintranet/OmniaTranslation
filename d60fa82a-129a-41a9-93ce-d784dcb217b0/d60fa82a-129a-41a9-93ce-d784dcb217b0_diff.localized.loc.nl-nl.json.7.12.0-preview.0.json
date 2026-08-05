@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "We konden uw huidige wijzigingen niet opslaan voordat het voorbeeld werd geopend. Probeer het opnieuw."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Call to action verwijderen"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Start",
+          "EventEndTime": "Einde"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Er is een fout opgetreden bij het verwerken van e-mails. Probeer het opnieuw.",
+        "ErrorDetails": "Details",
+        "Retry": "Opnieuw proberen"
+      }
+    }
+  }
+}

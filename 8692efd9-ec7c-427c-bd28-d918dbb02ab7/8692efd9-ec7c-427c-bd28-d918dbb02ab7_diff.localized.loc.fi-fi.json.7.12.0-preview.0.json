@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Notification": {
+          "ACommentYouWereMentionedIsEdited": "Kommenttia, jossa sinut mainittiin, muokattiin."
+        }
+      }
+    }
+  }
+}

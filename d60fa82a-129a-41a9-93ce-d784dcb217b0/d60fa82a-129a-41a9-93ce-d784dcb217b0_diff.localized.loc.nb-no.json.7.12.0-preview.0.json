@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Vi kunne ikke lagre de gjeldende endringene dine før forhåndsvisningen ble åpnet. Prøv igjen."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Fjern oppfordring til handling"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Start",
+          "EventEndTime": "Slutt"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Det oppstod en feil under behandling av e-poster. Vennligst prøv igjen.",
+        "ErrorDetails": "Detaljer",
+        "Retry": "Prøv på nytt"
+      }
+    }
+  }
+}

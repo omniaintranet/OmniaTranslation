@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Omnia 内容"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "我的 Microsoft 365 个人资料"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "您确定要删除此定位角色吗？",
+          "Title": "删除定位角色"
+        }
+      }
+    }
+  }
+}

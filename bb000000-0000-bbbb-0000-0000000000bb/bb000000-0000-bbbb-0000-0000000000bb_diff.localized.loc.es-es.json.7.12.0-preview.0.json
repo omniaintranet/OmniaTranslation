@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Contenido de Omnia"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "Mi perfil de Microsoft 365"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "¿Está seguro de que desea eliminar esta persona de segmentación?",
+          "Title": "Eliminar persona de segmentación"
+        }
+      }
+    }
+  }
+}

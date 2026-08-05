@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Nội dung Omnia"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "Hồ sơ Microsoft 365 của tôi"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "Bạn có chắc chắn muốn xóa persona mục tiêu này không?",
+          "Title": "Xóa persona mục tiêu"
+        }
+      }
+    }
+  }
+}

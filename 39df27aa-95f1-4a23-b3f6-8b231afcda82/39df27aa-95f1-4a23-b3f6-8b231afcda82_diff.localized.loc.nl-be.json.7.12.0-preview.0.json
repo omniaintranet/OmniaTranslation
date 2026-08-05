@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo supergebruikers"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams-sjabloon",
+          "Category": "Integratie",
+          "Description": "Maakt ondersteuning mogelijk voor gelokaliseerde niet-standaard aangepaste Microsoft Teams-sjablonen bij het aanmaken van een nieuw teamwork.",
+          "ConsentInformation": "Staat de app toe om alle beschikbare Microsoft Teams-sjablonen in de organisatie te lezen, zonder een ingelogde gebruiker."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Oproep starten",
+      "ShowM365Profile": "Mijn Microsoft 365-profiel"
+    }
+  }
+}

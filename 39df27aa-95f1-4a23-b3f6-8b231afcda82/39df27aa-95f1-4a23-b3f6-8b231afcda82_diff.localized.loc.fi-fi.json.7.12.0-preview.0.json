@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo superkäyttäjät"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams-malli",
+          "Category": "Integraatio",
+          "Description": "Mahdollistaa paikallisten ei-standardi mukautettujen Microsoft Teams -mallien tuen uuden tiimityön luomisessa.",
+          "ConsentInformation": "Sallii sovelluksen lukea kaikki organisaation käytettävissä olevat Microsoft Teams -mallit ilman kirjautunutta käyttäjää."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Aloita puhelu",
+      "ShowM365Profile": "Oma Microsoft 365 -profiili"
+    }
+  }
+}

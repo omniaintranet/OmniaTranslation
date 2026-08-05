@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Ihre aktuellen Änderungen konnten vor dem Öffnen der Vorschau nicht gespeichert werden. Bitte versuchen Sie es erneut."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Handlungsaufforderung entfernen"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Beginn",
+          "EventEndTime": "Ende"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Beim Verarbeiten der E-Mails ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "ErrorDetails": "Details",
+        "Retry": "Erneut versuchen"
+      }
+    }
+  }
+}

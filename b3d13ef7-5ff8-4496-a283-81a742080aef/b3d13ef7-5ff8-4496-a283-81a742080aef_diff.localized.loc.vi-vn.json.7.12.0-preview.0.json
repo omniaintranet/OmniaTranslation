@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "Ngày xuất bản đã lên lịch không được ở quá khứ."
+      }
+    }
+  }
+}

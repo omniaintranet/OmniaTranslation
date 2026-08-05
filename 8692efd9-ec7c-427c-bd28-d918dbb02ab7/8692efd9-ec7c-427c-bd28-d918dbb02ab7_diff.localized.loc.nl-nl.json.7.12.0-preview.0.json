@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Notification": {
+          "ACommentYouWereMentionedIsEdited": "Een opmerking waarin je genoemd werd, is bewerkt."
+        }
+      }
+    }
+  }
+}

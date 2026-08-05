@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Omnia-innhold"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "Min Microsoft 365-profil"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "Er du sikker på at du vil slette denne målrettingspersonas?",
+          "Title": "Slett målrettingspersona"
+        }
+      }
+    }
+  }
+}
