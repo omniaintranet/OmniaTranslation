@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Kon de paginastatus niet opslaan voordat de voorbeeldmodus werd gewijzigd."
+          "SaveStateBeforePreviewFailed": "We konden uw huidige wijzigingen niet opslaan voordat het voorbeeld werd geopend. Probeer het opnieuw."
         }
       }
     }
