@@ -37,10 +37,10 @@
       },
       "RichTextEditor": {
         "Extensions": {
-          "NoTranslate": "No translate"
+          "NoTranslate": "Keine Übersetzung"
         },
         "Tooltip": {
-          "NoTranslate": "No translate"
+          "NoTranslate": "Keine Übersetzungn"
         }
       }
     }
