@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Người dùng siêu cấp Matomo"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Mẫu Teams",
+          "Category": "Tích hợp",
+          "Description": "Cho phép hỗ trợ các mẫu Microsoft Teams tùy chỉnh không chuẩn được địa phương hóa khi tạo nhóm làm việc mới.",
+          "ConsentInformation": "Cho phép ứng dụng đọc tất cả các mẫu Microsoft Teams có sẵn trong tổ chức, mà không cần người dùng đăng nhập."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Bắt đầu cuộc gọi",
+      "ShowM365Profile": "Hồ sơ Microsoft 365 của tôi"
+    }
+  }
+}
