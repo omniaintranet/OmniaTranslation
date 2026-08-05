@@ -7,9 +7,9 @@
             "ApprovalBypassed": "Godkendelse er sprunget over"
           },
           "Approval": {
-            "UsersAndGroups": "Brugere og Grupper",
-            "AllowApprovalBypass": "Tillad til at springe godkendelse over",
-            "ApprovalBypassUsersOrGroups": "Brugere eller grupper, der må springe godkendelse iver."
+            "UsersAndGroups": "Brugere og grupper",
+            "AllowApprovalBypass": "Tillad at springe godkendelse over",
+            "ApprovalBypassUsersOrGroups": "Brugere eller grupper, der må springe godkendelse over."
           }
         }
       }
@@ -29,9 +29,9 @@
         "ContinueApprovalDescription": "Fortsæt den aktuelle godkendelsesproces uden at springe godkendelse over.",
         "ContinueApprovalButton": "Fortsæt godkendelse",
         "PublishDescription": "Din rolle giver dig mulighed for at udgive direkte uden godkendelse.",
-        "PublishWarning": "Dette omgår godkendelsesprocessen og vil være tilgængeligt med det samme.",
+        "PublishWarning": "Dette udelader godkendelsesprocessen og vil være tilgængeligt med det samme.",
         "ScheduleDescription": "Din rolle giver dig mulighed for at planlægge uden godkendelse.",
-        "ScheduleWarning": "Dette omgår godkendelsesprocessen og planlægger siden til udgivelse på den angivne dato.",
+        "ScheduleWarning": "Dette udelader godkendelsesprocessen og planlægger siden til udgivelse på den angivne dato.",
         "SchedulePropertyDescription": "Den angivne udgivelsesdato vil blive brugt til planlagt udgivelse.",
         "PublishAction": "Udgivelseshandling",
         "PublishAndSendEmailDisabledDescription": "Email er ikke aktiveret for denne side.",
