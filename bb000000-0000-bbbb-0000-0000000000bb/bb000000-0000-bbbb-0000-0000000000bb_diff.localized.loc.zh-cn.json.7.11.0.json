@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "多地理位置搜索",
+          "Category": "系统",
+          "Description": "显示来自所有地理位置的结果"
+        }
+      }
+    }
+  }
+}

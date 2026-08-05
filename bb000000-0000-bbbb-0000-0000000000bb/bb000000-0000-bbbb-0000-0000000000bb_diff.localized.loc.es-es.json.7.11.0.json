@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Ux": {
+      "Features": {
+        "MultiGeoSearch": {
+          "Title": "Búsqueda Multi-Geo",
+          "Category": "Sistema",
+          "Description": "Mostrar resultados de todas las ubicaciones geográficas."
+        }
+      }
+    }
+  }
+}
