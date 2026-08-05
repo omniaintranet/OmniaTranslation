@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Không thể lưu trạng thái trang trước khi chuyển sang chế độ xem trước."
+          "SaveStateBeforePreviewFailed": "Chúng tôi không thể lưu các thay đổi hiện tại của bạn trước khi mở bản xem trước. Vui lòng thử lại."
         }
       }
     }
