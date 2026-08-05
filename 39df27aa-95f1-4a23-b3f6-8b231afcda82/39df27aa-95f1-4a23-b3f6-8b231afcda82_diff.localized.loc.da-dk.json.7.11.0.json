@@ -2,7 +2,7 @@
   "OTAD": {
     "System": {
       "OAuth2": {
-        "ClientSecret": "Client-hemmelighed"
+        "ClientSecret": "Klienthemmelighed"
       }
     }
   },
