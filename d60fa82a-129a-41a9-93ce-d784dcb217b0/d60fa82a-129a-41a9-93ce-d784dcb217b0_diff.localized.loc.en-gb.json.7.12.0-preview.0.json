@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Failed to save page state before switching to preview mode."
+          "SaveStateBeforePreviewFailed": "We couldn't save your current changes before opening Preview. Please try again."
         }
       }
     }
