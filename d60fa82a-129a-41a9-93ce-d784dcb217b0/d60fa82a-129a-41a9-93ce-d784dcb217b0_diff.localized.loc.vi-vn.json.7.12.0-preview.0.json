@@ -1,0 +1,35 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Không thể lưu trạng thái trang trước khi chuyển sang chế độ xem trước."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "Ux": {
+      "RichTextEditor": {
+        "Tooltip": {
+          "RemoveCallToAction": "Xóa lời kêu gọi hành động"
+        }
+      }
+    },
+    "PageRollup": {
+      "CalendarView": {
+        "Accessibility": {
+          "EventStartTime": "Bắt đầu",
+          "EventEndTime": "Kết thúc"
+        }
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Đã xảy ra lỗi trong quá trình xử lý Email. Vui lòng thử lại.",
+        "ErrorDetails": "Chi tiết",
+        "Retry": "Thử lại"
+      }
+    }
+  }
+}
