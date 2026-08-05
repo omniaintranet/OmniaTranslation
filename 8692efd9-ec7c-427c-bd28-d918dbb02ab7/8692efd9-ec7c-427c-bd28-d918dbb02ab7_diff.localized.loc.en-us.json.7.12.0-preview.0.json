@@ -1,0 +1,11 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Notification": {
+          "ACommentYouWereMentionedIsEdited": "A comment you were mentioned in was edited."
+        }
+      }
+    }
+  }
+}
