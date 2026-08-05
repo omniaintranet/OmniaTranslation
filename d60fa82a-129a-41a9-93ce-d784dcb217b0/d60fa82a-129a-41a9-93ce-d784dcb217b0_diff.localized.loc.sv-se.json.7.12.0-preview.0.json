@@ -12,7 +12,7 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "RemoveCallToAction": "Ta bort call to action"
+          "RemoveCallToAction": "Ta bort aktivitetsknapp"
         }
       }
     },
