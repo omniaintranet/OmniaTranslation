@@ -21,10 +21,10 @@
         "NavigateToSharePointFullPage": "Zur SharePoint-Vollseite navigieren"
       },
       "OpenInDialog": "Im Dialog öffnen",
-      "DialogSummaryProperty": "Zusammenfassungseigenschaft",
+      "DialogSummaryProperty": "Rollupseigenschaft",
       "DialogContentProperty": "Inhaltseigenschaft",
       "DialogImageProperty": "Bildeigenschaft",
-      "DialogDateProperty": "Datumeigenschaft",
+      "DialogDateProperty": "Datumseigenschaft",
       "DialogPropertyMappings": "Dialog-Eigenschaftszuordnungen",
       "OverrideDefaultSettings": "Standardeinstellungen überschreiben",
       "EnableRichText": "Rich Text aktivieren",
@@ -35,7 +35,7 @@
       "Settings": {
         "SharepointPageQueryLabel": "SharePoint-Seitenabfrage",
         "SharepointPageQuery": "Basisabfrage",
-        "SharepointPageRollupQuery": "Basisabfrage für SharePoint-Seitenzusammenfassung"
+        "SharepointPageRollupQuery": "Basisabfrage für SharePoint-Seitenrollup"
       },
       "SemanticSearch": {
         "Title": "Semantische Suche",
@@ -61,7 +61,7 @@
         "EnableRichText": "Rich Text aktivieren",
         "EnableViewButtonOnDialog": "Anzeigen-Schaltfläche im Dialog aktivieren",
         "EnableMention": "Erwähnung aktivieren",
-        "DialogSummary": "Dialog-Zusammenfassung",
+        "DialogSummary": "Dialog-rollup",
         "DialogContent": "Dialog-Inhalt",
         "DialogImage": "Dialog-Bild",
         "DialogDate": "Dialog-Datum"
@@ -164,7 +164,7 @@
             "Label": "Medienbreite",
             "Content": "Inhalt",
             "Wide": "Breit",
-            "Full": "Voll",
+            "Full": "Vollbreite",
             "FullBleed": "Vollflächig"
           }
         },
@@ -439,7 +439,7 @@
         "OmniaClassicDescription": "Aktuelle Omnia-Navigationsgestaltung",
         "MaterialClassic": "Material klassisch",
         "MaterialClassicDescription": "Fetter Primärtext - Chevron rechts",
-        "LeftBarAccent": "Linke Leistenakzent",
+        "LeftBarAccent": "Linker Leistenakzent",
         "LeftBarAccentDescription": "Seitenleistenmarker - Chevron rechts",
         "TintedPill": "Getönte Pill",
         "TintedPillDescription": "Gefüllte aktive Zeile - Plus/Minus zum Zusammenklappen",
@@ -517,7 +517,7 @@
       "Started": "Gestartet",
       "Ended": "Beendet",
       "CreatedBy": "Erstellt von",
-      "Summary": "Zusammenfassung",
+      "Summary": "rollup",
       "ReindexContentMessage": "Indexiere {0} Seiten (Erfolgreich: {1}, Fehlgeschlagen: {2})"
     },
     "SignOffRequest": {
@@ -741,17 +741,17 @@
         "ShowAsText": "Person als Text anzeigen"
       },
       "EventCard": {
-        "StartDate": "Veranstaltungsbeginn",
-        "EndDate": "Veranstaltungsende",
+        "StartDate": "Eventstartdatum",
+        "EndDate": "Eventendedatum",
         "Location": "Ort",
-        "EventDate": "Veranstaltungsdatum",
-        "EventStatus": "Veranstaltungsstatus",
+        "EventDate": "Eventdatum",
+        "EventStatus": "Eventstatus",
         "AllDayProperty": "Ganztägige Eigenschaft",
-        "ShowDateOnImage": "Veranstaltungsdaten auf Bild anzeigen",
+        "ShowDateOnImage": "Eventdaten auf Bild anzeigen",
         "ShowLocation": "Ort anzeigen",
         "ShowRegisteredCapacity": "Anzahl der Anmeldungen anzeigen",
         "ShowRegistrationStatus": "Anmeldestatus anzeigen",
-        "ShowPastEventStatus": "Status vergangener Veranstaltungen anzeigen",
+        "ShowPastEventStatus": "Status vergangener Events anzeigen",
         "ShowAllDayStatus": "Ganztägigen Status anzeigen",
         "ShowTeamsMeetingStatus": "Teams-Meeting-Status anzeigen",
         "JoinTeamsMeeting": "Teams-Meeting beitreten",
@@ -759,12 +759,12 @@
         "MovePropertyDown": "{0} nach unten verschieben",
         "RemoveTermProperty": "{0} entfernen",
         "DateSettings": "Datumseinstellungen",
-        "StartDateSettings": "Einstellungen für Veranstaltungsbeginn",
-        "EndDateSettings": "Einstellungen für Veranstaltungsende",
+        "StartDateSettings": "Einstellungen für Event-Beginn",
+        "EndDateSettings": "Einstellungen für Event-Ende",
         "RegistrationOpen": "Anmeldung geöffnet",
         "RegistrationClosed": "Anmeldung geschlossen",
         "FullyBooked": "Ausgebucht",
-        "PastEvent": "Vergangene Veranstaltung",
+        "PastEvent": "Vergangene Event",
         "AllDay": "Ganztägig",
         "TeamsMeeting": "Teams-Meeting"
       },
@@ -830,7 +830,7 @@
           "Threaded": "Verschachtelt"
         },
         "ThreadedComments": "Verschachtelte Kommentare",
-        "CustomInputStyle": "Benutzerdefinierte Eingabestil",
+        "CustomInputStyle": "Benutzerdefinierter Eingabestil",
         "Elevation": "Erhebung",
         "BorderThickness": "Rahmenstärke",
         "BorderRadius": "Eckenradius",
