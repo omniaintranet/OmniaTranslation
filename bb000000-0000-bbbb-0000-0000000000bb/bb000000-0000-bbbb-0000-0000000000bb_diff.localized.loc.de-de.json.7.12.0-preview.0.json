@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "Definitions": {
+          "OmniaContent": "Omnia-Inhalt"
+        }
+      },
+      "Profilecard": {
+        "GoToM365Profile": "Mein Microsoft 365-Profil"
+      }
+    },
+    "Targeting": {
+      "Persona": {
+        "DeleteDialog": {
+          "Message": "Möchten Sie diese Zielgruppen-Persona wirklich löschen?",
+          "Title": "Zielgruppen-Persona löschen"
+        }
+      }
+    }
+  }
+}
