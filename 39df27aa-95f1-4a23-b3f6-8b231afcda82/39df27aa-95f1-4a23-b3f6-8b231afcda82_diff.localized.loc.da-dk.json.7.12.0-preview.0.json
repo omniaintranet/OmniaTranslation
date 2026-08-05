@@ -40,9 +40,9 @@
     },
     "System": {
       "SPFxInstruction": {
-        "CreateAppCatalogScreenshotAlt": "Skærmbillede, der viser, hvor man opretter et SharePoint appkatalog site.",
+        "CreateAppCatalogScreenshotAlt": "Skærmbillede, der viser, hvor man opretter et SharePoint appkatalog.",
         "UploadPackageScreenshotAlt": "Skærmbillede, der viser, hvor man uploader spfx-pakken.",
-        "AvailableToAllSitesScreenshotAlt": "Skærmbillede, der viser muligheden for at gøre spfx-pakken tilgængelig for alle SharePoint sites."
+        "AvailableToAllSitesScreenshotAlt": "Skærmbillede, der viser muligheden for at gøre spfx-pakken tilgængelig for alle SharePoint websteder."
       }
     }
   },
@@ -58,7 +58,7 @@
     "HeaderSettings": {
       "SearchBoxStyle": "Søgefeltets stil",
       "SearchBoxStyleOptions": {
-        "M365Style": "M365 stil",
+        "M365Style": "M365-stil",
         "WCAGCompliant": "WCAG-kompatibel"
       }
     },
@@ -102,7 +102,7 @@
           "Description": "Vis venstre panel i den aktuelle app-instans."
         },
         "CopilotChat": {
-          "Title": "Copilot chat"
+          "Title": "Copilot-chat"
         },
         "AnalyticsForSpfx": {
           "Title": "Statistik for SPFx",
@@ -156,8 +156,8 @@
         "IncludeFollowingLinks": "Inkluder links, brugeren følger",
         "ShowManageLinks": "Vis ikon til linkadministration",
         "ShowMoreButton": "Vis mere knap",
-        "ShowMoreAriaLabel": "Vis mere knap aria label",
-        "ShowLessAriaLabel": "Vis mindre knap aria label",
+        "ShowMoreAriaLabel": "Aria-label for 'Vis mere'",
+        "ShowLessAriaLabel": "Aria-label for 'Vis mindre'",
         "HideShowMoreButton": "Skjul 'Vis mere' knap",
         "HideLinkTitle": "Skjul linktitel",
         "SquareDesign": "Firkantet design",
@@ -239,13 +239,13 @@
     "Core": {
       "Blocks": {
         "SharePointPageRollup": {
-          "Title": "SharePoint sider",
-          "Summary": "Viser en liste med SharePoint sider."
+          "Title": "SharePoint-sider",
+          "Summary": "Viser en liste med SharePoint-sider."
         }
       }
     },
     "TeamNewsRollup": {
-      "SharePointPageControlTitle": "SharePoint sider",
+      "SharePointPageControlTitle": "SharePoint-sider",
       "Settings": {
         "Tabs": {
           "Filter": "Filter"
@@ -259,7 +259,7 @@
           "AllPages": "Alle sider",
           "SharePointLibrary": "SharePoint-bibliotek"
         },
-        "SiteUrl": "Site URL",
+        "SiteUrl": "Websteds-URL",
         "Operators": {
           "Equals": "Er lig med",
           "StartWith": "Starter med",
@@ -270,7 +270,7 @@
         "QueryValueOptions": {
           "Manual": "Manuel",
           "QueryParameter": "Forespørgselsparameter",
-          "UserLanguage": "Brugerns sprog",
+          "UserLanguage": "Brugerens sprog",
           "UserEmail": "Brugerens email",
           "Today": "I dag"
         },
@@ -292,7 +292,7 @@
         "Width": "Bredde",
         "ShowLabel": "Vis etiket",
         "CustomLabel": "Tilpasset etiket",
-        "InvalidUrl": "URL'en skal være en sideliste.",
+        "InvalidUrl": "URL'en skal pege på en SharePoint-side.",
         "DeleteSpPageConfirmation": {
           "Title": "Fjern side",
           "Message": "Er du sikker på, at du vil fjerne denne side?"
