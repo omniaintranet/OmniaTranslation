@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo Super-User"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams-Vorlage",
+          "Category": "Integration",
+          "Description": "Ermöglicht die Unterstützung für lokalisierte, nicht standardmäßige benutzerdefinierte Microsoft Teams-Vorlagen beim Erstellen eines neuen Teamworks.",
+          "ConsentInformation": "Erlaubt der App, alle verfügbaren Microsoft Teams-Vorlagen in der Organisation ohne angemeldeten Benutzer zu lesen."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Anruf starten",
+      "ShowM365Profile": "Mein Microsoft 365-Profil"
+    }
+  }
+}
