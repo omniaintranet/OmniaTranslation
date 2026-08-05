@@ -28,19 +28,19 @@
           "pageLike": "Synes godt om siden",
           "pageRemoveLike": "Fjern dit like fra siden",
           "pageChangeOrRemoveReact": "Skift eller fjern din reaktion fra siden",
-          "commentLike": "Synes godt om kommentaren",
+          "commentLike": "Like kommentaren",
           "commentRemoveLike": "Fjern dit like fra kommentaren",
-          "compactLike": "{count} brugere kan lide det",
-          "compactLikeSingular": "{count} bruger kan lide det",
+          "compactLike": "{count} brugere har liket det",
+          "compactLikeSingular": "{count} bruger har liket det",
           "compactReaction": "{count} brugerreaktioner",
           "compactReactionSingular": "{count} brugerreaktion",
           "noUserReactions": "Ingen brugerreaktioner",
-          "noUserLikes": "Ingen brugere kan lide det",
+          "noUserLikes": "Ingen brugere har liket det",
           "noUserComments": "Ingen brugerkommentarer",
           "youReacted": "Du reagerede",
           "youAndOthersReacted": "Du og {count} andre reagerede",
           "youLiked": "Du kunne lide dette",
-          "youAndOthersLiked": "Du og {count} andre kunne lide dette"
+          "youAndOthersLiked": "Du og {count} andre har liket dette"
         }
       }
     }
