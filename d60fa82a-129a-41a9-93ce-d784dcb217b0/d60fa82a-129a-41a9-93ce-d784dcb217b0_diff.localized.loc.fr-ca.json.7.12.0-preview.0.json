@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Échec de l’enregistrement de l’état de la page avant de passer en mode aperçu."
+          "SaveStateBeforePreviewFailed": "Nous n’avons pas pu enregistrer vos modifications actuelles avant d’ouvrir l’aperçu. Veuillez réessayer."
         }
       }
     }
