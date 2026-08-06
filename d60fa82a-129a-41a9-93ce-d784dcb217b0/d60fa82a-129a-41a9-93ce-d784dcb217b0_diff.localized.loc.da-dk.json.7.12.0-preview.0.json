@@ -623,10 +623,10 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "CallToAction": "Handling"
+          "CallToAction": "Linkknap"
         },
         "Extensions": {
-          "CallToAction": "Handling"
+          "CallToAction": "Linkknap"
         }
       },
       "CallToAction": {
