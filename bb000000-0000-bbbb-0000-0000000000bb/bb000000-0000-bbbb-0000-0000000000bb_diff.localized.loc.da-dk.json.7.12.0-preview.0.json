@@ -3,18 +3,18 @@
     "Ux": {
       "EnterpriseProperties": {
         "Definitions": {
-          "OmniaContent": "Omnia indhold"
+          "OmniaContent": "Omnia-indhold"
         }
       },
       "Profilecard": {
-        "GoToM365Profile": "Min Microsoft 365 profil"
+        "GoToM365Profile": "Min Microsoft 365-profil"
       }
     },
     "Targeting": {
       "Persona": {
         "DeleteDialog": {
-          "Message": "Er du sikker på, at du vil slette denne tilknytning persona?",
-          "Title": "Slet tilknytning persona"
+          "Message": "Er du sikker på, at du vil slette denne persona?",
+          "Title": "Slet persona"
         }
       }
     }
