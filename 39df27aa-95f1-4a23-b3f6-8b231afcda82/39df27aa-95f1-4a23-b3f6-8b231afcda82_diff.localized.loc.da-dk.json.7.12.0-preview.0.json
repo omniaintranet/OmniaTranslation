@@ -10,7 +10,7 @@
         "TeamsTemplate": {
           "Title": "Teams-skabelon",
           "Category": "Integration",
-          "Description": "Muliggør support for lokaliserede ikke-standard tilpassede Microsoft Teams-skabeloner ved oprettelse af nyt teamwork.",
+          "Description": "Giver mulighed for at bruge brugerdefinerede Teams-skabeloner, inkl. lokaliserede versioner, ved oprettelse af nyt team.",
           "ConsentInformation": "Tillader appen at læse alle tilgængelige Microsoft Teams-skabeloner i organisationen uden en indlogget bruger."
         }
       }
