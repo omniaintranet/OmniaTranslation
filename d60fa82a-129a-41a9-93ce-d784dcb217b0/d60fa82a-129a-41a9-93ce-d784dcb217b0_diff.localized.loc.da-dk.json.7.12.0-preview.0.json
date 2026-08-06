@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Vi kunne ikke gemme dine aktuelle ændringer, før forhåndsvisningen blev åbnet. Prøv igen."
+          "SaveStateBeforePreviewFailed": "Vi kunne ikke gemme dine aktuelle ændringer, før previewet blev åbnet. Prøv igen."
         }
       }
     }
@@ -26,7 +26,7 @@
     },
     "PublishingApp": {
       "SendingEmailHandler": {
-        "EmailProcessingErrorOccurred": "Der opstod en fejl under behandling af Emails. Prøv venligst igen.",
+        "EmailProcessingErrorOccurred": "Der opstod en fejl under behandling af emails. Prøv venligst igen.",
         "ErrorDetails": "Detaljer",
         "Retry": "Prøv igen"
       }
