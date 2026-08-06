@@ -12,7 +12,7 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "RemoveCallToAction": "Fjern call to action"
+          "RemoveCallToAction": "Fjern linkknap"
         }
       }
     },
