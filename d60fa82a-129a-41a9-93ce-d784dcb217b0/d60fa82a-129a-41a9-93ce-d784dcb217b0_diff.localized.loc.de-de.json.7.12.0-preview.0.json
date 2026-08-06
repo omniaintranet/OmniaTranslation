@@ -623,10 +623,10 @@
     "Ux": {
       "RichTextEditor": {
         "Tooltip": {
-          "CallToAction": "Call to action"
+          "CallToAction": "Link-Button"
         },
         "Extensions": {
-          "CallToAction": "Call to action"
+          "CallToAction": "Link-Button"
         }
       },
       "CallToAction": {
