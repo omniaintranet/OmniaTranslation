@@ -13,7 +13,7 @@
     "Targeting": {
       "Persona": {
         "DeleteDialog": {
-          "Message": "Er du sikker på, at du vil slette denne persona?",
+          "Message": "Er du sikker på, at du vil slette denne målgruppe-persona?",
           "Title": "Slet persona"
         }
       }
