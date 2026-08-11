@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content builder",
+        "Placeholder": "Die Darstellung des Content builders wird verfügbar sein, wenn die Blockspeicherung implementiert ist.",
+        "Media": {
+          "PlaceholderDescription": "Wählen Sie ein Bild oder Video aus der Mediathek für diesen Content builder Medienblock aus."
+        },
+        "Editor": {
+          "InheritedContent": "Dieser Block verwendet wiederverwendete, zugeordnete Content builder Inhalte."
+        },
+        "Settings": {
+          "Title": "Content builder Einstellungen",
+          "Placeholder": "Content builder Einstellungen werden verfügbar sein, wenn die Blockspeicherung implementiert ist.",
+          "RowSpacingHint": "Legt den vertikalen Abstand zwischen Content builder Reihen fest.",
+          "ColumnSpacingHint": "Legt den Abstand zwischen Spalten und Galerieelementen in Content builder Reihen fest.",
+          "ConfirmDeleteHint": "Zeigt ein Bestätigungs-Popup an, bevor ein Content builder Block gelöscht wird.",
+          "ConfirmDeleteMessage": "Dieser Block wird aus dem Content builder gelöscht.",
+          "AiPromptSettings": {
+            "Description": "Konfigurieren Sie die Eingabeaufforderungsanweisungen, die von Content builder AI in diesem Geschäftsprofil verwendet werden.",
+            "Title": "Content builder AI Eingabeaufforderungen"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Das Dokument wurde auf das Content builder Schema Version 1 normalisiert.",
+          "SchemaInvalid": "Content builder Dokument muss Schema Version 1 verwenden.",
+          "RowsEmpty": "Content builder Dokument muss mindestens eine Reihe enthalten."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Seiten"
+      }
+    }
+  }
+}
