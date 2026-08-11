@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "内容构建器",
+        "Placeholder": "块存储实现后，内容构建器渲染将可用。",
+        "Media": {
+          "PlaceholderDescription": "从媒体库中选择此内容构建器媒体块的图片或视频。"
+        },
+        "Editor": {
+          "InheritedContent": "此块正在重用映射的内容构建器内容。"
+        },
+        "Settings": {
+          "Title": "内容构建器设置",
+          "Placeholder": "块存储实现后，内容构建器设置将可用。",
+          "RowSpacingHint": "设置内容构建器行之间的垂直间距。",
+          "ColumnSpacingHint": "设置内容构建器行中列与画廊项目之间的间距。",
+          "ConfirmDeleteHint": "删除内容构建器块前显示确认弹窗。",
+          "ConfirmDeleteMessage": "此块将从内容构建器中删除。",
+          "AiPromptSettings": {
+            "Description": "配置内容构建器 AI 在此业务配置文件中使用的提示指令。",
+            "Title": "内容构建器 AI 提示"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "文档已规范化为内容构建器架构版本 1。",
+          "SchemaInvalid": "内容构建器文档必须使用架构版本 1。",
+          "RowsEmpty": "内容构建器文档必须至少包含一行。"
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "页面"
+      }
+    }
+  }
+}
