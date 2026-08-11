@@ -3,18 +3,18 @@
     "ContentFlow": {
       "Block": {
         "BlockTitle": "Innehållsbyggare",
-        "Placeholder": "Rendering av innehållsbyggare kommer att vara tillgängligt när blocklagring är implementerat.",
+        "Placeholder": "Rendering av innehållsbyggaren blir tillgängligt när blocklagring är implementerat.",
         "Media": {
-          "PlaceholderDescription": "Välj en bild eller video från mediebiblioteket för detta mediablock i content builder."
+          "PlaceholderDescription": "Välj en bild eller video från mediebiblioteket för detta mediablock i innehållsbyggaren."
         },
         "Editor": {
-          "InheritedContent": "Detta block återanvänder mappat innehållsbyggar-innehåll."
+          "InheritedContent": "Detta block återanvänder mappat innehåll för innehållsbyggaren."
         },
         "Settings": {
           "Title": "Inställningar för innehållsbyggare",
-          "Placeholder": "Inställningar för innehållsbyggare kommer att vara tillgängliga när blocklagring är implementerat.",
+          "Placeholder": "Inställningar för innehållsbyggare blir tillgängliga när blocklagring är implementerat.",
           "RowSpacingHint": "Ställer in det vertikala avståndet mellan rader i innehållsbyggaren.",
-          "ColumnSpacingHint": "Ställer in avståndet mellan kolumner och galleriobjekt i innehållsbyggar-rader.",
+          "ColumnSpacingHint": "Ställer in avståndet mellan kolumner och galleriobjekt i rader i innehållsbyggaren.",
           "ConfirmDeleteHint": "Visa en popup för bekräftelse innan ett innehållsbyggar-block tas bort.",
           "ConfirmDeleteMessage": "Detta block kommer att tas bort från innehållsbyggaren.",
           "AiPromptSettings": {
@@ -25,7 +25,7 @@
         "Errors": {
           "SchemaMigrated": "Dokumentet normaliserades till innehållsbyggar-schema version 1.",
           "SchemaInvalid": "Innehållsbyggar-dokument måste använda schema version 1.",
-          "RowsEmpty": "Innehåpllsbyggar-dokument måste innehålla minst en rad."
+          "RowsEmpty": "Innehållsbyggar-dokument måste innehålla minst en rad."
         }
       }
     },
