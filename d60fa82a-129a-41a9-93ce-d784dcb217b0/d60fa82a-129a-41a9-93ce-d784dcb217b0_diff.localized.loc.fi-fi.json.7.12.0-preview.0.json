@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Sisällönrakentaja",
+        "Placeholder": "Sisällönrakentajan renderöinti on käytettävissä, kun lohkon tallennus on toteutettu.",
+        "Media": {
+          "PlaceholderDescription": "Valitse kuva tai video mediakirjastosta tähän sisällönrakentajan mediolohkoon."
+        },
+        "Editor": {
+          "InheritedContent": "Tämä lohko käyttää uudelleen kartoitettua sisällönrakentajan sisältöä."
+        },
+        "Settings": {
+          "Title": "Sisällönrakentajan asetukset",
+          "Placeholder": "Sisällönrakentajan asetukset ovat käytettävissä, kun lohkon tallennus on toteutettu.",
+          "RowSpacingHint": "Asettaa pystysuoran välin sisällönrakentajan rivien välille.",
+          "ColumnSpacingHint": "Asettaa sarakkeiden ja gallerian kohteiden välisen välin sisällönrakentajan riveillä.",
+          "ConfirmDeleteHint": "Näytä vahvistusponnahdusikkuna ennen sisällönrakentajan lohkon poistamista.",
+          "ConfirmDeleteMessage": "Tämä lohko poistetaan sisällönrakentajasta.",
+          "AiPromptSettings": {
+            "Description": "Määritä kehotteiden ohjeet, joita Sisällönrakentajan AI käyttää tässä liiketoimintaprofiilissa.",
+            "Title": "Sisällönrakentajan AI-kehotteet"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Asiakirja normalisoitiin sisällönrakentajan skeeman versioon 1.",
+          "SchemaInvalid": "Sisällönrakentajan asiakirjan on käytettävä skeeman versiota 1.",
+          "RowsEmpty": "Sisällönrakentajan asiakirjassa on oltava vähintään yksi rivi."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Sivut"
+      }
+    }
+  }
+}
