@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Det gick inte att spara sidans tillstånd innan förhandsgranskningsläge aktiverades."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Ett fel uppstod vid bearbetning av e-post. Vänligen försök igen.",
+        "ErrorDetails": "Detaljer",
+        "Retry": "Försök igen"
+      }
+    }
+  }
+}
