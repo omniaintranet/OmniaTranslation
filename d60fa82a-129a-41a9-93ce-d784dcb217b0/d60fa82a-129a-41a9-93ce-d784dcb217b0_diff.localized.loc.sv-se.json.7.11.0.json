@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Vi kunde inte spara de aktuella ändringarna innan förhandsgranskningen öppnades. Försök igen."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Ett fel uppstod vid bearbetning av e-post. Vänligen försök igen.",
+        "ErrorDetails": "Detaljer",
+        "Retry": "Försök igen"
+      }
+    }
+  }
+}

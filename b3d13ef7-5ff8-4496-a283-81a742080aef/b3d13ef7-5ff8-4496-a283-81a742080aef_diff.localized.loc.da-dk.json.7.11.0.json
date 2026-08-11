@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "Den planlagte udgivelsesdato kan ikke være i fortiden."
+      }
+    }
+  }
+}

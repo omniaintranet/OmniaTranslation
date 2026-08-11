@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo super users"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams template",
+          "Category": "Integration",
+          "Description": "Enables support for localized non standard custom Microsoft Teams templates when creating a new teamwork.",
+          "ConsentInformation": "Allows the app to read all available Microsoft Teams templates in the organization, without a signed-in user."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Start call",
+      "ShowM365Profile": "My Microsoft 365 profile"
+    }
+  }
+}

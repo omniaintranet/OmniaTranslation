@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo superbrugere"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams skabelon",
+          "Category": "Integration",
+          "Description": "Muliggør support for lokaliserede ikke-standard tilpassede Microsoft Teams-skabeloner ved oprettelse af nyt teamwork.",
+          "ConsentInformation": "Tillader appen at læse alle tilgængelige Microsoft Teams-skabeloner i organisationen uden en indlogget bruger."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Start opkald",
+      "ShowM365Profile": "Min Microsoft 365-profil"
+    }
+  }
+}

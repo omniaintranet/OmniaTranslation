@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "切换预览模式前保存页面状态失败。"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "处理电子邮件时出错。请重试。",
+        "ErrorDetails": "详细信息",
+        "Retry": "重试"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Échec de l’enregistrement de l’état de la page avant de passer en mode aperçu."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Une erreur est survenue lors du traitement des e-mails. Veuillez réessayer.",
+        "ErrorDetails": "Détails",
+        "Retry": "Réessayer"
+      }
+    }
+  }
+}

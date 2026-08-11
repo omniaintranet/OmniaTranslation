@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Kunne ikke gemme sidens tilstand før skift til forhåndsvisningstilstand."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Der opstod en fejl under behandling af e-mails. Prøv venligst igen.",
+        "ErrorDetails": "Detaljer",
+        "Retry": "Prøv igen"
+      }
+    }
+  }
+}

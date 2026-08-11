@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "Det schemalagda publiceringsdatumet kan inte vara i det förflutna."
+      }
+    }
+  }
+}

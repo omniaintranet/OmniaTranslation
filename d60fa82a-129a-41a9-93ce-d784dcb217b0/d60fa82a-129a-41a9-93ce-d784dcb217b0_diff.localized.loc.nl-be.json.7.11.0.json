@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Opslaan van de paginastatus vóór het schakelen naar voorbeeldmodus is mislukt."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Er is een fout opgetreden bij het verwerken van e-mails. Probeer het opnieuw.",
+        "ErrorDetails": "Details",
+        "Retry": "Opnieuw proberen"
+      }
+    }
+  }
+}

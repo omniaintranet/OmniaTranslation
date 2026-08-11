@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Fehler beim Speichern des Seitenstatus vor dem Wechsel in den Vorschaumodus."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Beim Verarbeiten der E-Mails ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "ErrorDetails": "Details",
+        "Retry": "Erneut versuchen"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ODM": {
+    "Core": {
+      "Messages": {
+        "ScheduledPublishingDateInPast": "De geplande publicatiedatum mag niet in het verleden liggen."
+      }
+    }
+  }
+}

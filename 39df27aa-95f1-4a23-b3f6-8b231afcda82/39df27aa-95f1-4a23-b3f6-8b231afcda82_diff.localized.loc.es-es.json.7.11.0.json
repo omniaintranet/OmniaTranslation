@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Superusuarios de Matomo"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Plantilla de Teams",
+          "Category": "Integración",
+          "Description": "Permite el soporte para plantillas personalizadas no estándar localizadas de Microsoft Teams al crear un nuevo equipo de trabajo.",
+          "ConsentInformation": "Permite que la aplicación lea todas las plantillas disponibles de Microsoft Teams en la organización, sin un usuario conectado."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Iniciar llamada",
+      "ShowM365Profile": "Mi perfil de Microsoft 365"
+    }
+  }
+}
