@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content builder",
+        "Placeholder": "Rendering av content builder kommer att vara tillgängligt när blocklagring är implementerat.",
+        "Media": {
+          "PlaceholderDescription": "Välj en bild eller video från mediebiblioteket för detta media block i content builder."
+        },
+        "Editor": {
+          "InheritedContent": "Detta block återanvänder mappat content builder-innehåll."
+        },
+        "Settings": {
+          "Title": "Inställningar för content builder",
+          "Placeholder": "Inställningar för content builder kommer att vara tillgängliga när blocklagring är implementerat.",
+          "RowSpacingHint": "Ställer in det vertikala avståndet mellan rader i content builder.",
+          "ColumnSpacingHint": "Ställer in avståndet mellan kolumner och galleriobjekt i content builder-rader.",
+          "ConfirmDeleteHint": "Visa en bekräftelsepopup innan ett content builder-block tas bort.",
+          "ConfirmDeleteMessage": "Detta block kommer att tas bort från content builder.",
+          "AiPromptSettings": {
+            "Description": "Konfigurera promptinstruktionerna som används av Content builder AI för denna affärsprofil.",
+            "Title": "Content builder AI-promptar"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Dokumentet normaliserades till content builder-schema version 1.",
+          "SchemaInvalid": "Content builder-dokument måste använda schema version 1.",
+          "RowsEmpty": "Content builder-dokument måste innehålla minst en rad."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Sidor"
+      }
+    }
+  }
+}
