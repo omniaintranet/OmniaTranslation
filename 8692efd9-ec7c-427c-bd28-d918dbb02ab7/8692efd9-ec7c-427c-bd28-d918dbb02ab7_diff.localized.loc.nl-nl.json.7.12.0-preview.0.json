@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "Video afspelen",
+          "pageVariationSelector": "Selector voor paginavariatie. Huidige variatie: {selectedLabel}",
+          "favoriteAdded": "Toegevoegd aan favorieten",
+          "favoriteNotAdded": "Niet toegevoegd aan favorieten",
+          "newsFeed": "Nieuwsfeed",
+          "commentLabel": "{username} reactie {date}: {content}",
+          "commentAuthorLabel": "{username} reactie {date}"
+        }
+      }
+    }
+  }
+}
