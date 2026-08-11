@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "播放视频",
+          "pageVariationSelector": "页面变体选择器。当前变体：{selectedLabel}",
+          "favoriteAdded": "已添加到收藏夹",
+          "favoriteNotAdded": "未添加到收藏夹",
+          "newsFeed": "新闻动态",
+          "commentLabel": "{username} 评论于 {date}：{content}",
+          "commentAuthorLabel": "{username} 评论于 {date}"
+        }
+      }
+    }
+  }
+}
