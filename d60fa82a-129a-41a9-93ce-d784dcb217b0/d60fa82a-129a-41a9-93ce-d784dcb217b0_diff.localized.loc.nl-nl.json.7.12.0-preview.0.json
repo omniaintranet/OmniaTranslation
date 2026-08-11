@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content builder",
+        "Placeholder": "Content builder-weergave wordt beschikbaar zodra blokopslag is geïmplementeerd.",
+        "Media": {
+          "PlaceholderDescription": "Selecteer een afbeelding of video uit de mediatheek voor dit content builder-mediablok."
+        },
+        "Editor": {
+          "InheritedContent": "Dit blok hergebruikt toegewezen content builder-inhoud."
+        },
+        "Settings": {
+          "Title": "Content builder-instellingen",
+          "Placeholder": "Content builder-instellingen worden beschikbaar zodra blokopslag is geïmplementeerd.",
+          "RowSpacingHint": "Stelt de verticale afstand tussen content builder-rijen in.",
+          "ColumnSpacingHint": "Stelt de afstand in tussen kolommen en galerij-items in content builder-rijen.",
+          "ConfirmDeleteHint": "Toon een bevestigingspop-up voordat een content builder-blok wordt verwijderd.",
+          "ConfirmDeleteMessage": "Dit blok wordt verwijderd uit de content builder.",
+          "AiPromptSettings": {
+            "Description": "Configureer de promptinstructies die door Content builder AI worden gebruikt binnen dit bedrijfsprofiel.",
+            "Title": "Content builder AI-prompts"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Het document is genormaliseerd naar content builder-schema versie 1.",
+          "SchemaInvalid": "Content builder-document moet schema versie 1 gebruiken.",
+          "RowsEmpty": "Content builder-document moet ten minste één rij bevatten."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Pagina's"
+      }
+    }
+  }
+}
