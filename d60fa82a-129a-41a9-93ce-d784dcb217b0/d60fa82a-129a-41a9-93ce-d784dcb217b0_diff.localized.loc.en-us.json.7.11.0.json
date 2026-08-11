@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Failed to save page state before switching preview mode."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "There was an error while processing email. Please try again.",
+        "ErrorDetails": "Details",
+        "Retry": "Retry"
+      }
+    }
+  }
+}
