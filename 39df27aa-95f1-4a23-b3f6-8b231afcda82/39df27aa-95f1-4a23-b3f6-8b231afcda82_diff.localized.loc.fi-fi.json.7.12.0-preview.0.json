@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Täysindeksoinnissa mukana olevat resurssit",
+          "NotStarted": "Täysindeksointia ei ole vielä aloitettu.",
+          "LatestRun": "Viimeisin täysindeksointi",
+          "Refresh": "Päivitä tila",
+          "LastRun": "Viimeisin suoritus",
+          "Status": "Tila",
+          "Duration": "Kesto",
+          "LastChecked": "Viimeksi tarkistettu",
+          "ViewRunDetails": "Näytä suorituksen tiedot",
+          "ViewProgress": "Näytä eteneminen",
+          "RunDetailsTitle": "Täysindeksoinnin suoritustiedot",
+          "RunInformation": "Suoritustiedot",
+          "RunId": "Tapahtuma-ID",
+          "Started": "Aloitettu",
+          "Finished": "Valmistunut",
+          "Resources": "Resurssit",
+          "ItemsProgress": "Kohteet",
+          "ScopesProgress": "Alueet",
+          "SucceededItems": "Onnistuneet",
+          "FailedItems": "Epäonnistuneet",
+          "Pending": "Odottaa",
+          "Queued": "Jonossa",
+          "Preparing": "Valmistellaan",
+          "Dispatching": "Lähetetään pyyntöjä",
+          "Processing": "Käsitellään",
+          "StatusCompleted": "Valmis",
+          "StatusFailed": "Epäonnistui",
+          "Copy": "Kopioi",
+          "Note": "Huomautus",
+          "NotAvailable": "Ei saatavilla",
+          "NoProgress": "Etenemisen tiedot eivät ole saatavilla tälle resurssille.",
+          "NoRunDetails": "Näytettävää täysindeksoinnin suoritusta ei ole.",
+          "FailureDetails": "Epäonnistumisen tiedot",
+          "Scope": "Alue",
+          "MoreFailedItems": "Lisää epäonnistuneita kohteita — katso tapahtumalokit täydellistä luetteloa varten."
+        }
+      }
+    }
+  }
+}
