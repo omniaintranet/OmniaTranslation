@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "Toista video",
+          "pageVariationSelector": "Sivun variaation valitsin. Nykyinen variaatio: {selectedLabel}",
+          "favoriteAdded": "Lisätty suosikkeihin",
+          "favoriteNotAdded": "Ei lisätty suosikkeihin",
+          "newsFeed": "Uutissyöte",
+          "commentLabel": "{username} kommentti {date}: {content}",
+          "commentAuthorLabel": "{username} kommentti {date}"
+        }
+      }
+    }
+  }
+}
