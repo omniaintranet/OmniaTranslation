@@ -1,0 +1,20 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Errors": {
+          "SaveStateBeforePreviewFailed": "Không thể lưu trạng thái trang trước khi chuyển sang chế độ xem trước."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "EmailProcessingErrorOccurred": "Đã xảy ra lỗi trong quá trình xử lý Email. Vui lòng thử lại.",
+        "ErrorDetails": "Chi tiết",
+        "Retry": "Thử lại"
+      }
+    }
+  }
+}
