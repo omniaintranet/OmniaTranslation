@@ -5,25 +5,25 @@
         "BlockTitle": "Content builder",
         "Placeholder": "Content builder rendering will be available when block storage is implemented.",
         "Media": {
-          "PlaceholderDescription": "Select an image or video from the media library for this Content builder media block."
+          "PlaceholderDescription": "Select an image or video from the media library for this content builder media block."
         },
         "Editor": {
-          "InheritedContent": "This block is reusing mapped Content builder content."
+          "InheritedContent": "This block is reusing mapped content builder content."
         },
         "Settings": {
           "Title": "Content builder settings",
           "Placeholder": "Content builder settings will be available when block storage is implemented.",
-          "RowSpacingHint": "Sets the vertical spacing between Content builder rows.",
-          "ColumnSpacingHint": "Sets the spacing between columns and gallery items in Content builder rows.",
-          "ConfirmDeleteHint": "Show a confirmation popup before deleting a Content builder block.",
-          "ConfirmDeleteMessage": "This block will be deleted from the Content builder.",
+          "RowSpacingHint": "Sets the vertical spacing between content builder rows.",
+          "ColumnSpacingHint": "Sets the spacing between columns and gallery items in content builder rows.",
+          "ConfirmDeleteHint": "Show a confirmation popup before deleting a content builder block.",
+          "ConfirmDeleteMessage": "This block will be deleted from the content builder.",
           "AiPromptSettings": {
             "Description": "Configure the prompt instructions used by Content builder AI across this business profile.",
             "Title": "Content builder AI prompts"
           }
         },
         "Errors": {
-          "SchemaMigrated": "Document was normalized to Content builder schema version 1.",
+          "SchemaMigrated": "The document was normalized to content builder schema version 1.",
           "SchemaInvalid": "Content builder document must use schema version 1.",
           "RowsEmpty": "Content builder document must contain at least one row."
         }
