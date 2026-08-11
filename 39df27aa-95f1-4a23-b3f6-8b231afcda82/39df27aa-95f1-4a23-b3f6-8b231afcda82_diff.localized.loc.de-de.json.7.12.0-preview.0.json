@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Im vollständigen Reindex enthaltene Ressourcen",
+          "NotStarted": "Es wurde noch kein vollständiger Reindex gestartet.",
+          "LatestRun": "Neuester vollständiger Reindex",
+          "Refresh": "Status aktualisieren",
+          "LastRun": "Letzter Lauf",
+          "Status": "Status",
+          "Duration": "Dauer",
+          "LastChecked": "Zuletzt geprüft",
+          "ViewRunDetails": "Laufdetails anzeigen",
+          "ViewProgress": "Fortschritt anzeigen",
+          "RunDetailsTitle": "Details zum vollständigen Reindex-Lauf",
+          "RunInformation": "Laufinformationen",
+          "RunId": "Transaktions-ID",
+          "Started": "Gestartet",
+          "Finished": "Beendet",
+          "Resources": "Ressourcen",
+          "ItemsProgress": "Elemente",
+          "ScopesProgress": "Bereiche",
+          "SucceededItems": "Erfolgreich",
+          "FailedItems": "Fehlgeschlagen",
+          "Pending": "Ausstehend",
+          "Queued": "In Warteschlange",
+          "Preparing": "Vorbereitung",
+          "Dispatching": "Anfragen senden",
+          "Processing": "Verarbeitung",
+          "StatusCompleted": "Abgeschlossen",
+          "StatusFailed": "Fehlgeschlagen",
+          "Copy": "Kopieren",
+          "Note": "Hinweis",
+          "NotAvailable": "Nicht verfügbar",
+          "NoProgress": "Fortschrittsdetails sind für diese Ressource nicht verfügbar.",
+          "NoRunDetails": "Es gibt keinen vollständigen Reindex-Lauf zur Anzeige.",
+          "FailureDetails": "Fehlerdetails",
+          "Scope": "Bereich",
+          "MoreFailedItems": "Weitere fehlgeschlagene Elemente — siehe die Transaktionsprotokolle für die vollständige Liste."
+        }
+      }
+    }
+  }
+}
