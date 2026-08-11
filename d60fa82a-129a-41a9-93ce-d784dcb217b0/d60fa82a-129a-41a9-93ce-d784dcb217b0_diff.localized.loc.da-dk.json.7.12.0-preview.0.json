@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Content builder",
+        "Placeholder": "Content builder rendering vil være tilgængelig, når bloklagring er implementeret.",
+        "Media": {
+          "PlaceholderDescription": "Vælg et billede eller en video fra mediebiblioteket til denne content builder medieblok."
+        },
+        "Editor": {
+          "InheritedContent": "Denne blok genbruger tilknyttet content builder indhold."
+        },
+        "Settings": {
+          "Title": "Content builder indstillinger",
+          "Placeholder": "Content builder indstillinger vil være tilgængelige, når bloklagring er implementeret.",
+          "RowSpacingHint": "Indstiller den lodrette afstand mellem content builder rækker.",
+          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer i content builder rækker.",
+          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en content builder blok.",
+          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra content builder.",
+          "AiPromptSettings": {
+            "Description": "Konfigurer promptinstruktionerne, der bruges af Content builder AI på tværs af denne forretningsprofil.",
+            "Title": "Content builder AI prompts"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Dokumentet blev normaliseret til content builder skema version 1.",
+          "SchemaInvalid": "Content builder dokument skal bruge skema version 1.",
+          "RowsEmpty": "Content builder dokument skal indeholde mindst én række."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Sider"
+      }
+    }
+  }
+}
