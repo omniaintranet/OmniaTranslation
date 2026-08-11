@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Tài nguyên bao gồm trong việc lập chỉ mục lại toàn bộ",
+          "NotStarted": "Chưa có việc lập chỉ mục lại toàn bộ nào được bắt đầu.",
+          "LatestRun": "Lần lập chỉ mục lại toàn bộ gần nhất",
+          "Refresh": "Làm mới trạng thái",
+          "LastRun": "Lần chạy cuối",
+          "Status": "Trạng thái",
+          "Duration": "Thời lượng",
+          "LastChecked": "Lần kiểm tra cuối",
+          "ViewRunDetails": "Xem chi tiết lần chạy",
+          "ViewProgress": "Xem tiến trình",
+          "RunDetailsTitle": "Chi tiết lần chạy lập chỉ mục lại toàn bộ",
+          "RunInformation": "Thông tin lần chạy",
+          "RunId": "ID giao dịch",
+          "Started": "Bắt đầu",
+          "Finished": "Hoàn thành",
+          "Resources": "Tài nguyên",
+          "ItemsProgress": "Mục",
+          "ScopesProgress": "Phạm vi",
+          "SucceededItems": "Thành công",
+          "FailedItems": "Thất bại",
+          "Pending": "Đang chờ",
+          "Queued": "Đang xếp hàng",
+          "Preparing": "Đang chuẩn bị",
+          "Dispatching": "Đang gửi yêu cầu",
+          "Processing": "Đang xử lý",
+          "StatusCompleted": "Hoàn thành",
+          "StatusFailed": "Thất bại",
+          "Copy": "Sao chép",
+          "Note": "Ghi chú",
+          "NotAvailable": "Không có sẵn",
+          "NoProgress": "Chi tiết tiến trình không có sẵn cho tài nguyên này.",
+          "NoRunDetails": "Không có lần chạy lập chỉ mục lại toàn bộ nào để hiển thị.",
+          "FailureDetails": "Chi tiết lỗi",
+          "Scope": "Phạm vi",
+          "MoreFailedItems": "Nhiều mục thất bại hơn — xem nhật ký giao dịch để biết danh sách đầy đủ."
+        }
+      }
+    }
+  }
+}
