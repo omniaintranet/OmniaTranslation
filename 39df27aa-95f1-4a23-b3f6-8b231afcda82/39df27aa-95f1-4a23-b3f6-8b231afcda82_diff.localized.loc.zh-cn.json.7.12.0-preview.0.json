@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "包含在完整重新索引中的资源",
+          "NotStarted": "尚未启动完整重新索引。",
+          "LatestRun": "最新完整重新索引",
+          "Refresh": "刷新状态",
+          "LastRun": "上次运行",
+          "Status": "状态",
+          "Duration": "持续时间",
+          "LastChecked": "上次检查",
+          "ViewRunDetails": "查看运行详情",
+          "ViewProgress": "查看进度",
+          "RunDetailsTitle": "完整重新索引运行详情",
+          "RunInformation": "运行信息",
+          "RunId": "事务 ID",
+          "Started": "开始时间",
+          "Finished": "结束时间",
+          "Resources": "资源",
+          "ItemsProgress": "项目",
+          "ScopesProgress": "范围",
+          "SucceededItems": "成功",
+          "FailedItems": "失败",
+          "Pending": "待处理",
+          "Queued": "排队中",
+          "Preparing": "准备中",
+          "Dispatching": "发送请求",
+          "Processing": "处理中",
+          "StatusCompleted": "已完成",
+          "StatusFailed": "失败",
+          "Copy": "复制",
+          "Note": "备注",
+          "NotAvailable": "不可用",
+          "NoProgress": "该资源的进度详情不可用。",
+          "NoRunDetails": "没有可显示的完整重新索引运行记录。",
+          "FailureDetails": "失败详情",
+          "Scope": "范围",
+          "MoreFailedItems": "更多失败项目 — 请查看事务日志以获取完整列表。"
+        }
+      }
+    }
+  }
+}
