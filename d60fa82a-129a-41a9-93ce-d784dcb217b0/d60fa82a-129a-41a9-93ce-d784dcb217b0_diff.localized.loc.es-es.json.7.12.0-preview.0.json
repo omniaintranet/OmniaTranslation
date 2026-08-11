@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Constructor de contenido",
+        "Placeholder": "La representación del constructor de contenido estará disponible cuando se implemente el almacenamiento de bloques.",
+        "Media": {
+          "PlaceholderDescription": "Seleccione una imagen o vídeo de la biblioteca de medios para este bloque de medios del constructor de contenido."
+        },
+        "Editor": {
+          "InheritedContent": "Este bloque está reutilizando contenido mapeado del constructor de contenido."
+        },
+        "Settings": {
+          "Title": "Configuración del constructor de contenido",
+          "Placeholder": "La configuración del constructor de contenido estará disponible cuando se implemente el almacenamiento de bloques.",
+          "RowSpacingHint": "Establece el espacio vertical entre filas del constructor de contenido.",
+          "ColumnSpacingHint": "Establece el espacio entre columnas y elementos de la galería en las filas del constructor de contenido.",
+          "ConfirmDeleteHint": "Mostrar un mensaje de confirmación antes de eliminar un bloque del constructor de contenido.",
+          "ConfirmDeleteMessage": "Este bloque será eliminado del constructor de contenido.",
+          "AiPromptSettings": {
+            "Description": "Configura las instrucciones del prompt utilizadas por la IA del constructor de contenido en este perfil empresarial.",
+            "Title": "Prompts de IA del constructor de contenido"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "El documento se normalizó a la versión 1 del esquema del constructor de contenido.",
+          "SchemaInvalid": "El documento del constructor de contenido debe usar la versión 1 del esquema.",
+          "RowsEmpty": "El documento del constructor de contenido debe contener al menos una fila."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Páginas"
+      }
+    }
+  }
+}
