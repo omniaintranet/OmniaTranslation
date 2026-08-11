@@ -2,30 +2,30 @@
   "WCM": {
     "ContentFlow": {
       "Block": {
-        "BlockTitle": "Content builder",
-        "Placeholder": "Content builder rendering vil være tilgængelig, når bloklagring er implementeret.",
+        "BlockTitle": "Indholdsbygger",
+        "Placeholder": "Vil være være tilgængelig, når bloklagring er implementeret.",
         "Media": {
-          "PlaceholderDescription": "Vælg et billede eller en video fra mediebiblioteket til denne content builder medieblok."
+          "PlaceholderDescription": "Vælg et billede eller en video fra mediebiblioteket til medieblokken."
         },
         "Editor": {
-          "InheritedContent": "Denne blok genbruger tilknyttet content builder indhold."
+          "InheritedContent": "Denne blok genbruger tilknyttet indhold fra en indholdsbygger-blok."
         },
         "Settings": {
-          "Title": "Content builder indstillinger",
-          "Placeholder": "Content builder indstillinger vil være tilgængelige, når bloklagring er implementeret.",
-          "RowSpacingHint": "Indstiller den lodrette afstand mellem content builder rækker.",
-          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer i content builder rækker.",
-          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en content builder blok.",
-          "ConfirmDeleteMessage": "Denne blok vil blive slettet fra content builder.",
+          "Title": "Indstillinger for indholdsbygger",
+          "Placeholder": "Indstillinger for indholdsbyggeren vil være tilgængelige, når bloklagring er implementeret.",
+          "RowSpacingHint": "Indstiller den lodrette afstand mellem rækker.",
+          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer.",
+          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en indholdsbygger.",
+          "ConfirmDeleteMessage": "Denne blok vil blive slettet.",
           "AiPromptSettings": {
-            "Description": "Konfigurer promptinstruktionerne, der bruges af Content builder AI på tværs af denne forretningsprofil.",
-            "Title": "Content builder AI prompts"
+            "Description": "Konfigurer promptinstruktionerne, der bruges af AI i indholdsbyggeren på tværs af denne virksomhedsprofil.",
+            "Title": "AI prompts"
           }
         },
         "Errors": {
-          "SchemaMigrated": "Dokumentet blev normaliseret til content builder skema version 1.",
-          "SchemaInvalid": "Content builder dokument skal bruge skema version 1.",
-          "RowsEmpty": "Content builder dokument skal indeholde mindst én række."
+          "SchemaMigrated": "Dokumentet blev normaliseret til indholdsbygger-skema version 1.",
+          "SchemaInvalid": "Et indholdsbygger-dokument skal bruge skema version 1.",
+          "RowsEmpty": "Et indholdsbygger-dokument skal indeholde mindst én række."
         }
       }
     },
