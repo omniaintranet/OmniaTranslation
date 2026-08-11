@@ -10,8 +10,8 @@
         "TeamsTemplate": {
           "Title": "Teams-mall",
           "Category": "Integration",
-          "Description": "Aktiverar stöd för lokaliserade icke-standardiserade anpassade Microsoft Teams-mallar vid skapande av nytt teamwork.",
-          "ConsentInformation": "Tillåter appen att läsa alla tillgängliga Microsoft Teams-mallar i organisationen, utan inloggad användare."
+          "Description": "Aktiverar stöd för lokaliserade icke-standardiserade, anpassade Microsoft Teams-mallar vid skapande av nytt teamwork.",
+          "ConsentInformation": "Tillåter appen att läsa alla tillgängliga Microsoft Teams-mallar i organisationen, utan en inloggad användare."
         }
       }
     },
