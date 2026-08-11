@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Super utilisateurs Matomo"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Modèle Teams",
+          "Category": "Intégration",
+          "Description": "Permet la prise en charge des modèles Microsoft Teams personnalisés non standard localisés lors de la création d’un nouveau travail d’équipe.",
+          "ConsentInformation": "Permet à l’application de lire tous les modèles Microsoft Teams disponibles dans l’organisation, sans qu’un utilisateur soit connecté."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Démarrer l’appel",
+      "ShowM365Profile": "Mon profil Microsoft 365"
+    }
+  }
+}
