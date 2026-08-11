@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Générateur de contenu",
+        "Placeholder": "Le rendu du générateur de contenu sera disponible lorsque le stockage des blocs sera implémenté.",
+        "Media": {
+          "PlaceholderDescription": "Sélectionnez une image ou une vidéo dans la bibliothèque multimédia pour ce bloc média du générateur de contenu."
+        },
+        "Editor": {
+          "InheritedContent": "Ce bloc réutilise le contenu mappé du générateur de contenu."
+        },
+        "Settings": {
+          "Title": "Paramètres du générateur de contenu",
+          "Placeholder": "Les paramètres du générateur de contenu seront disponibles lorsque le stockage des blocs sera implémenté.",
+          "RowSpacingHint": "Définit l'espacement vertical entre les lignes du générateur de contenu.",
+          "ColumnSpacingHint": "Définit l'espacement entre les colonnes et les éléments de la galerie dans les lignes du générateur de contenu.",
+          "ConfirmDeleteHint": "Afficher une fenêtre de confirmation avant de supprimer un bloc du générateur de contenu.",
+          "ConfirmDeleteMessage": "Ce bloc sera supprimé du générateur de contenu.",
+          "AiPromptSettings": {
+            "Description": "Configurez les instructions de prompt utilisées par l'IA du générateur de contenu pour ce profil d'entreprise.",
+            "Title": "Prompts IA du générateur de contenu"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Le document a été normalisé à la version 1 du schéma du générateur de contenu.",
+          "SchemaInvalid": "Le document du générateur de contenu doit utiliser la version 1 du schéma.",
+          "RowsEmpty": "Le document du générateur de contenu doit contenir au moins une ligne."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Pages"
+      }
+    }
+  }
+}
