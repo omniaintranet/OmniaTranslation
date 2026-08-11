@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "Lire la vidéo",
+          "pageVariationSelector": "Sélecteur de variation de page. Variation actuelle : {selectedLabel}",
+          "favoriteAdded": "Ajouté aux favoris",
+          "favoriteNotAdded": "Non ajouté aux favoris",
+          "newsFeed": "Fil d’actualités",
+          "commentLabel": "Commentaire de {username} le {date} : {content}",
+          "commentAuthorLabel": "Commentaire de {username} le {date}"
+        }
+      }
+    }
+  }
+}
