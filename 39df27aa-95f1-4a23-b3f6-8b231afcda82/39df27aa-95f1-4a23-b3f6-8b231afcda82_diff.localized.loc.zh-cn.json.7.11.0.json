@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo 超级用户"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams 模板",
+          "Category": "集成",
+          "Description": "支持在创建新的团队协作时使用本地化的非标准自定义 Microsoft Teams 模板。",
+          "ConsentInformation": "允许应用在无登录用户的情况下读取组织中所有可用的 Microsoft Teams 模板。"
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "开始通话",
+      "ShowM365Profile": "我的 Microsoft 365 个人资料"
+    }
+  }
+}
