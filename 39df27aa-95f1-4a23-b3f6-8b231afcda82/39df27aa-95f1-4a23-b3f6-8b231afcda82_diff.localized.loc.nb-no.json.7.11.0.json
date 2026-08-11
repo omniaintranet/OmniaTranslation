@@ -1,0 +1,23 @@
+{
+  "OmniaWorkplace": {
+    "Analytics": {
+      "permissions": {
+        "matomoSuperUsers": "Matomo superbrukere"
+      }
+    },
+    "Core": {
+      "Features": {
+        "TeamsTemplate": {
+          "Title": "Teams-mal",
+          "Category": "Integrasjon",
+          "Description": "Aktiverer støtte for lokaliserte ikke-standard tilpassede Microsoft Teams-maler ved opprettelse av nytt samarbeid.",
+          "ConsentInformation": "Tillater appen å lese alle tilgjengelige Microsoft Teams-maler i organisasjonen, uten en pålogget bruker."
+        }
+      }
+    },
+    "UserInformation": {
+      "StartCall": "Start samtale",
+      "ShowM365Profile": "Min Microsoft 365-profil"
+    }
+  }
+}
