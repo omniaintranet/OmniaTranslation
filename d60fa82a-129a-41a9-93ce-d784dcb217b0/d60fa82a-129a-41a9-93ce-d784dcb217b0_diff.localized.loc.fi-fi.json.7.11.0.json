@@ -3,7 +3,7 @@
     "Editor": {
       "Editor": {
         "Errors": {
-          "SaveStateBeforePreviewFailed": "Sivun tilan tallentaminen ennen esikatselutilaan siirtymistä epäonnistui."
+          "SaveStateBeforePreviewFailed": "Emme voineet tallentaa tekemiäsi muutoksia ennen esikatselun avaamista. Yritä uudelleen."
         }
       }
     }
