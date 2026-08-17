@@ -10,7 +10,7 @@
         "TeamsTemplate": {
           "Title": "Teams-malli",
           "Category": "Integraatio",
-          "Description": "Mahdollistaa paikallisten ei-standardi mukautettujen Microsoft Teams -mallien tuen uuden tiimityön luomisessa.",
+          "Description": "Mahdollistaa lokalisoitujen mukautettujen Microsoft Teams -mallien tuen uuden tiimityön luomisessa.",
           "ConsentInformation": "Sallii sovelluksen lukea kaikki organisaation käytettävissä olevat Microsoft Teams -mallit ilman kirjautunutta käyttäjää."
         }
       }
