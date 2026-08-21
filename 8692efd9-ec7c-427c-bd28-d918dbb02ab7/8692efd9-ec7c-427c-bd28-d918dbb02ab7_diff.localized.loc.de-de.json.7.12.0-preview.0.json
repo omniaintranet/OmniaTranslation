@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Wird geladen"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Doppeltippen zum Schließen des Modals",
+            "ModalNames": {
+              "PageReactionModal": "Seitenreaktionen-Modal",
+              "AddCommentModal": "Kommentar-Editor-Modal",
+              "CommentModal": "Kommentar-Modal",
+              "FileDownloadModal": "Datei-Download-Modal",
+              "LanguagePickerModal": "Sprachen-Modal",
+              "LayoutVersionPickerModal": "Layout-Version-Modal",
+              "ReactionPopupModal": "Reaktionen-Modal",
+              "MigrateStorageModal": "Speicher-Migrations-Modal"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Layout-Version-Auswahl",
+            "textSelectVersion": "Version auswählen"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Video abspielen",
+          "pageVariationSelector": "Seitenvarianten-Auswahl. Aktuelle Variante: {selectedLabel}",
+          "favoriteAdded": "Zu Favoriten hinzugefügt",
+          "favoriteNotAdded": "Nicht zu Favoriten hinzugefügt",
+          "newsFeed": "Newsfeed",
+          "commentLabel": "{username} Kommentar {date}: {content}",
+          "commentAuthorLabel": "{username} Kommentar {date}"
+        }
+      }
+    }
+  }
+}
