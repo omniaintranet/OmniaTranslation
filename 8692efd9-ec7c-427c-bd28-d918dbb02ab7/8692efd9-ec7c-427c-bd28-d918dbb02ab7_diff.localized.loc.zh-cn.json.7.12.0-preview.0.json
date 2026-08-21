@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "加载中"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "双击关闭模态窗口",
+            "ModalNames": {
+              "PageReactionModal": "页面反应模态窗口",
+              "AddCommentModal": "评论编辑模态窗口",
+              "CommentModal": "评论模态窗口",
+              "FileDownloadModal": "文件下载模态窗口",
+              "LanguagePickerModal": "语言模态窗口",
+              "LayoutVersionPickerModal": "布局版本模态窗口",
+              "ReactionPopupModal": "反应模态窗口",
+              "MigrateStorageModal": "迁移存储模态窗口"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "布局版本选择器",
+            "textSelectVersion": "选择版本"
+          }
+        },
+        "WCAG": {
+          "playVideo": "播放视频",
+          "pageVariationSelector": "页面变体选择器。当前变体：{selectedLabel}",
+          "favoriteAdded": "已添加到收藏夹",
+          "favoriteNotAdded": "未添加到收藏夹",
+          "newsFeed": "新闻动态",
+          "commentLabel": "{username} 评论于 {date}：{content}",
+          "commentAuthorLabel": "{username} 评论于 {date}"
+        }
+      }
+    }
+  }
+}
