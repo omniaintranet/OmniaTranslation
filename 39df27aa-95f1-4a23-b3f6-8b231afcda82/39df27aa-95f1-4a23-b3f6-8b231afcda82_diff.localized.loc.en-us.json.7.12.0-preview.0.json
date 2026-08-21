@@ -3,7 +3,7 @@
     "AIEngineSettings": {
       "GeneralSetting": {
         "SemanticSearchFullReindex": {
-          "AvailableResources": "Resources included in Full Reindex",
+          "AvailableResources": "Resources included in full reindex",
           "NotStarted": "No full reindex has been started yet.",
           "LatestRun": "Latest full reindex",
           "Refresh": "Refresh status",
@@ -11,9 +11,9 @@
           "Status": "Status",
           "Duration": "Duration",
           "LastChecked": "Last checked",
-          "ViewRunDetails": "View run details",
+          "ViewRunDetails": "View details",
           "ViewProgress": "View progress",
-          "RunDetailsTitle": "Full Reindex Run Details",
+          "RunDetailsTitle": "Full reindex details",
           "RunInformation": "Run information",
           "RunId": "Transaction ID",
           "Started": "Started",
