@@ -7,7 +7,7 @@
         },
         "Commons": {
           "RootModal": {
-            "OverlayLabel": "Dubbeltryck för att stänga modal",
+            "OverlayLabel": "Välj två gånger för att stänga modal",
             "ModalNames": {
               "PageReactionModal": "Modal för sidoreaktioner",
               "AddCommentModal": "Modal för kommentarredigerare",
