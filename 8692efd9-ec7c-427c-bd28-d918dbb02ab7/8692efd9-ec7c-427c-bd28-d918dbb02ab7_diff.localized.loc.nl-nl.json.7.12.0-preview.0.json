@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Bezig met laden"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Dubbel tik om modal te sluiten",
+            "ModalNames": {
+              "PageReactionModal": "Pagina reacties modal",
+              "AddCommentModal": "Reactie editor modal",
+              "CommentModal": "Reactie modal",
+              "FileDownloadModal": "Bestand download modal",
+              "LanguagePickerModal": "Taal modal",
+              "LayoutVersionPickerModal": "Layout versie modal",
+              "ReactionPopupModal": "Reacties modal",
+              "MigrateStorageModal": "Opslag migratie modal"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Layout versie kiezer",
+            "textSelectVersion": "Selecteer versie"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Video afspelen",
+          "pageVariationSelector": "Pagina variatie kiezer. Huidige variatie: {selectedLabel}",
+          "favoriteAdded": "Toegevoegd aan favorieten",
+          "favoriteNotAdded": "Niet toegevoegd aan favorieten",
+          "newsFeed": "Nieuwsfeed",
+          "commentLabel": "{username} reactie {date}: {content}",
+          "commentAuthorLabel": "{username} reactie {date}"
+        }
+      }
+    }
+  }
+}

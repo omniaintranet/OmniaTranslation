@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Indlæser"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Dobbelttryk for at lukke modal",
+            "ModalNames": {
+              "PageReactionModal": "Side reaktioner modal",
+              "AddCommentModal": "Kommentar editor modal",
+              "CommentModal": "Kommentar modal",
+              "FileDownloadModal": "Fil download modal",
+              "LanguagePickerModal": "Sprog modal",
+              "LayoutVersionPickerModal": "Layout version modal",
+              "ReactionPopupModal": "Reaktioner modal",
+              "MigrateStorageModal": "Migrer lager modal"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Layout version vælger",
+            "textSelectVersion": "Vælg version"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Afspil video",
+          "pageVariationSelector": "Side variation vælger. Nuværende variation: {selectedLabel}",
+          "favoriteAdded": "Tilføjet til favoritter",
+          "favoriteNotAdded": "Ikke tilføjet til favoritter",
+          "newsFeed": "Nyhedsfeed",
+          "commentLabel": "{username} kommentar {date}: {content}",
+          "commentAuthorLabel": "{username} kommentar {date}"
+        }
+      }
+    }
+  }
+}

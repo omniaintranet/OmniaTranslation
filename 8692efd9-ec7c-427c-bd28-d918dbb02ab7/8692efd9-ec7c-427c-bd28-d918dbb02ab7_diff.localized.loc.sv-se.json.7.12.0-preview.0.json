@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Läser in"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Välj två gånger för att stänga modal",
+            "ModalNames": {
+              "PageReactionModal": "Modal för sidoreaktioner",
+              "AddCommentModal": "Modal för kommentarredigerare",
+              "CommentModal": "Kommentar-modal",
+              "FileDownloadModal": "Modal för filnedladdning",
+              "LanguagePickerModal": "Modal för språkval",
+              "LayoutVersionPickerModal": "Modal för layoutversion",
+              "ReactionPopupModal": "Modal för reaktioner",
+              "MigrateStorageModal": "Modal för migrering av lagring"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Välj layoutversion",
+            "textSelectVersion": "Välj version"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Spela upp video",
+          "pageVariationSelector": "Välj sidvariation. Aktuell variation: {selectedLabel}",
+          "favoriteAdded": "Tillagd i favoriter",
+          "favoriteNotAdded": "Inte tillagd i favoriter",
+          "newsFeed": "Nyhetsflöde",
+          "commentLabel": "{username} kommentar {date}: {content}",
+          "commentAuthorLabel": "{username} kommentar {date}"
+        }
+      }
+    }
+  }
+}

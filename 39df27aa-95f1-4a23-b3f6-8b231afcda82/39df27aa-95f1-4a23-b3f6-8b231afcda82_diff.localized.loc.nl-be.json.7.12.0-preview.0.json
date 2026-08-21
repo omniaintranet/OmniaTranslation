@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Resources inbegrepen in volledige herindexering",
+          "NotStarted": "Er is nog geen volledige herindexering gestart.",
+          "LatestRun": "Laatste volledige herindexering",
+          "Refresh": "Status vernieuwen",
+          "LastRun": "Laatste uitvoering",
+          "Status": "Status",
+          "Duration": "Duur",
+          "LastChecked": "Laatst gecontroleerd",
+          "ViewRunDetails": "Details bekijken",
+          "ViewProgress": "Voortgang bekijken",
+          "RunDetailsTitle": "Details volledige herindexering",
+          "RunInformation": "Uitvoeringsinformatie",
+          "RunId": "Transactie-ID",
+          "Started": "Gestart",
+          "Finished": "Voltooid",
+          "Resources": "Resources",
+          "ItemsProgress": "Items",
+          "ScopesProgress": "Scopes",
+          "SucceededItems": "Geslaagd",
+          "FailedItems": "Mislukt",
+          "Pending": "In afwachting",
+          "Queued": "In wachtrij",
+          "Preparing": "Voorbereiden",
+          "Dispatching": "Verzoeken verzenden",
+          "Processing": "Bezig met verwerken",
+          "StatusCompleted": "Voltooid",
+          "StatusFailed": "Mislukt",
+          "Copy": "Kopiëren",
+          "Note": "Opmerking",
+          "NotAvailable": "Niet beschikbaar",
+          "NoProgress": "Voortgangsdetails zijn niet beschikbaar voor deze resource.",
+          "NoRunDetails": "Er is geen volledige herindexering om weer te geven.",
+          "FailureDetails": "Details van mislukking",
+          "Scope": "Scope",
+          "MoreFailedItems": "meer mislukte items — zie de transactielogs voor de volledige lijst."
+        }
+      }
+    }
+  }
+}

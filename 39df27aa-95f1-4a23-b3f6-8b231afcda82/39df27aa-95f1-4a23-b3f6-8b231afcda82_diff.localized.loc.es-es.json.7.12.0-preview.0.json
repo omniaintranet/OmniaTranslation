@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Recursos incluidos en la reindexación completa",
+          "NotStarted": "No se ha iniciado ninguna reindexación completa todavía.",
+          "LatestRun": "Última reindexación completa",
+          "Refresh": "Actualizar estado",
+          "LastRun": "Última ejecución",
+          "Status": "Estado",
+          "Duration": "Duración",
+          "LastChecked": "Última comprobación",
+          "ViewRunDetails": "Ver detalles",
+          "ViewProgress": "Ver progreso",
+          "RunDetailsTitle": "Detalles de la reindexación completa",
+          "RunInformation": "Información de la ejecución",
+          "RunId": "ID de transacción",
+          "Started": "Iniciado",
+          "Finished": "Finalizado",
+          "Resources": "Recursos",
+          "ItemsProgress": "Elementos",
+          "ScopesProgress": "Ámbitos",
+          "SucceededItems": "Correctos",
+          "FailedItems": "Fallidos",
+          "Pending": "Pendiente",
+          "Queued": "En cola",
+          "Preparing": "Preparando",
+          "Dispatching": "Enviando solicitudes",
+          "Processing": "Procesando",
+          "StatusCompleted": "Completado",
+          "StatusFailed": "Fallido",
+          "Copy": "Copiar",
+          "Note": "Nota",
+          "NotAvailable": "No disponible",
+          "NoProgress": "Los detalles del progreso no están disponibles para este recurso.",
+          "NoRunDetails": "No hay ninguna ejecución de reindexación completa para mostrar.",
+          "FailureDetails": "Detalles del fallo",
+          "Scope": "Ámbito",
+          "MoreFailedItems": "más elementos fallidos — consulte los registros de transacciones para la lista completa."
+        }
+      }
+    }
+  }
+}

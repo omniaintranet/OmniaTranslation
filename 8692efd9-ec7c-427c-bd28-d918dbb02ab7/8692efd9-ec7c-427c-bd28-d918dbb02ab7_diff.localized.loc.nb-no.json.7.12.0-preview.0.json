@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Laster"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Dobbelttrykk for å lukke modal",
+            "ModalNames": {
+              "PageReactionModal": "Side reaksjoner modal",
+              "AddCommentModal": "Kommentarredigeringsmodal",
+              "CommentModal": "Kommentar modal",
+              "FileDownloadModal": "Filnedlastingsmodal",
+              "LanguagePickerModal": "Språk modal",
+              "LayoutVersionPickerModal": "Layout versjonsmodal",
+              "ReactionPopupModal": "Reaksjoner modal",
+              "MigrateStorageModal": "Migrer lagringsmodal"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Layout versjonsvelger",
+            "textSelectVersion": "Velg versjon"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Spill av video",
+          "pageVariationSelector": "Sidevariasjonsvelger. Gjeldende variasjon: {selectedLabel}",
+          "favoriteAdded": "Lagt til i favoritter",
+          "favoriteNotAdded": "Ikke lagt til i favoritter",
+          "newsFeed": "Nyhetsfeed",
+          "commentLabel": "{username} kommentar {date}: {content}",
+          "commentAuthorLabel": "{username} kommentar {date}"
+        }
+      }
+    }
+  }
+}
