@@ -9,14 +9,14 @@
           "RootModal": {
             "OverlayLabel": "Double tap to close modal",
             "ModalNames": {
-              "PageReactionModal": "Page Reactions Modal",
-              "AddCommentModal": "Comment Editor Modal",
-              "CommentModal": "Comment Modal",
-              "FileDownloadModal": "File Download Modal",
-              "LanguagePickerModal": "Language Modal",
-              "LayoutVersionPickerModal": "Layout Version Modal",
-              "ReactionPopupModal": "Reactions Modal",
-              "MigrateStorageModal": "Migrate Storage Modal"
+              "PageReactionModal": "Page reactions modal",
+              "AddCommentModal": "Comment editor modal",
+              "CommentModal": "Comment modal",
+              "FileDownloadModal": "File download modal",
+              "LanguagePickerModal": "Language modal",
+              "LayoutVersionPickerModal": "Layout version modal",
+              "ReactionPopupModal": "Reactions modal",
+              "MigrateStorageModal": "Migrate storage modal"
             }
           },
           "LayoutEngine": {
