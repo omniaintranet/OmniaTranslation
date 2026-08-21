@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Indholdsbygger",
+        "Placeholder": "Vil være være tilgængelig, når bloklagring er implementeret.",
+        "Media": {
+          "PlaceholderDescription": "Vælg et billede eller en video fra mediebiblioteket til medieblokken."
+        },
+        "Editor": {
+          "InheritedContent": "Denne blok genbruger tilknyttet indhold fra en indholdsbygger-blok."
+        },
+        "Settings": {
+          "Title": "Indstillinger for indholdsbygger",
+          "Placeholder": "Indstillinger for indholdsbyggeren vil være tilgængelige, når bloklagring er implementeret.",
+          "RowSpacingHint": "Indstiller den lodrette afstand mellem rækker.",
+          "ColumnSpacingHint": "Indstiller afstanden mellem kolonner og galleri-elementer.",
+          "ConfirmDeleteHint": "Vis en bekræftelses-popup før sletning af en indholdsbygger.",
+          "ConfirmDeleteMessage": "Denne blok vil blive slettet.",
+          "AiPromptSettings": {
+            "Description": "Konfigurer promptinstruktionerne, der bruges af AI i indholdsbyggeren på tværs af denne virksomhedsprofil.",
+            "Title": "AI prompts"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Dokumentet blev normaliseret til indholdsbygger-skema version 1.",
+          "SchemaInvalid": "Et indholdsbygger-dokument skal bruge skema version 1.",
+          "RowsEmpty": "Et indholdsbygger-dokument skal indeholde mindst én række."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Sider"
+      }
+    }
+  }
+}

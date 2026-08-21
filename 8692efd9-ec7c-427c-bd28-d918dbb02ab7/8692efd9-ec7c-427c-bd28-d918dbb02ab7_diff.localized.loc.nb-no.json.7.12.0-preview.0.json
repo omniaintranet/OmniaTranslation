@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "Spill av video",
+          "pageVariationSelector": "Velger for sidevariasjon. Gjeldende variasjon: {selectedLabel}",
+          "favoriteAdded": "Lagt til i favoritter",
+          "favoriteNotAdded": "Ikke lagt til i favoritter",
+          "newsFeed": "Nyhetsstrøm",
+          "commentLabel": "{username} kommentar {date}: {content}",
+          "commentAuthorLabel": "{username} kommentar {date}"
+        }
+      }
+    }
+  }
+}

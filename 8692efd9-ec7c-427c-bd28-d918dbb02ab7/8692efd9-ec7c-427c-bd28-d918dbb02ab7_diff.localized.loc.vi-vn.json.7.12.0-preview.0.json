@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "WCAG": {
+          "playVideo": "Phát video",
+          "pageVariationSelector": "Bộ chọn biến thể trang. Biến thể hiện tại: {selectedLabel}",
+          "favoriteAdded": "Đã thêm vào mục yêu thích",
+          "favoriteNotAdded": "Chưa thêm vào mục yêu thích",
+          "newsFeed": "Bảng tin",
+          "commentLabel": "{username} bình luận {date}: {content}",
+          "commentAuthorLabel": "{username} bình luận {date}"
+        }
+      }
+    }
+  }
+}

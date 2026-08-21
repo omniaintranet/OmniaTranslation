@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Ressourcer inkluderet i fuld reindeksering",
+          "NotStarted": "Reindeksering er ikke startet endnu.",
+          "LatestRun": "Seneste fulde reindeksering",
+          "Refresh": "Opdater status",
+          "LastRun": "Seneste kørsel",
+          "Status": "Status",
+          "Duration": "Varighed",
+          "LastChecked": "Sidst kontrolleret",
+          "ViewRunDetails": "Vis detaljer",
+          "ViewProgress": "Vis fremskridt",
+          "RunDetailsTitle": "Detaljer om fuld reindeksering",
+          "RunInformation": "Indekserings-information",
+          "RunId": "Transaktions-ID",
+          "Started": "Startet",
+          "Finished": "Færdig",
+          "Resources": "Ressourcer",
+          "ItemsProgress": "Elementer",
+          "ScopesProgress": "Område",
+          "SucceededItems": "Succesfulde",
+          "FailedItems": "Mislykkede",
+          "Pending": "Afventer",
+          "Queued": "I kø",
+          "Preparing": "Forbereder",
+          "Dispatching": "Sender forespørgsler",
+          "Processing": "Behandler",
+          "StatusCompleted": "Fuldført",
+          "StatusFailed": "Mislykkedes",
+          "Copy": "Kopiér",
+          "Note": "Bemærk",
+          "NotAvailable": "Ikke tilgængelig",
+          "NoProgress": "Fremskridtsdetaljer er ikke tilgængelige for denne ressource.",
+          "NoRunDetails": "Ingen fuld reindeksering kan vises.",
+          "FailureDetails": "Fejldetaljer",
+          "Scope": "Område",
+          "MoreFailedItems": "Flere mislykkede elementer — se transaktionslogfilerne for den fulde liste."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Innholdsbygger",
+        "Placeholder": "Rendering av innholdsbygger vil være tilgjengelig når blokk-lagring er implementert.",
+        "Media": {
+          "PlaceholderDescription": "Velg et bilde eller en video fra mediebiblioteket for denne innholdsbyggerens mediablokk."
+        },
+        "Editor": {
+          "InheritedContent": "Denne blokken gjenbruker tilordnet innhold fra innholdsbygger."
+        },
+        "Settings": {
+          "Title": "Innstillinger for innholdsbygger",
+          "Placeholder": "Innstillinger for innholdsbygger vil være tilgjengelig når blokk-lagring er implementert.",
+          "RowSpacingHint": "Setter den vertikale avstanden mellom rader i innholdsbyggeren.",
+          "ColumnSpacingHint": "Setter avstanden mellom kolonner og gallerielementer i innholdsbyggerens rader.",
+          "ConfirmDeleteHint": "Vis en bekreftelsesmelding før en innholdsbyggerblokk slettes.",
+          "ConfirmDeleteMessage": "Denne blokken vil bli slettet fra innholdsbyggeren.",
+          "AiPromptSettings": {
+            "Description": "Konfigurer instruksjonene for prompt som brukes av innholdsbyggerens AI på tvers av denne bedriftsprofilen.",
+            "Title": "Innholdsbygger AI-prompt"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Dokumentet ble normalisert til innholdsbyggerens skjema versjon 1.",
+          "SchemaInvalid": "Innholdsbyggerdokumentet må bruke skjema versjon 1.",
+          "RowsEmpty": "Innholdsbyggerdokumentet må inneholde minst én rad."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Sider"
+      }
+    }
+  }
+}

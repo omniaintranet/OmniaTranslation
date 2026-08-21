@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Ressurser inkludert i full reindeksering",
+          "NotStarted": "Ingen full reindeksering har blitt startet ennå.",
+          "LatestRun": "Siste full reindeksering",
+          "Refresh": "Oppdater status",
+          "LastRun": "Siste kjøring",
+          "Status": "Status",
+          "Duration": "Varighet",
+          "LastChecked": "Sist sjekket",
+          "ViewRunDetails": "Vis kjøringsdetaljer",
+          "ViewProgress": "Vis fremdrift",
+          "RunDetailsTitle": "Detaljer for full reindekseringskjøring",
+          "RunInformation": "Kjøringsinformasjon",
+          "RunId": "Transaksjons-ID",
+          "Started": "Startet",
+          "Finished": "Fullført",
+          "Resources": "Ressurser",
+          "ItemsProgress": "Elementer",
+          "ScopesProgress": "Områder",
+          "SucceededItems": "Vellykket",
+          "FailedItems": "Mislykket",
+          "Pending": "Avventer",
+          "Queued": "I kø",
+          "Preparing": "Forbereder",
+          "Dispatching": "Sender forespørsler",
+          "Processing": "Behandler",
+          "StatusCompleted": "Fullført",
+          "StatusFailed": "Mislyktes",
+          "Copy": "Kopier",
+          "Note": "Merk",
+          "NotAvailable": "Ikke tilgjengelig",
+          "NoProgress": "Fremdriftsdetaljer er ikke tilgjengelig for denne ressursen.",
+          "NoRunDetails": "Det finnes ingen full reindekseringskjøring å vise.",
+          "FailureDetails": "Detaljer om feil",
+          "Scope": "Område",
+          "MoreFailedItems": "Flere mislykkede elementer — se transaksjonslogger for fullstendig liste."
+        }
+      }
+    }
+  }
+}

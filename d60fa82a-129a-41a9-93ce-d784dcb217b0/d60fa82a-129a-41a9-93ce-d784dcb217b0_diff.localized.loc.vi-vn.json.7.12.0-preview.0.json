@@ -1,0 +1,38 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockTitle": "Trình tạo nội dung",
+        "Placeholder": "Việc hiển thị trình tạo nội dung sẽ khả dụng khi lưu trữ khối được triển khai.",
+        "Media": {
+          "PlaceholderDescription": "Chọn hình ảnh hoặc video từ thư viện phương tiện cho khối phương tiện trình tạo nội dung này."
+        },
+        "Editor": {
+          "InheritedContent": "Khối này đang tái sử dụng nội dung trình tạo nội dung được ánh xạ."
+        },
+        "Settings": {
+          "Title": "Cài đặt trình tạo nội dung",
+          "Placeholder": "Cài đặt trình tạo nội dung sẽ khả dụng khi lưu trữ khối được triển khai.",
+          "RowSpacingHint": "Đặt khoảng cách dọc giữa các hàng của trình tạo nội dung.",
+          "ColumnSpacingHint": "Đặt khoảng cách giữa các cột và mục thư viện trong các hàng của trình tạo nội dung.",
+          "ConfirmDeleteHint": "Hiển thị hộp thoại xác nhận trước khi xóa một khối trình tạo nội dung.",
+          "ConfirmDeleteMessage": "Khối này sẽ bị xóa khỏi trình tạo nội dung.",
+          "AiPromptSettings": {
+            "Description": "Cấu hình các hướng dẫn nhắc lệnh được sử dụng bởi AI trình tạo nội dung trên toàn bộ hồ sơ doanh nghiệp này.",
+            "Title": "Nhắc lệnh AI trình tạo nội dung"
+          }
+        },
+        "Errors": {
+          "SchemaMigrated": "Tài liệu đã được chuẩn hóa theo phiên bản 1 của sơ đồ trình tạo nội dung.",
+          "SchemaInvalid": "Tài liệu trình tạo nội dung phải sử dụng phiên bản 1 của sơ đồ.",
+          "RowsEmpty": "Tài liệu trình tạo nội dung phải chứa ít nhất một hàng."
+        }
+      }
+    },
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Trang"
+      }
+    }
+  }
+}
