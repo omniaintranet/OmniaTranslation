@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Commons": {
+          "LayoutEngine": {
+            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*Es posible que parte del contenido no se muestre correctamente. Active el motor de diseño para ver todo el contenido."
+          }
+        }
+      }
+    }
+  }
+}
