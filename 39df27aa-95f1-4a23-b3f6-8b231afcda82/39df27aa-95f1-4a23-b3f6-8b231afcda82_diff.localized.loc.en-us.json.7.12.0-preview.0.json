@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Resources included in full reindex",
+          "NotStarted": "No full reindex has been started yet.",
+          "LatestRun": "Latest full reindex",
+          "Refresh": "Refresh status",
+          "LastRun": "Last run",
+          "Status": "Status",
+          "Duration": "Duration",
+          "LastChecked": "Last checked",
+          "ViewRunDetails": "View details",
+          "ViewProgress": "View progress",
+          "RunDetailsTitle": "Full reindex details",
+          "RunInformation": "Run information",
+          "RunId": "Transaction ID",
+          "Started": "Started",
+          "Finished": "Finished",
+          "Resources": "Resources",
+          "ItemsProgress": "Items",
+          "ScopesProgress": "Scopes",
+          "SucceededItems": "Succeeded",
+          "FailedItems": "Failed",
+          "Pending": "Pending",
+          "Queued": "Queued",
+          "Preparing": "Preparing",
+          "Dispatching": "Sending requests",
+          "Processing": "Processing",
+          "StatusCompleted": "Completed",
+          "StatusFailed": "Failed",
+          "Copy": "Copy",
+          "Note": "Note",
+          "NotAvailable": "Not available",
+          "NoProgress": "Progress details are not available for this resource.",
+          "NoRunDetails": "There is no full reindex run to display.",
+          "FailureDetails": "Failure details",
+          "Scope": "Scope",
+          "MoreFailedItems": "more failed items — see the transaction logs for the full list."
+        }
+      }
+    }
+  }
+}
