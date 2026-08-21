@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Ressources incluses dans la réindexation complète",
+          "NotStarted": "Aucune réindexation complète n'a encore été lancée.",
+          "LatestRun": "Dernière réindexation complète",
+          "Refresh": "Actualiser le statut",
+          "LastRun": "Dernière exécution",
+          "Status": "Statut",
+          "Duration": "Durée",
+          "LastChecked": "Dernière vérification",
+          "ViewRunDetails": "Voir les détails",
+          "ViewProgress": "Voir la progression",
+          "RunDetailsTitle": "Détails de la réindexation complète",
+          "RunInformation": "Informations sur l'exécution",
+          "RunId": "ID de transaction",
+          "Started": "Débutée",
+          "Finished": "Terminée",
+          "Resources": "Ressources",
+          "ItemsProgress": "Éléments",
+          "ScopesProgress": "Périmètres",
+          "SucceededItems": "Réussis",
+          "FailedItems": "Échoués",
+          "Pending": "En attente",
+          "Queued": "En file d'attente",
+          "Preparing": "Préparation",
+          "Dispatching": "Envoi des requêtes",
+          "Processing": "Traitement",
+          "StatusCompleted": "Terminé",
+          "StatusFailed": "Échoué",
+          "Copy": "Copier",
+          "Note": "Note",
+          "NotAvailable": "Non disponible",
+          "NoProgress": "Les détails de progression ne sont pas disponibles pour cette ressource.",
+          "NoRunDetails": "Aucune exécution de réindexation complète à afficher.",
+          "FailureDetails": "Détails de l'échec",
+          "Scope": "Périmètre",
+          "MoreFailedItems": "plus d'éléments échoués — consultez les journaux de transaction pour la liste complète."
+        }
+      }
+    }
+  }
+}
