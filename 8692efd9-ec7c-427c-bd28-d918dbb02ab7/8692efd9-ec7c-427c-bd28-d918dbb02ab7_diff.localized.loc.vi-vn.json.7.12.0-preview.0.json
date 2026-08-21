@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Đang tải"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Chạm hai lần để đóng modal",
+            "ModalNames": {
+              "PageReactionModal": "Modal phản ứng trang",
+              "AddCommentModal": "Modal chỉnh sửa bình luận",
+              "CommentModal": "Modal bình luận",
+              "FileDownloadModal": "Modal tải xuống tệp",
+              "LanguagePickerModal": "Modal ngôn ngữ",
+              "LayoutVersionPickerModal": "Modal phiên bản bố cục",
+              "ReactionPopupModal": "Modal phản ứng",
+              "MigrateStorageModal": "Modal di chuyển lưu trữ"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Bộ chọn phiên bản bố cục",
+            "textSelectVersion": "Chọn phiên bản"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Phát video",
+          "pageVariationSelector": "Bộ chọn biến thể trang. Biến thể hiện tại: {selectedLabel}",
+          "favoriteAdded": "Đã thêm vào mục yêu thích",
+          "favoriteNotAdded": "Chưa thêm vào mục yêu thích",
+          "newsFeed": "Bảng tin",
+          "commentLabel": "Bình luận của {username} ngày {date}: {content}",
+          "commentAuthorLabel": "Bình luận của {username} ngày {date}"
+        }
+      }
+    }
+  }
+}
