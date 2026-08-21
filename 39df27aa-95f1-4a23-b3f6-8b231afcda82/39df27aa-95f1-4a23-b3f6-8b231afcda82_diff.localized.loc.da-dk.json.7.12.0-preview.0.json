@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Ressourcer inkluderet i fuld tilknytning",
+          "NotStarted": "Ingen fuld tilknytning er startet endnu.",
+          "LatestRun": "Seneste fulde tilknytning",
+          "Refresh": "Opdater status",
+          "LastRun": "Sidste kørsel",
+          "Status": "Status",
+          "Duration": "Varighed",
+          "LastChecked": "Sidst kontrolleret",
+          "ViewRunDetails": "Vis detaljer",
+          "ViewProgress": "Vis fremskridt",
+          "RunDetailsTitle": "Detaljer om fuld tilknytning",
+          "RunInformation": "Køreoplysninger",
+          "RunId": "Transaktions-ID",
+          "Started": "Startet",
+          "Finished": "Færdig",
+          "Resources": "Ressourcer",
+          "ItemsProgress": "Elementer",
+          "ScopesProgress": "Omfang",
+          "SucceededItems": "Succesfulde",
+          "FailedItems": "Mislykkede",
+          "Pending": "Afventer",
+          "Queued": "I kø",
+          "Preparing": "Forbereder",
+          "Dispatching": "Sender forespørgsler",
+          "Processing": "Behandler",
+          "StatusCompleted": "Fuldført",
+          "StatusFailed": "Mislykkedes",
+          "Copy": "Kopiér",
+          "Note": "Bemærkning",
+          "NotAvailable": "Ikke tilgængelig",
+          "NoProgress": "Fremskridtsdetaljer er ikke tilgængelige for denne ressource.",
+          "NoRunDetails": "Der er ingen fuld tilknytning at vise.",
+          "FailureDetails": "Fejldetaljer",
+          "Scope": "Omfang",
+          "MoreFailedItems": "flere mislykkede elementer — se transaktionslogfilerne for den fulde liste."
+        }
+      }
+    }
+  }
+}
