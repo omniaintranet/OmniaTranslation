@@ -1,0 +1,45 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "AvailableResources": "Resurser inkluderade i fullständig omindexering",
+          "NotStarted": "Ingen fullständig omindexering har startats än.",
+          "LatestRun": "Senaste fullständiga omindexering",
+          "Refresh": "Uppdatera status",
+          "LastRun": "Senaste körning",
+          "Status": "Status",
+          "Duration": "Varaktighet",
+          "LastChecked": "Senast kontrollerad",
+          "ViewRunDetails": "Visa detaljer",
+          "ViewProgress": "Visa framsteg",
+          "RunDetailsTitle": "Detaljer för fullständig omindexering",
+          "RunInformation": "Körningsinformation",
+          "RunId": "Transaktions-ID",
+          "Started": "Startad",
+          "Finished": "Avslutad",
+          "Resources": "Resurser",
+          "ItemsProgress": "Objekt",
+          "ScopesProgress": "Områden",
+          "SucceededItems": "Lyckade",
+          "FailedItems": "Misslyckade",
+          "Pending": "Väntande",
+          "Queued": "I kö",
+          "Preparing": "Förbereder",
+          "Dispatching": "Skickar förfrågningar",
+          "Processing": "Bearbetar",
+          "StatusCompleted": "Slutförd",
+          "StatusFailed": "Misslyckad",
+          "Copy": "Kopiera",
+          "Note": "Notering",
+          "NotAvailable": "Ej tillgänglig",
+          "NoProgress": "Framstegsdetaljer är inte tillgängliga för denna resurs.",
+          "NoRunDetails": "Det finns ingen fullständig omindexeringskörning att visa.",
+          "FailureDetails": "Detaljer om fel",
+          "Scope": "Område",
+          "MoreFailedItems": "fler misslyckade objekt — se transaktionsloggarna för hela listan."
+        }
+      }
+    }
+  }
+}
