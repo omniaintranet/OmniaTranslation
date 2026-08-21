@@ -1,0 +1,39 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "MyFeedScreen": {
+          "textLoading": "Ladataan"
+        },
+        "Commons": {
+          "RootModal": {
+            "OverlayLabel": "Kaksoisnapauta sulkeaksesi modaalin",
+            "ModalNames": {
+              "PageReactionModal": "Sivun reaktiot -modaali",
+              "AddCommentModal": "Kommentin muokkaus -modaali",
+              "CommentModal": "Kommentti-modaali",
+              "FileDownloadModal": "Tiedoston lataus -modaali",
+              "LanguagePickerModal": "Kielen valinta -modaali",
+              "LayoutVersionPickerModal": "Ulkoasun version valinta -modaali",
+              "ReactionPopupModal": "Reaktiot -modaali",
+              "MigrateStorageModal": "Tallennustilan siirto -modaali"
+            }
+          },
+          "LayoutEngine": {
+            "textLayoutVersionPickerButton": "Ulkoasun version valitsin",
+            "textSelectVersion": "Valitse versio"
+          }
+        },
+        "WCAG": {
+          "playVideo": "Toista video",
+          "pageVariationSelector": "Sivun variaation valitsin. Nykyinen variaatio: {selectedLabel}",
+          "favoriteAdded": "Lisätty suosikkeihin",
+          "favoriteNotAdded": "Ei lisätty suosikkeihin",
+          "newsFeed": "Uutissyöte",
+          "commentLabel": "{username} kommentti {date}: {content}",
+          "commentAuthorLabel": "{username} kommentti {date}"
+        }
+      }
+    }
+  }
+}
