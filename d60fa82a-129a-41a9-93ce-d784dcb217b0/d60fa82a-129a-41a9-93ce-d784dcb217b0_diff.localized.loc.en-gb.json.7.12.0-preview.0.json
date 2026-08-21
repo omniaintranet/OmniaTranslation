@@ -1,0 +1,9 @@
+{
+  "WCM": {
+    "Core": {
+      "SemanticSearch": {
+        "ResourceLabel": "Pages"
+      }
+    }
+  }
+}
