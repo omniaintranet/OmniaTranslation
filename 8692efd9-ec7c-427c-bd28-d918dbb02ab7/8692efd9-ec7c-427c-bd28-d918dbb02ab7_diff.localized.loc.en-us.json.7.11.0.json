@@ -4,7 +4,7 @@
       "App": {
         "Commons": {
           "LayoutEngine": {
-            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*Some content may not display correctly. Please activate the layout engine to view the full content."
+            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*Some content may not display correctly. Activate the layout engine to view all content."
           }
         }
       }
