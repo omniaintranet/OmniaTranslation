@@ -9,14 +9,14 @@
           "RootModal": {
             "OverlayLabel": "Dobbelttryk for at lukke modal",
             "ModalNames": {
-              "PageReactionModal": "Modal for sidereaktioner",
-              "AddCommentModal": "Modal for kommentar-editor",
-              "CommentModal": "Modal for kommentar",
-              "FileDownloadModal": "Modal for fil-download",
-              "LanguagePickerModal": "Modal for sprog",
-              "LayoutVersionPickerModal": "Modal for layout-version",
-              "ReactionPopupModal": "Modal for reaktioner",
-              "MigrateStorageModal": "Modal for indholdsmigrering"
+              "PageReactionModal": "Sidereaktioner",
+              "AddCommentModal": "kommentar-editor",
+              "CommentModal": "Kommentar",
+              "FileDownloadModal": "Fil-download",
+              "LanguagePickerModal": "Sprog",
+              "LayoutVersionPickerModal": "layout-version",
+              "ReactionPopupModal": "Reaktioner",
+              "MigrateStorageModal": "indholdsmigrering"
             }
           },
           "LayoutEngine": {
