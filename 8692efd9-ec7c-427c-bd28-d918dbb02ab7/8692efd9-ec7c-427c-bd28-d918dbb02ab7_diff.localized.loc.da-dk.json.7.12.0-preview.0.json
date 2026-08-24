@@ -9,24 +9,24 @@
           "RootModal": {
             "OverlayLabel": "Dobbelttryk for at lukke modal",
             "ModalNames": {
-              "PageReactionModal": "Side reaktioner modal",
-              "AddCommentModal": "Kommentar editor modal",
-              "CommentModal": "Kommentar modal",
-              "FileDownloadModal": "Fil download modal",
-              "LanguagePickerModal": "Sprog modal",
-              "LayoutVersionPickerModal": "Layout version modal",
-              "ReactionPopupModal": "Reaktioner modal",
-              "MigrateStorageModal": "Migrer lager modal"
+              "PageReactionModal": "Modal for sidereaktioner",
+              "AddCommentModal": "Modal for kommentar-editor",
+              "CommentModal": "Modal for kommentar",
+              "FileDownloadModal": "Modal for fil-download",
+              "LanguagePickerModal": "Modal for sprog",
+              "LayoutVersionPickerModal": "Modal for layout-version",
+              "ReactionPopupModal": "Modal for reaktioner",
+              "MigrateStorageModal": "Modal for indholdsmigrering"
             }
           },
           "LayoutEngine": {
-            "textLayoutVersionPickerButton": "Layout version vælger",
+            "textLayoutVersionPickerButton": "Vælg layoutversion",
             "textSelectVersion": "Vælg version"
           }
         },
         "WCAG": {
           "playVideo": "Afspil video",
-          "pageVariationSelector": "Side variation vælger. Nuværende variation: {selectedLabel}",
+          "pageVariationSelector": "Vælg sidevariation. Nuværende variation: {selectedLabel}",
           "favoriteAdded": "Tilføjet til favoritter",
           "favoriteNotAdded": "Ikke tilføjet til favoritter",
           "newsFeed": "Nyhedsfeed",
