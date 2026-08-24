@@ -9,14 +9,14 @@
           "RootModal": {
             "OverlayLabel": "Dobbelttrykk for å lukke modal",
             "ModalNames": {
-              "PageReactionModal": "Side reaksjoner modal",
-              "AddCommentModal": "Kommentarredigeringsmodal",
-              "CommentModal": "Kommentar modal",
-              "FileDownloadModal": "Filnedlastingsmodal",
-              "LanguagePickerModal": "Språk modal",
-              "LayoutVersionPickerModal": "Layout versjonsmodal",
-              "ReactionPopupModal": "Reaksjoner modal",
-              "MigrateStorageModal": "Migrer lagringsmodal"
+              "PageReactionModal": "Sidereaksjoner",
+              "AddCommentModal": "Kommentarredigerings",
+              "CommentModal": "Kommentar",
+              "FileDownloadModal": "Filnedlasting",
+              "LanguagePickerModal": "Språk",
+              "LayoutVersionPickerModal": "Layout-versjon",
+              "ReactionPopupModal": "Reaksjoner",
+              "MigrateStorageModal": "Migrer lagring"
             }
           },
           "LayoutEngine": {
