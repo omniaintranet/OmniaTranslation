@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Mer enn ett år siden",
+                "OneYearAgo": "Ett år siden",
+                "SixMonthsAgo": "Seks måneder siden",
+                "OneMonthAgo": "En måned siden",
+                "OneWeekAgo": "En uke siden",
+                "Today": "I dag",
+                "LaterThanToday": "Senere enn i dag",
+                "MoreThanOneYearAgoToOneYearAgo": "Tidligere enn ett år siden"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "Definisjonen må inneholde minst ett gyldig blokk",
+          "InvalidDefinitionAddMessage": "Denne blokkmalen kan ikke legges til fordi definisjonen er ugyldig. Oppdater malen i Blokk-galleriet eller kontakt en tenant-administrator."
+        }
+      }
+    }
+  }
+}
