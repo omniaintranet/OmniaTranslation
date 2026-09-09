@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "预提示",
+          "PostPrompt": "后提示"
+        }
+      }
+    }
+  }
+}
