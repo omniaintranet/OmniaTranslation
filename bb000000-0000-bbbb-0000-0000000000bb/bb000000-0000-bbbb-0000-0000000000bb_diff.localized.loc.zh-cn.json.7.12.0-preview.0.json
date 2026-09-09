@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "一年以上前",
+                "OneYearAgo": "一年前",
+                "SixMonthsAgo": "六个月前",
+                "OneMonthAgo": "一个月前",
+                "OneWeekAgo": "一周前",
+                "Today": "今天",
+                "LaterThanToday": "晚于今天",
+                "MoreThanOneYearAgoToOneYearAgo": "早于一年前"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "定义必须至少包含一个有效的块",
+          "InvalidDefinitionAddMessage": "此块模板无法添加，因为其定义无效。请在 Block gallery 中更新模板或联系租户管理员。"
+        }
+      }
+    }
+  }
+}
