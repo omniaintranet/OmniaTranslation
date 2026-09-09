@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Meer dan een jaar geleden",
+                "OneYearAgo": "Een jaar geleden",
+                "SixMonthsAgo": "Zes maanden geleden",
+                "OneMonthAgo": "Een maand geleden",
+                "OneWeekAgo": "Een week geleden",
+                "Today": "Vandaag",
+                "LaterThanToday": "Later dan vandaag",
+                "MoreThanOneYearAgoToOneYearAgo": "Eerder dan een jaar geleden"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "Definitie moet ten minste één geldig blok bevatten",
+          "InvalidDefinitionAddMessage": "Deze bloktemplate kan niet worden toegevoegd omdat de definitie ongeldig is. Werk de template bij in Block gallery of neem contact op met een tenantbeheerder."
+        }
+      }
+    }
+  }
+}
