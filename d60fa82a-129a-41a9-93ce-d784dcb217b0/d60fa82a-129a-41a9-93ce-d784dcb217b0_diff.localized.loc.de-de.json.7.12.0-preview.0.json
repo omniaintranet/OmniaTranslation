@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Erstellen Sie strukturierte Seiteninhalte mit Text, Medien, Personen, Zitaten und barrierefreien Tabellen.",
+        "Placeholder": "Fügen Sie Content builder-Zeilen hinzu, um strukturierte Seiteninhalte zu erstellen.",
+        "Media": {
+          "OpenImage": "Bildgalerie öffnen"
+        },
+        "Person": {
+          "ChoosePerson": "Person auswählen",
+          "ChangePerson": "Person ändern",
+          "RemovePerson": "Person entfernen",
+          "ClosePicker": "Auswahl schließen",
+          "DisplaySettings": "Personenanzeige",
+          "Layout": "Layout",
+          "Compact": "Kompakt",
+          "Spotlight": "Spotlight",
+          "AvatarSize": "Avatargröße",
+          "Small": "Klein",
+          "Medium": "Mittel",
+          "Large": "Groß",
+          "Alignment": "Ausrichtung",
+          "AlignLeft": "Links",
+          "AlignCenter": "Zentriert",
+          "ShowName": "Name anzeigen",
+          "ShowTitle": "Berufsbezeichnung anzeigen"
+        },
+        "Table": {
+          "Caption": "Beschriftung",
+          "CaptionPlaceholder": "Beschreiben Sie den Zweck der Tabelle",
+          "ShowCaption": "Beschriftung anzeigen",
+          "UntitledTable": "Unbenannte Tabelle",
+          "ToolbarLabel": "Tabellenwerkzeuge",
+          "RegionLabel": "Scrollbare Tabelle: {caption}",
+          "CellLabel": "Tabellenzelle, Zeile {row}, Spalte {column}",
+          "ColumnLabel": "Spalte {column}",
+          "RowLabel": "Zeile {row}",
+          "Style": "Tabellenstil",
+          "StyleGallery": "Tabellenstil-Voreinstellungen",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Raster",
+          "StyleBanded": "Horizontale Linien",
+          "StyleAccent": "Gefüllte Kopfzeile",
+          "ColorNeutral": "Neutral",
+          "ColorPrimary": "Primäre Designfarbe",
+          "ColorSecondary": "Sekundäre Designfarbe",
+          "ColorScheme": "Farbe",
+          "Options": "Tabellenoptionen",
+          "FirstColumnHeader": "Erste Spalte als Zeilenüberschriften",
+          "BandedRows": "Gestreifte Zeilen",
+          "BandedColumns": "Gestreifte Spalten",
+          "EmphasizeLastRow": "Letzte Zeile hervorheben",
+          "EmphasizeLastColumn": "Letzte Spalte hervorheben",
+          "AddRowAbove": "Zeile oben hinzufügen",
+          "AddRowBelow": "Zeile unten hinzufügen",
+          "DeleteRow": "Zeile löschen",
+          "RowActions": "Zeilenwerkzeuge",
+          "AddColumnLeft": "Spalte links hinzufügen",
+          "AddColumnRight": "Spalte rechts hinzufügen",
+          "DeleteColumn": "Spalte löschen",
+          "ColumnActions": "Spaltenwerkzeuge",
+          "HorizontalAlignment": "Horizontale Ausrichtung",
+          "AlignLeft": "Links ausrichten",
+          "AlignCenter": "Zentriert ausrichten",
+          "AlignRight": "Rechts ausrichten",
+          "RowAdded": "Zeile hinzugefügt",
+          "RowDeleted": "Zeile gelöscht",
+          "ColumnAdded": "Spalte hinzugefügt",
+          "ColumnDeleted": "Spalte gelöscht"
+        },
+        "Editor": {
+          "AddPerson": "Person hinzufügen"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Person + Text",
+            "Description": "Person links, Text rechts."
+          },
+          "TextPerson": {
+            "Title": "Text + Person",
+            "Description": "Text links, Person rechts."
+          },
+          "Table": {
+            "Title": "Tabelle",
+            "Description": "Eine barrierefreie Datentabelle mit speziellen Bearbeitungswerkzeugen."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Konfigurieren Sie Content builder-Layout, Medien, Trenner, Editor und KI-Einstellungen."
+        },
+        "Errors": {
+          "TableMissing": "Der Tabellenblock muss Tabelleninhalt enthalten."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Rich text in Kommentaren",
+        "EnableMentionInDialog": "Erwähnungen in Kommentaren"
+      }
+    }
+  }
+}
