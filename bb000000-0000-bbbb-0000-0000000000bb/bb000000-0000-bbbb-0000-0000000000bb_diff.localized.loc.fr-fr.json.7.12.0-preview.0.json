@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Il y a plus d'un an",
+                "OneYearAgo": "Il y a un an",
+                "SixMonthsAgo": "Il y a six mois",
+                "OneMonthAgo": "Il y a un mois",
+                "OneWeekAgo": "Il y a une semaine",
+                "Today": "Aujourd'hui",
+                "LaterThanToday": "Plus tard qu'aujourd'hui",
+                "MoreThanOneYearAgoToOneYearAgo": "Plus tôt qu'il y a un an"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "La définition doit contenir au moins un bloc valide",
+          "InvalidDefinitionAddMessage": "Ce modèle de bloc ne peut pas être ajouté car sa définition est invalide. Mettez à jour le modèle dans la galerie de blocs ou contactez un administrateur du tenant."
+        }
+      }
+    }
+  }
+}

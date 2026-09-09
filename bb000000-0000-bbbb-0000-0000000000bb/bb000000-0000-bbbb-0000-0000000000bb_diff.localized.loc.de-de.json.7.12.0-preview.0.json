@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Vor mehr als einem Jahr",
+                "OneYearAgo": "Vor einem Jahr",
+                "SixMonthsAgo": "Vor sechs Monaten",
+                "OneMonthAgo": "Vor einem Monat",
+                "OneWeekAgo": "Vor einer Woche",
+                "Today": "Heute",
+                "LaterThanToday": "Später als heute",
+                "MoreThanOneYearAgoToOneYearAgo": "Früher als vor einem Jahr"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "Definition muss mindestens einen gültigen Block enthalten",
+          "InvalidDefinitionAddMessage": "Diese Blockvorlage kann nicht hinzugefügt werden, da ihre Definition ungültig ist. Aktualisieren Sie die Vorlage in der Blockgalerie oder wenden Sie sich an einen Tenant-Administrator."
+        }
+      }
+    }
+  }
+}

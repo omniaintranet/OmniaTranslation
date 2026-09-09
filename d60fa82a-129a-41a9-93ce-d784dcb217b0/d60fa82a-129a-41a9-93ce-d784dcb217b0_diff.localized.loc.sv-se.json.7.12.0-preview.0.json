@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Skapa strukturerat sidinnehåll med text, media, personer, citat och tillgängliga tabeller.",
+        "Placeholder": "Lägg till innehållsbyggar-rader för att skapa strukturerat sidinnehåll.",
+        "Media": {
+          "OpenImage": "Öppna bildgalleri"
+        },
+        "Person": {
+          "ChoosePerson": "Välj person",
+          "ChangePerson": "Byt person",
+          "RemovePerson": "Ta bort person",
+          "ClosePicker": "Stäng väljare",
+          "DisplaySettings": "Personvisning",
+          "Layout": "Layout",
+          "Compact": "Kompakt",
+          "Spotlight": "Spotlight",
+          "AvatarSize": "Avatarstorlek",
+          "Small": "Liten",
+          "Medium": "Medium",
+          "Large": "Stor",
+          "Alignment": "Justering",
+          "AlignLeft": "Vänster",
+          "AlignCenter": "Centrerad",
+          "ShowName": "Visa namn",
+          "ShowTitle": "Visa jobbtitel"
+        },
+        "Table": {
+          "Caption": "Bildtext",
+          "CaptionPlaceholder": "Beskriv tabellens syfte",
+          "ShowCaption": "Visa bildtext",
+          "UntitledTable": "Tabell utan titel",
+          "ToolbarLabel": "Tabellverktyg",
+          "RegionLabel": "Rullbar tabell: {caption}",
+          "CellLabel": "Tabellcell, rad {row}, kolumn {column}",
+          "ColumnLabel": "Kolumn {column}",
+          "RowLabel": "Rad {row}",
+          "Style": "Tabellstil",
+          "StyleGallery": "Förinställda tabellstilar",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Rutnät",
+          "StyleBanded": "Horisontella linjer",
+          "StyleAccent": "Fylld rubrik",
+          "ColorNeutral": "Neutral",
+          "ColorPrimary": "Primär temafärg",
+          "ColorSecondary": "Sekundär temafärg",
+          "ColorScheme": "Färg",
+          "Options": "Tabellalternativ",
+          "FirstColumnHeader": "Första kolumnen som radrubriker",
+          "BandedRows": "Randade rader",
+          "BandedColumns": "Randade kolumner",
+          "EmphasizeLastRow": "Framhäv sista raden",
+          "EmphasizeLastColumn": "Framhäv sista kolumnen",
+          "AddRowAbove": "Lägg till rad ovanför",
+          "AddRowBelow": "Lägg till rad nedanför",
+          "DeleteRow": "Ta bort rad",
+          "RowActions": "Radverktyg",
+          "AddColumnLeft": "Lägg till kolumn till vänster",
+          "AddColumnRight": "Lägg till kolumn till höger",
+          "DeleteColumn": "Ta bort kolumn",
+          "ColumnActions": "Kolumnverktyg",
+          "HorizontalAlignment": "Horisontell justering",
+          "AlignLeft": "Justera vänster",
+          "AlignCenter": "Centrera",
+          "AlignRight": "Justera höger",
+          "RowAdded": "Rad tillagd",
+          "RowDeleted": "Rad borttagen",
+          "ColumnAdded": "Kolumn tillagd",
+          "ColumnDeleted": "Kolumn borttagen"
+        },
+        "Editor": {
+          "AddPerson": "Lägg till person"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Person + Text",
+            "Description": "Person till vänster, text till höger."
+          },
+          "TextPerson": {
+            "Title": "Text + Person",
+            "Description": "Text till vänster, person till höger."
+          },
+          "Table": {
+            "Title": "Tabell",
+            "Description": "En tillgänglig datatabell med dedikerade redigeringsverktyg."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Konfigurera innehållsbyggar-layout, media, avdelare, redigerare och AI-inställningar."
+        },
+        "Errors": {
+          "TableMissing": "Tabellblocket måste innehålla tabellinnehåll."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "RTF-text i kommentarer",
+        "EnableMentionInDialog": "Omnämnanden i kommentarer"
+      }
+    }
+  }
+}

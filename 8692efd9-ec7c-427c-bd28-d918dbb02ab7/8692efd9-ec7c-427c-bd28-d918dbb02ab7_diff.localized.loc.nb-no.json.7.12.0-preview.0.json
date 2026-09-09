@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Commons": {
+          "LayoutEngine": {
+            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*Noe innhold kan ikke vises korrekt. Vennligst aktiver layoutmotoren for å se hele innholdet."
+          }
+        }
+      }
+    }
+  }
+}

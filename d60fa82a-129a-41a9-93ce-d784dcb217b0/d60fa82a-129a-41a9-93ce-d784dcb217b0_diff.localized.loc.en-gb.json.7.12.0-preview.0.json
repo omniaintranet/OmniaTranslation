@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Create structured page content with text, media, people, quotes, and accessible tables.",
+        "Placeholder": "Add Content builder rows to create structured page content.",
+        "Media": {
+          "OpenImage": "Open image gallery"
+        },
+        "Person": {
+          "ChoosePerson": "Choose person",
+          "ChangePerson": "Change person",
+          "RemovePerson": "Remove person",
+          "ClosePicker": "Close picker",
+          "DisplaySettings": "Person display",
+          "Layout": "Layout",
+          "Compact": "Compact",
+          "Spotlight": "Spotlight",
+          "AvatarSize": "Avatar size",
+          "Small": "Small",
+          "Medium": "Medium",
+          "Large": "Large",
+          "Alignment": "Alignment",
+          "AlignLeft": "Left",
+          "AlignCenter": "Centre",
+          "ShowName": "Show name",
+          "ShowTitle": "Show job title"
+        },
+        "Table": {
+          "Caption": "Caption",
+          "CaptionPlaceholder": "Describe the table's purpose",
+          "ShowCaption": "Show caption",
+          "UntitledTable": "Untitled table",
+          "ToolbarLabel": "Table tools",
+          "RegionLabel": "Scrollable table: {caption}",
+          "CellLabel": "Table cell, row {row}, column {column}",
+          "ColumnLabel": "Column {column}",
+          "RowLabel": "Row {row}",
+          "Style": "Table style",
+          "StyleGallery": "Table style presets",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Grid",
+          "StyleBanded": "Horizontal lines",
+          "StyleAccent": "Filled header",
+          "ColorNeutral": "Neutral",
+          "ColorPrimary": "Primary theme colour",
+          "ColorSecondary": "Secondary theme colour",
+          "ColorScheme": "Colour",
+          "Options": "Table options",
+          "FirstColumnHeader": "First column as row headers",
+          "BandedRows": "Banded rows",
+          "BandedColumns": "Banded columns",
+          "EmphasizeLastRow": "Emphasise last row",
+          "EmphasizeLastColumn": "Emphasise last column",
+          "AddRowAbove": "Add row above",
+          "AddRowBelow": "Add row below",
+          "DeleteRow": "Delete row",
+          "RowActions": "Row tools",
+          "AddColumnLeft": "Add column left",
+          "AddColumnRight": "Add column right",
+          "DeleteColumn": "Delete column",
+          "ColumnActions": "Column tools",
+          "HorizontalAlignment": "Horizontal alignment",
+          "AlignLeft": "Align left",
+          "AlignCenter": "Align centre",
+          "AlignRight": "Align right",
+          "RowAdded": "Row added",
+          "RowDeleted": "Row deleted",
+          "ColumnAdded": "Column added",
+          "ColumnDeleted": "Column deleted"
+        },
+        "Editor": {
+          "AddPerson": "Add person"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Person + Text",
+            "Description": "Person on the left, text on the right."
+          },
+          "TextPerson": {
+            "Title": "Text + Person",
+            "Description": "Text on the left, person on the right."
+          },
+          "Table": {
+            "Title": "Table",
+            "Description": "An accessible data table with dedicated editing tools."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Configure Content builder layout, media, divider, editor, and AI settings."
+        },
+        "Errors": {
+          "TableMissing": "Table block must contain table content."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Rich text in comments",
+        "EnableMentionInDialog": "Mentions in comments"
+      }
+    }
+  }
+}

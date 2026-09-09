@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Commons": {
+          "LayoutEngine": {
+            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*某些内容可能无法正确显示。请激活布局引擎以查看完整内容。"
+          }
+        }
+      }
+    }
+  }
+}

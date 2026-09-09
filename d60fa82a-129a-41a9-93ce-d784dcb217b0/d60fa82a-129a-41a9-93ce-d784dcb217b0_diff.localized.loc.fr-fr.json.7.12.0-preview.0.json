@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Créer un contenu de page structuré avec du texte, des médias, des personnes, des citations et des tableaux accessibles.",
+        "Placeholder": "Ajoutez des lignes de constructeur de contenu pour créer un contenu de page structuré.",
+        "Media": {
+          "OpenImage": "Ouvrir la galerie d'images"
+        },
+        "Person": {
+          "ChoosePerson": "Choisir une personne",
+          "ChangePerson": "Changer de personne",
+          "RemovePerson": "Supprimer la personne",
+          "ClosePicker": "Fermer le sélecteur",
+          "DisplaySettings": "Affichage de la personne",
+          "Layout": "Disposition",
+          "Compact": "Compact",
+          "Spotlight": "Mise en avant",
+          "AvatarSize": "Taille de l'avatar",
+          "Small": "Petit",
+          "Medium": "Moyen",
+          "Large": "Grand",
+          "Alignment": "Alignement",
+          "AlignLeft": "Gauche",
+          "AlignCenter": "Centré",
+          "ShowName": "Afficher le nom",
+          "ShowTitle": "Afficher le poste"
+        },
+        "Table": {
+          "Caption": "Légende",
+          "CaptionPlaceholder": "Décrire l'objectif du tableau",
+          "ShowCaption": "Afficher la légende",
+          "UntitledTable": "Tableau sans titre",
+          "ToolbarLabel": "Outils du tableau",
+          "RegionLabel": "Tableau défilant : {caption}",
+          "CellLabel": "Cellule du tableau, ligne {row}, colonne {column}",
+          "ColumnLabel": "Colonne {column}",
+          "RowLabel": "Ligne {row}",
+          "Style": "Style du tableau",
+          "StyleGallery": "Préréglages de style du tableau",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Grille",
+          "StyleBanded": "Lignes horizontales",
+          "StyleAccent": "En-tête rempli",
+          "ColorNeutral": "Neutre",
+          "ColorPrimary": "Couleur principale du thème",
+          "ColorSecondary": "Couleur secondaire du thème",
+          "ColorScheme": "Couleur",
+          "Options": "Options du tableau",
+          "FirstColumnHeader": "Première colonne comme en-têtes de ligne",
+          "BandedRows": "Lignes alternées",
+          "BandedColumns": "Colonnes alternées",
+          "EmphasizeLastRow": "Mettre en valeur la dernière ligne",
+          "EmphasizeLastColumn": "Mettre en valeur la dernière colonne",
+          "AddRowAbove": "Ajouter une ligne au-dessus",
+          "AddRowBelow": "Ajouter une ligne en dessous",
+          "DeleteRow": "Supprimer la ligne",
+          "RowActions": "Outils de ligne",
+          "AddColumnLeft": "Ajouter une colonne à gauche",
+          "AddColumnRight": "Ajouter une colonne à droite",
+          "DeleteColumn": "Supprimer la colonne",
+          "ColumnActions": "Outils de colonne",
+          "HorizontalAlignment": "Alignement horizontal",
+          "AlignLeft": "Aligner à gauche",
+          "AlignCenter": "Aligner au centre",
+          "AlignRight": "Aligner à droite",
+          "RowAdded": "Ligne ajoutée",
+          "RowDeleted": "Ligne supprimée",
+          "ColumnAdded": "Colonne ajoutée",
+          "ColumnDeleted": "Colonne supprimée"
+        },
+        "Editor": {
+          "AddPerson": "Ajouter une personne"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Personne + Texte",
+            "Description": "Personne à gauche, texte à droite."
+          },
+          "TextPerson": {
+            "Title": "Texte + Personne",
+            "Description": "Texte à gauche, personne à droite."
+          },
+          "Table": {
+            "Title": "Tableau",
+            "Description": "Un tableau de données accessible avec des outils d'édition dédiés."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Configurer la disposition du constructeur de contenu, les médias, le séparateur, l'éditeur et les paramètres IA."
+        },
+        "Errors": {
+          "TableMissing": "Le bloc tableau doit contenir un contenu de tableau."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Texte enrichi dans les commentaires",
+        "EnableMentionInDialog": "Mentions dans les commentaires"
+      }
+    }
+  }
+}

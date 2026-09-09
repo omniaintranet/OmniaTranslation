@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Crea contenido de página estructurado con texto, medios, personas, citas y tablas accesibles.",
+        "Placeholder": "Añade filas del generador de contenido para crear contenido de página estructurado.",
+        "Media": {
+          "OpenImage": "Abrir galería de imágenes"
+        },
+        "Person": {
+          "ChoosePerson": "Elegir persona",
+          "ChangePerson": "Cambiar persona",
+          "RemovePerson": "Eliminar persona",
+          "ClosePicker": "Cerrar selector",
+          "DisplaySettings": "Visualización de persona",
+          "Layout": "Diseño",
+          "Compact": "Compacto",
+          "Spotlight": "Destacado",
+          "AvatarSize": "Tamaño del avatar",
+          "Small": "Pequeño",
+          "Medium": "Mediano",
+          "Large": "Grande",
+          "Alignment": "Alineación",
+          "AlignLeft": "Izquierda",
+          "AlignCenter": "Centrado",
+          "ShowName": "Mostrar nombre",
+          "ShowTitle": "Mostrar cargo"
+        },
+        "Table": {
+          "Caption": "Título",
+          "CaptionPlaceholder": "Describe el propósito de la tabla",
+          "ShowCaption": "Mostrar título",
+          "UntitledTable": "Tabla sin título",
+          "ToolbarLabel": "Herramientas de tabla",
+          "RegionLabel": "Tabla desplazable: {caption}",
+          "CellLabel": "Celda de tabla, fila {row}, columna {column}",
+          "ColumnLabel": "Columna {column}",
+          "RowLabel": "Fila {row}",
+          "Style": "Estilo de tabla",
+          "StyleGallery": "Preajustes de estilo de tabla",
+          "StylePlain": "Minimalista",
+          "StyleGrid": "Cuadrícula",
+          "StyleBanded": "Líneas horizontales",
+          "StyleAccent": "Encabezado relleno",
+          "ColorNeutral": "Neutro",
+          "ColorPrimary": "Color principal del tema",
+          "ColorSecondary": "Color secundario del tema",
+          "ColorScheme": "Color",
+          "Options": "Opciones de tabla",
+          "FirstColumnHeader": "Primera columna como encabezados de fila",
+          "BandedRows": "Filas alternas",
+          "BandedColumns": "Columnas alternas",
+          "EmphasizeLastRow": "Resaltar última fila",
+          "EmphasizeLastColumn": "Resaltar última columna",
+          "AddRowAbove": "Añadir fila arriba",
+          "AddRowBelow": "Añadir fila abajo",
+          "DeleteRow": "Eliminar fila",
+          "RowActions": "Herramientas de fila",
+          "AddColumnLeft": "Añadir columna a la izquierda",
+          "AddColumnRight": "Añadir columna a la derecha",
+          "DeleteColumn": "Eliminar columna",
+          "ColumnActions": "Herramientas de columna",
+          "HorizontalAlignment": "Alineación horizontal",
+          "AlignLeft": "Alinear a la izquierda",
+          "AlignCenter": "Alinear al centro",
+          "AlignRight": "Alinear a la derecha",
+          "RowAdded": "Fila añadida",
+          "RowDeleted": "Fila eliminada",
+          "ColumnAdded": "Columna añadida",
+          "ColumnDeleted": "Columna eliminada"
+        },
+        "Editor": {
+          "AddPerson": "Añadir persona"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Persona + Texto",
+            "Description": "Persona a la izquierda, texto a la derecha."
+          },
+          "TextPerson": {
+            "Title": "Texto + Persona",
+            "Description": "Texto a la izquierda, persona a la derecha."
+          },
+          "Table": {
+            "Title": "Tabla",
+            "Description": "Una tabla de datos accesible con herramientas de edición dedicadas."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Configura el diseño del generador de contenido, medios, divisor, editor y ajustes de IA."
+        },
+        "Errors": {
+          "TableMissing": "El bloque de tabla debe contener contenido de tabla."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Texto enriquecido en comentarios",
+        "EnableMentionInDialog": "Menciones en comentarios"
+      }
+    }
+  }
+}

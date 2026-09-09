@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Hơn một năm trước",
+                "OneYearAgo": "Một năm trước",
+                "SixMonthsAgo": "Sáu tháng trước",
+                "OneMonthAgo": "Một tháng trước",
+                "OneWeekAgo": "Một tuần trước",
+                "Today": "Hôm nay",
+                "LaterThanToday": "Muộn hơn hôm nay",
+                "MoreThanOneYearAgoToOneYearAgo": "Trước hơn một năm"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "Định nghĩa phải chứa ít nhất một block hợp lệ",
+          "InvalidDefinitionAddMessage": "Mẫu block này không thể được thêm vì định nghĩa của nó không hợp lệ. Cập nhật mẫu trong Block gallery hoặc liên hệ với quản trị viên tenant."
+        }
+      }
+    }
+  }
+}

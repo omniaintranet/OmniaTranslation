@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Tạo nội dung trang có cấu trúc với văn bản, phương tiện, người, trích dẫn và bảng có thể truy cập.",
+        "Placeholder": "Thêm các hàng trình tạo nội dung để tạo nội dung trang có cấu trúc.",
+        "Media": {
+          "OpenImage": "Mở thư viện hình ảnh"
+        },
+        "Person": {
+          "ChoosePerson": "Chọn người",
+          "ChangePerson": "Thay đổi người",
+          "RemovePerson": "Xóa người",
+          "ClosePicker": "Đóng bộ chọn",
+          "DisplaySettings": "Hiển thị người",
+          "Layout": "Bố cục",
+          "Compact": "Gọn gàng",
+          "Spotlight": "Nổi bật",
+          "AvatarSize": "Kích thước ảnh đại diện",
+          "Small": "Nhỏ",
+          "Medium": "Vừa",
+          "Large": "Lớn",
+          "Alignment": "Căn chỉnh",
+          "AlignLeft": "Căn trái",
+          "AlignCenter": "Căn giữa",
+          "ShowName": "Hiển thị tên",
+          "ShowTitle": "Hiển thị chức danh"
+        },
+        "Table": {
+          "Caption": "Chú thích",
+          "CaptionPlaceholder": "Mô tả mục đích của bảng",
+          "ShowCaption": "Hiển thị chú thích",
+          "UntitledTable": "Bảng chưa đặt tiêu đề",
+          "ToolbarLabel": "Công cụ bảng",
+          "RegionLabel": "Bảng có thể cuộn: {caption}",
+          "CellLabel": "Ô bảng, hàng {row}, cột {column}",
+          "ColumnLabel": "Cột {column}",
+          "RowLabel": "Hàng {row}",
+          "Style": "Kiểu bảng",
+          "StyleGallery": "Mẫu kiểu bảng",
+          "StylePlain": "Tối giản",
+          "StyleGrid": "Lưới",
+          "StyleBanded": "Đường ngang",
+          "StyleAccent": "Tiêu đề tô màu",
+          "ColorNeutral": "Trung tính",
+          "ColorPrimary": "Màu chủ đề chính",
+          "ColorSecondary": "Màu chủ đề phụ",
+          "ColorScheme": "Màu sắc",
+          "Options": "Tùy chọn bảng",
+          "FirstColumnHeader": "Cột đầu làm tiêu đề hàng",
+          "BandedRows": "Hàng xen kẽ",
+          "BandedColumns": "Cột xen kẽ",
+          "EmphasizeLastRow": "Nhấn mạnh hàng cuối",
+          "EmphasizeLastColumn": "Nhấn mạnh cột cuối",
+          "AddRowAbove": "Thêm hàng phía trên",
+          "AddRowBelow": "Thêm hàng phía dưới",
+          "DeleteRow": "Xóa hàng",
+          "RowActions": "Công cụ hàng",
+          "AddColumnLeft": "Thêm cột bên trái",
+          "AddColumnRight": "Thêm cột bên phải",
+          "DeleteColumn": "Xóa cột",
+          "ColumnActions": "Công cụ cột",
+          "HorizontalAlignment": "Căn chỉnh ngang",
+          "AlignLeft": "Căn trái",
+          "AlignCenter": "Căn giữa",
+          "AlignRight": "Căn phải",
+          "RowAdded": "Đã thêm hàng",
+          "RowDeleted": "Đã xóa hàng",
+          "ColumnAdded": "Đã thêm cột",
+          "ColumnDeleted": "Đã xóa cột"
+        },
+        "Editor": {
+          "AddPerson": "Thêm người"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Người + Văn bản",
+            "Description": "Người bên trái, văn bản bên phải."
+          },
+          "TextPerson": {
+            "Title": "Văn bản + Người",
+            "Description": "Văn bản bên trái, người bên phải."
+          },
+          "Table": {
+            "Title": "Bảng",
+            "Description": "Bảng dữ liệu có thể truy cập với công cụ chỉnh sửa chuyên dụng."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Cấu hình bố cục trình tạo nội dung, phương tiện, đường phân cách, trình chỉnh sửa và cài đặt AI."
+        },
+        "Errors": {
+          "TableMissing": "Khối bảng phải chứa nội dung bảng."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Văn bản định dạng trong bình luận",
+        "EnableMentionInDialog": "Đề cập trong bình luận"
+      }
+    }
+  }
+}

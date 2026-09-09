@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "使用文本、媒体、人员、引用和无障碍表格创建结构化页面内容。",
+        "Placeholder": "添加内容构建器行以创建结构化页面内容。",
+        "Media": {
+          "OpenImage": "打开图片库"
+        },
+        "Person": {
+          "ChoosePerson": "选择人员",
+          "ChangePerson": "更改人员",
+          "RemovePerson": "移除人员",
+          "ClosePicker": "关闭选择器",
+          "DisplaySettings": "人员显示",
+          "Layout": "布局",
+          "Compact": "紧凑",
+          "Spotlight": "聚焦",
+          "AvatarSize": "头像大小",
+          "Small": "小",
+          "Medium": "中",
+          "Large": "大",
+          "Alignment": "对齐方式",
+          "AlignLeft": "左对齐",
+          "AlignCenter": "居中",
+          "ShowName": "显示姓名",
+          "ShowTitle": "显示职位"
+        },
+        "Table": {
+          "Caption": "标题",
+          "CaptionPlaceholder": "描述表格的用途",
+          "ShowCaption": "显示标题",
+          "UntitledTable": "无标题表格",
+          "ToolbarLabel": "表格工具",
+          "RegionLabel": "可滚动表格：{caption}",
+          "CellLabel": "表格单元格，第 {row} 行，第 {column} 列",
+          "ColumnLabel": "第 {column} 列",
+          "RowLabel": "第 {row} 行",
+          "Style": "表格样式",
+          "StyleGallery": "表格样式预设",
+          "StylePlain": "极简",
+          "StyleGrid": "网格",
+          "StyleBanded": "横向条纹",
+          "StyleAccent": "填充表头",
+          "ColorNeutral": "中性色",
+          "ColorPrimary": "主主题色",
+          "ColorSecondary": "次主题色",
+          "ColorScheme": "颜色",
+          "Options": "表格选项",
+          "FirstColumnHeader": "首列作为行标题",
+          "BandedRows": "条纹行",
+          "BandedColumns": "条纹列",
+          "EmphasizeLastRow": "强调最后一行",
+          "EmphasizeLastColumn": "强调最后一列",
+          "AddRowAbove": "上方添加行",
+          "AddRowBelow": "下方添加行",
+          "DeleteRow": "删除行",
+          "RowActions": "行工具",
+          "AddColumnLeft": "左侧添加列",
+          "AddColumnRight": "右侧添加列",
+          "DeleteColumn": "删除列",
+          "ColumnActions": "列工具",
+          "HorizontalAlignment": "水平对齐",
+          "AlignLeft": "左对齐",
+          "AlignCenter": "居中",
+          "AlignRight": "右对齐",
+          "RowAdded": "已添加行",
+          "RowDeleted": "已删除行",
+          "ColumnAdded": "已添加列",
+          "ColumnDeleted": "已删除列"
+        },
+        "Editor": {
+          "AddPerson": "添加人员"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "人员 + 文本",
+            "Description": "左侧为人员，右侧为文本。"
+          },
+          "TextPerson": {
+            "Title": "文本 + 人员",
+            "Description": "左侧为文本，右侧为人员。"
+          },
+          "Table": {
+            "Title": "表格",
+            "Description": "带有专用编辑工具的无障碍数据表。"
+          }
+        },
+        "Settings": {
+          "Placeholder": "配置内容构建器布局、媒体、分隔符、编辑器和 AI 设置。"
+        },
+        "Errors": {
+          "TableMissing": "表格块必须包含表格内容。"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "评论中启用富文本",
+        "EnableMentionInDialog": "评论中启用提及"
+      }
+    }
+  }
+}
