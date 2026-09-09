@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Hace más de un año",
+                "OneYearAgo": "Hace un año",
+                "SixMonthsAgo": "Hace seis meses",
+                "OneMonthAgo": "Hace un mes",
+                "OneWeekAgo": "Hace una semana",
+                "Today": "Hoy",
+                "LaterThanToday": "Después de hoy",
+                "MoreThanOneYearAgoToOneYearAgo": "Anterior a hace un año"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "La definición debe contener al menos un bloque válido",
+          "InvalidDefinitionAddMessage": "No se puede agregar esta plantilla de bloque porque su definición no es válida. Actualice la plantilla en Block gallery o contacte con un administrador del tenant."
+        }
+      }
+    }
+  }
+}
