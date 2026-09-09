@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Forud prompt",
+          "PostPrompt": "Efter prompt"
+        }
+      }
+    }
+  }
+}

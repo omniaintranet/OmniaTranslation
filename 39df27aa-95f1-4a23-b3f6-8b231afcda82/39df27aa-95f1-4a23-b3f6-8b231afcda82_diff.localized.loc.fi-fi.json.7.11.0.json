@@ -1,0 +1,12 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Esipyyntö",
+          "PostPrompt": "Jälkipyyntö"
+        }
+      }
+    }
+  }
+}
