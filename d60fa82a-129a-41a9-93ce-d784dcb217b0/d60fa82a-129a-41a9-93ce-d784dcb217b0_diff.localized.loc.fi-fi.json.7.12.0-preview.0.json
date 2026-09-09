@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Luo jäsenneltyä sivusisältöä tekstillä, medialla, ihmisillä, lainauksilla ja saavutettavilla taulukoilla.",
+        "Placeholder": "Lisää Sisällönrakentajan rivejä luodaksesi jäsenneltyä sivusisältöä.",
+        "Media": {
+          "OpenImage": "Avaa kuvagalleria"
+        },
+        "Person": {
+          "ChoosePerson": "Valitse henkilö",
+          "ChangePerson": "Vaihda henkilö",
+          "RemovePerson": "Poista henkilö",
+          "ClosePicker": "Sulje valitsin",
+          "DisplaySettings": "Henkilön näyttö",
+          "Layout": "Asettelu",
+          "Compact": "Tiivis",
+          "Spotlight": "Kohokohta",
+          "AvatarSize": "Avatarin koko",
+          "Small": "Pieni",
+          "Medium": "Keskikokoinen",
+          "Large": "Suuri",
+          "Alignment": "Tasaus",
+          "AlignLeft": "Vasemmalle",
+          "AlignCenter": "Keskelle",
+          "ShowName": "Näytä nimi",
+          "ShowTitle": "Näytä työnimike"
+        },
+        "Table": {
+          "Caption": "Kuvateksti",
+          "CaptionPlaceholder": "Kuvaile taulukon tarkoitus",
+          "ShowCaption": "Näytä kuvateksti",
+          "UntitledTable": "Nimetön taulukko",
+          "ToolbarLabel": "Taulukon työkalut",
+          "RegionLabel": "Vieritettävä taulukko: {caption}",
+          "CellLabel": "Taulukon solu, rivi {row}, sarake {column}",
+          "ColumnLabel": "Sarake {column}",
+          "RowLabel": "Rivi {row}",
+          "Style": "Taulukon tyyli",
+          "StyleGallery": "Taulukon tyylipresetit",
+          "StylePlain": "Minimaalinen",
+          "StyleGrid": "Ruudukko",
+          "StyleBanded": "Vaakaviivat",
+          "StyleAccent": "Täytetty otsikko",
+          "ColorNeutral": "Neutraali",
+          "ColorPrimary": "Ensisijainen teemaväri",
+          "ColorSecondary": "Toissijainen teemaväri",
+          "ColorScheme": "Väri",
+          "Options": "Taulukon asetukset",
+          "FirstColumnHeader": "Ensimmäinen sarake rivien otsikoina",
+          "BandedRows": "Vuorotellut rivit",
+          "BandedColumns": "Vuorotellut sarakkeet",
+          "EmphasizeLastRow": "Korosta viimeinen rivi",
+          "EmphasizeLastColumn": "Korosta viimeinen sarake",
+          "AddRowAbove": "Lisää rivi yläpuolelle",
+          "AddRowBelow": "Lisää rivi alapuolelle",
+          "DeleteRow": "Poista rivi",
+          "RowActions": "Rivin työkalut",
+          "AddColumnLeft": "Lisää sarake vasemmalle",
+          "AddColumnRight": "Lisää sarake oikealle",
+          "DeleteColumn": "Poista sarake",
+          "ColumnActions": "Sarakkeen työkalut",
+          "HorizontalAlignment": "Vaakasuuntainen tasaus",
+          "AlignLeft": "Tasaa vasemmalle",
+          "AlignCenter": "Tasaa keskelle",
+          "AlignRight": "Tasaa oikealle",
+          "RowAdded": "Rivi lisätty",
+          "RowDeleted": "Rivi poistettu",
+          "ColumnAdded": "Sarake lisätty",
+          "ColumnDeleted": "Sarake poistettu"
+        },
+        "Editor": {
+          "AddPerson": "Lisää henkilö"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Henkilö + Teksti",
+            "Description": "Henkilö vasemmalla, teksti oikealla."
+          },
+          "TextPerson": {
+            "Title": "Teksti + Henkilö",
+            "Description": "Teksti vasemmalla, henkilö oikealla."
+          },
+          "Table": {
+            "Title": "Taulukko",
+            "Description": "Saavutettava datataulukko omilla muokkaustyökaluilla."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Määritä Sisällönrakentajan asettelu, media, jakaja, editori ja AI-asetukset."
+        },
+        "Errors": {
+          "TableMissing": "Taulukko-lohkon on sisällettävä taulukon sisältö."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Muotoiltu teksti kommenteissa",
+        "EnableMentionInDialog": "Maininnat kommenteissa"
+      }
+    }
+  }
+}
