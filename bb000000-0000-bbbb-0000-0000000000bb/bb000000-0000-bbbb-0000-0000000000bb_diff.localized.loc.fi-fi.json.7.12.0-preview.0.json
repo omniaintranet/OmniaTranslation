@@ -1,0 +1,30 @@
+{
+  "Omnia": {
+    "Ux": {
+      "FilterEngine": {
+        "Editor": {
+          "Property": {
+            "DateType": {
+              "Label": {
+                "MoreThanOneYearAgo": "Yli vuosi sitten",
+                "OneYearAgo": "Vuosi sitten",
+                "SixMonthsAgo": "Kuusi kuukautta sitten",
+                "OneMonthAgo": "Kuukausi sitten",
+                "OneWeekAgo": "Viikko sitten",
+                "Today": "Tänään",
+                "LaterThanToday": "Myöhemmin kuin tänään",
+                "MoreThanOneYearAgoToOneYearAgo": "Ennen vuotta sitten"
+              }
+            }
+          }
+        }
+      },
+      "BlockGallery": {
+        "BlockTemplates": {
+          "InvalidDefinitionField": "Määritelmän on sisällettävä vähintään yksi kelvollinen lohko",
+          "InvalidDefinitionAddMessage": "Tätä lohkomallia ei voi lisätä, koska sen määritelmä on virheellinen. Päivitä malli Lohkogalleriassa tai ota yhteyttä tenantin ylläpitäjään."
+        }
+      }
+    }
+  }
+}
