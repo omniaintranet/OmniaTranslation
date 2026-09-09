@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Opret struktureret sideindhold med tekst, medier, personer, citater og tilgængelige tabeller.",
+        "Placeholder": "Tilføj Content builder-rækker for at oprette struktureret sideindhold.",
+        "Media": {
+          "OpenImage": "Åbn billedgalleri"
+        },
+        "Person": {
+          "ChoosePerson": "Vælg person",
+          "ChangePerson": "Skift person",
+          "RemovePerson": "Fjern person",
+          "ClosePicker": "Luk vælger",
+          "DisplaySettings": "Personvisning",
+          "Layout": "Layout",
+          "Compact": "Kompakt",
+          "Spotlight": "Spotlight",
+          "AvatarSize": "Avatarstørrelse",
+          "Small": "Lille",
+          "Medium": "Mellem",
+          "Large": "Stor",
+          "Alignment": "Justering",
+          "AlignLeft": "Venstre",
+          "AlignCenter": "Centreret",
+          "ShowName": "Vis navn",
+          "ShowTitle": "Vis jobtitel"
+        },
+        "Table": {
+          "Caption": "Titel",
+          "CaptionPlaceholder": "Beskriv tabelens formål",
+          "ShowCaption": "Vis titel",
+          "UntitledTable": "Utituleret tabel",
+          "ToolbarLabel": "Tabelværktøjer",
+          "RegionLabel": "Rulbar tabel: {caption}",
+          "CellLabel": "Tabelcelle, række {row}, kolonne {column}",
+          "ColumnLabel": "Kolonne {column}",
+          "RowLabel": "Række {row}",
+          "Style": "Tabelstil",
+          "StyleGallery": "Forudindstillinger for tabelstil",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Gitter",
+          "StyleBanded": "Horisontale linjer",
+          "StyleAccent": "Fyldt overskrift",
+          "ColorNeutral": "Neutral",
+          "ColorPrimary": "Primær tema farve",
+          "ColorSecondary": "Sekundær tema farve",
+          "ColorScheme": "Farve",
+          "Options": "Tabelindstillinger",
+          "FirstColumnHeader": "Første kolonne som rækkeoverskrifter",
+          "BandedRows": "Båndede rækker",
+          "BandedColumns": "Båndede kolonner",
+          "EmphasizeLastRow": "Fremhæv sidste række",
+          "EmphasizeLastColumn": "Fremhæv sidste kolonne",
+          "AddRowAbove": "Tilføj række ovenfor",
+          "AddRowBelow": "Tilføj række nedenfor",
+          "DeleteRow": "Slet række",
+          "RowActions": "Rækkeværktøjer",
+          "AddColumnLeft": "Tilføj kolonne til venstre",
+          "AddColumnRight": "Tilføj kolonne til højre",
+          "DeleteColumn": "Slet kolonne",
+          "ColumnActions": "Kolonneværktøjer",
+          "HorizontalAlignment": "Horisontal justering",
+          "AlignLeft": "Venstrejuster",
+          "AlignCenter": "Centrer",
+          "AlignRight": "Højrejuster",
+          "RowAdded": "Række tilføjet",
+          "RowDeleted": "Række slettet",
+          "ColumnAdded": "Kolonne tilføjet",
+          "ColumnDeleted": "Kolonne slettet"
+        },
+        "Editor": {
+          "AddPerson": "Tilføj person"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Person + Tekst",
+            "Description": "Person til venstre, tekst til højre."
+          },
+          "TextPerson": {
+            "Title": "Tekst + Person",
+            "Description": "Tekst til venstre, person til højre."
+          },
+          "Table": {
+            "Title": "Tabel",
+            "Description": "En tilgængelig datatabel med dedikerede redigeringsværktøjer."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Konfigurer Content builder-layout, medier, skillelinje, editor og AI-indstillinger."
+        },
+        "Errors": {
+          "TableMissing": "Tabelblokken skal indeholde tabelindhold."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Rich text i kommentarer",
+        "EnableMentionInDialog": "Mentions i kommentarer"
+      }
+    }
+  }
+}
