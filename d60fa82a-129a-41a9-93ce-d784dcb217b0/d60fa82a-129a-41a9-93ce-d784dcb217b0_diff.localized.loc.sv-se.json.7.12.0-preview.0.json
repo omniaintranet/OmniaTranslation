@@ -3,7 +3,7 @@
     "ContentFlow": {
       "Block": {
         "BlockSummary": "Skapa strukturerat sidinnehåll med text, media, personer, citat och tillgängliga tabeller.",
-        "Placeholder": "Lägg till Content builder-rader för att skapa strukturerat sidinnehåll.",
+        "Placeholder": "Lägg till innehållsbyggar-rader för att skapa strukturerat sidinnehåll.",
         "Media": {
           "OpenImage": "Öppna bildgalleri"
         },
@@ -48,8 +48,8 @@
           "ColorScheme": "Färg",
           "Options": "Tabellalternativ",
           "FirstColumnHeader": "Första kolumnen som radrubriker",
-          "BandedRows": "Randiga rader",
-          "BandedColumns": "Randiga kolumner",
+          "BandedRows": "Randade rader",
+          "BandedColumns": "Randade kolumner",
           "EmphasizeLastRow": "Framhäv sista raden",
           "EmphasizeLastColumn": "Framhäv sista kolumnen",
           "AddRowAbove": "Lägg till rad ovanför",
@@ -87,7 +87,7 @@
           }
         },
         "Settings": {
-          "Placeholder": "Konfigurera Content builder-layout, media, avdelare, editor och AI-inställningar."
+          "Placeholder": "Konfigurera innehållsbyggar-layout, media, avdelare, redigerare och AI-inställningar."
         },
         "Errors": {
           "TableMissing": "Tabellblocket måste innehålla tabellinnehåll."
@@ -98,7 +98,7 @@
   "OWCM": {
     "PageSocial": {
       "Settings": {
-        "EnableRichTextInDialog": "Rich text i kommentarer",
+        "EnableRichTextInDialog": "RTF-text i kommentarer",
         "EnableMentionInDialog": "Omnämnanden i kommentarer"
       }
     }
