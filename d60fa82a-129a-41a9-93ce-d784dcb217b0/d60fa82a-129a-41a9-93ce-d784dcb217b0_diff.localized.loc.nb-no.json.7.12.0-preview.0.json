@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Opprett strukturert sideinnhold med tekst, medier, personer, sitater og tilgjengelige tabeller.",
+        "Placeholder": "Legg til rader i innholdsbyggeren for å lage strukturert sideinnhold.",
+        "Media": {
+          "OpenImage": "Åpne bildegalleri"
+        },
+        "Person": {
+          "ChoosePerson": "Velg person",
+          "ChangePerson": "Endre person",
+          "RemovePerson": "Fjern person",
+          "ClosePicker": "Lukk velger",
+          "DisplaySettings": "Personvisning",
+          "Layout": "Oppsett",
+          "Compact": "Kompakt",
+          "Spotlight": "Fokus",
+          "AvatarSize": "Avatarstørrelse",
+          "Small": "Liten",
+          "Medium": "Middels",
+          "Large": "Stor",
+          "Alignment": "Justering",
+          "AlignLeft": "Venstre",
+          "AlignCenter": "Senter",
+          "ShowName": "Vis navn",
+          "ShowTitle": "Vis stillingstittel"
+        },
+        "Table": {
+          "Caption": "Bildetekst",
+          "CaptionPlaceholder": "Beskriv tabellens formål",
+          "ShowCaption": "Vis bildetekst",
+          "UntitledTable": "Uten tittel tabell",
+          "ToolbarLabel": "Tabellverktøy",
+          "RegionLabel": "Rullbar tabell: {caption}",
+          "CellLabel": "Tabellcelle, rad {row}, kolonne {column}",
+          "ColumnLabel": "Kolonne {column}",
+          "RowLabel": "Rad {row}",
+          "Style": "Tabellstil",
+          "StyleGallery": "Forhåndsinnstilte tabellstiler",
+          "StylePlain": "Minimal",
+          "StyleGrid": "Rutenett",
+          "StyleBanded": "Horisontale linjer",
+          "StyleAccent": "Utfylt overskrift",
+          "ColorNeutral": "Nøytral",
+          "ColorPrimary": "Primær temafarge",
+          "ColorSecondary": "Sekundær temafarge",
+          "ColorScheme": "Farge",
+          "Options": "Tabellalternativer",
+          "FirstColumnHeader": "Første kolonne som radoverskrifter",
+          "BandedRows": "Båndede rader",
+          "BandedColumns": "Båndede kolonner",
+          "EmphasizeLastRow": "Fremhev siste rad",
+          "EmphasizeLastColumn": "Fremhev siste kolonne",
+          "AddRowAbove": "Legg til rad over",
+          "AddRowBelow": "Legg til rad under",
+          "DeleteRow": "Slett rad",
+          "RowActions": "Radverktøy",
+          "AddColumnLeft": "Legg til kolonne til venstre",
+          "AddColumnRight": "Legg til kolonne til høyre",
+          "DeleteColumn": "Slett kolonne",
+          "ColumnActions": "Kolonneverktøy",
+          "HorizontalAlignment": "Horisontal justering",
+          "AlignLeft": "Venstrejuster",
+          "AlignCenter": "Sentrer",
+          "AlignRight": "Høyrejuster",
+          "RowAdded": "Rad lagt til",
+          "RowDeleted": "Rad slettet",
+          "ColumnAdded": "Kolonne lagt til",
+          "ColumnDeleted": "Kolonne slettet"
+        },
+        "Editor": {
+          "AddPerson": "Legg til person"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Person + Tekst",
+            "Description": "Person til venstre, tekst til høyre."
+          },
+          "TextPerson": {
+            "Title": "Tekst + Person",
+            "Description": "Tekst til venstre, person til høyre."
+          },
+          "Table": {
+            "Title": "Tabell",
+            "Description": "En tilgjengelig datatabell med dedikerte redigeringsverktøy."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Konfigurer innholdsbyggeroppsett, medier, skillelinje, redigerer og AI-innstillinger."
+        },
+        "Errors": {
+          "TableMissing": "Tabellblokken må inneholde tabellinnhold."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Rik tekst i kommentarer",
+        "EnableMentionInDialog": "Nevnelser i kommentarer"
+      }
+    }
+  }
+}
