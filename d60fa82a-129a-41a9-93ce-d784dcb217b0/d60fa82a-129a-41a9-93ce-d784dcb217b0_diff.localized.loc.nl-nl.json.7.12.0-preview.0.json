@@ -1,0 +1,106 @@
+{
+  "WCM": {
+    "ContentFlow": {
+      "Block": {
+        "BlockSummary": "Maak gestructureerde paginainhoud met tekst, media, personen, citaten en toegankelijke tabellen.",
+        "Placeholder": "Voeg Content builder-rijen toe om gestructureerde paginainhoud te maken.",
+        "Media": {
+          "OpenImage": "Open afbeeldingsgalerij"
+        },
+        "Person": {
+          "ChoosePerson": "Kies persoon",
+          "ChangePerson": "Persoon wijzigen",
+          "RemovePerson": "Persoon verwijderen",
+          "ClosePicker": "Selectie sluiten",
+          "DisplaySettings": "Weergave persoon",
+          "Layout": "Indeling",
+          "Compact": "Compact",
+          "Spotlight": "Spotlight",
+          "AvatarSize": "Avatar grootte",
+          "Small": "Klein",
+          "Medium": "Middel",
+          "Large": "Groot",
+          "Alignment": "Uitlijning",
+          "AlignLeft": "Links",
+          "AlignCenter": "Midden",
+          "ShowName": "Naam tonen",
+          "ShowTitle": "Functietitel tonen"
+        },
+        "Table": {
+          "Caption": "Bijschrift",
+          "CaptionPlaceholder": "Beschrijf het doel van de tabel",
+          "ShowCaption": "Bijschrift tonen",
+          "UntitledTable": "Tabel zonder titel",
+          "ToolbarLabel": "Tabelhulpmiddelen",
+          "RegionLabel": "Scrollbare tabel: {caption}",
+          "CellLabel": "Tabelcel, rij {row}, kolom {column}",
+          "ColumnLabel": "Kolom {column}",
+          "RowLabel": "Rij {row}",
+          "Style": "Tabelstijl",
+          "StyleGallery": "Voorinstellingen tabelstijl",
+          "StylePlain": "Minimaal",
+          "StyleGrid": "Raster",
+          "StyleBanded": "Horizontale lijnen",
+          "StyleAccent": "Gevulde kop",
+          "ColorNeutral": "Neutraal",
+          "ColorPrimary": "Primaire thema kleur",
+          "ColorSecondary": "Secundaire thema kleur",
+          "ColorScheme": "Kleur",
+          "Options": "Tabelopties",
+          "FirstColumnHeader": "Eerste kolom als rijkoppen",
+          "BandedRows": "Afwisselende rijen",
+          "BandedColumns": "Afwisselende kolommen",
+          "EmphasizeLastRow": "Laatste rij benadrukken",
+          "EmphasizeLastColumn": "Laatste kolom benadrukken",
+          "AddRowAbove": "Rij boven toevoegen",
+          "AddRowBelow": "Rij onder toevoegen",
+          "DeleteRow": "Rij verwijderen",
+          "RowActions": "Rijhulpmiddelen",
+          "AddColumnLeft": "Kolom links toevoegen",
+          "AddColumnRight": "Kolom rechts toevoegen",
+          "DeleteColumn": "Kolom verwijderen",
+          "ColumnActions": "Kolomhulpmiddelen",
+          "HorizontalAlignment": "Horizontale uitlijning",
+          "AlignLeft": "Links uitlijnen",
+          "AlignCenter": "Centreren",
+          "AlignRight": "Rechts uitlijnen",
+          "RowAdded": "Rij toegevoegd",
+          "RowDeleted": "Rij verwijderd",
+          "ColumnAdded": "Kolom toegevoegd",
+          "ColumnDeleted": "Kolom verwijderd"
+        },
+        "Editor": {
+          "AddPerson": "Persoon toevoegen"
+        },
+        "Templates": {
+          "PersonText": {
+            "Title": "Persoon + Tekst",
+            "Description": "Persoon links, tekst rechts."
+          },
+          "TextPerson": {
+            "Title": "Tekst + Persoon",
+            "Description": "Tekst links, persoon rechts."
+          },
+          "Table": {
+            "Title": "Tabel",
+            "Description": "Een toegankelijke datatabel met speciale bewerkingstools."
+          }
+        },
+        "Settings": {
+          "Placeholder": "Configureer Content builder-indeling, media, scheidingslijn, editor en AI-instellingen."
+        },
+        "Errors": {
+          "TableMissing": "Tabelblok moet tabelinhoud bevatten."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageSocial": {
+      "Settings": {
+        "EnableRichTextInDialog": "Rijke tekst in opmerkingen",
+        "EnableMentionInDialog": "Vermeldingen in opmerkingen"
+      }
+    }
+  }
+}
