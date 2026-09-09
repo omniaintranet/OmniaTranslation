@@ -3,8 +3,8 @@
     "Search": {
       "Admin": {
         "SemanticSearch": {
-          "PrePrompt": "Förhandsuppmaning",
-          "PostPrompt": "Efteruppmaning"
+          "PrePrompt": "För-prompt",
+          "PostPrompt": "Efter-prompt"
         }
       }
     }
