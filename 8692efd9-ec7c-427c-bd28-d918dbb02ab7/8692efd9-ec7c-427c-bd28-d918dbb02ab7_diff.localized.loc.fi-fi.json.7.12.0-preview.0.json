@@ -1,0 +1,13 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "Commons": {
+          "LayoutEngine": {
+            "textPleaseActivateTheLayoutEngineToViewTheFullContent": "*Jotkin sisällöt eivät ehkä näy oikein. Ota asettelumoottori käyttöön nähdäksesi koko sisällön."
+          }
+        }
+      }
+    }
+  }
+}
