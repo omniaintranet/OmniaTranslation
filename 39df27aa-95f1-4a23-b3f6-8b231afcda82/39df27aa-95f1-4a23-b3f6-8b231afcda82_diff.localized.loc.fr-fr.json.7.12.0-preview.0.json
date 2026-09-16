@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Quitter la recherche",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Invite préalable",
+          "PostPrompt": "Invite postérieure"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} sélectionné(s)",
+        "RefinerOptionOneResultLabel": "{0}, 1 résultat",
+        "FilterResultsLabel": "Filtrer les résultats",
+        "AppliedFiltersLabel": "Filtres appliqués",
+        "ClearAllRefinersLabel": "Effacer tous les filtres",
+        "RemoveAppliedFilter": "Supprimer le filtre {0} de {1}",
+        "ShowingOneResult": "Affichage de 1 résultat",
+        "OneResultOneFilterApplied": "1 résultat · 1 filtre appliqué",
+        "OneResultMultipleFiltersApplied": "1 résultat · {0} filtres appliqués",
+        "ShowingAllResults": "Affichage de tous les {0} résultats",
+        "OneFilterApplied": "{0} résultats · 1 filtre appliqué",
+        "MultipleFiltersApplied": "{0} résultats · {1} filtres appliqués",
+        "UpdatingResults": "Mise à jour des résultats",
+        "ShowAllRefiners": "Afficher tout ({0})",
+        "ShowLessRefiners": "Afficher moins"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Plage de dates",
+        "RangeStart": "Début de la plage de dates",
+        "RangeEnd": "Fin de la plage de dates",
+        "OneYearAgo": "Il y a un an",
+        "SixMonthsAgo": "Il y a six mois",
+        "OneMonthAgo": "Il y a un mois",
+        "OneWeekAgo": "Il y a une semaine",
+        "Today": "Aujourd’hui"
+      }
+    }
+  }
+}
