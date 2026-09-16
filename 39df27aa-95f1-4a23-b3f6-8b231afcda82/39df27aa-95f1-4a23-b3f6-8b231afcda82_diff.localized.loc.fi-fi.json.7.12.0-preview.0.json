@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Poistu hausta",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Esikehote",
+          "PostPrompt": "Jälkikehote"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} valittu",
+        "RefinerOptionOneResultLabel": "{0}, 1 tulos",
+        "FilterResultsLabel": "Suodata tuloksia",
+        "AppliedFiltersLabel": "Käytetyt suodattimet",
+        "ClearAllRefinersLabel": "Tyhjennä kaikki suodattimet",
+        "RemoveAppliedFilter": "Poista suodatin {0} kohteesta {1}",
+        "ShowingOneResult": "Näytetään 1 tulos",
+        "OneResultOneFilterApplied": "1 tulos · 1 suodatin käytössä",
+        "OneResultMultipleFiltersApplied": "1 tulos · {0} suodatinta käytössä",
+        "ShowingAllResults": "Näytetään kaikki {0} tulosta",
+        "OneFilterApplied": "{0} tulosta · 1 suodatin käytössä",
+        "MultipleFiltersApplied": "{0} tulosta · {1} suodatinta käytössä",
+        "UpdatingResults": "Päivitetään tuloksia",
+        "ShowAllRefiners": "Näytä kaikki ({0})",
+        "ShowLessRefiners": "Näytä vähemmän"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Aikaväli",
+        "RangeStart": "Aikavälin alku",
+        "RangeEnd": "Aikavälin loppu",
+        "OneYearAgo": "Vuosi sitten",
+        "SixMonthsAgo": "Kuusi kuukautta sitten",
+        "OneMonthAgo": "Kuukausi sitten",
+        "OneWeekAgo": "Viikko sitten",
+        "Today": "Tänään"
+      }
+    }
+  }
+}
