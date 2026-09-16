@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Zoeken afsluiten",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Voorafgaande prompt",
+          "PostPrompt": "Achterafgaande prompt"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} geselecteerd",
+        "RefinerOptionOneResultLabel": "{0}, 1 resultaat",
+        "FilterResultsLabel": "Resultaten filteren",
+        "AppliedFiltersLabel": "Toegepaste filters",
+        "ClearAllRefinersLabel": "Alle filters wissen",
+        "RemoveAppliedFilter": "Filter {0} verwijderen van {1}",
+        "ShowingOneResult": "1 resultaat tonen",
+        "OneResultOneFilterApplied": "1 resultaat · 1 filter toegepast",
+        "OneResultMultipleFiltersApplied": "1 resultaat · {0} filters toegepast",
+        "ShowingAllResults": "Alle {0} resultaten tonen",
+        "OneFilterApplied": "{0} resultaten · 1 filter toegepast",
+        "MultipleFiltersApplied": "{0} resultaten · {1} filters toegepast",
+        "UpdatingResults": "Resultaten bijwerken",
+        "ShowAllRefiners": "Alles tonen ({0})",
+        "ShowLessRefiners": "Minder tonen"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Datumbereik",
+        "RangeStart": "Begin van datumbereik",
+        "RangeEnd": "Einde van datumbereik",
+        "OneYearAgo": "Een jaar geleden",
+        "SixMonthsAgo": "Zes maanden geleden",
+        "OneMonthAgo": "Een maand geleden",
+        "OneWeekAgo": "Een week geleden",
+        "Today": "Vandaag"
+      }
+    }
+  }
+}
