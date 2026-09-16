@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Suche beenden",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Vorab-Aufforderung",
+          "PostPrompt": "Nach-Aufforderung"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} ausgewählt",
+        "RefinerOptionOneResultLabel": "{0}, 1 Ergebnis",
+        "FilterResultsLabel": "Ergebnisse filtern",
+        "AppliedFiltersLabel": "Angewendete Filter",
+        "ClearAllRefinersLabel": "Alle Filter löschen",
+        "RemoveAppliedFilter": "Filter {0} von {1} entfernen",
+        "ShowingOneResult": "1 Ergebnis wird angezeigt",
+        "OneResultOneFilterApplied": "1 Ergebnis · 1 Filter angewendet",
+        "OneResultMultipleFiltersApplied": "1 Ergebnis · {0} Filter angewendet",
+        "ShowingAllResults": "Alle {0} Ergebnisse werden angezeigt",
+        "OneFilterApplied": "{0} Ergebnisse · 1 Filter angewendet",
+        "MultipleFiltersApplied": "{0} Ergebnisse · {1} Filter angewendet",
+        "UpdatingResults": "Ergebnisse werden aktualisiert",
+        "ShowAllRefiners": "Alle anzeigen ({0})",
+        "ShowLessRefiners": "Weniger anzeigen"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Datumsbereich",
+        "RangeStart": "Beginn des Datumsbereichs",
+        "RangeEnd": "Ende des Datumsbereichs",
+        "OneYearAgo": "Vor einem Jahr",
+        "SixMonthsAgo": "Vor sechs Monaten",
+        "OneMonthAgo": "Vor einem Monat",
+        "OneWeekAgo": "Vor einer Woche",
+        "Today": "Heute"
+      }
+    }
+  }
+}

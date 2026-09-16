@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "退出搜索",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "预提示",
+          "PostPrompt": "后提示"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": "，已选择 {0}",
+        "RefinerOptionOneResultLabel": "{0}，1 个结果",
+        "FilterResultsLabel": "筛选结果",
+        "AppliedFiltersLabel": "已应用筛选器",
+        "ClearAllRefinersLabel": "清除所有筛选器",
+        "RemoveAppliedFilter": "从 {1} 中移除筛选器 {0}",
+        "ShowingOneResult": "显示 1 个结果",
+        "OneResultOneFilterApplied": "1 个结果 · 已应用 1 个筛选器",
+        "OneResultMultipleFiltersApplied": "1 个结果 · 已应用 {0} 个筛选器",
+        "ShowingAllResults": "显示所有 {0} 个结果",
+        "OneFilterApplied": "{0} 个结果 · 已应用 1 个筛选器",
+        "MultipleFiltersApplied": "{0} 个结果 · 已应用 {1} 个筛选器",
+        "UpdatingResults": "正在更新结果",
+        "ShowAllRefiners": "显示全部（{0}）",
+        "ShowLessRefiners": "显示更少"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "日期范围",
+        "RangeStart": "日期范围开始",
+        "RangeEnd": "日期范围结束",
+        "OneYearAgo": "一年前",
+        "SixMonthsAgo": "六个月前",
+        "OneMonthAgo": "一个月前",
+        "OneWeekAgo": "一周前",
+        "Today": "今天"
+      }
+    }
+  }
+}

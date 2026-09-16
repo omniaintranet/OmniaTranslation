@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Avsluta sökning",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Förprompt",
+          "PostPrompt": "Efterprompt"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} valda",
+        "RefinerOptionOneResultLabel": "{0}, 1 resultat",
+        "FilterResultsLabel": "Filtrera resultat",
+        "AppliedFiltersLabel": "Tillämpade filter",
+        "ClearAllRefinersLabel": "Rensa alla filter",
+        "RemoveAppliedFilter": "Ta bort filter {0} från {1}",
+        "ShowingOneResult": "Visar 1 resultat",
+        "OneResultOneFilterApplied": "1 resultat · 1 filter tillämpat",
+        "OneResultMultipleFiltersApplied": "1 resultat · {0} filter tillämpade",
+        "ShowingAllResults": "Visar alla {0} resultat",
+        "OneFilterApplied": "{0} resultat · 1 filter tillämpat",
+        "MultipleFiltersApplied": "{0} resultat · {1} filter tillämpade",
+        "UpdatingResults": "Uppdaterar resultat",
+        "ShowAllRefiners": "Visa alla ({0})",
+        "ShowLessRefiners": "Visa färre"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Datumintervall",
+        "RangeStart": "Startdatum för intervall",
+        "RangeEnd": "Slutdatum för intervall",
+        "OneYearAgo": "Ett år sedan",
+        "SixMonthsAgo": "Sex månader sedan",
+        "OneMonthAgo": "En månad sedan",
+        "OneWeekAgo": "En vecka sedan",
+        "Today": "Idag"
+      }
+    }
+  }
+}

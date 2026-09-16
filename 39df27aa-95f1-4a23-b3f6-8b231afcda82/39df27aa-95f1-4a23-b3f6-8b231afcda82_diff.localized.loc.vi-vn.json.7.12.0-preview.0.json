@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Thoát tìm kiếm",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Lời nhắc trước",
+          "PostPrompt": "Lời nhắc sau"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", đã chọn {0}",
+        "RefinerOptionOneResultLabel": "{0}, 1 kết quả",
+        "FilterResultsLabel": "Lọc kết quả",
+        "AppliedFiltersLabel": "Bộ lọc đã áp dụng",
+        "ClearAllRefinersLabel": "Xóa tất cả bộ lọc",
+        "RemoveAppliedFilter": "Xóa bộ lọc {0} khỏi {1}",
+        "ShowingOneResult": "Hiển thị 1 kết quả",
+        "OneResultOneFilterApplied": "1 kết quả · 1 bộ lọc đã áp dụng",
+        "OneResultMultipleFiltersApplied": "1 kết quả · {0} bộ lọc đã áp dụng",
+        "ShowingAllResults": "Hiển thị tất cả {0} kết quả",
+        "OneFilterApplied": "{0} kết quả · 1 bộ lọc đã áp dụng",
+        "MultipleFiltersApplied": "{0} kết quả · {1} bộ lọc đã áp dụng",
+        "UpdatingResults": "Đang cập nhật kết quả",
+        "ShowAllRefiners": "Hiển thị tất cả ({0})",
+        "ShowLessRefiners": "Hiển thị ít hơn"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Khoảng ngày",
+        "RangeStart": "Bắt đầu khoảng ngày",
+        "RangeEnd": "Kết thúc khoảng ngày",
+        "OneYearAgo": "Một năm trước",
+        "SixMonthsAgo": "Sáu tháng trước",
+        "OneMonthAgo": "Một tháng trước",
+        "OneWeekAgo": "Một tuần trước",
+        "Today": "Hôm nay"
+      }
+    }
+  }
+}

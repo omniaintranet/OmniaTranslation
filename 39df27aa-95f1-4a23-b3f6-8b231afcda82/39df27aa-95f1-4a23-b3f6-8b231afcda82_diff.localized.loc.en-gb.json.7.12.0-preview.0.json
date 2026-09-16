@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Exit search",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Pre prompt",
+          "PostPrompt": "Post prompt"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} selected",
+        "RefinerOptionOneResultLabel": "{0}, 1 result",
+        "FilterResultsLabel": "Filter results",
+        "AppliedFiltersLabel": "Applied filters",
+        "ClearAllRefinersLabel": "Clear all filters",
+        "RemoveAppliedFilter": "Remove filter {0} from {1}",
+        "ShowingOneResult": "Showing 1 result",
+        "OneResultOneFilterApplied": "1 result · 1 filter applied",
+        "OneResultMultipleFiltersApplied": "1 result · {0} filters applied",
+        "ShowingAllResults": "Showing all {0} results",
+        "OneFilterApplied": "{0} results · 1 filter applied",
+        "MultipleFiltersApplied": "{0} results · {1} filters applied",
+        "UpdatingResults": "Updating results",
+        "ShowAllRefiners": "Show all ({0})",
+        "ShowLessRefiners": "Show less"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Date range",
+        "RangeStart": "Start of date range",
+        "RangeEnd": "End of date range",
+        "OneYearAgo": "One year ago",
+        "SixMonthsAgo": "Six months ago",
+        "OneMonthAgo": "One month ago",
+        "OneWeekAgo": "One week ago",
+        "Today": "Today"
+      }
+    }
+  }
+}

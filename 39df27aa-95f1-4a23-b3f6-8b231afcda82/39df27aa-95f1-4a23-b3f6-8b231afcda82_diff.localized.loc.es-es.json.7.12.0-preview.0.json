@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Salir de la búsqueda",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Pre aviso",
+          "PostPrompt": "Post aviso"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} seleccionados",
+        "RefinerOptionOneResultLabel": "{0}, 1 resultado",
+        "FilterResultsLabel": "Filtrar resultados",
+        "AppliedFiltersLabel": "Filtros aplicados",
+        "ClearAllRefinersLabel": "Borrar todos los filtros",
+        "RemoveAppliedFilter": "Quitar filtro {0} de {1}",
+        "ShowingOneResult": "Mostrando 1 resultado",
+        "OneResultOneFilterApplied": "1 resultado · 1 filtro aplicado",
+        "OneResultMultipleFiltersApplied": "1 resultado · {0} filtros aplicados",
+        "ShowingAllResults": "Mostrando todos los {0} resultados",
+        "OneFilterApplied": "{0} resultados · 1 filtro aplicado",
+        "MultipleFiltersApplied": "{0} resultados · {1} filtros aplicados",
+        "UpdatingResults": "Actualizando resultados",
+        "ShowAllRefiners": "Mostrar todos ({0})",
+        "ShowLessRefiners": "Mostrar menos"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Rango de fechas",
+        "RangeStart": "Inicio del rango de fechas",
+        "RangeEnd": "Fin del rango de fechas",
+        "OneYearAgo": "Hace un año",
+        "SixMonthsAgo": "Hace seis meses",
+        "OneMonthAgo": "Hace un mes",
+        "OneWeekAgo": "Hace una semana",
+        "Today": "Hoy"
+      }
+    }
+  }
+}

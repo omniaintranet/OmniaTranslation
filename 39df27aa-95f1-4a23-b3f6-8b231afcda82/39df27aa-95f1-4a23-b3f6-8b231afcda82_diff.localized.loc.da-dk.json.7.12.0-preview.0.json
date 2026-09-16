@@ -1,0 +1,40 @@
+{
+  "OmniaWorkplace": {
+    "Search": {
+      "ExitSearch": "Afslut søgning",
+      "Admin": {
+        "SemanticSearch": {
+          "PrePrompt": "Forud prompt",
+          "PostPrompt": "Efter prompt"
+        }
+      },
+      "AdvancedSearch": {
+        "RefinerSelectedCount": ", {0} valgt",
+        "RefinerOptionOneResultLabel": "{0}, 1 resultat",
+        "FilterResultsLabel": "Filtrer resultater",
+        "AppliedFiltersLabel": "Anvendte filtre",
+        "ClearAllRefinersLabel": "Ryd alle filtre",
+        "RemoveAppliedFilter": "Fjern filter {0} fra {1}",
+        "ShowingOneResult": "Viser 1 resultat",
+        "OneResultOneFilterApplied": "1 resultat · 1 filter anvendt",
+        "OneResultMultipleFiltersApplied": "1 resultat · {0} filtre anvendt",
+        "ShowingAllResults": "Viser alle {0} resultater",
+        "OneFilterApplied": "{0} resultater · 1 filter anvendt",
+        "MultipleFiltersApplied": "{0} resultater · {1} filtre anvendt",
+        "UpdatingResults": "Opdaterer resultater",
+        "ShowAllRefiners": "Vis alle ({0})",
+        "ShowLessRefiners": "Vis færre"
+      },
+      "DateTimeRefinement": {
+        "DateRange": "Datointerval",
+        "RangeStart": "Start på datointerval",
+        "RangeEnd": "Slut på datointerval",
+        "OneYearAgo": "For et år siden",
+        "SixMonthsAgo": "For seks måneder siden",
+        "OneMonthAgo": "For en måned siden",
+        "OneWeekAgo": "For en uge siden",
+        "Today": "I dag"
+      }
+    }
+  }
+}
