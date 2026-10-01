@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Include page collection node",
+      "Settings": {
+        "IndicatorBackgroundColor": "Current node background color",
+        "HoverBackgroundColor": "Hover background color",
+        "Automatic": "Automatic"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Follow page styles",
+      "FollowPageStylesDescription": "Use the selected page element's style. Turn off to select a content style.",
+      "PageElement": "Page element"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Require alternative text for images",
+          "RequireAltTextDescription": "An image description in the media picker is required. Applies to every selected image; videos are unaffected."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indicator background color",
+        "HoverBackgroundColor": "Hover background color",
+        "Automatic": "Automatic"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} like",
+        "Comment": "{0} comment"
+      }
+    }
+  }
+}
