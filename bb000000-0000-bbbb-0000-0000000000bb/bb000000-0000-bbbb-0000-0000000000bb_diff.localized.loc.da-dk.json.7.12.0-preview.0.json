@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Indtast alternativ tekst for dette billede."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Skriv konfigurerede profilkortfelter tilbage til Microsoft Entra ID. Fotoopdateringer aktiveres separat.",
+          "ConsentInformation": "Læs og opdater brugere tillader redigering af profilfelter på vegne af den loggede bruger. Det giver ikke tilladelse til at oprette eller slette brugerkonti.",
+          "Title": "Opdater Entra ID profilfelter fra profilkort"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Integration",
+          "Description": "Skriv ændringer i profilfoto foretaget i Omnia tilbage til Microsoft Entra ID, inklusive fjernelse af et profilfoto.",
+          "ConsentInformation": "Læs og skriv alle bruger- og gruppeprofilfotos tillader Omnia at opdatere brugerfotos på vegne af den loggede bruger. Opdatering af en anden brugers foto kræver også en passende Entra administratorrolle.",
+          "Title": "Opdater Entra ID profilfotos"
+        }
+      }
+    }
+  }
+}
