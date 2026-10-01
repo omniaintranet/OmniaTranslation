@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inkludera nod för sidkollektion",
+      "Settings": {
+        "IndicatorBackgroundColor": "Bakgrundsfärg för aktuell nod",
+        "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
+        "Automatic": "Automatisk"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Följ sidans stilar",
+      "FollowPageStylesDescription": "Använd den valda sidans elements stil. Stäng av för att välja en innehållsstil.",
+      "PageElement": "Sidelement"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Kräv alternativ text för bilder",
+          "RequireAltTextDescription": "En bildbeskrivning i mediaväljaren krävs. Gäller för varje vald bild; videor påverkas inte."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Bakgrundsfärg för indikator",
+        "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
+        "Automatic": "Automatisk"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} gillar",
+        "Comment": "{0} kommentar"
+      }
+    }
+  }
+}
