@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "TextStyles": {
+      "ContentStylesTab": "Inhaltsstile",
+      "PageElementStylesTab": "Seiten-Element-Stile",
+      "PageElementStylesEnable": "Aktivieren",
+      "PageElementStylesDescription": "Wenn aktiviert, werden diese integrierten Stile automatisch auf passende Seitenelemente angewendet. Inhalte des Rich text editors, explizit ausgewählte Inhaltsstile, benutzerdefinierte Blockformatierungen sowie Verwaltungs- und Editorsteuerungen behalten ihre eigenen Stile. Wenn deaktiviert, verwenden Seitenelemente die Standard-Theme-Stile.",
+      "DeleteStyleConfirmation": "Diesen benutzerdefinierten Textstil löschen?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Einstellungen",
+        "InheritFromTenant": "Vom Tenant erben",
+        "StickyPositioning": "Fixierte Positionierung",
+        "StickyPositioningDescription": "Halten Sie wichtige Ankündigungen beim Scrollen im Kopfbereich sichtbar. Deaktivieren Sie dies, damit Ankündigungen mit der Seite mitscrollen, einschließlich langer Ankündigungen bei erhöhter Zoomstufe.",
+        "SaveSettingsError": "Die Ankündigungseinstellungen konnten nicht gespeichert werden. Bitte versuchen Sie es erneut.",
+        "SettingsSaved": "Ankündigungseinstellungen gespeichert.",
+        "SettingsReadOnly": "Sie benötigen Administratorrechte für diesen Bereich, um Ankündigungseinstellungen zu ändern."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script und CSS",
+          "Category": "Arbeitsbereich",
+          "Description": "Konfigurieren Sie versionierte JavaScript- und CSS-Dateien für jedes Geschäftsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Die Funktion Script und CSS ermöglicht es Ihnen, Skripte und CSS für dieses Geschäftsprofil getrennt vom Footer zu verwalten. Wenn die Funktion aktiviert ist, finden Sie sie in Omnia Admin unter Geschäftsprofil > Arbeitsbereich > Script und CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Schnellzugriff"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Persönlichen Link erstellen"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Elementtrenner anzeigen",
+        "ItemPadding": "Elementabstand"
+      }
+    },
+    "Properties": {
+      "Source": "Quelle"
+    },
+    "ScriptAndCss": {
+      "Title": "Script und CSS",
+      "Description": "Fügen Sie JavaScript und CSS für dieses Geschäftsprofil hinzu. Gespeicherte Änderungen werden beim nächsten Laden oder Navigieren der Seite angewendet. Leeren Sie einen Editor und speichern Sie, um den Inhalt zu entfernen.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Speichern",
+      "Saved": "Gespeichert.",
+      "History": "Versionsverlauf",
+      "CloseHistory": "Versionsverlauf schließen",
+      "ViewCurrent": "Entwurf bearbeiten",
+      "View": "Ansehen",
+      "Active": "Aktiv",
+      "SavedAt": "Gespeichert",
+      "ChangedBy": "Geändert von",
+      "NoHistory": "Noch keine gespeicherten Versionen.",
+      "ViewingVersion": "Eine historische Version wird angezeigt.",
+      "ViewingCurrentVersion": "Die aktive Version wird angezeigt.",
+      "Restore": "Wiederherstellen",
+      "RestoreTitle": "Diese Version wiederherstellen?",
+      "RestoreMessage": "Dies erstellt eine neue aktive Version aus dem ausgewählten JavaScript und CSS. Alle ungespeicherten Änderungen im Editor werden ersetzt.",
+      "Cancel": "Abbrechen",
+      "LoadError": "Script- und CSS-Einstellungen konnten nicht geladen werden.",
+      "SaveError": "Änderungen konnten nicht gespeichert werden. Ihre Bearbeitungen wurden beibehalten.",
+      "HistoryError": "Versionsverlauf konnte nicht geladen werden.",
+      "RestoreError": "Diese Version konnte nicht wiederhergestellt werden.",
+      "Retry": "Erneut versuchen",
+      "ReloadSettings": "Einstellungen neu laden",
+      "ReloadTitle": "Die neuesten Einstellungen neu laden?",
+      "ReloadMessage": "Ein anderer Administrator hat eine neuere Version gespeichert. Das Neuladen ersetzt Ihre ungespeicherten Bearbeitungen durch das zuletzt gespeicherte JavaScript und CSS.",
+      "Disabled": "Script und CSS ist für diesen Tenant nicht aktiviert.",
+      "SyncPending": "SharePoint-Synchronisierung steht aus. Die gespeicherte Version ist möglicherweise noch nicht auf SharePoint verfügbar.",
+      "SyncFailed": "SharePoint-Synchronisierung fehlgeschlagen. Die gespeicherte Version ist nicht als auf SharePoint verfügbar bestätigt.",
+      "SyncCompleted": "SharePoint-Synchronisierung abgeschlossen.",
+      "RefreshStatus": "Status aktualisieren"
+    }
+  }
+}
