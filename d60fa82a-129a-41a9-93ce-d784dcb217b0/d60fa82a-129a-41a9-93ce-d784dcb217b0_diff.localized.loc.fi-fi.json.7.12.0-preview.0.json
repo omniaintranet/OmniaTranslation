@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Sisällytä sivukokoelman solmu",
+      "Settings": {
+        "IndicatorBackgroundColor": "Nykyisen solmun taustaväri",
+        "HoverBackgroundColor": "Hover-taustaväri",
+        "Automatic": "Automaattinen"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Noudata sivun tyylejä",
+      "FollowPageStylesDescription": "Käytä valitun sivuelementin tyyliä. Poista käytöstä valitaksesi sisältötyylin.",
+      "PageElement": "Sivuelementti"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Vaadi vaihtoehtoinen teksti kuville",
+          "RequireAltTextDescription": "Kuvavalitsimessa vaaditaan kuvan kuvaus. Koskee jokaista valittua kuvaa; videot eivät muutu."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indikaattorin taustaväri",
+        "HoverBackgroundColor": "Hover-taustaväri",
+        "Automatic": "Automaattinen"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} tykkäys",
+        "Comment": "{0} kommentti"
+      }
+    }
+  }
+}

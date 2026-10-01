@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Bao gồm nút bộ sưu tập trang",
+      "Settings": {
+        "IndicatorBackgroundColor": "Màu nền nút hiện tại",
+        "HoverBackgroundColor": "Màu nền khi di chuột",
+        "Automatic": "Tự động"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Theo kiểu trang",
+      "FollowPageStylesDescription": "Sử dụng kiểu của phần tử trang đã chọn. Tắt để chọn kiểu nội dung.",
+      "PageElement": "Phần tử trang"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Yêu cầu văn bản thay thế cho hình ảnh",
+          "RequireAltTextDescription": "Bắt buộc mô tả hình ảnh trong bộ chọn media. Áp dụng cho mọi hình ảnh được chọn; video không bị ảnh hưởng."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Màu nền chỉ báo",
+        "HoverBackgroundColor": "Màu nền khi di chuột",
+        "Automatic": "Tự động"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} lượt thích",
+        "Comment": "{0} bình luận"
+      }
+    }
+  }
+}

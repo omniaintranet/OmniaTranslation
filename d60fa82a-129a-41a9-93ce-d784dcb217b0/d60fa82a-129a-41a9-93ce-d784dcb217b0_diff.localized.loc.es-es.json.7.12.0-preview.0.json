@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Incluir nodo de colección de páginas",
+      "Settings": {
+        "IndicatorBackgroundColor": "Color de fondo del nodo actual",
+        "HoverBackgroundColor": "Color de fondo al pasar el cursor",
+        "Automatic": "Automático"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Seguir estilos de la página",
+      "FollowPageStylesDescription": "Usar el estilo del elemento de página seleccionado. Desactivar para seleccionar un estilo de contenido.",
+      "PageElement": "Elemento de página"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Requerir texto alternativo para imágenes",
+          "RequireAltTextDescription": "Se requiere una descripción de la imagen en el selector de medios. Se aplica a cada imagen seleccionada; los vídeos no se ven afectados."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Color de fondo del indicador",
+        "HoverBackgroundColor": "Color de fondo al pasar el cursor",
+        "Automatic": "Automático"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} me gusta",
+        "Comment": "{0} comentario"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "请输入此图片的替代文本。"
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "将配置的个人资料卡字段写回 Microsoft Entra ID。照片更新需单独启用。",
+          "ConsentInformation": "读取和更新用户允许代表已登录用户编辑个人资料字段。此权限不允许创建或删除用户帐户。",
+          "Title": "从个人资料卡更新 Entra ID 个人资料字段"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "集成",
+          "Description": "将 Omnia 中所做的个人资料照片更改写回 Microsoft Entra ID，包括删除个人资料照片。",
+          "ConsentInformation": "读取和写入所有用户和组的个人资料照片允许 Omnia 代表已登录用户更新用户照片。更新其他用户的照片还需要相应的 Entra 管理员角色。",
+          "Title": "更新 Entra ID 个人资料照片"
+        }
+      }
+    }
+  }
+}

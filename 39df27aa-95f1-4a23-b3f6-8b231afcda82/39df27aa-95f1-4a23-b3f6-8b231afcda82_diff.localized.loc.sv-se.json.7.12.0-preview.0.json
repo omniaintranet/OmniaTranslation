@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "TextStyles": {
+      "ContentStylesTab": "Stilar för innehåll",
+      "PageElementStylesTab": "Stilar för sidelement",
+      "PageElementStylesEnable": "Aktivera",
+      "PageElementStylesDescription": "När de är aktiverade tillämpas dessa inbyggda stilar automatiskt på matchande element på sidor. RTF editor-innehåll, uttryckligen valda innehållsstilar, anpassad blockformatering samt administrations- och redigeringskontroller behåller sina egna stilar. När inaktiverat använder sidans element standardtemats stilar.",
+      "DeleteStyleConfirmation": "Ta bort denna textstil?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Inställningar",
+        "InheritFromTenant": "Ärv från Tenant",
+        "StickyPositioning": "Fast positionering",
+        "StickyPositioningDescription": "Behåll högprioriterade meddelanden i sidhuvudet vid scrollning. Stäng av för att låta meddelanden scrolla med sidan, inklusive långa meddelanden vid ökad zoom.",
+        "SaveSettingsError": "Inställningarna för meddelanden kunde inte sparas. Försök igen.",
+        "SettingsSaved": "Inställningarna för meddelanden sparades.",
+        "SettingsReadOnly": "Du behöver administratörsbehörighet för detta område för att ändra meddelandeinställningar."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script och CSS",
+          "Category": "Arbetsyta",
+          "Description": "Konfigurera versionshanterat JavaScript och CSS för varje verksamhetsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Funktionen låter dig hantera skript och CSS för denna verksamhetsprofil separat från footern. När funktionen är aktiverad hittar du den i Omnia admin under Verksamhetsprofil > Arbetsyta > Script och CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Snabbåtkomst"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Skapa personlig länk"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Visa avgränsare mellan objekt",
+        "ItemPadding": "Utfyllnad runt objekt"
+      }
+    },
+    "Properties": {
+      "Source": "Källa"
+    },
+    "ScriptAndCss": {
+      "Title": "Script och CSS",
+      "Description": "Lägg till JavaScript och CSS för denna verksamhetsprofil. Sparade ändringar tillämpas vid nästa sidladdning eller navigering. Töm och spara för att ta bort det innehållet.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Spara",
+      "Saved": "Sparad.",
+      "History": "Versionshistorik",
+      "CloseHistory": "Stäng versionshistorik",
+      "ViewCurrent": "Redigera utkast",
+      "View": "Visa",
+      "Active": "Aktiv",
+      "SavedAt": "Sparad",
+      "ChangedBy": "Ändrad av",
+      "NoHistory": "Inga sparade versioner ännu.",
+      "ViewingVersion": "Visar en historisk version.",
+      "ViewingCurrentVersion": "Visar den aktiva versionen.",
+      "Restore": "Återställ",
+      "RestoreTitle": "Återställ denna version?",
+      "RestoreMessage": "Detta skapar en ny aktiv version från denna JavaScript och CSS. Eventuella ändringar i editorn som inte sparats kommer att ersättas.",
+      "Cancel": "Avbryt",
+      "LoadError": "Kunde inte ladda inställningarna för Script och CSS.",
+      "SaveError": "Kunde inte spara ändringar. Dina redigeringar har behållits.",
+      "HistoryError": "Kunde inte ladda versionshistoriken.",
+      "RestoreError": "Kunde inte återställa denna version.",
+      "Retry": "Försök igen",
+      "ReloadSettings": "Ladda om inställningar",
+      "ReloadTitle": "Ladda om de senaste inställningarna?",
+      "ReloadMessage": "En annan administratör har sparat en nyare version. Om du laddar om ersätts de ändringar du inte har sparat med den senaste sparade JavaScript och CSS.",
+      "Disabled": "Script och CSS är inte aktiverat för denna tenant.",
+      "SyncPending": "SharePoint-synkronisering väntar. Den sparade versionen är ännu inte tillgänglig på SharePoint.",
+      "SyncFailed": "SharePoint-synkronisering misslyckades. Den sparade versionen är inte bekräftad som tillgänglig på SharePoint.",
+      "SyncCompleted": "SharePoint-synkronisering slutförd.",
+      "RefreshStatus": "Uppdatera status"
+    }
+  }
+}

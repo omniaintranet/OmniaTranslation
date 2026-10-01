@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "TextStyles": {
+      "ContentStylesTab": "Indholdsformater",
+      "PageElementStylesTab": "Sideelementformater",
+      "PageElementStylesEnable": "Aktivér",
+      "PageElementStylesDescription": "Når aktiveret, anvendes disse indbyggede formater automatisk på matchende sideelementer. Rich text editor-indhold, eksplicit valgte indholdsformater, brugerdefineret blokformatering samt administration og editor-kontroller beholder deres egne formater. Når deaktiveret, bruger sideelementer standard temaformater.",
+      "DeleteStyleConfirmation": "Slet denne brugerdefinerede tekstformatering?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Indstillinger",
+        "InheritFromTenant": "Arv fra tenant",
+        "StickyPositioning": "Fast positionering",
+        "StickyPositioningDescription": "Bevar højprioriterede annoncer i headeren under rulning. Slå fra for at lade annoncer rulle med siden, inklusive lange annoncer ved øget zoom.",
+        "SaveSettingsError": "Annonceindstillingerne kunne ikke gemmes. Prøv igen.",
+        "SettingsSaved": "Annonceindstillinger gemt.",
+        "SettingsReadOnly": "Du skal have administratorrettigheder for dette område for at ændre annonceindstillinger."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script og CSS",
+          "Category": "Workspace",
+          "Description": "Konfigurer versioneret JavaScript og CSS for hver forretningsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Funktionen Script og CSS lader dig administrere scripts og CSS for denne forretningsprofil separat fra footeren. Når funktionen er aktiveret, findes den i Omnia Admin under Business Profile > Workspace > Script and CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Hurtig adgang"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Opret personligt link"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Vis elementseparatorer",
+        "ItemPadding": "Elementpolstring"
+      }
+    },
+    "Properties": {
+      "Source": "Kilde"
+    },
+    "ScriptAndCss": {
+      "Title": "Script og CSS",
+      "Description": "Tilføj JavaScript og CSS for denne forretningsprofil. Gemte ændringer træder i kraft ved næste sideindlæsning eller navigation. Ryd en editor og gem for at fjerne det indhold.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Gem",
+      "Saved": "Gemt.",
+      "History": "Versionshistorik",
+      "CloseHistory": "Luk versionshistorik",
+      "ViewCurrent": "Rediger udkast",
+      "View": "Vis",
+      "Active": "Aktiv",
+      "SavedAt": "Gemt",
+      "ChangedBy": "Ændret af",
+      "NoHistory": "Ingen gemte versioner endnu.",
+      "ViewingVersion": "Viser en historisk version.",
+      "ViewingCurrentVersion": "Viser den aktive version.",
+      "Restore": "Gendan",
+      "RestoreTitle": "Gendan denne version?",
+      "RestoreMessage": "Dette opretter en ny aktiv version ud fra det valgte JavaScript og CSS. Eventuelle ikke-gemte ændringer i editoren vil blive erstattet.",
+      "Cancel": "Annuller",
+      "LoadError": "Kunne ikke indlæse Script og CSS-indstillinger.",
+      "SaveError": "Kunne ikke gemme ændringer. Dine redigeringer er bevaret.",
+      "HistoryError": "Kunne ikke indlæse versionshistorik.",
+      "RestoreError": "Kunne ikke gendanne denne version.",
+      "Retry": "Prøv igen",
+      "ReloadSettings": "Genindlæs indstillinger",
+      "ReloadTitle": "Genindlæs de seneste indstillinger?",
+      "ReloadMessage": "En anden administrator har gemt en nyere version. Genindlæsning erstatter dine ikke-gemte redigeringer med den senest gemte JavaScript og CSS.",
+      "Disabled": "Script og CSS er ikke aktiveret for denne tenant.",
+      "SyncPending": "SharePoint-synkronisering afventer. Den gemte version er muligvis ikke tilgængelig på SharePoint endnu.",
+      "SyncFailed": "SharePoint-synkronisering mislykkedes. Den gemte version er ikke bekræftet som tilgængelig på SharePoint.",
+      "SyncCompleted": "SharePoint-synkronisering fuldført.",
+      "RefreshStatus": "Opdater status"
+    }
+  }
+}

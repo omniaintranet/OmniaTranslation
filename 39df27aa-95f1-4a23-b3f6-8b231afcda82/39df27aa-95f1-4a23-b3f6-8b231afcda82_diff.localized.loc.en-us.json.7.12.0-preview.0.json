@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "TextStyles": {
+      "ContentStylesTab": "Content styles",
+      "PageElementStylesTab": "Page element styles",
+      "PageElementStylesEnable": "Enable",
+      "PageElementStylesDescription": "When enabled, these built-in styles apply automatically to matching page elements. Rich text editor content, explicitly selected content styles, custom block formatting, and administration and editor controls keep their own styles. When disabled, page elements use the standard theme styles.",
+      "DeleteStyleConfirmation": "Delete this custom text style?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Settings",
+        "InheritFromTenant": "Inherit from tenant",
+        "StickyPositioning": "Sticky positioning",
+        "StickyPositioningDescription": "Keep high priority announcements in the header while scrolling. Turn off to let announcements scroll with the page, including long announcements at increased zoom.",
+        "SaveSettingsError": "The announcement settings could not be saved. Please try again.",
+        "SettingsSaved": "Announcement settings saved.",
+        "SettingsReadOnly": "You need administrator permissions for this scope to change announcement settings."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script and CSS",
+          "Category": "Workspace",
+          "Description": "Configure versioned JavaScript and CSS for each business profile."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "The Script and CSS feature lets you manage scripts and CSS for this business profile separately from the footer. When the feature is activated, find it in Omnia Admin under Business Profile > Workspace > Script and CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Quick access"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Create personal link"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Show item separators",
+        "ItemPadding": "Item padding"
+      }
+    },
+    "Properties": {
+      "Source": "Source"
+    },
+    "ScriptAndCss": {
+      "Title": "Script and CSS",
+      "Description": "Add JavaScript and CSS for this business profile. Saved changes apply on the next page load or navigation. Clear an editor and save to remove that content.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Save",
+      "Saved": "Saved.",
+      "History": "Version history",
+      "CloseHistory": "Close version history",
+      "ViewCurrent": "Edit Draft",
+      "View": "View",
+      "Active": "Active",
+      "SavedAt": "Saved",
+      "ChangedBy": "Changed by",
+      "NoHistory": "No saved versions yet.",
+      "ViewingVersion": "Viewing a historical version.",
+      "ViewingCurrentVersion": "Viewing the active version.",
+      "Restore": "Restore",
+      "RestoreTitle": "Restore this version?",
+      "RestoreMessage": "This creates a new active version from the selected JavaScript and CSS. Any unsaved changes in the editor will be replaced.",
+      "Cancel": "Cancel",
+      "LoadError": "Could not load Script and CSS settings.",
+      "SaveError": "Could not save changes. Your edits have been kept.",
+      "HistoryError": "Could not load version history.",
+      "RestoreError": "Could not restore this version.",
+      "Retry": "Retry",
+      "ReloadSettings": "Reload settings",
+      "ReloadTitle": "Reload the latest settings?",
+      "ReloadMessage": "Another administrator has saved a newer version. Reloading replaces your unsaved edits with the latest saved JavaScript and CSS.",
+      "Disabled": "Script and CSS is not enabled for this tenant.",
+      "SyncPending": "SharePoint synchronization is pending. The saved version may not be available on SharePoint yet.",
+      "SyncFailed": "SharePoint synchronization failed. The saved version is not confirmed as available on SharePoint.",
+      "SyncCompleted": "SharePoint synchronization completed.",
+      "RefreshStatus": "Refresh status"
+    }
+  }
+}

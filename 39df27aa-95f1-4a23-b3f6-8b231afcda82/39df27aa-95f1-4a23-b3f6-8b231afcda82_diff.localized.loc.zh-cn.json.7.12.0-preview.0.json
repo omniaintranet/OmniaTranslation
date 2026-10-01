@@ -1,0 +1,90 @@
+{
+  "OTAD": {
+    "TextStyles": {
+      "ContentStylesTab": "内容样式",
+      "PageElementStylesTab": "页面元素样式",
+      "PageElementStylesEnable": "启用",
+      "PageElementStylesDescription": "启用后，这些内置样式会自动应用于匹配的页面元素。富文本编辑器内容、明确选择的内容样式、自定义块格式以及管理和编辑控件将保留各自的样式。禁用时，页面元素将使用标准主题样式。",
+      "DeleteStyleConfirmation": "删除此自定义文本样式？"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "设置",
+        "InheritFromTenant": "继承自租户",
+        "StickyPositioning": "固定定位",
+        "StickyPositioningDescription": "在滚动时将高优先级公告保持在页眉。关闭后，公告将随页面滚动，包括放大时的长公告。",
+        "SaveSettingsError": "公告设置保存失败。请重试。",
+        "SettingsSaved": "公告设置已保存。",
+        "SettingsReadOnly": "您需要此范围的管理员权限才能更改公告设置。"
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "脚本和 CSS",
+          "Category": "工作区",
+          "Description": "为每个业务配置文件配置版本化的 JavaScript 和 CSS。"
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "脚本和 CSS 功能允许您为此业务配置文件单独管理脚本和 CSS，独立于页脚。启用该功能后，可在 Omnia 管理中心的业务配置文件 > 工作区 > 脚本和 CSS 中找到。"
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "快速访问"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "创建个人链接"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "显示项目分隔符",
+        "ItemPadding": "项目内边距"
+      }
+    },
+    "Properties": {
+      "Source": "来源"
+    },
+    "ScriptAndCss": {
+      "Title": "脚本和 CSS",
+      "Description": "为此业务配置文件添加 JavaScript 和 CSS。保存的更改将在下一次页面加载或导航时生效。清空编辑器并保存以移除该内容。",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "保存",
+      "Saved": "已保存。",
+      "History": "版本历史",
+      "CloseHistory": "关闭版本历史",
+      "ViewCurrent": "编辑草稿",
+      "View": "查看",
+      "Active": "激活",
+      "SavedAt": "保存于",
+      "ChangedBy": "修改者",
+      "NoHistory": "尚无已保存版本。",
+      "ViewingVersion": "正在查看历史版本。",
+      "ViewingCurrentVersion": "正在查看激活版本。",
+      "Restore": "还原",
+      "RestoreTitle": "还原此版本？",
+      "RestoreMessage": "这将从所选的 JavaScript 和 CSS 创建一个新的激活版本。编辑器中任何未保存的更改将被替换。",
+      "Cancel": "取消",
+      "LoadError": "无法加载脚本和 CSS 设置。",
+      "SaveError": "无法保存更改。您的编辑已被保留。",
+      "HistoryError": "无法加载版本历史。",
+      "RestoreError": "无法还原此版本。",
+      "Retry": "重试",
+      "ReloadSettings": "重新加载设置",
+      "ReloadTitle": "重新加载最新设置？",
+      "ReloadMessage": "另一位管理员已保存了更新版本。重新加载将用最新保存的 JavaScript 和 CSS 替换您未保存的编辑内容。",
+      "Disabled": "此租户未启用脚本和 CSS 功能。",
+      "SyncPending": "SharePoint 同步待处理。保存的版本可能尚未在 SharePoint 上可用。",
+      "SyncFailed": "SharePoint 同步失败。保存的版本未确认在 SharePoint 上可用。",
+      "SyncCompleted": "SharePoint 同步完成。",
+      "RefreshStatus": "刷新状态"
+    }
+  }
+}
