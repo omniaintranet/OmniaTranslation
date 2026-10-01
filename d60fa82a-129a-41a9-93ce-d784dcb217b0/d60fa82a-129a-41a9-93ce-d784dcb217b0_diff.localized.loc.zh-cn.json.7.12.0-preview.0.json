@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "包含页面集合节点",
+      "Settings": {
+        "IndicatorBackgroundColor": "当前节点背景颜色",
+        "HoverBackgroundColor": "悬停背景颜色",
+        "Automatic": "自动"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "遵循页面样式",
+      "FollowPageStylesDescription": "使用所选页面元素的样式。关闭后可选择内容样式。",
+      "PageElement": "页面元素"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "图片必须填写替代文本",
+          "RequireAltTextDescription": "媒体选择器中必须填写图片描述。适用于所有选中的图片；视频不受影响。"
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "指示器背景颜色",
+        "HoverBackgroundColor": "悬停背景颜色",
+        "Automatic": "自动"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} 赞",
+        "Comment": "{0} 评论"
+      }
+    }
+  }
+}
