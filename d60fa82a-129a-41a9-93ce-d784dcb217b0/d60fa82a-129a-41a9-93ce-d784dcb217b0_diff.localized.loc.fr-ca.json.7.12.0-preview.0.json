@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inclure le nœud de la collection de pages",
+      "Settings": {
+        "IndicatorBackgroundColor": "Couleur d’arrière-plan du nœud actuel",
+        "HoverBackgroundColor": "Couleur d’arrière-plan au survol",
+        "Automatic": "Automatique"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Suivre les styles de la page",
+      "FollowPageStylesDescription": "Utiliser le style de l’élément de page sélectionné. Désactivez pour sélectionner un style de contenu.",
+      "PageElement": "Élément de page"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Exiger un texte alternatif pour les images",
+          "RequireAltTextDescription": "Une description de l’image dans le sélecteur de médias est requise. S’applique à chaque image sélectionnée; les vidéos ne sont pas affectées."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Couleur d’arrière-plan de l’indicateur",
+        "HoverBackgroundColor": "Couleur d’arrière-plan au survol",
+        "Automatic": "Automatique"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} J’aime",
+        "Comment": "{0} commentaire"
+      }
+    }
+  }
+}
