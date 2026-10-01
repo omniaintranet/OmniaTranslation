@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inkluder sidekollektionsnode",
+      "Settings": {
+        "IndicatorBackgroundColor": "Nuværende nodes baggrundsfarve",
+        "HoverBackgroundColor": "Baggrundsfarve ved hover",
+        "Automatic": "Automatisk"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Følg sidestilarter",
+      "FollowPageStylesDescription": "Brug den valgte sideelements stil. Slå fra for at vælge en indholds-stil.",
+      "PageElement": "Sideelement"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Krav om alternativ tekst til billeder",
+          "RequireAltTextDescription": "En billedbeskrivelse i medievælgeren er påkrævet. Gælder for hvert valgt billede; videoer påvirkes ikke."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indikator baggrundsfarve",
+        "HoverBackgroundColor": "Baggrundsfarve ved hover",
+        "Automatic": "Automatisk"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} synes godt om",
+        "Comment": "{0} kommentar"
+      }
+    }
+  }
+}
