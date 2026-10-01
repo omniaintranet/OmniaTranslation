@@ -1,7 +1,7 @@
 {
   "WCM": {
     "Breadcrumb": {
-      "IncludePageCollectionNode": "Inkludera nod för sidkollektion",
+      "IncludePageCollectionNode": "Inkludera nod för sidsamling",
       "Settings": {
         "IndicatorBackgroundColor": "Bakgrundsfärg för aktuell nod",
         "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
@@ -10,7 +10,7 @@
     },
     "ContentBlock": {
       "FollowPageStyles": "Följ sidans stilar",
-      "FollowPageStylesDescription": "Använd den valda sidans elements stil. Stäng av för att välja en innehållsstil.",
+      "FollowPageStylesDescription": "Använd den valda sidans stil för sidelement. Stäng av för att välja en innehållsstil.",
       "PageElement": "Sidelement"
     },
     "Media": {
