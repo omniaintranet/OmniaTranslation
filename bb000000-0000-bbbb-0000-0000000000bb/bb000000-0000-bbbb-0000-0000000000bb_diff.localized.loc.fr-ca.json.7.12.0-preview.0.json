@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Entrez un texte alternatif pour cette image."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Écrire les champs configurés de la carte de profil dans Microsoft Entra ID. Les mises à jour de photo sont activées séparément.",
+          "ConsentInformation": "Lire et mettre à jour les utilisateurs permet de modifier les champs du profil au nom de l'utilisateur connecté. Cela ne donne pas la permission de créer ou supprimer des comptes utilisateur.",
+          "Title": "Mettre à jour les champs de profil Entra ID à partir de la carte de profil"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Intégration",
+          "Description": "Écrire les modifications de photo de profil effectuées dans Omnia dans Microsoft Entra ID, y compris la suppression d'une photo de profil.",
+          "ConsentInformation": "Lire et écrire toutes les photos de profil des utilisateurs et des groupes permet à Omnia de mettre à jour les photos des utilisateurs au nom de l'utilisateur connecté. La mise à jour de la photo d'un autre utilisateur nécessite également un rôle d'administrateur Entra approprié.",
+          "Title": "Mettre à jour les photos de profil Entra ID"
+        }
+      }
+    }
+  }
+}
