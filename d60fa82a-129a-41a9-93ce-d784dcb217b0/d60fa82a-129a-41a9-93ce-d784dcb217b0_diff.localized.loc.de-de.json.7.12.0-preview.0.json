@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Seitenkollektionsknoten einbeziehen",
+      "Settings": {
+        "IndicatorBackgroundColor": "Hintergrundfarbe des aktuellen Knotens",
+        "HoverBackgroundColor": "Hover-Hintergrundfarbe",
+        "Automatic": "Automatisch"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Seitendesigns folgen",
+      "FollowPageStylesDescription": "Verwenden Sie den Stil des ausgewählten Seitenelements. Deaktivieren, um einen Inhaltsstil auszuwählen.",
+      "PageElement": "Seitenelement"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Alternativtext für Bilder erforderlich",
+          "RequireAltTextDescription": "Eine Bildbeschreibung im Medienauswahlfenster ist erforderlich. Gilt für jedes ausgewählte Bild; Videos sind nicht betroffen."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indikator-Hintergrundfarbe",
+        "HoverBackgroundColor": "Hover-Hintergrundfarbe",
+        "Automatic": "Automatisch"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} Gefällt mir",
+        "Comment": "{0} Kommentar"
+      }
+    }
+  }
+}
