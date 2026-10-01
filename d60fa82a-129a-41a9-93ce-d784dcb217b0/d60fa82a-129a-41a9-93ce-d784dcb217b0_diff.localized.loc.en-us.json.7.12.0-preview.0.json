@@ -1,7 +1,7 @@
 {
   "WCM": {
     "Breadcrumb": {
-      "IncludePageCollectionNode": "Include Page Collection node",
+      "IncludePageCollectionNode": "Include page collection node",
       "Settings": {
         "IndicatorBackgroundColor": "Current node background color",
         "HoverBackgroundColor": "Hover background color",
@@ -17,7 +17,7 @@
       "Media": {
         "Settings": {
           "RequireAltText": "Require alternative text for images",
-          "RequireAltTextDescription": "Require an image description before confirming the media picker. Applies to every selected image; videos are unaffected."
+          "RequireAltTextDescription": "An image description in the media picker is required. Applies to every selected image; videos are unaffected."
         }
       }
     },
