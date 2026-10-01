@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Anna vaihtoehtoinen teksti tälle kuvalle."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Kirjoita määritetyt profiilikortin kentät takaisin Microsoft Entra ID:hen. Valokuvapäivitykset otetaan käyttöön erikseen.",
+          "ConsentInformation": "Lukeminen ja käyttäjien päivittäminen sallii profiilikenttien muokkaamisen kirjautuneen käyttäjän puolesta. Se ei anna lupaa käyttäjätilien luomiseen tai poistamiseen.",
+          "Title": "Päivitä Entra ID:n profiilikentät profiilikortista"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Integraatio",
+          "Description": "Kirjoita Omniaan tehdyt profiilikuvan muutokset takaisin Microsoft Entra ID:hen, mukaan lukien profiilikuvan poisto.",
+          "ConsentInformation": "Lukeminen ja kirjoittaminen kaikkien käyttäjien ja ryhmien profiilikuviin sallii Omnialle käyttäjäkuvien päivittämisen kirjautuneen käyttäjän puolesta. Toisen käyttäjän kuvan päivittäminen vaatii myös sopivan Entra-järjestelmänvalvojan roolin.",
+          "Title": "Päivitä Entra ID:n profiilikuvat"
+        }
+      }
+    }
+  }
+}
