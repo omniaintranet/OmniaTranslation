@@ -1,0 +1,40 @@
+{
+  "WCM": {
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Pagina collectie knooppunt opnemen",
+      "Settings": {
+        "IndicatorBackgroundColor": "Achtergrondkleur huidige knooppunt",
+        "HoverBackgroundColor": "Achtergrondkleur bij hover",
+        "Automatic": "Automatisch"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Volg paginastijlen",
+      "FollowPageStylesDescription": "Gebruik de stijl van het geselecteerde paginatypelement. Uitschakelen om een inhoudsstijl te selecteren.",
+      "PageElement": "Paginatypelement"
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Alternatieve tekst voor afbeeldingen verplichten",
+          "RequireAltTextDescription": "Een afbeeldingsbeschrijving in de Media picker is verplicht. Geldt voor elke geselecteerde afbeelding; video's worden niet beïnvloed."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Achtergrondkleur indicator",
+        "HoverBackgroundColor": "Achtergrondkleur bij hover",
+        "Automatic": "Automatisch"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} like",
+        "Comment": "{0} reactie"
+      }
+    }
+  }
+}
