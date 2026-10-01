@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Enter alternative text for this image."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Write configured profile card fields back to Microsoft Entra ID. Photo updates are enabled separately.",
+          "ConsentInformation": "Read and update users allows editing profile fields on behalf of the signed-in user. It does not grant permission to create or delete user accounts.",
+          "Title": "Update Entra ID profile fields from profile card"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Integration",
+          "Description": "Write profile photo changes made in Omnia back to Microsoft Entra ID, including removal of a profile photo.",
+          "ConsentInformation": "Read and write all user and group profile photos allows Omnia to update user photos on behalf of the signed-in user. Updating another user's photo also requires an appropriate Entra administrator role.",
+          "Title": "Update Entra ID profile photos"
+        }
+      }
+    }
+  }
+}
