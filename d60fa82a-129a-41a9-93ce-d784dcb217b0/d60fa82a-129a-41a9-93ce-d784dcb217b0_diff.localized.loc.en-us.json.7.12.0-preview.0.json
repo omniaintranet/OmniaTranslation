@@ -17,7 +17,7 @@
       }
     },
     "Breadcrumb": {
-      "IncludePageCollectionNode": "Include Page Collection node",
+      "IncludePageCollectionNode": "Include page collection node",
       "Settings": {
         "IndicatorBackgroundColor": "Current node background color",
         "HoverBackgroundColor": "Hover background color",
@@ -33,7 +33,7 @@
       "Block": {
         "Settings": {
           "EnableMachineTranslation": "Enable machine translation",
-          "EnableMachineTranslationHint": "Shows a translate button in the text toolbar on variation pages, so authors can machine translate text blocks."
+          "EnableMachineTranslationHint": "Displays a translate button in the text toolbar on variation pages, so authors can machine translate text blocks."
         }
       }
     },
@@ -41,7 +41,7 @@
       "Media": {
         "Settings": {
           "RequireAltText": "Require alternative text for images",
-          "RequireAltTextDescription": "Require an image description before confirming the media picker. Applies to every selected image; videos are unaffected."
+          "RequireAltTextDescription": "Image descriptions are required in the media picker. Applies to every selected image; videos are unaffected."
         }
       }
     },
