@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "In wachtrij – wacht tot de volledige semantische zoekherindexering is voltooid ({0})…",
+        "QueueWaitingFullReindexStopping": "In wachtrij – wacht tot de beëindigde volledige semantische zoekherindexering is gestopt ({0})…",
+        "QueueWaitingTenant": "In wachtrij – wacht tot de tenant herindexering is voltooid ({0})…",
+        "QueueWaitingPublishingApp": "In wachtrij – wacht tot een publishing app herindexering is voltooid ({0})…",
+        "QueueWaitingStopping": "In wachtrij – wacht tot een andere herindexering is gestopt ({0})…",
+        "QueueJobAhead": "1 taak voor",
+        "QueueJobsAhead": "{0} taken voor"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Alle pagina's"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Pagina collectie node opnemen",
+      "Settings": {
+        "IndicatorBackgroundColor": "Achtergrondkleur huidige node",
+        "HoverBackgroundColor": "Achtergrondkleur bij hover",
+        "Automatic": "Automatisch"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Volg paginastijlen",
+      "FollowPageStylesDescription": "Gebruik de stijl van het geselecteerde paginatypelement. Uitschakelen om een inhoudsstijl te selecteren.",
+      "PageElement": "Paginatypelement"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Machinevertaling inschakelen",
+          "EnableMachineTranslationHint": "Toont een vertaalknop in de tekstwerkbalk op variatiepagina's, zodat auteurs tekstblokken kunnen machinevertalen."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Alternatieve tekst voor afbeeldingen verplichten",
+          "RequireAltTextDescription": "Afbeeldingsbeschrijvingen zijn verplicht in de Media picker. Geldt voor elke geselecteerde afbeelding; video's worden niet beïnvloed."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Achtergrondkleur indicator",
+        "HoverBackgroundColor": "Achtergrondkleur bij hover",
+        "Automatic": "Automatisch"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} like",
+        "Comment": "{0} comment"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "In wachtrij – wacht tot de volledige semantische zoekherindexering is voltooid ({0})…",
+          "QueueWaitingFullReindexStopping": "In wachtrij – wacht tot de beëindigde volledige semantische zoekherindexering is gestopt ({0})…",
+          "QueueWaitingTenant": "In wachtrij – wacht tot de tenant herindexering is voltooid ({0})…",
+          "QueueWaitingPublishingApp": "In wachtrij – wacht tot een andere publishing app herindexering is voltooid ({0})…",
+          "QueueWaitingStopping": "In wachtrij – wacht tot een andere herindexering is gestopt ({0})…",
+          "QueueJobAhead": "1 taak voor",
+          "QueueJobsAhead": "{0} taken voor"
+        }
+      }
+    }
+  }
+}
