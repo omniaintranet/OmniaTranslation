@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Det oppstod en feil under lasting av søkbare egenskaper for semantisk søk."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Avslutt",
+          "TerminateConfirmTitle": "Avslutt full reindeksering",
+          "TerminateConfirmMessage": "Er du sikker på at du vil avslutte den pågående fullstendige reindekseringen? Sider og dokumenter som ikke er behandlet ennå stoppes, og semantisk søk kan gi ufullstendige resultater inntil en ny full reindeksering er fullført.",
+          "TerminateError": "Kunne ikke avslutte fullstendig reindeksering."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Innholdsstiler",
+      "PageElementStylesTab": "Stiler for sideelementer",
+      "PageElementStylesEnable": "Aktiver",
+      "PageElementStylesDescription": "Når aktivert, brukes disse innebygde stilene automatisk på samsvarende sideelementer. Innhold i rik tekstredigerer, eksplisitt valgte innholdsstiler, egendefinert blokkformatering og administrasjons- og redigeringskontroller beholder sine egne stiler. Når deaktivert, bruker sideelementer standard temastiler.",
+      "DeleteStyleConfirmation": "Slette denne egendefinerte tekststilen?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Innstillinger",
+        "InheritFromTenant": "Arv fra tenant",
+        "StickyPositioning": "Sticky posisjonering",
+        "StickyPositioningDescription": "Hold viktige kunngjøringer i overskriften mens du blar. Slå av for å la kunngjøringer rulle med siden, inkludert lange kunngjøringer ved økt zoom.",
+        "SaveSettingsError": "Kunne ikke lagre kunngjøringsinnstillingene. Vennligst prøv igjen.",
+        "SettingsSaved": "Kunngjøringsinnstillinger lagret.",
+        "SettingsReadOnly": "Du trenger administratorrettigheter for dette området for å endre kunngjøringsinnstillinger."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script og CSS",
+          "Category": "Arbeidsområde",
+          "Description": "Konfigurer versjonsstyrt JavaScript og CSS for hver forretningsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Funksjonen Script og CSS lar deg administrere skript og CSS for denne forretningsprofilen separat fra bunnteksten. Når funksjonen er aktivert, finner du den i Omnia Admin under Forretningsprofil > Arbeidsområde > Script og CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Hurtigtilgang"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Opprett personlig lenke"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Vis elementseparatorer",
+        "ItemPadding": "Elementpolstring"
+      }
+    },
+    "Properties": {
+      "Source": "Kilde"
+    },
+    "ScriptAndCss": {
+      "Title": "Script og CSS",
+      "Description": "Legg til JavaScript og CSS for denne forretningsprofilen. Lagrede endringer trer i kraft ved neste sideinnlasting eller navigering. For å fjerne innhold, tøm i redigeringsprogrammet og lagre.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Lagre",
+      "Saved": "Lagret.",
+      "History": "Versjonshistorikk",
+      "CloseHistory": "Lukk versjonshistorikk",
+      "ViewCurrent": "Rediger utkast",
+      "View": "Vis",
+      "Active": "Aktiv",
+      "SavedAt": "Lagret",
+      "ChangedBy": "Endret av",
+      "NoHistory": "Ingen lagrede versjoner ennå.",
+      "ViewingVersion": "Viser en tidligere versjon.",
+      "ViewingCurrentVersion": "Viser den aktive versjonen.",
+      "Restore": "Gjenopprett",
+      "RestoreTitle": "Gjenopprett denne versjonen?",
+      "RestoreMessage": "Dette oppretter en ny aktiv versjon fra den valgte JavaScript og CSS. Eventuelle ikke-lagrede endringer i redigeringsprogrammet vil bli erstattet.",
+      "Cancel": "Avbryt",
+      "LoadError": "Kunne ikke laste innstillinger for Script og CSS.",
+      "SaveError": "Kunne ikke lagre endringer. Dine redigeringer er beholdt.",
+      "HistoryError": "Kunne ikke laste versjonshistorikk.",
+      "RestoreError": "Kunne ikke gjenopprette denne versjonen.",
+      "Retry": "Prøv igjen",
+      "ReloadSettings": "Last inn innstillinger på nytt",
+      "ReloadTitle": "Last inn de nyeste innstillingene på nytt?",
+      "ReloadMessage": "En annen administrator har lagret en nyere versjon. Innlasting erstatter dine ikke-lagrede endringer med den nyeste lagrede JavaScript og CSS.",
+      "Disabled": "Script og CSS er ikke aktivert for denne tenant.",
+      "SyncPending": "SharePoint-synkronisering venter. Den lagrede versjonen kan ennå ikke være tilgjengelig på SharePoint.",
+      "SyncFailed": "SharePoint-synkronisering mislyktes. Den lagrede versjonen er ikke bekreftet som tilgjengelig på SharePoint.",
+      "SyncCompleted": "SharePoint-synkronisering fullført.",
+      "RefreshStatus": "Oppdater status"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Det oppstod en feil under lasting av søkbare egenskaper for semantisk søk. Eksisterende filtre kan vises feil."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Svaret kunne ikke lastes eller tok for lang tid. Vennligst prøv igjen."
+      }
+    }
+  }
+}
