@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Der opstod en fejl under indlæsning af de forespørgselsbare egenskaber for semantisk søgning."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Afslut",
+          "TerminateConfirmTitle": "Afslut fuld reindeksering",
+          "TerminateConfirmMessage": "Er du sikker på, at du vil afslutte den kørende fulde reindeksering? Sider og dokumenter, der endnu ikke er behandlet, stoppes, og semantisk søgning kan returnere ufuldstændige resultater, indtil en ny fuld reindeksering er fuldført.",
+          "TerminateError": "Kunne ikke afslutte den fulde reindeksering."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Indholdsstilarter",
+      "PageElementStylesTab": "Sideelementstilarter",
+      "PageElementStylesEnable": "Aktivér",
+      "PageElementStylesDescription": "Når aktiveret, anvendes disse indbyggede stilarter automatisk på matchende sideelementer. Rich text editor-indhold, eksplicit valgte indholdsstilarter, brugerdefineret blokformatering samt administrations- og redaktørkontroller beholder deres egne stilarter. Når deaktiveret, bruger sideelementer standard tema-stilarter.",
+      "DeleteStyleConfirmation": "Slet denne brugerdefinerede tekststil?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Indstillinger",
+        "InheritFromTenant": "Arv fra tenant",
+        "StickyPositioning": "Fast positionering",
+        "StickyPositioningDescription": "Bevar højprioriterede meddelelser i headeren under rulning. Slå fra for at lade meddelelser rulle med siden, inklusive lange meddelelser ved øget zoom.",
+        "SaveSettingsError": "Meddelelsesindstillingerne kunne ikke gemmes. Prøv igen.",
+        "SettingsSaved": "Meddelelsesindstillinger gemt.",
+        "SettingsReadOnly": "Du skal have administratorrettigheder for dette område for at ændre meddelelsesindstillinger."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script og CSS",
+          "Category": "Workspace",
+          "Description": "Konfigurer versionsstyret JavaScript og CSS for hver forretningsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Funktionen Script og CSS lader dig administrere scripts og CSS for denne forretningsprofil separat fra footeren. Når funktionen er aktiveret, findes den i Omnia Admin under Business Profile > Workspace > Script and CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Hurtig adgang"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Opret personlig link"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Vis elementseparatorer",
+        "ItemPadding": "Elementpolstring"
+      }
+    },
+    "Properties": {
+      "Source": "Kilde"
+    },
+    "ScriptAndCss": {
+      "Title": "Script og CSS",
+      "Description": "Tilføj JavaScript og CSS for denne forretningsprofil. Gemte ændringer træder i kraft ved næste sideindlæsning eller navigation. For at fjerne indhold, ryd i editoren og gem.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Gem",
+      "Saved": "Gemt.",
+      "History": "Versionshistorik",
+      "CloseHistory": "Luk versionshistorik",
+      "ViewCurrent": "Rediger udkast",
+      "View": "Vis",
+      "Active": "Aktiv",
+      "SavedAt": "Gemt",
+      "ChangedBy": "Ændret af",
+      "NoHistory": "Ingen gemte versioner endnu.",
+      "ViewingVersion": "Viser en tidligere version.",
+      "ViewingCurrentVersion": "Viser den aktive version.",
+      "Restore": "Gendan",
+      "RestoreTitle": "Gendan denne version?",
+      "RestoreMessage": "Dette opretter en ny aktiv version ud fra det valgte JavaScript og CSS. Eventuelle ikke-gemte ændringer i editoren vil blive erstattet.",
+      "Cancel": "Annuller",
+      "LoadError": "Kunne ikke indlæse Script og CSS-indstillinger.",
+      "SaveError": "Kunne ikke gemme ændringer. Dine redigeringer er bevaret.",
+      "HistoryError": "Kunne ikke indlæse versionshistorik.",
+      "RestoreError": "Kunne ikke gendanne denne version.",
+      "Retry": "Prøv igen",
+      "ReloadSettings": "Genindlæs indstillinger",
+      "ReloadTitle": "Genindlæs de seneste indstillinger?",
+      "ReloadMessage": "En anden administrator har gemt en nyere version. Genindlæsning erstatter dine ikke-gemte redigeringer med den senest gemte JavaScript og CSS.",
+      "Disabled": "Script og CSS er ikke aktiveret for denne tenant.",
+      "SyncPending": "SharePoint-synkronisering afventer. Den gemte version er muligvis ikke tilgængelig på SharePoint endnu.",
+      "SyncFailed": "SharePoint-synkronisering mislykkedes. Den gemte version er ikke bekræftet som tilgængelig på SharePoint.",
+      "SyncCompleted": "SharePoint-synkronisering fuldført.",
+      "RefreshStatus": "Opdater status"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Der opstod en fejl under indlæsning af de forespørgselsbare egenskaber for semantisk søgning. Eksisterende filtre vises muligvis ikke korrekt."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Svaret kunne ikke indlæses eller tog for lang tid. Prøv igen."
+      }
+    }
+  }
+}
