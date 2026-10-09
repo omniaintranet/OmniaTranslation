@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Une erreur s'est produite lors du chargement des propriétés interrogeables de la recherche sémantique."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Terminer",
+          "TerminateConfirmTitle": "Terminer le réindexage complet",
+          "TerminateConfirmMessage": "Êtes-vous sûr de vouloir terminer le réindexage complet en cours ? Les pages et documents non encore traités seront arrêtés, et la recherche sémantique pourrait retourner des résultats incomplets jusqu'à ce qu'un nouveau réindexage complet soit terminé.",
+          "TerminateError": "Impossible de terminer le réindexage complet."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Styles de contenu",
+      "PageElementStylesTab": "Styles des éléments de page",
+      "PageElementStylesEnable": "Activer",
+      "PageElementStylesDescription": "Lorsqu'activés, ces styles intégrés s'appliquent automatiquement aux éléments de page correspondants. Le contenu de l'éditeur de texte enrichi, les styles de contenu sélectionnés explicitement, le formatage personnalisé des blocs, ainsi que les contrôles d'administration et d'édition conservent leurs propres styles. Lorsqu'ils sont désactivés, les éléments de page utilisent les styles standard du thème.",
+      "DeleteStyleConfirmation": "Supprimer ce style de texte personnalisé ?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Paramètres",
+        "InheritFromTenant": "Hériter du tenant",
+        "StickyPositioning": "Positionnement fixe",
+        "StickyPositioningDescription": "Maintenez les annonces à haute priorité dans l'en-tête lors du défilement. Désactivez pour permettre aux annonces de défiler avec la page, y compris les annonces longues avec un zoom augmenté.",
+        "SaveSettingsError": "Les paramètres des annonces n'ont pas pu être enregistrés. Veuillez réessayer.",
+        "SettingsSaved": "Paramètres des annonces enregistrés.",
+        "SettingsReadOnly": "Vous devez avoir les permissions d'administrateur pour cette portée afin de modifier les paramètres des annonces."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script et CSS",
+          "Category": "Espace de travail",
+          "Description": "Configurez JavaScript et CSS versionnés pour chaque profil d'entreprise."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "La fonctionnalité Script et CSS vous permet de gérer les scripts et CSS pour ce profil d'entreprise séparément du pied de page. Lorsque la fonctionnalité est activée, vous la trouverez dans Omnia Admin sous Profil d'entreprise > Espace de travail > Script et CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Accès rapide"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Créer un lien personnel"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Afficher les séparateurs d'éléments",
+        "ItemPadding": "Marge intérieure des éléments"
+      }
+    },
+    "Properties": {
+      "Source": "Source"
+    },
+    "ScriptAndCss": {
+      "Title": "Script et CSS",
+      "Description": "Ajoutez JavaScript et CSS pour ce profil d'entreprise. Les modifications enregistrées s'appliquent au prochain chargement ou navigation de page. Pour supprimer le contenu, effacez-le dans l'éditeur et enregistrez.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Enregistrer",
+      "Saved": "Enregistré.",
+      "History": "Historique des versions",
+      "CloseHistory": "Fermer l'historique des versions",
+      "ViewCurrent": "Modifier le brouillon",
+      "View": "Afficher",
+      "Active": "Actif",
+      "SavedAt": "Enregistré",
+      "ChangedBy": "Modifié par",
+      "NoHistory": "Aucune version enregistrée pour le moment.",
+      "ViewingVersion": "Visualisation d'une version antérieure.",
+      "ViewingCurrentVersion": "Visualisation de la version active.",
+      "Restore": "Restaurer",
+      "RestoreTitle": "Restaurer cette version ?",
+      "RestoreMessage": "Cela crée une nouvelle version active à partir du JavaScript et CSS sélectionnés. Toutes les modifications non enregistrées dans l'éditeur seront remplacées.",
+      "Cancel": "Annuler",
+      "LoadError": "Impossible de charger les paramètres Script et CSS.",
+      "SaveError": "Impossible d'enregistrer les modifications. Vos modifications ont été conservées.",
+      "HistoryError": "Impossible de charger l'historique des versions.",
+      "RestoreError": "Impossible de restaurer cette version.",
+      "Retry": "Réessayer",
+      "ReloadSettings": "Recharger les paramètres",
+      "ReloadTitle": "Recharger les derniers paramètres ?",
+      "ReloadMessage": "Un autre administrateur a enregistré une version plus récente. Le rechargement remplacera vos modifications non enregistrées par le dernier JavaScript et CSS enregistrés.",
+      "Disabled": "Script et CSS n'est pas activé pour ce tenant.",
+      "SyncPending": "La synchronisation SharePoint est en attente. La version enregistrée peut ne pas être encore disponible sur SharePoint.",
+      "SyncFailed": "La synchronisation SharePoint a échoué. La version enregistrée n'est pas confirmée comme disponible sur SharePoint.",
+      "SyncCompleted": "Synchronisation SharePoint terminée.",
+      "RefreshStatus": "Actualiser le statut"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Une erreur s'est produite lors du chargement des propriétés interrogeables de la recherche sémantique. Les filtres existants peuvent ne pas s'afficher correctement."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "La réponse n'a pas pu être chargée ou a pris trop de temps. Veuillez réessayer."
+      }
+    }
+  }
+}
