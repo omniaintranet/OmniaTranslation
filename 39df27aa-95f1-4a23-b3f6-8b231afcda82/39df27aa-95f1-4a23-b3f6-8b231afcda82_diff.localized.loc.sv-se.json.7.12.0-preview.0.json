@@ -3,7 +3,7 @@
     "SemanticSearch": {
       "QueryableProperties": {
         "SemanticSearch": {
-          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av de semantiska sökbara egenskaperna."
+          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av egenskaperna för semantisk sökning."
         }
       }
     },
@@ -18,10 +18,10 @@
       }
     },
     "TextStyles": {
-      "ContentStylesTab": "Innehållsstilar",
-      "PageElementStylesTab": "Sidans elementstilar",
+      "ContentStylesTab": "Stilar för innehåll",
+      "PageElementStylesTab": "Stilar för sidelement",
       "PageElementStylesEnable": "Aktivera",
-      "PageElementStylesDescription": "När aktiverat tillämpas dessa inbyggda stilar automatiskt på matchande sidans element. Innehåll i rik textredigerare, uttryckligen valda innehållsstilar, anpassad blockformatering samt administrations- och redigeringskontroller behåller sina egna stilar. När det är inaktiverat använder sidans element standardtemats stilar.",
+      "PageElementStylesDescription": "När de är aktiverade tillämpas dessa inbyggda stilar automatiskt på matchande sidelement. Innehåll i RTF editor, uttryckligen valda innehållsstilar, anpassad blockformatering samt administrations- och redigeringskontroller behåller sina egna stilar. När det är inaktiverat använder sidans element standardtemats stilar.",
       "DeleteStyleConfirmation": "Ta bort denna anpassade textstil?"
     }
   },
@@ -41,14 +41,14 @@
       "Features": {
         "ScriptAndCss": {
           "Title": "Script och CSS",
-          "Category": "Workspace",
-          "Description": "Konfigurera versionshanterad JavaScript och CSS för varje affärsprofil."
+          "Category": "Arbetsyta",
+          "Description": "Konfigurera versionshanterad JavaScript och CSS för varje verksamhetsprofil."
         }
       }
     },
     "Footer": {
       "Settings": {
-        "ScriptAndCssNotice": "Funktionen Script och CSS låter dig hantera skript och CSS för denna affärsprofil separat från sidfoten. När funktionen är aktiverad hittar du den i Omnia Admin under Business Profile > Workspace > Script and CSS."
+        "ScriptAndCssNotice": "Funktionen Script och CSS låter dig hantera dem för denna verksamhetsprofil separat från sidfoten. När funktionen är aktiverad hittar du den i Omnia admin under Verksamhetsprofil > Arbetsyta > Script och CSS."
       }
     },
     "Header": {
@@ -70,7 +70,7 @@
     },
     "ScriptAndCss": {
       "Title": "Script och CSS",
-      "Description": "Lägg till JavaScript och CSS för denna affärsprofil. Sparade ändringar tillämpas vid nästa sidladdning eller navigering. För att ta bort innehåll, rensa i redigeraren och spara.",
+      "Description": "Lägg till JavaScript och CSS för denna verksamhetsprofil. Sparade ändringar tillämpas vid nästa sidladdning eller navigering. För att ta bort innehåll, rensa i redigeraren och spara.",
       "JavaScript": "JavaScript",
       "Css": "CSS",
       "Save": "Spara",
@@ -98,15 +98,15 @@
       "ReloadTitle": "Ladda om de senaste inställningarna?",
       "ReloadMessage": "En annan administratör har sparat en nyare version. Om du laddar om ersätts dina osparade ändringar med den senaste sparade JavaScript och CSS.",
       "Disabled": "Script och CSS är inte aktiverat för denna tenant.",
-      "SyncPending": "SharePoint-synkronisering väntar. Den sparade versionen kan ännu inte vara tillgänglig på SharePoint.",
-      "SyncFailed": "SharePoint-synkronisering misslyckades. Den sparade versionen är inte bekräftad som tillgänglig på SharePoint.",
+      "SyncPending": "SharePoint-synkronisering väntar. Den sparade versionen är inte tillgänglig för SharePoint.",
+      "SyncFailed": "SharePoint-synkronisering misslyckades. Den sparade versionen är inte bekräftad som tillgänglig för SharePoint.",
       "SyncCompleted": "SharePoint-synkronisering slutförd.",
       "RefreshStatus": "Uppdatera status"
     },
     "Search": {
       "Admin": {
         "SemanticSearch": {
-          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av de semantiska sökbara egenskaperna. Befintliga filter kanske inte visas korrekt."
+          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av egenskaperna för semantisk sökning. Befintliga filter visas eventuellt inte korrekt."
         }
       },
       "SemanticSearch": {
