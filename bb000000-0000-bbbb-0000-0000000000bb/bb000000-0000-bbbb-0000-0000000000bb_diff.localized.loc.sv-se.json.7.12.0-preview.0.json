@@ -2,7 +2,7 @@
   "Omnia": {
     "Ux": {
       "ImageTransformer": {
-        "ImageAltRequired": "Ange alternativ text för denna bild."
+        "ImageAltRequired": "Ange alternativ-text för denna bild."
       },
       "Features": {
         "MicrosoftGraphUserProfile": {
@@ -12,8 +12,8 @@
         },
         "MicrosoftGraphUserPhoto": {
           "Category": "Integration",
-          "Description": "Skriv tillbaka ändringar av profilfoto gjorda i Omnia till Microsoft Entra ID, inklusive borttagning av ett profilfoto.",
-          "ConsentInformation": "Läsa och skriva alla användar- och gruppprofilfoton tillåter Omnia att uppdatera användarfoton för den inloggade användarens räkning. Att uppdatera en annan användares foto kräver även en lämplig Entra-administratörsroll.",
+          "Description": "Skriv tillbaka ändringar av profilfoto gjorda i Omnia till Microsoft Entra ID, inklusive borttagning av profilfoto.",
+          "ConsentInformation": "Läsa och skriva alla användar- och grupp-profilfoton tillåter Omnia att uppdatera användarfoton för den inloggade användarens räkning. Att uppdatera en annan användares foto kräver även en lämplig Entra-administratörsroll.",
           "Title": "Uppdatera Entra ID-profilfoton"
         }
       }
