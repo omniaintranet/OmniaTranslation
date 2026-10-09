@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "排队中 – 等待语义搜索完整重新索引完成（{0}）…",
+        "QueueWaitingFullReindexStopping": "排队中 – 等待终止的语义搜索完整重新索引停止（{0}）…",
+        "QueueWaitingTenant": "排队中 – 等待租户重新索引完成（{0}）…",
+        "QueueWaitingPublishingApp": "排队中 – 等待发布应用重新索引完成（{0}）…",
+        "QueueWaitingStopping": "排队中 – 等待另一个重新索引停止（{0}）…",
+        "QueueJobAhead": "前面有1个任务",
+        "QueueJobsAhead": "前面有{0}个任务"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "所有页面"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "包含页面集合节点",
+      "Settings": {
+        "IndicatorBackgroundColor": "当前节点背景色",
+        "HoverBackgroundColor": "悬停背景色",
+        "Automatic": "自动"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "遵循页面样式",
+      "FollowPageStylesDescription": "使用所选页面元素的样式。关闭后可选择内容样式。",
+      "PageElement": "页面元素"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "启用机器翻译",
+          "EnableMachineTranslationHint": "在变体页面的文本工具栏中显示翻译按钮，便于作者对文本块进行机器翻译。"
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "图片必须填写替代文本",
+          "RequireAltTextDescription": "媒体选择器中必须填写图片描述。适用于所有选中的图片；视频不受影响。"
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "指示器背景色",
+        "HoverBackgroundColor": "悬停背景色",
+        "Automatic": "自动"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} 个赞",
+        "Comment": "{0} 条评论"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "排队中 – 等待语义搜索完整重新索引完成（{0}）…",
+          "QueueWaitingFullReindexStopping": "排队中 – 等待终止的语义搜索完整重新索引停止（{0}）…",
+          "QueueWaitingTenant": "排队中 – 等待租户重新索引完成（{0}）…",
+          "QueueWaitingPublishingApp": "排队中 – 等待另一个发布应用重新索引完成（{0}）…",
+          "QueueWaitingStopping": "排队中 – 等待另一个重新索引停止（{0}）…",
+          "QueueJobAhead": "前面有1个任务",
+          "QueueJobsAhead": "前面有{0}个任务"
+        }
+      }
+    }
+  }
+}
