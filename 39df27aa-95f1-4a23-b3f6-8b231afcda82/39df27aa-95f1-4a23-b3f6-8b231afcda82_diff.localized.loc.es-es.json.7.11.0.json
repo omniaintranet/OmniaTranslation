@@ -1,0 +1,9 @@
+{
+  "OmniaWorkplace": {
+    "SignOffRequest": {
+      "Button": {
+        "LoadingResourceDetails": "Cargando detalles del recurso..."
+      }
+    }
+  }
+}
