@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Se ha producido un error al cargar las propiedades consultables de la búsqueda semántica."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Terminar",
+          "TerminateConfirmTitle": "Terminar reindexación completa",
+          "TerminateConfirmMessage": "¿Está seguro de que desea terminar la reindexación completa en curso? Las páginas y documentos que aún no se hayan procesado se detendrán, y la búsqueda semántica puede devolver resultados incompletos hasta que se complete una nueva reindexación completa.",
+          "TerminateError": "No se pudo terminar la reindexación completa."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Estilos de contenido",
+      "PageElementStylesTab": "Estilos de elementos de página",
+      "PageElementStylesEnable": "Habilitar",
+      "PageElementStylesDescription": "Cuando está habilitado, estos estilos integrados se aplican automáticamente a los elementos de página coincidentes. El contenido del editor de texto enriquecido, los estilos de contenido seleccionados explícitamente, el formato personalizado de bloques y los controles de administración y editor mantienen sus propios estilos. Cuando está deshabilitado, los elementos de página usan los estilos estándar del tema.",
+      "DeleteStyleConfirmation": "¿Eliminar este estilo de texto personalizado?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Configuración",
+        "InheritFromTenant": "Heredar del tenant",
+        "StickyPositioning": "Posicionamiento fijo",
+        "StickyPositioningDescription": "Mantener los anuncios de alta prioridad en el encabezado mientras se desplaza. Desactívelo para permitir que los anuncios se desplacen con la página, incluidos los anuncios largos con zoom aumentado.",
+        "SaveSettingsError": "No se pudieron guardar los ajustes del anuncio. Por favor, inténtelo de nuevo.",
+        "SettingsSaved": "Configuración de anuncios guardada.",
+        "SettingsReadOnly": "Necesita permisos de administrador para este ámbito para cambiar la configuración de anuncios."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script y CSS",
+          "Category": "Espacio de trabajo",
+          "Description": "Configure JavaScript y CSS versionados para cada perfil empresarial."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "La función Script y CSS le permite gestionar scripts y CSS para este perfil empresarial por separado del pie de página. Cuando la función está activada, encuéntrela en Omnia Admin bajo Perfil Empresarial > Espacio de trabajo > Script y CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Acceso rápido"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Crear enlace personal"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Mostrar separadores de elementos",
+        "ItemPadding": "Relleno de elementos"
+      }
+    },
+    "Properties": {
+      "Source": "Origen"
+    },
+    "ScriptAndCss": {
+      "Title": "Script y CSS",
+      "Description": "Agregue JavaScript y CSS para este perfil empresarial. Los cambios guardados se aplican en la siguiente carga o navegación de página. Para eliminar contenido, borre en el editor y guarde.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Guardar",
+      "Saved": "Guardado.",
+      "History": "Historial de versiones",
+      "CloseHistory": "Cerrar historial de versiones",
+      "ViewCurrent": "Editar borrador",
+      "View": "Ver",
+      "Active": "Activo",
+      "SavedAt": "Guardado",
+      "ChangedBy": "Modificado por",
+      "NoHistory": "Aún no hay versiones guardadas.",
+      "ViewingVersion": "Visualizando una versión anterior.",
+      "ViewingCurrentVersion": "Visualizando la versión activa.",
+      "Restore": "Restaurar",
+      "RestoreTitle": "¿Restaurar esta versión?",
+      "RestoreMessage": "Esto crea una nueva versión activa a partir del JavaScript y CSS seleccionados. Cualquier cambio no guardado en el editor será reemplazado.",
+      "Cancel": "Cancelar",
+      "LoadError": "No se pudieron cargar los ajustes de Script y CSS.",
+      "SaveError": "No se pudieron guardar los cambios. Sus ediciones se han conservado.",
+      "HistoryError": "No se pudo cargar el historial de versiones.",
+      "RestoreError": "No se pudo restaurar esta versión.",
+      "Retry": "Reintentar",
+      "ReloadSettings": "Recargar ajustes",
+      "ReloadTitle": "¿Recargar los ajustes más recientes?",
+      "ReloadMessage": "Otro administrador ha guardado una versión más reciente. Recargar reemplaza sus ediciones no guardadas con el JavaScript y CSS guardados más recientes.",
+      "Disabled": "Script y CSS no está habilitado para este tenant.",
+      "SyncPending": "La sincronización con SharePoint está pendiente. La versión guardada puede no estar disponible aún en SharePoint.",
+      "SyncFailed": "La sincronización con SharePoint falló. La versión guardada no está confirmada como disponible en SharePoint.",
+      "SyncCompleted": "Sincronización con SharePoint completada.",
+      "RefreshStatus": "Actualizar estado"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Se ha producido un error al cargar las propiedades consultables de la búsqueda semántica. Los filtros existentes pueden no mostrarse correctamente."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "No se pudo cargar la respuesta o tardó demasiado. Por favor, inténtelo de nuevo."
+      }
+    }
+  }
+}
