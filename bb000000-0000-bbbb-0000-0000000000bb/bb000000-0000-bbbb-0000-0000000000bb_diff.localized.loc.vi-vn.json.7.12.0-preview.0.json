@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Nhập văn bản thay thế cho hình ảnh này."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Ghi các trường thẻ hồ sơ đã cấu hình trở lại Microsoft Entra ID. Cập nhật ảnh được bật riêng biệt.",
+          "ConsentInformation": "Đọc và cập nhật người dùng cho phép chỉnh sửa các trường hồ sơ thay mặt người dùng đã đăng nhập. Nó không cấp quyền tạo hoặc xóa tài khoản người dùng.",
+          "Title": "Cập nhật các trường hồ sơ Entra ID từ thẻ hồ sơ"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Tích hợp",
+          "Description": "Ghi các thay đổi ảnh hồ sơ được thực hiện trong Omnia trở lại Microsoft Entra ID, bao gồm cả việc xóa ảnh hồ sơ.",
+          "ConsentInformation": "Đọc và ghi tất cả ảnh hồ sơ người dùng và nhóm cho phép Omnia cập nhật ảnh người dùng thay mặt người dùng đã đăng nhập. Cập nhật ảnh của người dùng khác cũng yêu cầu vai trò quản trị viên Entra phù hợp.",
+          "Title": "Cập nhật ảnh hồ sơ Entra ID"
+        }
+      }
+    }
+  }
+}
