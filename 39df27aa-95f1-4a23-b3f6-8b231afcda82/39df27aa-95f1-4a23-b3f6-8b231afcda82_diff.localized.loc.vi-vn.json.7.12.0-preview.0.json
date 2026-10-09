@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Đã xảy ra lỗi khi tải các thuộc tính truy vấn tìm kiếm ngữ nghĩa."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Kết thúc",
+          "TerminateConfirmTitle": "Kết thúc việc lập chỉ mục lại toàn bộ",
+          "TerminateConfirmMessage": "Bạn có chắc chắn muốn kết thúc việc lập chỉ mục lại toàn bộ đang chạy không? Các trang và tài liệu chưa được xử lý sẽ bị dừng, và tìm kiếm ngữ nghĩa có thể trả về kết quả không đầy đủ cho đến khi việc lập chỉ mục lại toàn bộ mới hoàn tất.",
+          "TerminateError": "Không thể kết thúc việc lập chỉ mục lại toàn bộ."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Kiểu nội dung",
+      "PageElementStylesTab": "Kiểu phần tử trang",
+      "PageElementStylesEnable": "Bật",
+      "PageElementStylesDescription": "Khi bật, các kiểu tích hợp này sẽ tự động áp dụng cho các phần tử trang phù hợp. Nội dung trình soạn thảo văn bản phong phú, kiểu nội dung được chọn rõ ràng, định dạng khối tùy chỉnh và các điều khiển quản trị và biên tập giữ kiểu riêng của chúng. Khi tắt, các phần tử trang sử dụng kiểu chủ đề tiêu chuẩn.",
+      "DeleteStyleConfirmation": "Xóa kiểu văn bản tùy chỉnh này?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Cài đặt",
+        "InheritFromTenant": "Kế thừa từ tenant",
+        "StickyPositioning": "Định vị cố định",
+        "StickyPositioningDescription": "Giữ các thông báo ưu tiên cao ở phần đầu trong khi cuộn trang. Tắt để cho phép thông báo cuộn cùng trang, bao gồm các thông báo dài khi phóng to.",
+        "SaveSettingsError": "Không thể lưu cài đặt thông báo. Vui lòng thử lại.",
+        "SettingsSaved": "Đã lưu cài đặt thông báo.",
+        "SettingsReadOnly": "Bạn cần quyền quản trị viên trong phạm vi này để thay đổi cài đặt thông báo."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script và CSS",
+          "Category": "Không gian làm việc",
+          "Description": "Cấu hình JavaScript và CSS có phiên bản cho từng hồ sơ doanh nghiệp."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Tính năng Script và CSS cho phép bạn quản lý script và CSS cho hồ sơ doanh nghiệp này riêng biệt với phần chân trang. Khi tính năng được kích hoạt, bạn có thể tìm thấy nó trong Omnia Admin dưới Hồ sơ Doanh nghiệp > Không gian làm việc > Script và CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Truy cập nhanh"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Tạo liên kết cá nhân"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Hiển thị dấu phân cách mục",
+        "ItemPadding": "Đệm mục"
+      }
+    },
+    "Properties": {
+      "Source": "Nguồn"
+    },
+    "ScriptAndCss": {
+      "Title": "Script và CSS",
+      "Description": "Thêm JavaScript và CSS cho hồ sơ doanh nghiệp này. Các thay đổi đã lưu sẽ áp dụng khi tải lại trang hoặc điều hướng tiếp theo. Để xóa nội dung, xóa trong trình chỉnh sửa và lưu.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Lưu",
+      "Saved": "Đã lưu.",
+      "History": "Lịch sử phiên bản",
+      "CloseHistory": "Đóng lịch sử phiên bản",
+      "ViewCurrent": "Chỉnh sửa bản nháp",
+      "View": "Xem",
+      "Active": "Đang hoạt động",
+      "SavedAt": "Đã lưu lúc",
+      "ChangedBy": "Thay đổi bởi",
+      "NoHistory": "Chưa có phiên bản đã lưu nào.",
+      "ViewingVersion": "Đang xem phiên bản trước.",
+      "ViewingCurrentVersion": "Đang xem phiên bản đang hoạt động.",
+      "Restore": "Khôi phục",
+      "RestoreTitle": "Khôi phục phiên bản này?",
+      "RestoreMessage": "Điều này sẽ tạo một phiên bản hoạt động mới từ JavaScript và CSS đã chọn. Bất kỳ thay đổi chưa lưu nào trong trình chỉnh sửa sẽ bị thay thế.",
+      "Cancel": "Hủy",
+      "LoadError": "Không thể tải cài đặt Script và CSS.",
+      "SaveError": "Không thể lưu thay đổi. Các chỉnh sửa của bạn đã được giữ lại.",
+      "HistoryError": "Không thể tải lịch sử phiên bản.",
+      "RestoreError": "Không thể khôi phục phiên bản này.",
+      "Retry": "Thử lại",
+      "ReloadSettings": "Tải lại cài đặt",
+      "ReloadTitle": "Tải lại cài đặt mới nhất?",
+      "ReloadMessage": "Một quản trị viên khác đã lưu phiên bản mới hơn. Việc tải lại sẽ thay thế các chỉnh sửa chưa lưu của bạn bằng JavaScript và CSS đã lưu mới nhất.",
+      "Disabled": "Script và CSS chưa được bật cho tenant này.",
+      "SyncPending": "Đang chờ đồng bộ SharePoint. Phiên bản đã lưu có thể chưa có trên SharePoint.",
+      "SyncFailed": "Đồng bộ SharePoint thất bại. Phiên bản đã lưu chưa được xác nhận có trên SharePoint.",
+      "SyncCompleted": "Đồng bộ SharePoint hoàn tất.",
+      "RefreshStatus": "Làm mới trạng thái"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Đã xảy ra lỗi khi tải các thuộc tính truy vấn tìm kiếm ngữ nghĩa. Các bộ lọc hiện có có thể không hiển thị đúng."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Không thể tải câu trả lời hoặc mất quá nhiều thời gian. Vui lòng thử lại."
+      }
+    }
+  }
+}

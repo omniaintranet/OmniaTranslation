@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av egenskaperna för semantisk sökning."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Avsluta",
+          "TerminateConfirmTitle": "Avsluta fullständig omindexering",
+          "TerminateConfirmMessage": "Är du säker på att du vill avsluta den pågående fullständiga omindexeringen? Sidor och dokument som ännu inte har bearbetats stoppas, och semantisk sökning kan ge ofullständiga resultat tills en ny fullständig omindexering är klar.",
+          "TerminateError": "Kunde inte avsluta den fullständiga omindexeringen."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Stilar för innehåll",
+      "PageElementStylesTab": "Stilar för sidelement",
+      "PageElementStylesEnable": "Aktivera",
+      "PageElementStylesDescription": "När de är aktiverade tillämpas dessa inbyggda stilar automatiskt på matchande sidelement. Innehåll i RTF editor, uttryckligen valda innehållsstilar, anpassad blockformatering samt administrations- och redigeringskontroller behåller sina egna stilar. När det är inaktiverat använder sidans element standardtemats stilar.",
+      "DeleteStyleConfirmation": "Ta bort denna anpassade textstil?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Inställningar",
+        "InheritFromTenant": "Ärv från Tenant",
+        "StickyPositioning": "Fast positionering",
+        "StickyPositioningDescription": "Behåll högprioriterade meddelanden i sidhuvudet vid scrollning. Stäng av för att låta meddelanden scrolla med sidan, inklusive långa meddelanden vid ökad zoom.",
+        "SaveSettingsError": "Inställningarna för meddelanden kunde inte sparas. Försök igen.",
+        "SettingsSaved": "Inställningarna för meddelanden sparades.",
+        "SettingsReadOnly": "Du behöver administratörsbehörighet för detta område för att ändra meddelandeinställningar."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script och CSS",
+          "Category": "Arbetsyta",
+          "Description": "Konfigurera versionshanterad JavaScript och CSS för varje verksamhetsprofil."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Funktionen Script och CSS låter dig hantera dem för denna verksamhetsprofil separat från sidfoten. När funktionen är aktiverad hittar du den i Omnia admin under Verksamhetsprofil > Arbetsyta > Script och CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Snabbåtkomst"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Skapa personlig länk"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Visa avgränsare mellan objekt",
+        "ItemPadding": "Avstånd runt objekt"
+      }
+    },
+    "Properties": {
+      "Source": "Källa"
+    },
+    "ScriptAndCss": {
+      "Title": "Script och CSS",
+      "Description": "Lägg till JavaScript och CSS för denna verksamhetsprofil. Sparade ändringar tillämpas vid nästa sidladdning eller navigering. För att ta bort innehåll, rensa i redigeraren och spara.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Spara",
+      "Saved": "Sparad.",
+      "History": "Versionshistorik",
+      "CloseHistory": "Stäng versionshistorik",
+      "ViewCurrent": "Redigera utkast",
+      "View": "Visa",
+      "Active": "Aktiv",
+      "SavedAt": "Sparad",
+      "ChangedBy": "Ändrad av",
+      "NoHistory": "Inga sparade versioner ännu.",
+      "ViewingVersion": "Visar en tidigare version.",
+      "ViewingCurrentVersion": "Visar den aktiva versionen.",
+      "Restore": "Återställ",
+      "RestoreTitle": "Återställ denna version?",
+      "RestoreMessage": "Detta skapar en ny aktiv version från den valda JavaScript och CSS. Eventuella osparade ändringar i redigeraren kommer att ersättas.",
+      "Cancel": "Avbryt",
+      "LoadError": "Kunde inte ladda inställningarna för Script och CSS.",
+      "SaveError": "Kunde inte spara ändringarna. Dina redigeringar har behållits.",
+      "HistoryError": "Kunde inte ladda versionshistoriken.",
+      "RestoreError": "Kunde inte återställa denna version.",
+      "Retry": "Försök igen",
+      "ReloadSettings": "Ladda om inställningar",
+      "ReloadTitle": "Ladda om de senaste inställningarna?",
+      "ReloadMessage": "En annan administratör har sparat en nyare version. Om du laddar om ersätts dina osparade ändringar med den senaste sparade JavaScript och CSS.",
+      "Disabled": "Script och CSS är inte aktiverat för denna tenant.",
+      "SyncPending": "SharePoint-synkronisering väntar. Den sparade versionen är inte tillgänglig för SharePoint.",
+      "SyncFailed": "SharePoint-synkronisering misslyckades. Den sparade versionen är inte bekräftad som tillgänglig för SharePoint.",
+      "SyncCompleted": "SharePoint-synkronisering slutförd.",
+      "RefreshStatus": "Uppdatera status"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Ett fel uppstod vid inläsning av egenskaperna för semantisk sökning. Befintliga filter visas eventuellt inte korrekt."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Svaret kunde inte laddas eller tog för lång tid. Försök igen."
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga indexeringen för semantisk sökning ska slutföras ({0})…",
+        "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade fullständiga indexeringen för semantisk sökning ska stoppas ({0})…",
+        "QueueWaitingTenant": "I kö – väntar på att Tenant-indexeringen ska slutföras ({0})…",
+        "QueueWaitingPublishingApp": "I kö – väntar på att en publiceringsapp-indexering ska slutföras ({0})…",
+        "QueueWaitingStopping": "I kö – väntar på att en annan indexering ska stoppas ({0})…",
+        "QueueJobAhead": "1 jobb före",
+        "QueueJobsAhead": "{0} jobb före"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Alla sidor"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inkludera nod för sidsamling",
+      "Settings": {
+        "IndicatorBackgroundColor": "Bakgrundsfärg för aktuell nod",
+        "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
+        "Automatic": "Automatisk"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Följ sidans stilar",
+      "FollowPageStylesDescription": "Använd den valda sidans elementstil. Stäng av för att välja en innehållsstil.",
+      "PageElement": "Sidelement"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Aktivera maskinöversättning",
+          "EnableMachineTranslationHint": "Visar en översättningsknapp i textverktygsfältet på variationssidor, så att författare kan maskinöversätta textblock."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Kräv alternativ text för bilder",
+          "RequireAltTextDescription": "Bildbeskrivningar krävs i mediaväljaren. Gäller för varje vald bild; videor påverkas inte."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Bakgrundsfärg för indikator",
+        "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
+        "Automatic": "Automatisk"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} gillar",
+        "Comment": "{0} kommentar"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga indexeringen för semantisk sökning ska slutföras ({0})…",
+          "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade indexeringen för semantisk sökning ska stoppas ({0})…",
+          "QueueWaitingTenant": "I kö – väntar på att Tenant-indexeringen ska slutföras ({0})…",
+          "QueueWaitingPublishingApp": "I kö – väntar på att en annan publiceringsapps indexering ska slutföras ({0})…",
+          "QueueWaitingStopping": "I kö – väntar på att en annan indexering ska stoppas ({0})…",
+          "QueueJobAhead": "1 jobb före",
+          "QueueJobsAhead": "{0} jobb före"
+        }
+      }
+    }
+  }
+}

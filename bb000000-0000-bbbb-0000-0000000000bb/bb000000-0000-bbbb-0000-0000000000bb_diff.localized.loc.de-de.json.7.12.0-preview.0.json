@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Geben Sie einen alternativen Text für dieses Bild ein."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Schreibt konfigurierte Profilkartenfelder zurück in Microsoft Entra ID. Fotoaktualisierungen sind separat aktiviert.",
+          "ConsentInformation": "Lesen und Aktualisieren von Benutzern ermöglicht das Bearbeiten von Profilfeldern im Namen des angemeldeten Benutzers. Es gewährt keine Berechtigung zum Erstellen oder Löschen von Benutzerkonten.",
+          "Title": "Aktualisieren von Entra ID Profilfeldern aus der Profilkarte"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Integration",
+          "Description": "Schreibt Änderungen am Profilfoto, die in Omnia vorgenommen wurden, zurück in Microsoft Entra ID, einschließlich der Entfernung eines Profilfotos.",
+          "ConsentInformation": "Lesen und Schreiben aller Benutzer- und Gruppenprofilfotos ermöglicht es Omnia, Benutzerfotos im Namen des angemeldeten Benutzers zu aktualisieren. Das Aktualisieren des Fotos eines anderen Benutzers erfordert außerdem eine entsprechende Entra-Administratorrolle.",
+          "Title": "Aktualisieren von Entra ID Profilfotos"
+        }
+      }
+    }
+  }
+}

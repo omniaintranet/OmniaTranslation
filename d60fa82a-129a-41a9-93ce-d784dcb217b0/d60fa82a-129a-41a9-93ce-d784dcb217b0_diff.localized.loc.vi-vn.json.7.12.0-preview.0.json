@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại tìm kiếm ngữ nghĩa toàn bộ ({0})…",
+        "QueueWaitingFullReindexStopping": "Đang xếp hàng – chờ việc dừng lập chỉ mục lại tìm kiếm ngữ nghĩa toàn bộ bị chấm dứt ({0})…",
+        "QueueWaitingTenant": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại tenant ({0})…",
+        "QueueWaitingPublishingApp": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại ứng dụng xuất bản ({0})…",
+        "QueueWaitingStopping": "Đang xếp hàng – chờ việc dừng lập chỉ mục lại khác ({0})…",
+        "QueueJobAhead": "1 công việc phía trước",
+        "QueueJobsAhead": "{0} công việc phía trước"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Tất cả các trang"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Bao gồm nút bộ sưu tập trang",
+      "Settings": {
+        "IndicatorBackgroundColor": "Màu nền nút hiện tại",
+        "HoverBackgroundColor": "Màu nền khi di chuột",
+        "Automatic": "Tự động"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Theo kiểu trang",
+      "FollowPageStylesDescription": "Sử dụng kiểu của phần tử trang đã chọn. Tắt để chọn kiểu nội dung.",
+      "PageElement": "Phần tử trang"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Bật dịch máy",
+          "EnableMachineTranslationHint": "Hiển thị nút dịch trên thanh công cụ văn bản ở các trang biến thể, để tác giả có thể dịch máy các khối văn bản."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Yêu cầu văn bản thay thế cho hình ảnh",
+          "RequireAltTextDescription": "Mô tả hình ảnh là bắt buộc trong bộ chọn phương tiện. Áp dụng cho mọi hình ảnh được chọn; video không bị ảnh hưởng."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Màu nền chỉ báo",
+        "HoverBackgroundColor": "Màu nền khi di chuột",
+        "Automatic": "Tự động"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} lượt thích",
+        "Comment": "{0} bình luận"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại tìm kiếm ngữ nghĩa toàn bộ ({0})…",
+          "QueueWaitingFullReindexStopping": "Đang xếp hàng – chờ việc dừng lập chỉ mục lại tìm kiếm ngữ nghĩa toàn bộ bị chấm dứt ({0})…",
+          "QueueWaitingTenant": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại tenant ({0})…",
+          "QueueWaitingPublishingApp": "Đang xếp hàng – chờ hoàn tất việc lập chỉ mục lại ứng dụng xuất bản khác ({0})…",
+          "QueueWaitingStopping": "Đang xếp hàng – chờ việc dừng lập chỉ mục lại khác ({0})…",
+          "QueueJobAhead": "1 công việc phía trước",
+          "QueueJobsAhead": "{0} công việc phía trước"
+        }
+      }
+    }
+  }
+}

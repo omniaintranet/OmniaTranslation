@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Virhe ladattaessa semanttisen haun kysyttävissä olevia ominaisuuksia."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Keskeytä",
+          "TerminateConfirmTitle": "Keskeytä koko uudelleenindeksointi",
+          "TerminateConfirmMessage": "Haluatko varmasti keskeyttää käynnissä olevan koko uudelleenindeksoinnin? Käsittelemättömät sivut ja asiakirjat pysäytetään, ja semanttinen haku saattaa palauttaa epätäydellisiä tuloksia, kunnes uusi koko uudelleenindeksointi on valmis.",
+          "TerminateError": "Koko uudelleenindeksointia ei voitu keskeyttää."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Sisällön tyylit",
+      "PageElementStylesTab": "Sivuelementtien tyylit",
+      "PageElementStylesEnable": "Ota käyttöön",
+      "PageElementStylesDescription": "Kun käytössä, nämä sisäänrakennetut tyylit soveltuvat automaattisesti vastaaviin sivuelementteihin. Rich text -editorin sisältö, nimenomaisesti valitut sisältötyylit, mukautettu lohkon muotoilu sekä hallinta- ja editoriohjaimet säilyttävät omat tyylinsä. Kun pois käytöstä, sivuelementit käyttävät vakioteematyylejä.",
+      "DeleteStyleConfirmation": "Poistetaanko tämä mukautettu tekstityyli?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Asetukset",
+        "InheritFromTenant": "Peri tenantilta",
+        "StickyPositioning": "Kiinnitetty sijainti",
+        "StickyPositioningDescription": "Pidä korkean prioriteetin ilmoitukset otsikossa vierittäessä. Poista käytöstä, jotta ilmoitukset vierivät sivun mukana, mukaan lukien pitkät ilmoitukset suurennetulla zoomilla.",
+        "SaveSettingsError": "Ilmoitusasetuksia ei voitu tallentaa. Yritä uudelleen.",
+        "SettingsSaved": "Ilmoitusasetukset tallennettu.",
+        "SettingsReadOnly": "Tarvitset järjestelmänvalvojan oikeudet muuttaaksesi ilmoitusasetuksia tässä laajuudessa."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Skripti ja CSS",
+          "Category": "Työtila",
+          "Description": "Määritä versioitu JavaScript ja CSS jokaiselle liiketoimintaprofiilille."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "Skripti ja CSS -toiminnolla voit hallita skriptejä ja CSS:ää tätä liiketoimintaprofiilia varten erikseen alatunnisteesta. Kun toiminto on aktivoitu, löydät sen Omnia Administa kohdasta Liiketoimintaprofiili > Työtila > Skripti ja CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Pikakäyttö"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Luo henkilökohtainen linkki"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Näytä kohteiden erotinmerkit",
+        "ItemPadding": "Kohteen täyte"
+      }
+    },
+    "Properties": {
+      "Source": "Lähde"
+    },
+    "ScriptAndCss": {
+      "Title": "Skripti ja CSS",
+      "Description": "Lisää JavaScript ja CSS tätä liiketoimintaprofiilia varten. Tallennetut muutokset tulevat voimaan seuraavalla sivun latauksella tai navigoinnilla. Poista sisältö tyhjentämällä editori ja tallentamalla.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Tallenna",
+      "Saved": "Tallennettu.",
+      "History": "Versiohistoria",
+      "CloseHistory": "Sulje versiohistoria",
+      "ViewCurrent": "Muokkaa luonnosta",
+      "View": "Näytä",
+      "Active": "Aktiivinen",
+      "SavedAt": "Tallennettu",
+      "ChangedBy": "Muuttanut",
+      "NoHistory": "Tallennettuja versioita ei vielä ole.",
+      "ViewingVersion": "Tarkastelet aiempaa versiota.",
+      "ViewingCurrentVersion": "Tarkastelet aktiivista versiota.",
+      "Restore": "Palauta",
+      "RestoreTitle": "Palautetaanko tämä versio?",
+      "RestoreMessage": "Tämä luo uuden aktiivisen version valitusta JavaScriptistä ja CSS:stä. Kaikki tallentamattomat muutokset editorissa korvataan.",
+      "Cancel": "Peruuta",
+      "LoadError": "Skripti- ja CSS-asetuksia ei voitu ladata.",
+      "SaveError": "Muutoksia ei voitu tallentaa. Muokkauksesi on säilytetty.",
+      "HistoryError": "Versiohistoriaa ei voitu ladata.",
+      "RestoreError": "Tätä versiota ei voitu palauttaa.",
+      "Retry": "Yritä uudelleen",
+      "ReloadSettings": "Lataa asetukset uudelleen",
+      "ReloadTitle": "Ladataanko uusimmat asetukset uudelleen?",
+      "ReloadMessage": "Toinen järjestelmänvalvoja on tallentanut uudemman version. Uudelleenlataus korvaa tallentamattomat muokkauksesi uusimmalla tallennetulla JavaScriptillä ja CSS:llä.",
+      "Disabled": "Skripti ja CSS ei ole käytössä tässä tenantissa.",
+      "SyncPending": "SharePoint-synkronointi on vireillä. Tallennettua versiota ei välttämättä ole vielä saatavilla SharePointissa.",
+      "SyncFailed": "SharePoint-synkronointi epäonnistui. Tallennettua versiota ei ole vahvistettu saatavilla SharePointissa.",
+      "SyncCompleted": "SharePoint-synkronointi on valmis.",
+      "RefreshStatus": "Päivitä tila"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Virhe ladattaessa semanttisen haun kysyttävissä olevia ominaisuuksia. Olemassa olevat suodattimet eivät välttämättä näy oikein."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Vastausta ei voitu ladata tai se kesti liian kauan. Yritä uudelleen."
+      }
+    }
+  }
+}

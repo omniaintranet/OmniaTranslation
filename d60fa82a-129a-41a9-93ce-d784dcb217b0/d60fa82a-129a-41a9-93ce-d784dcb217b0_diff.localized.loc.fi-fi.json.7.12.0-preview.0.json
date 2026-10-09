@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "Jonossa – odotetaan semanttisen haun täyden uudelleenindeksoinnin valmistumista ({0})…",
+        "QueueWaitingFullReindexStopping": "Jonossa – odotetaan päättyneen semanttisen haun täyden uudelleenindeksoinnin pysähtymistä ({0})…",
+        "QueueWaitingTenant": "Jonossa – odotetaan tenantin uudelleenindeksoinnin valmistumista ({0})…",
+        "QueueWaitingPublishingApp": "Jonossa – odotetaan julkaisusovelluksen uudelleenindeksoinnin valmistumista ({0})…",
+        "QueueWaitingStopping": "Jonossa – odotetaan toisen uudelleenindeksoinnin pysähtymistä ({0})…",
+        "QueueJobAhead": "1 tehtävä jonossa edellä",
+        "QueueJobsAhead": "{0} tehtävää jonossa edellä"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Kaikki sivut"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Sisällytä sivukokoelman solmu",
+      "Settings": {
+        "IndicatorBackgroundColor": "Nykyisen solmun taustaväri",
+        "HoverBackgroundColor": "Hover-taustaväri",
+        "Automatic": "Automaattinen"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Noudata sivun tyylejä",
+      "FollowPageStylesDescription": "Käytä valitun sivuelementin tyyliä. Poista käytöstä valitaksesi sisältötyylin.",
+      "PageElement": "Sivuelementti"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Ota konekäännös käyttöön",
+          "EnableMachineTranslationHint": "Näyttää käännöspainikkeen tekstityökalurivillä variaatiosivuilla, jotta tekijät voivat konekääntää tekstilohkoja."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Vaadi vaihtoehtoinen teksti kuville",
+          "RequireAltTextDescription": "Kuvien kuvaukset vaaditaan mediavalitsimessa. Koskee jokaista valittua kuvaa; videot eivät vaikutu."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indikaattorin taustaväri",
+        "HoverBackgroundColor": "Hover-taustaväri",
+        "Automatic": "Automaattinen"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} tykkäys",
+        "Comment": "{0} kommentti"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "Jonossa – odotetaan semanttisen haun täyden uudelleenindeksoinnin valmistumista ({0})…",
+          "QueueWaitingFullReindexStopping": "Jonossa – odotetaan päättyneen semanttisen haun täyden uudelleenindeksoinnin pysähtymistä ({0})…",
+          "QueueWaitingTenant": "Jonossa – odotetaan tenantin uudelleenindeksoinnin valmistumista ({0})…",
+          "QueueWaitingPublishingApp": "Jonossa – odotetaan toisen julkaisusovelluksen uudelleenindeksoinnin valmistumista ({0})…",
+          "QueueWaitingStopping": "Jonossa – odotetaan toisen uudelleenindeksoinnin pysähtymistä ({0})…",
+          "QueueJobAhead": "1 tehtävä jonossa edellä",
+          "QueueJobsAhead": "{0} tehtävää jonossa edellä"
+        }
+      }
+    }
+  }
+}

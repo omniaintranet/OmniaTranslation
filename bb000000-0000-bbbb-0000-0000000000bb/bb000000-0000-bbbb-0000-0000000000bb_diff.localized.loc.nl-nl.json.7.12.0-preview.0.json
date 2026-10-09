@@ -1,0 +1,22 @@
+{
+  "Omnia": {
+    "Ux": {
+      "ImageTransformer": {
+        "ImageAltRequired": "Voer alternatieve tekst in voor deze afbeelding."
+      },
+      "Features": {
+        "MicrosoftGraphUserProfile": {
+          "Description": "Schrijf geconfigureerde profielkaartvelden terug naar Microsoft Entra ID. Foto-updates worden afzonderlijk ingeschakeld.",
+          "ConsentInformation": "Gebruikers lezen en bijwerken maakt het mogelijk om profielvelden te bewerken namens de ingelogde gebruiker. Het verleent geen toestemming om gebruikersaccounts aan te maken of te verwijderen.",
+          "Title": "Werk Entra ID-profielvelden bij vanuit profielkaart"
+        },
+        "MicrosoftGraphUserPhoto": {
+          "Category": "Integratie",
+          "Description": "Schrijf profielfoto-wijzigingen die in Omnia zijn gemaakt terug naar Microsoft Entra ID, inclusief het verwijderen van een profielfoto.",
+          "ConsentInformation": "Lezen en schrijven van alle gebruikers- en groepsprofielfoto's stelt Omnia in staat om gebruikersfoto's bij te werken namens de ingelogde gebruiker. Het bijwerken van de foto van een andere gebruiker vereist ook een passende Entra-beheerdersrol.",
+          "Title": "Werk Entra ID-profielfoto's bij"
+        }
+      }
+    }
+  }
+}

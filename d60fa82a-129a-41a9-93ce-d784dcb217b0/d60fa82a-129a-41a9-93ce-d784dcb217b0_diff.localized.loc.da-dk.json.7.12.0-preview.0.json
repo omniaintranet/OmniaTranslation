@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "I kø – venter på, at den semantiske søgning fuld tilknytning bliver færdig ({0})…",
+        "QueueWaitingFullReindexStopping": "I kø – venter på, at den afsluttede semantiske søgning fuld tilknytning stopper ({0})…",
+        "QueueWaitingTenant": "I kø – venter på, at tenant-tilknytningen bliver færdig ({0})…",
+        "QueueWaitingPublishingApp": "I kø – venter på, at en publishing app-tilknytning bliver færdig ({0})…",
+        "QueueWaitingStopping": "I kø – venter på, at en anden tilknytning stopper ({0})…",
+        "QueueJobAhead": "1 job foran",
+        "QueueJobsAhead": "{0} jobs foran"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Alle sider"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inkluder sidekollektionsnode",
+      "Settings": {
+        "IndicatorBackgroundColor": "Nuværende nodes baggrundsfarve",
+        "HoverBackgroundColor": "Baggrundsfarve ved hover",
+        "Automatic": "Automatisk"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Følg sidestilarter",
+      "FollowPageStylesDescription": "Brug den valgte sideelements stil. Slå fra for at vælge en indholds-stil.",
+      "PageElement": "Sideelement"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Aktivér maskinoversættelse",
+          "EnableMachineTranslationHint": "Viser en oversæt-knap i tekstværktøjslinjen på variationssider, så forfattere kan maskinoversætte tekstblokke."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Krav om alternativ tekst til billeder",
+          "RequireAltTextDescription": "Billedbeskrivelser er påkrævet i medievælgeren. Gælder for hvert valgt billede; videoer påvirkes ikke."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indikatorens baggrundsfarve",
+        "HoverBackgroundColor": "Baggrundsfarve ved hover",
+        "Automatic": "Automatisk"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} synes godt om",
+        "Comment": "{0} kommentar"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "I kø – venter på, at den semantiske søgning fuld tilknytning bliver færdig ({0})…",
+          "QueueWaitingFullReindexStopping": "I kø – venter på, at den afsluttede semantiske søgning fuld tilknytning stopper ({0})…",
+          "QueueWaitingTenant": "I kø – venter på, at tenant-tilknytningen bliver færdig ({0})…",
+          "QueueWaitingPublishingApp": "I kø – venter på, at en anden publishing app's tilknytning bliver færdig ({0})…",
+          "QueueWaitingStopping": "I kø – venter på, at en anden tilknytning stopper ({0})…",
+          "QueueJobAhead": "1 job foran",
+          "QueueJobsAhead": "{0} jobs foran"
+        }
+      }
+    }
+  }
+}

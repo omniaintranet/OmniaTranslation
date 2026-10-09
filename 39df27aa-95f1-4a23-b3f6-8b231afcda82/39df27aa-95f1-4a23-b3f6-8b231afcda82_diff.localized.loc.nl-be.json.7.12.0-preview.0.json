@@ -1,0 +1,117 @@
+{
+  "OTAD": {
+    "SemanticSearch": {
+      "QueryableProperties": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Er is een fout opgetreden bij het laden van de semantische zoekbare eigenschappen."
+        }
+      }
+    },
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "TerminateButton": "Beëindigen",
+          "TerminateConfirmTitle": "Volledige herindexering beëindigen",
+          "TerminateConfirmMessage": "Weet u zeker dat u de lopende volledige herindexering wilt beëindigen? Pagina's en documenten die nog niet verwerkt zijn, worden gestopt en semantisch zoeken kan onvolledige resultaten geven totdat een nieuwe volledige herindexering is voltooid.",
+          "TerminateError": "Kon de volledige herindexering niet beëindigen."
+        }
+      }
+    },
+    "TextStyles": {
+      "ContentStylesTab": "Inhoudsstijlen",
+      "PageElementStylesTab": "Pagina-elementstijlen",
+      "PageElementStylesEnable": "Inschakelen",
+      "PageElementStylesDescription": "Wanneer ingeschakeld, worden deze ingebouwde stijlen automatisch toegepast op overeenkomende pagina-elementen. Inhoud van de rich text editor, expliciet geselecteerde inhoudsstijlen, aangepaste blokopmaak en administratie- en editorbesturingselementen behouden hun eigen stijlen. Wanneer uitgeschakeld, gebruiken pagina-elementen de standaard thema-stijlen.",
+      "DeleteStyleConfirmation": "Deze aangepaste tekststijl verwijderen?"
+    }
+  },
+  "OmniaWorkplace": {
+    "Announcements": {
+      "Admin": {
+        "Settings": "Instellingen",
+        "InheritFromTenant": "Overnemen van tenant",
+        "StickyPositioning": "Plakkerige positionering",
+        "StickyPositioningDescription": "Houd aankondigingen met hoge prioriteit in de header tijdens het scrollen. Uitschakelen om aankondigingen mee te laten scrollen met de pagina, inclusief lange aankondigingen bij verhoogde zoom.",
+        "SaveSettingsError": "De aankondigingsinstellingen konden niet worden opgeslagen. Probeer het opnieuw.",
+        "SettingsSaved": "Aankondigingsinstellingen opgeslagen.",
+        "SettingsReadOnly": "U heeft beheerdersrechten nodig voor deze scope om aankondigingsinstellingen te wijzigen."
+      }
+    },
+    "Core": {
+      "Features": {
+        "ScriptAndCss": {
+          "Title": "Script en CSS",
+          "Category": "Workspace",
+          "Description": "Configureer versiebeheer voor JavaScript en CSS voor elk bedrijfsprofiel."
+        }
+      }
+    },
+    "Footer": {
+      "Settings": {
+        "ScriptAndCssNotice": "De functie Script en CSS laat u scripts en CSS voor dit bedrijfsprofiel apart beheren van de footer. Wanneer de functie is geactiveerd, vindt u deze in Omnia Admin onder Bedrijfsprofiel > Workspace > Script en CSS."
+      }
+    },
+    "Header": {
+      "Labels": {
+        "QuickAccess": "Snelle toegang"
+      }
+    },
+    "LinksManagement": {
+      "MyLinks": {
+        "CreatePersonalLink": "Persoonlijke link aanmaken"
+      },
+      "ComponentSettingsForm": {
+        "ShowItemSeparators": "Toon item-scheidingen",
+        "ItemPadding": "Item opvulling"
+      }
+    },
+    "Properties": {
+      "Source": "Bron"
+    },
+    "ScriptAndCss": {
+      "Title": "Script en CSS",
+      "Description": "Voeg JavaScript en CSS toe voor dit bedrijfsprofiel. Opgeslagen wijzigingen worden toegepast bij de volgende paginalaad of navigatie. Om inhoud te verwijderen, wis in de editor en sla op.",
+      "JavaScript": "JavaScript",
+      "Css": "CSS",
+      "Save": "Opslaan",
+      "Saved": "Opgeslagen.",
+      "History": "Versiegeschiedenis",
+      "CloseHistory": "Sluit versiegeschiedenis",
+      "ViewCurrent": "Concept bewerken",
+      "View": "Bekijken",
+      "Active": "Actief",
+      "SavedAt": "Opgeslagen",
+      "ChangedBy": "Gewijzigd door",
+      "NoHistory": "Nog geen opgeslagen versies.",
+      "ViewingVersion": "Een eerdere versie bekijken.",
+      "ViewingCurrentVersion": "De actieve versie bekijken.",
+      "Restore": "Herstellen",
+      "RestoreTitle": "Deze versie herstellen?",
+      "RestoreMessage": "Dit maakt een nieuwe actieve versie van de geselecteerde JavaScript en CSS. Niet-opgeslagen wijzigingen in de editor worden vervangen.",
+      "Cancel": "Annuleren",
+      "LoadError": "Kon Script en CSS-instellingen niet laden.",
+      "SaveError": "Kon wijzigingen niet opslaan. Uw bewerkingen zijn behouden.",
+      "HistoryError": "Kon versiegeschiedenis niet laden.",
+      "RestoreError": "Kon deze versie niet herstellen.",
+      "Retry": "Opnieuw proberen",
+      "ReloadSettings": "Instellingen opnieuw laden",
+      "ReloadTitle": "De nieuwste instellingen opnieuw laden?",
+      "ReloadMessage": "Een andere beheerder heeft een nieuwere versie opgeslagen. Het opnieuw laden vervangt uw niet-opgeslagen bewerkingen door de laatst opgeslagen JavaScript en CSS.",
+      "Disabled": "Script en CSS is niet ingeschakeld voor deze tenant.",
+      "SyncPending": "SharePoint-synchronisatie is in afwachting. De opgeslagen versie is mogelijk nog niet beschikbaar op SharePoint.",
+      "SyncFailed": "SharePoint-synchronisatie is mislukt. De opgeslagen versie is niet bevestigd als beschikbaar op SharePoint.",
+      "SyncCompleted": "SharePoint-synchronisatie voltooid.",
+      "RefreshStatus": "Status vernieuwen"
+    },
+    "Search": {
+      "Admin": {
+        "SemanticSearch": {
+          "LoadQueryablePropertiesError": "Er is een fout opgetreden bij het laden van de semantische zoekbare eigenschappen. Bestaande filters worden mogelijk niet correct weergegeven."
+        }
+      },
+      "SemanticSearch": {
+        "LoadFailedMessage": "Het antwoord kon niet worden geladen of duurde te lang. Probeer het opnieuw."
+      }
+    }
+  }
+}

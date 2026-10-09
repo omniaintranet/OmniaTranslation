@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "Queued – waiting for the semantic search full reindex to finish ({0})…",
+        "QueueWaitingFullReindexStopping": "Queued – waiting for the terminated semantic search full reindex to stop ({0})…",
+        "QueueWaitingTenant": "Queued – waiting for the tenant reindex to finish ({0})…",
+        "QueueWaitingPublishingApp": "Queued – waiting for a publishing app reindex to finish ({0})…",
+        "QueueWaitingStopping": "Queued – waiting for another reindex to stop ({0})…",
+        "QueueJobAhead": "1 job ahead",
+        "QueueJobsAhead": "{0} jobs ahead"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "All pages"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Include page collection node",
+      "Settings": {
+        "IndicatorBackgroundColor": "Current node background colour",
+        "HoverBackgroundColor": "Hover background colour",
+        "Automatic": "Automatic"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Follow page styles",
+      "FollowPageStylesDescription": "Use the selected page element's style. Turn off to select a content style.",
+      "PageElement": "Page element"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Enable machine translation",
+          "EnableMachineTranslationHint": "Displays a translate button in the text toolbar on variation pages, so authors can machine translate text blocks."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Require alternative text for images",
+          "RequireAltTextDescription": "Image descriptions are required in the media picker. Applies to every selected image; videos are unaffected."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Indicator background colour",
+        "HoverBackgroundColor": "Hover background colour",
+        "Automatic": "Automatic"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} like",
+        "Comment": "{0} comment"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "Queued – waiting for the semantic search full reindex to finish ({0})…",
+          "QueueWaitingFullReindexStopping": "Queued – waiting for the terminated semantic search full reindex to stop ({0})…",
+          "QueueWaitingTenant": "Queued – waiting for the tenant reindex to finish ({0})…",
+          "QueueWaitingPublishingApp": "Queued – waiting for another publishing app's reindex to finish ({0})…",
+          "QueueWaitingStopping": "Queued – waiting for another reindex to stop ({0})…",
+          "QueueJobAhead": "1 job ahead",
+          "QueueJobsAhead": "{0} jobs ahead"
+        }
+      }
+    }
+  }
+}
