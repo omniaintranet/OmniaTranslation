@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "En file d’attente – en attente de la fin du réindex complet de la recherche sémantique ({0})…",
+        "QueueWaitingFullReindexStopping": "En file d’attente – en attente de l’arrêt du réindex complet de la recherche sémantique terminé ({0})…",
+        "QueueWaitingTenant": "En file d’attente – en attente de la fin du réindex du tenant ({0})…",
+        "QueueWaitingPublishingApp": "En file d’attente – en attente de la fin du réindex d’une application de publication ({0})…",
+        "QueueWaitingStopping": "En file d’attente – en attente de l’arrêt d’un autre réindex ({0})…",
+        "QueueJobAhead": "1 tâche en attente",
+        "QueueJobsAhead": "{0} tâches en attente"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Toutes les pages"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Inclure le nœud de la collection de pages",
+      "Settings": {
+        "IndicatorBackgroundColor": "Couleur d’arrière-plan du nœud actuel",
+        "HoverBackgroundColor": "Couleur d’arrière-plan au survol",
+        "Automatic": "Automatique"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Suivre les styles de la page",
+      "FollowPageStylesDescription": "Utiliser le style de l’élément de page sélectionné. Désactivez pour sélectionner un style de contenu.",
+      "PageElement": "Élément de page"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Activer la traduction automatique",
+          "EnableMachineTranslationHint": "Affiche un bouton de traduction dans la barre d’outils de texte sur les pages de variation, permettant aux auteurs de traduire automatiquement les blocs de texte."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Exiger un texte alternatif pour les images",
+          "RequireAltTextDescription": "Les descriptions d’images sont requises dans le sélecteur de médias. S’applique à chaque image sélectionnée; les vidéos ne sont pas affectées."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Couleur d’arrière-plan de l’indicateur",
+        "HoverBackgroundColor": "Couleur d’arrière-plan au survol",
+        "Automatic": "Automatique"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} J’aime",
+        "Comment": "{0} commentaire"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "En file d’attente – en attente de la fin du réindex complet de la recherche sémantique ({0})…",
+          "QueueWaitingFullReindexStopping": "En file d’attente – en attente de l’arrêt du réindex complet de la recherche sémantique terminé ({0})…",
+          "QueueWaitingTenant": "En file d’attente – en attente de la fin du réindex du tenant ({0})…",
+          "QueueWaitingPublishingApp": "En file d’attente – en attente de la fin du réindex d’une autre application de publication ({0})…",
+          "QueueWaitingStopping": "En file d’attente – en attente de l’arrêt d’un autre réindex ({0})…",
+          "QueueJobAhead": "1 tâche en attente",
+          "QueueJobsAhead": "{0} tâches en attente"
+        }
+      }
+    }
+  }
+}
