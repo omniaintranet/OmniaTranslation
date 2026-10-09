@@ -1,0 +1,77 @@
+{
+  "WCM": {
+    "Admin": {
+      "SemanticSearch": {
+        "QueueWaitingFullReindex": "En cola: esperando a que termine la reindexación completa de búsqueda semántica ({0})…",
+        "QueueWaitingFullReindexStopping": "En cola: esperando a que se detenga la reindexación completa de búsqueda semántica terminada ({0})…",
+        "QueueWaitingTenant": "En cola: esperando a que termine la reindexación del tenant ({0})…",
+        "QueueWaitingPublishingApp": "En cola: esperando a que termine la reindexación de la aplicación de publicación ({0})…",
+        "QueueWaitingStopping": "En cola: esperando a que se detenga otra reindexación ({0})…",
+        "QueueJobAhead": "1 trabajo por delante",
+        "QueueJobsAhead": "{0} trabajos por delante"
+      },
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Todas las páginas"
+        }
+      }
+    },
+    "Breadcrumb": {
+      "IncludePageCollectionNode": "Incluir nodo de colección de páginas",
+      "Settings": {
+        "IndicatorBackgroundColor": "Color de fondo del nodo actual",
+        "HoverBackgroundColor": "Color de fondo al pasar el cursor",
+        "Automatic": "Automático"
+      }
+    },
+    "ContentBlock": {
+      "FollowPageStyles": "Seguir estilos de la página",
+      "FollowPageStylesDescription": "Usar el estilo del elemento de página seleccionado. Desactivar para seleccionar un estilo de contenido.",
+      "PageElement": "Elemento de página"
+    },
+    "ContentFlow": {
+      "Block": {
+        "Settings": {
+          "EnableMachineTranslation": "Habilitar traducción automática",
+          "EnableMachineTranslationHint": "Muestra un botón de traducir en la barra de herramientas de texto en páginas de variación, para que los autores puedan traducir bloques de texto automáticamente."
+        }
+      }
+    },
+    "Media": {
+      "Media": {
+        "Settings": {
+          "RequireAltText": "Requerir texto alternativo para imágenes",
+          "RequireAltTextDescription": "Se requieren descripciones de imágenes en el selector de medios. Se aplica a cada imagen seleccionada; los vídeos no se ven afectados."
+        }
+      }
+    },
+    "CurrentNavigation": {
+      "Settings": {
+        "IndicatorBackgroundColor": "Color de fondo del indicador",
+        "HoverBackgroundColor": "Color de fondo al pasar el cursor",
+        "Automatic": "Automático"
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Roller": {
+        "Like": "{0} me gusta",
+        "Comment": "{0} comentario"
+      }
+    },
+    "PublishingApp": {
+      "Settings": {
+        "SemanticSearch": {
+          "QueueWaitingFullReindex": "En cola: esperando a que termine la reindexación completa de búsqueda semántica ({0})…",
+          "QueueWaitingFullReindexStopping": "En cola: esperando a que se detenga la reindexación completa de búsqueda semántica terminada ({0})…",
+          "QueueWaitingTenant": "En cola: esperando a que termine la reindexación del tenant ({0})…",
+          "QueueWaitingPublishingApp": "En cola: esperando a que termine la reindexación de otra aplicación de publicación ({0})…",
+          "QueueWaitingStopping": "En cola: esperando a que se detenga otra reindexación ({0})…",
+          "QueueJobAhead": "1 trabajo por delante",
+          "QueueJobsAhead": "{0} trabajos por delante"
+        }
+      }
+    }
+  }
+}
