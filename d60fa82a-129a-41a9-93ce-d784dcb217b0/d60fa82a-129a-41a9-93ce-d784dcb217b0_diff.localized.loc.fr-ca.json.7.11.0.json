@@ -1,0 +1,11 @@
+{
+  "WCM": {
+    "Admin": {
+      "PageBulkUpdate": {
+        "Log": {
+          "TotalAll": "Toutes les pages"
+        }
+      }
+    }
+  }
+}
