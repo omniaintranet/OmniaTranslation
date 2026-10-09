@@ -2,8 +2,8 @@
   "WCM": {
     "Admin": {
       "SemanticSearch": {
-        "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga semantiska sökindexeringen ska slutföras ({0})…",
-        "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade fullständiga semantiska sökindexeringen ska stoppas ({0})…",
+        "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga indexeringen för semantisk sökning ska slutföras ({0})…",
+        "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade fullständiga indexeringen för semantisk sökning ska stoppas ({0})…",
         "QueueWaitingTenant": "I kö – väntar på att Tenant-indexeringen ska slutföras ({0})…",
         "QueueWaitingPublishingApp": "I kö – väntar på att en publiceringsapp-indexering ska slutföras ({0})…",
         "QueueWaitingStopping": "I kö – väntar på att en annan indexering ska stoppas ({0})…",
@@ -17,7 +17,7 @@
       }
     },
     "Breadcrumb": {
-      "IncludePageCollectionNode": "Inkludera nod för sidkollektion",
+      "IncludePageCollectionNode": "Inkludera nod för sidsamling",
       "Settings": {
         "IndicatorBackgroundColor": "Bakgrundsfärg för aktuell nod",
         "HoverBackgroundColor": "Bakgrundsfärg vid hovring",
@@ -26,7 +26,7 @@
     },
     "ContentBlock": {
       "FollowPageStyles": "Följ sidans stilar",
-      "FollowPageStylesDescription": "Använd den valda sidans elements stil. Stäng av för att välja en innehållsstil.",
+      "FollowPageStylesDescription": "Använd den valda sidans elementstil. Stäng av för att välja en innehållsstil.",
       "PageElement": "Sidelement"
     },
     "ContentFlow": {
@@ -63,8 +63,8 @@
     "PublishingApp": {
       "Settings": {
         "SemanticSearch": {
-          "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga semantiska sökindexeringen ska slutföras ({0})…",
-          "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade fullständiga semantiska sökindexeringen ska stoppas ({0})…",
+          "QueueWaitingFullReindex": "I kö – väntar på att den fullständiga indexeringen för semantisk sökning ska slutföras ({0})…",
+          "QueueWaitingFullReindexStopping": "I kö – väntar på att den avslutade indexeringen för semantisk sökning ska stoppas ({0})…",
           "QueueWaitingTenant": "I kö – väntar på att Tenant-indexeringen ska slutföras ({0})…",
           "QueueWaitingPublishingApp": "I kö – väntar på att en annan publiceringsapps indexering ska slutföras ({0})…",
           "QueueWaitingStopping": "I kö – väntar på att en annan indexering ska stoppas ({0})…",
