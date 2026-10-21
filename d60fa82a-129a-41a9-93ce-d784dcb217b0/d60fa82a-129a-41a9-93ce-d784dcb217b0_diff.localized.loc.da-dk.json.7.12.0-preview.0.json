@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Vis redigering"
+    },
+    "SearchResultSource": {
+      "Relevance": "Relevans"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Deltageraflysning: {{title}}",
+            "Content": "Følgende deltagere har aflyst deres tilmelding til {{eventLink}} den {{eventStartDate}}:",
+            "PlacesBooked": "Pladser reserveret: {{registeredCapacity}} af {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Pladser reserveret: {{registeredCapacity}}",
+            "ViewParticipantList": "Se deltagerliste"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Vis redigering"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Denne side er ikke længere den nyeste version. Genindlæs siden og prøv igen."
+      }
+    }
+  }
+}
