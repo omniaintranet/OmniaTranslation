@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "ValueDefinition": {
+          "DateTime": {
+            "OnlyFutureDates": "Dates futures uniquement",
+            "OnlyFutureDatesTooltip": "Autoriser uniquement les utilisateurs à sélectionner des dates dans le futur"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "EmptyTitle": "Assistant",
+            "EmptyDescription": "Possibilité d'ajouter des étapes séquentielles ou un flux de travail guidé à la page."
+          }
+        }
+      },
+      "FieldValidation": {
+        "PastDateNotAllowed": "La date doit être dans le futur"
+      }
+    }
+  }
+}
