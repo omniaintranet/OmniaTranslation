@@ -12,7 +12,7 @@
       "EventParticipantList": {
         "EmailTemplates": {
           "ParticipantCancellation": {
-            "Subject": "Deltagare avbokning: {{title}}",
+            "Subject": "Deltagares avbokning: {{title}}",
             "Content": "Följande deltagare har avbokat sin registrering för {{eventLink}} den {{eventStartDate}}:",
             "PlacesBooked": "Platser bokade: {{registeredCapacity}} av {{maxParticipants}}",
             "PlacesBookedWithoutLimit": "Platser bokade: {{registeredCapacity}}",
