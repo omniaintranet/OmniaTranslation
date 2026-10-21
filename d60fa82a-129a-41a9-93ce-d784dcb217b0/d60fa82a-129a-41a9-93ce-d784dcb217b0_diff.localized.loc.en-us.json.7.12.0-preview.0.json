@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Show edit"
+    },
+    "SearchResultSource": {
+      "Relevance": "Relevance"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Participant cancellation: {{title}}",
+            "Content": "The following participants have cancelled their registration for {{eventLink}} on {{eventStartDate}}:",
+            "PlacesBooked": "Places booked: {{registeredCapacity}} of {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Places booked: {{registeredCapacity}}",
+            "ViewParticipantList": "View participant list"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Show edit"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "This page is no longer the latest version. Reload the page and try again."
+      }
+    }
+  }
+}
