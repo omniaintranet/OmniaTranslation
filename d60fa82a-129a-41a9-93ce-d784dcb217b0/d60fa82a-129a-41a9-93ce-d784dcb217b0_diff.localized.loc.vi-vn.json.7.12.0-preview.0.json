@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Hiển thị chỉnh sửa"
+    },
+    "SearchResultSource": {
+      "Relevance": "Độ liên quan"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Hủy tham gia: {{title}}",
+            "Content": "Các người tham gia sau đây đã hủy đăng ký cho {{eventLink}} vào ngày {{eventStartDate}}:",
+            "PlacesBooked": "Số chỗ đã đặt: {{registeredCapacity}} trên tổng {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Số chỗ đã đặt: {{registeredCapacity}}",
+            "ViewParticipantList": "Xem danh sách người tham gia"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Hiển thị chỉnh sửa"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Trang này không còn là phiên bản mới nhất. Vui lòng tải lại trang và thử lại."
+      }
+    }
+  }
+}
