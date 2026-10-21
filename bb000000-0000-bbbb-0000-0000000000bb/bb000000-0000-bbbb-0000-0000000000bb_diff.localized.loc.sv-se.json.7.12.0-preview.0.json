@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "ValueDefinition": {
+          "DateTime": {
+            "OnlyFutureDates": "Endast framtida datum",
+            "OnlyFutureDatesTooltip": "Tillåt endast användare att välja datum i framtiden"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "EmptyTitle": "Stepper",
+            "EmptyDescription": "Möjlighet att lägga till sekventiella steg eller ett guidad arbetsflöde på sidan."
+          }
+        }
+      },
+      "FieldValidation": {
+        "PastDateNotAllowed": "Datumet måste vara i framtiden"
+      }
+    }
+  }
+}
