@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "ValueDefinition": {
+          "DateTime": {
+            "OnlyFutureDates": "Chỉ các ngày trong tương lai",
+            "OnlyFutureDatesTooltip": "Chỉ cho phép người dùng chọn các ngày trong tương lai"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "EmptyTitle": "Bước",
+            "EmptyDescription": "Khả năng thêm các bước tuần tự hoặc quy trình hướng dẫn vào trang."
+          }
+        }
+      },
+      "FieldValidation": {
+        "PastDateNotAllowed": "Ngày phải là ngày trong tương lai"
+      }
+    }
+  }
+}
