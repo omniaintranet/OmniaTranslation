@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Visa redigering"
+    },
+    "SearchResultSource": {
+      "Relevance": "Relevans"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Deltagares avbokning: {{title}}",
+            "Content": "Följande deltagare har avbokat sin registrering för {{eventLink}} den {{eventStartDate}}:",
+            "PlacesBooked": "Platser bokade: {{registeredCapacity}} av {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Platser bokade: {{registeredCapacity}}",
+            "ViewParticipantList": "Visa deltagarlista"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Visa redigering"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Den här sidan är inte längre den senaste versionen. Ladda om sidan och försök igen."
+      }
+    }
+  }
+}

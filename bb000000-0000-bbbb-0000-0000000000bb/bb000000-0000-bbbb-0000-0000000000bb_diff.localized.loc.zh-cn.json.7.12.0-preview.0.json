@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "ValueDefinition": {
+          "DateTime": {
+            "OnlyFutureDates": "仅限未来日期",
+            "OnlyFutureDatesTooltip": "仅允许用户选择未来的日期"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "EmptyTitle": "步骤器",
+            "EmptyDescription": "可以向页面添加顺序步骤或引导式工作流。"
+          }
+        }
+      },
+      "FieldValidation": {
+        "PastDateNotAllowed": "日期必须是未来的"
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Vis redigering"
+    },
+    "SearchResultSource": {
+      "Relevance": "Relevans"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Deltakelsesavmelding: {{title}}",
+            "Content": "Følgende deltakere har avmeldt sin registrering for {{eventLink}} den {{eventStartDate}}:",
+            "PlacesBooked": "Plasser bestilt: {{registeredCapacity}} av {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Plasser bestilt: {{registeredCapacity}}",
+            "ViewParticipantList": "Vis deltakerliste"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Vis redigering"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Denne siden er ikke lenger den nyeste versjonen. Last inn siden på nytt og prøv igjen."
+      }
+    }
+  }
+}

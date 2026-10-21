@@ -1,0 +1,25 @@
+{
+  "Omnia": {
+    "Ux": {
+      "EnterpriseProperties": {
+        "ValueDefinition": {
+          "DateTime": {
+            "OnlyFutureDates": "Vain tulevat päivämäärät",
+            "OnlyFutureDatesTooltip": "Salli käyttäjien valita vain tulevia päivämääriä"
+          }
+        }
+      },
+      "LayoutEngine": {
+        "Panels": {
+          "StepperSettings": {
+            "EmptyTitle": "Variaatio",
+            "EmptyDescription": "Mahdollisuus lisätä sivulle peräkkäisiä vaiheita tai ohjattu työnkulku."
+          }
+        }
+      },
+      "FieldValidation": {
+        "PastDateNotAllowed": "Päivämäärän on oltava tulevaisuudessa"
+      }
+    }
+  }
+}

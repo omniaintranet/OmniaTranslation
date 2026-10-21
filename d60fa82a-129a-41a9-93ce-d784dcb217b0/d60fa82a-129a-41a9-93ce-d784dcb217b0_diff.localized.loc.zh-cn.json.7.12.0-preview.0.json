@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "显示编辑"
+    },
+    "SearchResultSource": {
+      "Relevance": "相关性"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "参与者取消：{{title}}",
+            "Content": "以下参与者已取消他们在 {{eventStartDate}} 的 {{eventLink}} 注册：",
+            "PlacesBooked": "预订名额：{{registeredCapacity}} / {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "预订名额：{{registeredCapacity}}",
+            "ViewParticipantList": "查看参与者列表"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "显示编辑"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "此页面不再是最新版本。请重新加载页面后重试。"
+      }
+    }
+  }
+}

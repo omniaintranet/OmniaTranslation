@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Näytä muokkaus"
+    },
+    "SearchResultSource": {
+      "Relevance": "Merkityksellisyys"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Osallistujan peruutus: {{title}}",
+            "Content": "Seuraavat osallistujat ovat peruuttaneet ilmoittautumisensa tapahtumaan {{eventLink}} ajankohtana {{eventStartDate}}:",
+            "PlacesBooked": "Varatut paikat: {{registeredCapacity}} / {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Varatut paikat: {{registeredCapacity}}",
+            "ViewParticipantList": "Näytä osallistujalista"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Näytä muokkaus"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Tämä sivu ei ole enää uusin versio. Lataa sivu uudelleen ja yritä uudestaan."
+      }
+    }
+  }
+}
