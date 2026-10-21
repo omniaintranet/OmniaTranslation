@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Afficher la modification"
+    },
+    "SearchResultSource": {
+      "Relevance": "Pertinence"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Annulation de participant : {{title}}",
+            "Content": "Les participants suivants ont annulé leur inscription pour {{eventLink}} le {{eventStartDate}} :",
+            "PlacesBooked": "Places réservées : {{registeredCapacity}} sur {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Places réservées : {{registeredCapacity}}",
+            "ViewParticipantList": "Voir la liste des participants"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Afficher la modification"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Cette page n'est plus la dernière version. Rechargez la page et réessayez."
+      }
+    }
+  }
+}
