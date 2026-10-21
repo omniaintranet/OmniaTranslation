@@ -1,0 +1,37 @@
+{
+  "WCM": {
+    "CreatePageButton": {
+      "ShowEdit": "Bewerk weergeven"
+    },
+    "SearchResultSource": {
+      "Relevance": "Relevantie"
+    }
+  },
+  "OMX": {
+    "EM": {
+      "EventParticipantList": {
+        "EmailTemplates": {
+          "ParticipantCancellation": {
+            "Subject": "Deelname annulering: {{title}}",
+            "Content": "De volgende deelnemers hebben hun registratie voor {{eventLink}} op {{eventStartDate}} geannuleerd:",
+            "PlacesBooked": "Geboekte plaatsen: {{registeredCapacity}} van {{maxParticipants}}",
+            "PlacesBookedWithoutLimit": "Geboekte plaatsen: {{registeredCapacity}}",
+            "ViewParticipantList": "Bekijk deelnemerslijst"
+          }
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PageRollup": {
+      "Common": {
+        "ShowEdit": "Bewerk weergeven"
+      }
+    },
+    "PublishingApp": {
+      "SendingEmailHandler": {
+        "PageVersionOutdated": "Deze pagina is niet langer de nieuwste versie. Herlaad de pagina en probeer het opnieuw."
+      }
+    }
+  }
+}
