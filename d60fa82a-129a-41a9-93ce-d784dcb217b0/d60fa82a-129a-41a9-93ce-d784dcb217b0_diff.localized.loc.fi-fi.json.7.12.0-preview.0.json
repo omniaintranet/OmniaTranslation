@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "Sivutyypistäsi on nyt tullut tenantin sivutyyppi",
+            "PromotedDescription": "Se on siirretty pois tästä julkaisusovelluksesta ja sitä voivat nyt käyttää kaikki tenantin julkaisusovellukset. Avaa se Omnian hallinnassa jatkaaksesi muokkaamista tai jatka työskentelyä tässä julkaisusovelluksessa.",
+            "OpenTenantPageType": "Avaa tenantin sivutyyppi",
+            "ContinueWorkingHere": "Jatka työskentelyä täällä"
+          },
+          "CreatePage": {
+            "SaveFailed": "Sivua ei voitu tallentaa. Yritä uudelleen."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Tämä SharePoint-sivu on poistettu"
+    }
+  }
+}
