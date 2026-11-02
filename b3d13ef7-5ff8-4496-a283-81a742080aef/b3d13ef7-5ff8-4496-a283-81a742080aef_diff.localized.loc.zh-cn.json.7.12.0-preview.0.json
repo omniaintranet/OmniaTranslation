@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "运行中"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "更新属性？",
+        "ConfirmMessage": "您已更改以下属性：{0}。所选位置具有不同的默认值。选择“确定”将用该位置的默认值替换您的更改，选择“取消”则保留您的更改。"
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "进行中",
+        "Failed": "失败"
+      },
+      "Approval": {
+        "RetryApproval": "重试审批",
+        "RetryReject": "重试拒绝"
+      }
+    }
+  }
+}
