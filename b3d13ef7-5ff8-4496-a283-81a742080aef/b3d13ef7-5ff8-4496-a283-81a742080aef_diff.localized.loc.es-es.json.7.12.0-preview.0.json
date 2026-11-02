@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "En ejecución"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "¿Actualizar propiedades?",
+        "ConfirmMessage": "Has cambiado estas propiedades: {0}. La ubicación seleccionada tiene valores predeterminados diferentes. Selecciona Aceptar para reemplazar tus cambios con los valores predeterminados de la ubicación, o Cancelar para mantener tus cambios."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "En curso",
+        "Failed": "Fallido"
+      },
+      "Approval": {
+        "RetryApproval": "Reintentar aprobación",
+        "RetryReject": "Reintentar rechazo"
+      }
+    }
+  }
+}

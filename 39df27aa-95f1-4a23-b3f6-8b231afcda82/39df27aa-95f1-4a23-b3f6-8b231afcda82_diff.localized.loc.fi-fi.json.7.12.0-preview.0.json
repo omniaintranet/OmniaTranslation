@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vektorin ulottuvuudet",
+          "VectorDimensionsHint": "Arvojen määrä, jonka upotusten käyttöönotto palauttaa, esimerkiksi 1536 tekstin upotuksille text-embedding-ada-002 ja text-embedding-3-small, tai 3072 tekstin upotukselle text-embedding-3-large. Valitse Testaa tunnistaaksesi sen.",
+          "VectorDimensionsRequired": "Anna positiivinen numero.",
+          "TestButton": "Testaa",
+          "DetectedDimensions": "Upotusten käyttöönotto palauttaa {0} vektorin ulottuvuutta.",
+          "ReindexRequiredMessage": "Nykyinen semanttisen haun indeksi käyttää {0} vektorin ulottuvuuksia aiemmista upotusten asetuksista. Suorita Semanttisen haun täydellinen uudelleenindeksointi ottaaksesi uudet asetukset käyttöön."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenant-tiedot",
+        "TenantId": "Tenant-tunnus",
+        "OriginalOmniaUrl": "Alkuperäinen Omnia URL",
+        "InboundIp": "Saapuva IP",
+        "OutboundIp": "Lähtevä IP",
+        "Loading": "Ladataan...",
+        "NotAvailable": "Ei saatavilla",
+        "LoadError": "Tenant-tietojen lataaminen epäonnistui. Yritä uudelleen.",
+        "Retry": "Yritä uudelleen"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF-suojaus",
+      "CsrfReportOnly": "Vain raportointi",
+      "CsrfEnforced": "Pakotettu",
+      "CsrfProtectionDescription": "Vain raportointi kirjaa pyynnöt, jotka epäonnistuvat CSRF-tarkistuksissa, ilman että ne estetään. Pakotettu hylkää nämä pyynnöt HTTP 403 -vastauksella. Muutokset tulevat voimaan minuutin kuluessa."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Näytä vain Uutisjulkaisut"
+      }
+    }
+  }
+}

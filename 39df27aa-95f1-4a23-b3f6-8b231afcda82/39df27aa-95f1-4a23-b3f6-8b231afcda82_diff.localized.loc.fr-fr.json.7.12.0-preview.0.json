@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Dimensions du vecteur",
+          "VectorDimensionsHint": "Nombre de valeurs renvoyées par le déploiement des embeddings, par exemple 1536 pour text-embedding-ada-002 et text-embedding-3-small, ou 3072 pour text-embedding-3-large. Sélectionnez Tester pour le détecter.",
+          "VectorDimensionsRequired": "Entrez un nombre positif.",
+          "TestButton": "Tester",
+          "DetectedDimensions": "Le déploiement des embeddings renvoie {0} dimensions de vecteur.",
+          "ReindexRequiredMessage": "L'index de recherche sémantique actuel utilise {0} dimensions de vecteur des paramètres d'embeddings précédents. Exécutez une réindexation complète de la recherche sémantique pour appliquer les nouveaux paramètres."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Informations sur le Tenant",
+        "TenantId": "ID du Tenant",
+        "OriginalOmniaUrl": "URL originale d'Omnia",
+        "InboundIp": "IP entrante",
+        "OutboundIp": "IP sortante",
+        "Loading": "Chargement...",
+        "NotAvailable": "Non disponible",
+        "LoadError": "Impossible de charger les informations du tenant. Veuillez réessayer.",
+        "Retry": "Réessayer"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "Protection CSRF",
+      "CsrfReportOnly": "Rapport uniquement",
+      "CsrfEnforced": "Appliquée",
+      "CsrfProtectionDescription": "Le mode Rapport uniquement enregistre les requêtes qui échouent aux contrôles CSRF sans les bloquer. Le mode Appliquée rejette ces requêtes avec un HTTP 403. Les modifications prennent effet en une minute."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Afficher uniquement les publications News"
+      }
+    }
+  }
+}

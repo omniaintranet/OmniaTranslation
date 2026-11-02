@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Đang chạy"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Cập nhật thuộc tính?",
+        "ConfirmMessage": "Bạn đã thay đổi các thuộc tính này: {0}. Vị trí được chọn có các giá trị mặc định khác. Chọn OK để thay thế các thay đổi của bạn bằng các giá trị mặc định của vị trí, hoặc Hủy để giữ các thay đổi của bạn."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "Đang tiến hành",
+        "Failed": "Thất bại"
+      },
+      "Approval": {
+        "RetryApproval": "Thử lại phê duyệt",
+        "RetryReject": "Thử lại từ chối"
+      }
+    }
+  }
+}

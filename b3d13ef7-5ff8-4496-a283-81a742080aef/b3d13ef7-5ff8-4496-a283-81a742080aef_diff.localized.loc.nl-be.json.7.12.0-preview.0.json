@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Bezig"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Eigenschappen bijwerken?",
+        "ConfirmMessage": "U hebt deze eigenschappen gewijzigd: {0}. De geselecteerde locatie heeft andere standaardwaarden. Selecteer OK om uw wijzigingen te vervangen door de standaardwaarden van de locatie, of Annuleren om uw wijzigingen te behouden."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "Bezig",
+        "Failed": "Mislukt"
+      },
+      "Approval": {
+        "RetryApproval": "Goedkeuring opnieuw proberen",
+        "RetryReject": "Afwijzing opnieuw proberen"
+      }
+    }
+  }
+}

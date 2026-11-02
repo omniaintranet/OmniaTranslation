@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "ShortQuote": "Trích dẫn ngắn"
+        },
+        "Tooltip": {
+          "ShortQuote": "Trích dẫn ngắn"
+        }
+      }
+    },
+    "Features": {
+      "Service": "API / Dịch vụ"
+    }
+  }
+}

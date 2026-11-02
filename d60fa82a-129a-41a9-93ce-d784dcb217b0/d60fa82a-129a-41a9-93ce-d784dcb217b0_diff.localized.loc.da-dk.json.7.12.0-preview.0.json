@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "Din sidetype er nu en tenant sidetype",
+            "PromotedDescription": "Den er blevet flyttet ud af denne publiceringsapp og kan nu bruges af alle publiceringsapps i tenant. Åbn den i Omnia admin for at fortsætte redigeringen, eller fortsæt arbejdet i denne publiceringsapp.",
+            "OpenTenantPageType": "Åbn tenant sidetype",
+            "ContinueWorkingHere": "Fortsæt arbejdet her"
+          },
+          "CreatePage": {
+            "SaveFailed": "Siden kunne ikke gemmes. Prøv venligst igen."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Denne SharePoint-side er blevet slettet"
+    }
+  }
+}

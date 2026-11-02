@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vektordimensioner",
+          "VectorDimensionsHint": "Antal värden som embeddings-distributionen returnerar, till exempel 1536 för text-embedding-ada-002 och text-embedding-3-small, eller 3072 för text-embedding-3-large. Välj Test för ett värde.",
+          "VectorDimensionsRequired": "Ange ett positivt nummer.",
+          "TestButton": "Testa",
+          "DetectedDimensions": "Embeddings-distributionen returnerar {0} vektordimensioner.",
+          "ReindexRequiredMessage": "Det nuvarande semantiska sökindexet använder {0} vektordimensioner från de tidigare embeddings-inställningarna. Kör Semantisk sökning Full omindexering för att tillämpa de nya inställningarna."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenant-information",
+        "TenantId": "Tenant-ID",
+        "OriginalOmniaUrl": "Original-URL för Omnia",
+        "InboundIp": "Inkommande IP",
+        "OutboundIp": "Utgående IP",
+        "Loading": "Laddar...",
+        "NotAvailable": "Inte tillgänglig",
+        "LoadError": "Det gick inte att ladda tenant-informationen. Försök igen.",
+        "Retry": "Försök igen"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF-skydd",
+      "CsrfReportOnly": "Endast rapportering",
+      "CsrfEnforced": "Obigatorisk",
+      "CsrfProtectionDescription": "Endast rapportering loggar förfrågningar som misslyckas med CSRF-kontroller utan att blockera dem. Valet Obligatorisk avvisar dessa förfrågningar med HTTP 403. Ändringar träder i kraft inom en minut."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Visa endast nyhetsinlägg"
+      }
+    }
+  }
+}

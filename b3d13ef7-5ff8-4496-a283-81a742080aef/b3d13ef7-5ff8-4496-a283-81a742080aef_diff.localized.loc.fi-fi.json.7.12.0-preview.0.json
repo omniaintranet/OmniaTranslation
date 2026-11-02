@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Suoritetaan"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Päivitä ominaisuudet?",
+        "ConfirmMessage": "Olet muuttanut näitä ominaisuuksia: {0}. Valitulla sijainnilla on eri oletusarvot. Valitse OK korvataksesi muutoksesi sijainnin oletusarvoilla tai Peruuta säilyttääksesi muutoksesi."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "Käsittelyssä",
+        "Failed": "Epäonnistui"
+      },
+      "Approval": {
+        "RetryApproval": "Yritä hyväksyntää uudelleen",
+        "RetryReject": "Yritä hylkäystä uudelleen"
+      }
+    }
+  }
+}

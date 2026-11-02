@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Kører"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Opdater egenskaber?",
+        "ConfirmMessage": "Du har ændret disse egenskaber: {0}. Den valgte placering har forskellige standardværdier. Vælg OK for at erstatte dine ændringer med placeringens standardværdier, eller Annuller for at beholde dine ændringer."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "I gang",
+        "Failed": "Mislykkedes"
+      },
+      "Approval": {
+        "RetryApproval": "Prøv godkendelse igen",
+        "RetryReject": "Prøv afvisning igen"
+      }
+    }
+  }
+}

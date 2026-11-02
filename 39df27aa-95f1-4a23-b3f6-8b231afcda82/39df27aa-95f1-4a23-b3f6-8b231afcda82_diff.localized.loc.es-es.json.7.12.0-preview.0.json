@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Dimensiones del vector",
+          "VectorDimensionsHint": "Número de valores que devuelve el despliegue de embeddings, por ejemplo 1536 para text-embedding-ada-002 y text-embedding-3-small, o 3072 para text-embedding-3-large. Seleccione Probar para detectarlo.",
+          "VectorDimensionsRequired": "Introduzca un número positivo.",
+          "TestButton": "Probar",
+          "DetectedDimensions": "El despliegue de embeddings devuelve {0} dimensiones del vector.",
+          "ReindexRequiredMessage": "El índice de búsqueda semántica actual utiliza {0} dimensiones del vector de la configuración anterior de embeddings. Ejecute Reindexación completa de búsqueda semántica para aplicar la nueva configuración."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Información del Tenant",
+        "TenantId": "ID del Tenant",
+        "OriginalOmniaUrl": "URL original de Omnia",
+        "InboundIp": "IP entrante",
+        "OutboundIp": "IP saliente",
+        "Loading": "Cargando...",
+        "NotAvailable": "No disponible",
+        "LoadError": "No se pudo cargar la información del tenant. Por favor, inténtelo de nuevo.",
+        "Retry": "Reintentar"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "Protección CSRF",
+      "CsrfReportOnly": "Solo informe",
+      "CsrfEnforced": "Aplicada",
+      "CsrfProtectionDescription": "Solo informe registra las solicitudes que fallan las comprobaciones CSRF sin bloquearlas. Aplicada rechaza estas solicitudes con HTTP 403. Los cambios entran en vigor en un minuto."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Mostrar solo publicaciones de Noticias"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Kích thước vector",
+          "VectorDimensionsHint": "Số giá trị mà triển khai embeddings trả về, ví dụ 1536 cho text-embedding-ada-002 và text-embedding-3-small, hoặc 3072 cho text-embedding-3-large. Chọn Kiểm tra để phát hiện.",
+          "VectorDimensionsRequired": "Vui lòng nhập một số dương.",
+          "TestButton": "Kiểm tra",
+          "DetectedDimensions": "Triển khai embeddings trả về {0} kích thước vector.",
+          "ReindexRequiredMessage": "Chỉ mục tìm kiếm ngữ nghĩa hiện tại sử dụng {0} kích thước vector từ cài đặt embeddings trước đó. Chạy Tìm kiếm ngữ nghĩa Tái lập chỉ mục toàn bộ để áp dụng cài đặt mới."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Thông tin Tenant",
+        "TenantId": "ID Tenant",
+        "OriginalOmniaUrl": "URL Omnia gốc",
+        "InboundIp": "IP đến",
+        "OutboundIp": "IP đi",
+        "Loading": "Đang tải...",
+        "NotAvailable": "Không có sẵn",
+        "LoadError": "Không thể tải thông tin tenant. Vui lòng thử lại.",
+        "Retry": "Thử lại"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "Bảo vệ CSRF",
+      "CsrfReportOnly": "Chỉ báo cáo",
+      "CsrfEnforced": "Bắt buộc",
+      "CsrfProtectionDescription": "Chỉ báo cáo ghi lại các yêu cầu không vượt qua kiểm tra CSRF mà không chặn chúng. Bắt buộc từ chối các yêu cầu này với HTTP 403. Thay đổi có hiệu lực trong vòng một phút."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Chỉ hiển thị bài đăng Tin tức"
+      }
+    }
+  }
+}

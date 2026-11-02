@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "Uw paginatype is nu een tenant paginatype",
+            "PromotedDescription": "Het is verplaatst uit deze publishing app en kan nu door alle publishing apps in de tenant worden gebruikt. Open het in Omnia admin om verder te bewerken, of ga door met werken in deze publishing app.",
+            "OpenTenantPageType": "Open tenant paginatype",
+            "ContinueWorkingHere": "Blijf hier verder werken"
+          },
+          "CreatePage": {
+            "SaveFailed": "De pagina kon niet worden opgeslagen. Probeer het opnieuw."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Deze SharePoint-pagina is verwijderd"
+    }
+  }
+}

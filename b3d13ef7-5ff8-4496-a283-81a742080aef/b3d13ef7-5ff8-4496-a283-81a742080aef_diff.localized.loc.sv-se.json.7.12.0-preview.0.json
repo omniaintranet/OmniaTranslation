@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Pågår"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Uppdatera egenskaper?",
+        "ConfirmMessage": "Du har ändrat dessa egenskaper: {0}. Den valda lagringsplatsen har andra standardvärden. Välj OK för att ersätta dina ändringar med lagringsplatsens standardvärden, eller Avbryt för att behålla dina ändringar."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "Pågår",
+        "Failed": "Misslyckades"
+      },
+      "Approval": {
+        "RetryApproval": "Försök godkänna igen",
+        "RetryReject": "Försök avvisa igen"
+      }
+    }
+  }
+}

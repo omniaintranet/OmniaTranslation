@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "ShortQuote": "Citation courte"
+        },
+        "Tooltip": {
+          "ShortQuote": "Citation courte"
+        }
+      }
+    },
+    "Features": {
+      "Service": "API / Service"
+    }
+  }
+}
