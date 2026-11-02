@@ -8,7 +8,7 @@
     "NewDocumentDialog": {
       "SiteDefaultValues": {
         "ConfirmTitle": "Uppdatera egenskaper?",
-        "ConfirmMessage": "Du har ändrat dessa egenskaper: {0}. Den valda platsen har olika standardvärden. Välj OK för att ersätta dina ändringar med platsens standardvärden, eller Avbryt för att behålla dina ändringar."
+        "ConfirmMessage": "Du har ändrat dessa egenskaper: {0}. Den valda lagringsplatsen har andra standardvärden. Välj OK för att ersätta dina ändringar med lagringsplatsens standardvärden, eller Avbryt för att behålla dina ändringar."
       }
     },
     "DocumentLibrary": {
