@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vectordimensies",
+          "VectorDimensionsHint": "Aantal waarden dat de embeddings-implementatie retourneert, bijvoorbeeld 1536 voor text-embedding-ada-002 en text-embedding-3-small, of 3072 voor text-embedding-3-large. Selecteer Test om dit te detecteren.",
+          "VectorDimensionsRequired": "Voer een positief getal in.",
+          "TestButton": "Test",
+          "DetectedDimensions": "De embeddings-implementatie retourneert {0} vectordimensies.",
+          "ReindexRequiredMessage": "De huidige semantische zoekindex gebruikt {0} vectordimensies van de vorige embeddings-instellingen. Voer een volledige semantische zoekherindexering uit om de nieuwe instellingen toe te passen."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenantinformatie",
+        "TenantId": "Tenant-ID",
+        "OriginalOmniaUrl": "Originele Omnia URL",
+        "InboundIp": "Inbound IP",
+        "OutboundIp": "Outbound IP",
+        "Loading": "Bezig met laden...",
+        "NotAvailable": "Niet beschikbaar",
+        "LoadError": "Kan de tenantinformatie niet laden. Probeer het opnieuw.",
+        "Retry": "Opnieuw proberen"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF-bescherming",
+      "CsrfReportOnly": "Alleen rapporteren",
+      "CsrfEnforced": "Afgedwongen",
+      "CsrfProtectionDescription": "Alleen rapporteren logt verzoeken die CSRF-controles niet doorstaan zonder ze te blokkeren. Afgedwongen weigert deze verzoeken met HTTP 403. Wijzigingen zijn binnen één minuut van kracht."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Alleen Nieuwsberichten tonen"
+      }
+    }
+  }
+}
