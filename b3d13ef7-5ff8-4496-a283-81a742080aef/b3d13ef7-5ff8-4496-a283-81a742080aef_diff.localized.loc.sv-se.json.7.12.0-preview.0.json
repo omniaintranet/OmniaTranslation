@@ -2,7 +2,7 @@
   "ODM": {
     "Admin": {
       "BulkUpdate": {
-        "Running": "Körs"
+        "Running": "Pågår"
       }
     },
     "NewDocumentDialog": {
