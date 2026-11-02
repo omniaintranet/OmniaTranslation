@@ -17,8 +17,8 @@
         "Failed": "Failed"
       },
       "Approval": {
-        "RetryApproval": "Retry Approval",
-        "RetryReject": "Retry Rejection"
+        "RetryApproval": "Retry approval",
+        "RetryReject": "Retry rejection"
       }
     }
   }
