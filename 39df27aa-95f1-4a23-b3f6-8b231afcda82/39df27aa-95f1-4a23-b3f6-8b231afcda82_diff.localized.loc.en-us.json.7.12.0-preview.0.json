@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vector dimensions",
+          "VectorDimensionsHint": "Number of values the embeddings deployment returns, for example 1536 for text-embedding-ada-002 and text-embedding-3-small, or 3072 for text-embedding-3-large. Select Test to detect it.",
+          "VectorDimensionsRequired": "Enter a positive number.",
+          "TestButton": "Test",
+          "DetectedDimensions": "The embeddings deployment returns {0} vector dimensions.",
+          "ReindexRequiredMessage": "The current semantic search index uses {0} vector dimensions from the previous embeddings settings. Run Semantic Search Full Reindex to apply the new settings."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenant information",
+        "TenantId": "Tenant ID",
+        "OriginalOmniaUrl": "Original Omnia URL",
+        "InboundIp": "Inbound IP",
+        "OutboundIp": "Outbound IP",
+        "Loading": "Loading...",
+        "NotAvailable": "Not available",
+        "LoadError": "Unable to load the tenant information. Please try again.",
+        "Retry": "Retry"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF protection",
+      "CsrfReportOnly": "Report only",
+      "CsrfEnforced": "Enforced",
+      "CsrfProtectionDescription": "Report only logs requests that fail CSRF checks without blocking them. Enforced rejects these requests with HTTP 403. Changes take effect within one minute."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Only show News posts"
+      }
+    }
+  }
+}
