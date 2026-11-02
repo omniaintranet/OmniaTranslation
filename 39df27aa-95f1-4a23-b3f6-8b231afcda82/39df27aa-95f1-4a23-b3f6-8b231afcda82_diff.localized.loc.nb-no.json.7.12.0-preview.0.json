@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vektordimensjoner",
+          "VectorDimensionsHint": "Antall verdier som embeddings-distribusjonen returnerer, for eksempel 1536 for text-embedding-ada-002 og text-embedding-3-small, eller 3072 for text-embedding-3-large. Velg Test for å oppdage det.",
+          "VectorDimensionsRequired": "Skriv inn et positivt tall.",
+          "TestButton": "Test",
+          "DetectedDimensions": "Embeddings-distribusjonen returnerer {0} vektordimensjoner.",
+          "ReindexRequiredMessage": "Den nåværende semantiske søkeindeksen bruker {0} vektordimensjoner fra de tidligere embeddings-innstillingene. Kjør full reindeksering av semantisk søk for å bruke de nye innstillingene."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenant-informasjon",
+        "TenantId": "Tenant-ID",
+        "OriginalOmniaUrl": "Original Omnia URL",
+        "InboundIp": "Innkommende IP",
+        "OutboundIp": "Utgående IP",
+        "Loading": "Laster...",
+        "NotAvailable": "Ikke tilgjengelig",
+        "LoadError": "Kunne ikke laste tenant-informasjonen. Vennligst prøv igjen.",
+        "Retry": "Prøv på nytt"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF-beskyttelse",
+      "CsrfReportOnly": "Kun rapportering",
+      "CsrfEnforced": "Håndhevet",
+      "CsrfProtectionDescription": "Kun rapportering logger forespørsler som feiler CSRF-sjekker uten å blokkere dem. Håndhevet avviser disse forespørslene med HTTP 403. Endringer trer i kraft innen ett minutt."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Vis kun nyhetsinnlegg"
+      }
+    }
+  }
+}
