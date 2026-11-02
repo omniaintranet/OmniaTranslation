@@ -8,7 +8,7 @@
           "VectorDimensionsRequired": "Enter a positive number.",
           "TestButton": "Test",
           "DetectedDimensions": "The embeddings deployment returns {0} vector dimensions.",
-          "ReindexRequiredMessage": "The current semantic search index uses {0} vector dimensions from the previous embeddings settings. Run Semantic Search Full Reindex to apply the new settings."
+          "ReindexRequiredMessage": "The current semantic search index uses {0} vector dimensions from the previous embeddings settings. Run Semantic search Full reindex to apply the new settings."
         }
       }
     },
