@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "您的页面类型现在是租户页面类型",
+            "PromotedDescription": "它已从此发布应用中移出，现在可以被租户中的所有发布应用使用。请在 Omnia 管理中打开以继续编辑，或继续在此发布应用中工作。",
+            "OpenTenantPageType": "打开租户页面类型",
+            "ContinueWorkingHere": "继续在此工作"
+          },
+          "CreatePage": {
+            "SaveFailed": "页面保存失败。请重试。"
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "此 SharePoint 页面已被删除"
+    }
+  }
+}
