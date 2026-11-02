@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Running"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Update properties?",
+        "ConfirmMessage": "You have changed these properties: {0}. The selected location has different default values. Select OK to replace your changes with the location's default values, or Cancel to keep your changes."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "In progress",
+        "Failed": "Failed"
+      },
+      "Approval": {
+        "RetryApproval": "Retry Approval",
+        "RetryReject": "Retry Rejection"
+      }
+    }
+  }
+}
