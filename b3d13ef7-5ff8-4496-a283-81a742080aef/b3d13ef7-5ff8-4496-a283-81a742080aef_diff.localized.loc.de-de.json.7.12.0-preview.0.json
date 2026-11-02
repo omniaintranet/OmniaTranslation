@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "Wird ausgeführt"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Eigenschaften aktualisieren?",
+        "ConfirmMessage": "Sie haben diese Eigenschaften geändert: {0}. Der ausgewählte Speicherort hat andere Standardwerte. Wählen Sie OK, um Ihre Änderungen durch die Standardwerte des Speicherorts zu ersetzen, oder Abbrechen, um Ihre Änderungen beizubehalten."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "In Bearbeitung",
+        "Failed": "Fehlgeschlagen"
+      },
+      "Approval": {
+        "RetryApproval": "Abzeichnungsanfrage erneut versuchen",
+        "RetryReject": "Ablehnung erneut versuchen"
+      }
+    }
+  }
+}
