@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "Sidetype er nå en tenant-sidetype",
+            "PromotedDescription": "Den har blitt flyttet ut av denne publiseringsappen og kan nå brukes av alle publiseringsapper i tenant. Åpne den i Omnia admin for å fortsette redigering, eller fortsett å jobbe i denne publiseringsappen.",
+            "OpenTenantPageType": "Åpne tenant-sidetype",
+            "ContinueWorkingHere": "Fortsett å jobbe her"
+          },
+          "CreatePage": {
+            "SaveFailed": "Siden kunne ikke lagres. Vennligst prøv igjen."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Denne SharePoint-siden har blitt slettet"
+    }
+  }
+}
