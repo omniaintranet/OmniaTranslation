@@ -5,7 +5,7 @@
         "Dialogs": {
           "MoveToTenant": {
             "PromotedTitle": "Your page type is now a tenant page type",
-            "PromotedDescription": "It has been moved out of this publishing app and can now be used by all publishing apps in the tenant. Open it in Omnia Admin to keep editing, or continue working in this publishing app.",
+            "PromotedDescription": "It has been moved out of this publishing app and can now be used by all publishing apps in the tenant. Open it in Omnia admin to keep editing, or continue working in this publishing app.",
             "OpenTenantPageType": "Open tenant page type",
             "ContinueWorkingHere": "Continue working here"
           },
@@ -16,7 +16,7 @@
       }
     },
     "SignOffRequest": {
-      "ThisSPPageHasBeenDeleted": "This SharePoint Page has been deleted"
+      "ThisSPPageHasBeenDeleted": "This SharePoint page has been deleted"
     }
   }
 }
