@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "El tipo de página ahora es un tipo de página de tenant",
+            "PromotedDescription": "Se ha movido fuera de esta aplicación de publicación y ahora puede ser utilizado por todas las aplicaciones de publicación en el tenant. Ábrelo en el administrador de Omnia para seguir editando, o continúa trabajando en esta aplicación de publicación.",
+            "OpenTenantPageType": "Abrir tipo de página de tenant",
+            "ContinueWorkingHere": "Continuar trabajando aquí"
+          },
+          "CreatePage": {
+            "SaveFailed": "No se pudo guardar la página. Por favor, inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Esta página de SharePoint ha sido eliminada"
+    }
+  }
+}
