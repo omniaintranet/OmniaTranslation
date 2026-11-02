@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "Vektor-Dimensionen",
+          "VectorDimensionsHint": "Anzahl der Werte, die die Embeddings-Bereitstellung zurückgibt, zum Beispiel 1536 für text-embedding-ada-002 und text-embedding-3-small oder 3072 für text-embedding-3-large. Wählen Sie Test, um sie zu erkennen.",
+          "VectorDimensionsRequired": "Geben Sie eine positive Zahl ein.",
+          "TestButton": "Test",
+          "DetectedDimensions": "Die Embeddings-Bereitstellung gibt {0} Vektor-Dimensionen zurück.",
+          "ReindexRequiredMessage": "Der aktuelle semantische Suchindex verwendet {0} Vektor-Dimensionen aus den vorherigen Embeddings-Einstellungen. Führen Sie eine vollständige semantische Suche Neuindizierung durch, um die neuen Einstellungen anzuwenden."
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "Tenant-Informationen",
+        "TenantId": "Tenant-ID",
+        "OriginalOmniaUrl": "Original Omnia URL",
+        "InboundIp": "Eingehende IP",
+        "OutboundIp": "Ausgehende IP",
+        "Loading": "Lädt...",
+        "NotAvailable": "Nicht verfügbar",
+        "LoadError": "Die Tenant-Informationen konnten nicht geladen werden. Bitte versuchen Sie es erneut.",
+        "Retry": "Erneut versuchen"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF-Schutz",
+      "CsrfReportOnly": "Nur melden",
+      "CsrfEnforced": "Durchgesetzt",
+      "CsrfProtectionDescription": "Nur melden protokolliert Anfragen, die CSRF-Prüfungen nicht bestehen, ohne sie zu blockieren. Durchgesetzt lehnt diese Anfragen mit HTTP 403 ab. Änderungen treten innerhalb einer Minute in Kraft."
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "Nur News-Beiträge anzeigen"
+      }
+    }
+  }
+}
