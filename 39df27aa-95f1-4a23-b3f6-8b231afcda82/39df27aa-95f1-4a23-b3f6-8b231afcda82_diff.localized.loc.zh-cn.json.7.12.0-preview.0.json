@@ -1,0 +1,42 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchConfig": {
+          "VectorDimensions": "向量维度",
+          "VectorDimensionsHint": "嵌入部署返回的值数量，例如 text-embedding-ada-002 和 text-embedding-3-small 为 1536，text-embedding-3-large 为 3072。选择测试以检测。",
+          "VectorDimensionsRequired": "请输入正数。",
+          "TestButton": "测试",
+          "DetectedDimensions": "嵌入部署返回 {0} 个向量维度。",
+          "ReindexRequiredMessage": "当前语义搜索索引使用了之前嵌入设置的 {0} 个向量维度。运行语义搜索完全重新索引以应用新设置。"
+        }
+      }
+    },
+    "System": {
+      "TenantInformation": {
+        "Title": "租户信息",
+        "TenantId": "租户 ID",
+        "OriginalOmniaUrl": "原始 Omnia URL",
+        "InboundIp": "入站 IP",
+        "OutboundIp": "出站 IP",
+        "Loading": "加载中...",
+        "NotAvailable": "不可用",
+        "LoadError": "无法加载租户信息。请重试。",
+        "Retry": "重试"
+      }
+    },
+    "Authentication": {
+      "CsrfProtection": "CSRF 保护",
+      "CsrfReportOnly": "仅报告",
+      "CsrfEnforced": "强制执行",
+      "CsrfProtectionDescription": "仅报告会记录未通过 CSRF 检查的请求但不阻止它们。强制执行会以 HTTP 403 拒绝这些请求。更改将在一分钟内生效。"
+    }
+  },
+  "OmniaTeamCollaboration": {
+    "TeamNewsRollup": {
+      "Settings": {
+        "OnlyNewsPosts": "仅显示新闻帖子"
+      }
+    }
+  }
+}
