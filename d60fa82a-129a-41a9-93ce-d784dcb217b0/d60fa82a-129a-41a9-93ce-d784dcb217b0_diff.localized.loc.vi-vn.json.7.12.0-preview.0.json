@@ -1,0 +1,22 @@
+{
+  "WCM": {
+    "Editor": {
+      "Editor": {
+        "Dialogs": {
+          "MoveToTenant": {
+            "PromotedTitle": "Loại trang của bạn hiện là loại trang tenant",
+            "PromotedDescription": "Nó đã được chuyển ra khỏi ứng dụng xuất bản này và bây giờ có thể được sử dụng bởi tất cả các ứng dụng xuất bản trong tenant. Mở nó trong Omnia admin để tiếp tục chỉnh sửa, hoặc tiếp tục làm việc trong ứng dụng xuất bản này.",
+            "OpenTenantPageType": "Mở loại trang tenant",
+            "ContinueWorkingHere": "Tiếp tục làm việc tại đây"
+          },
+          "CreatePage": {
+            "SaveFailed": "Không thể lưu trang. Vui lòng thử lại."
+          }
+        }
+      }
+    },
+    "SignOffRequest": {
+      "ThisSPPageHasBeenDeleted": "Trang SharePoint này đã bị xóa"
+    }
+  }
+}
