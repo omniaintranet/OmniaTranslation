@@ -1,0 +1,25 @@
+{
+  "ODM": {
+    "Admin": {
+      "BulkUpdate": {
+        "Running": "En cours"
+      }
+    },
+    "NewDocumentDialog": {
+      "SiteDefaultValues": {
+        "ConfirmTitle": "Mettre à jour les propriétés ?",
+        "ConfirmMessage": "Vous avez modifié ces propriétés : {0}. L’emplacement sélectionné a des valeurs par défaut différentes. Sélectionnez OK pour remplacer vos modifications par les valeurs par défaut de l’emplacement, ou Annuler pour conserver vos modifications."
+      }
+    },
+    "DocumentLibrary": {
+      "TaskStatuses": {
+        "InProgress": "En cours",
+        "Failed": "Échec"
+      },
+      "Approval": {
+        "RetryApproval": "Réessayer l’approbation",
+        "RetryReject": "Réessayer le rejet"
+      }
+    }
+  }
+}
