@@ -1,0 +1,17 @@
+{
+  "Omnia": {
+    "Ux": {
+      "RichTextEditor": {
+        "Extensions": {
+          "ShortQuote": "简短引用"
+        },
+        "Tooltip": {
+          "ShortQuote": "简短引用"
+        }
+      }
+    },
+    "Features": {
+      "Service": "API / 服务"
+    }
+  }
+}
