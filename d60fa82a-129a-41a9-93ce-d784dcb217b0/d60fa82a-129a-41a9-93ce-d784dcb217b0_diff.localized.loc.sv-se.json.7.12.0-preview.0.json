@@ -4,8 +4,8 @@
       "Editor": {
         "Dialogs": {
           "MoveToTenant": {
-            "PromotedTitle": "Din sidtyp är nu en tenant-sidtyp",
-            "PromotedDescription": "Den har flyttats ut från denna publiceringsapp och kan nu användas av alla publiceringsappar i tenant. Öppna den i Omnia admin för att fortsätta redigera, eller fortsätt arbeta i denna publiceringsapp.",
+            "PromotedTitle": "Sidtypen är nu en tenant-sidtyp",
+            "PromotedDescription": "Den har flyttats från denna publiceringsapp och kan nu användas av alla publiceringsappar i aktiv tenant. Öppna den i Omnia admin för att fortsätta redigera, eller fortsätt arbeta i denna publiceringsapp.",
             "OpenTenantPageType": "Öppna tenant-sidtyp",
             "ContinueWorkingHere": "Fortsätt arbeta här"
           },
