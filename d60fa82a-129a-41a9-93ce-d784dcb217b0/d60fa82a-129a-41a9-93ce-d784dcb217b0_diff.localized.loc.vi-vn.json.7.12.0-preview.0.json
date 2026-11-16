@@ -1,0 +1,16 @@
+{
+  "OWCM": {
+    "ChannelManagement": {
+      "Admin": {
+        "TargetingFilterSubscriberSwitch": "Giới hạn đăng ký kênh cho nhóm mục tiêu"
+      }
+    },
+    "PublishingApp": {
+      "EmailTemplates": {
+        "SubmitFeedback": {
+          "Content": "<div style='padding:10px; border: 2px solid #e7e8ea'><p style='margin:10px 0 0 0'><a style='color:#17bce7; text-decoration:none;'>{{UserDisplayName1}}</a></p><p style='margin:10px 0 0 0; color:#444;'>{{content}}</p><p style='margin:10px 0 0 0; color:#444; opacity:0.5;'>{{createdDate}}</p></div><div style='margin-top: 20px;'><a style='color:#17bce7; text-decoration:none;' href='{{pageUrl}}'>{{title}}</a></div>"
+        }
+      }
+    }
+  }
+}
