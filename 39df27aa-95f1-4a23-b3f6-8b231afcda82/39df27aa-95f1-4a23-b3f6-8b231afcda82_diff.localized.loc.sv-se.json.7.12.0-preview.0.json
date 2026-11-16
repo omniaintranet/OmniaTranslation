@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Det gick inte att ladda översättarinställningarna. Öppna denna panel igen för att försöka på nytt.",
+      "SaveFailed": "Det gick inte att spara översättarinställningarna. Vänligen försök igen.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "En nyckel är sparad. Lämna tomt för att behålla den."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Öppna alltid i en ny flik",
+        "OpenResultsIn": "Öppna resultat i",
+        "OpenInCurrentTab": "Aktuell flik",
+        "OpenInNewTab": "Ny flik",
+        "RespectSharedLinkSetting": "Respektera inställning för delad länk"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Öppna i ny flik"
+      }
+    }
+  }
+}
