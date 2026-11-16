@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Unable to load translator settings. Please reopen this blade to try again.",
+      "SaveFailed": "Unable to save translator settings. Please try again.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "A key is stored. Leave empty to keep it."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Always open in a new tab",
+        "OpenResultsIn": "Open results in",
+        "OpenInCurrentTab": "Current tab",
+        "OpenInNewTab": "New tab",
+        "RespectSharedLinkSetting": "Respect shared link setting"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Open in new tab"
+      }
+    }
+  }
+}

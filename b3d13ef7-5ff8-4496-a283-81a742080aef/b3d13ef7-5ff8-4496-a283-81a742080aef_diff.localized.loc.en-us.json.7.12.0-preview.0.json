@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "PdfFormat": "PDF format",
+      "PdfFormatHint": "Applies to Word (.docx), Excel (.xlsx) and PowerPoint (.pptx) documents. Other file types are converted to regular PDF by Microsoft 365."
+    },
+    "Core": {
+      "Features": {
+        "InternalPdfConverter": {
+          "Category": "Add-ons",
+          "Description": "Converts Word (.docx), Excel (.xlsx) and PowerPoint (.pptx) documents to PDF with a converter service that runs inside your Omnia environment. Other file types are still converted by Microsoft 365.",
+          "Title": "Use internal PDF converter"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "PdfFormat": "PDF 格式",
+      "PdfFormatHint": "适用于 Word (.docx)、Excel (.xlsx) 和 PowerPoint (.pptx) 文档。其他文件类型由 Microsoft 365 转换为常规 PDF。"
+    },
+    "Core": {
+      "Features": {
+        "InternalPdfConverter": {
+          "Category": "加载项",
+          "Description": "使用在您的 Omnia 环境中运行的转换服务，将 Word (.docx)、Excel (.xlsx) 和 PowerPoint (.pptx) 文档转换为 PDF。其他文件类型仍由 Microsoft 365 转换。",
+          "Title": "使用内部 PDF 转换器"
+        }
+      }
+    }
+  }
+}

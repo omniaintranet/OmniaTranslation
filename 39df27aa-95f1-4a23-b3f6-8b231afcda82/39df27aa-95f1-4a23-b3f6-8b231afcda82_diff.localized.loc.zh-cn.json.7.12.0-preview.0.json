@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "无法加载翻译器设置。请重新打开此面板重试。",
+      "SaveFailed": "无法保存翻译器设置。请重试。",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "密钥已存储。留空以保留该密钥。"
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "始终在新标签页中打开",
+        "OpenResultsIn": "在以下位置打开结果",
+        "OpenInCurrentTab": "当前标签页",
+        "OpenInNewTab": "新标签页",
+        "RespectSharedLinkSetting": "遵循共享链接设置"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "在新标签页中打开"
+      }
+    }
+  }
+}

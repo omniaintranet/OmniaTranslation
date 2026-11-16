@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Kääntäjän asetusten lataaminen epäonnistui. Avaa tämä näkymä uudelleen yrittääksesi uudelleen.",
+      "SaveFailed": "Kääntäjän asetusten tallentaminen epäonnistui. Yritä uudelleen.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "Avain on tallennettu. Jätä tyhjäksi säilyttääksesi sen."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Avaa aina uudessa välilehdessä",
+        "OpenResultsIn": "Avaa tulokset",
+        "OpenInCurrentTab": "Nykyinen välilehti",
+        "OpenInNewTab": "Uusi välilehti",
+        "RespectSharedLinkSetting": "Noudata jaetun linkin asetusta"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Avaa uudessa välilehdessä"
+      }
+    }
+  }
+}
