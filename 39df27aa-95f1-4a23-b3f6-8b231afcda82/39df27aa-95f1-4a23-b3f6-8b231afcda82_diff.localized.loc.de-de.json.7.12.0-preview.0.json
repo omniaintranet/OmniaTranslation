@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Übersetzereinstellungen konnten nicht geladen werden. Öffnen Sie dieses Fenster erneut, um es erneut zu versuchen.",
+      "SaveFailed": "Übersetzereinstellungen konnten nicht gespeichert werden. Bitte versuchen Sie es erneut.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "Ein Schlüssel ist gespeichert. Lassen Sie das Feld leer, um ihn zu behalten."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Immer in einem neuen Tab öffnen",
+        "OpenResultsIn": "Ergebnisse öffnen in",
+        "OpenInCurrentTab": "Aktueller Tab",
+        "OpenInNewTab": "Neuer Tab",
+        "RespectSharedLinkSetting": "Einstellung für geteilte Links beachten"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "In neuem Tab öffnen"
+      }
+    }
+  }
+}
