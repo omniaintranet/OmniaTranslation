@@ -1,8 +1,8 @@
 {
   "OTAD": {
     "TextTranslator": {
-      "LoadFailed": "Det gick inte att ladda översättarinställningarna. Öppna denna panel igen för att försöka på nytt.",
-      "SaveFailed": "Det gick inte att spara översättarinställningarna. Vänligen försök igen.",
+      "LoadFailed": "Det gick inte att ladda inställningarna för översättningar. Öppna denna panel igen för att försöka på nytt.",
+      "SaveFailed": "Det gick inte att spara inställningarna för översättningar. Vänligen försök igen.",
       "Providers": {
         "LeaveEmptyToKeepSubscriptionKey": "En nyckel är sparad. Lämna tomt för att behålla den."
       }
