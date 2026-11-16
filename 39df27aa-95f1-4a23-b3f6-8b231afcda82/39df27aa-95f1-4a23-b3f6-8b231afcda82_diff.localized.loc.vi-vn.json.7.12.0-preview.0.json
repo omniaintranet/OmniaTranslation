@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Không thể tải cài đặt trình dịch. Mở lại bảng này để thử lại.",
+      "SaveFailed": "Không thể lưu cài đặt trình dịch. Vui lòng thử lại.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "Một khóa đã được lưu. Để trống để giữ nguyên."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Luôn mở trong tab mới",
+        "OpenResultsIn": "Mở kết quả trong",
+        "OpenInCurrentTab": "Tab hiện tại",
+        "OpenInNewTab": "Tab mới",
+        "RespectSharedLinkSetting": "Tuân theo cài đặt liên kết chia sẻ"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Mở trong tab mới"
+      }
+    }
+  }
+}
