@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Impossible de charger les paramètres du traducteur. Rouvrez ce volet pour réessayer.",
+      "SaveFailed": "Impossible d’enregistrer les paramètres du traducteur. Veuillez réessayer.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "Une clé est enregistrée. Laissez vide pour la conserver."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Toujours ouvrir dans un nouvel onglet",
+        "OpenResultsIn": "Ouvrir les résultats dans",
+        "OpenInCurrentTab": "Onglet actuel",
+        "OpenInNewTab": "Nouvel onglet",
+        "RespectSharedLinkSetting": "Respecter le paramètre du lien partagé"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Ouvrir dans un nouvel onglet"
+      }
+    }
+  }
+}
