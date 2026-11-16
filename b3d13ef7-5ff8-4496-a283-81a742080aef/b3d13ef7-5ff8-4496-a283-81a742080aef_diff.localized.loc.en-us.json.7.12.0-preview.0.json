@@ -9,7 +9,7 @@
         "InternalPdfConverter": {
           "Category": "Add-ons",
           "Description": "Converts Word (.docx), Excel (.xlsx) and PowerPoint (.pptx) documents to PDF with a converter service that runs inside your Omnia environment. Other file types are still converted by Microsoft 365.",
-          "Title": "Use internal PDF Converter"
+          "Title": "Use internal PDF converter"
         }
       }
     }
