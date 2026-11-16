@@ -2,7 +2,7 @@
   "OWCM": {
     "ChannelManagement": {
       "Admin": {
-        "TargetingFilterSubscriberSwitch": "Begränsa kanalsubscription till målgrupp"
+        "TargetingFilterSubscriberSwitch": "Begränsa kanalprenumeration till målgrupp"
       }
     },
     "PublishingApp": {
