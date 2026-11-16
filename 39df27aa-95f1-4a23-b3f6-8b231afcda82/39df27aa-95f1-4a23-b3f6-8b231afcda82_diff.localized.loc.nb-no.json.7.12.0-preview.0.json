@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Kan ikke laste inn oversetterinnstillinger. Åpne denne ruten på nytt for å prøve igjen.",
+      "SaveFailed": "Kan ikke lagre oversetterinnstillinger. Vennligst prøv igjen.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "En nøkkel er lagret. La stå tomt for å beholde den."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Åpne alltid i en ny fane",
+        "OpenResultsIn": "Åpne resultater i",
+        "OpenInCurrentTab": "Gjeldende fane",
+        "OpenInNewTab": "Ny fane",
+        "RespectSharedLinkSetting": "Respekter innstilling for delt lenke"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Åpne i ny fane"
+      }
+    }
+  }
+}
