@@ -1,0 +1,25 @@
+{
+  "OTAD": {
+    "TextTranslator": {
+      "LoadFailed": "Kan vertaalinstellingen niet laden. Open dit blad opnieuw om het opnieuw te proberen.",
+      "SaveFailed": "Kan vertaalinstellingen niet opslaan. Probeer het opnieuw.",
+      "Providers": {
+        "LeaveEmptyToKeepSubscriptionKey": "Er is een sleutel opgeslagen. Laat leeg om deze te behouden."
+      }
+    }
+  },
+  "OmniaWorkplace": {
+    "Search": {
+      "Admin": {
+        "AlwaysOpenInNewTab": "Altijd openen in een nieuw tabblad",
+        "OpenResultsIn": "Resultaten openen in",
+        "OpenInCurrentTab": "Huidig tabblad",
+        "OpenInNewTab": "Nieuw tabblad",
+        "RespectSharedLinkSetting": "Respecteer instelling voor gedeelde link"
+      },
+      "PromotedSearchResults": {
+        "OpenInNewTab": "Openen in nieuw tabblad"
+      }
+    }
+  }
+}
