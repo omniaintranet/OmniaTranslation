@@ -1,0 +1,17 @@
+{
+  "ODM": {
+    "Admin": {
+      "PdfFormat": "PDF-muoto",
+      "PdfFormatHint": "Soveltuu Word (.docx), Excel (.xlsx) ja PowerPoint (.pptx) -asiakirjoihin. Muut tiedostotyypit muunnetaan tavallisiksi PDF-tiedostoiksi Microsoft 365:n toimesta."
+    },
+    "Core": {
+      "Features": {
+        "InternalPdfConverter": {
+          "Category": "Lisäosat",
+          "Description": "Muuntaa Word (.docx), Excel (.xlsx) ja PowerPoint (.pptx) -asiakirjat PDF-muotoon muunnospalvelulla, joka toimii Omnia-ympäristössäsi. Muut tiedostotyypit muunnetaan edelleen Microsoft 365:n toimesta.",
+          "Title": "Käytä sisäistä PDF-muunninta"
+        }
+      }
+    }
+  }
+}
