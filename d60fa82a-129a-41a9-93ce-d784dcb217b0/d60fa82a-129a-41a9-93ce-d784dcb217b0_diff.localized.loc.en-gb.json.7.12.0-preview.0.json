@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Select the Exchange shared mailbox whose calendar receives the events. Type to filter by name or email address."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "This page no longer exists in the selected variation. The link will open the default page instead."
+    }
+  }
+}
