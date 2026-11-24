@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Wählen Sie die Exchange-Shared-Mailbox aus, deren Kalender die Ereignisse empfängt. Tippen Sie, um nach Name oder E-Mail-Adresse zu filtern."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Diese Seite existiert in der ausgewählten Variation nicht mehr. Der Link öffnet stattdessen die Standardseite."
+    }
+  }
+}
