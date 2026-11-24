@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "De gebruiker ({username}) waarmee u probeert in te loggen, wordt niet ondersteund door de geconfigureerde aanmeldingsmodus (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}
