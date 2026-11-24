@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "L’utilisateur ({username}) avec lequel vous essayez de vous connecter n’est pas pris en charge par le mode de connexion configuré (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}
