@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "Brugeren ({username}), som du forsøger at logge ind med, understøttes ikke af den konfigurerede log ind-tilstand (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}
