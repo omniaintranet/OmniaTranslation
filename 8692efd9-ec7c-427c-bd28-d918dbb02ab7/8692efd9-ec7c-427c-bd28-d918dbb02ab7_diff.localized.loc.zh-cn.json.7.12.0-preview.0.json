@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "您尝试使用的用户（{username}）不被配置的登录模式（Microsoft 365）支持。"
+            }
+          }
+        }
+      }
+    }
+  }
+}
