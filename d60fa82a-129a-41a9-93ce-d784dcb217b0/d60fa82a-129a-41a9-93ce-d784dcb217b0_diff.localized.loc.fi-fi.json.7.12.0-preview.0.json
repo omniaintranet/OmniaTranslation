@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Valitse Exchange-yhteinen postilaatikko, jonka kalenteri vastaanottaa tapahtumat. Kirjoita suodattaaksesi nimen tai sähköpostiosoitteen mukaan."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Tätä sivua ei enää ole valitussa variaatiossa. Linkki avaa sen sijaan oletussivun."
+    }
+  }
+}
