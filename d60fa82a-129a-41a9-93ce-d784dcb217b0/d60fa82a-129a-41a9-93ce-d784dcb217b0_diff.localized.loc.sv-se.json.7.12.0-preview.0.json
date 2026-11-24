@@ -3,7 +3,7 @@
     "EM": {
       "AdminSettings": {
         "AppInstances": {
-          "SharedMailboxHint": "Välj den Exchange delade brevlådan vars kalender tar emot händelserna. Skriv för att filtrera efter namn eller e-postadress."
+          "SharedMailboxHint": "Välj den delade brevlådan i Exchange vars kalender tar emot händelserna. Filtrera efter namn eller e-postadress."
         }
       }
     }
