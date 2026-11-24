@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "选择接收事件的 Exchange 共享邮箱日历。输入以按名称或电子邮件地址筛选。"
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "所选变体中此页面不再存在。链接将打开默认页面。"
+    }
+  }
+}

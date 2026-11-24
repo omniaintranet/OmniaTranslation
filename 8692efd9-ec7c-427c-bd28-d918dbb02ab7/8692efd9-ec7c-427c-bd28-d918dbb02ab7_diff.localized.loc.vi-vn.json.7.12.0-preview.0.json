@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "Người dùng ({username}) bạn đang cố gắng đăng nhập không được hỗ trợ bởi chế độ đăng nhập đã cấu hình (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}

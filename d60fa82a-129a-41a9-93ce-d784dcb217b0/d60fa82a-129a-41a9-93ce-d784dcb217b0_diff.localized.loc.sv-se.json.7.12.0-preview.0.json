@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Välj den delade brevlådan i Exchange vars kalender tar emot händelserna. Filtrera efter namn eller e-postadress."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Den här sidan finns inte längre i den valda variationen. Länken öppnar istället standardsidan."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Omnia": {
+    "Feed": {
+      "App": {
+        "SignInScreen": {
+          "Omnia": {
+            "ErrorDialog": {
+              "UserTypeNotSupportedMessage": "El usuario ({username}) con el que intentas iniciar sesión no es compatible con el modo de inicio de sesión configurado (Microsoft 365)."
+            }
+          }
+        }
+      }
+    }
+  }
+}

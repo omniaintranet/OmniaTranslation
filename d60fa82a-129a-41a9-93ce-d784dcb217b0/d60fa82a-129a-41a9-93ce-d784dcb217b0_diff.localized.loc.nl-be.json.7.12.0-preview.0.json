@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Kies de Exchange gedeelde mailbox waarvan de agenda de evenementen ontvangt. Typ om te filteren op naam of e-mailadres."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Deze pagina bestaat niet langer in de geselecteerde variant. De link opent in plaats daarvan de standaardpagina."
+    }
+  }
+}

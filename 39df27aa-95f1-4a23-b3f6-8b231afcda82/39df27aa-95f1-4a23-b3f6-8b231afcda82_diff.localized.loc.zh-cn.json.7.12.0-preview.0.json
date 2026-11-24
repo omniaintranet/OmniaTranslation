@@ -1,0 +1,11 @@
+{
+  "OTAD": {
+    "AIEngineSettings": {
+      "GeneralSetting": {
+        "SemanticSearchFullReindex": {
+          "StatusCompletedWithFailures": "已完成，存在失败"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Chọn hộp thư chung Exchange mà lịch của nó nhận các sự kiện. Gõ để lọc theo tên hoặc địa chỉ Email."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Trang này không còn tồn tại trong biến thể đã chọn. Liên kết sẽ mở trang mặc định thay thế."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Velg Exchange-delt postboks hvis kalender mottar hendelsene. Skriv for å filtrere etter navn eller e-postadresse."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Denne siden finnes ikke lenger i den valgte variasjonen. Lenken åpner standard siden i stedet."
+    }
+  }
+}
