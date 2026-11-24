@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Choisissez la boîte aux lettres partagée Exchange dont le calendrier reçoit les événements. Tapez pour filtrer par nom ou adresse courriel."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Cette page n'existe plus dans la variation sélectionnée. Le lien ouvre plutôt la page par défaut."
+    }
+  }
+}
