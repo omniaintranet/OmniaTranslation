@@ -1,0 +1,16 @@
+{
+  "OMX": {
+    "EM": {
+      "AdminSettings": {
+        "AppInstances": {
+          "SharedMailboxHint": "Elija el buzón compartido de Exchange cuyo calendario recibe los eventos. Escriba para filtrar por nombre o dirección de correo electrónico."
+        }
+      }
+    }
+  },
+  "OWCM": {
+    "PagePicker": {
+      "VariationPageNotFound": "Esta página ya no existe en la variación seleccionada. El enlace abre la página predeterminada en su lugar."
+    }
+  }
+}
